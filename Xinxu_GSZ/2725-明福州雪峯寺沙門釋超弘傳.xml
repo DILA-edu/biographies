@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="雜識">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>明福州雪峯寺沙門釋超弘傳 (From CBETA edition of 新續高僧傳 卷 062）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>明福州雪峯寺沙門釋超弘傳</head>
+                </head>
+                <p xml:id="pB27p0454a1801">釋超弘字如幻姓劉氏惠安人也父佑官潮州府學教授家世
+<lb ed="B" n="0454a19"/>儒素生而聰邁髫齒能文手不竚慮十九為諸生屢試冠其曹
+<lb ed="B" n="0454a20"/>受知賞於黃相國石齋才學重於時年二十七嬰劇疾知四大
+<pb ed="B" xml:id="B27.0151.0454b" n="0454b"/>
+<lb ed="B" n="0454b01"/>匪堅生死事大偶讀維摩詰經益信有宗門向上詣遂有絕塵
+<lb ed="B" n="0454b02"/>之思喜從方外遊值雪峯亘往還黃檗道出惠安邂逅瞻拜便
+<lb ed="B" n="0454b03"/>蒙激發於是矢志皈<g ref="#CB21232">󵋰</g>尚<g ref="#CB00651">󰊋</g>俗緣荏苒歲月世情愈澹明季喪
+<lb ed="B" n="0454b04"/>亂清兵入關天下改革頒令薙髮弘乃慨然辭父母捨妻子就
+<lb ed="B" n="0454b05"/>平山寺從徹際脫白然戎馬滿郊所在糜沸久之途徑稍通乃
+<lb ed="B" n="0454b06"/>卷裓趨漳依亘師於南山寺止於侍寮痛下鉗鎚多有省悟亘
+<lb ed="B" n="0454b07"/>所居泉之招慶延福會城之芙蓉雪峯弘皆執侍左右殷勤十
+<lb ed="B" n="0454b08"/>載拈頌機答無爽玄旨一日亘問簷前雨聲點點滴向何處眾
+<lb ed="B" n="0454b09"/>所酬對俱未契弘曰否則落在師鼻孔裏亘首肎之丁酉歲隨
+<lb ed="B" n="0454b10"/>之慶城竟授以衣拂戊<anchor xml:id="beg_203" type="cb-app"/>戌<anchor xml:id="end_203"/>春歸溫陵不常厥居盤桓山水間笠
+<lb ed="B" n="0454b11"/>杖蕭然久之出主靈應寺無香儲恒苦不給因自持缽以資饘
+<lb ed="B" n="0454b12"/>粥乙<anchor xml:id="beg_204" type="cb-app"/>巳<anchor xml:id="end_204"/>霞舒蘇家諸檀樾延居楊梅山雪峯院亦真覺禪師舊
+<lb ed="B" n="0454b13"/>剎也與衲子數輩刀耕火種暇則為說大義道望蔚然距雪峯
+<lb ed="B" n="0454b14"/>二里許有慧泉古基壬子蘇君爾源剏建精藍迎弘居之從此
+<lb ed="B" n="0454b15"/>逍遙兩寺與名流達者詩偈書疏往來酬答十有四載戊午春
+<lb ed="B" n="0454b16"/>年已七十四矣知期將至謂其徒曰曉露春霜光陰無幾可預
+<lb ed="B" n="0454b17"/>建一卵塔身後毋為爾累即啟土督役復自撰銘中夏工就每
+<lb ed="B" n="0454b18"/>言中示意不久於世至十月初始有疾眾進藥食則卻之曰世
+<lb ed="B" n="0454b19"/>緣已盡食無益也客至則執留之曰相見無多日吾當與子訣
+<lb ed="B" n="0454b20"/>笑言不衰二十日沐浴更衣吉祥而逝壽七十四夏三十二著
+<pb ed="B" xml:id="B27.0151.0455a" n="0455a"/>
+<lb ed="B" n="0455a01"/>述甚富今所傳者瘦松集八卷及語錄二卷</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

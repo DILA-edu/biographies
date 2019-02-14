@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="明律">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>清宿遷壽聖寺沙門釋福住傳 (From CBETA edition of 新續高僧傳 卷 031）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>清宿遷壽聖寺沙門釋福住傳</head>
+                </head>
+                <p xml:id="pB27p0253a1401">釋福住字靈峰姓盧氏世居嶧陽其父始徙於宿遷遂為宿人
+<lb ed="B" n="0253a15"/>生有靈兆幼而穎異靜幽成性寡於言笑然體嬴質弱病纏彌
+<lb ed="B" n="0253a16"/>載其父禱於佛而疾少瘳七歲遂依護國庵瑞貞受染稍長誦
+<lb ed="B" n="0253a17"/>經習禮殷勤不懈炬步度式過於老宿年近不惑欲得名師指
+<lb ed="B" n="0253a18"/>其覺路環視區宇殊難其選深居獨處幾四十年雍正甲寅春
+<lb ed="B" n="0253a19"/>憲廟詔文海入都改建法源寺勅開戒壇受法者千九百人住
+<lb ed="B" n="0253a20"/>始與焉既卒事訪萬壽寺調梅西方寺不二俱相深契期以遠
+<pb ed="B" xml:id="B27.0151.0253b" n="0253b"/>
+<lb ed="B" n="0253b01"/>大因留京邑荏苒四載嘗值秋初登玉泉山俯臨湖水濴洄曲
+<lb ed="B" n="0253b02"/>抱幾十數里其中蒲荷菱芰與沙禽水鳥隱映於煙靄樓閣間
+<lb ed="B" n="0253b03"/>覺胸襟壅積豁然開朗因念江浙名勝盡為禪藪當更有異乾
+<lb ed="B" n="0253b04"/>隆戊午暮春南還自淮之廣陵謁福緣寺濟生連牀話舊夜鐙
+<lb ed="B" n="0253b05"/>忘疲復渡江抵金山大曉老人為江天寺主一見如故相留彌
+<lb ed="B" n="0253b06"/>月偶於山樓靜坐更深月落天氣昏黑忽見江心火光星散照
+<lb ed="B" n="0253b07"/>曜林木棲鳥皆驚曉曰此木華海賦所謂陰火潛然者住聞之
+<lb ed="B" n="0253b08"/>爽然自失別有所悟又數日辤去由昆陵泛舟平渚訪生公說
+<lb ed="B" n="0253b09"/>法臺於虎邱下然後次餘杭過六橋出西湖尋濟顛舊蹟凡石
+<lb ed="B" n="0253b10"/>甑虎林栖霞飛來峰諸勝靡不窮探幽索證所聞知獨至鳥窠
+<lb ed="B" n="0253b11"/>立法之處惟存古木扶疎頹垣破院悵望久之乃歷東陽而南
+<lb ed="B" n="0253b12"/>越蒿壩渡關嶺涉楢溪步石梁得寒山拾得隱居巖穴與智者
+<lb ed="B" n="0253b13"/>大師拜經臺故阯遂悠然神往折方竹為杖陟天台最高頂以
+<lb ed="B" n="0253b14"/>望赤城蒼洞天姥諸峯蓋徘徊不能去云侍者曰自此入天童
+<lb ed="B" n="0253b15"/>阿育王寺有古舍利在焉迺復攀崖捫蘿趨拜其下見白光昱
+<lb ed="B" n="0253b16"/>然顯於塔中厥後禮普陀見海霧明滅列嶂聳秀高出雲表陰
+<lb ed="B" n="0253b17"/>晴變幻其狀不一山下波濤洶湧雷砰電激海岸孤絕信非慈
+<lb ed="B" n="0253b18"/>航不能飛渡庚申秋返宿居極樂庵檢閱龍藏兩易寒暑時慧
+<lb ed="B" n="0253b19"/>朗尊宿方修壽聖古剎延住主席更擴二樓翬其式廓至戊寅
+<lb ed="B" n="0253b20"/>年七十有一傳席其徒雲浦退處東林石門深處板橋隱隱禪
+<pb ed="B" xml:id="B27.0151.0254a" n="0254a"/>
+<lb ed="B" n="0254a01"/>房花木時有清香戶外松陰池邊竹韻雨霽煙消蒼翠欲滴怡
+<lb ed="B" n="0254a02"/>然自適忽焉一紀惟掃地焚香終日兀坐神光圓湛迴出塵世
+<lb ed="B" n="0254a03"/>庚寅春示疾二月六日淹然而化壽八十有三臘三十有七塔
+<lb ed="B" n="0254a04"/>於五華山頂</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="興福">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>清黃檗山寺沙門釋性願傳超炯 (From CBETA edition of 新續高僧傳 卷 056）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>清黃檗山寺沙門釋性願傳<note place="inline">超炯</note>
+                    </head>
+                </head>
+                <p xml:id="pB27p0413a1601">釋性願字虛白姓林氏江陰人少而穎異記誦不忘與羣兒遊
+<lb ed="B" n="0413a17"/>未嘗嬉戲年十五隨父過城山訪無生大德欣慕禪林懇求二
+<lb ed="B" n="0413a18"/>親允從出家聞天童密雲開法黃檗多以棒喝接人心甚疑之
+<lb ed="B" n="0413a19"/>有超宗自檇李還與人言舉臨濟參黃檗三棒因緣性聞之躍
+<lb ed="B" n="0413a20"/>然始知知識用處迥出常情因勵志參究嘗詣獅巖叩隱元見
+<pb ed="B" xml:id="B27.0151.0413b" n="0413b"/>
+<lb ed="B" n="0413b01"/>而契之及應黃檗攜之入山遂登戒具又往參金粟費問蚯蚓
+<lb ed="B" n="0413b02"/>斬作兩段佛性在那一頭性請開示即驀然一棒直得迷悶盈
+<lb ed="B" n="0413b03"/>臆寢食不寧欲徹此懷因看百丈政禪師語錄老宿見日影透
+<lb ed="B" n="0413b04"/>窗問<g ref="#CB12594">䛡</g>因緣忽有省乃頌曰窗就日兮日就窗現成一物露堂
+<lb ed="B" n="0413b05"/>堂房中有客好歸去莫向渠儂問短長呈似西堂玄密密曰何
+<lb ed="B" n="0413b06"/>物露堂堂性舉拳示之曰見麼密擊一棒云且道是賞是罰性
+<lb ed="B" n="0413b07"/>喝密亦喝遂作禮而退俄隨密回閩住芙蓉密寂復還檗山後
+<lb ed="B" n="0413b08"/>住長樂德成巖忽憶古人云差別未明住山無益重詣黃檗更
+<lb ed="B" n="0413b09"/>進侍寮潛鞭密練益臻玄奧及隱元乘桴浮海倡道扶桑性乃
+<lb ed="B" n="0413b10"/>潛處松溪白雲庵隱元遣使航海萬里付與法衣以表信尋有
+<lb ed="B" n="0413b11"/>江西之行路出寧化緇素懇留重興東山古剎寺前長橋久頹
+<lb ed="B" n="0413b12"/>行者病涉乃募千金先為築造鼎建寺宇規制弘麗遂為甲觀
+<lb ed="B" n="0413b13"/>落成未幾黃檗耆宿以玉融檀信敦請繼席性至重法剔蠹揀
+<lb ed="B" n="0413b14"/>魔辨異登堂演說如香象渡河徑截逆流鵝王擇乳不事亂唼
+<lb ed="B" n="0413b15"/>以故諸方翹仰龍象駢趨有浙僧冒稱福嚴法系持數十金入
+<lb ed="B" n="0413b16"/>山掃塔性驗其非是而卻之有楚僧頻以怪異惑眾領宰官善
+<lb ed="B" n="0413b17"/>信至寺設宴性疾其邪斥之而逃時或以為執抝後兩僧皆敗
+<lb ed="B" n="0413b18"/>露人始服其卓識居山十載怡養恬靜氣韵孤特而誘進初機
+<lb ed="B" n="0413b19"/>唯恐不及挫敗類之偷心指學人於實地皆從自證中發用真
+<lb ed="B" n="0413b20"/>切生平法利所獲悉付司庫及將遷化囊缽空懸以康熙十二
+<pb ed="B" xml:id="B27.0151.0414a" n="0414a"/>
+<lb ed="B" n="0414a01"/>年癸丑六月十四日示寂得年五十有八坐夏四十三塔於黃
+<lb ed="B" n="0414a02"/>檗寶峰山又超炯字參唯亦得法於雪峰亘後居漳之天柱建
+<lb ed="B" n="0414a03"/>之武夷晚隱泉州安溪之妙峰復結茆紫溪山中竟終於此炯
+<lb ed="B" n="0414a04"/>賦性孤硬律身苦嚴耿介卞急見稗販闒葺汙衊法門必痛加
+<lb ed="B" n="0414a05"/>訶斥緇素之倫敬而禪之凡所挂錫則檀信向慕為築精舍意
+<lb ed="B" n="0414a06"/>有不可飄然長往不繫情去留性喜施與不蓄長物貞風峻節
+<lb ed="B" n="0414a07"/>砥礪末流及將滅度忽至清谿與所知好李太史在明<g ref="#CB12594">䛡</g>別殷
+<lb ed="B" n="0414a08"/>殷但言遣遊莫喻其旨歸而取生平著作文字悉燔棄之洎然
+<lb ed="B" n="0414a09"/>而逝闍維頂骨不壞時康熙乙<anchor xml:id="beg_1cc" type="cb-app"/>巳<anchor xml:id="end_1cc"/>五月二十二日釋超弘如幻
+<lb ed="B" n="0414a10"/>並銘其塔</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

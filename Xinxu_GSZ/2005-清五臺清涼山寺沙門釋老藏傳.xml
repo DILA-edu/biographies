@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="譯經">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>清五臺清涼山寺沙門釋老藏傳 (From CBETA edition of 新續高僧傳 卷 002）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>清五臺清涼山寺沙門釋老藏傳</head>
+                </head>
+                <p xml:id="pB27p0039a0901">釋老藏者即阿王老藏燕京西山之喇嘛也姓賈氏生甫十齡
+<lb ed="B" n="0039a10"/>父母送之崇國寺為沙彌年十八始受具稟性超穎度越眾流
+<lb ed="B" n="0039a11"/>已習韋陀兼究瑜伽慧根自覺真空獨證於番漢經書一目俱
+<lb ed="B" n="0039a12"/>了復歷講肆徧聆奧機至於三密護身壇儀悉練五部印契宣
+<lb ed="B" n="0039a13"/>導咸推會大清定鼎順治初元應詔入都藏與同壇五人攝齋
+<lb ed="B" n="0039a14"/>受戒有一上土忽諦視曰此中有一五臺主人眾皆惘然莫測
+<lb ed="B" n="0039a15"/>所謂及順治<anchor xml:id="beg_d" type="cb-app"/>己<anchor xml:id="end_d"/>亥藏果以兼通番漢膺選乘傳上主五臺總理
+<lb ed="B" n="0039a16"/>番漢經典舊時所譯多所訂正術士之言始為有徵自蒞眾茲
+<lb ed="B" n="0039a17"/>山乳竇重流荊條復茂損食減衣以施貧乏禪堂駢集覺路弘
+<lb ed="B" n="0039a18"/>開補綴殘典不憚勤勞生平不設衣缽一錫飄然無所繫念空
+<lb ed="B" n="0039a19"/>諸所有即為正觀平等應緣解除一切乘五衍之軾開八正之
+<lb ed="B" n="0039a20"/>門拯溺逝川大庇交喪內翰繆彤中行李嘉猷道過臺頂一見
+<pb ed="B" xml:id="B27.0151.0039b" n="0039b"/>
+<lb ed="B" n="0039b01"/>皈<g ref="#CB33451">󸊫</g>玉帶山門雲天瓶水遠吟深契信非偶然厥後比歲赴覲
+<lb ed="B" n="0039b02"/>闕廷欽承天問玅謕微幾既協皇情而譯事鉤稽尤邀特眷是
+<lb ed="B" n="0039b03"/>以殊禮異數寵賚滋多康熙辛亥年已七十矣退居頤養日以
+<lb ed="B" n="0039b04"/>禪誦課心長坐不臥遍繙大藏專業華嚴以千部為期嘗以歲
+<lb ed="B" n="0039b05"/>旱露跣禱祈甘雨應時而降萬眾交忭癸亥秋聖祖幸臨臺山
+<lb ed="B" n="0039b06"/>御書題賜號為清涼老人宸藻流輝焜燿千古住山二十八稔
+<lb ed="B" n="0039b07"/>法雲遠蔭火宅晨涼慧日載升重昏夜曉宗風方鬯祖庭用光
+<lb ed="B" n="0039b08"/>以康熙丁卯三月九日示寂先期集眾告以大限十日將從西
+<lb ed="B" n="0039b09"/>去勉哉修持勿令墜失日至索浴號佛不絕端坐而化春秋八
+<lb ed="B" n="0039b10"/>十有七僧臘六十有九聖祖聞之賜金營葬發龕荼毗塔於鳳
+<lb ed="B" n="0039b11"/>林谷設食供眾至者四千餘人悲聲棲響感動林壑戶部左侍
+<lb ed="B" n="0039b12"/>郎蔣弘道為撰碑銘勒石山阿</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="義解">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>明杭州上天竺講寺沙門釋弘道傳 (From CBETA edition of 新續高僧傳 卷 005）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>明杭州上天竺講寺沙門釋弘道傳</head>
+                </head>
+                <p xml:id="pB27p0065a0101">釋弘道字竺隱姓沈氏吳江澄源里人也幼而失恃鞠於嫂氏
+<lb ed="B" n="0065a02"/>十年就外傅日誦數千言見人誦法華經歷耳成誦年十三父
+<lb ed="B" n="0065a03"/>命禮密印寺雲屋慈為師弱冠薙髮進受具戒自此為學孜孜
+<lb ed="B" n="0065a04"/>靡懈往見元叟端復歸密印時庭生五竹因以名軒將藏脩焉
+<lb ed="B" n="0065a05"/>聞魯山文公講授有規矩乃從學台宗疏鈔諸書罔不通貫會
+<lb ed="B" n="0065a06"/>我庵遷主上竺詣之我庵深言獎勵且曰為我掌記未期月入
+<lb ed="B" n="0065a07"/>室請益曰前承指教嘗於淨夜試以平日所聞返照<anchor xml:id="beg_1b" type="cb-app"/>己<anchor xml:id="end_1b"/>心圓具
+<lb ed="B" n="0065a08"/>法界念念即空即假即中千界如一事理無礙若明日以此心
+<lb ed="B" n="0065a09"/>對一切境接一切佛未免掉散昏沈不能任運泯合不知過在
+<lb ed="B" n="0065a10"/>何處我庵厲聲叱曰未在去弘道汗流浹背頓覺平日所聞所
+<lb ed="B" n="0065a11"/>行一切疑礙冰消遂禮拜我庵復謂之曰子善護持他日教緒
+<lb ed="B" n="0065a12"/>灰寒火冷之際以此對揚明廷重光末運可也明洪武初我庵
+<lb ed="B" n="0065a13"/>既寂去從絕宗繼未幾秀之天巖耀退寂廣福請弘道自代遂
+<lb ed="B" n="0065a14"/>拈香嗣我庵湖郡守請主慈感無何退於澄源溪上六時禮大
+<lb ed="B" n="0065a15"/>悲像期生淨土為終焉之計三年詔天下高行僧道問鬼神事
+<lb ed="B" n="0065a16"/>弘道建議唯允杭之靈山兵後廢敗眾請弘道主之乃偕其徒
+<lb ed="B" n="0065a17"/>淨珠畚瓦礫刜荊榛重造光明懺堂自元季之亂期懺行法絕
+<lb ed="B" n="0065a18"/>聞於時至是行之弘道之力也初居五竹軒時夢與大明照師
+<lb ed="B" n="0065a19"/>同遊靈竺賦詩有出紅塵戶外德業至今存之句照嘗住此山
+<lb ed="B" n="0065a20"/>始悟所夢為有靈應十年大祖有旨箋註楞伽諸經弘道與全
+<pb ed="B" xml:id="B27.0151.0065b" n="0065b"/>
+<lb ed="B" n="0065b01"/>室具庵同註三經頒行天下御製竺隱說賜之十五年遷住上
+<lb ed="B" n="0065b02"/>天竺兼領杭郡都綱尋轉僧錄司左善世二十四年以老告間
+<lb ed="B" n="0065b03"/>許之時年七十七矣退處長干脩一行三昧明年秋八月夢觀
+<lb ed="B" n="0065b04"/>仁公請為學者講妙宗至三輩往生觀文忽示微病顧其徒正
+<lb ed="B" n="0065b05"/>謨等曰昔我祖法智嘗為心境叵得故染可觀淨不礙緣生想
+<lb ed="B" n="0065b06"/>成相起惟色惟心故當處顯現吾所修念佛三昧以此為準則
+<lb ed="B" n="0065b07"/>今夕世緣當謝泊然而逝洪武二十五年九月三十日也世壽
+<lb ed="B" n="0065b08"/>七十有八僧臘五十有九火餘藏舍利于天竺雙檜峯之麓曰
+<lb ed="B" n="0065b09"/>雲隱塔少師姚廣孝為撰碑銘弘道四坐道場所至莫不興修
+<lb ed="B" n="0065b10"/>唯靈竺懺堂其功最鉅為都綱僧錄三宗諸山有所依怙焉</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

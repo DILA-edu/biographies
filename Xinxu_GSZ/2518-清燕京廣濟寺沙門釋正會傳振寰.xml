@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="淨讀">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>清燕京廣濟寺沙門釋正會傳振寰 (From CBETA edition of 新續高僧傳 卷 045）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>清燕京廣濟寺沙門釋正會傳<note place="inline">振寰</note>
+                    </head>
+                </head>
+                <p xml:id="pB27p0339b0601">釋正會字道光姓劉氏永寧人母李氏慈心愛物勤苦自持會
+<lb ed="B" n="0339b07"/>生而性質剛直樸實持重志趣高超有不可一世之意年十二
+<lb ed="B" n="0339b08"/>便爾離塵為安國寺果從所撫及長披度從能隱法師聽講楞
+<lb ed="B" n="0339b09"/>嚴經聽未竟忽焉開敏識力慧心自異羣侶清順治七年玉光
+<lb ed="B" n="0339b10"/>老人說戒廣濟會拜受焉爾時緇眾雲集日給浩繁會因辤去
+<lb ed="B" n="0339b11"/>歸至汾上見田廬榛莽耆舊凋零斷井頹垣離離禾黍低個久
+<lb ed="B" n="0339b12"/>之蓋兵燹之餘流冠蠭聚燕趙衛晉殘破尤甚乃思南遊從事
+<lb ed="B" n="0339b13"/>參究於是泛長江浮震澤往來金陵鐵甕間徘徊於玉峯鑑湖
+<lb ed="B" n="0339b14"/>之上登高四望滿目烽煙憑弔欷歔悵然自失由是復折而北
+<lb ed="B" n="0339b15"/>歷齊宋魯魏遂造五臺時順治十八年也其在臺山退然自處
+<lb ed="B" n="0339b16"/>不異於人人亦尠知者嘗獨尋幽勝自為禪悅時逢暮春磵豁
+<lb ed="B" n="0339b17"/>草綠徐步梵園荒蔓四圍路徑皆沒方舉袖拂草藉茵為坐忽
+<lb ed="B" n="0339b18"/>見空中金光數丈瑞雲晻映間若文殊寶相半隱半露頃之屹
+<lb ed="B" n="0339b19"/>然前立會驚愕下拜俄而一片紫霞從東飛來與之西去金光
+<lb ed="B" n="0339b20"/>遂滅因以白眾眾多疑之然會生平無戲言知不誣也既感瑞
+<pb ed="B" xml:id="B27.0151.0340a" n="0340a"/>
+<lb ed="B" n="0340a01"/>應益自憤發行般舟三昧百日持誦精進勇猛無前回向西方
+<lb ed="B" n="0340a02"/>直欲與佛齊肩康熙元年復入廣濟為西堂首座十年說戒信
+<lb ed="B" n="0340a03"/>安又應宗師府萬壽戒壇兩期無少暇十五年雲光遊盤山不
+<lb ed="B" n="0340a04"/>返廣濟虛席幾一載監院乃迎會入主方丈以振寰為闍黎振
+<lb ed="B" n="0340a05"/>寰者燕臺華胃恬澹性成而虔於禮誦嫻於詞令辛酉歲聖祖
+<lb ed="B" n="0340a06"/>幸臨迎至藏經閣下便問何處法臘幾何會但對曰晉人年七
+<lb ed="B" n="0340a07"/>十聖祖熟視之曰殊健在及入丈室顧問般若經卷數會未及
+<lb ed="B" n="0340a08"/>應闍黎代對之甚悉蓋聖祖萬機餘暇頗究心內典知此經本
+<lb ed="B" n="0340a09"/>八百卷乃試問之闍黎初對以六百卷及再詰問乃曰二百卷
+<lb ed="B" n="0340a10"/>實相般若亦在此中由是嘉歎知為積學</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

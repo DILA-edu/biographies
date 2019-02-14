@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0881a05shiYouXuan"><lb
+ed="T" n="0881a05"/><anchor n="T.50.2061.0881a05"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000060168">洪州寶曆寺</placeName><persName key="A013740">幽玄</persName>傳</head><p><lb
+ed="T" n="0881a06"/><persName key="A013740">釋幽玄</persName>，俗姓<name>劉</name>，<placeName key="PL000000000368">幽州</placeName>人也。夙懷出俗之願，<lb
+ed="T" n="0881a07"/>年及弱冠，方遂前心，投<placeName key="PL000000003794">并州</placeName><persName key="A010282">賢<roleName>禪師</roleName></persName>而了<lb
+ed="T" n="0881a08"/>玄契。<date from-iso="+0807-02-15" key="j20158562016209" to-iso="+0808-02-03"><name>元和</name>二年</date>，振錫<placeName key="PL000000000197">江左</placeName>，至<placeName key="PL000000013234"><placeName>會稽</placeName><placeName>大雲寺</placeName></placeName>，<lb
+ed="T" n="0881a09"/>見三學僧柅<ptr type="glossary" target="#g1612"/>定食輪<ptr type="glossary" target="#g2191"/>，資緣<ptr type="glossary" target="#g2192"/>都闕。<persName key="A013740">玄</persName>言發響應，<lb
+ed="T" n="0881a10"/>檀越供贍<ptr type="glossary" target="#g2193"/>。未幾，移居湖心<placeName key="PL000000013294"><placeName>龜山</placeName><placeName>妙喜古寺</placeName></placeName>。<date from-iso="+0814-01-29" key="j20183962018779" to-iso="+0815-02-16">九<lb
+ed="T" n="0881a11"/>年</date>，屬<placeName key="PL000000022160">平昌</placeName><persName key="A009184">孟簡</persName>鎮于<placeName key="PL000000013239">越</placeName><ptr target="#n3375"/>，枉駕<ptr type="glossary" target="#g2194"/>問道，遂構成<lb
+ed="T" n="0881a12"/>大院。<date from-iso="+0817-01-25" key="j20194882019871" to-iso="+0818-02-12">十二載</date>，復登<placeName key="PL000000028928">南嶽</placeName>，栖止絕頂。<date from-iso="+0818-02-13" key="j20198722020226" to-iso="+0819-02-02">十三年</date>，<lb
+ed="T" n="0881a13"/><placeName key="PL000000018628">豫章</placeName>太守<persName key="A013741">商祐</persName>篤重其道，命住<placeName key="PL000000060168">東明寺</placeName>，即<date from-iso="+0396-11-08" key="j18660081874124" to-iso="+0419-01-28"><name>東<lb
+ed="T" n="0881a14"/>晉</name><persName key="A002828">安帝</persName>世</date>之所造，僧數繁湊。<date key="j20224182023191" notAfter-iso="+0827-03-17" notBefore-iso="+0825-02-02"><name>寶曆</name>中</date>，為奏改<lb
+ed="T" n="0881a15"/>為<placeName key="PL000000060168">世福</placeName>，兼置戒壇，續勅改為度僧寺<ptr target="#n3376"/>。其間<lb
+ed="T" n="0881a16"/>形像，皆<persName key="A013740">玄</persName>之化導。<date from-iso="+0827-03-18" key="j20231922023504" to-iso="+0828-01-24"><name>大和</name>元年</date>，<persName key="A013742"><anchor xml:id="beg0881sgsz1"/>沈傅<anchor xml:id="end0881sgsz1"/></persName>中丞<ptr target="#n2043"/>又加<lb
+ed="T" n="0881a17"/>信向。<persName key="A013740">玄</persName>於院南別造佛閣五層，功就，謂弟<lb
+ed="T" n="0881a18"/>子曰：「福事無盡，生涯有期；物有闕然，後人<lb
+ed="T" n="0881a19"/>庀具<ptr type="glossary" target="#g2195"/>。<ref type="person" target="#A013740">吾</ref>終後，可將屍漆布安閣下。」言訖而<lb
+ed="T" n="0881a20"/>化，門人特旁立塔焉。</p>
+    <linkGrp>
+        <link targets="#0881a06 #0881a06"/>
+        <ptr target="#A013740" type="person"/>
+        <ptr target="#PL000000000368" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0881a07 #0881a08"/>
+        <ptr target="#A013740" type="person"/>
+        <ptr target="#A010282" type="person"/>
+        <ptr target="#PL000000003794" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0881a08 #0881a10"/>
+        <ptr target="#A013740" type="person"/>
+        <ptr target="#PL000000013234" type="place"/>
+        <ptr target="#j20158562016209" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0881a10 #0881a10"/>
+        <ptr target="#A013740" type="person"/>
+        <ptr target="#PL000000013294" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0881a10 #0881a12"/>
+        <ptr target="#A013740" type="person"/>
+        <ptr target="#A009184" type="person"/>
+        <ptr target="#PL000000013239" type="place"/>
+        <ptr target="#j20183962018779" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0881a12 #0881a12"/>
+        <ptr target="#A013740" type="person"/>
+        <ptr target="#PL000000028928" type="place"/>
+        <ptr target="#j20194882019871" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0881a12 #0881a13"/>
+        <ptr target="#A013740" type="person"/>
+        <ptr target="#PL000000060168" type="place"/>
+        <ptr target="#j20198722020226" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0881a13 #0881a13"/>
+        <ptr target="#A013740" type="person"/>
+        <ptr target="#A013741" type="person"/>
+        <ptr target="#j20198722020226" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0881a13 #0881a13"/>
+        <ptr target="#A013741" type="person"/>
+        <ptr target="#PL000000018628" type="place"/>
+        <ptr target="#j20198722020226" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0881a16 #0881a17"/>
+        <ptr target="#A013740" type="person"/>
+        <ptr target="#A013742" type="person"/>
+        <ptr target="#j20231922023504" type="time"/>
+    </linkGrp>
+</div>

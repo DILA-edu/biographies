@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="靈感">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>明襄陽承恩禪寺沙門釋覺成傳 (From CBETA edition of 新續高僧傳 卷 037）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>明襄陽承恩禪寺沙門釋覺成傳</head>
+                </head>
+                <p xml:id="pB27p0286a0501">釋覺成襄陽僧也少懷幽隱決志棄俗超然高蹈寄跡桑門泛
+<lb ed="B" n="0286a06"/>讀經論玅解天成發語驚人若有神悟每執事辨理刊斷禍福
+<lb ed="B" n="0286a07"/>矚於機先事後按之莫不符驗然獨處茅茨蕭條物外不輕許
+<lb ed="B" n="0286a08"/>諾湘藩仰其風徽更番迎迓底於荊郡又復偕至京師覺成請
+<lb ed="B" n="0286a09"/>別止上方山敷坐講說平易可親雖玄機密運晦匿自深而弘
+<lb ed="B" n="0286a10"/>旨提挈宣譚曲盡由是海內聞風四部雲集萬指堵環已而言
+<lb ed="B" n="0286a11"/>返舊里興復承恩寺更於別墅自造壽塔中有藏石不令人知
+<lb ed="B" n="0286a12"/>後無疾化去門人即就其塔瘞焉後三十年襄王薨卜壤於此
+<lb ed="B" n="0286a13"/>欲毀其塔為兆域舉鍤發土掘起一碑視其文曰地本襄王地
+<lb ed="B" n="0286a14"/>住我三十年襄王來葬此移吾向東邊觀者驚異歎為神僧於
+<lb ed="B" n="0286a15"/>是依遷靈骨奠址東方更造新塔規制嚴廓勝於舊矣事載襄
+<lb ed="B" n="0286a16"/>陽縣志</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

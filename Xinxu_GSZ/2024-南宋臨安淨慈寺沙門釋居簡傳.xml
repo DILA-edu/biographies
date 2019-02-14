@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="義解">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>南宋臨安淨慈寺沙門釋居簡傳 (From CBETA edition of 新續高僧傳 卷 003）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>南宋臨安淨慈寺沙門釋居簡傳</head>
+                </head>
+                <p xml:id="pB27p0049b1201">釋居簡字敬叟姓龍氏潼川人也家世儒素幼性穎異見佛書
+<lb ed="B" n="0049b13"/>端坐默觀如宿習者依邑之廣福院圓澄得度參別蜂塗毒於
+<lb ed="B" n="0049b14"/>徑山沈默自究一日閱萬庵語有省遽往育王見佛照機契自
+<lb ed="B" n="0049b15"/>是往來其門十五年走江西訪諸祖遺蹟瑩仲溫嘗掌大慧之
+<lb ed="B" n="0049b16"/>記菴於羅湖纂所聞成書發揮祖道與議論大奇之久之出主
+<lb ed="B" n="0049b17"/>台之般若遷報恩英衲爭附儒碩錢竹巖葉水心莫不推重時
+<lb ed="B" n="0049b18"/>大參真西山為江東部使者虛東林待之以疾辭乃於飛來峰
+<lb ed="B" n="0049b19"/>北磵掃一室居十年人不敢以字稱以北磵稱之起應霅之鐵
+<lb ed="B" n="0049b20"/>佛常之顯慶碧雲蘇之慧日湖之道場奉詔遷淨慈所至道化
+<pb ed="B" xml:id="B27.0151.0050a" n="0050a"/>
+<lb ed="B" n="0050a01"/>大行垂老不倦頌楞嚴經六解一亡云六用無功信不通一時
+<lb ed="B" n="0050a02"/>分付與春風篆煙一縷聞清晝百鳥不來花自紅闢一室以居
+<lb ed="B" n="0050a03"/>名曰薤室作賦以自見水心酬以詩云簡公詩話特驚人六反
+<lb ed="B" n="0050a04"/>掀騰不動身說與東家小兒女塗青染紫不禁春晚歲居天台
+<lb ed="B" n="0050a05"/>有二姓爭竹山搆釁為作種竹賦以諷之而訟遂已趙節齋為
+<lb ed="B" n="0050a06"/>奏補靈隱簡笑謝曰吾日迫矣乃舉天童癡絕道冲湻祐丙午
+<lb ed="B" n="0050a07"/>春示疾三月二十八日索紙書偈於紙尾復書四月一日珍重
+<lb ed="B" n="0050a08"/>六字呼諸徒誡之曰時不待人以道自勵吾世緣餘二日耳至
+<lb ed="B" n="0050a09"/>期昧爽索沐浴罷如假寐視之已逝矣壽八十三臘六十二所
+<lb ed="B" n="0050a10"/>著有北磵集十九卷</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="習禪">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>明處州福林禪院沙門釋智度傳 (From CBETA edition of 新續高僧傳 卷 018）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>明處州福林禪院沙門釋智度傳</head>
+                </head>
+                <p xml:id="pB27p0159b0801">釋智度字白雲姓吳氏麗水人也父德大母葉氏具有善願度
+<lb ed="B" n="0159b09"/>生而靈穎逈異凡近年十五灑然有出塵之趣欲就浮屠學父
+<lb ed="B" n="0159b10"/>母方珍愛峻辭拒之因不火食者累日若將滅性父母知不可
+<lb ed="B" n="0159b11"/>奪使歸禪智寺禮空中假薙髮受具戒習禪定於楞伽庵每趺
+<lb ed="B" n="0159b12"/>坐達旦如是者數年已而歎曰六合之大如此穨然滯一室可
+<lb ed="B" n="0159b13"/>乎遂出游七閩徧歷諸山無有契其意著復還郡之白雲山因
+<lb ed="B" n="0159b14"/>澄禪師道場遺址築福林院為憩息之所日取楞嚴圓覺二經
+<lb ed="B" n="0159b15"/>鈔疏讀之既熟不假師授章旨自通久居此山遂以為號已而
+<lb ed="B" n="0159b16"/>復歎曰拘泥文字如油入麥粉了無出期德山所謂窮諸玄義
+<lb ed="B" n="0159b17"/>若一豪置於大虛者信不誣也乃去之出游浙河之西見靈石
+<lb ed="B" n="0159b18"/>芝於淨慈未幾又上天目山參斷崖義譚鋒銛利莫之敢攖時
+<lb ed="B" n="0159b19"/>無見睹說法天台華頂峰大振圓悟之道更踰濤江叩之曰西
+<lb ed="B" n="0159b20"/>來密意何如無見曰待娑羅峰點頭乃與汝言度儗答無見遽
+<pb ed="B" xml:id="B27.0151.0160a" n="0160a"/>
+<lb ed="B" n="0160a01"/>喝度曰娑羅峰頂白浪滔天花開芒種後葉落立秋前無見頷
+<lb ed="B" n="0160a02"/>之服勤數載乃翩然辭還無見囑之曰昔南嶽十五歲出家受
+<lb ed="B" n="0160a03"/>大鑒記莂後得馬祖授之以心法鍼芥相投豈在多言勿掉三
+<lb ed="B" n="0160a04"/>寸舌誑人須真正見解著於行履方為報佛深恩度佩服之弗
+<lb ed="B" n="0160a05"/>敢忘然既有所證入儼然如白雲在天卷舒無礙又走長沙見
+<lb ed="B" n="0160a06"/>無方普入雲居見小隱大當機問答無異華頂元至正甲申縣
+<lb ed="B" n="0160a07"/>令長徇緇素之請迎還福林與毒種曇成山欽互相策勵如恐
+<lb ed="B" n="0160a08"/>失之甲午復隱楞迦庵壬寅王府參軍胡公深安復請至福林
+<lb ed="B" n="0160a09"/>甲辰御史中丞章公溢招致龍泉之普慈徒侶景從雲輸川委
+<lb ed="B" n="0160a10"/>至八千餘指而檀施日集食用無缺乙<anchor xml:id="beg_8d" type="cb-app"/>巳<anchor xml:id="end_8d"/>移茅山丙午遷武峰
+<lb ed="B" n="0160a11"/>元季亂擾復隱岑樓明室龍興首崇正教洪武<anchor xml:id="beg_8e" type="cb-app"/>己<anchor xml:id="end_8e"/>酉始建法會
+<lb ed="B" n="0160a12"/>於蔣山有詔起天下名僧敷宣大法而度與焉初猶力辭戍將
+<lb ed="B" n="0160a13"/>疆起之度曰心境雙忘隨緣去住復何拘礙遂行將至而會散
+<lb ed="B" n="0160a14"/>乃還杭杭人奉居虎跑歷夏及秋便趨華頂明年春二月示微
+<lb ed="B" n="0160a15"/>疾浩然有歸志四眾堅留之度曰落葉歸根吾所願也遂旋福
+<lb ed="B" n="0160a16"/>林五日忽沐浴易衣索筆書偈曰無世可辭有眾可別大虛空
+<lb ed="B" n="0160a17"/>中何必釘撅擲筆而逝時洪武庚戌三月一日也壽六十七臘
+<lb ed="B" n="0160a18"/>五十二闍維之夕送者千餘人火餘得五色舍利及齒牙數珠
+<lb ed="B" n="0160a19"/>弟子仁喆瘞骨院西善女子唐淨德為建塔其上度靜謐寡言
+<lb ed="B" n="0160a20"/>機用莫測臨眾無切督之威嚴厲之色唯以實相示人所至人
+<pb ed="B" xml:id="B27.0151.0160b" n="0160b"/>
+<lb ed="B" n="0160b01"/>皆欽慕如見古德或持香華供養或繪像事之不可數計蓋信
+<lb ed="B" n="0160b02"/>心為一切功德之母苟能信奚道之不造法之不明自圓悟八
+<lb ed="B" n="0160b03"/>傳至於無見究其所得所證何莫不由於此度自幼齡即能信
+<lb ed="B" n="0160b04"/>道決可脫離死生一息不少怠所以卒能徹究心源縱橫自在
+<lb ed="B" n="0160b05"/>平昔教人隨機開導無懈容無蔓辭有問則言否則終日澄坐
+<lb ed="B" n="0160b06"/>而已金華宋濂為之銘曰華頂之峰有道所居隨時演法大音
+<lb ed="B" n="0160b07"/>鏗如當機一喝見者驚愕言出霆奔無蟄不作振錫而歸我亦
+<lb ed="B" n="0160b08"/>何心舉首睇之白雲在岑乘運而游或出或處落葉歸根古今
+<lb ed="B" n="0160b09"/>一軌塵緣既盡翛然而化擲筆坐蛻如人赴家世相有滅其性
+<lb ed="B" n="0160b10"/>常在誰謂師兦青山不改</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

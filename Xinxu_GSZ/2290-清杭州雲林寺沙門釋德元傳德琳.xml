@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="習禪">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>清杭州雲林寺沙門釋德元傳德琳 (From CBETA edition of 新續高僧傳 卷 025）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>清杭州雲林寺沙門釋德元傳<note place="inline">德琳</note>
+                    </head>
+                </head>
+                <p xml:id="pB27p0214a0501">釋德元字在瞻號耐亭姓丁氏吳興人生而端靜風采不凡總
+<lb ed="B" n="0214a06"/>角即禮龐山妙智寺西嵐禪宿為驅烏入塾肄藝倣書屬句恆
+<lb ed="B" n="0214a07"/>度越餘子一時名流為之刮目年二十受具於覺海寺歸而嚴
+<lb ed="B" n="0214a08"/>淨毘尼暇則游神典籍杜門宴寂即有叩戶者樞不為轉也既
+<lb ed="B" n="0214a09"/>而憬悟文字非究竟法大事不可不明乃杖笠出遊參巨濤於
+<lb ed="B" n="0214a10"/>雲林一見器之留侍巾瓶妙密鉗椎精求累載將有所得及聞
+<lb ed="B" n="0214a11"/>萬法歸一語恍然契悟遂獲印可乾隆庚午出主華亭船子道
+<lb ed="B" n="0214a12"/>場學徒輻湊檀護歸崇乃於隨機化物之餘復營土木鼎新殿
+<lb ed="B" n="0214a13"/>宇西林舊面忽焉改觀唱導三載幾欲化成會巨濤浸倦寄聲
+<lb ed="B" n="0214a14"/>
+                    <g ref="#CB24336">𧦝</g>助遄返鷲峰過雁流雲曾無繫戀乾隆十八年繼主法席純
+<lb ed="B" n="0214a15"/>廟南巡翩然戾止德元仰承天問答語雍容上協皇情寵錫紫
+<lb ed="B" n="0214a16"/>衣及香金諸方榮之無何維摩善病欲息勞肩因謝院事唯以
+<lb ed="B" n="0214a17"/>泉聲林影時助吟詠以永禪悅雖有詩稿語錄多未付梓寂於
+<lb ed="B" n="0214a18"/>乾隆庚辰九月十五日塔天聖院左蓮峰下德琳字玉山吳江
+<lb ed="B" n="0214a19"/>人亦受法於巨濤乾隆二十八年雲林虛席為淅撫熊學鵬所
+<lb ed="B" n="0214a20"/>延引入室據座大唱道聲力挽頹綱三十年車駕重臨太后鑾
+<pb ed="B" xml:id="B27.0151.0214b" n="0214b"/>
+<lb ed="B" n="0214b01"/>輿亦復隨至累承渥賞時琳兼主法喜寺香金石佛亦得分賜
+<lb ed="B" n="0214b02"/>已而辤退掩關習靜沈沈闇室寂寂蒲團若將終焉三十七年
+<lb ed="B" n="0214b03"/>夏為兩眾要請更住雲林上堂云絲綸收拾未多時今日無端
+<lb ed="B" n="0214b04"/>一竿持應向煙波深處裏金鱗衝出莫來遲有玉山語錄壽六
+<lb ed="B" n="0214b05"/>十餘塔於雲林山麓</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

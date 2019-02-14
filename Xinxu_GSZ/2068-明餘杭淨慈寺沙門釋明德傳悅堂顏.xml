@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="義解">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>明餘杭淨慈寺沙門釋明德傳悅堂顏 (From CBETA edition of 新續高僧傳 卷 005）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>明餘杭淨慈寺沙門釋明德傳<note place="inline">悅堂顏</note>
+                    </head>
+                </head>
+                <p xml:id="pB27p0071b1501">釋明德字孤峯姓朱氏昌國人父有成與補陀怛洛迦山玠公
+<lb ed="B" n="0071b16"/>交玠聞雞聲入道凡說法必鼓兩腋為雞鳴玠亡已久母夢玠
+<lb ed="B" n="0071b17"/>來託宿而生兒時每跏趺端坐不動天童慧明者明德族諸父
+<lb ed="B" n="0071b18"/>也見而訶之曰童子不習詩書癡坐將焉求德曰欲學坐禪求
+<lb ed="B" n="0071b19"/>作佛耳慧明奇之挾至鄞縣金鵝院年十七詣五臺受具足戒
+<lb ed="B" n="0071b20"/>杖錫而出首謁竺西坦於天童一日舉世尊拈花語德於眾中
+<pb ed="B" xml:id="B27.0151.0072a" n="0072a"/>
+<lb ed="B" n="0072a01"/>聞之若有省作偈以呈西頷之而德弗自是也復扣晦機熙於
+<lb ed="B" n="0072a02"/>淨慈已而竺田霖延歸靈隱處以首座田上堂舉隱山泥牛入
+<lb ed="B" n="0072a03"/>海語<g ref="#CB15665">󳴱</g>
+                    <g ref="#CB15665">󳴱</g>誘掖音聲如雷德不覺慶快群疑頓釋因以偈呈田
+<lb ed="B" n="0072a04"/>田歎曰天人眼目儼然猶在自是提唱宗風稱性而說且邀仲
+<lb ed="B" n="0072a05"/>方倫結菴於桃花塢相與激揚時則檢閱華嚴足不踰戶限者
+<lb ed="B" n="0072a06"/>五歷春秋禪教雙融聞譽遠鬯行宣政院請主松江之東禪遷
+<lb ed="B" n="0072a07"/>集慶之保寧元順帝時授以圓明定慧之號并金襴法衣大司
+<lb ed="B" n="0072a08"/>徒楚國文公歐陽玄圭賦詩遠寄且為作內外錄序一時公卿
+<lb ed="B" n="0072a09"/>莫不願與之交三遷湖之道場閱二年會淨慈虛席先是悅堂
+<lb ed="B" n="0072a10"/>顏主淨慈樹大法幢四主名山東禪萬壽南屏雙徑俱有建施
+<lb ed="B" n="0072a11"/>名聞京國璽書再下拜賜金襴說法四會有錄行世宗景濂為
+<lb ed="B" n="0072a12"/>之序主席之盛頗難為繼是時浙江行省康里公謂淨慈居五
+<lb ed="B" n="0072a13"/>山之一非明德不可固請主之但元季戎馬紛紜林柯不靜逮
+<lb ed="B" n="0072a14"/>至明初尊崇佛法稍事安輯而明德以耄年謝歸道場竹林庵
+<lb ed="B" n="0072a15"/>一夕示疾索筆寫頌泊然入滅時洪武五年十二月二十七日
+<lb ed="B" n="0072a16"/>也壽七十九臘六十二塔於東岡</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

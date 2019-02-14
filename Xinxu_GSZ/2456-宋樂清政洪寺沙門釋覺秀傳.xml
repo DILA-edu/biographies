@@ -1,0 +1,42 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="淨讀">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>宋樂清政洪寺沙門釋覺秀傳 (From CBETA edition of 新續高僧傳 卷 041）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>宋樂清政洪寺沙門釋覺秀傳</head>
+                </head>
+                <p xml:id="pB27p0312a0701">釋覺秀姓陳氏曹田人也依政洪寺剃度參慧公看十不二門
+<lb ed="B" n="0312a08"/>至一切諸法無非心性一性無性三千宛然忽焉大悟嘗以布
+<lb ed="B" n="0312a09"/>袋盛經律卷往來浙閩諸山或問此中所盛何物秀曰十界十
+<lb ed="B" n="0312a10"/>如權實之法都在裏許或自誦或示人人問其故秀曰為汝植
+<lb ed="B" n="0312a11"/>菩提種以是人皆呼為秀布袋後開法京師十坐道場洪覺範
+<lb ed="B" n="0312a12"/>一見推服贈以詩云夢澤於菟三日視丹山雛鳳九苞文還鄉
+<lb ed="B" n="0312a13"/>妙曲誰能聽一笛清風兩岸聞</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

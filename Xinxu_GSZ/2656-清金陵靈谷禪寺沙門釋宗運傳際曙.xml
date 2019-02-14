@@ -1,0 +1,48 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="興福">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>清金陵靈谷禪寺沙門釋宗運傳際曙 (From CBETA edition of 新續高僧傳 卷 057）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>清金陵靈谷禪寺沙門釋宗運傳<note place="inline">際曙</note>
+                    </head>
+                </head>
+                <p xml:id="pB27p0420a0101">釋宗運字于南師事南屏豁堂晝夜密參豁公印可即付以法
+<lb ed="B" n="0420a02"/>大興靈谷弘開講演時經兵燹之餘山中幽寂陰雨啾啾夜聞
+<lb ed="B" n="0420a03"/>鬼哭運至攝以道力利濟幽宴其聲遂絕值歲荒獨錫走句曲
+<lb ed="B" n="0420a04"/>為眾乞食賴以樂飢豁堂嘗挂吏議繫于圜室運聞倉皇就道
+<lb ed="B" n="0420a05"/>竭力營救事乃得解當其將至靈谷也值明室鼎革寺宇荒涼
+<lb ed="B" n="0420a06"/>眾皆出亡有僧夜夢伽藍神語曰將有大知識來興此山一旦
+<lb ed="B" n="0420a07"/>無量殿上忽放異光鐘樓大鐘不叩自鳴是日運至其感應如
+<lb ed="B" n="0420a08"/>此後重修毘盧殿惟務德感不事攀求而善緣自集寺傍種桃
+<lb ed="B" n="0420a09"/>萬樹當春如紅霞照耀掩映林谷望若仙闕或以為羽南者誤
+<lb ed="B" n="0420a10"/>也又際曙字曉蒼山陽人康熙辛未入主靈谷經營葺理百廢
+<lb ed="B" n="0420a11"/>具興重修寺志丁亥春聖祖南巡翠華幸寺雍容奏語深承帝
+<lb ed="B" n="0420a12"/>眷御書聯額賞賚有差為一代異數云</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

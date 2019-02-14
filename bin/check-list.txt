@@ -1,0 +1,16 @@
+﻿缺字
+	persName 裡含缺字
+		卷17, 1015shiYuanChong.xml, p. 814b17
+		<persName key="A011827"><g ref="#Z1256"/>禪師</persName>
+	sic 裡含缺字 
+		卷2, 0747shiShanWuWei.xml, p. 714c05
+		InDesign footnote 裡含缺字
+		<g ref="#Z1247"/>
+
+卷7, 0847-2yiJiePianLun.xml, p. 753a03
+	placeName/choice/sic 含 ext-b 字元
+	InDesign footnote 裡含 ext-b 字元
+	<placeName key="PL000000023512"><anchor xml:id="beg0753sgsz1"/><choice resp="sgsz">
+		<sic>𨿅</sic>
+		<corr>雒</corr>
+	</choice><anchor xml:id="end0753sgsz1"/></placeName>

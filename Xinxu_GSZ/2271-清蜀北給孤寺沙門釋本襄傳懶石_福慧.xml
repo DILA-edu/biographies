@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="習禪">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>清蜀北給孤寺沙門釋本襄傳懶石_福慧 (From CBETA edition of 新續高僧傳 卷 023）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>清蜀北給孤寺沙門釋本襄傳<note place="inline">懶石　福慧</note>
+                    </head>
+                </head>
+                <p xml:id="pB27p0199b0401">釋本襄字半生姓張氏閬人也幼而孱弱長復多病父母許度
+<lb ed="B" n="0199b05"/>為僧其病尋瘥年十二捨入給孤寺一夕聞人言今日已過再
+<lb ed="B" n="0199b06"/>無今日不覺悲感交集悟世無常年十九從應時法師受具聽
+<lb ed="B" n="0199b07"/>講般若心經至無眼耳鼻舌身意處疑不能明夜分入室請問
+<lb ed="B" n="0199b08"/>其旨應曰既無眼耳鼻舌身意還有口麼要汝自信自悟始得
+<lb ed="B" n="0199b09"/>由是舉步忘形胸中如結會明季喪亂寇譟蜀境避入秦中因
+<lb ed="B" n="0199b10"/>至徽州訪素尋玄偶聞漢中丈雪門庭孤峻歲在<anchor xml:id="beg_c4" type="cb-app"/>己<anchor xml:id="end_c4"/>丑逕往參
+<lb ed="B" n="0199b11"/>之夜行護法堂前撞倒磬架碎磬作聲疑情廊然乃呈偈曰驀
+<lb ed="B" n="0199b12"/>直行將去虛空撞腳跟磬破原是鐵冤家聚頭生丈肎之因授
+<lb ed="B" n="0199b13"/>杖拂付以偈曰龜毛拂有騰龍勢兔角杖支南斗雲山水悉歸
+<lb ed="B" n="0199b14"/>布袋裏昆明池上日方昕康熙甲辰復自蜀入滇庚<anchor xml:id="beg_c5" type="cb-app"/>戌<anchor xml:id="end_c5"/>重修青
+<lb ed="B" n="0199b15"/>門大弘佛法四月九日示疾乃集眾曰我有一偈當問汝等生
+<lb ed="B" n="0199b16"/>亦何苦寂亦何樂苦樂兩忘是甚活潑眾無語襄一喝垂手而
+<lb ed="B" n="0199b17"/>逝茶毘得堅固子為人分供頂骨復見五彩塔於笻竹之巔襄
+<lb ed="B" n="0199b18"/>凡九坐道場五剎結制壽五十九僧臘四十懶石聆禪者姓張
+<lb ed="B" n="0199b19"/>氏蜀人亦得法於丈雪者也母趙氏夜夢吞月覺而生子幼歲
+<lb ed="B" n="0199b20"/>剃染受戒於象崖復參破山後於丈雪道旨契合遂授記莂康
+<pb ed="B" xml:id="B27.0151.0200a" n="0200a"/>
+<lb ed="B" n="0200a01"/>熙初至滇主商山斗光寺闡法數年復歸蜀授法自覺云福慧
+<lb ed="B" n="0200a02"/>野竹者亦蜀之長壽人得法磚鏡本天童正派康熙初至滇閎
+<lb ed="B" n="0200a03"/>法於昆明嵩山寺眾數千指士庶皈依恐後諸方宗仰極一時
+<lb ed="B" n="0200a04"/>法會之盛</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

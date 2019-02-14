@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="興福">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>明天台上雲峰證道寺沙門釋祖鐙傳 (From CBETA edition of 新續高僧傳 卷 051）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>明天台上雲峰證道寺沙門釋祖鐙傳</head>
+                </head>
+                <p xml:id="pB27p0382b0101">釋祖鐙字無盡姓王氏四明人也父好謙嘗寫華嚴經五色舍
+<lb ed="B" n="0382b02"/>利見於筆端父方驚歎曰般若之驗一至於斯耶時鐙年尚幼
+<lb ed="B" n="0382b03"/>聞言興感及至成童即求出家依郡中天寧良偉習經咒尋事
+<lb ed="B" n="0382b04"/>東白明得度復受具戒於開元奎已而日溪泳來代明說法命
+<lb ed="B" n="0382b05"/>掌綱維司藏鑰日溪躋座鐙即問曰生死事大無常迅速乞賜
+<lb ed="B" n="0382b06"/>指示日溪曰十二時中密密參究忽然觸著<anchor xml:id="beg_19c" type="cb-app"/>卻<anchor xml:id="end_19c"/>來再問鐙抗聲
+<lb ed="B" n="0382b07"/>曰無常迅速生死事大語未終日溪便喝鐙遽禮拜日溪曰見
+<lb ed="B" n="0382b08"/>何道理便爾作禮鐙曰開口即錯日溪頷之服勤數載出參名
+<lb ed="B" n="0382b09"/>德以驗所證時中峰本在天目方山瑤居淨慈無見覩住華頂
+<lb ed="B" n="0382b10"/>斗巖芳主景星證往來辯詰多所印鐙因念既欲得道當澄慮
+<lb ed="B" n="0382b11"/>息影蹈晦幽林及遇上雲卓錫其中遂至終身蓋天台上雲峰
+<lb ed="B" n="0382b12"/>在州城西南十餘里重厓疊巘如雲旓翠蕤盪摩於空濛而靈
+<lb ed="B" n="0382b13"/>巖龍湫吐納光景尤號勝絕五季時東甌大士永安來居之疏
+<lb ed="B" n="0382b14"/>釋經論達百餘卷依者日眾闢為鉅剎錢忠懿王賜額曰證道
+<lb ed="B" n="0382b15"/>三百年間游罹災禍焚毀殆盡唯存斷礎於斜照荒煙中元延
+<lb ed="B" n="0382b16"/>祐甲寅鐙始至此周覽故址衋焉傷之因縛草為庵宴坐其間
+<lb ed="B" n="0382b17"/>虎狼蛇豕交跡戶外鐙一念攝伏猛毒馴化各不相害日與其
+<lb ed="B" n="0382b18"/>徒修苦行以自給冬一裘夏一葛朝夕飯一盂影不出山者踰
+<lb ed="B" n="0382b19"/>五十載人多慕之以勤勞修持為第一義荊棘之區變為寶坊
+<lb ed="B" n="0382b20"/>金碧交暉上矗天際諸禪林環列其下上雲之境遂為之冠有
+<pb ed="B" xml:id="B27.0151.0383a" n="0383a"/>
+<lb ed="B" n="0383a01"/>以土田為布施者則辤之曰先佛以乞食為事吾焉用此為南
+<lb ed="B" n="0383a02"/>堂名重一時作長偈寄之稱其行業不讓大士然天性尤孝迎
+<lb ed="B" n="0383a03"/>母終養山中或疑非沙門所行鐙曰世尊尚升忉利天為母說
+<lb ed="B" n="0383a04"/>經我何人斯敢忘所自明洪武<anchor xml:id="beg_19d" type="cb-app"/>己<anchor xml:id="end_19d"/>酉春正月忽示微疾召弟子
+<lb ed="B" n="0383a05"/>普饒繼其席二月八日復作書別所契道侶夜將半顧左右曰
+<lb ed="B" n="0383a06"/>天向明乎對曰未也因舉古德坐疾有問者云還有不病者乎
+<lb ed="B" n="0383a07"/>古德云有又問何物是不病者古德云阿爺阿爺良久乃曰如
+<lb ed="B" n="0383a08"/>此以為病者得乎眾皆無言鐙曰色身無常早求證悟時至吾
+<lb ed="B" n="0383a09"/>將去矣侍者執紙乞偈乃書曰生滅與去來本是如來藏桚到
+<lb ed="B" n="0383a10"/>五須彌廓然無背向投筆端坐而逝壽七十八臘五十七火化
+<lb ed="B" n="0383a11"/>舍利無算塔於峰左隆恩道原為之狀徵宋文憲濂銘其塔文
+<lb ed="B" n="0383a12"/>具鑾坡前集</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="雜識">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>元泉州開元寺沙門釋大圭傳 (From CBETA edition of 新續高僧傳 卷 061）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>元泉州開元寺沙門釋大圭傳</head>
+                </head>
+                <p xml:id="pB27p0446a2001">釋大圭字恒白號夢觀姓廖氏晉江人也父曰休庵家世儒學
+<pb ed="B" xml:id="B27.0151.0446b" n="0446b"/>
+<lb ed="B" n="0446b01"/>圭初亦習帖括苦志勤學稍長善屬文有聲於時父忽詔之曰
+<lb ed="B" n="0446b02"/>吾為佛不果吾以汝捨佛汝其母違圭乃禮開元廣漩得度凡
+<lb ed="B" n="0446b03"/>三歷職而至分座秉拂宣政院檄主承天謝不起客有勸之者
+<lb ed="B" n="0446b04"/>示以偈云幾年學得舞腰肢到處身將竿木隨底事逢埸羞作
+<lb ed="B" n="0446b05"/>戲只愁笑倒鄧禪師又云水牯還生水牯兒入田不放鼻頭低
+<lb ed="B" n="0446b06"/>秋來禾麥多成稗空負先農一把犂乃相視一笑而罷嘗築室
+<lb ed="B" n="0446b07"/>開元之西曰夢觀堂吟詠自怡素性爽特學博識端為文似柳
+<lb ed="B" n="0446b08"/>為詩似陶吳鑒稱其為圓機之士能貫儒釋而一之真知言哉
+<lb ed="B" n="0446b09"/>所著有夢觀集紫雲開士傳今讀其書自唐迄元傳七十二人
+<lb ed="B" n="0446b10"/>以匡護始以契祖終祖之嗣曰始照曰崇會其行事皆有可傳
+<lb ed="B" n="0446b11"/>而圭乃自記曰照吾嘗侍其旁掌其記會吾嘗分其坐知之固
+<lb ed="B" n="0446b12"/>甚詳然必為之傳則私而諛矣故繫其名於祖傳以俟作者傳
+<lb ed="B" n="0446b13"/>之於戲可想見圭之為人</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

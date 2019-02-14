@@ -1,0 +1,42 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="習禪">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>南宋江州東林寺沙門釋道顏傳 (From CBETA edition of 新續高僧傳 卷 014）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>南宋江州東林寺沙門釋道顏傳</head>
+                </head>
+                <p xml:id="pB27p0134b0201">釋道顏字卍庵潼川鮮于氏子也初參圓悟但登堂未能造其
+<lb ed="B" n="0134b03"/>玄奧圓悟將還蜀以書遺大慧曰顏彩繪<anchor xml:id="beg_6d" type="cb-app"/>已<anchor xml:id="end_6d"/>特未點眼耳他日
+<lb ed="B" n="0134b04"/>未可量也於是朝夕質疑於慧方大悟徹聲光遐溢黑白咸被
+<lb ed="B" n="0134b05"/>其化僧問如何是佛顏曰誌公曰學人問佛何答誌公顏曰誌
+<lb ed="B" n="0134b06"/>公不是閒和尚如何是法顏曰黃絹幼婦外孫韲臼曰是甚章
+<lb ed="B" n="0134b07"/>句顏曰絕妙好辭曰如何是僧顏曰釣魚船上謝三郎曰何不
+<lb ed="B" n="0134b08"/>直說顏曰玄沙和尚凡所說法簡易如此</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

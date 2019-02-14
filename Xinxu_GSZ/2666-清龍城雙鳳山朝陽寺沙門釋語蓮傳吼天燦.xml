@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="興福">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>清龍城雙鳳山朝陽寺沙門釋語蓮傳吼天燦 (From CBETA edition of 新續高僧傳 卷 058）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>清龍城雙鳳山朝陽寺沙門釋語蓮傳<note place="inline">吼天燦</note>
+                    </head>
+                </head>
+                <p xml:id="pB27p0424b1001">釋語蓮湘鄉李氏子誕生之夕母淩氏夢蛇入室齠齡薙染於
+<lb ed="B" n="0424b11"/>冠梓園最樂禪院能達後主翠竹山蓮池庵生平耿介素履端
+<lb ed="B" n="0424b12"/>方年三十始從大溈山吼天燦受具一日侍坐吼天示以宗要
+<lb ed="B" n="0424b13"/>三月弗契忽夜夢一尊者自稱準提問云汝意云何蓮曰不見
+<lb ed="B" n="0424b14"/>一物尊者云如是如是次日參吼天吼天亦云如是如是蓮頓
+<lb ed="B" n="0424b15"/>開悟嘗說法於雪峰最樂堂直指人心不惑於物後於湘上雙
+<lb ed="B" n="0424b16"/>鳳山剏朝陽寺開堂說戒法雨蒸蒸殆徧衡湘晚歲天機浩然
+<lb ed="B" n="0424b17"/>禪悅之餘吟詠自適嘗與鄧筆山張紫雨劉麟書諸人結社為
+<lb ed="B" n="0424b18"/>文字交著有語錄詩草若干卷詩中警句如將心寄明月放眼
+<lb ed="B" n="0424b19"/>看青山魚知入定潛沙澗花解離塵上釣船為世傳誦其開示
+<lb ed="B" n="0424b20"/>後學警提親切不倦津梁嘗說偈曰四弘誓願惟持<anchor xml:id="beg_1dc" type="cb-app"/>己<anchor xml:id="end_1dc"/>一片婆
+<pb ed="B" xml:id="B27.0151.0425a" n="0425a"/>
+<lb ed="B" n="0425a01"/>心只為人若要佛法留後代直行天性不欺心張正笏序其語
+<lb ed="B" n="0425a02"/>錄稱其中兩語路從平處險人向靜中忙此即心不在注腳可
+<lb ed="B" n="0425a03"/>為求放心者作一棒喝惟楔出楔其旨莫玅於此即讀宗門家
+<lb ed="B" n="0425a04"/>言亦須解此方為有益斯誠定論吼天亦號放翁曾主大溈後
+<lb ed="B" n="0425a05"/>住宗鏡六座道場為湘中老宿讀書通性命之旨以詞賦著稱
+<lb ed="B" n="0425a06"/>楚黔之間所與遊者皆一時達人蓮其高弟也乾隆三十二年
+<lb ed="B" n="0425a07"/>吼天寂訃至蓮哭之哀上供云龍門山水路迢迢水自低兮山
+<lb ed="B" n="0425a08"/>自高痛觀萬卉皆垂淚恰似心田插下刀讀此可知其慨矣</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="義解">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>遼燕京奉福寺沙門釋非濁傳 (From CBETA edition of 新續高僧傳 卷 003）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>遼燕京奉福寺沙門釋非濁傳</head>
+                </head>
+                <p xml:id="pB27p0052a0101">釋非濁字真照姓張氏范陽人重熙初禮圓融國師為師居無
+<lb ed="B" n="0052a02"/>何嬰足疾遯跡盤山敷課於太白峯顛每宴坐誦持時見山靈
+<lb ed="B" n="0052a03"/>部從敬侍久之疾漸痊重熙八年冬有詔赴闕興宗契厥道要
+<lb ed="B" n="0052a04"/>寵之紫衣十八年授上京管內都僧錄尋遷燕京管內左街僧
+<lb ed="B" n="0052a05"/>錄清寧改元加崇錄大夫檢校太保踰年晉檢校太傅太尉賜
+<lb ed="B" n="0052a06"/>號純慧大師濁搜訪闕章聿修睿典撰往生集二十卷進呈御
+<lb ed="B" n="0052a07"/>筵大愜皇愫鑒賞久之親為序引命龕次入藏清寧六年春鑾
+<lb ed="B" n="0052a08"/>輿幸燕回次花林濁侍坐於殿親受燕京管內懺悔主菩薩戒
+<lb ed="B" n="0052a09"/>師明年二月設壇奉福寺懺受之徒不可勝紀清寧九年四月
+<lb ed="B" n="0052a10"/>示疾告終於竹林寺旋移窆於昌平縣司空豳國公仰其高躅
+<lb ed="B" n="0052a11"/>建立寺塔并營佛頂尊勝陀羅尼幢高踰尋丈庶陵壑有遷而
+<lb ed="B" n="0052a12"/>音塵不泯文具山志釋真延為之記</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="興福">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>明金陵大天界寺沙門釋懷信傳 (From CBETA edition of 新續高僧傳 卷 051）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>明金陵大天界寺沙門釋懷信傳</head>
+                </head>
+                <p xml:id="pB27p0383a1401">釋懷信字孚中姓姜氏奉化人也父嘗為縣校官母劉氏夜夢
+<lb ed="B" n="0383a15"/>火星墮室中有光如火亟取吞之俄而有孕及誕狀貌異凡而
+<lb ed="B" n="0383a16"/>性端凝不妄舉動唯見沙門輒喜與親稍長受三經於宋進士
+<lb ed="B" n="0383a17"/>戴公表元聲入心通經旨鬯達然不樂帖括獨企清幽年十五
+<lb ed="B" n="0383a18"/>離家從法華院僧子思執童子役已而祝髮為大僧受具戒於
+<lb ed="B" n="0383a19"/>五臺寺聞延慶半巖全弘三觀十乘之旨復與之游久之且歎
+<lb ed="B" n="0383a20"/>曰教相繁多浩如煙海苟欲窮之是誠算沙徒自困耳即棄去
+<pb ed="B" xml:id="B27.0151.0383b" n="0383b"/>
+<lb ed="B" n="0383b01"/>渡浙而西凡過名藍輒往參叩語多枘鑿不勝憤悱華藏竺西
+<lb ed="B" n="0383b02"/>坦遷主四明天童景德禪寺信隨質所疑竺西知為法器厲色
+<lb ed="B" n="0383b03"/>待之不交一語一曰上堂舉興化與克賓案問之信擬曰俊哉
+<lb ed="B" n="0383b04"/>師子兒也自是依止不忍去竺西入滅天寧雲外岫來繼其席
+<lb ed="B" n="0383b05"/>命司經藏管鑰文章漸彰不可掩遏元泰定丙寅行宣政院請
+<lb ed="B" n="0383b06"/>居四明觀音策勵徒眾珍惜時光唯恐失墜天曆<anchor xml:id="beg_19e" type="cb-app"/>己<anchor xml:id="end_19e"/>
+                    <anchor xml:id="beg_19f" type="cb-app"/>巳<anchor xml:id="end_19f"/>遷住補
+<lb ed="B" n="0383b07"/>怛洛迦山清望日崇修行益苦嘗持一缽乞食吳楚間鎮南王
+<lb ed="B" n="0383b08"/>具香華迎至府中虛心問道語中肎綮且出菩提達摩像求贊
+<lb ed="B" n="0383b09"/>信拈豪揮灑略無停思而辭旨淵邃王甚歎服宣讓王亦遣使
+<lb ed="B" n="0383b10"/>者奉旃檀香紫伽黎衣請示法要信隨其性資利而道之二王
+<lb ed="B" n="0383b11"/>雄藩之望首加崇禮諸侯庶士莫不望風瞻仰施資填委姑蘇
+<lb ed="B" n="0383b12"/>產奇石因求善工造多寶佛塔十三成載歸海東駙馬都尉高
+<lb ed="B" n="0383b13"/>麗王繹而吉尼丞相撒敦以行誼上聞賜號為廣慧妙悟智寶
+<lb ed="B" n="0383b14"/>弘教禪師及金襴法衣一襲至正壬午主中天竺永祚寺天曆
+<lb ed="B" n="0383b15"/>乙酉遷天童矢志振興百廢具舉佛殿巋然厥工甚鉅亦徹弊
+<lb ed="B" n="0383b16"/>而更新之丹輝碧朗照耀海濱復造塔中峯若將終焉<anchor xml:id="beg_1a0" type="cb-app"/>己<anchor xml:id="end_1a0"/>丑冬
+<lb ed="B" n="0383b17"/>十月江表大龍翔集慶寺虛席行御史臺奉疏迎信主之龍翔
+<lb ed="B" n="0383b18"/>文宗潛邸及踐祚改建佛剎棟宇宏麗甲天下其住持若笑隱
+<lb ed="B" n="0383b19"/>訢曇芳忠皆一時碩德勵行百丈清規為東南楷則亡何燬於
+<lb ed="B" n="0383b20"/>火忠竭力興復海會堂未就而化信初升座提唱宗乘萬指所
+<pb ed="B" xml:id="B27.0151.0384a" n="0384a"/>
+<lb ed="B" n="0384a01"/>指委蛇不迫而玄機自融無大無小皆驩相親戴因出衣盂私
+<lb ed="B" n="0384a02"/>貲纘續前功不日而集會元綱失紐天下喪亂戎馬紛紜寺院
+<lb ed="B" n="0384a03"/>蕭條日見艱窘信處之夷然若不介意明室龍興初號吳國大
+<lb ed="B" n="0384a04"/>兵下金陵徒侶風雨飄散信獨結跏晏坐目不他顧執兵者滿
+<lb ed="B" n="0384a05"/>前無不棄仗而拜太祖嘗幸寺中聽信說法嘉其道行命改龍
+<lb ed="B" n="0384a06"/>翔為大天界寺以寵異之寺有逋租在民間者官為徵集僧眾
+<lb ed="B" n="0384a07"/>日歸法施益盛一旦晨興索湯沐浴更衣趺坐謂左右曰汝曹
+<lb ed="B" n="0384a08"/>荷法自期勵精進行吾將歸矣言畢而瞑侍者呼曰去則去矣
+<lb ed="B" n="0384a09"/>寧不留片言以示人乎乃握筆書曰平生為人戾契七十八年
+<lb ed="B" n="0384a10"/>漏洩今朝撒手便行萬里晴空片雪擲簡而逝時丁酉八月二
+<lb ed="B" n="0384a11"/>十四日也壽七十八臘六十九荼毗聚寶山下舍利如菽五色
+<lb ed="B" n="0384a12"/>粲爛煙所及處亦纍纍攢珠貯以瓶水光發於外弟子致凱坎
+<lb ed="B" n="0384a13"/>牛首山東麓為宮藏之建塔其上將遷之夕明帝駐兵江陰夢
+<lb ed="B" n="0384a14"/>信褐服而來問何之曰將歸且告別及還歸聞其寂滅為之驚
+<lb ed="B" n="0384a15"/>異乃出內府泉幣助其喪事且親致奠送於都門之外榮貺之
+<lb ed="B" n="0384a16"/>加近代無比著有五會語錄</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

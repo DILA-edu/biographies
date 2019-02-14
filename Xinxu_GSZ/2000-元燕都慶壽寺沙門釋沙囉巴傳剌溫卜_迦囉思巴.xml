@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="譯經">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>元燕都慶壽寺沙門釋沙囉巴傳剌溫卜_迦囉思巴 (From CBETA edition of 新續高僧傳 卷 002）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>元燕都慶壽寺沙門釋沙囉巴傳<note place="inline">剌溫卜　迦囉思巴</note>
+                    </head>
+                </head>
+                <p xml:id="pB27p0036a0401">釋沙囉巴西域積寧人幼而通慧年才總卯即依帝師癹思巴
+<lb ed="B" n="0036a05"/>薙染習諸部灌頂法又從著栗赤上師學大小乘時有<anchor xml:id="beg_8" type="cb-app"/>剌<anchor xml:id="end_8"/>溫卜
+<lb ed="B" n="0036a06"/>善通燄曼德迦密教為世所稱投之盡得其道所以善吐番音
+<lb ed="B" n="0036a07"/>說諸妙法兼解諸國文字後因迦囉思巴薦於世祖命譯中國
+<lb ed="B" n="0036a08"/>未備顯密諸經各若干部詞旨明辨因賜大辯廣智之號其時
+<lb ed="B" n="0036a09"/>思巴已居帝師僧司雖盛而風紀寢弊官吏不能干城遺法抗
+<lb ed="B" n="0036a10"/>禦外侮返為僧害世祖每論至此切憂之欲選能者匡正其失
+<lb ed="B" n="0036a11"/>乃授沙為江浙釋教都總統世祖親送之既至江南盡削煩苛
+<lb ed="B" n="0036a12"/>務從寬大故遐邇僧寺賴之以安尋改統福廣然自律嚴正行
+<lb ed="B" n="0036a13"/>無偏倚語多峻切以是見忤同列嘗自歎曰天下何事耶吾人
+<lb ed="B" n="0036a14"/>自擾之耳朝廷設官愈多則天下之事愈煩況釋教乎今僧之
+<lb ed="B" n="0036a15"/>苦無他官多事煩耳所謂十羊九牧可勝言哉遂建言以聞因
+<lb ed="B" n="0036a16"/>得盡罷諸路總統天下快焉沙即遁迹壠坻築室種樹將欲終
+<lb ed="B" n="0036a17"/>老至大中復召至燕京拜光祿大夫大司徒皇太子諸王嘗問
+<lb ed="B" n="0036a18"/>法要詔給廩館於慶壽寺所譯之經朝廷皆為刊行延祐元年
+<lb ed="B" n="0036a19"/>十月五日示疾賜鈔萬緡勅大尉瀋王視醫藥謝卻之面佛端
+<lb ed="B" n="0036a20"/>坐而化詔賜給葬遣使驛送建塔故里</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,48 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="雜識">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>清金陵靈谷寺沙門釋彌垠傳彌澍 (From CBETA edition of 新續高僧傳 卷 065）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>清金陵靈谷寺沙門釋彌垠傳<note place="inline">彌澍</note>
+                    </head>
+                </head>
+                <p xml:id="pB27p0470b0601">釋彌垠字福溪吳人博通經史事親以孝盧雅雨都轉深器重
+<lb ed="B" n="0470b07"/>之延入幕中觀內典有省厭俗出家於牛首山祖堂寺得法祇
+<lb ed="B" n="0470b08"/>園繼主靈谷三載乾隆甲辰春高宗駐蹕寺中賜無量壽經石
+<lb ed="B" n="0470b09"/>刻娑羅樹如意寂於靈谷著有語錄詩集又彌澍字滄洪德化
+<lb ed="B" n="0470b10"/>人生有佛緣幼而聰慧嘗遊古寺恍如舊居祝髮故里受具華
+<lb ed="B" n="0470b11"/>山亦參祇園嗣其法為彌垠同門弟也初居九江龍池寺已振
+<lb ed="B" n="0470b12"/>宗風乾隆甲寅夏繼席鍾山篤志清修不酬俗事時陳東甫方
+<lb ed="B" n="0470b13"/>伯慕其雅度延之入署澍辭以偈云十年塵夢悟華胥曾奪驪
+<lb ed="B" n="0470b14"/>龍頷下珠自入山來皆雪意更於何處覓紅鑪好風吹入白雲
+<lb ed="B" n="0470b15"/>關有約來朝暫出山不是在山雲懶出出山那及在山間其高
+<lb ed="B" n="0470b16"/>尚如此主靈谷五載嘉慶<anchor xml:id="beg_217" type="cb-app"/>己<anchor xml:id="end_217"/>未春偶因微疾而寂年五十八著
+<lb ed="B" n="0470b17"/>有語錄詩偈</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

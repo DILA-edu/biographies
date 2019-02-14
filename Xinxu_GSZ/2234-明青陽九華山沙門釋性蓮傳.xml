@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="習禪">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>明青陽九華山沙門釋性蓮傳 (From CBETA edition of 新續高僧傳 卷 020）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>明青陽九華山沙門釋性蓮傳</head>
+                </head>
+                <p xml:id="pB27p0176b0101">釋性蓮字無垢姓王氏僊源人生而不凡幼時嬉翫效作佛事
+<lb ed="B" n="0176b02"/>有明中葉政教龐雜象法浸微外道羣聚宣揚其說蓮每往觀
+<lb ed="B" n="0176b03"/>聽輒謂眾曰此夢語也其如生死何年二十二遂散家財棄妻
+<lb ed="B" n="0176b04"/>子之金陵攝山棲霞寺從素庵節薙染受具依棲講席習諸經
+<lb ed="B" n="0176b05"/>論義置卷歎曰吾為生死大事出家此豈能丁大事乎復棄去
+<lb ed="B" n="0176b06"/>得故鄉之牛頭山誅茆以休刀耕火種專以<anchor xml:id="beg_9e" type="cb-app"/>己<anchor xml:id="end_9e"/>躬事下念久之
+<lb ed="B" n="0176b07"/>未有所入又棄去至清河謁法堂授以念佛三昧乃深信入尋
+<lb ed="B" n="0176b08"/>參遍融於都下一見器之因留入室久之妙峯開法於蘆芽蓮
+<lb ed="B" n="0176b09"/>特往見多所陶冶復歸故鄉之大山四方緇白聞風而至歎曰
+<lb ed="B" n="0176b10"/>吾輩出家當盡歷名山遍參知識豈拘墟近見障此生平乎乃
+<lb ed="B" n="0176b11"/>復棄去多方行腳備嘗辛苦如是者七年偶冬日涉河冰裂作
+<lb ed="B" n="0176b12"/>聲墮水寒徹忽然有省生平之疑泮然自釋即卓錫於池陽之
+<lb ed="B" n="0176b13"/>杉山十方衲子日益麕集遂開梵剎以接待為事至者無他技
+<lb ed="B" n="0176b14"/>但精潔粥飯荼湯了無禪道佛法觀者諦信不疑九華道場迎
+<lb ed="B" n="0176b15"/>為叢林主蓮治已精苦忘身為眾凡化惡性必委曲周旋俟其
+<lb ed="B" n="0176b16"/>大信而後已行之廿年遠近傾心凡有所須應時如響足跡所
+<lb ed="B" n="0176b17"/>至一食一宿之地皆為道場若池陽之杉山九華之金剛峰觀
+<lb ed="B" n="0176b18"/>音山之金堂大山之草庵蓮嶺之靜室金陵之花山餘若秦頭
+<lb ed="B" n="0176b19"/>峯婆娑壠岑峰洞白沙山吉祥諸天隨地各建蘭若數十所以
+<lb ed="B" n="0176b20"/>修隱靜者居之咸以其徒主其業丙申仲春應眾請來皖山不
+<pb ed="B" xml:id="B27.0151.0177a" n="0177a"/>
+<lb ed="B" n="0177a01"/>數月百廢具舉三祖道場燦然復盛遐邇風動乃復歸九華越
+<lb ed="B" n="0177a02"/>明年皖山四眾固請重蒞蓮首肯曰去即去矣尚須三日明日
+<lb ed="B" n="0177a03"/>偶過九龍訪一庵主四顧欣然乃謂眾曰吾至此山大事畢矣
+<lb ed="B" n="0177a04"/>眾不喻其意二日示微疾竟終此塔於蘭若之右時萬曆丁酉
+<lb ed="B" n="0177a05"/>九月三日也年五十有四臘二十有五其弟子查汝定持其行
+<lb ed="B" n="0177a06"/>實乞憨山為之銘云</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

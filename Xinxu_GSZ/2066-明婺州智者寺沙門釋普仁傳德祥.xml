@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="義解">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>明婺州智者寺沙門釋普仁傳德祥 (From CBETA edition of 新續高僧傳 卷 005）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>明婺州智者寺沙門釋普仁傳<note place="inline">德祥</note>
+                    </head>
+                </head>
+                <p xml:id="pB27p0071a1301">釋普仁字德隱姓趙氏蘭溪人也性孤峭年十歲便有出塵之
+<lb ed="B" n="0071a14"/>想依金華寶石演法院月公祝髮及受具乃慨然求道危坐達
+<lb ed="B" n="0071a15"/>旦期息妄緣時隣院智者住山了然義道價甚高仁入室問答
+<lb ed="B" n="0071a16"/>機鋒遞相奮觸久之應部使者之請出主金華西峯淨土元季
+<lb ed="B" n="0071a17"/>喪亂天下紛擾仁遂引退戊<anchor xml:id="beg_22" type="cb-app"/>戌<anchor xml:id="end_22"/>冬有明兵至婺州太祖臨幸智
+<lb ed="B" n="0071a18"/>者寺見其虛席特詔仁主之坐夏十五處之連雲韶之南華杭
+<lb ed="B" n="0071a19"/>之中竺檄幣交至皆辭不赴洪武甲寅之秋使者三至請主淨
+<lb ed="B" n="0071a20"/>慈始強起應之開法之日聽者千人莫不挹深飲醕歎咏而去
+<pb ed="B" xml:id="B27.0151.0071b" n="0071b"/>
+<lb ed="B" n="0071b01"/>以乙卯八月八日端坐而寂臘五十年六十四著有三會語若
+<lb ed="B" n="0071b02"/>干卷山居詩百首同時止庵德祥洪武初亦主淨慈與仁均以
+<lb ed="B" n="0071b03"/>悟宗闡教為事未幾被徵為僧錄右善世後遷徑山主席二十
+<lb ed="B" n="0071b04"/>五年甲<anchor xml:id="beg_23" type="cb-app"/>戌<anchor xml:id="end_23"/>十月十三日倚座而寂壽六十三所著有桐嶼集為
+<lb ed="B" n="0071b05"/>詩刻苦逼近郊島尤善書法時人重之</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

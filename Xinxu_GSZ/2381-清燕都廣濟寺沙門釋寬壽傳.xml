@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="護法">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>清燕都廣濟寺沙門釋寬壽傳 (From CBETA edition of 新續高僧傳 卷 035）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>清燕都廣濟寺沙門釋寬壽傳</head>
+                </head>
+                <p xml:id="pB27p0270b1201">釋寬壽字玉光洪同人也少從廣濟洗元參究會明季寇亂京
+<lb ed="B" n="0270b13"/>國殘破乃潛跡南下隱遁名山翛然自遠清順治五年河朔敉
+<lb ed="B" n="0270b14"/>平民慶更始步禮五臺回翔都邑時恒明方閎法會欲以慈悲
+<lb ed="B" n="0270b15"/>福果化誘諸藩勝其殘殺欽壽道矩迎入方丈杜門<anchor xml:id="beg_129" type="cb-app"/>卻<anchor xml:id="end_129"/>軌與人
+<lb ed="B" n="0270b16"/>坐對終日無一言夜則焚香秉燭兀首匑匑危坐達旦寮侶見
+<lb ed="B" n="0270b17"/>之罔測高深及夫履席說戒辨言侃侃條理清晰一歲三期昕
+<lb ed="B" n="0270b18"/>夕無倦主斯講席十有三載出其門者數千人世祖龍興肇有
+<lb ed="B" n="0270b19"/>諸夏萬機之餘雅慕禪悅十三年冬幸臨廣濟住持德光入報
+<lb ed="B" n="0270b20"/>曰皇上駕至奈何壽方瞑然入定聞德光語啟視曰親近老僧
+<pb ed="B" xml:id="B27.0151.0271a" n="0271a"/>
+<lb ed="B" n="0271a01"/>耶何不入德光曰疾趣迎駕且至矣可奈何壽不欲出眾皆遑
+<lb ed="B" n="0271a02"/>遽而龍輦已駐山門侍衛傳呼甚急壽猶不行眾強扶之下殿
+<lb ed="B" n="0271a03"/>望見鑾儀眾僧皆蛇行匐伏壽獨屹立世祖見之勃然作色壽
+<lb ed="B" n="0271a04"/>緘默屏息容貌舒泰邈若無睹頃之天顏微霽始如正殿德光
+<lb ed="B" n="0271a05"/>指導隨侍壽瞠之以目已而趨歸方丈及回鑾將發世祖指謂
+<lb ed="B" n="0271a06"/>德光曰老宿崛強如此德光惶恐謝罪車駕還宮終日不懌復
+<lb ed="B" n="0271a07"/>遣侍衛至寺問曰不接駕出何經典壽抗聲曰出梵網經菩薩
+<lb ed="B" n="0271a08"/>戒中因檢經與侍衛曰可呈皇帝鑒侍衛馳去寺眾惶然相顧
+<lb ed="B" n="0271a09"/>失色而壽徜佯自若世祖展經歎賞久之越日召入椒園壽不
+<lb ed="B" n="0271a10"/>欲往眾勸之曰師獨不保障此山乎乃步入西華門至萬善殿
+<lb ed="B" n="0271a11"/>眾善知識皆在壽迺南向趺坐俄而傳呼駕至眾皆驚起趨階
+<lb ed="B" n="0271a12"/>長跪壽獨默坐略不為動世祖前席曰和尚好否則對曰好無
+<lb ed="B" n="0271a13"/>他語賜食畢即曳杖出世祖指示眾僧曰為佛護法不當如是
+<lb ed="B" n="0271a14"/>邪由是重之賫予有差王公卿士聞風嚮慕禮謁不絕十六年
+<lb ed="B" n="0271a15"/>冬傳旨閎法賜衣缽者七百五十人十八年世祖崩壽率眾哭
+<lb ed="B" n="0271a16"/>臨歸而太息曰大行升遐我亦無意人世矣以是年十二月二
+<lb ed="B" n="0271a17"/>十四日示寂荼毗得舍利六十餘粒壽八十僧臘五十有八</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

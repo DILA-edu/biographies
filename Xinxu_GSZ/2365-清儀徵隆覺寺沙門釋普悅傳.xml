@@ -1,0 +1,45 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="明律">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>清儀徵隆覺寺沙門釋普悅傳 (From CBETA edition of 新續高僧傳 卷 032）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>清儀徵隆覺寺沙門釋普悅傳</head>
+                </head>
+                <p xml:id="pB27p0258b0501">釋普悅字敷和姓趙氏江寧人也幼習儒術頗擅文詞應童子
+<lb ed="B" n="0258b06"/>試已錚錚有聲乃志切超塵自行薙染得戒後即依隆覺冶牧
+<lb ed="B" n="0258b07"/>精研律部操行篤謹不踰矩矱每當春雷冬雪馥戫戒香調護
+<lb ed="B" n="0258b08"/>苾芻為引禮導師之冠冶牧遷化乃就主席願力彌宏躬行愈
+<lb ed="B" n="0258b09"/>勵嘗謂毘尼一門為入道之始非踵其形迹奉其圓具即詡南
+<lb ed="B" n="0258b10"/>山正宗也必於教授導引之旨悉心研求夙夜罔懈精實猛進
+<lb ed="B" n="0258b11"/>乃能討覈律義庶幾不悞否則扞格難通無有是處是以規儀
+<lb ed="B" n="0258b12"/>嚴肅不教而成十方學子羣仰陶鑄大江南北聲譽流聞與千
+<lb ed="B" n="0258b13"/>歲戒法兩相輝映得法弟子若岫雯清者號為一時龍象以乾
+<lb ed="B" n="0258b14"/>隆三十一年九月十日示寂壽七十有三臘五十三</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

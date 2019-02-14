@@ -1,0 +1,46 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="雜識">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>清銅梁壽隆寺沙門釋悟賢傳真空_智曇 (From CBETA edition of 新續高僧傳 卷 065）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>清銅梁壽隆寺沙門釋悟賢傳<note place="inline">真空　智曇</note>
+                    </head>
+                </head>
+                <p xml:id="pB27p0472a0701">釋悟賢字愚嶺姓周氏銅梁人也襁褓多疾寄養空門稍長因
+<lb ed="B" n="0472a08"/>披衲城北壽隆寺資性穎悟超卓倫輩諷誦餘間兼習文翰六
+<lb ed="B" n="0472a09"/>寅波崙皆所棲止嘗游東南歷覽名區禪機既暢吟詠益工因
+<lb ed="B" n="0472a10"/>與同里廖先達王明誠左昌華吳乃賡合州孝廉張乃孚禹湛
+<lb ed="B" n="0472a11"/>巴縣龔有融諸名士結社賦詩極一時韵事著有六寅唱和集
+<lb ed="B" n="0472a12"/>及自定詩草一卷銅梁雅秀僧中以愚嶺為清代首稱云又真
+<lb ed="B" n="0472a13"/>空字問渠大足彭氏子為智曇五傳弟子好讀經史手不停披
+<lb ed="B" n="0472a14"/>工書法耽吟咏喜與文人唱和著有嶼峒吟一卷智曇自楚來
+<lb ed="B" n="0472a15"/>銅卓錫計都每以所餘造橋修路利濟行人真空師其法善叩
+<lb ed="B" n="0472a16"/>善施樂利尤溥且至性天成篤於孝友有古德遺風</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

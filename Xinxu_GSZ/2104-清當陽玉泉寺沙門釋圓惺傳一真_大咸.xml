@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="義解">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>清當陽玉泉寺沙門釋圓惺傳一真_大咸 (From CBETA edition of 新續高僧傳 卷 009）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>清當陽玉泉寺沙門釋圓惺傳<note place="inline">一真　大咸</note>
+                    </head>
+                </head>
+                <p xml:id="pB27p0098a1001">釋圓惺字鑑葊一號傳真姓蘇氏西蜀通江人也幼失恃怙依
+<lb ed="B" n="0098a11"/>於外宅九歲避寇梁山旁匿沙河菩提庵禮偶然師出家後為
+<lb ed="B" n="0098a12"/>破山老人行者清順治三年出蜀入楚謁玉泉恒河律師潛心
+<lb ed="B" n="0098a13"/>向學五年進具肄習律儀兼窮賢首二時聽受十有七年嘗參
+<lb ed="B" n="0098a14"/>耳根圓通猛然開寤為主僧一真所知真本當陽劉氏子初習
+<lb ed="B" n="0098a15"/>賢首教觀洞明經旨嘗講楞嚴經說三聚戒得圓通法門及體
+<lb ed="B" n="0098a16"/>性三昧者不可勝數惺參動靜二相了然不生之旨有省作偈
+<lb ed="B" n="0098a17"/>呈真有云原來在者裏何須向外求爛嚼人糟粕驢年未了休
+<lb ed="B" n="0098a18"/>真為印可付以衣法康熙元年湖南九谿鎮將郝公請演金剛
+<lb ed="B" n="0098a19"/>楞嚴二年土司宣慰向公延講法華皆能闡明祕奧玅入幾微
+<lb ed="B" n="0098a20"/>教海神龍無以踰之三年遊金陵見華藏大咸問訊之餘一喝
+<pb ed="B" xml:id="B27.0151.0098b" n="0098b"/>
+<lb ed="B" n="0098b01"/>云汝興教乘此喝應如何講惺曰下文緐冗附在來日歸寮呈
+<lb ed="B" n="0098b02"/>頌曰晴天轟霹靂平地起波濤欲曉如斯旨塚頭渰萊蒿咸覽
+<lb ed="B" n="0098b03"/>之嘿然翌日咸復問曰楞嚴經空有俱非汝試說之惺答以偈
+<lb ed="B" n="0098b04"/>曰說有不有說空不空行住坐臥常在其中咸厲聲曰此子大
+<lb ed="B" n="0098b05"/>有悟入已而入兩浙謁玉琳<g ref="#CB33445">󸊥</g>於天目遂參木陳老人為道玉
+<lb ed="B" n="0098b06"/>泉山水之勝曰堆藍出仙掌泉吐漱玉珠語意雋絕四年由四
+<lb ed="B" n="0098b07"/>明禮南海拜舍利越石梁五年復至華藏代座說法咸付以衣
+<lb ed="B" n="0098b08"/>拂惺辭不受咸曰宗教兼弘說行並用古今昭然何用辭為惺
+<lb ed="B" n="0098b09"/>拜而受之六年登九華清涼道出終南至峨嵋十三年乃旋玉
+<lb ed="B" n="0098b10"/>泉結茅山腰川湖總督蔡公毓榮重輝殿宇廣增香田十八年
+<lb ed="B" n="0098b11"/>提督徐公請開堂弘法一時賢俊如慧目具拙宗乘鶴飛梅谷
+<lb ed="B" n="0098b12"/>照玉瑩石皆當機演唱王公士庶亦樂聞法要二十二年剏修
+<lb ed="B" n="0098b13"/>珠橋二十八年增築十方堂三十五年邑侯以關陵請為建坊
+<lb ed="B" n="0098b14"/>表三十七葺觀泉亭董治唐賢碑碣三十八年復神州刻惠王
+<lb ed="B" n="0098b15"/>所書法華經板其維持象教不憚勤苦四十年三月八日說偈
+<lb ed="B" n="0098b16"/>而逝先數日自知期至力疾還玉泉與眾諙別語音琅琅其病
+<lb ed="B" n="0098b17"/>若失眾方冀其延年乃如約而去世壽七十四僧臘五十四門
+<lb ed="B" n="0098b18"/>人建塔於羅漢山荊州釋天茨為之銘以彰盛德天茨文詞爾
+<lb ed="B" n="0098b19"/>雅別有傳具弟十科惺著有語錄二卷</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

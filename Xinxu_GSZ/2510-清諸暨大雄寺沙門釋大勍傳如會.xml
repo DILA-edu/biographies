@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="淨讀">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>清諸暨大雄寺沙門釋大勍傳如會 (From CBETA edition of 新續高僧傳 卷 045）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>清諸暨大雄寺沙門釋大勍傳<note place="inline">如會</note>
+                    </head>
+                </head>
+                <p xml:id="pB27p0336b1201">釋大勍字仲符姓邊氏紹興人髫年出家於諸暨大雄寺及長
+<lb ed="B" n="0336b13"/>聞雲棲道聲因渡江禮焉深相契合傾心淨業晚歲憇錫大善
+<lb ed="B" n="0336b14"/>禪堂雅好華嚴日誦一函順治六年十一月示疾親書封龕記
+<lb ed="B" n="0336b15"/>語屬諸後事至期起坐着衣西向稱佛而寂如會字妙圓姓譚
+<lb ed="B" n="0336b16"/>氏順天人少有奇志便鄙肉食年廿九始出家誓行頭陀脇不
+<lb ed="B" n="0336b17"/>沾席初至南方唯事苦行後為道侶所感發壹意念佛遂得豁
+<lb ed="B" n="0336b18"/>忘身世見人不作寒溫語必猛厲貇切誨誡湻湻孤志獨行不
+<lb ed="B" n="0336b19"/>蓄長物順治五年秋過淮安清江浦眾共留之未幾以一衲贈
+<lb ed="B" n="0336b20"/>萬德庵主人且囑之曰吾不久將去特一事相託主人曰比來
+<pb ed="B" xml:id="B27.0151.0337a" n="0337a"/>
+<lb ed="B" n="0337a01"/>未久何遽言去曰西方去耳可以遺身付江流中施諸魚蟲主
+<lb ed="B" n="0337a02"/>人辤不敢曰然則荼毘後以骨和粉投之大江何如主人曰諾
+<lb ed="B" n="0337a03"/>臨化之日先命購香燭眾莫測其意至夜四鼓大呼主人曰速
+<lb ed="B" n="0337a04"/>啟門為我熱香然燭主人為然香燭竟視之寂然矣年七十一</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

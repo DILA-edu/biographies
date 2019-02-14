@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="護法">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>明金陵大天界寺沙門釋慧曇傳 (From CBETA edition of 新續高僧傳 卷 034）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>明金陵大天界寺沙門釋慧曇傳</head>
+                </head>
+                <p xml:id="pB27p0266a1201">釋慧曇字覺原姓楊氏天台人也母賈氏夢明月自天而墮取
+<lb ed="B" n="0266a13"/>而吞之遂有娠及生容貌嶷如不與羣童狎每入塔廟輒對法
+<lb ed="B" n="0266a14"/>王瞻禮父母察其有方外緣使依越之法果寺誦經論年十六
+<lb ed="B" n="0266a15"/>為大僧受具戒已而學律於明慶杲公習教於高麗教公精進
+<lb ed="B" n="0266a16"/>力久忽自歎曰毗尼之嚴科文之繁固吾佛祖方便示人若欲
+<lb ed="B" n="0266a17"/>截斷眾流一超直入非禪波羅密曷能致之時廣智笑隱訢方
+<lb ed="B" n="0266a18"/>敷揚大法於中天竺海內仰之如景星慶雲曇往造焉備陳求
+<lb ed="B" n="0266a19"/>道之切廣智曰從外入者決非家珍道在<anchor xml:id="beg_123" type="cb-app"/>己<anchor xml:id="end_123"/>耳奚向人求耶曇
+<lb ed="B" n="0266a20"/>退凝神獨坐一室久之未有所入廣智一日舉百丈野狐語乃
+<pb ed="B" xml:id="B27.0151.0266b" n="0266b"/>
+<lb ed="B" n="0266b01"/>大悟曰佛法入我手矣只為分明極翻成所得遲廣智曰爾何
+<lb ed="B" n="0266b02"/>所見敢大言邪曇展兩手以示廣智頷之乃命侍香天曆二年
+<lb ed="B" n="0266b03"/>
+                    <anchor xml:id="beg_124" type="cb-app"/>己<anchor xml:id="end_124"/>巳龍翔新建文宗命廣智為開山住持曇實從之為掌藏鑰
+<lb ed="B" n="0266b04"/>明年庚午廣智如燕都見文宗於奎章閣同行者皆股栗不能
+<lb ed="B" n="0266b05"/>前曇獨神氣恬然廣智歎曰真吾家師子兒也及歸寺新鑄銅
+<lb ed="B" n="0266b06"/>鐘成廣智曰非福慧兼美莫先鳴鐘乃命曇首擊之至順二年
+<lb ed="B" n="0266b07"/>辛未出主牛頭山祖堂寺曇畚剔穢荒為之起廢使殿閣一新
+<lb ed="B" n="0266b08"/>且改其號為祖山寺至正三年癸未遷清涼廣惠禪寺曇復自
+<lb ed="B" n="0266b09"/>撙節使有餘貲興葺頹廢帝師嘉之授以淨覺妙辯之號尋遷
+<lb ed="B" n="0266b10"/>保寧十六年丙申明兵取建業曇謁太祖於營門見其氣貌異
+<lb ed="B" n="0266b11"/>常歎曰此福德僧也命主蔣山太平興國寺時當儉歲香積之
+<lb ed="B" n="0266b12"/>供恃有檀施眾無匱乏山下田夫多隸軍籍曇懼寺田蕪廢請
+<lb ed="B" n="0266b13"/>而歸之山中林木為樵者翦伐又請而禁之踰年丁酉詔改龍
+<lb ed="B" n="0266b14"/>翔為大天界寺命曇主之每設法會曇必升座舉宣秘要車駕
+<lb ed="B" n="0266b15"/>親臨恩數優洽遠邇學徒聞風奔赴堂筵至無所容先是僧堂
+<lb ed="B" n="0266b16"/>寮庫有司權以貯戎器久而不歸復請於朝太祖乃命相國李
+<lb ed="B" n="0266b17"/>韓公出之且御書天下第一禪林縣之寺門洪武元年戊申春
+<lb ed="B" n="0266b18"/>三月開善世院秩視從二品特授曇演梵善世利國崇教大禪
+<lb ed="B" n="0266b19"/>師住持大天界寺統諸山釋教頒之誥命賜以紫方袍時章逢
+<lb ed="B" n="0266b20"/>之士以釋為世蠧請滅除之疏再上太祖以其章示曇曇曰孔
+<pb ed="B" xml:id="B27.0151.0267a" n="0267a"/>
+<lb ed="B" n="0267a01"/>子以佛為西方聖人以此知真儒必不非釋非釋必非真儒太
+<lb ed="B" n="0267a02"/>祖亦以佛教陰翊王度又善曇言毀釋之議遂寢又聞寺僧多
+<lb ed="B" n="0267a03"/>行非法命曇嚴馭之曇但誘以善言諸部沙門污染習俗者咸
+<lb ed="B" n="0267a04"/>思蕩滌不悖教範二年<anchor xml:id="beg_125" type="cb-app"/>己<anchor xml:id="end_125"/>酉冬得瘖疾始罷院事三年庚戌春
+<lb ed="B" n="0267a05"/>三月疾良已夏六月奉使西域四年辛亥秋七月至省合<anchor xml:id="beg_126" type="cb-app"/>剌<anchor xml:id="end_126"/>國
+<lb ed="B" n="0267a06"/>宣布威德其國王感慕館於佛山寺待以師禮九月庚午示疾
+<lb ed="B" n="0267a07"/>甲戌見王自陳欲歸之意王令名僧咸來相慰乙亥浴沐更衣
+<lb ed="B" n="0267a08"/>呼左右曰余不能復命矣趺坐夜半問日出否侍者曰未也已
+<lb ed="B" n="0267a09"/>而復問至於三四曰日出矣恬然而寂明洪武四年辛亥秋九
+<lb ed="B" n="0267a10"/>月丙子也踰五日貌如生國王大敬歎聚香代薪築壇而焚之
+<lb ed="B" n="0267a11"/>王率百僚至壇下命比丘千餘旋繞誦諸陀羅尼呪至火滅方
+<lb ed="B" n="0267a12"/>已拾靈骨祔葬其國舍利塔中七年甲寅秋九月丙寅天界住
+<lb ed="B" n="0267a13"/>持宗泐始奉遺衣藏於金陵聚寶山雨華臺傍曇廣顙豐頤平
+<lb ed="B" n="0267a14"/>頂大耳顏作紅玉色耳如白珂目光炯炯射人學者見之不威
+<lb ed="B" n="0267a15"/>而懾及即之也盎然而溫若有所叩隨機而應未嘗務為奇巧
+<lb ed="B" n="0267a16"/>聞者自然有所悟入其毗翊宗教無一息或忘廣廈細旃之間
+<lb ed="B" n="0267a17"/>從容召對據經持論每罄其蘊蓄松園之復釋氏私租之免皆
+<lb ed="B" n="0267a18"/>曇所請也弟子法印淨戒輯其行事乞金華宋濂為之銘具文
+<lb ed="B" n="0267a19"/>憲集</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

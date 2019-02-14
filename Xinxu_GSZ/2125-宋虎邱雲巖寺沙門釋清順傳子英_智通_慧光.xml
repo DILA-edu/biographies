@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="習禪">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>宋虎邱雲巖寺沙門釋清順傳子英_智通_慧光 (From CBETA edition of 新續高僧傳 卷 011）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>宋虎邱雲巖寺沙門釋清順傳<note place="inline">子英　智通　慧光</note>
+                    </head>
+                </head>
+                <p xml:id="pB27p0111b0801">釋清順宋至道中知州事魏庠奏改虎邱律寺為雲巖禪寺迎
+<lb ed="B" n="0111b09"/>清順主之虎邱自竺道壹道生以來主法席者多崇義解至清
+<lb ed="B" n="0111b10"/>始啟禪派故後學奉清為鼻祖云又子英字覺印姓懷氏錢塘
+<lb ed="B" n="0111b11"/>人在母孕時惡聞羶腥生質既異不伍凡童年十五從長老希
+<lb ed="B" n="0111b12"/>言出家又五年受具游方一夕夢白衣大士注琉璃瓶水與飲
+<lb ed="B" n="0111b13"/>若甘露灌頂自是豁然遂得法於圓通秀公坐大法會者九雲
+<lb ed="B" n="0111b14"/>巖其最後也英頎秀深靜鬚髮長數寸目光炯然如古圖中老
+<lb ed="B" n="0111b15"/>僧在巖壁者與人言不離忠孝慈順開悟來學隨其根性利鈍
+<lb ed="B" n="0111b16"/>淺深示以津梁故人人<g ref="#CB33479">䢜</g>信而名亦高說法三十餘年得度二
+<lb ed="B" n="0111b17"/>百五十餘人政和七年七月十四日卒葬於虎邱東庵開封府
+<lb ed="B" n="0111b18"/>司士曹事何安中為撰塔銘其弟子智通號法海繼主虎邱法
+<lb ed="B" n="0111b19"/>席既狀其師行事請銘於何安中安中稱其扶教弘道名並其
+<lb ed="B" n="0111b20"/>師東坡有遺虎邱通長老書知其聲望矣又慧光有道行賜號
+<pb ed="B" xml:id="B27.0151.0112a" n="0112a"/>
+<lb ed="B" n="0112a01"/>傳法慧滿大師</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

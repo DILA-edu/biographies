@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="興福">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>明潤州金山寺沙門釋洪肇傳 (From CBETA edition of 新續高僧傳 卷 055）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>明潤州金山寺沙門釋洪肇傳</head>
+                </head>
+                <p xml:id="pB27p0406a0101">釋洪肇字縉雲姓高氏蜀人也性質聰瑩思力敏卓髫齔之歲
+<lb ed="B" n="0406a02"/>芟染於鳳凰寺被甲律儀下帷經閣年十六參學南詢遍歷講
+<lb ed="B" n="0406a03"/>席受戒於憨山聽法於巢松一雨蓮峰二楞力修梵行操持罔
+<lb ed="B" n="0406a04"/>懈既而歎曰正法道要唯在解脫拘滯文字其能濟乎乃走少
+<lb ed="B" n="0406a05"/>室參學於無言方丈之室侍立三載簟瓢之供日常一食於是
+<lb ed="B" n="0406a06"/>密參宗要身心豁然薝蔔沁香醐醍喻味乃摩頂受偈依派傳
+<lb ed="B" n="0406a07"/>宗道法既明有無俱徹辤杖履飛錫吳門會潤州金山伽藍乍
+<lb ed="B" n="0406a08"/>謝教鐘中否縉紳士子僉契慈緣稽首請赴卓錫之日幡幢飛
+<lb ed="B" n="0406a09"/>翔白黑忭舞洪肇念本慈悲心懷信義權實安定通觀平等斗
+<lb ed="B" n="0406a10"/>尺無私衣止一衲檀施雲委悉充常住菩提之域枳棘滌除般
+<lb ed="B" n="0406a11"/>若之杭橫流已濟群情充洽眾志咸服門徒贊誦不絕於口以
+<lb ed="B" n="0406a12"/>大徹堂為寶誌肇興水陸之地而像法久湮前修未纘乃造水
+<lb ed="B" n="0406a13"/>陸變像六十四軸備其儀文建水陸閣庋焉更於堂之前楹創
+<lb ed="B" n="0406a14"/>立準提閣以奉香像建置周密信施駢羅精舍攸躋度城斯感
+<lb ed="B" n="0406a15"/>凡碩士令名道樞鼎望莫不響風參請仰叩洪鐘肇應受融明
+<lb ed="B" n="0406a16"/>機對敏給奉儀形者荷師子之威凜戒說者悅甘露之澤雲雷
+<lb ed="B" n="0406a17"/>拯其萬數藥草溉其根莖共喻法因均承善誘鐙傳雨潤虛往
+<lb ed="B" n="0406a18"/>實歸戶外之屨爛其滿矣肇密教內修肅嚴外度興復三有安
+<lb ed="B" n="0406a19"/>喻四因兼以創搆聿興勤劬過瘁因仍成病猶自振飾乃太息
+<lb ed="B" n="0406a20"/>曰吾性植虛恬願耽雲壑因緣大眾墜影塵勞雖日飯萬人創
+<pb ed="B" xml:id="B27.0151.0406b" n="0406b"/>
+<lb ed="B" n="0406b01"/>楹千舍未足以益我性真曷若孤松片雲蕭然靜寄無言自合
+<lb ed="B" n="0406b02"/>無相誰離哉崇禎五年歲在壬申七月七日子夜拈偈辤眾正
+<lb ed="B" n="0406b03"/>目端身日建辰晷趺坐示滅年四十有七臘三十有九明年四
+<lb ed="B" n="0406b04"/>月九日同衣福城謹護法體歸藏靈龕建墖京口寶蓋山陽明
+<lb ed="B" n="0406b05"/>潘一桂為作誌銘追書本行勒之貞珉詞曰大德名化為天人
+<lb ed="B" n="0406b06"/>師舟筏三昧鐙巨毘尸慈雲覆身福河灌頂識解脫機破煩惱
+<lb ed="B" n="0406b07"/>穽興慈運悲萬物調景往而不著行而不永器為外假形為煙
+<lb ed="B" n="0406b08"/>聚隨世生滅我無去住慧光無盡法身不遷塔樹勿翦永對鑪
+<lb ed="B" n="0406b09"/>煙</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

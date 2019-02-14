@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="淨讀">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>明會稽沙門釋明證傳靜明尊者 (From CBETA edition of 新續高僧傳 卷 043）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>明會稽沙門釋明證傳<note place="inline">靜明尊者</note>
+                    </head>
+                </head>
+                <p xml:id="pB27p0326a1201">釋明證字無塵會稽魏氏子性醕厚簡默望之若愚少不食腥
+<lb ed="B" n="0326a13"/>羶常欲出家偶過鄰寺遇五臺老僧如舊相識便求皈依僧曰
+<lb ed="B" n="0326a14"/>汝三年後始可薙髮當先苦行學諸經典乃往叢林勤力作務
+<lb ed="B" n="0326a15"/>嘗學楞嚴咒日讀一字偶誤摩作磨經三日改正自旦至暮僅
+<lb ed="B" n="0326a16"/>守一言夜禮佛號徹曉不寐三年咒成大喜狂嘯登樹言往西
+<lb ed="B" n="0326a17"/>方墮地幾絕良久方甦臥病七日周身痛楚病愈宛如隔世動
+<lb ed="B" n="0326a18"/>靜言語頓殊平昔及期五臺僧果至為明祝髮受具戒焉且屬
+<lb ed="B" n="0326a19"/>明終身誦法華明初未嘗學問展經朗誦無滯已而華嚴湼槃
+<lb ed="B" n="0326a20"/>諸經悉得成誦乃謂老僧曰吾欲乞食以供養報是夜忽失老
+<pb ed="B" xml:id="B27.0151.0326b" n="0326b"/>
+<lb ed="B" n="0326b01"/>僧所在後明日誦法華一部途中嘗負小冊樹下道旁趺誦不
+<lb ed="B" n="0326b02"/>輟日唯二湌更不雜食三經衣缽之外一無所畜人有施予隨
+<lb ed="B" n="0326b03"/>得隨捨每諷人出家不擇賢愚人或訕之明乃歎曰賢者應度
+<lb ed="B" n="0326b04"/>代佛揚化愚者應度輪迴免墮所度弟子凡二十餘輩或入其
+<lb ed="B" n="0326b05"/>門儼如客僧不致一言誦經危坐拂衣便去或留之則曰疏乃
+<lb ed="B" n="0326b06"/>益親人問法但微笑不多言晝夜持念脇不至席如是者三十
+<lb ed="B" n="0326b07"/>年自知期至往謁雲棲還至澗中謂侍者曰汝往報眾徒我明
+<lb ed="B" n="0326b08"/>日當去明日亭午諸徒咸集但聞異香馥馥空中誦聲朗朗合
+<lb ed="B" n="0326b09"/>掌而逝雲棲大師聞之欣然率眾為之舉火時萬歷癸<anchor xml:id="beg_163" type="cb-app"/>巳<anchor xml:id="end_163"/>年也
+<lb ed="B" n="0326b10"/>靜明尊者名真定姓諸氏越人少孤貧無所依為人質直寡言
+<lb ed="B" n="0326b11"/>語過錢塘傭於戴居士交吾家積貲十五年交吾謂之曰汝物
+<lb ed="B" n="0326b12"/>足以昏配成家業矣真定不答謂人曰戴翁勸吾成家何為吾
+<lb ed="B" n="0326b13"/>意欲出家但不遇明師耳一日見無塵欣然自慶曰是吾師矣
+<lb ed="B" n="0326b14"/>瓣香歸禮無塵示以一切捐捨苦行念佛求生淨土嘗慕華嚴
+<lb ed="B" n="0326b15"/>法華諸經不能展誦無塵云不能口誦當以身誦精勤禮拜能
+<lb ed="B" n="0326b16"/>所性空即身心誦經也因空所有造像齋僧施薑茗以利行者
+<lb ed="B" n="0326b17"/>躬親樵汲二十餘年已而入山結茆一心禮念日夜無間恒伐
+<lb ed="B" n="0326b18"/>薪易米供諸靜室時雲棲創築值大雪真定負米送之往還百
+<lb ed="B" n="0326b19"/>餘里旦去暮歸不霑粒水蓮師歎曰大菩薩來送供眾中恐難
+<lb ed="B" n="0326b20"/>消受真定曰富貴贈百斛此一粥之需何足言蓮師曰苦行得
+<pb ed="B" xml:id="B27.0151.0327a" n="0327a"/>
+<lb ed="B" n="0327a01"/>米衝雪擔來勝富貴百斛多矣開荒種蔬不問僧俗悉施與之
+<lb ed="B" n="0327a02"/>有盜其樹者引避不及倉卒墜樹真定反撫慰之負所伐樹至
+<lb ed="B" n="0327a03"/>其家且曰欲用薪木可告我當為致之萬曆戊子大飢疫民死
+<lb ed="B" n="0327a04"/>載道真定痛如骨肉有過其門者推食與之嘗拾金五兩坐守
+<lb ed="B" n="0327a05"/>十日無問者乃益<anchor xml:id="beg_164" type="cb-app"/>己<anchor xml:id="end_164"/>金為之誦經施食以祐失金者生平所蓄
+<lb ed="B" n="0327a06"/>盡助善緣隱德密行人所罕知身無完布伏臘一衲弟子或慮
+<lb ed="B" n="0327a07"/>其寒則曰吾晝寒掘地夜寒拜經唯苦汗出寧畏泠邪年七十
+<lb ed="B" n="0327a08"/>二忽有微疾延至澗中有客送夾纊不肎受苦勸乃披之已而
+<lb ed="B" n="0327a09"/>笑曰可見世人喜穿綿比衲衣之暖不同病愈問眾曰今日何
+<lb ed="B" n="0327a10"/>日曰十二月四日曰明日午時我將行至夜半喚人扶起面西
+<lb ed="B" n="0327a11"/>而坐問何時曰子時五日也我去矣眾徒曰師既言午時何不
+<lb ed="B" n="0327a12"/>如期曰我龕與柴俱在江干轉回三四十里天寒雨雪往返不
+<lb ed="B" n="0327a13"/>及未得入龕恐累汝耳俄而高聲誦佛佛聲漸微而化真定積
+<lb ed="B" n="0327a14"/>薪三載遺命荼毘經十日火滅牙齒頂骨手足指節悉皆不壞
+<lb ed="B" n="0327a15"/>色如車渠塔於庵前山頂弟子如嵩為理安重開山祖自有傳</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

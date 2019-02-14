@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="義解">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>南宋餘杭上天竺講寺沙門釋法照傳 (From CBETA edition of 新續高僧傳 卷 003）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>南宋餘杭上天竺講寺沙門釋法照傳</head>
+                </head>
+                <p xml:id="pB27p0048a0801">釋法照姓童氏黃巖人父好善生九子照其次也母陳氏夢日
+<lb ed="B" n="0048a09"/>霣蹇裳得之孕十二月而生氣貌奇偉耳垂肩眼如電幼入小
+<lb ed="B" n="0048a10"/>學便多穎悟塾師異之年十三投聖水出家以蒙庵宣為師一
+<lb ed="B" n="0048a11"/>夕自外歸寺僧遙望兩炬晶炯近之乃照也蓋目光遠射令人
+<lb ed="B" n="0048a12"/>驚畏薙染後精進教乘三閱大藏出游諸方豁堂當代尊宿貽
+<lb ed="B" n="0048a13"/>書褒勉諸山以職延致悉不就攜香禮北峯印次至蔣山參琰
+<lb ed="B" n="0048a14"/>淅翁問答之際深器之北峯居下竺招之歸淅翁以教門為屬
+<lb ed="B" n="0048a15"/>講論授受泠然有得北峯順寂振錫東還錢丞相作高僧堂延
+<lb ed="B" n="0048a16"/>照共談年三十三改住天台大慈遷聖水史衛王舉住雲間延
+<lb ed="B" n="0048a17"/>慶繼遷鳳山褒親丞相史永公舉住四明延慶海順二法師自
+<lb ed="B" n="0048a18"/>日本來聽講且作讀教記繪照像歸國高麗崔丞相亦致書問
+<lb ed="B" n="0048a19"/>佛法大旨乞九祖圖並贈漂瓷缽盂及金觀音香藥育王虛席
+<lb ed="B" n="0048a20"/>郡請兼攝舉癡絕冲自代閫帥奪寺園為酒庫杖履而遁道出
+<pb ed="B" xml:id="B27.0151.0048b" n="0048b"/>
+<lb ed="B" n="0048b01"/>東掖兩山學徒迎之境上宏齋包公屈致智者真覺重祖庭也
+<lb ed="B" n="0048b02"/>理宗聞其名敕住下天竺尋遷上天竺補左街鑒義御筆特賜
+<lb ed="B" n="0048b03"/>佛光法師進錄左街賜金襴袈裟召見倚桂閣對御稱旨集慶
+<lb ed="B" n="0048b04"/>寺成詔命開山力辤舉白蓮觀止誠公自代明年誠寂有旨特
+<lb ed="B" n="0048b05"/>轉左右街都綱錄令住集慶不許辤免御書晦巖二大字賜之
+<lb ed="B" n="0048b06"/>開無礙講凡禪教律三宗學徒雲集聞名開悟召見延和殿講
+<lb ed="B" n="0048b07"/>華嚴經又大書靈山堂以賜遣姪武經郎童炎奉宸翰歸其里
+<lb ed="B" n="0048b08"/>東宮召見復古殿講般若經再賜紫金襴袈裟齋於明華殿聖
+<lb ed="B" n="0048b09"/>眷隆渥昔未曾有偶因面對力乞還山度宗即位敕再住上天
+<lb ed="B" n="0048b10"/>竺前後居山二十四年平章賈魏公為造塔於寺之東岡奏請
+<lb ed="B" n="0048b11"/>錫名曰天巖塔院復加恩賚賜田三頃以助其費癸酉秋示疾
+<lb ed="B" n="0048b12"/>移居塔院卻藥屏醫作文自祭中秋之夕書偈曰佛壽八十我
+<lb ed="B" n="0048b13"/>多九年虛空掇轉大用現前擲筆瑞坐而逝咸湻癸酉八月十
+<lb ed="B" n="0048b14"/>五日也得年八十有九僧臘七十四弟子妙應繼席得法四十
+<lb ed="B" n="0048b15"/>餘人得度者一百餘人窆於天巖遵初志也明年賜<anchor xml:id="beg_11" type="cb-app"/>諡<anchor xml:id="end_11"/>曰普通
+<lb ed="B" n="0048b16"/>法師答曰慈應所撰讀教記錄二十卷為學者日月其餘法語
+<lb ed="B" n="0048b17"/>遺文諸弟子多所記錄不可罄述</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

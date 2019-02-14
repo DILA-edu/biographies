@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="興福">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>清公安報慈寺沙門釋濟亮傳問石_原直_樹可徹_雪幹遠 (From CBETA edition of 新續高僧傳 卷 057）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>清公安報慈寺沙門釋濟亮傳<note place="inline">問石　原直　樹可徹　雪幹遠</note>
+                    </head>
+                </head>
+                <p xml:id="pB27p0417b1001">釋濟亮字灰如姓王氏萍鄉人也父本儒素母簡氏亦有善德
+<lb ed="B" n="0417b11"/>世積醕和感徵吉兆故亮生有夙因幼習誦讀便喜內典鄉塾
+<lb ed="B" n="0417b12"/>之後樂近僧徒因告二親願出塵網竟弗之許年三十乃託商
+<lb ed="B" n="0417b13"/>游楚舟次繡林始從自性老宿薙落俄而受戒大溈訪道吳門
+<lb ed="B" n="0417b14"/>首依大樹證公遵教參究久之大有發明蓋已升其堂矣後歷
+<lb ed="B" n="0417b15"/>天童三峰徧謁諸老咸以法器目之亮殊以大慧未圓悟時深
+<lb ed="B" n="0417b16"/>警策已而聞問石唱道天隆遂往依之服膺拳拳三易寒暑曲
+<lb ed="B" n="0417b17"/>盡大法所謂五家宗旨不傳之密俱從定力得之如指諸掌更
+<lb ed="B" n="0417b18"/>無所疑因仍反楚住于夾山是時問石亦應楚藩之請道重湖
+<lb ed="B" n="0417b19"/>南北間亮則屏息於碧巖青嶂若弗聞也者待其退席白雲乃
+<lb ed="B" n="0417b20"/>走僧致詢白雲門庭高峻不輕授人顧於亮眷眷弗捨若風穴
+<pb ed="B" xml:id="B27.0151.0418a" n="0418a"/>
+<lb ed="B" n="0418a01"/>之於首山焉亮終自韜晦時思引退乃靈巖挽之於前檗庵推
+<lb ed="B" n="0418a02"/>之於後而原直且激勵之使之出世原直道眼空闊不可一世
+<lb ed="B" n="0418a03"/>於亮獨傾倒篤摯勉令升座九峰萬眾歎服未幾應公安報慈
+<lb ed="B" n="0418a04"/>之請寺本創自唐時藏嶼禪師曆宋迄元宗風蔚然殿宇宏麗
+<lb ed="B" n="0418a05"/>明季鼎革燼于兵燹雖圓通一殿古制猶存亦僅支梁棟而廊
+<lb ed="B" n="0418a06"/>廡寮舍蕩然俱空自亮率彼高足憇錫于茲法幢既建檀施旋
+<lb ed="B" n="0418a07"/>集曾不踰期而法堂禪關香積之厨次第具舉雖築垣植樹事
+<lb ed="B" n="0418a08"/>必躬親蓋弛笠之時但見莖草晏坐之際蔚為寶坊矣後為湖
+<lb ed="B" n="0418a09"/>南撫軍衡齋周公請赴白雲亮亦自以為得法之地力為興復
+<lb ed="B" n="0418a10"/>慈風所扇神人悅助舉已失之土田久廢之殿閣於荒煙蔓草
+<lb ed="B" n="0418a11"/>中恢擴崇隆悉復舊觀謂少酬夙願而亮亦勤瘁矣公安二聖
+<lb ed="B" n="0418a12"/>寺者剏始安遠二公佛東圓悟亦嘗於此演唱宗乘廢毀已甚
+<lb ed="B" n="0418a13"/>亮久懷興葺乃建立就緒適值南詔之變兵抵江介亮年臘已
+<lb ed="B" n="0418a14"/>高弟子迎歸報慈一時悍弁武卒入其境者莫不展敬迴怒為
+<lb ed="B" n="0418a15"/>悲其馴感暴惡如此亮性剛介嚴冷輕名重道志堅行密去留
+<lb ed="B" n="0418a16"/>無所執恡所至之地如威鳳卒止百鳥翔集契嵩善嗔慈明喜
+<lb ed="B" n="0418a17"/>罵亮蓋兼之而徒眾益盛遠近趨風隨其根器各有所造以清
+<lb ed="B" n="0418a18"/>康熙辛酉冬十一月二十九日示寂壽八十臘四十九荼毘得
+<lb ed="B" n="0418a19"/>舍利數十所著語錄四卷塔于寺西原弟子樹可徹雪幹遠復
+<lb ed="B" n="0418a20"/>繼其志重修大雄殿藏經閣不數載興廢舉墜光復舊物皆足
+<pb ed="B" xml:id="B27.0151.0418b" n="0418b"/>
+<lb ed="B" n="0418b01"/>砥柱末法唱導叢林雪後繼席報慈樹又徇神山之請興復祖
+<lb ed="B" n="0418b02"/>庭矣</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

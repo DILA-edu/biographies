@@ -1,0 +1,46 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="興福">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>明雲南雞足山傳衣寺沙門釋寂觀傳 (From CBETA edition of 新續高僧傳 卷 055）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>明雲南雞足山傳衣寺沙門釋寂觀傳</head>
+                </head>
+                <p xml:id="pB27p0404b0101">釋寂觀字法界姓陳氏葉榆人生性純篤丱角喪母哀泣幾滅
+<lb ed="B" n="0404b02"/>見俗演目連乃愀然曰欲報劬勞之恩非此莫能盡心因思出
+<lb ed="B" n="0404b03"/>家往白於父父有難色固請許之往蕩山禮印光得度光學富
+<lb ed="B" n="0404b04"/>理超貫激宗教既得寂觀知為後勁命名錫字開示殊深久之
+<lb ed="B" n="0404b05"/>乃辭光曰南歷百城差別之竟已見東邁萬里難獲之法可求
+<lb ed="B" n="0404b06"/>詎敢坐迷所寶辜負此生光改顏而遣之曰吾道行矣遂徧游
+<lb ed="B" n="0404b07"/>名山乃至燕都叩徧融入室請益至再至三俱承印可時葉榆
+<lb ed="B" n="0404b08"/>薦紳欽其名德累致書祈請<anchor xml:id="beg_1c2" type="cb-app"/>卻<anchor xml:id="end_1c2"/>之不赴後聞光寂乃回淔過響
+<lb ed="B" n="0404b09"/>山遇虎眓目視之虎頫首而去後居雞足傳衣寺時寺燬于火
+<lb ed="B" n="0404b10"/>乃危坐松下檀越感應不日興復規制弘備更勝於昔當眾務
+<lb ed="B" n="0404b11"/>緐殷之日手不釋卷而事無墮廢風徽遠矣</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

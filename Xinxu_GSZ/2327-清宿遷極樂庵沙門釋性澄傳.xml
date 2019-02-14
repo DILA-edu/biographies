@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="明律">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>清宿遷極樂庵沙門釋性澄傳 (From CBETA edition of 新續高僧傳 卷 029）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>清宿遷極樂庵沙門釋性澄傳</head>
+                </head>
+                <p xml:id="pB27p0241a1301">釋性澄字湛一姓胡氏裳邑人也幼事章句頗厭緐文抗志高
+<lb ed="B" n="0241a14"/>邁願從淨息年近弱冠就本邑普照寺了塵落髮挾錫南遊參
+<lb ed="B" n="0241a15"/>學淮安受具戒於嵩乳復從正觀法主習賢首教棲止袁浦慈
+<lb ed="B" n="0241a16"/>雲庵中澹茹數年刺血書華嚴報恩經嗣參玉林諸耆宿最後
+<lb ed="B" n="0241a17"/>登千華覲見月精習戒律忽焉三載止作二持服膺罔懈甲午
+<lb ed="B" n="0241a18"/>受宿遷智恒請主極樂院事以法度人歷歲傳牃遠侶雲集道
+<lb ed="B" n="0241a19"/>流景附檀施日富鳩工庀材從事修建大淮以北千里之內極
+<lb ed="B" n="0241a20"/>樂遂為一大叢林辛丑歲淮陰紳耆敦求宏法澄至重興圓明
+<pb ed="B" xml:id="B27.0151.0241b" n="0241b"/>
+<lb ed="B" n="0241b01"/>古寺勝會無遮復徇邳徐兩淮名剎請修大悲懺法每感瑞異
+<lb ed="B" n="0241b02"/>深息恬退還山後雖年衰猶精進不輟行般舟三昧不坐不臥
+<lb ed="B" n="0241b03"/>三月而息又念四方行腳去極樂北無息肩處乃於峒峿五花
+<lb ed="B" n="0241b04"/>頂建全潮庵山下道旁並設茶座以利來者康熙甲子得腹疾
+<lb ed="B" n="0241b05"/>至十一月朔日呼湯沐浴更衣命侍者集眾曰吾今日當與眾
+<lb ed="B" n="0241b06"/>別端坐號佛悠然而逝春秋六十九坐夏三十二塔於全潮庵
+<lb ed="B" n="0241b07"/>院所著大悲淨土懺法瑜伽燄口作觀節次儀文若干卷先後
+<lb ed="B" n="0241b08"/>演戒三十餘壇感應奇異恐涉驚疑不復筆之簡冊云</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

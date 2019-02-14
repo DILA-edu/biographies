@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="習禪">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>清峨湄毘盧院沙門釋克誠傳貫之_性藏_實如 (From CBETA edition of 新續高僧傳 卷 022）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>清峨湄毘盧院沙門釋克誠傳<note place="inline">貫之　性藏　實如</note>
+                    </head>
+                </head>
+                <p xml:id="pB27p0187a1201">釋克誠南涪人順治時明經也年四十棄家為僧居峩眉山毘
+<lb ed="B" n="0187a13"/>盧院與伏虎寺貫之相親善居山三十年一瓶一缽他無長物
+<lb ed="B" n="0187a14"/>貫之犍為人少出家從三濟得法講經於伏虎寺重築堂廡廓
+<lb ed="B" n="0187a15"/>廣寺基臨終偈云年經七十六自愧無長處私誓深如海道心
+<lb ed="B" n="0187a16"/>高似佛生生任我行世世人天路萬物常圍繞那些隨分足性
+<lb ed="B" n="0187a17"/>藏字紫芝渝城人年十五祝髮主白水寺三十年九開禪祗有
+<lb ed="B" n="0187a18"/>語錄數卷康熙癸丑撫軍延至江左乙卯寂於楊州上方寺其
+<lb ed="B" n="0187a19"/>別眾偈云年光五十七世緣今已畢東海石頭枯大峩如鐵壁
+<lb ed="B" n="0187a20"/>實如峩眉人居伏虎寺貫之四傳弟子也受法於可聞著有雜
+<pb ed="B" xml:id="B27.0151.0187b" n="0187b"/>
+<lb ed="B" n="0187b01"/>集若干卷</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

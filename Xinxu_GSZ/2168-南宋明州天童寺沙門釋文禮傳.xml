@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="習禪">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>南宋明州天童寺沙門釋文禮傳 (From CBETA edition of 新續高僧傳 卷 014）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>南宋明州天童寺沙門釋文禮傳</head>
+                </head>
+                <p xml:id="pB27p0133b0701">釋文禮字滅翁姓阮氏臨安人也家於天目山麓因別號天目
+<lb ed="B" n="0133b08"/>生性聰慧別具靈穎家世田作嘗在髫年從母出桑攜籃相隨
+<lb ed="B" n="0133b09"/>母戲之曰提筐者誰忽焉有省始懷出塵之想年十六依邑之
+<lb ed="B" n="0133b10"/>真相寺智月得度參淨慈混源不契謁佛照光於育王問風動
+<lb ed="B" n="0133b11"/>旛動應對機敏喜其俊邁使掌書記久之還浙西聽一心三觀
+<lb ed="B" n="0133b12"/>之旨於上天竺時擬議之間頓忘知解往參遂印可尋復辭去
+<lb ed="B" n="0133b13"/>禮祖塔於江淮間因至蔣山浙翁琰留之分座嘉定五年張約
+<lb ed="B" n="0133b14"/>齋居士鎡請開法於臨安慧雲既而遷溫之能仁未幾辭歸西
+<lb ed="B" n="0133b15"/>丘時節齋趙公慕禮高行微服過西丘禮亦不問姓氏與語終
+<lb ed="B" n="0133b16"/>日而去明日奏請禮住持淨慈復移居福泉遷住天童禮素崇
+<lb ed="B" n="0133b17"/>古誼高絜簡儉不苟笑言其說法則風雅流麗讀之非解人亦
+<lb ed="B" n="0133b18"/>復神動嘗誦楞嚴經諸可還自然非汝不汝還者非汝而誰句
+<lb ed="B" n="0133b19"/>下忽作偈曰不汝還者復是誰殘紅流在釣魚磯日斜風定無
+<lb ed="B" n="0133b20"/>人掃燕子銜將水際飛冬至上堂云黃鐘纔起時九數從頭數
+<pb ed="B" xml:id="B27.0151.0134a" n="0134a"/>
+<lb ed="B" n="0134a01"/>相將幽谷鶯啼次第雕梁燕語田父祭勾芒叢祠敲社鼓農父
+<lb ed="B" n="0134a02"/>狎牛郎村姑教蠶婦光陰老盡世間人冬至寒食一百五其他
+<lb ed="B" n="0134a03"/>玅語類如此尤邃於易乾湻諸儒大闡道學禮與之遊晦翁朱
+<lb ed="B" n="0134a04"/>子問母不敬禮叉手示之楊慈湖問不欺之力答曰此力分明
+<lb ed="B" n="0134a05"/>在不欺不欺能有幾人知要明象兔全提句看取陞階正笏時
+<lb ed="B" n="0134a06"/>禮領剎五前後八九載餘多逍遙於梁渚西上而群衲聚扣與
+<lb ed="B" n="0134a07"/>住院無異將入寂謂侍者曰誰與我造無縫塔或請其式曰盡
+<lb ed="B" n="0134a08"/>力畫不出乃怡然脫去世壽八十有四闍維收舍利無算袝於
+<lb ed="B" n="0134a09"/>應庵華塔之左尤焴序其語錄嗣法弟子橫川琪石林鞏</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

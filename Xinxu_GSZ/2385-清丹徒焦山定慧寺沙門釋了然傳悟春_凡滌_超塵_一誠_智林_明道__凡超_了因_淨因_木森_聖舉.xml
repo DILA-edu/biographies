@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="護法">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>清丹徒焦山定慧寺沙門釋了然傳悟春_凡滌_超塵_一誠_智林_明道
+_凡超_了因_淨因_木森_聖舉 (From CBETA edition of 新續高僧傳 卷 035）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>清丹徒焦山定慧寺沙門釋了然傳<note place="inline">悟春　凡滌　超塵　一誠　智林　明道
+<lb ed="B" n="0272b11"/>　凡超　了因　淨因　木森　聖舉</note>
+                    </head>
+                </head>
+                <p xml:id="pB27p0272b1201">釋了然字月輝姓雷氏寶應人也賦性堅忍不慕浮榮少遊盱
+<lb ed="B" n="0272b13"/>眙入一蘭若林木幽靜耽憩忘歸遂爾捨身研求梵典精進無
+<lb ed="B" n="0272b14"/>已既受具足持律尤嚴發腳行方遐邇企止道光丁未來主焦
+<lb ed="B" n="0272b15"/>山時定慧寺殿宇傾敝欲事修葺歲在<anchor xml:id="beg_12e" type="cb-app"/>己<anchor xml:id="end_12e"/>酉江水暴漲漂沒無
+<lb ed="B" n="0272b16"/>算民力窮困物食維艱勢難興舉會大府陸公立夫雅契名山
+<lb ed="B" n="0272b17"/>崇修福果彭都轉玉雯養疴庵中從容告語曲為陳說終如所
+<lb ed="B" n="0272b18"/>請因訪匠求木計日程工隆隆大雄更超前榘乃歲不一周粵
+<lb ed="B" n="0272b19"/>寇東下鎮江失守居民惶恐紛紛遷避山中舊侶各謀遠徙咸
+<lb ed="B" n="0272b20"/>相怵曰賊已登金山矣此必不免盍去諸了然獨毅然曰若吾
+<pb ed="B" xml:id="B27.0151.0273a" n="0273a"/>
+<lb ed="B" n="0273a01"/>屬皆去如此山何吾將往說之因與其徒悟春諸人議曰怯者
+<lb ed="B" n="0273a02"/>弗留強志堅決死守弗去者得同志十二人曰悟春凡滌超塵
+<lb ed="B" n="0273a03"/>一誠智林明道凡超了因淨因木森聖舉皆矢誓居守悟春字
+<lb ed="B" n="0273a04"/>流長姓金氏監利人幼為江陵莊王寺僧得具萬善寺長游洛
+<lb ed="B" n="0273a05"/>伽峩湄皆窮其勝不以艱阻見止後歸焦山徧讀三藏經論律
+<lb ed="B" n="0273a06"/>儀皆通大義咸豐三年春二月粵寇東下陷金陵鎮江維揚所
+<lb ed="B" n="0273a07"/>過殘滅讐視二教梵宇道觀焚蕩無遺焦山環向三郡中江而
+<lb ed="B" n="0273a08"/>立扼長江之嗌用兵者所必爭三郡既陷知寇當來乃議一往
+<lb ed="B" n="0273a09"/>探之了然悟春遂相攜入城見寇酋羅大剛陳說利害大剛故
+<lb ed="B" n="0273a10"/>鄂人悟春操鄂音感以鄉諠然大剛貌絕獰惡徧體黑毛常裸
+<lb ed="B" n="0273a11"/>身入陣被髮覆面以口銜刀人莫敢近及覯兩僧清辯哀顏愍
+<lb ed="B" n="0273a12"/>懷戚戚亦為之動竟允其請書紙懸寺門禁止踐踏而金山北
+<lb ed="B" n="0273a13"/>固已相繼燬滅煙燄霄舉火光徹夜照江中人聲叩呼水波若
+<lb ed="B" n="0273a14"/>沸了然但與諸弟子默念佛號禱求護佑而已凡滌者字漱波
+<lb ed="B" n="0273a15"/>丹徒王氏子依松寥閣秋巖出家首發守山之議有日記紀事
+<lb ed="B" n="0273a16"/>甚詳性節儉能儲所入以資興復盡改舊觀凡超為海神庵主
+<lb ed="B" n="0273a17"/>木森為別峯主聖舉為香林主了因淨因同居水晶庵淨因後
+<lb ed="B" n="0273a18"/>至金山規復江天寺終於副寺超塵一誠智林明道皆隨侍了
+<lb ed="B" n="0273a19"/>然分司執事山中彝鼎法物尤為寇所欣<anchor xml:id="beg_12f" type="cb-app"/>羨<anchor xml:id="end_12f"/>嘗擁眾入山即詢
+<lb ed="B" n="0273a20"/>周鼎漢鑪伏波銅鼓安在幸寺僧薶藏卒保無恙了然亦終于
+<pb ed="B" xml:id="B27.0151.0273b" n="0273b"/>
+<lb ed="B" n="0273b01"/>此寺</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

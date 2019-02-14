@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="義解">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>明寶慶五臺庵沙門釋觀衡傳惠仁_空印 (From CBETA edition of 新續高僧傳 卷 008）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>明寶慶五臺庵沙門釋觀衡傳<note place="inline">惠仁　空印</note>
+                    </head>
+                </head>
+                <p xml:id="pB27p0091a1201">釋觀衡字顓愚姓趙氏霸人也家世農業母夢大士攜童子入
+<lb ed="B" n="0091a13"/>門亟取抱之遂生衡性端凝不好嬉戲七歲從鄉塾讀能通字
+<lb ed="B" n="0091a14"/>義質邁凡儕顧喜近桑門不樂章句年十二即蔬食自持常念
+<lb ed="B" n="0091a15"/>觀世音號自在流露若出於不自知漸有超塵之思請於父母
+<lb ed="B" n="0091a16"/>不之許乃潛逸途遇五臺山圓炤寺惠仁皈依求度止於沙村
+<lb ed="B" n="0091a17"/>棲遲五載年十八詣五臺清涼山師子窟參空印令居侍寮親
+<lb ed="B" n="0091a18"/>授經典敷繹旨要迎刃而解如是三年無間寒暑萬歷庚子年
+<lb ed="B" n="0091a19"/>二十二隨印至北京侍楞嚴講席進菩薩戒參達觀後曆齊魯
+<lb ed="B" n="0091a20"/>吳越叩雪浪雲棲二師至天台華頂峰喜其孤迥結葊獨處讀
+<pb ed="B" xml:id="B27.0151.0091b" n="0091b"/>
+<lb ed="B" n="0091b01"/>楞嚴經豁然融徹癸卯春至雙徑訪樂愚尋過金陵休夏長干
+<lb ed="B" n="0091b02"/>秋遊九華冬上匡山卜靜乾罡嶺苒荏數秋嘗月夜經行忽焉
+<lb ed="B" n="0091b03"/>省悟遂下嶺禮育王舍利復渡海丁未再至天台入閩游武夷
+<lb ed="B" n="0091b04"/>古寺戊申夏自瑞金入粵游南華冬進曹溪<anchor xml:id="beg_34" type="cb-app"/>己<anchor xml:id="end_34"/>酉夏見憨山於
+<lb ed="B" n="0091b05"/>端州秋登南嶽遂卜居石廩峰誤食草烏而病壬子春紫蘿劉
+<lb ed="B" n="0091b06"/>居士迎入荼陵養疾雲陽冬講楞嚴釋論朗徹聽者百餘人風
+<lb ed="B" n="0091b07"/>紀肅然甲寅過邵陵車自心居士延居無念閣丙辰年三十八
+<lb ed="B" n="0091b08"/>邵陵諸檀那於雙清磯後首闢荊<g ref="#CB00331">𣗥</g>剏建禪林顏曰五臺不忘
+<lb ed="B" n="0091b09"/>厥初經語佛聲朗朗動聽啟人信心見聞隨喜大生歡悅丁<anchor xml:id="beg_35" type="cb-app"/>巳<anchor xml:id="end_35"/>
+<lb ed="B" n="0091b10"/>紫陽梁五峰施以<anchor xml:id="beg_36" type="cb-app"/>己<anchor xml:id="end_36"/>宅助建靜室堂閣廚庫次苐落成鄭太史
+<lb ed="B" n="0091b11"/>為題曰耑山蘭若地靜人幽闡志撰述是夏著心經小談戊午
+<lb ed="B" n="0091b12"/>春集律儀常軌及律學知要夏四月說戒立圓通懺法一卷并
+<lb ed="B" n="0091b13"/>戒壇規則壬<anchor xml:id="beg_37" type="cb-app"/>戌<anchor xml:id="end_37"/>作中庸說白及天主說辯癸亥年四十五作述
+<lb ed="B" n="0091b14"/>志詩自道其生平甚悉詩具集中又以此方教體在音與聞捨
+<lb ed="B" n="0091b15"/>聞無音捨音無教因述禮觀音儀一卷率眾薰脩得真實行者
+<lb ed="B" n="0091b16"/>十五人是則合音聞而為教體即音聞而歸聖性也又著金剛
+<lb ed="B" n="0091b17"/>四依解丁卯作禮佛發願儀<anchor xml:id="beg_38" type="cb-app"/>己<anchor xml:id="end_38"/>巳著首楞嚴經懸談辛未著金
+<lb ed="B" n="0091b18"/>剛般若略談門人集所著刻之成帙衡名之曰閉門語壬申著
+<lb ed="B" n="0091b19"/>楞嚴四依解甲戌秋泛舟之武陵詣德山禮鑒大師塔憇於乾
+<lb ed="B" n="0091b20"/>明寺常德榮王迎衡於梅園說戒冬至湘潭居法寶庵乙亥秋
+<pb ed="B" xml:id="B27.0151.0092a" n="0092a"/>
+<lb ed="B" n="0092a01"/>去攸縣<g ref="#CB33499">𠪱</g>雲陽過吉州禮青原大師塔丁丑春之吉安城理舟
+<lb ed="B" n="0092a02"/>楫詣匡山掃憨山師塔秋下匡山登雲居禮祖塔主人味白請
+<lb ed="B" n="0092a03"/>主法不許乃去雲門疾作憇甘露庵熊給諫青嶼與山中僧眾
+<lb ed="B" n="0092a04"/>合詞堅請九月朔入雲居方丈以禪堂久廢躬親畚插更建靜
+<lb ed="B" n="0092a05"/>室築羅漢堂朞年之間棟宇一新是時衡年已六十餘矣辛<anchor xml:id="beg_39" type="cb-app"/>巳<anchor xml:id="end_39"/>
+<lb ed="B" n="0092a06"/>秋七月赴吉州劉孝則翰撰青原祖庭之請九月至青原說戒
+<lb ed="B" n="0092a07"/>結制法席甚隆壬午秋復歸雲居築橋於南溪曰安樂橋下鐫
+<lb ed="B" n="0092a08"/>隱語有再遇游鮮主蓋豆函八字人莫之識甲申金陵士夫迎
+<lb ed="B" n="0092a09"/>主石城清涼寺法席時燕京已陷明主死之五月建薦思宗烈
+<lb ed="B" n="0092a10"/>皇帝及后妃諸臣道場冬十月得竹林於金陵城北欲避煩囂
+<lb ed="B" n="0092a11"/>卓錫此間號曰紫竹林更建禪堂及殿寮靜室丙<anchor xml:id="beg_3a" type="cb-app"/>戌<anchor xml:id="end_3a"/>弘戒天界
+<lb ed="B" n="0092a12"/>寺得新學百七十七人五月三日疾增劇命弟子音乘等攝林
+<lb ed="B" n="0092a13"/>中事四日招眾居士謝別六日端坐而逝年六十有八丁亥九
+<lb ed="B" n="0092a14"/>月奉靈龕詣雲居建塔衡廣顙豐頤平頂大耳脩髯如戟短髮
+<lb ed="B" n="0092a15"/>覆肩歲一剃落目光烱烱學者見之不威而嚴初侍空印宗賢
+<lb ed="B" n="0092a16"/>首而禪宗印可於憨山立法不為崖岸不分門戶田夫牧童禮
+<lb ed="B" n="0092a17"/>不異節故所至香花爭迎於楞嚴宗旨得最上正覺所作法語
+<lb ed="B" n="0092a18"/>偈頌包舉深宏今所見者有語錄三十卷而詩頌書疏附之弟
+<lb ed="B" n="0092a19"/>子音乘為編年譜</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

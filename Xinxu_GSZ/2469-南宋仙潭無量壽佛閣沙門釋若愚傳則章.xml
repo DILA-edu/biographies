@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="淨讀">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>南宋仙潭無量壽佛閣沙門釋若愚傳則章 (From CBETA edition of 新續高僧傳 卷 042）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>南宋仙潭無量壽佛閣沙門釋若愚傳<note place="inline">則章</note>
+                    </head>
+                </head>
+                <p xml:id="pB27p0317a1201">釋若愚海鹽馬氏子學教於辨才淨法師居龍井久之後於湖
+<lb ed="B" n="0317a13"/>之仙潭欲營室以接游侶建無量壽佛閣誘人誦佛來者嘗數
+<lb ed="B" n="0317a14"/>百人三十年中與會諸賢沒時多有瑞應有奏愚道行者賜號
+<lb ed="B" n="0317a15"/>法鑑又則章與愚友善同修淨行章既沒愚夢神人告曰汝同
+<lb ed="B" n="0317a16"/>學則章得普賢行願三昧已生淨土彼方待汝覺而呼浴更衣
+<lb ed="B" n="0317a17"/>命眾諷佛誦經端坐默聽忽云淨土見前吾其往矣書偈而化
+<lb ed="B" n="0317a18"/>偈曰本自無家可得歸雲邊有路許誰知溪光搖落西山月正
+<lb ed="B" n="0317a19"/>是仙潭夢斷時又曰室裏千花羅網夢中七寶蓮池踏得西歸
+<lb ed="B" n="0317a20"/>路穩更無一點狐疑時靖康元年九月也年七十二闍維得舍
+<pb ed="B" xml:id="B27.0151.0317b" n="0317b"/>
+<lb ed="B" n="0317b01"/>利無數</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

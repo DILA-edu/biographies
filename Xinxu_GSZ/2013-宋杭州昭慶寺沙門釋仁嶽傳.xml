@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="義解">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>宋杭州昭慶寺沙門釋仁嶽傳 (From CBETA edition of 新續高僧傳 卷 003）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>宋杭州昭慶寺沙門釋仁嶽傳</head>
+                </head>
+                <p xml:id="pB27p0043a1101">釋仁獄字潛夫姓姜氏霅川人聞法智至南湖往依為學法智
+<lb ed="B" n="0043a12"/>器之撰問疑書及止疑抉膜指濫十難以折他師而輔四明甚
+<lb ed="B" n="0043a13"/>力後因疾宴坐靜室恍若夢覺自謂向者皆非究竟更述三身
+<lb ed="B" n="0043a14"/>壽量解以難妙宗妙宗者四明所著也自此道不合還浙陽靈
+<lb ed="B" n="0043a15"/>山慈雲攝為法裔四明乃加十三簡以斥之仁復上十諫雪<g ref="#CB31246">󷨎</g>
+<lb ed="B" n="0043a16"/>往還不已會西湖昭慶移啟相請慈雲為詩送之學徒從往者
+<lb ed="B" n="0043a17"/>半雲弗之禁既而遷石壁徙靈芝居永嘉淨社十年大弘化法
+<lb ed="B" n="0043a18"/>霅守請主祥符觀察劉從廣請賜紫迦梨樞密胡宿上其事行
+<lb ed="B" n="0043a19"/>賜號淨覺禪師晚歲專脩淨業熱三指於佛前持律至嚴不以
+<lb ed="B" n="0043a20"/>事易節治平元年三月二十四日謂門人曰明日日午吾當行
+<pb ed="B" xml:id="B27.0151.0043b" n="0043b"/>
+<lb ed="B" n="0043b01"/>矣明日留偈安坐入寂於隱淪堂休室塔於何山之西隅仁嶽
+<lb ed="B" n="0043b02"/>著述極富於棱嚴尤加意撰集解十卷說題一卷熏聞記五卷
+<lb ed="B" n="0043b03"/>胡宿為之序其略曰室中千鐙多光互入堂下六樂正聲相宣
+<lb ed="B" n="0043b04"/>鼓吹妙經藻火圓教法施豈有盡哉其推許亦未為過葬後二
+<lb ed="B" n="0043b05"/>百餘年何山更為禪居淨覺塔地已夷為蔬圃仁乃見夢於僧
+<lb ed="B" n="0043b06"/>曰塔處灌溉非便乞遷之及開龕色身不壞舍利盈掬乃具禮
+<lb ed="B" n="0043b07"/>易葬他所此與東山神照遷塔事相類皆能示兆於數百年之
+<lb ed="B" n="0043b08"/>後異哉</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

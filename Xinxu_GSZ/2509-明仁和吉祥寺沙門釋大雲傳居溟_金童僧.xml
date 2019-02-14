@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="淨讀">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>明仁和吉祥寺沙門釋大雲傳居溟_金童僧 (From CBETA edition of 新續高僧傳 卷 044）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>明仁和吉祥寺沙門釋大雲傳<note place="inline">居溟　金童僧</note>
+                    </head>
+                </head>
+                <p xml:id="pB27p0335b1001">釋大雲字萬安姓郭氏仁和人出家永慶寺受具於雲棲居北
+<lb ed="B" n="0335b11"/>郊篤修淨業相依者眾因剏吉祥寺寮宇燦然竟成叢席寺中
+<lb ed="B" n="0335b12"/>規制秉諸雲棲專以誦讀為課及示微疾即絕飲食唯稱佛號
+<lb ed="B" n="0335b13"/>有往省之者則曰彌陀不念念我何為臨化語弟子智經曰為
+<lb ed="B" n="0335b14"/>我灑掃佛來迎矣居溟字去息姑蘇徐氏子披緇鄧尉修靈巖
+<lb ed="B" n="0335b15"/>儲禪師受莂記機悟敏捷後繼其席二年退居錫山讀宗鏡錄
+<lb ed="B" n="0335b16"/>謂宗門淨土本無異旨吾亦當西遊耳庚<anchor xml:id="beg_16d" type="cb-app"/>戌<anchor xml:id="end_16d"/>三月示疾有請說
+<lb ed="B" n="0335b17"/>偈者不應而寂金童廟僧者遺其名廟在常熟城北日持一版
+<lb ed="B" n="0335b18"/>擊於巷衢高聲誦曰無常迅速一心念佛眾不甚異之崇禎十
+<lb ed="B" n="0335b19"/>三年三月徧辭諸鄰舍曰好念佛老僧去矣明日爇香佛前合
+<lb ed="B" n="0335b20"/>掌稱佛端坐而逝</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

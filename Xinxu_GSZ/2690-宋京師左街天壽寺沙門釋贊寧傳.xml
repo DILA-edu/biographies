@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="雜識">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>宋京師左街天壽寺沙門釋贊寧傳 (From CBETA edition of 新續高僧傳 卷 060）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>宋京師左街天壽寺沙門釋贊寧傳</head>
+                </head>
+                <p xml:id="pB27p0437b1201">釋贊寧姓高氏德清人初出家於餘杭祥符後棲靈隱習南山
+<lb ed="B" n="0437b13"/>律宗著述毗尼時稱律虎錢武肅王欽其聲望署為兩浙僧統
+<lb ed="B" n="0437b14"/>宋太祖徵入京錫號通慧兼賜紫衣湻化三年兼翰林史館編
+<lb ed="B" n="0437b15"/>修寧愽物強記辯語縱橫嘗著通論有駁董仲舒難王充斥顏
+<lb ed="B" n="0437b16"/>師古證蔡邕非史通等說王禹偁深服之興國三年太宗聞其
+<lb ed="B" n="0437b17"/>名召對滋福殿延問彌日更號通慧七年敕修高僧傳與新譯
+<lb ed="B" n="0437b18"/>經同入藏端拱元年書成都三十卷曰有宋高僧傳令弟子顯
+<lb ed="B" n="0437b19"/>忠拜表進納有敕嘉許略云一乘妙道六度玄門代有奇人迭
+<lb ed="B" n="0437b20"/>恢聖教若無纂述何以顯揚繄爾真流棲心法苑成茲編集頗
+<pb ed="B" xml:id="B27.0151.0438a" n="0438a"/>
+<lb ed="B" n="0438a01"/>效辛勤備觀該總之能深切歎嘉之意其所進高僧傳已令僧
+<lb ed="B" n="0438a02"/>錄司編入大藏今賜絹三千匹至可領也故茲獎諭想宜知之
+<lb ed="B" n="0438a03"/>又詔撰三教聖賢事一百卷初補左街講經首座知西京教事
+<lb ed="B" n="0438a04"/>咸平中加右街僧錄年七十入至道九老會後二年示寂塔龍
+<lb ed="B" n="0438a05"/>井塢所著更有內典集一百五十卷外學集四十九卷內翰王
+<lb ed="B" n="0438a06"/>禹偁為之序極其讚許寧博聞多識雖張茂先不能遠過徐常
+<lb ed="B" n="0438a07"/>侍鉉仕江南日嘗襆被入直澄心堂至飛虹橋馬輒不進裂鞍
+<lb ed="B" n="0438a08"/>斷轡箠之流血掣韁卻立鉉遺書贊寧寧答曰下必有海馬骨
+<lb ed="B" n="0438a09"/>水火俱不能毀惟漚以腐糟隨毀者是也鉉斸之去土丈餘果
+<lb ed="B" n="0438a10"/>得巨獸骨上脛可長五尺膝面下長三尺髀骨若段柱然積薪
+<lb ed="B" n="0438a11"/>焚三日不動以腐糟漚之遂爛焉徐諤嘗畫牛一輻晝嚙草欄
+<lb ed="B" n="0438a12"/>外夜則歸臥欄中持以獻後主煜煜獻之宋太宗以示諸臣無
+<lb ed="B" n="0438a13"/>能辨其理寧曰南倭海水或滅灘磧微露倭人拾方諸蚌腊中
+<lb ed="B" n="0438a14"/>有餘淚和色著物則晝隱夜見沃焦山或風燒飄擊有石落海
+<lb ed="B" n="0438a15"/>岸滴水碧色染物則晝見夜隱此二形殆二物所畫也</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

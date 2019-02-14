@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="習禪">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>明杭州淨慈寺沙門釋智及傳廣智 (From CBETA edition of 新續高僧傳 卷 018）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>明杭州淨慈寺沙門釋智及傳<note place="inline">廣智</note>
+                    </head>
+                </head>
+                <p xml:id="pB27p0160b1201">釋智及字以中別號西麓自題所居曰愚菴姓顧氏吳人也謁
+<lb ed="B" n="0160b13"/>廣智於龍翔微露文彩廣智大驚有聚上人者呵之曰子才俊
+<lb ed="B" n="0160b14"/>爽若此不思負荷大法甘作詩騷奴僕乎無盡鐙偈所謂黃葉
+<lb ed="B" n="0160b15"/>飄飄者何謂也智及噤不能答即歸海雲胸中如礙巨石目不
+<lb ed="B" n="0160b16"/>交睫者踰月忽見秋葉吹墜於庭豁然有省雖喜不自勝不取
+<lb ed="B" n="0160b17"/>證明眼恐涉偏執乃走見徑山山勘之智及應機不滯遂命執
+<lb ed="B" n="0160b18"/>侍久之乃掌藏室元至正壬午行院欽其道譽推主昌國隆教
+<lb ed="B" n="0160b19"/>轉普慈未幾行省左丞相達識公延主淨慈復請遷徑山一日
+<lb ed="B" n="0160b20"/>達識帖睦爾翩然來游直趨方丈便問淨名丈室容三萬二千
+<pb ed="B" xml:id="B27.0151.0161a" n="0161a"/>
+<lb ed="B" n="0161a01"/>獅子座淨慈丈室容多少智及云一塵不立丞相云與麼覿體
+<lb ed="B" n="0161a02"/>相違智及揭簾云請丞相鑑乃笑謝曰作家宗師不勞再勘明
+<lb ed="B" n="0161a03"/>洪武癸丑詔有道碩僧十餘人集天界寺褎然居首以病不能
+<lb ed="B" n="0161a04"/>一對賜還穹窿山即海雲所在也戊午八月忽示疾至九月四
+<lb ed="B" n="0161a05"/>日索筆書偈而逝荼毗火燄化成五色有氣襲人如沈香遺骨
+<lb ed="B" n="0161a06"/>紺澤類青琉璃色設利羅交輟於其上其徒奉以藏海雲山陰
+<lb ed="B" n="0161a07"/>又分爪髮歸徑山瘞焉</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

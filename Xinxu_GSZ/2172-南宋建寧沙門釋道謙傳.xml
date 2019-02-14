@@ -1,0 +1,45 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="習禪">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>南宋建寧沙門釋道謙傳 (From CBETA edition of 新續高僧傳 卷 014）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>南宋建寧沙門釋道謙傳</head>
+                </head>
+                <p xml:id="pB27p0135a0601">釋道謙建寧人未詳氏族初依佛果無所入妙喜住徑山謙亦
+<lb ed="B" n="0135a07"/>在侍令往長沙通書於張紫巖乃自謂參禪二十年尚無個入
+<lb ed="B" n="0135a08"/>處又有此行豈不荒廢乎將辭之同寮宗元叱日不可豈以在
+<lb ed="B" n="0135a09"/>路參禪不得耶汝去吾與俱往一日在途泣曰一生參禪無得
+<lb ed="B" n="0135a10"/>力處今奔波若此何得相應元曰你但將諸方參得悟得并圓
+<lb ed="B" n="0135a11"/>悟妙喜與說得底都不要理會途中我可替者盡替汝只有五
+<lb ed="B" n="0135a12"/>事替不得須自承當曰何為五事元日著衣吃飯遺矢放尿<g ref="#CB00501">䭾</g>
+<lb ed="B" n="0135a13"/>個死屍路上行謙於言下大徹不覺手舞足蹈元曰汝此回方
+<lb ed="B" n="0135a14"/>可通書吾先歸矣後半載返雙徑妙喜於山門外亭一見便曰
+<lb ed="B" n="0135a15"/>建州子這回自別也</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

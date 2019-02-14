@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="興福">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>清新都寶光寺沙門釋覺賢傳真印 (From CBETA edition of 新續高僧傳 卷 059）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>清新都寶光寺沙門釋覺賢傳<note place="inline">真印</note>
+                    </head>
+                </head>
+                <p xml:id="pB27p0428a1201">釋覺賢字妙勝姓曹氏母氏梁夢僧入室趺坐寤而生子兒時
+<lb ed="B" n="0428a13"/>嘻戲即陳佛事年十二落紺旌陽柟木院禮常為師從塾師讀
+<lb ed="B" n="0428a14"/>聞講中庸天命性道章旨悉心體會頗有所省每日晡時從塾
+<lb ed="B" n="0428a15"/>返院皆有定晷獨此向暮不見其歸常甚怪之使人覔得出數
+<lb ed="B" n="0428a16"/>里外常詰其故且謂熟路日行何至迷失賢言方聆性道未契
+<lb ed="B" n="0428a17"/>恉歸心有所在循塗而走竟忘南北常師由此奇之嘗誦金剛
+<lb ed="B" n="0428a18"/>經至諸心皆為非心是名為心必反覆數四若別有悟入者常
+<lb ed="B" n="0428a19"/>師聞之曰此不凡器也清嘉慶癸酉受戒於寶光繼彰由是力
+<lb ed="B" n="0428a20"/>涉經論兼窮教外別傳心印丙子南遊謁江天寺志學偕至餘
+<pb ed="B" xml:id="B27.0151.0428b" n="0428b"/>
+<lb ed="B" n="0428b01"/>杭跋山涉水渴飲饑餐忽有所得求證於志志欲擴其知識不
+<lb ed="B" n="0428b02"/>囿一隅乃曰今天寧之恆贊圓明之真月高旻之方聚皆有道
+<lb ed="B" n="0428b03"/>者也汝盍往參之賢如其言往還三寺勤劬數載互相啟發盡
+<lb ed="B" n="0428b04"/>聞法要癸未歸蜀奉養慈親藥鼎湯罏備極勞瘁及母壽告終
+<lb ed="B" n="0428b05"/>補藏諷經於開元寺欲資冥福冀得超登忽忽三年更下江天
+<lb ed="B" n="0428b06"/>與志學諸耆宿往復議論則超然塵<g ref="#CB12464">𣹆</g>之外矣復至寶光寺有
+<lb ed="B" n="0428b07"/>經樓而無藏經人多惜之賢與州人李祖德善勸其資助得數
+<lb ed="B" n="0428b08"/>千金攜之北上未幾橐載數十篋以歸贊歎之聲徹於遠近會
+<lb ed="B" n="0428b09"/>月耀勌勞方思退處以席讓賢遂主寶光盡心誘掖凡所造請
+<lb ed="B" n="0428b10"/>先後接踵達二千餘人病者藥之寒者衣之望風投止僧至如
+<lb ed="B" n="0428b11"/>歸戊<anchor xml:id="beg_1de" type="cb-app"/>戌<anchor xml:id="end_1de"/>建蓮社堂創普同塔養生送死各得其所戊申築藏經
+<lb ed="B" n="0428b12"/>樓崇高五丈規制閎廓更東造問本堂西營靜照亭以翼輔之
+<lb ed="B" n="0428b13"/>
+                    <anchor xml:id="beg_1df" type="cb-app"/>己<anchor xml:id="end_1df"/>酉修羅漢堂咸豐五年戊午重新佛殿高壯稱經樓於是殿
+<lb ed="B" n="0428b14"/>堂樓閣礙日凌雲比美江南而賢亦老矣是秋九月九日示寂
+<lb ed="B" n="0428b15"/>其弟子真印者字蓮叢亦號自信姓王氏彭人也年二十禮明
+<lb ed="B" n="0428b16"/>鈺薙髮習經三載受具於寶光月耀道光癸<anchor xml:id="beg_1e0" type="cb-app"/>巳<anchor xml:id="end_1e0"/>妙勝賢自闕請
+<lb ed="B" n="0428b17"/>經至見真印朝夕禮誦華嚴深契之因以初祖不立文字之旨
+<lb ed="B" n="0428b18"/>令其參悟夜聞鐘聲有省詰旦語賢賢曰此非究竟引之以向
+<lb ed="B" n="0428b19"/>上事戊<anchor xml:id="beg_1e1" type="cb-app"/>戌<anchor xml:id="end_1e1"/>發脚南遊底維揚謁古燈參領妙諦<anchor xml:id="beg_1e2" type="cb-app"/>己<anchor xml:id="end_1e2"/>亥至定海禮
+<lb ed="B" n="0428b20"/>普陀復詣常州謁恆贊雪巖二老了悟華嚴法義庚子旋蜀後
+<pb ed="B" xml:id="B27.0151.0429a" n="0429a"/>
+<lb ed="B" n="0429a01"/>賢始付以正法眼藏賢寂之明年李藍亂蜀寶光寺眾星散真
+<lb ed="B" n="0429a02"/>印收而主之仍以冬夏結制弘法造就末學咸豐十一年辛酉
+<lb ed="B" n="0429a03"/>建七佛殿同治二年癸亥賊氛熾甚人心惶恐而真印固視若
+<lb ed="B" n="0429a04"/>無事且以餘金建尊勝念佛堂嘗謂人曰當以慈航消彼逆燄
+<lb ed="B" n="0429a05"/>而攝其沈淪眾生免於災害人多仰之甲子更主郫縣東林義
+<lb ed="B" n="0429a06"/>林二寺置香田三百餘畝丙寅至成都重修大悲寺寺為康熙
+<lb ed="B" n="0429a07"/>時主僧所敗乃以三千金反其<anchor xml:id="beg_1e3" type="cb-app"/>土<anchor xml:id="end_1e3"/>地堂室一一新之復建千佛
+<lb ed="B" n="0429a08"/>大雄觀音接引四殿禪觀戒三堂經樓方丈山門及僧寮數十
+<lb ed="B" n="0429a09"/>九載落成費金三萬省會招提中號為巨觀將軍崇文勤公素
+<lb ed="B" n="0429a10"/>重其行履故護持有加得以竣事光緒二年丙子彭中緇素請
+<lb ed="B" n="0429a11"/>主龍興寺至則為修觀佛樓及丈室廊廡寺為預知禪師道場
+<lb ed="B" n="0429a12"/>開建叢林功久未訖真印主茲三寺專以弘闡宗旨為<anchor xml:id="beg_1e4" type="cb-app"/>己<anchor xml:id="end_1e4"/>任平
+<lb ed="B" n="0429a13"/>生苦行不可思議以光緒五年<anchor xml:id="beg_1e5" type="cb-app"/>己<anchor xml:id="end_1e5"/>卯十一月四日示寂宏戒三
+<lb ed="B" n="0429a14"/>十期得戒弟子二千餘人以壬午仲冬塔于寶光西南隅雪堂
+<lb ed="B" n="0429a15"/>含澈為之銘云</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

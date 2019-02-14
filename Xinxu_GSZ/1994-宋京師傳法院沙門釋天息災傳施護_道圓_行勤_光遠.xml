@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="譯經">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>宋京師傳法院沙門釋天息災傳施護_道圓_行勤_光遠 (From CBETA edition of 新續高僧傳 卷 001）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>宋京師傳法院沙門釋天息災傳<note place="inline">施護　道圓　行勤　光遠</note>
+                    </head>
+                </head>
+                <p xml:id="pB27p0032a0601">釋天息災者中天竺惹蘭陀難國密林寺僧也宋太平興國五
+<lb ed="B" n="0032a07"/>年二月與施護西來止於汴京時法天蚤至方譯大乘莊嚴寶
+<lb ed="B" n="0032a08"/>王經太宗為製大宋新譯三藏聖教序詔普度天下童男為僧
+<lb ed="B" n="0032a09"/>使習梵書復勅設譯經傳法院于東京太平興國之西如唐故
+<lb ed="B" n="0032a10"/>事以宰輔為譯經潤文使息災譯經十餘部中有大方廣菩薩
+<lb ed="B" n="0032a11"/>藏文殊師利根本儀軌經二十卷二十有八品又佛說大乘莊
+<lb ed="B" n="0032a12"/>嚴寶王經四卷佛在舍衛國有無量菩薩及八部男女集從大
+<lb ed="B" n="0032a13"/>地獄出大光明徧照園中見大莊嚴除蓋障菩薩請問因緣佛
+<lb ed="B" n="0032a14"/>為說聖觀自在菩薩歷劫救苦之事及說所住種種三昧之名
+<lb ed="B" n="0032a15"/>又說身毛諸孔希有功德普賢菩薩十二年不得邊際云云詞
+<lb ed="B" n="0032a16"/>義明曉施護譯給孤長者女得度因緣經語意簡括皆依次呈
+<lb ed="B" n="0032a17"/>覽宋自太宗尊崇梵典譯經設官前後所飜新來一切經律都
+<lb ed="B" n="0032a18"/>九十餘部真宗為製繼聖教序護與息災皆承錫三藏朝奉大
+<lb ed="B" n="0032a19"/>夫光祿卿并號傳法大師而息災更得紫方袍之賜咸平三年
+<lb ed="B" n="0032a20"/>八月息災示寂<anchor xml:id="beg_6" type="cb-app"/>諡<anchor xml:id="end_6"/>曰慧辨法師勅有司具禮送終寵卹并優施
+<pb ed="B" xml:id="B27.0151.0032b" n="0032b"/>
+<lb ed="B" n="0032b01"/>護者烏塤曩國人其國屬北印度故稱北印度僧也又道圓者
+<lb ed="B" n="0032b02"/>滄州人既從僧服便志西方後晉天福中負簦西邁在塗十二
+<lb ed="B" n="0032b03"/>年足跡所屆徧五印度復居其間閱六春秋還經于闐與其國
+<lb ed="B" n="0032b04"/>使偕至于宋乾德三年冬達于京師以佛舍利一水晶器貝葉
+<lb ed="B" n="0032b05"/>梵經四十筴來獻太祖召問所歷山川道里及其風俗圓頗疆
+<lb ed="B" n="0032b06"/>識一一指陳應對如響太祖嘉之時立譯經院詔與梵僧同事
+<lb ed="B" n="0032b07"/>飜譯又有行勤光遠二僧亦求經于西域光遠于太平興國七
+<lb ed="B" n="0032b08"/>年始還京師後皆得入經院故宋代譯經之盛亦賴此久居西
+<lb ed="B" n="0032b09"/>域者能通其語言文字也</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

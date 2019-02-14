@@ -1,0 +1,46 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="義解">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>元四明延慶寺沙門釋本無傳 (From CBETA edition of 新續高僧傳 卷 004）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>元四明延慶寺沙門釋本無傳</head>
+                </head>
+                <p xml:id="pB27p0059b0301">釋本無號我庵黃巖人幼從方山寶禪師於瑞巖薙髮進具戒
+<lb ed="B" n="0059b04"/>次依寂照禪師於中天竺命司箋翰寂照每深加錐剳亦有省
+<lb ed="B" n="0059b05"/>處後有舅氏本習天台教挽之更衣見湛堂澄於演福精研教
+<lb ed="B" n="0059b06"/>部寂照惜其去遂作偈寄之云從教入禪今古有從禪入教古
+<lb ed="B" n="0059b07"/>今無一心三觀門雖別水滿千江月自孤本無後出世既嗣澄
+<lb ed="B" n="0059b08"/>法仍爇香以報寂照蓋不以跡異二其心也寂照將入滅時本
+<lb ed="B" n="0059b09"/>無方主延慶照乃遺書囑其力宏大蘇少林二宗餘無他說因
+<lb ed="B" n="0059b10"/>奠寂照乃拈香云妙喜五傳最光燄寂照一代甘露門等閒觸
+<lb ed="B" n="0059b11"/>著肝膽裂冰雪忽作陽春溫我思打失鼻孔日是何氣息今猶
+<lb ed="B" n="0059b12"/>存天風北來歲云暮掣電討甚空中痕晚歲遷上天竺一日無
+<lb ed="B" n="0059b13"/>疾端坐而蛻於白雲堂諡曰佛護宣覺憲慈匡道大師</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

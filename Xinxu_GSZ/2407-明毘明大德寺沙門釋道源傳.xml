@@ -1,0 +1,45 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="靈感">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>明毘明大德寺沙門釋道源傳 (From CBETA edition of 新續高僧傳 卷 037）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>明毘明大德寺沙門釋道源傳</head>
+                </head>
+                <p xml:id="pB27p0286a1801">釋道源字福裕毘明人明永樂初居大德寺研窮全藏間習文
+<lb ed="B" n="0286a19"/>蓻尤工書法嘗以金銀泥粉寫華嚴經一部貯以銅匣供之五
+<lb ed="B" n="0286a20"/>華寺明末兵燹寺僧懼其殘毀以銅匣沈之昆明湖中每於夕
+<pb ed="B" xml:id="B27.0151.0286b" n="0286b"/>
+<lb ed="B" n="0286b01"/>月宵露數見異光浮生水面清總督范承勳聞之疑有寶物令
+<lb ed="B" n="0286b02"/>人汩取乃得銅匣而失其蓋口有蝸螺數萬盤繞護持經卷故
+<lb ed="B" n="0286b03"/>有浸潤而無漂沒至嘉慶辛酉漁人網得其蓋獻之巡撫其上
+<lb ed="B" n="0286b04"/>鐫有道源篆文乃歎其精愫彌綸感通靈玅書經功德之不可
+<lb ed="B" n="0286b05"/>思議如此復藏大德寺清之末葉新說盛行大德寺改為學校
+<lb ed="B" n="0286b06"/>銅匣入圖書館其經猶存二卷餘則不知遺自何時可歎也</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

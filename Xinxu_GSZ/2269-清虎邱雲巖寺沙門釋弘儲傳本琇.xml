@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="習禪">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>清虎邱雲巖寺沙門釋弘儲傳本琇 (From CBETA edition of 新續高僧傳 卷 023）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>清虎邱雲巖寺沙門釋弘儲傳<note place="inline">本琇</note>
+                    </head>
+                </head>
+                <p xml:id="pB27p0198b1201">釋弘儲字繼起亦號退翁姓李氏通人也母高氏夢梵僧授金
+<lb ed="B" n="0198b13"/>環而生小字金四歲撫於祖母孫氏終日兀坐私語語不可解
+<lb ed="B" n="0198b14"/>剃染後行腳參方得法於三峯藏博通內外心地光明提正法
+<lb ed="B" n="0198b15"/>印十坐道場息影靈巖有終焉之志吳人以虎邱虛席強起應
+<lb ed="B" n="0198b16"/>之升坐說法四眾圍繞有虎邱語錄一卷錢公謙益為之序具
+<lb ed="B" n="0198b17"/>文集居半載謝去後寂於堯峰康熙壬子九月二十七日也荼
+<lb ed="B" n="0198b18"/>毘龕頂生光漸變五色光中有聲大如雷頓成妙景若琉璃世
+<lb ed="B" n="0198b19"/>界弟子南潛撰化琉璃記本琇字節巖西蜀人天性機敏幼達
+<lb ed="B" n="0198b20"/>宗理契天童法九遷大剎道播江淛著有全會法錄康熙癸未
+<pb ed="B" xml:id="B27.0151.0199a" n="0199a"/>
+<lb ed="B" n="0199a01"/>住虎邱聖祖臨幸垂詢道要深邀獎許御製詩賜之</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

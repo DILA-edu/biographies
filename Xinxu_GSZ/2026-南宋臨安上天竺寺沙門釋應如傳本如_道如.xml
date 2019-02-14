@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="義解">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>南宋臨安上天竺寺沙門釋應如傳本如_道如 (From CBETA edition of 新續高僧傳 卷 003）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>南宋臨安上天竺寺沙門釋應如傳<note place="inline">本如　道如</note>
+                    </head>
+                </head>
+                <p xml:id="pB27p0050a2001">釋應如姓胡氏浦江人幼默記多聞尤善持論來學上竺慈辨
+<pb ed="B" xml:id="B27.0151.0050b" n="0050b"/>
+<lb ed="B" n="0050b01"/>深器之嘗往靈山訪同志出六能義反覆辨詰彼義墮負應如
+<lb ed="B" n="0050b02"/>即揭竿繫帛因謂之曰西竺破敵則<g ref="#CB02716">䜿</g>勝幡道場峰魔亦表勝
+<lb ed="B" n="0050b03"/>相今法戰既勝當揭一竿人畏其烈目之虎子初慈辨得南屏
+<lb ed="B" n="0050b04"/>通相三觀之旨祕不授人玉慧覺祈請尤力許子夜為密說應
+<lb ed="B" n="0050b05"/>如知之陟挮揭瓦伏身竊聽飛雪翻空背若被鎧旦白慈辨曰
+<lb ed="B" n="0050b06"/>我於通相三關若有冥授即錄其言以示一眾慈辨怒曰應如
+<lb ed="B" n="0050b07"/>盜法紹聖初主越之圓通嘗因講散謂待者曰今日東風吹教
+<lb ed="B" n="0050b08"/>法過浙西去使眼中有耳者得以有聞紹興三年遷上竺兀朮
+<lb ed="B" n="0050b09"/>焚蕩之餘唯存藏室有勸其營建者則曰我但流通大法耳他
+<lb ed="B" n="0050b10"/>日自有興造者嘗以偈示人曰吾傳知者一性之宗三千實相
+<lb ed="B" n="0050b11"/>妙空假中一念法界生佛體同凡聖一如善惡理融毗盧身上
+<lb ed="B" n="0050b12"/>湛若虛空達斯旨者法法圓通左之右之受用無窮釋家稱如
+<lb ed="B" n="0050b13"/>虎者三人神照本如四明道如與應如而三也一夕別大眾歸
+<lb ed="B" n="0050b14"/>寢而終塔於寺西北隅有教義名指難集弟子崇先懷志白蓮
+<lb ed="B" n="0050b15"/>慧仙皆足世其業</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

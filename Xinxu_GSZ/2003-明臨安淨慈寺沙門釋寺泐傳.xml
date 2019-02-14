@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="譯經">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>明臨安淨慈寺沙門釋寺泐傳 (From CBETA edition of 新續高僧傳 卷 002）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Zhang Boyong</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>明臨安淨慈寺沙門釋寺泐傳</head>
+                </head>
+                <p xml:id="pB27p0038a0401">釋宗泐字季潭別題所居曰全室生有殊質幼而聰異授讀塾
+<lb ed="B" n="0038a05"/>師便見稱許期以遠到乃性猒俗榮獨契玄玅偶涉文苑別有
+<lb ed="B" n="0038a06"/>悟心年當成立矢厥志願竟從剃染受具足後得詣淨慈笑隱
+<lb ed="B" n="0038a07"/>大訢博諮經典精求義蘊律論梵藏備盡厥旨嘗居南屏松月
+<lb ed="B" n="0038a08"/>居與竹庵渭同庵簡鼎庵需互相參究時有啟迪奧理深疑一
+<lb ed="B" n="0038a09"/>致推尋莫不說懌以解故所為文詞禪機淵味發人幽省當代
+<lb ed="B" n="0038a10"/>儒宿若虞文靖集張潞國翥黃晉卿溍皆一時巨子見泐所作
+<lb ed="B" n="0038a11"/>皆傾心歎賞引譽士林羣相推重會元季喪亂天下洶洶棲遲
+<lb ed="B" n="0038a12"/>山谷息影潛聲歷有年所而靜性彌堅道行益勵有明戡定佛
+<lb ed="B" n="0038a13"/>學更興洪武初元應召入都居龍翔集慶講演經義詳註論說
+<lb ed="B" n="0038a14"/>又新製讚頌樂章宣鬯閎旨深契聖衷時見臨幸日有賜饍嘗
+<lb ed="B" n="0038a15"/>和其詩稱為泐翁恩眷擾隆莫與比數又以泐文學暢懋禪理
+<lb ed="B" n="0038a16"/>洞悉命往西域搜求遺經遂辭丹闕不憚煩疲冒渡流沙竟達
+<lb ed="B" n="0038a17"/>天竺泐機才敏悟聲入心通少時便習梵音能曉唄誼飜譯文
+<lb ed="B" n="0038a18"/>殊等經而還今所傳者即此本也晚歲禪悅時發吟興嘗見其
+<lb ed="B" n="0038a19"/>懷以仁講師入觀圖詩云旭日千萬峰白雲三四朵一芺山容
+<lb ed="B" n="0038a20"/>開獨自松下坐瀑流天下來花飛面前墮此時中觀成無物亦
+<pb ed="B" xml:id="B27.0151.0038b" n="0038b"/>
+<lb ed="B" n="0038b01"/>無我又遊雪竇云捫蘿登絕頂清興渺無窮兩目雲霞外一身
+<lb ed="B" n="0038b02"/>霄漢中珠簾飛瀑雪翠浪卷清風欲結茅庵住塵緣惜未空道
+<lb ed="B" n="0038b03"/>味詩思意與俱清言未空者真未空耶</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

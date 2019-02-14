@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="習禪">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>清杭州理安寺沙門釋行珍傳斯瑞 (From CBETA edition of 新續高僧傳 卷 024）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>清杭州理安寺沙門釋行珍傳<note place="inline">斯瑞</note>
+                    </head>
+                </head>
+                <p xml:id="pB27p0206a1901">釋行珍號天竺姓陳氏上海人少聰穎多能嘗從人貿遷舟行
+<lb ed="B" n="0206a20"/>遇盜投之水中為漁者所救得甦因求出世脫離塵擾禮無海
+<pb ed="B" xml:id="B27.0151.0206b" n="0206b"/>
+<lb ed="B" n="0206b01"/>學薙染時年十八參箬庵於南<g ref="#CB00589">㵎</g>示以未生前話長跽請益箬
+<lb ed="B" n="0206b02"/>庵拊掌者三珍纔起立即喝出愕焉失措疑不去心年二十圓
+<lb ed="B" n="0206b03"/>具於瑞光侍古南掃塔天童因阻兵不能歸寄跡顯聖坐不語
+<lb ed="B" n="0206b04"/>禪念大事未明憤鬱致疾一夕氣絕眾僧諷經有一僧撫其胸
+<lb ed="B" n="0206b05"/>曰速往西方去珍忽甦瞿然顧視曰此身是何所在眾皆驚悚
+<lb ed="B" n="0206b06"/>病愈還<g ref="#CB00589">㵎</g>箬庵隨命侍香夾山於趙州勘臺山婆子<g ref="#CB12594">䛡</g>下頓徹
+<lb ed="B" n="0206b07"/>古今公案源委呈偈機緣載在語錄箬庵印以偈云吹毛不犯
+<lb ed="B" n="0206b08"/>當頭令出窟金猊果俊哉又稱於眾曰珍雖年少悟處確實法
+<lb ed="B" n="0206b09"/>門令器珍聞之痛自鞭策箬庵命掌書記始垂記莂復詰高峰
+<lb ed="B" n="0206b10"/>六問珍一一著語箬庵解頣自題其像授之<anchor xml:id="beg_d0" type="cb-app"/>已<anchor xml:id="end_d0"/>而結茅晝眉泉
+<lb ed="B" n="0206b11"/>及箬庵寂奔喪建塔更棲蘄州大潛戊<anchor xml:id="beg_d1" type="cb-app"/>戌<anchor xml:id="end_d1"/>冬出主菩提寺三載
+<lb ed="B" n="0206b12"/>遷德章丁未夏應洸禪之請繼席南<g ref="#CB00589">㵎</g>宏覺禪師為法派尊宿
+<lb ed="B" n="0206b13"/>每以古德應庵相擬而念湖州道場為最初祖庭宜興之龍池
+<lb ed="B" n="0206b14"/>為天童磬山兩宗所自出郵書勸駕皆以為非珍不克勝任珍
+<lb ed="B" n="0206b15"/>既至重飭舊規徹夜禪堂策勵勇猛宗風一振善權龍池伊邇
+<lb ed="B" n="0206b16"/>甲寅之難樂安禪師塔燬於火珍從灰燼中負靈骨歸迄難定
+<lb ed="B" n="0206b17"/>復造窣堵擬於舊制無何鑾輅南巡駐蹕夾山珍雍容晉接庭
+<lb ed="B" n="0206b18"/>柏奏對天顏大悅寵賫有加將寂之日法雨泉巖石崩裂林竹
+<lb ed="B" n="0206b19"/>枯瘁生平九坐道場說法十二會開堂三十七年前後四住理
+<lb ed="B" n="0206b20"/>安道風孤邁學子非謀道真切痛念生死者不敢登其堂所至
+<pb ed="B" xml:id="B27.0151.0207a" n="0207a"/>
+<lb ed="B" n="0207a01"/>隨機接引辨才無礙自奉甚薄一衲補綴終身至若南<g ref="#CB00589">㵎</g>則殿
+<lb ed="B" n="0207a02"/>宇寮舍煥然一新得法弟子三十人南北稱大宗師者強半出
+<lb ed="B" n="0207a03"/>其門壽七十一臘五十三祥符令遂安毛際可為撰塔銘又斯
+<lb ed="B" n="0207a04"/>瑞者雲間瞿氏子亦嗣法箬庵繼席理安傳臨濟三十二世有
+<lb ed="B" n="0207a05"/>語錄行世</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

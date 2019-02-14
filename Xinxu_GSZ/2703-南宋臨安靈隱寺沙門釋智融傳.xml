@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="雜識">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>南宋臨安靈隱寺沙門釋智融傳 (From CBETA edition of 新續高僧傳 卷 061）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>南宋臨安靈隱寺沙門釋智融傳</head>
+                </head>
+                <p xml:id="pB27p0444a0201">釋智融姓邢氏名澄世居汴京以醫入仕南渡居臨安萬松嶺
+<lb ed="B" n="0444a03"/>號草庵邢郎中官至成和郎出入禁庭賞賚殊渥年五十棄官
+<lb ed="B" n="0444a04"/>謝妻子祝髮入靈隱寺諸公貴人挽之不可又游諸方徑山康
+<lb ed="B" n="0444a05"/>廬經行殆徧聞靈山之勝遂投迹為終焉計獨行獨坐或至移
+<lb ed="B" n="0444a06"/>晷人不知其能畫也山中多蛇忽作二奇鬼於壁一吹火向空
+<lb ed="B" n="0444a07"/>一蹋蛇而掣其尾蛇患遂除而時有火警又於火端作土梟梟
+<lb ed="B" n="0444a08"/>聲為之革嘗畫龍首半體禱旱輒應遇其適意嚼蔗折草蘸墨
+<lb ed="B" n="0444a09"/>以作坡岸巗石尤為古勁間作物象不過數筆寥寂蕭散生意
+<lb ed="B" n="0444a10"/>飛動或極力摹寫亦有形似而遽不及遠甚樓攻媿鑰嘗寄匹
+<lb ed="B" n="0444a11"/>紙求畫融久不與攻媿以詩迫促之曰古人惜墨如惜金老融
+<lb ed="B" n="0444a12"/>惜墨如惜命又云人非求似韵自足物已忘形影猶映地蒸宿
+<lb ed="B" n="0444a13"/>霧日未高雨帶寒煙山欲瞑融始為之作歲寒圖融作詩不多
+<lb ed="B" n="0444a14"/>語意清絕每自言若得為僧三十秋瞑目無言萬事休紹熙四
+<lb ed="B" n="0444a15"/>年五月卒壽八十僧臘如其言</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

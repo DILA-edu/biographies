@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="靈感">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>明雲南雞足山西來寺沙門釋如唐傳大智 (From CBETA edition of 新續高僧傳 卷 037）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>明雲南雞足山西來寺沙門釋如唐傳<note place="inline">大智</note>
+                    </head>
+                </head>
+                <p xml:id="pB27p0288a1201">釋如唐者關中人初至滇棲雞足山羅漢崖下日諷法華久之
+<lb ed="B" n="0288a13"/>泉自崖根迸出眾多歎異乃為造寺曰西來寺本所自也如唐
+<lb ed="B" n="0288a14"/>性本慈祥善心化物每於食後以手承盋立向階前念佛一聲
+<lb ed="B" n="0288a15"/>則林中羣鳥翩翻隨至集肩而食殊行甚多後不測所終有大
+<lb ed="B" n="0288a16"/>智者燕人也行腳至白崖每見雞輒與食常以布囊成米肘後
+<lb ed="B" n="0288a17"/>纍纍如斗大人戲之曰老僧何為飼人雞欲其肥邪不然於爾
+<lb ed="B" n="0288a18"/>何與大智喟然曰人家畜雞而不飼以米者欲其多食蟲蟻乃
+<lb ed="B" n="0288a19"/>肥耳吾以米易之正為諸蟲度厄也一日徧謝市中所相識者
+<lb ed="B" n="0288a20"/>曰吾往矣眾叩所之曰不遠眾隨之去至一蟻垤傍閉目端坐
+<pb ed="B" xml:id="B27.0151.0288b" n="0288b"/>
+<lb ed="B" n="0288b01"/>口吐白氣如虹向西而逝</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

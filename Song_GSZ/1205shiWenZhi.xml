@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0881b25shiZhiJun"><lb
+ed="T" n="0881b25"/><anchor n="T.50.2061.0881b25"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000013235"><placeName>會稽</placeName><placeName>呂后山</placeName></placeName><persName key="A013748">文質</persName>傳</head><p><lb
+ed="T" n="0881b26"/><persName key="A013748">釋文質</persName>，俗姓<name>祝</name>氏，<persName key="A013749">尚丘</persName>之遠孫，<placeName key="PL000000013741"><placeName>衢州</placeName><placeName>須江</placeName></placeName>人<lb
+ed="T" n="0881b27"/>也。叔氏為僧號<persName key="A010237">唯寬</persName>，學通多本經論。<persName key="A010237">寬</persName>被<lb
+ed="T" n="0881b28"/>詔入<placeName key="PL000000042189">長安</placeName>，止<placeName key="PL000000042218">大興善寺</placeName>，重詔入內道場<ptr target="#n3386"/>，兼<lb
+ed="T" n="0881b29"/>請受菩薩戒<ptr type="glossary" target="#g120"/>。<persName key="A013748">質</persName>隨<persName key="A010237">寬</persName>入內。<date key="j20103632010746" from-iso="+0792-02-01" to-iso="+0793-02-18">年十五</date>，誦《法華》、<pb ed="T" n="0881c" xml:id="T50.2061.0881c"/><lb
+ed="T" n="0881c01"/>《華嚴》、《維摩》等經。<date key="j20132872013640" from-iso="+0800-02-03" to-iso="+0801-01-21">二十三</date>受具，七日誦周戒本，<lb
+ed="T" n="0881c02"/>二夏便講《四分律》<ptr target="#n70"/>。<date key="j20147642015117" from-iso="+0804-02-19" to-iso="+0805-02-06">二十七</date>，講通《俱舍》<ptr target="#n1429"/>。四十年<lb
+ed="T" n="0881c03"/>中，精曉諸大經論，後約束<ptr type="glossary" target="#g2203"/><persName key="A010356">大悲</persName>、<persName key="A013751">禹跡</persName>二禪師，<lb
+ed="T" n="0881c04"/>參問心要。既博達矣，歸<placeName key="PL000000058223"><placeName>諸暨</placeName><placeName>法樂寺</placeName></placeName>領徒。<lb
+ed="T" n="0881c05"/>時有虎來聽法，<persName key="A013748">質</persName>摩其頂而去。後往<placeName key="PL000000012522">永嘉</placeName>，<lb
+ed="T" n="0881c06"/>鍾<ptr type="glossary" target="#g2200"/><date from-iso="+0841-02-08" key="j20282682030170" to-iso="+0846-04-25"><name>會昌</name></date>之搜簡，乃隱<placeName key="PL000000012624"><placeName>樂成縣</placeName><placeName>大芙蓉山</placeName></placeName>，胎息<ptr type="glossary" target="#g1159"/><lb
+ed="T" n="0881c07"/>而已。<date from-iso="+0847-02-10" key="j20304612035056" to-iso="+0859-09-10"><name>大中</name></date>重興，太守<persName key="A013753">韋<roleName>君</roleName></persName>累請不來，強置<lb
+ed="T" n="0881c08"/>于榻，<anchor xml:id="beg0881sgsz3"/><g ref="#Z1197"/><anchor xml:id="end0881sgsz3"/>出州<placeName key="PL000000012500">開元寺</placeName>居。檀施<ptr type="glossary" target="#g237"/>駢貤<ptr type="glossary" target="#g2204"/>，迴造大<lb
+ed="T" n="0881c09"/>佛殿，并講堂、房廊、形像，并寫藏教，無不備<lb
+ed="T" n="0881c10"/>焉。<placeName key="PL000000013239">越州</placeName>廉使<persName key="A013754">沈<roleName>貳卿</roleName></persName><ptr target="#n3387"/>命住<placeName key="PL000000013235">呂后山院</placeName>——本<persName key="A008823">寧賁<lb
+ed="T" n="0881c11"/><roleName>禪師</roleName></persName>舊化之地也。<persName key="A013748">質</persName>唯居草庵而止。<date key="j20358612035861" when-iso="+0861-11-23"><name>咸通</name>二<lb
+ed="T" n="0881c12"/>年十月十四日</date>，告眾言別。<date key="j20358622035862" when-iso="+0861-11-24">十五日</date>，端坐而化，<lb
+ed="T" n="0881c13"/>春秋八十四，僧臘六十二。窆于<placeName key="PL000000049621">雲谷</placeName><ptr target="#n3389"/>，建塔。<lb
+ed="T" n="0881c14"/><placeName key="PL000000013239">越州</placeName>刺史<persName key="A013723"><choice resp="sgsz"><sic>段</sic><corr>王</corr></choice>式</persName><ptr target="#n3388"/>為行錄焉。</p>
+    <linkGrp>
+        <link targets="#0881b26 #0881b26"/>
+        <ptr target="#A013748" type="person"/>
+        <ptr target="#PL000000013741" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0881b27 #0881b29"/>
+        <ptr target="#A013748" type="person"/>
+        <ptr target="#A010237" type="person"/>
+        <ptr target="#PL000000042218" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0881b29 #0881c01"/>
+        <ptr target="#A013748" type="person"/>
+        <ptr target="#j20103632010746" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0881c01 #0881c01"/>
+        <ptr target="#A013748" type="person"/>
+        <ptr target="#j20132872013640" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0881c02 #0881c02"/>
+        <ptr target="#A013748" type="person"/>
+        <ptr target="#j20147642015117" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0881c03 #0881c04"/>
+        <ptr target="#A013748" type="person"/>
+        <ptr target="#A010356" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0881c03 #0881c04"/>
+        <ptr target="#A013748" type="person"/>
+        <ptr target="#A013751" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0881c04 #0881c05"/>
+        <ptr target="#A013748" type="person"/>
+        <ptr target="#PL000000058223" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0881c05 #0881c05"/>
+        <ptr target="#A013748" type="person"/>
+        <ptr target="#PL000000012522" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0881c06 #0881c07"/>
+        <ptr target="#A013748" type="person"/>
+        <ptr target="#PL000000012624" type="place"/>
+        <ptr target="#j20282682030170" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0881c07 #0881c08"/>
+        <ptr target="#A013748" type="person"/>
+        <ptr target="#A013753" type="person"/>
+        <ptr target="#PL000000012522" type="place"/>
+        <ptr target="#j20304612035056" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0881c08 #0881c09"/>
+        <ptr target="#A013748" type="person"/>
+        <ptr target="#PL000000012500" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0881c10 #0881c10"/>
+        <ptr target="#A013748" type="person"/>
+        <ptr target="#A013754" type="person"/>
+        <ptr target="#PL000000013239" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0881c10 #0881c10"/>
+        <ptr target="#A013748" type="person"/>
+        <ptr target="#PL000000013235" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0881c11 #0881c12"/>
+        <ptr target="#A013748" type="person"/>
+        <ptr target="#PL000000013235" type="place"/>
+        <ptr target="#j20358612035861" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0881c12 #0881c13"/>
+        <ptr target="#A013748" type="person"/>
+        <ptr target="#PL000000013235" type="place"/>
+        <ptr target="#j20358622035862" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0881c14 #0881c14"/>
+        <ptr target="#A013723" type="person"/>
+        <ptr target="#PL000000013239" type="place"/>
+    </linkGrp>
+</div>

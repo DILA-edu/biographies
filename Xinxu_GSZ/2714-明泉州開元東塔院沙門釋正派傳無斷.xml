@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="雜識">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>明泉州開元東塔院沙門釋正派傳無斷 (From CBETA edition of 新續高僧傳 卷 062）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>明泉州開元東塔院沙門釋正派傳<note place="inline">無斷</note>
+                    </head>
+                </head>
+                <p xml:id="pB27p0449a1901">釋正派字覺非姓蔡氏晉江人也生有夙慧苦志勤學出家後
+<lb ed="B" n="0449a20"/>居東塔院博洽諸經兼以文蓻助我禪悅時有無斷老宿棲止
+<pb ed="B" xml:id="B27.0151.0449b" n="0449b"/>
+<lb ed="B" n="0449b01"/>寺中淹通內外典籍素見重於王遵嚴諸文學正派承其啟迪
+<lb ed="B" n="0449b02"/>別有會心無斷深契之一時名籍甚郡司寇詹咫亭以直言歸
+<lb ed="B" n="0449b03"/>結室北山巢雲延正派居之禮意殷殷山中唱和有竹下烹茶
+<lb ed="B" n="0449b04"/>雲入袖松間倚杖<g ref="#CB15112">󳬈</g>窺人之句後遊吳越名藍勝境咸有題詠
+<lb ed="B" n="0449b05"/>人多傳誦咫亭復邀朋輩及諸名德結楞嚴社每會人立一義
+<lb ed="B" n="0449b06"/>多方參辨唯正每奪其標有云慙愧未能成底事逡巡難得似
+<lb ed="B" n="0449b07"/>前人可見派之素履不以文害志也臨終示偈曰勿毀勿讚本
+<lb ed="B" n="0449b08"/>無涯岸雲度長空月浮碧漢世壽七十九</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

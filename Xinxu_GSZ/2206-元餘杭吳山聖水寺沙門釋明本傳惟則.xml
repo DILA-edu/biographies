@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="習禪">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>元餘杭吳山聖水寺沙門釋明本傳惟則 (From CBETA edition of 新續高僧傳 卷 017）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>元餘杭吳山聖水寺沙門釋明本傳<note place="inline">惟則</note>
+                    </head>
+                </head>
+                <p xml:id="pB27p0155a1201">釋明本字幻住晚號中峰姓孫氏錢塘人幼好梵唄長乃出家
+<lb ed="B" n="0155a13"/>初依吳山聖水聞高峰原妙居天目山師子巖立死關以待參
+<lb ed="B" n="0155a14"/>學明本往叩之原妙欣許知為大器久之明本誦金剛經恍有
+<lb ed="B" n="0155a15"/>開解者謂識量依通雖於義趣通解終非悟也已而薙染時原
+<lb ed="B" n="0155a16"/>妙閉關獨居誓不接納獨見本授以<g ref="#CB12594">䛡</g>頭由是給侍死關晝服
+<lb ed="B" n="0155a17"/>力役夜事禪定十年而學成豁然超脫宗旨別傳九流諸子罔
+<lb ed="B" n="0155a18"/>不淹貫激揚提唱機鋒翕靃圓轉不窮時稱大辯焉元貞間高
+<lb ed="B" n="0155a19"/>峰將遷化以大覺禪寺相屬辭之登皖山游廬阜至金陵結庵
+<lb ed="B" n="0155a20"/>廬州弁山及平江鴈蕩已而還山領師子院宰相大臣以五山
+<pb ed="B" xml:id="B27.0151.0155b" n="0155b"/>
+<lb ed="B" n="0155b01"/>主席交聘俱力辭因日避走南北間朝廷聞其名特賜金襴伽
+<lb ed="B" n="0155b02"/>梨進號佛慈圓照廣慧禪師元統二年並詔明本所著廣錄三
+<lb ed="B" n="0155b03"/>十卷收入佛藏揭徯斯為之序至治三年八月安坐而逝壽六
+<lb ed="B" n="0155b04"/>十一臘三十七文宗敕詞臣製碑<anchor xml:id="beg_89" type="cb-app"/>諡<anchor xml:id="end_89"/>曰智覺塔曰法雲明本身
+<lb ed="B" n="0155b05"/>履長大倍於時人所遺麻履二尚藏寺中寂時荼毘於天目虞
+<lb ed="B" n="0155b06"/>集銘其塔趙孟頫書其淨土詩初松雪極致敬禮馮海粟意殊
+<lb ed="B" n="0155b07"/>不然及示梅花詩六十首明本和之復成百詠及九言一首馮
+<lb ed="B" n="0155b08"/>由是歎服加禮焉今有爪髮舍利塔在聖水寺弟子惟則字天
+<lb ed="B" n="0155b09"/>如廬陵人髫年出家初參海印後得法中峰有語錄四卷</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

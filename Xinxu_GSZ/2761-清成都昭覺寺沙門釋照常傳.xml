@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="雜識">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>清成都昭覺寺沙門釋照常傳 (From CBETA edition of 新續高僧傳 卷 065）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>清成都昭覺寺沙門釋照常傳</head>
+                </head>
+                <p xml:id="pB27p0473b1701">釋照常字朗西姓稅氏溫江人也父登第母杜氏夙孕靈根早
+<lb ed="B" n="0473b18"/>通慧業質挺蓮植居近禪房年才十八界空萬千清同治壬申
+<lb ed="B" n="0473b19"/>披薙於羅禪古寺初習梵經便窮微旨俄而太師性長與師祖
+<lb ed="B" n="0473b20"/>寂澄相繼謝世遂主寺事新矩既崇舊規仍守增輝院宇培植
+<pb ed="B" xml:id="B27.0151.0474a" n="0474a"/>
+<lb ed="B" n="0474a01"/>林園費無旁貸務必躬親禪修之餘兼工文藝左蘇右黃積墨
+<lb ed="B" n="0474a02"/>橫錦超王邁倪繪素生姿好學多材為時稱詡光緒丁亥附近
+<lb ed="B" n="0474a03"/>市場更易商旅無依乃竭願力別造廣廈且築樓近水起閣傍
+<lb ed="B" n="0474a04"/>山沱江左右暉映霞表地靈人傑於焉聚集後依文殊院香巗
+<lb ed="B" n="0474a05"/>律師受具香來木樨花滿祇樹戊午主昭覺法席彌復專精儗
+<lb ed="B" n="0474a06"/>作雲遊徧留雪爪己未謁普賢道場膺大佛殿方丈已而辭去
+<lb ed="B" n="0474a07"/>躡屩南海負簦北燕歷盡塵勞庶成佛果庚申七月乘杯西蜀
+<lb ed="B" n="0474a08"/>駐錫東川棲止羅漢古洞竟於十月七日坐化壽六十有七川
+<lb ed="B" n="0474a09"/>東蘇兆奎為之銘</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

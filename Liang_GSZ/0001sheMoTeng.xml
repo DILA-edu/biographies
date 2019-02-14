@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="譯經" xml:id="gsz0322c15sheMoTeng">
+<p><anchor n="T.50.2059.0322c15"/><lb ed="T" n="0322c15"/><persName key="A000883">攝摩騰</persName>，本<placeName key="PL000000048208">中天竺</placeName>人，善風儀，解大小乘經，<lb ed="T" n="0322c16"/>常遊化為任。昔經往<placeName key="PL000000048207">天竺</placeName>附庸小國講《金<lb ed="T" n="0322c17"/>光明經》，會敵國侵境，<persName key="A000883">騰</persName>惟曰：「經云：『能說此<ptr target="fn15"/><lb ed="T" n="0322c18"/>經法。為地神所護。使所居安樂。』今鋒鏑<lb ed="T" n="0322c19"/>方始，曾是為益乎！」乃誓以忘身，躬往和勸，<lb ed="T" n="0322c20"/>遂二國交歡，由是<ptr target="fn16"/>顯<ptr target="fn17"/>達。</p><p><date from-iso="0060-03-04" key="j17430381746670" to-iso="0070-02-12">漢永平中</date>，<persName key="A002001">明皇帝</persName><lb ed="T" n="0322c21"/>夜夢金人<ptr target="fn18"/>飛空而至，乃大集群臣，以占所<lb ed="T" n="0322c22"/>夢。通人<persName key="A002002">傅毅</persName>奉答：「臣聞<placeName key="PL000000047439">西域</placeName>有神，其名曰<lb ed="T" n="0322c23"/>『 佛』。<persName key="A002001">陛下</persName>所夢將必是乎。」<persName key="A002001">帝</persName>以為然，即遣郎<lb ed="T" n="0322c24"/>中<persName key="A002003">蔡愔</persName>、博士弟子<persName key="A002004">秦景</persName>等。使往<placeName key="PL000000048207">天竺</placeName>，尋訪<lb ed="T" n="0322c25"/>佛法。<persName key="A002003">愔</persName>等於彼遇見<persName key="A000883">摩騰</persName>，乃要還<placeName key="PL000000000098">漢地</placeName>。<persName key="A000883">騰</persName><lb ed="T" n="0322c26"/>誓志弘通，不憚疲苦，冒涉流沙，至乎<placeName key="PL000000023521">雒<lb ed="T" n="0322c27"/>邑</placeName>，<persName key="A002001">明帝</persName>甚加賞接，於城西門外立精舍以<lb ed="T" n="0322c28"/>處之，<placeName key="PL000000000098">漢地</placeName>有沙門之始也。但大法初傳，未<lb ed="T" n="0322c29"/>有歸信，故蘊其深解，無所宣述。後少時<lb ed="T" n="0323a01"/>卒於<placeName key="PL000000023521">雒陽</placeName>。有記云：<persName key="A000883">騰</persName>譯《四十二章經》一卷。<lb ed="T" n="0323a02"/>初緘在蘭臺石室第十四間中。<persName key="A000883">騰</persName>所住處，今<lb ed="T" n="0323a03"/><placeName key="PL000000023521">雒陽</placeName>城西<placeName key="PL000000023533">雍門</placeName>外<placeName key="PL000000023663">白馬寺</placeName>是也。相傳云：外國<lb ed="T" n="0323a04"/>國王嘗毀破諸寺，唯<placeName key="PL000000023663">招提寺</placeName>未及毀壞。夜<lb ed="T" n="0323a05"/>有一白馬繞塔悲鳴，即以啟王，王即停壞<lb ed="T" n="0323a06"/>諸寺。因改<placeName key="PL000000023663">招提</placeName>以為「<placeName key="PL000000023663">白馬</placeName>」。故諸寺立名多<lb ed="T" n="0323a07"/>取則焉。</p>
+
+    <linkGrp>
+        <link targets="#0322c16 #0322c20"/>
+        <ptr n="講經者" target="#A000883" type="person"/>
+        <ptr target="#PL000000048207" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0322c20 #0322c25"/>
+        <ptr n="夢者（皇帝）" target="#A002001" type="person"/>
+        <ptr n="占者（通人）" target="#A002002" type="person"/>
+        <ptr n="使者（郎中）" target="#A002003" type="person"/>
+        <ptr n="使者（博士弟子）" target="#A002004" type="person"/>
+        <ptr target="#PL000000023521" type="place"/>
+        <ptr target="#j17430381746670" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0322c24 #0322c26"/>
+        <ptr n="天竺僧" target="#A000883" type="person"/>
+        <ptr n="漢使者" target="#A002003" type="person"/>
+        <ptr n="漢使者" target="#A002004" type="person"/>
+        <ptr target="#PL000000048207" type="place"/>
+        <ptr target="#j17430381746670" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0322c27 #0322c28"/>
+        <ptr n="弘法者（天竺僧）" target="#A000883" type="person"/>
+        <ptr n="漢皇帝" target="#A002001" type="person"/>
+        <ptr target="#PL000000023521" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0323a02 #0323a03"/>
+        <ptr target="#A000883" type="person"/>
+        <ptr target="#PL000000023663" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0322c29 #0323a01"/>
+        <ptr target="#A000883" type="person"/>
+        <ptr target="#PL000000023521" type="place"/>
+    </linkGrp>
+</div>

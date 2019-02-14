@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="習禪">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>南宋餘杭淨慈寺沙門釋重顯傳韓大伯_善暹 (From CBETA edition of 新續高僧傳 卷 014）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>南宋餘杭淨慈寺沙門釋重顯傳<note place="inline">韓大伯　善暹</note>
+                    </head>
+                </head>
+                <p xml:id="pB27p0130b1201">釋重顯字隱之姓李氏遂寧人也依普安仁銑出家受具後橫
+<lb ed="B" n="0130b13"/>經講席究理窮玄詰難轉深機辨無敵咸欽法器元瑩講圓覺
+<lb ed="B" n="0130b14"/>疏於大慈寺顯往復辯難瑩不能屈曰聞南方有得諸佛清淨
+<lb ed="B" n="0130b15"/>法眼者彼待子之求也久矣往詣石門留居三年殊無所契負
+<lb ed="B" n="0130b16"/>簦南游首造智門<g ref="#CB05650">𧙓</g>即申問曰不起一念云何有過門召近前
+<lb ed="B" n="0130b17"/>擊以拂子方儗陳詞又忽擊之遂豁然開朗無可言說將造錢
+<lb ed="B" n="0130b18"/>塘值曾學士於淮南以書薦於珊禪師顯至靈隱浮沈眾中忽
+<lb ed="B" n="0130b19"/>焉三載曾奉使歸訪之靈隱無識之者乃於淨頭寮舍物色得
+<lb ed="B" n="0130b20"/>之曾詢薦書顯出袖中納之曰公意勤勤然行腳人非書郵也
+<pb ed="B" xml:id="B27.0151.0131a" n="0131a"/>
+<lb ed="B" n="0131a01"/>珊由是奇之有為道日損偈曰三分光陰二蚤過靈臺一點不
+<lb ed="B" n="0131a02"/>楷磨區區逐日貪生去喚不回頭爭奈何出住翠蜂忽遷淨慈
+<lb ed="B" n="0131a03"/>未幾移主雪竇上堂僧問雪覆蘆花時如何曰點曰如何則為
+<lb ed="B" n="0131a04"/>祥為瑞也顯乃頌曰雪覆蘆花欲暮天謝家人不在漁船白牛
+<lb ed="B" n="0131a05"/>放卻無尋處空把山童贈鐵鞭一日遊山四顧瞿瞿悠然神遠
+<lb ed="B" n="0131a06"/>久之謂侍者曰何日復來於此侍者哀乞遺偈顯曰平生唯患
+<lb ed="B" n="0131a07"/>語之多矣翌辰出杖履衣盂散及徒眾乃曰七月七日復相見
+<lb ed="B" n="0131a08"/>耳至期盥沐攝衣北首而逝塔於寺之西塢追<anchor xml:id="beg_6a" type="cb-app"/>諡<anchor xml:id="end_6a"/>明覺嘗同于
+<lb ed="B" n="0131a09"/>祕丞賦瀑泉大禹不知鑿來源亦自成色應憐眾白聲合讓孤
+<lb ed="B" n="0131a10"/>清遠勢曾吞海飛流未噴鯨靈槎如可放天際問歸程雪竇漫
+<lb ed="B" n="0131a11"/>興春山亂疊青春水漾虛碧寥寥天地間獨立望何極日暮游
+<lb ed="B" n="0131a12"/>東澗極目生晚照幽情春蘭芷白蘋葉裏風不在秋江起送僧
+<lb ed="B" n="0131a13"/>下雪竇雲衣輕拂下層巒松桂生風觸袖寒誰問親遊乳峰意
+<lb ed="B" n="0131a14"/>百千年後與人看寄大平瑞千朵危峰杳靄間石房長帶瀑聲
+<lb ed="B" n="0131a15"/>寒鳥啼花發尋常事松木青青雪裏看同時有韓大伯修苦行
+<lb ed="B" n="0131a16"/>於大陽顯時為典客與客論趙州宗旨大伯侍其旁匿笑客退
+<lb ed="B" n="0131a17"/>顯數之曰我偶客語汝乃慢笑笑何事大伯曰笑知客智眼未
+<lb ed="B" n="0131a18"/>正擇法不明顯曰豈有說乎對以偈曰一兔橫身當古路蒼膺
+<lb ed="B" n="0131a19"/>才見便生擒後來獵火無靈性空向枯樁舊處尋顯陰異之結
+<lb ed="B" n="0131a20"/>以為友後顯主雪竇法席之盛號雲門中興顯嘗經行植杖眾
+<pb ed="B" xml:id="B27.0151.0131b" n="0131b"/>
+<lb ed="B" n="0131b01"/>衲環之忽問曰有問雲門樹凋葉落時如何曰體露金風雲門
+<lb ed="B" n="0131b02"/>答遮僧邪為說解邪有宗上座曰待老漢有悟處即說顯熟視
+<lb ed="B" n="0131b03"/>驚曰非韓大伯乎曰老漢瞥地也於是令摳鼓集眾顯曰大眾
+<lb ed="B" n="0131b04"/>今日雪竇宗上座乃是昔年大陽韓大伯具大知見晦迹韜光
+<lb ed="B" n="0131b05"/>欲得發楊宗風幸願特升此座遂升座一眾大驚善暹初參德
+<lb ed="B" n="0131b06"/>山後至雪竇謁顯顯喜其俊逸曰海上橫行暹道者遂命分座
+<lb ed="B" n="0131b07"/>說法顯欲其住金鵝暹書二偈而去不是無心繼祖鐙道慚未
+<lb ed="B" n="0131b08"/>廁嶺南能三更月下離巖竇眷眷無言戀碧層二十餘年四海
+<lb ed="B" n="0131b09"/>間親師擇友未嘗閒今朝得到無心地却被無心趁出山</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

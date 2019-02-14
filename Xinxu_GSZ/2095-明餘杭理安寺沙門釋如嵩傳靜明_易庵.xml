@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="義解">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>明餘杭理安寺沙門釋如嵩傳靜明_易庵 (From CBETA edition of 新續高僧傳 卷 008）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>明餘杭理安寺沙門釋如嵩傳<note place="inline">靜明　易庵</note>
+                    </head>
+                </head>
+                <p xml:id="pB27p0092b0101">釋如嵩更名仲光字佛石晚號法雨老人姓戴氏錢塘人父邦
+<lb ed="B" n="0092b02"/>賢母陳氏夢僧以伽黎覆體而生嵩襁褓中即惡聞腥羶甫四
+<lb ed="B" n="0092b03"/>齡禮靜明為師荏苒十載始從剃染年十八受戒於蓮池明年
+<lb ed="B" n="0092b04"/>歷遊講肆習天台教觀及聞雪浪弘揚賢首宗相依最久一日
+<lb ed="B" n="0092b05"/>讀圓覺至以思惟心測度如來大圓覺大海如以螢火燒須彌
+<lb ed="B" n="0092b06"/>山乃歎曰尋名取義皆思惟心也遂掩關竟千日自尋究竟疑
+<lb ed="B" n="0092b07"/>終未破會易菴提倡少林宗就座累月復歎云古人臨機覿面
+<lb ed="B" n="0092b08"/>語若只如此疏通與講論何異仍別去依雪浪至甲午謁紫柏
+<lb ed="B" n="0092b09"/>於金陵靜海寺問訊殷殷便以聽雪浪講楞嚴對紫柏因指示
+<lb ed="B" n="0092b10"/>曰經中說當處發生隨處滅盡幻妄稱相其性真為妙覺明體
+<lb ed="B" n="0092b11"/>如何是妙覺明體嵩云生滅盡處是妙覺明體紫柏痛呵之嵩
+<lb ed="B" n="0092b12"/>
+                    <anchor xml:id="beg_3b" type="cb-app"/>惘<anchor xml:id="end_3b"/>然少頃從容進問曰畢竟如何是妙覺明體紫柏乃震聲一
+<lb ed="B" n="0092b13"/>喝嵩便禮拜自後始知宗門下事非學解所到來日具威儀歸
+<lb ed="B" n="0092b14"/>依因為更名仲光實授記法也已復芙曰山僧二十年前口不
+<lb ed="B" n="0092b15"/>多遜二十年後一字不出矢口歌云一泓清可沁詩脾冷煖年
+<lb ed="B" n="0092b16"/>來只自知晚歲厭客避居峰頂築一庵一壙曰吾生可遊死可
+<lb ed="B" n="0092b17"/>葬四十餘年受用過分住得一日是一日因顏其庵曰且住瞰
+<lb ed="B" n="0092b18"/>江俯谿蘿懸徑絕雖弟子亦罕接見營壙後忽示微疾就寢席
+<lb ed="B" n="0092b19"/>者月餘唯以天氣方暑若有所待適秋至謂弟子曰今日晴爽
+<lb ed="B" n="0092b20"/>吾欲遠去或不喻意乃從容扶杖起出寢室盥沐趺坐屬付後
+<pb ed="B" xml:id="B27.0151.0093a" n="0093a"/>
+<lb ed="B" n="0093a01"/>事誡勿妄求安分守訓復命邀諸檀越欲嚴淨伽藍禁客攜觴
+<lb ed="B" n="0093a02"/>時蔡居士在法相山房應聲而至見之喜曰有居士證明吾道
+<lb ed="B" n="0093a03"/>存矣餘不及待也弟子戒慧請留遺偈走筆書曰一句彌陀五
+<lb ed="B" n="0093a04"/>十年分明掘地討青天而今好箇真消息夜半鐘聲到客船書
+<lb ed="B" n="0093a05"/>竟顧視左右擲筆而逝時崇禎九年七月十日也壽六十有八
+<lb ed="B" n="0093a06"/>臘五十有四嘗自記云金陵歸即深入十八<g ref="#CB00589">㵎</g>一蓋一笠蒲團
+<lb ed="B" n="0093a07"/>夜安沙鐺晝饟坐松下旁為深坑野篠豐叢即虎穴也猙獰欲
+<lb ed="B" n="0093a08"/>怒未免戒心因隨語曰此地當仍復梵剎汝速往他山如不欲
+<lb ed="B" n="0093a09"/>讓夜當大吼余即去矣是夜竟不聞聲遲明已他徙即編茆而
+<lb ed="B" n="0093a10"/>處棲止八載上雨旁風不禁荒寒時仲期居士覓余踪跡不得
+<lb ed="B" n="0093a11"/>由兩峰至澗中竟於淒煙衰草間見索衣頭陀居然余也歎<anchor xml:id="beg_3c" type="cb-app"/>羨<anchor xml:id="end_3c"/>
+<lb ed="B" n="0093a12"/>者久之隨同伯霖貞甫兩公邀吳竇二方伯來游馮具區先生
+<lb ed="B" n="0093a13"/>為訂蓮社藍輿頻至無異虎溪即其所記可想見其為人</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

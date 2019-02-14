@@ -1,0 +1,41 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="義解">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>明松江普照寺沙門釋居敬傳東源 (From CBETA edition of 新續高僧傳 卷 006）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>明松江普照寺沙門釋居敬傳<note place="inline">東源</note>
+                    </head>
+                </head>
+                <p xml:id="pB27p0074b0301">釋居敬字心淵別號蘭雪學通內外善屬文精嚴律部禮金陵
+<lb ed="B" n="0074b04"/>大報恩寺一雨後參杭州集慶寺東源於懺摩堂居第一座從
+<lb ed="B" n="0074b05"/>而講周易永樂初奉詔校大藏經預修會典已而住持上海廣
+<lb ed="B" n="0074b06"/>福講寺遷松江普照大開法席垂十餘載建大雄殿海月堂三
+<lb ed="B" n="0074b07"/>解脫門廊廡重軒精舍香積煥然新之七眾瞻仰道風大扇</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

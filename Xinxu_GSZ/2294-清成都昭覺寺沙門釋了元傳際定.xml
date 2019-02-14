@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="習禪">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>清成都昭覺寺沙門釋了元傳際定 (From CBETA edition of 新續高僧傳 卷 025）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>清成都昭覺寺沙門釋了元傳<note place="inline">際定</note>
+                    </head>
+                </head>
+                <p xml:id="pB27p0216b1301">釋了元字道魁姓童氏黃陂人齔齡失恃幼不耐學略習技勇
+<lb ed="B" n="0216b14"/>氣豪志毅情似傲物然性愛僧道喜覽名山乾隆丙寅至漢臯
+<lb ed="B" n="0216b15"/>十方庵禮明禪師薙染聞成都昭覺宗風遠振徑上川西就昭
+<lb ed="B" n="0216b16"/>覺守仁稟具足戒一日入室問丹霞掩耳高沙彌拂袖意旨如
+<lb ed="B" n="0216b17"/>何仁曰非汝境界且向父母未生前速道一句元方佇思仁一
+<lb ed="B" n="0216b18"/>喝忽爾如夢驚覺拂袖便出明年癸酉正月上元乃受付屬仁
+<lb ed="B" n="0216b19"/>名際定應城陳氏子年三十六始出塵濁便勤參叩嘗謁馬祖
+<lb ed="B" n="0216b20"/>寺翠庵晝夜提撕終無入處偶因入林采薪有樹橫臥草中絆
+<pb ed="B" xml:id="B27.0151.0217a" n="0217a"/>
+<lb ed="B" n="0217a01"/>之而仆倐焉豁悟身世皆空遂說偈曰仆地忽然忘所曉從今
+<lb ed="B" n="0217a02"/>再不尋他討一交<anchor xml:id="beg_e1" type="cb-app"/>跌<anchor xml:id="end_e1"/>落一肩柴萬象森羅都笑倒已而辭回丹
+<lb ed="B" n="0217a03"/>景山掩關持誦法華三年<anchor xml:id="beg_e2" type="cb-app"/>己<anchor xml:id="end_e2"/>未至昭覺參潛修機緣契合俄而
+<lb ed="B" n="0217a04"/>繼席乾隆戊寅仁寂了元盡禮闍維入塔復檢潛修語錄稿逐
+<lb ed="B" n="0217a05"/>一編較輯成卷袟刊入嘉興楞嚴藏室並收集破山明以下六
+<lb ed="B" n="0217a06"/>代祖師語錄隨舟載至高旻寺入正源錄部後遊吳越諸名勝
+<lb ed="B" n="0217a07"/>登天童禮密祖過育王覲舍利謁補陀覩潮音真相壬辰春返
+<lb ed="B" n="0217a08"/>昭覺遂接席嘗作警策偈示眾云欲明出世法信力為根本本
+<lb ed="B" n="0217a09"/>不從他得腳跟須把穩習氣盡蠲除靈光孤逈逈頂門開正眼
+<lb ed="B" n="0217a10"/>方見吾無隱一喝分賓主離名無等等堪歎夢中人不悟無生
+<lb ed="B" n="0217a11"/>忍參禪志不堅徒捉波中影工夫未現前念念成魔境著空守
+<lb ed="B" n="0217a12"/>寂靈可悲復可憫自昧本來心云何得解脫依舊入輪迴遠離
+<lb ed="B" n="0217a13"/>諸大覺孤負丈夫身借衣逃生活痛策諸禪侶莫隨風擺撥發
+<lb ed="B" n="0217a14"/>奮自忘疲精修無漏學諙頭得力時萬境難搖奪撲落大虛空
+<lb ed="B" n="0217a15"/>原來是者個其頌明星悟道云六年空抱死疑團此夜方知徹
+<lb ed="B" n="0217a16"/>骨寒驀地舉眸開口笑從今返覆誑人天見見之時見非是見
+<lb ed="B" n="0217a17"/>見猶離見見不能及葉落青山染翠容丹霞映水露金風九霄
+<lb ed="B" n="0217a18"/>雲盡孤峰麗萬壑蒼蒼一點紅又頌庭前柏樹子云認得中時
+<lb ed="B" n="0217a19"/>
+                    <anchor xml:id="beg_e3" type="cb-app"/>卻<anchor xml:id="end_e3"/>未中承虛接響意朦朧不因柏子庭前樹爭解金雞覿面風
+<lb ed="B" n="0217a20"/>福康安之督川也陛辤時高宗面諭之曰四川昭覺僧了元者
+<pb ed="B" xml:id="B27.0151.0217b" n="0217b"/>
+<lb ed="B" n="0217b01"/>善知識也汝善護持之蓋潛德幽光聲聞于天及福至川宿新
+<lb ed="B" n="0217b02"/>都明日晨發私念了元聖眷如此果有道否欲試之陽命騶從
+<lb ed="B" n="0217b03"/>導自山門而陰乘便輿入於寺東門比至則僧眾集於東門鵠
+<lb ed="B" n="0217b04"/>立以竢福心訝之初欲自諱及見了元問訊不覺折服相與攜
+<lb ed="B" n="0217b05"/>手入寺訂交而去後往來無間云</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

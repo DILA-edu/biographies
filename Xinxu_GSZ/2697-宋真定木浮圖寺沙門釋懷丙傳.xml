@@ -1,0 +1,45 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="雜識">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>宋真定木浮圖寺沙門釋懷丙傳 (From CBETA edition of 新續高僧傳 卷 060）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>宋真定木浮圖寺沙門釋懷丙傳</head>
+                </head>
+                <p xml:id="pB27p0440b1101">釋懷丙真定人為人多巧思出自天成非學所能至故其法不
+<lb ed="B" n="0440b12"/>傳真定構木為浮圖十三級勢尤孤絕既久而中級大柱壞欲
+<lb ed="B" n="0440b13"/>西北傾他匠莫能為懷丙度長短別作柱命眾工維而上已而
+<lb ed="B" n="0440b14"/>却眾工以一介自從閉戶良久易柱下不聞斧鑿聲趙州洨河
+<lb ed="B" n="0440b15"/>鑿石為橋冶鐵貫其中自唐以來相傳數百年大水不能壞歲
+<lb ed="B" n="0440b16"/>久鄉民或盜鑿鐵橋遂欹倒計千夫不能正懷丙不役眾工以
+<lb ed="B" n="0440b17"/>術正之使復故河中府浮梁用鐵牛八維之以一牛且數萬斤
+<lb ed="B" n="0440b18"/>後水暴漲絕梁牽牛沒於河募能出之者懷丙以二大舟實土
+<lb ed="B" n="0440b19"/>夾牛維之用大木為權衡鉤牛徐去其土舟浮牛出輯運使張
+<lb ed="B" n="0440b20"/>燾以聞賜紫衣尋卒</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

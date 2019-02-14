@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="習禪">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>元泰安靈巖寺沙門釋普就傳 (From CBETA edition of 新續高僧傳 卷 017）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>元泰安靈巖寺沙門釋普就傳</head>
+                </head>
+                <p xml:id="pB27p0153b0801">釋普就字古巖姓劉氏真定人幼不茹葷年十有五即厭俗境
+<lb ed="B" n="0153b09"/>獨慕空門徑往封龍山禪房禮讚公落髮親災道範博通經律
+<lb ed="B" n="0153b10"/>登壇受具<g ref="#CB33499">𠪱</g>謁林棠寶積雲峰禪伯體妙窮元南詢之典日益
+<lb ed="B" n="0153b11"/>加矣又於鵲里<anchor xml:id="beg_87" type="cb-app"/>崇<anchor xml:id="end_87"/>孝清安老宿一叩大事因緣為汝槌拂之下
+<lb ed="B" n="0153b12"/>發明此事後依靈巖足庵肅棲止八載及肅主萬壽亦不憚馳
+<lb ed="B" n="0153b13"/>驅遠道追隨鍛鍊日精了無窒礙遂付衣頌且謂之曰質性樸
+<lb ed="B" n="0153b14"/>真純有古風將來足振吾宗因還寶積閉關十載出詣靈巖便
+<lb ed="B" n="0153b15"/>充首座大德六年月庵海告退寺眾即請繼席大德丁未受旨
+<lb ed="B" n="0153b16"/>護持山門產業前後一新總統褒賜號曰妙嚴宏法大禪師匡
+<lb ed="B" n="0153b17"/>扶七載退隱靈棲庵復歸封龍山禪房再易春秋皇慶元年仲
+<lb ed="B" n="0153b18"/>冬更還靈棲時祖庭少林闕席寺中僧侶不遠千里持疏而來
+<lb ed="B" n="0153b19"/>請接主座續佛慧命蓋自達摩西來密付單傳青州之下四傳
+<lb ed="B" n="0153b20"/>萬松就為雪庭足庵嫡派正令全提付託得人末後一著心月
+<pb ed="B" xml:id="B27.0151.0154a" n="0154a"/>
+<lb ed="B" n="0154a01"/>孤圓延祐元年覺達為之銘云</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="譯經">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>明臨安淨慈寺沙門釋寺泐傳 (From CBETA edition of 新續高僧傳 卷 002）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>明臨安淨慈寺沙門釋寺泐傳</head>
+                </head>
+                <p xml:id="pB27p0038a0401"><persName key="A000581">釋宗泐</persName>，字<persName key="A000581">季潭</persName>，別題所居曰全室。生有殊質，幼而聰異。授讀塾<lb
+ed="B" n="0038a05"/>師便見稱許，期以遠到。乃性猒俗榮，獨契玄玅。偶涉文苑，別有<lb
+ed="B" n="0038a06"/>悟心。年當成立，矢厥志願，竟從剃染。受具足後，得詣<placeName key="PL000000011683">淨慈</placeName><persName key="A000062">笑隱</persName>。<lb
+ed="B" n="0038a07"/><persName key="A000062">大訢</persName>博諮經典，精求義蘊，律論梵藏，備盡厥旨。嘗居南屏松月<lb
+ed="B" n="0038a08"/>居與竹庵、渭同庵、簡鼎庵，需互相參究，時有啟迪。奧理深疑，一<lb
+ed="B" n="0038a09"/>致推尋，莫不說懌。以解故，所為文詞，禪機淵味，發人幽省。當代<lb
+ed="B" n="0038a10"/>儒宿若<persName key="A008211">虞<persName>文靖</persName>集</persName>、<persName key="A022291">張<persName>潞國</persName>翥</persName>、<persName key="A007555">黃<persName>晉卿</persName>溍</persName>皆一時巨子，見<persName key="A000581">泐</persName>所作，<lb
+ed="B" n="0038a11"/>皆傾心歎賞。引譽士林，羣相推重。會<date notBefore-iso="+1344-07-17" key="j22121442220977" notAfter-iso="+1368-09-22"><name>元</name>季</date>喪亂，天下洶洶，棲遲<!-- 息遊、居止 --><lb
+ed="B" n="0038a12"/>山谷，息影潛聲。歷有年所而靜性彌堅、道行益勵。有<placeName key="PL000000000112">明</placeName>戡定，佛<lb
+ed="B" n="0038a13"/>學更興。<date from-iso="+1368-01-31" key="j22207422221122" to-iso="+1369-02-14"><name>洪武</name>初元</date>應召入<ref type="place" target="#PL000000008892">都</ref>，居<placeName key="PL000000009061">龍翔集慶</placeName>講演經義，詳註論說。<lb
+ed="B" n="0038a14"/>又新製讚頌樂章，宣鬯<!-- 通「暢」 -->閎旨，深契聖衷。時見臨幸，日有賜饍。嘗<lb
+ed="B" n="0038a15"/>和其詩稱為<persName key="A000581">泐翁</persName>，恩眷擾隆，莫與比數。又以<persName key="A000581">泐</persName>文學暢懋，禪理<lb
+ed="B" n="0038a16"/>洞悉，命往<placeName key="PL000000055436">西域</placeName>搜求遺經。遂辭丹闕，不憚煩疲，冒渡流沙，竟達<lb
+ed="B" n="0038a17"/><placeName key="PL000000048207">天竺</placeName>。<persName key="A000581">泐</persName>機才敏悟，聲入心通。少時便習梵音，能曉唄誼，飜譯《文<lb
+ed="B" n="0038a18"/>殊》等經而還。今所傳者，即此本也。晚歲禪悅，時發吟興。嘗見其<lb
+ed="B" n="0038a19"/>《<persName key="A014833">懷以仁</persName>講師入觀圖》，詩云：「旭日千萬峰，白雲三四朵；一芺<!-- 應作「笑」 -->山容<lb
+ed="B" n="0038a20"/>開，獨自松下坐；瀑流天下來，花飛面前墮；此時中觀成，無物亦<pb ed="B" xml:id="B27.0151.0038b" n="0038b"/><lb
+ed="B" n="0038b01"/>無我。」又遊<placeName key="PL000000012462">雪竇</placeName>云：「捫蘿登絕頂，清興渺無窮；兩目雲霞外，一身<lb
+ed="B" n="0038b02"/>霄漢中；珠簾飛瀑雪，翠浪卷清風；欲結茅庵住，塵緣惜未空。」<!-- 參四明叢書：第四集／四明山志 黃宗羲　撰／卷七 -->道<lb
+ed="B" n="0038b03"/>味詩思意與俱清。言未空者，真未空耶？</p>
+                <linkGrp>
+                    <link targets="#0038a06 #0038a07"/>
+                    <ptr target="#A000581" type="person"/>
+                    <ptr target="#A000062" type="person"/>
+                </linkGrp>
+                <linkGrp>
+                    <link targets="#0038a13 #0038a13"/>
+                    <ptr target="#A000581" type="person"/>
+                    <ptr target="#PL000000009061" type="place"/>
+                    <ptr target="#j22207422221122" type="time"/>
+                </linkGrp>
+                <linkGrp>
+                    <link targets="#0038a14 #0038a15"/>
+                    <ptr target="#A000581" type="person"/>
+                    <ptr target="#A003672" type="person"/>
+                    <ptr target="#PL000000008892" type="place"/>
+                </linkGrp>
+                <linkGrp>
+                    <link targets="#0038a16 #0038a17"/>
+                    <ptr target="#A000581" type="person"/>
+                    <ptr target="#PL000000048207" type="place"/>
+                </linkGrp>
+                <linkGrp>
+                    <link targets="#0038a18 #0038a19"/>
+                    <ptr target="#A000581" type="person"/>
+                    <ptr target="#A014833" type="person"/>
+                </linkGrp>
+                <linkGrp>
+                    <link targets="#0038b01 #0038b02"/>
+                    <ptr target="#A000581" type="person"/>
+                    <ptr target="#PL000000012462" type="place"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

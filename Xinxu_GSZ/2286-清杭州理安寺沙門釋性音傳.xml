@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="習禪">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>清杭州理安寺沙門釋性音傳 (From CBETA edition of 新續高僧傳 卷 025）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>清杭州理安寺沙門釋性音傳</head>
+                </head>
+                <p xml:id="pB27p0212a1201">釋性音字迦陵別號吹餘姓李氏瀋陽人母氏許夢日輪墮懷
+<lb ed="B" n="0212a13"/>感而生音面如圓月童時就學初受章句於性命之說即能詰
+<lb ed="B" n="0212a14"/>問及長不樂世緣長懷高行禁於父兄不伸厥志年二十四始
+<lb ed="B" n="0212a15"/>投高陽毘盧真一求薙髮尋受具戒真一示以本來面目諙默
+<lb ed="B" n="0212a16"/>參有省辤一南遊時濟洞尊宿法席相望音皆謁叩多未能契
+<lb ed="B" n="0212a17"/>及見夢菴於理安便入記室安每有垂問橫機不讓竟授衣拂
+<lb ed="B" n="0212a18"/>已而辤去道經六安愛雪峯山水之勝頗欲棲止康熙丁亥夢
+<lb ed="B" n="0212a19"/>菴主柏林寓書招之入京分座臨眾勘驗真切簡要莫不推服
+<lb ed="B" n="0212a20"/>戊子夏夢庵寂諸山耆舊請音繼席乃遯之西山緇素復以大
+<pb ed="B" xml:id="B27.0151.0212b" n="0212b"/>
+<lb ed="B" n="0212b01"/>千佛寺敦逼出世據座提唱廣眾翹仰為法為人勦知刊見於
+<lb ed="B" n="0212b02"/>是方來英俊奔趨恐後座前環繞三千餘指禪風斯鬯殷勤六
+<lb ed="B" n="0212b03"/>載得益如林未幾攜錫補處柏林纔及三稔而杭之理安虛席
+<lb ed="B" n="0212b04"/>以待又往應之方欲避酬答憩山阿江右許方伯兆麟以廬山
+<lb ed="B" n="0212b05"/>歸宗請為棲息之地忻然赴之未逾年而有京都大覺之命雍
+<lb ed="B" n="0212b06"/>正元春忽謝院事飄然而南一瓢一笠山棲水宿居無定止四
+<lb ed="B" n="0212b07"/>方徵書交至<anchor xml:id="beg_da" type="cb-app"/>卻<anchor xml:id="end_da"/>之弗顧四年秋復還歸宗獨居靜室涼風九月
+<lb ed="B" n="0212b08"/>偶示微疾舉疏山造塔事遂段作頌有此處埋老僧不得羊腸
+<lb ed="B" n="0212b09"/>鳥道自庚辛之語為後來遷塔燕都西山大覺先兆以雍正四
+<lb ed="B" n="0212b10"/>年九月二十九日示寂禮親王彙其事蹟奏聞敕贈圓通妙智
+<lb ed="B" n="0212b11"/>大覺禪師著有十會語錄二十卷語要指要各一卷外集宗鑑
+<lb ed="B" n="0212b12"/>法林七十二卷是名正句八卷宗統一絲十二卷雜毒海八卷</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="遺身">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>清杭州理安寺沙門釋行杲傳侍者 (From CBETA edition of 新續高僧傳 卷 040）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>清杭州理安寺沙門釋行杲傳<note place="inline">侍者</note>
+                    </head>
+                </head>
+                <p xml:id="pB27p0306a1201">釋行杲字汝風姓張氏吳門人初依蒼雪博習經論後參箬庵
+<lb ed="B" n="0306a13"/>問於夾山舉風穴見南院因緣命杲頌之乃頌曰師資合處芥
+<lb ed="B" n="0306a14"/>投鍼嶽未為高海未深看去作家鑪鞴在能消躍冶不祥金箬
+<lb ed="B" n="0306a15"/>庵見之喜曰此則機緣三十年來罕有契其旨者今日始愜吾
+<lb ed="B" n="0306a16"/>意遂承記莂繼席南澗三載退居潤州靜室康熙戊午正月三
+<lb ed="B" n="0306a17"/>日往鶴林與天樹植訣別植曰新年頭何得說末後語杲曰實
+<lb ed="B" n="0306a18"/>非戲言朽骨火後祈颺大江無違我願由是相別至廿四日鄰
+<lb ed="B" n="0306a19"/>庵火起杲但整衣侍者曰火猛且近奈何盍速出杲曰吾時節
+<lb ed="B" n="0306a20"/>至矣侍者曰師如是弟子敢離左右遂同證火光三昧門人依
+<pb ed="B" xml:id="B27.0151.0306b" n="0306b"/>
+<lb ed="B" n="0306b01"/>命葬之大江龍門有語錄一卷</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

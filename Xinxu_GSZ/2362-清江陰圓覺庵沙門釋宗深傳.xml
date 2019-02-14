@@ -1,0 +1,40 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="明律">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>清江陰圓覺庵沙門釋宗深傳 (From CBETA edition of 新續高僧傳 卷 031）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>清江陰圓覺庵沙門釋宗深傳</head>
+                </head>
+                <p xml:id="pB27p0256a1101">釋宗深字慧海姓程氏江陰人也秉性質樸語簡意遲外貌如
+<lb ed="B" n="0256a12"/>愚菁英內蘊幼好潛靜依圓覺庵出塵為之薙染初習誦持偶
+<lb ed="B" n="0256a13"/>致推研多所未徹惟朝夕薰修遂漸開悟得大智慧閱諸經論
+<lb ed="B" n="0256a14"/>髣如夙習年既壯受具於十方庵未幾繼席圓覺默守梵<anchor xml:id="beg_117" type="cb-app"/>網<anchor xml:id="end_117"/>董
+<lb ed="B" n="0256a15"/>正儀範率眾焚修三十餘年後移錫十方傳受毘尼多所成就</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

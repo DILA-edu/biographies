@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="淨讀">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>宋餘杭法慧寺沙門釋慧才傳 (From CBETA edition of 新續高僧傳 卷 041）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>宋餘杭法慧寺沙門釋慧才傳</head>
+                </head>
+                <p xml:id="pB27p0314a1601">釋慧才姓王氏樂清人也髫齡離俗師事白<g ref="#CB15112">󳬈</g>山怡芳宋章聖
+<lb ed="B" n="0314a17"/>御極封於泰山覃恩得度時年十三進受具戒從學四明性質
+<lb ed="B" n="0314a18"/>愚鈍常持大悲咒願學通祖道忽於夢中見梵僧長數丈脫袈
+<lb ed="B" n="0314a19"/>裟披之呼曰慧才盡心記取明日臨講豁然開悟前後所聞一
+<lb ed="B" n="0314a20"/>時洞曉未幾首眾四座推服復謁慈雲北面服勤旦夜不替宋
+<pb ed="B" xml:id="B27.0151.0314b" n="0314b"/>
+<lb ed="B" n="0314b01"/>治平初杭守沈公請住法慧寶閣二十年始終如一太尉盧公
+<lb ed="B" n="0314b02"/>奏賜廣慈之號淨石來請勉徇眾意敷暢未久翕然從化已而
+<lb ed="B" n="0314b03"/>退居雷峯塔下每翹足誦大悲咒必百八遍為課元豐元年春
+<lb ed="B" n="0314b04"/>三月為靈芝元照及道俗千人受菩薩大戒於雪峯方羯磨時
+<lb ed="B" n="0314b05"/>觀音像頂忽放光輝初貫寶韜漸散講堂鐙炬日色皆為映奪
+<lb ed="B" n="0314b06"/>淨慈禪師守一為作戒光記米南宮芾為之書焉六年五月二
+<lb ed="B" n="0314b07"/>十一日更衣就座書偈讚佛洎然而化塔於庵右壽八十六臘
+<lb ed="B" n="0314b08"/>七十三繼其業者法宗戒珠十人才貌古性恬少言寡欲時教
+<lb ed="B" n="0314b09"/>徒異論諠動江浙才獨循循誘誨未嘗有所藏否趙清獻公交
+<lb ed="B" n="0314b10"/>契最密及鎮越猶寄以詩有浙江莫謂音書隔一日潮聲兩度
+<lb ed="B" n="0314b11"/>來之句深情如揭</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

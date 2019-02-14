@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="淨讀">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>清長沙泐潭寺沙門釋衍義傳三尹 (From CBETA edition of 新續高僧傳 卷 045）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>清長沙泐潭寺沙門釋衍義傳<note place="inline">三尹</note>
+                    </head>
+                </head>
+                <p xml:id="pB27p0341a0401">釋衍義字湛修姓董氏秦人也初出家居長安薦福寺聞麓山
+<lb ed="B" n="0341a05"/>檀祖名振錫來湘而檀已滅因訪泐潭遺址結茅星垣晝夜靜
+<lb ed="B" n="0341a06"/>坐恆持誦大悲觀世音咒不輟有問之者曰欲祛虎患故持此
+<lb ed="B" n="0341a07"/>耳是時湘中鄉僻白額晝行直入人家受禍者眾士民苦之莫
+<lb ed="B" n="0341a08"/>能驅逐及聞義言多相效法大悲呪聲徧於山陬虎竟潛蹤其
+<lb ed="B" n="0341a09"/>害遂已四方檀護不期而至清康熙癸亥胡副將景雲協助資
+<lb ed="B" n="0341a10"/>力恢復舊基更啟新宇義復作泐潭八景詩序立之碑石以紀
+<lb ed="B" n="0341a11"/>名勝八景之中唯蓮沼最廣長逾三里曲岸灣環寬亦里許額
+<lb ed="B" n="0341a12"/>曰海會蓮池今呼荷花池是也義晚歲息此專修淨業故王潞
+<lb ed="B" n="0341a13"/>贈句云六字消長晝千秋老上人學者至今傳誦雍正甲寅夏
+<lb ed="B" n="0341a14"/>義年已八十矣以念佛參禪原本不二乃示眾曰六十年前學
+<lb ed="B" n="0341a15"/>講禪好箇木人能豎拂六十年後學念佛切實只能七八句直
+<lb ed="B" n="0341a16"/>到臨終十念成念念無生念念佛說有談空兩俱非清淨界中
+<lb ed="B" n="0341a17"/>無一物有禪有淨帶角虎壽祖非是欺人語肉眼能觀大海眾
+<lb ed="B" n="0341a18"/>親見彌陀來接汝是日六月六日為義生辰復謂眾曰今日乃
+<lb ed="B" n="0341a19"/>予末後真誕期有會者麼眾默然義曰是真送別也遂坐化時
+<lb ed="B" n="0341a20"/>當炎暑坐龕七日面如生塔於寺後平岡著有泐潭剩語四卷
+<pb ed="B" xml:id="B27.0151.0341b" n="0341b"/>
+<lb ed="B" n="0341b01"/>留影文集四卷禪餘詩草十卷清季寺廢改建校舍及軍藥局
+<lb ed="B" n="0341b02"/>遺跡泯滅不可復覩思古者為浩歎同時有三尹者世稱護國
+<lb ed="B" n="0341b03"/>禪師平江李氏子從軍數載幾經戰場見橫尸徧野不覺失聲
+<lb ed="B" n="0341b04"/>曰人生如是何苦自殘因辤歸祝髮為僧游參南北名山十餘
+<lb ed="B" n="0341b05"/>年還長沙丁吳藩之變官軍雲集閭里騷然三尹請於安親王
+<lb ed="B" n="0341b06"/>又入穆將軍幕府哀懇陳述禁止暴掠人民安堵故世以護國
+<lb ed="B" n="0341b07"/>稱之晚歲結茅星岳山檀樾為剏梵宇曰棲賢林年逾七十無
+<lb ed="B" n="0341b08"/>疾而化</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="明律">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>明金陵天隆寺沙門釋如馨傳 (From CBETA edition of 新續高僧傳 卷 028）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>明金陵天隆寺沙門釋如馨傳</head>
+                </head>
+                <p xml:id="pB27p0232a1001">釋如馨字古心姓楊氏漂水人也年少家居篤信釋氏及近不
+<lb ed="B" n="0232a11"/>惑乃厭塵俗初投攝山棲霞寺禮素葊法師從事薙染遂受沙
+<lb ed="B" n="0232a12"/>彌戒復欲近圓本師示以須得清淨十僧方能得戒由是叩諸
+<lb ed="B" n="0232a13"/>宗匠輒究戒緣因讀華嚴識菩薩住處忻然有得謂文殊所在
+<lb ed="B" n="0232a14"/>常住清涼抗心希蹤步禮五臺當見文殊為我授戒因辭法侶
+<lb ed="B" n="0232a15"/>躬親跋沙三遭寒暑方眺寶峰漸至靈境夙夜虔勤懇求切至
+<lb ed="B" n="0232a16"/>一日景值餘暉客途闃寂恍怫之間見一老嫗形枯髮白捧敝
+<lb ed="B" n="0232a17"/>伽黎出自林中適前問曰汝來何求曰求見文殊媼曰此衣兦
+<lb ed="B" n="0232a18"/>兒所遺爾來求戒便應爾贈言訖竟去衣遂著身頃復呼曰比
+<lb ed="B" n="0232a19"/>丘比丘文殊在茲馨方驚愕已失所在如<g ref="#CB03231">㝱</g>初覺頓悟五篇三
+<lb ed="B" n="0232a20"/>聚心地法門視大小乘律如胸中自在流注歡幸之忱無可為
+<pb ed="B" xml:id="B27.0151.0232b" n="0232b"/>
+<lb ed="B" n="0232b01"/>喻爾後南旋中興法戒專持梵律皎若冰霜明萬曆間金陵幽
+<lb ed="B" n="0232b02"/>棲寺洪恩雪琅敕修長干塔諸務嚴備唯頂屢舉舉不能正深
+<lb ed="B" n="0232b03"/>用為憂蜀僧巨川求匠架木倍工益力終未能成唯日夜翹企
+<lb ed="B" n="0232b04"/>冀佛慈應一夕<g ref="#CB03231">㝱</g>感神諭云優波離尊者至始克如願翼日馨
+<lb ed="B" n="0232b05"/>露頂跣足杖錫持鉢偏袒而入洪恩一見乃悟夙因召眾摳迎
+<lb ed="B" n="0232b06"/>傾誠請助馨纔舉喝翔然升去塔頂便合乃以<g ref="#CB03231">㝱</g>警向眾宣明
+<lb ed="B" n="0232b07"/>群情忻躍大加敬禮咸指馨為優波離再世由是法會雲興遂
+<lb ed="B" n="0232b08"/>開戒於棲霞甘露靈隱天寧諸剎自元季以來律學荒蕪馨嘗
+<lb ed="B" n="0232b09"/>嘅然謂佛法住世功在毘尼訪求梵<anchor xml:id="beg_f6" type="cb-app"/>網<anchor xml:id="end_f6"/>徧參律法至是坐道場
+<lb ed="B" n="0232b10"/>三十餘所徒眾累萬聲聞於天明神宗嘉茲譽問延至五臺賜
+<lb ed="B" n="0232b11"/>紫衣錫杖為開皇壇說戒敷座之日五色瑞雲結蓋盤空亭午
+<lb ed="B" n="0232b12"/>方散帝心悅豫題額萬壽戒壇賜號慧雲律師緇素歸依稟戒
+<lb ed="B" n="0232b13"/>躋壇者不可勝計三壇既畢復錫千佛珠衣拜表辭謝而聖眷
+<lb ed="B" n="0232b14"/>隆渥宏獎未已以萬曆四十三年乙卯十一月十四日示寂壽
+<lb ed="B" n="0232b15"/>七十有五臘二十又七染道三十有四瘞於天隆玉環山帝聞
+<lb ed="B" n="0232b16"/>遷化思慕清輝乃詔燕都愍忠寺圖其遺像供於大內濡染宸
+<lb ed="B" n="0232b17"/>翰為題贊曰瞻其貌知其人入三昧絕六塵昔波離今古心其
+<lb ed="B" n="0232b18"/>見欽崇如此馨風規簡夷神觀凝肅坐室中如在定者雖左右
+<lb ed="B" n="0232b19"/>近侍不敢妄啟至訓誨提獎機用玅密逈超情臆故白四授具
+<lb ed="B" n="0232b20"/>三聚妙圓皆弘於斯世稱中興律祖云</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

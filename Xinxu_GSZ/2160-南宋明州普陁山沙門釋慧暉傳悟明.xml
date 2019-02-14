@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="習禪">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>南宋明州普陁山沙門釋慧暉傳悟明 (From CBETA edition of 新續高僧傳 卷 013）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>南宋明州普陁山沙門釋慧暉傳<note place="inline">悟明</note>
+                    </head>
+                </head>
+                <p xml:id="pB27p0128a1901">釋慧暉字自得姓張氏會稽人也幼依澄照道疑染削進具年
+<lb ed="B" n="0128a20"/>二十扣真歇於長蘆微有所證旋里謁宏智智舉當明中有暗
+<pb ed="B" xml:id="B27.0151.0128b" n="0128b"/>
+<lb ed="B" n="0128b01"/>不以暗相遇當暗中有明不以明相覩問之語不契初夜定回
+<lb ed="B" n="0128b02"/>往聖僧前熱香宏智適至暉見之頓悟前語次日入定智舉堪
+<lb ed="B" n="0128b03"/>嗟去日顏如玉<anchor xml:id="beg_67" type="cb-app"/>卻<anchor xml:id="end_67"/>歎回時<g ref="#CB15150">𩯭</g>似霜暉曰其入離其出微自爾問
+<lb ed="B" n="0128b04"/>荅無滯智許為室中真子紹興丁<anchor xml:id="beg_68" type="cb-app"/>巳<anchor xml:id="end_68"/>開法普陁徙萬壽及吉祥
+<lb ed="B" n="0128b05"/>雪竇湻熙三年勅主淨慈上堂朔風凜凜掃寒林落葉歸根露
+<lb ed="B" n="0128b06"/>赤心萬派朝宗船到岸六窗虛映芥投鍼本成現莫他尋性地
+<lb ed="B" n="0128b07"/>間間曜古今戶外凍消春色動四山渾作木龍吟又云谷之神
+<lb ed="B" n="0128b08"/>樞之要裏許旁參回途得妙雲雖動而常間月雖晦而彌照賓
+<lb ed="B" n="0128b09"/>主交參正偏兼到十洲春盡花凋殘珊瑚樹林日杲杲又嘗舉
+<lb ed="B" n="0128b10"/>風幡<g ref="#CB12594">䛡</g>乃曰風幡動處著得箇眼即是上座風幡動處失<anchor xml:id="beg_69" type="cb-app"/>卻<anchor xml:id="end_69"/>箇
+<lb ed="B" n="0128b11"/>眼即是風幡其或未然不是風幡不是心衲僧徒自強錐鍼巖
+<lb ed="B" n="0128b12"/>房雨過昏煙淨臥聽涼風生竹林七年秋退歸雪竇十年冬十
+<lb ed="B" n="0128b13"/>一月二十九日中夜沐浴而逝塔於明覺之左後有晦翁悟明
+<lb ed="B" n="0128b14"/>者福州人上堂舉夾山會下一僧到皋亭纔禮拜亭便打僧再
+<lb ed="B" n="0128b15"/>拜又打趨去僧回舉似夾山山云會否云不會山云賴汝不會
+<lb ed="B" n="0128b16"/>汝若會即夾山口啞去應庵拈云皋亭一期忍俊不禁爭奈拄
+<lb ed="B" n="0128b17"/>杖放行太速當時此僧莫道皋亭夾山便是達摩也應斬為三
+<lb ed="B" n="0128b18"/>段明云皋亭夾山門庭施設各得其宜但中間一人較些子應
+<lb ed="B" n="0128b19"/>庵與麼道也是鞏縣茶瓶嘉定十年明纂修聯鐙會要至今傳
+<lb ed="B" n="0128b20"/>於叢林</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

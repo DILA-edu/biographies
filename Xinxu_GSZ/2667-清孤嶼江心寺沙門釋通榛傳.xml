@@ -1,0 +1,45 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="興福">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>清孤嶼江心寺沙門釋通榛傳 (From CBETA edition of 新續高僧傳 卷 058）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>清孤嶼江心寺沙門釋通榛傳</head>
+                </head>
+                <p xml:id="pB27p0425a1001">釋通榛字茂霞別號全愚姓姜氏永嘉人也家世儒素代有聞
+<lb ed="B" n="0425a11"/>達榛幼而穎悟五歲失怙母氏憫其孤貧嘗戲謂之曰汝願棲
+<lb ed="B" n="0425a12"/>空門為苾蒭不耶榛即欣然領諾知其具有佛性送入江心寺
+<lb ed="B" n="0425a13"/>時正庵禪師方主席見其行止端詳審為法器遂與剃度及正
+<lb ed="B" n="0425a14"/>庵寂因嗣席焉時年二十二虔意焚修晨鐘暮梵積行不怠初
+<lb ed="B" n="0425a15"/>西塔荒圯惄焉傷之矢願重興乾隆五十四年制府伍公中丞
+<lb ed="B" n="0425a16"/>琅公福公先後來甌感其精誠共捐廉俸守宰以下同獻金帛
+<lb ed="B" n="0425a17"/>寶殿更新伍公三至江心嘉其志也至龍翔興慶兩剎均自捨
+<lb ed="B" n="0425a18"/>衣資興築補葺不假斗粟尺布之助而事自集以是人服其勤
+<lb ed="B" n="0425a19"/>晚卜塔於福昌寺左寂乃藏焉陳豐為之銘文具山志</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

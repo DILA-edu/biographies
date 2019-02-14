@@ -1,0 +1,46 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="雜識">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>清潤州焦山寺沙門釋智先傳德鏡_行載 (From CBETA edition of 新續高僧傳 卷 064）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>清潤州焦山寺沙門釋智先傳<note place="inline">德鏡　行載</note>
+                    </head>
+                </head>
+                <p xml:id="pB27p0466b1901">釋智先字古樵原名興上姓張氏儀徵人年十一投焦山元孚
+<lb ed="B" n="0466b20"/>出家參問石乘無得一日登山失足傾仆遂翻然有省博綜內
+<pb ed="B" xml:id="B27.0151.0467a" n="0467a"/>
+<lb ed="B" n="0467a01"/>典兼善文翰住焦巖四十年從事興復始終不倦鳩工庀材百
+<lb ed="B" n="0467a02"/>廢具舉四方之眾至者如歸嘗寫大士像刻石自為之贊纂山
+<lb ed="B" n="0467a03"/>志未削稾而卒弟子德鏡字鑑堂姓劉氏山陽人智先創藏閣
+<lb ed="B" n="0467a04"/>功未竟德鏡嗣之以繼述為<anchor xml:id="beg_210" type="cb-app"/>己<anchor xml:id="end_210"/>任悉臻完善其徒行載字碩庵
+<lb ed="B" n="0467a05"/>姓段氏泰州人與江都謝家樹山陰潘寧同輯焦山志就智先
+<lb ed="B" n="0467a06"/>初藁而續成之載幼時出家於清淨庵有橋在庵東半里載常
+<lb ed="B" n="0467a07"/>至橋下取柴十數年未嘗過橋其天性恬靜如此</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="習禪">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>宋眉州中巖寺沙門釋祖覺傳慧日能_南堂靜 (From CBETA edition of 新續高僧傳 卷 011）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>宋眉州中巖寺沙門釋祖覺傳<note place="inline">慧日能　南堂靜</note>
+                    </head>
+                </head>
+                <p xml:id="pB27p0110a1301">釋祖覺嘉州楊氏子自幼聰慧書史過目成誦乃著書排斥釋
+<lb ed="B" n="0110a14"/>氏忽惡境現前大怖悔過出家依慧日能未幾疽生膝上五年
+<lb ed="B" n="0110a15"/>醫治莫愈因書華嚴合論畢夕感異夢旦即捨杖趨履如故一
+<lb ed="B" n="0110a16"/>日誦至現相品曰佛身無有生而能示出生法性如虛空諸佛
+<lb ed="B" n="0110a17"/>於中住無住亦無去處處皆見佛遂悟華嚴宗旨至是始登僧
+<lb ed="B" n="0110a18"/>籍精究賢首宗旨盡得其奧府帥請講於千部堂而詞辯宏肆
+<lb ed="B" n="0110a19"/>眾所欽服適南堂靜禪師過其門謂曰觀公講說獨步西南惜
+<lb ed="B" n="0110a20"/>未解離文字相耳儻能問道方外即今之周金剛也覺欣然罷
+<pb ed="B" xml:id="B27.0151.0110b" n="0110b"/>
+<lb ed="B" n="0110b01"/>講南遊禪社遂依圓悟於鍾阜一日入室悟舉羅山道有言時
+<lb ed="B" n="0110b02"/>踞虎頭收虎尾弟一句下明宗旨無言時覿露機鋒如同電拂
+<lb ed="B" n="0110b03"/>作麼生會覺罔對於是夙夜參究忽有所省作偈呈曰家住孤
+<lb ed="B" n="0110b04"/>峰頂長年半掩門自嗟身已老活計付兒孫悟未許可次日入
+<lb ed="B" n="0110b05"/>室悟問昨日公案作麼生會覺擬對悟喝曰佛法不是這箇道
+<lb ed="B" n="0110b06"/>理覺復留住五年愈更迷悶後於廬山棲賢閱浮山遠削執論
+<lb ed="B" n="0110b07"/>云若道悟有親疏豈有旃檀林中<anchor xml:id="beg_4c" type="cb-app"/>卻<anchor xml:id="end_4c"/>生臭草始豁然大悟遂作
+<lb ed="B" n="0110b08"/>偈寄圓悟曰出林依舊入蓬蒿天網恢恢不可逃誰信業緣無
+<lb ed="B" n="0110b09"/>避處<g ref="#CB33479">䢜</g>來不怕語聲高悟大喜持示眾曰覺華嚴徹矣自是諸
+<lb ed="B" n="0110b10"/>方皆稱覺華嚴云上堂僧問最初威音王末後樓至佛未審參
+<lb ed="B" n="0110b11"/>見甚麼人覺曰家住大梁城更問長安路僧問如何是一喝如
+<lb ed="B" n="0110b12"/>金剛王寶劍覺曰血濺梵天曰如何是一喝如踞地師子覺曰
+<lb ed="B" n="0110b13"/>驚殺野狐狸曰如何是一喝如探竿影草覺曰驗得你骨出曰
+<lb ed="B" n="0110b14"/>如何是一喝不作一喝用覺曰直須識取把鍼人莫道鴛鴦好
+<lb ed="B" n="0110b15"/>毛羽覺嘗修北宋僧史并華嚴集解金剛經註水陸齋儀若干
+<lb ed="B" n="0110b16"/>卷</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

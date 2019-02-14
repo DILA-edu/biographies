@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="習禪">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>明五臺山靈鷲菴沙門釋寶金傳 (From CBETA edition of 新續高僧傳 卷 018）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>明五臺山靈鷲菴沙門釋寶金傳</head>
+                </head>
+                <p xml:id="pB27p0162b1901">釋寶金字璧峯姓石氏永壽人也父通甫宅心從厚人號長者
+<lb ed="B" n="0162b20"/>母張氏嗜善弗怠有沙門授觀音像曰謹事之生智慧兒未幾
+<pb ed="B" xml:id="B27.0151.0163a" n="0163a"/>
+<lb ed="B" n="0163a01"/>兒生白光貫屋幼多疾因歸釋氏依雲寂溫剃落受具後窮性
+<lb ed="B" n="0163a02"/>相學言辭落落若貫珠聞者動容已而歎曰三藏玄言皆標月
+<lb ed="B" n="0163a03"/>指如來心法果如是乎遂棄所學更習禪觀謁如海真於縉雲
+<lb ed="B" n="0163a04"/>海問曰萬法歸一一歸何處所答不契遂疑之三年一日擷蔬
+<lb ed="B" n="0163a05"/>於囿忽凝坐久之海問曰子定耶金曰定動不關海曰定動不
+<lb ed="B" n="0163a06"/>關是何景象金示之以筐海非之金撲筐於地拱而立海又非
+<lb ed="B" n="0163a07"/>之金低頭不語海把其臂曰速道速道金翻手觸海仆地海起
+<lb ed="B" n="0163a08"/>徐曰未在此塵勞蹔息耳必使心路絕祖關透然後大法可明
+<lb ed="B" n="0163a09"/>爾後工夫益切遁峨嵋山下柏葉為食脇不至席者三年一念
+<lb ed="B" n="0163a10"/>不生前後際斷照體獨立物我相如自是入定或累日乃起一
+<lb ed="B" n="0163a11"/>日聞伐木聲忽悟汗下如雨乃曰妙喜謂大悟十八豈欺我哉
+<lb ed="B" n="0163a12"/>後歸白之海海方可之無用云坐下出三虎一彪爾其彪耶爾
+<lb ed="B" n="0163a13"/>緣在北當詣朔方必弘吾道金乃北遊至五臺棲靈鷲菴檀信
+<lb ed="B" n="0163a14"/>爭湊會歲儉恐其饑所施益多金慮饑民乏食勸施者分粟賑
+<lb ed="B" n="0163a15"/>之元至正間歲旱帝詔祈雨金入城大雨千里帝贈千金不受
+<lb ed="B" n="0163a16"/>益敬禮之賜號寂照圓明大師金每聞己過必稽首感懷嘗曰
+<lb ed="B" n="0163a17"/>生我者父母教我者師友生而無聞幾如牛馬生而有聞可至
+<lb ed="B" n="0163a18"/>聖賢父母生其身師友能成其德也世有喜佞而惡諫者下愚
+<lb ed="B" n="0163a19"/>人也有明肇興<anchor xml:id="beg_93" type="cb-app"/>崇<anchor xml:id="end_93"/>尚佛旨洪武戊申金應詔入都奏對奉天殿
+<lb ed="B" n="0163a20"/>道揚法典簡在帝心命居天界日接龍顏譬曉法義賜以紫衣
+<pb ed="B" xml:id="B27.0151.0163b" n="0163b"/>
+<lb ed="B" n="0163b01"/>金缽及御製詩有玄關悟盡成正覺之語一日示疾著衣危坐
+<lb ed="B" n="0163b02"/>唱別弟子智信請留一語金曰三藏法寶尚為故紙吾言何為
+<lb ed="B" n="0163b03"/>怡然而逝荼毗得舍利五色燦爛齒舌舍珠皆不壞門人收之
+<lb ed="B" n="0163b04"/>建塔文屾山普光寺嘗製華嚴字母佛事梵音清雅四十二奏
+<lb ed="B" n="0163b05"/>盛行於世</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

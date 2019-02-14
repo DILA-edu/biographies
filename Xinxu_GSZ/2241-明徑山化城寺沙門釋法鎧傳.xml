@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="習禪">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>明徑山化城寺沙門釋法鎧傳 (From CBETA edition of 新續高僧傳 卷 021）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>明徑山化城寺沙門釋法鎧傳</head>
+                </head>
+                <p xml:id="pB27p0181a1201">釋法鎧字忍之亦號澹居姓趙氏江陰人也世稱巨族母夢僧
+<lb ed="B" n="0181a13"/>趺坐於堂上而生鎧故幼性穎悟知有夙慧長習舉子業才名
+<lb ed="B" n="0181a14"/>奕奕乃塵視世榮志性命之學父母方為聘室鎧愀然不樂父
+<lb ed="B" n="0181a15"/>卒乃杖策孤遊登太和山遇羽士授長生之術過武昌遇講良
+<lb ed="B" n="0181a16"/>知學者皆掉頭棄去一日入僧舍見金剛經讀至如來說諸心
+<lb ed="B" n="0181a17"/>皆為非心忽有省乃曰是吾所歸也還過浮山坐三曲洞瀝血
+<lb ed="B" n="0181a18"/>寫孝經癸<anchor xml:id="beg_a7" type="cb-app"/>巳<anchor xml:id="end_a7"/>遊皖城達觀禪師過江上鎧往參再謁乃見求度
+<lb ed="B" n="0181a19"/>未許達登馬祖庵鎧偕阮自華至達夜夢披白鎧人侍其側及
+<lb ed="B" n="0181a20"/>見鎧著白衣懇求剃度達許之因命今名薙髮受具時年三十
+<pb ed="B" xml:id="B27.0151.0181b" n="0181b"/>
+<lb ed="B" n="0181b01"/>有三未幾入天目誅茅於分經臺弔影藏修單提向上蔬食不
+<lb ed="B" n="0181b02"/>糝敝衣露肘每降妄心燃香爇臂如是者三載大有開發石帆
+<lb ed="B" n="0181b03"/>岳公入山見鎧蓬首垢面腰鐮采薪因太息曰真道人也久之
+<lb ed="B" n="0181b04"/>下天目復過宣城掩關於西樂乃習荷重負肩試經行以苦筯
+<lb ed="B" n="0181b05"/>骨調昏睡其道益進後出關行腳至匡廬每過叢林坐廊下忽
+<lb ed="B" n="0181b06"/>焉達旦辛丑至都門省達於慈壽初入室便問生死大事願師
+<lb ed="B" n="0181b07"/>指示達即痛棒如是者再一日又問永嘉云了得業障本來空
+<lb ed="B" n="0181b08"/>只如師子尊者二祖肇公等是了得也未聲未絕達連捧之鎧
+<lb ed="B" n="0181b09"/>猛省但點首而已自是見地隱密壬寅秋南還入浮山會聖巖
+<lb ed="B" n="0181b10"/>乃宋遠錄公與歐陽六一因碁說法處久為俗業皖城澹宇阮
+<lb ed="B" n="0181b11"/>公謀復之請鎧以居重新遠公塔瀝血書梵網經日課金剛般
+<lb ed="B" n="0181b12"/>若為母壽戊申應太史觀我吳公請住持浮山大華嚴寺居常
+<lb ed="B" n="0181b13"/>以本分為念四方衲子至者唯示直捷處乃集諸祖入道緣梓
+<lb ed="B" n="0181b14"/>之初達刻大藏以雙徑寂照為刻場後靈龕亦歸之鎧欲滿其
+<lb ed="B" n="0181b15"/>願遂往庚戌至山見霧濕濃濃宜求爽塏下有化城故址為宋
+<lb ed="B" n="0181b16"/>佛日宣禪師道場太史具區馮公議修復為藏版處鎧簡得手
+<lb ed="B" n="0181b17"/>札示左方伯本如吳公為按址畫界奪諸豪右仍為佛地又贖
+<lb ed="B" n="0181b18"/>臨安太平寺田百畝以資供贍於是藏事有歸甲寅吳公開府
+<lb ed="B" n="0181b19"/>於蜀鎧以刻藏因緣往議之遂登峩嵋禮普賢乙卯春同直指
+<lb ed="B" n="0181b20"/>若谷徐公出蜀是年秋還徑山頗疲於津梁辛西秋七月遍辤
+<pb ed="B" xml:id="B27.0151.0182a" n="0182a"/>
+<lb ed="B" n="0182a01"/>諸檀越過白門以藏事託本如吳公冬十月歸雙徑一日倚杖
+<lb ed="B" n="0182a02"/>立堂下顧謂眾曰羚羊挂角不出十二眾罔測至晚爇香禮佛
+<lb ed="B" n="0182a03"/>沐浴更衣趺坐默然至旦忽脫去天啟辛酉十二月十三日也
+<lb ed="B" n="0182a04"/>壽六十有一臘二十有八弟子元亮具狀走匡山乞憨山為之
+<lb ed="B" n="0182a05"/>塔銘</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

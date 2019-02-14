@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="習禪">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>元徑山興聖萬壽寺沙門釋正源傳 (From CBETA edition of 新續高僧傳 卷 017）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>元徑山興聖萬壽寺沙門釋正源傳</head>
+                </head>
+                <p xml:id="pB27p0151a1501">釋正源字竺遠姓歐陽氏世居南康蓋歐陽文忠之苗裔也生
+<lb ed="B" n="0151a16"/>之夕母感梵僧入夢知非凡俗稍長即歸禪院魚鐘清徹心性
+<lb ed="B" n="0151a17"/>俱馴年二十七始受具戒大辯與虛谷陵以道德名冠東南源
+<lb ed="B" n="0151a18"/>往參之皆得其法而去初見陵時以龍潭滅紙炬語問之源應
+<lb ed="B" n="0151a19"/>之曰焦石可破層冰曰破後奚為復應之曰探索乃知陵詰曰
+<lb ed="B" n="0151a20"/>所知者何事方思屬對陵遽舉杖擊之悚然默喻由是智開識
+<pb ed="B" xml:id="B27.0151.0151b" n="0151b"/>
+<lb ed="B" n="0151b01"/>融外內無礙雄談慧辯動靜皆空叩之者無窮歸之者有容近
+<lb ed="B" n="0151b02"/>者化而信遠者慕而宗又能飾之以文持之以勤位尊而不以
+<lb ed="B" n="0151b03"/>為榮德盛而守之以謙所居道場培修增飾佛殿僧寮悉臻完
+<lb ed="B" n="0151b04"/>備主徑山時亂兵所至遺骼暴露衋焉閔之盡為焚瘞其在靈
+<lb ed="B" n="0151b05"/>隱屢經兵燹樓閣煨燼唯居室獨存若有神相其建功動物可
+<lb ed="B" n="0151b06"/>見如此元帝聞其賢錫以佛慧慈照普應禪師之號五主名藍
+<lb ed="B" n="0151b07"/>皆方鎮大臣遣使邀致蓋法之孚於人者深也元至正二十一
+<lb ed="B" n="0151b08"/>年六月二十六日預告期至書偈而化壽七十有二得法弟子
+<lb ed="B" n="0151b09"/>廣化圓伊等分爪髮於道場舍利叢生靈異顯著越明年奉遺
+<lb ed="B" n="0151b10"/>骨藏徑山而徵宋文憲濂為之銘云</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

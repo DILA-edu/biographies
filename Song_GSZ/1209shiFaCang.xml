@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0882b21shiFaCang"><lb
+ed="T" n="0882b21"/><anchor n="T.50.2061.0882b21"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000043729">鄜州寶臺寺</placeName><persName key="A013765">法藏</persName>傳</head><p><lb
+ed="T" n="0882b22"/><persName key="A013765">釋法藏</persName><ptr target="#n3406"/>，不詳氏族，厥性方正<ptr target="#n3407"/>，好行惠物<ptr type="glossary" target="#g2232"/>。甞<lb
+ed="T" n="0882b23"/>於<placeName key="PL000000049421">葦川</placeName>化眾造寺，佛殿僧坊一皆嚴麗，雕<lb
+ed="T" n="0882b24"/>刻華<anchor xml:id="beg0882sgsz17"/>蘤<anchor xml:id="end0882sgsz17"/><ptr type="glossary" target="#g2236"/>，<placeName key="PL000000043739">鄜</placeName>畤<ptr type="glossary" target="#g2235"/>命<ptr type="glossary" target="#g2234"/>為壯觀<ptr target="#n3404"/>。<persName key="A013765">藏</persName>偶病篤暴終<ptr target="#n3408"/>。至一<lb
+ed="T" n="0882b25"/>精廬，七寶<ptr type="glossary" target="#g351"/>莊嚴，非世所有。門外有僧，<name>梵</name>貌且<lb
+ed="T" n="0882b26"/>奇特，倡言曰：「<persName key="A013765">法藏</persName>，<ref type="person" target="#A013765">汝</ref>造伽藍，不無善報，奈<lb
+ed="T" n="0882b27"/>何於三寶物有互用<ptr type="glossary" target="#g2233"/>之愆，何從洗雪？」<persName key="A013765">藏</persName>首<lb
+ed="T" n="0882b28"/>露之，僧曰：「<persName key="A013765">汝</persName>但繕寫《金剛般若經》<ptr target="#n3409"/>，恒業受持，<lb
+ed="T" n="0882b29"/>豈不罪銷？亦可延乎壽命<ptr target="#n3405"/>。」言訖而蘇。自躬<pb ed="T" n="0882c" xml:id="T50.2061.0882c"/><lb
+ed="T" n="0882c01"/>抄度其經，午夜口誦。<persName key="A013765">藏</persName>終時年一百一十歲<lb
+ed="T" n="0882c02"/>云<ptr target="#n3410"/>。<placeName key="PL000000044290">雕陰</placeName>人至今信重焉。</p>
+    <linkGrp>
+        <link targets="#0882b22 #0882b24"/>
+        <ptr target="#A013765" type="person"/>
+        <ptr target="#PL000000043729" type="place"/>
+    </linkGrp>
+</div>

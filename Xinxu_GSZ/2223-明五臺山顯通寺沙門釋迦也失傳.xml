@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="習禪">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>明五臺山顯通寺沙門釋迦也失傳 (From CBETA edition of 新續高僧傳 卷 019）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>明五臺山顯通寺沙門釋迦也失傳</head>
+                </head>
+                <p xml:id="pB27p0169a1601">釋迦也失者天竺迦維衛國人世尊之族也道行非凡神通難
+<lb ed="B" n="0169a17"/>測仰曼殊之蹤來遊清涼明永樂十二年至顯通寺冬十一月
+<lb ed="B" n="0169a18"/>明帝遺太監侯顯詔至京師入大內免拜賜坐於大善殿奏對
+<lb ed="B" n="0169a19"/>稱旨勅主能仁方丈制書慰勞賜予甚厚明年頒賜金印寶誥
+<lb ed="B" n="0169a20"/>號曰妙覺圓通慧慈普應輔國顯教灌頂弘善西天佛子大國
+<pb ed="B" xml:id="B27.0151.0169b" n="0169b"/>
+<lb ed="B" n="0169b01"/>師無何辤還五臺一定七日乃起至於宣廟尤加欽崇禮逾常
+<lb ed="B" n="0169b02"/>格後於宣德六年辤歸西域</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

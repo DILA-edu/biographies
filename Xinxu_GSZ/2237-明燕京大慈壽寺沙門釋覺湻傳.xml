@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="習禪">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>明燕京大慈壽寺沙門釋覺湻傳 (From CBETA edition of 新續高僧傳 卷 020）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>明燕京大慈壽寺沙門釋覺湻傳</head>
+                </head>
+                <p xml:id="pB27p0178a0601">釋覺湻字古風姓宋氏新城人也父欽母張氏生性恬澹不茹
+<lb ed="B" n="0178a07"/>葷酒兒時好趺坐頗厭嬉逐及長不治生產即善觀空修離欲
+<lb ed="B" n="0178a08"/>行天然穎悟每集諸善男子作般若圓覺法會湻為之長年二
+<lb ed="B" n="0178a09"/>十七棄家遠遊如京師登堂受白衣戒寶藏成師開法於王城
+<lb ed="B" n="0178a10"/>湻往參謁有所感契即從披剃執弟子業居最下版雖執爨負
+<lb ed="B" n="0178a11"/>薪未嘗不以身先堅苦三載始受具足從守心無礙聽華嚴圓
+<lb ed="B" n="0178a12"/>覺楞嚴諸經於四大分離妄身何處之語有所領契自爾隨處
+<lb ed="B" n="0178a13"/>建立華嚴圓覺道場歲無虛日王城感化若迦維改觀洋洋中
+<lb ed="B" n="0178a14"/>外如此者十餘年明嘉靖辛酉司禮監黃錦錦衣焦重修普安
+<lb ed="B" n="0178a15"/>寺迎湻居之幾二十載湻唯據丈室不事干請延一江大千止
+<lb ed="B" n="0178a16"/>庵諸法師弘天台賢首兩宗隆慶壬申宮中始崇佛道就普安
+<lb ed="B" n="0178a17"/>建吉祥道場湻主壇筵精誠感格恩渥頒隆齋饋盡從中出神
+<lb ed="B" n="0178a18"/>宗初元兩宮聖母為社稷祈福凡建齋堂多就湻所嘗賜千佛
+<lb ed="B" n="0178a19"/>錦袈裟萬曆丙子建大慈壽寺成即遷湻為住持命度沙彌一
+<lb ed="B" n="0178a20"/>人為弟子及敕校續入大藏湻首領之凡所弘闡無不稱旨居
+<pb ed="B" xml:id="B27.0151.0178b" n="0178b"/>
+<lb ed="B" n="0178b01"/>常接納四眾但舉圓覺知幻即離不作方便離幻即覺亦無漸
+<lb ed="B" n="0178b02"/>次之偈及楞嚴如幻三昧或拈提古人向上公案以警發之暇
+<lb ed="B" n="0178b03"/>則行住坐臥每咄咄作私語見聞即之改容舉莫識其為密行
+<lb ed="B" n="0178b04"/>者生平所行不離當處而大播宗風竟莫究其涯涘一夕召諸
+<lb ed="B" n="0178b05"/>弟子告以微疾端坐三日熙然集眾念佛隨聲寂然而逝時萬
+<lb ed="B" n="0178b06"/>曆九年辛<anchor xml:id="beg_a1" type="cb-app"/>巳<anchor xml:id="end_a1"/>四月十有七日也壽七十有一臘四十有奇得度
+<lb ed="B" n="0178b07"/>弟子十五人本在為欽依僧錄善世領大慈壽住持奉葬於寺
+<lb ed="B" n="0178b08"/>後聖母悼之賜金建塔而憨山為之銘焉</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

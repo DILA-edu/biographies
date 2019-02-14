@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="興福">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>清臨安迎恩寺沙門釋淨極傳普灼_妙庵_性融_悟禎 (From CBETA edition of 新續高僧傳 卷 057）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>清臨安迎恩寺沙門釋淨極傳<note place="inline">普灼　妙庵　性融　悟禎</note>
+                    </head>
+                </head>
+                <p xml:id="pB27p0419a2001">釋淨極字達一姓曹氏兗州人也明崇禎甲<anchor xml:id="beg_1d3" type="cb-app"/>戌<anchor xml:id="end_1d3"/>遊南嶽從學明
+<pb ed="B" xml:id="B27.0151.0419b" n="0419b"/>
+<lb ed="B" n="0419b01"/>落髮後參諾諾大師有悟清康熙癸卯入滇初至臨安修迎恩
+<lb ed="B" n="0419b02"/>寺庚<anchor xml:id="beg_1d4" type="cb-app"/>戌<anchor xml:id="end_1d4"/>居雞足重建迦葉殿寂于戊午冬年五十餘普灼字中
+<lb ed="B" n="0419b03"/>也太和人祝髮於雞足傳依悟性敏達繼謁無住受具於大理
+<lb ed="B" n="0419b04"/>崇聖寺掩關十年德感郡人重興其寺一覽煥然歸者日眾不
+<lb ed="B" n="0419b05"/>可勝計寂年六十六僧行四十妙庵字石樓昆明張氏子年十
+<lb ed="B" n="0419b06"/>二詣笻竹得度性極穎異質近生知<g ref="#CB33499">𠪱</g>參名宿授以狗子無佛
+<lb ed="B" n="0419b07"/>性語失志勤攻遂有悟入機辯如流德業精雅士庶欽重數興
+<lb ed="B" n="0419b08"/>古剎寂年五十九僧臘三十五又性融三昧廣濟周氏子童時
+<lb ed="B" n="0419b09"/>見朝黃梅者即起信心願往從之及長禮普陀回舟放洋遇颶
+<lb ed="B" n="0419b10"/>風波濤大作船眾漂沒獨性融負屍得度望海禮拜因感無常
+<lb ed="B" n="0419b11"/>欲超塵網父母既喪詣黃梅求度因事不果後至黔遇本空始
+<lb ed="B" n="0419b12"/>從剃度乙未遊滇參無住遂入定遠白馬山結茅潛修時土官
+<lb ed="B" n="0419b13"/>李仁捨宅為庵延性融居之復於獅子窩開建妙吉祥寺數十
+<lb ed="B" n="0419b14"/>年間紺殿嶷然法物備具清康熙甲子歲綏遠將軍蔡公為請
+<lb ed="B" n="0419b15"/>大藏作鎮名山寂年六十無疾告終又悟禎字友山姚安高氏
+<lb ed="B" n="0419b16"/>子出自華胄性契禪修因棄職出家創建曇華寺精修梵行數
+<lb ed="B" n="0419b17"/>十餘年凡經古剎名藍偶見破壞者無不矢願重修必使棟宇
+<lb ed="B" n="0419b18"/>增華佛像光輝而後已積誠所感卒償其願清康熙<anchor xml:id="beg_1d5" type="cb-app"/>己<anchor xml:id="end_1d5"/>
+                    <anchor xml:id="beg_1d6" type="cb-app"/>巳<anchor xml:id="end_1d6"/>秋吉
+<lb ed="B" n="0419b19"/>祥而寂</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

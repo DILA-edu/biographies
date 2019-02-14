@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="靈感">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>清燕京玉泉山二聖庵釋僧清傳 (From CBETA edition of 新續高僧傳 卷 038）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>清燕京玉泉山二聖庵釋僧清傳</head>
+                </head>
+                <p xml:id="pB27p0291a1201">釋僧清字滿月姓杜氏山左人不詳其邑里少讀書習舉子業
+<lb ed="B" n="0291a13"/>博通經史百家之學其於正心誠意尤所闡究不樂仕進棄之
+<lb ed="B" n="0291a14"/>出家後參禪於京都臥佛寺岫禪師聽講諸經不違如愚岫問
+<lb ed="B" n="0291a15"/>之曰汝識字乎曰未也願學之岫曰既不識字可司樓上鐘然
+<lb ed="B" n="0291a16"/>心知為大器欲歷試之也於是晨昏是職應期無爽是時法會
+<lb ed="B" n="0291a17"/>盛行講席眾多都中若慈慧慈憫千佛臥佛諸寺皆名僧據坐
+<lb ed="B" n="0291a18"/>善信如雲清於鴻烏間代竊往觀聽方過慈慧又趣慈憫旋至
+<lb ed="B" n="0291a19"/>千佛三番聽受復還本寺鼓鼓鐘鐘日夕奔奏自忘其疲如是
+<lb ed="B" n="0291a20"/>者六年及岫示疾眾詢繼者岫瞿然四顧曰撞鐘者安在乃命
+<pb ed="B" xml:id="B27.0151.0291b" n="0291b"/>
+<lb ed="B" n="0291b01"/>侍者以衣缽持付鐘樓清遂主臥佛講席明崇禎二年恒明方
+<lb ed="B" n="0291b02"/>居玉泉山徒侶麕集眾至六千思敷講座以資化導乃迎清入
+<lb ed="B" n="0291b03"/>二聖庵講華嚴疏鈔湼槃諸經間以左史莊騷秦漢六朝唐宋
+<lb ed="B" n="0291b04"/>詩文十餘載未嘗少倦嘗遭饑饉絕糧數月日食糠粃莘莘學
+<lb ed="B" n="0291b05"/>子猶不舍去其相得如此所居之地恆感奇瑞皆不告人曉起
+<lb ed="B" n="0291b06"/>盥沐盛水銅盤每至冬初春餘天寒欲冰其中輒結異花或蓮
+<lb ed="B" n="0291b07"/>或梅及桃杏之屬逐日更易形狀不一大內聞之遣使索觀侍
+<lb ed="B" n="0291b08"/>僧持銅盤獻自玉泉山二十餘里始達宮禁而冰花不釋皇后
+<lb ed="B" n="0291b09"/>傳觀侍嬪皆呼萬歲因賜供物賚予甚厚都中傳為神異清但
+<lb ed="B" n="0291b10"/>笑曰此偶然耳何足怪也由是四眾感慕襄城伯李國禎司禮
+<lb ed="B" n="0291b11"/>監王之臣曹化湻咸相皈依大清龍興入據燕都既殄流賊遂
+<lb ed="B" n="0291b12"/>黜明命然崇尚佛法終召天和平定區宇時恆明已入廣濟復
+<lb ed="B" n="0291b13"/>迎清講護國仁王經八王無不敬事順治二年一日從容語恒
+<lb ed="B" n="0291b14"/>明日吾將返二聖庵作西歸計矣初至玉泉山時臨水登山贍
+<lb ed="B" n="0291b15"/>顧裴回指示人曰此地峰青聳秀流東曲繞頗饒幽勝吾將老
+<lb ed="B" n="0291b16"/>焉至是果寂此山中弟子環侍以膝示之曰昔在臥佛時跪諷
+<lb ed="B" n="0291b17"/>華嚴於瓦礫中不施蒲團今年<anchor xml:id="beg_149" type="cb-app"/>已<anchor xml:id="end_149"/>七十餘膝上肉瘢猶在也汝
+<lb ed="B" n="0291b18"/>曹勉之端襟就化所遺銅盤後雖遇冰不復結花</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

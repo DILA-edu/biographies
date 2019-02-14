@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="淨讀">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>宋四明延慶寺沙門釋知禮傳省常 (From CBETA edition of 新續高僧傳 卷 041）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>宋四明延慶寺沙門釋知禮傳<note place="inline">省常</note>
+                    </head>
+                </head>
+                <p xml:id="pB27p0311b0401">釋知禮字約言明州金氏子其父母夢神僧携一童畀之曰此
+<lb ed="B" n="0311b05"/>佛子羅睺羅也未幾生禮七歲喪母號哭不絕白父求出家依
+<lb ed="B" n="0311b06"/>太平興國寺洪選得度及長詣寶雲寺義通法師學教觀圓頓
+<lb ed="B" n="0311b07"/>之旨一受即了湻化中主乾符寺尋徙保恩院敷揚教觀學徒
+<lb ed="B" n="0311b08"/>踵至會明州旱禮與慈雲式同修光明懺約三日不雨當自焚
+<lb ed="B" n="0311b09"/>一手如期果大雨大中祥符三年重建保恩寺賜名延慶六年
+<lb ed="B" n="0311b10"/>建念佛施戒會自茲以降每歲二月望以為常舉嘗集十僧修
+<lb ed="B" n="0311b11"/>法華懺三年更集十僧修大悲懺三年積精竭誠千日無倦人
+<lb ed="B" n="0311b12"/>以為難自禮視之乃若固然復於佛前並爇三指真心玅諦超
+<lb ed="B" n="0311b13"/>然生死天禧四年賜號法智大師勅令住世演教禮以從上諸
+<lb ed="B" n="0311b14"/>祖闡揚淨土者多譚事相空示觀門暫被時機未窮圓頓因取
+<lb ed="B" n="0311b15"/>天台觀無量壽經疏研極理奧曲暢玄風成妙宗鈔數萬言時
+<lb ed="B" n="0311b16"/>方詔天生立放生池禮捨缽資集諸善緣結放生會每歲佛誕
+<lb ed="B" n="0311b17"/>日縱諸魚鳥有司以聞勅樞密劉筠撰文立碑院內天聖六年
+<lb ed="B" n="0311b18"/>正月元日將示寂建光明懺七日至五日結跏趺坐召眾說法
+<lb ed="B" n="0311b19"/>稱佛數百聲奄然而逝年六十九露龕二七日爪髮加長闍維
+<lb ed="B" n="0311b20"/>時舌根不壞若蓮華然又省常字造微姓顏氏錢塘人七歲出
+<pb ed="B" xml:id="B27.0151.0312a" n="0312a"/>
+<lb ed="B" n="0312a01"/>家宋湻化中住南昭慶慕廬山之風謀結蓮社刻無量壽佛像
+<lb ed="B" n="0312a02"/>刺血書華嚴淨行品於是易蓮社為淨行社士夫與會者一百
+<lb ed="B" n="0312a03"/>二十人皆稱淨行弟子王文正公旦為之首七眾且千人焉天
+<lb ed="B" n="0312a04"/>禧正月十二日端坐念佛有頃大<g ref="#CB24336">𧦝</g>曰佛來也泊然而化眾見
+<lb ed="B" n="0312a05"/>地皆金色移時方隱年六十二</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

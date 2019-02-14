@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="習禪">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>宋潭州法輪寺沙門釋應端傳 (From CBETA edition of 新續高僧傳 卷 011）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>宋潭州法輪寺沙門釋應端傳</head>
+                </head>
+                <p xml:id="pB27p0107a1301">釋應端南昌徐氏子也生而眉宇豁如形儀整肅幼厭塵穢少
+<lb ed="B" n="0107a14"/>入空門依郡之化度寺善月度為大僧謁真淨文機不諧時靈
+<lb ed="B" n="0107a15"/>源分座雲居扣之源稍加砥礪端自負已解妙入經論乃援引
+<lb ed="B" n="0107a16"/>馬祖百丈機語及華嚴經旨相為酬荅源見之笑曰舉馬祖百
+<lb ed="B" n="0107a17"/>丈固誤矣而華嚴宗旨與箇事沒交涉端憤然欲去因辤揭簾
+<lb ed="B" n="0107a18"/>忽大悟汗流浹背源見之喜曰子方識好惡矣馬祖百丈文殊
+<lb ed="B" n="0107a19"/>普賢幾為汝累由是譽問四馳道欽七眾政和末太師張司成
+<lb ed="B" n="0107a20"/>虛百丈堅命開堂舉僧問大隋刼大洞然時這箇壞也不壞話
+<pb ed="B" xml:id="B27.0151.0107b" n="0107b"/>
+<lb ed="B" n="0107b01"/>遂曰六合傾翻劈面來暫披蔴縷混塵埃因風吹火渾間事引
+<lb ed="B" n="0107b02"/>得遊人不肯回壞不壞隨不隨徒將聞見強鍼錐太湖三萬六
+<lb ed="B" n="0107b03"/>千頃月在波心說向誰</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

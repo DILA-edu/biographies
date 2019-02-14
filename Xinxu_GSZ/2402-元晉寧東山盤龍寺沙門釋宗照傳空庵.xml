@@ -1,0 +1,48 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="靈感">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>元晉寧東山盤龍寺沙門釋宗照傳空庵 (From CBETA edition of 新續高僧傳 卷 036）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>元晉寧東山盤龍寺沙門釋宗照傳<note place="inline">空庵</note>
+                    </head>
+                </head>
+                <p xml:id="pB27p0282a0701">釋宗照字蓮峯晉寧段氏子也生有異性天資絕倫年十八禮
+<lb ed="B" n="0282a08"/>雲峰薙染每以七日斷絕思想參究一日聞伐木丁丁瞿然朗
+<lb ed="B" n="0282a09"/>悟杖錫操方徧覽名山<g ref="#CB33499">𠪱</g>抵巨匠初謁空庵許為法器後叩中
+<lb ed="B" n="0282a10"/>峯乃邀證印了達宗源發明祖義元至正間還滇間游晉寧東
+<lb ed="B" n="0282a11"/>山喜其深秀謂似曹溪風景乃建盤龍寺山舊有龍池建寺後
+<lb ed="B" n="0282a12"/>龍乃他徙黑井有毒龍興水暴溢每壞鹽竈損民居照為書咒
+<lb ed="B" n="0282a13"/>沈水其害遂息又寧州有虎噬人照為噀水咒符驅虎速去次
+<lb ed="B" n="0282a14"/>日居人果見虎去一方無患自是兩地感德納貢畊牛為寺引
+<lb ed="B" n="0282a15"/>鹽歲以為常以元至正二十一年八月望日沐浴書偈趺坐而
+<lb ed="B" n="0282a16"/>逝身體溫柔七日如生有彩雲覆菴虹氣貫天者三日門人立
+<lb ed="B" n="0282a17"/>塔於寺後照以八月望日寂至今居民每至中秋咸致敬禮香
+<lb ed="B" n="0282a18"/>花繽紛林巒若市明季更<anchor xml:id="beg_13e" type="cb-app"/>諡<anchor xml:id="end_13e"/>曰大慧禪師</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

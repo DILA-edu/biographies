@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="雜識">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>明杭州雲居聖水寺沙門釋德璩傳德一_德言 (From CBETA edition of 新續高僧傳 卷 062）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>明杭州雲居聖水寺沙門釋德璩傳<note place="inline">德一　德言</note>
+                    </head>
+                </head>
+                <p xml:id="pB27p0453b1301">釋德璩字寶雨姓陳氏嘉禾人璩他本或作<g ref="#CB33449">󸊩</g>而字姓籍地事
+<lb ed="B" n="0453b14"/>跡皆同知一人也璩方七歲隨父入杭至雲居聖水禪寺見紺
+<lb ed="B" n="0453b15"/>宇宏麗寶龕嚴飾道心激發如逢夙遊捨之出家欣焉樂從初
+<lb ed="B" n="0453b16"/>禮慕雲後參覺明十年之間兩師繼寂璩未披緇遽膺寺務勤
+<lb ed="B" n="0453b17"/>瘁敏達咸嗟異之年二十三受戒於聞谷大師持之嶄嶄惟謹
+<lb ed="B" n="0453b18"/>及赴新伊古德講席數年得提示之要於是攜屐挈缽西走豫
+<lb ed="B" n="0453b19"/>章訪匡氏之遺廬踞紫霄之絕巘空濛寂歷如遇真如久之乘
+<lb ed="B" n="0453b20"/>風放武昌摩赤壁長江盪胸大崖聳目廓然有洗空一切之意
+<pb ed="B" xml:id="B27.0151.0454a" n="0454a"/>
+<lb ed="B" n="0454a01"/>迴櫂白門花巗彷彿南宗點滴在師單持一揮手間即得所至
+<lb ed="B" n="0454a02"/>境與年忘尋以歲歉還棲寺中蓋冥心參訪又幾許年復杯浮
+<lb ed="B" n="0454a03"/>閩渤延睇武夷攬九華三谿之勝三年而遇漢冲林君鼓琴而
+<lb ed="B" n="0454a04"/>樂之盡得其傳遂稱絕調願受教者無虛時過萬玉山房有聲
+<lb ed="B" n="0454a05"/>從巖谷冷冷而出不知其在十指間也璩為人伉爽能任事與
+<lb ed="B" n="0454a06"/>人交歷久無倦容更好為之下遇橫逆則坦然受之不與校世
+<lb ed="B" n="0454a07"/>人以是益重之性誠慤每登壇作法必有奇應常為延平令陸
+<lb ed="B" n="0454a08"/>君道胤追薦亾母夜風雨滅燭有光自天照壁如日見者驚歎
+<lb ed="B" n="0454a09"/>馮之煥父參軍楚南槥返自燕未抵家門夜半於逆旅蹴同行
+<lb ed="B" n="0454a10"/>者夢中使起曰吾家有使召我及歸詢之方百日仗璩設薦故
+<lb ed="B" n="0454a11"/>也儀真守將楊新亡母迎璩資往見母冉冉駕空躡梁而來新
+<lb ed="B" n="0454a12"/>投地哀號望璩頂禮微師吾誰與見母生天上也著有如雲集
+<lb ed="B" n="0454a13"/>又德一字達方仁和郎氏子禪學之餘兼精詩賦一時名流樂
+<lb ed="B" n="0454a14"/>與往還年登大耋趺坐而化有詩集一卷德言字心學精岐黃
+<lb ed="B" n="0454a15"/>工詩能文總河陳鵬年少宰湯右曾仇兆鰲往復唱和有趺翠
+<lb ed="B" n="0454a16"/>樓詩集一卷</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0882a07shiTanXiu"><lb
+ed="T" n="0882a07"/><anchor n="T.50.2061.0882a07"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000013226">越州開元寺</placeName><persName key="A012266">曇休</persName>傳</head><p><lb
+ed="T" n="0882a08"/><persName key="A012266">釋曇休</persName>，字<persName key="A012266">德敷</persName>，姓<name>李</name>氏。器度宏廓，志行修勅<ptr type="glossary" target="#g2213"/>。<lb
+ed="T" n="0882a09"/>納法<ptr type="glossary" target="#g2214"/>已來，未容少缺。習通漸教<ptr type="glossary" target="#g2215"/>，頗至精微。<lb
+ed="T" n="0882a10"/>《四分律》<placeName key="PL000000024082">相部</placeName>疏宗<ptr target="#n911"/>，蔚成淵府<ptr type="glossary" target="#g688"/>。初機請學，皆到<lb
+ed="T" n="0882a11"/>甚深。<persName key="A012266">休</persName>於講訓之餘，紏繩寺任。<placeName key="PL000000013226">伊寺</placeName>者，<date from-iso="+0502-05-02" key="j19045331924818" to-iso="+0557-11-14"><anchor xml:id="beg0882001"/><name>梁</name><anchor xml:id="end0882001"/></date><lb
+ed="T" n="0882a12"/>所創，年涉四百，雖觀閣巋然，且<anchor xml:id="beg0882002"/><choice resp="sgsz"><sic>㯫</sic><corr>櫨</corr></choice><anchor xml:id="end0882002"/>梲<ptr type="glossary" target="#g2218"/>傾<lb
+ed="T" n="0882a13"/>弛。<persName key="A012266">休</persName>革故有方<ptr type="glossary" target="#g2223"/>，締構<ptr type="glossary" target="#g2219"/>無隙，特加壯麗，輪焉！<lb
+ed="T" n="0882a14"/>奐焉<ptr type="glossary" target="#g2220"/>！又護國經樓迨諸棟宇，悉見鼎新。次以<lb
+ed="T" n="0882a15"/>寺之門樓<ptr type="glossary" target="#g2221"/>也——則<date from-iso="+0704-02-14" key="j19782341978588" to-iso="+0705-02-02"><name>長安</name>四年</date>故<persName key="A004177">曇一<roleName>律師</roleName></persName>之經<lb
+ed="T" n="0882a16"/>始也<ptr target="#n3394"/>——，既而頹廢，仍重整覆，一同創制。復慊<ptr type="glossary" target="#g543"/><lb
+ed="T" n="0882a17"/><date notBefore-iso="+0650-02-10" key="j19585081960698" notAfter-iso="+0656-02-09"><name>永徽</name>中</date><persName key="A012186">康僧會<roleName>法師</roleName></persName>應身<ptr type="glossary" target="#g1665"/>堂座<ptr target="#n3250"/>卑庳<ptr type="glossary" target="#g2222"/>，乃<anchor xml:id="beg0882003"/>募<anchor xml:id="end0882003"/>人<lb
+ed="T" n="0882a18"/>釐變<ptr type="glossary" target="#g2224"/>舊規，<date notBefore-iso="+0860-12-21" key="j20355242040636" notAfter-iso="+0874-12-20"><name>咸通</name>年中</date>也。<persName key="A012266">休</persName>之一言，檀信響應。<lb
+ed="T" n="0882a19"/>後終于<placeName key="PL000000013226">住寺</placeName>，今之<placeName key="PL000000013226">大善伽藍</placeName>是也。</p>
+    <linkGrp>
+        <link targets="#0882a14 #0882a16"/>
+        <ptr target="#A004177" type="person"/>
+        <ptr target="#PL000000013226" type="place"/>
+        <ptr target="#j19782341978588" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0882a16 #0882a17"/>
+        <ptr target="#A012186" type="person"/>
+        <ptr target="#PL000000013226" type="place"/>
+        <ptr target="#j19585081960698" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0882a13 #0882a18"/>
+        <ptr target="#A012266" type="person"/>
+        <ptr target="#PL000000013226" type="place"/>
+        <ptr target="#j20355242040636" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0882a19 #0882a19"/>
+        <ptr target="#A012266" type="person"/>
+        <ptr target="#PL000000013226" type="place"/>
+    </linkGrp>
+</div>

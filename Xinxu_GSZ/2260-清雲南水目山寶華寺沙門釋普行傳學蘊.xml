@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="習禪">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>清雲南水目山寶華寺沙門釋普行傳學蘊 (From CBETA edition of 新續高僧傳 卷 022）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>清雲南水目山寶華寺沙門釋普行傳<note place="inline">學蘊</note>
+                    </head>
+                </head>
+                <p xml:id="pB27p0192a0601">釋普行字非相姓孫氏景東長摩人也父尚志母章氏夜夢老
+<lb ed="B" n="0192a07"/>僧投寄寤而誕生知為再來五歲而孤隨母往田遙望水目山
+<lb ed="B" n="0192a08"/>脊白雲垂覆綠樹參天因指問此何處母告之曰佛寺也若觸
+<lb ed="B" n="0192a09"/>所感即請偕往其母難之然聆其語意已符夙兆年十五母沒
+<lb ed="B" n="0192a10"/>乃投雞足從德周削髮戒德日進後謁無住示以參究即有悟
+<lb ed="B" n="0192a11"/>入年五十五始受具無住繼席寶華既弘戒法復鬯宗乘道聲
+<lb ed="B" n="0192a12"/>所施緇白皈依宰官敬護其最著者降毒龍於洱海導幽魄於
+<lb ed="B" n="0192a13"/>楪榆感通所及非常情可測康熙庚午秋預知期至拈香沐浴
+<lb ed="B" n="0192a14"/>竟自入龕一偈寂然壽八十七臘七十三學蘊知空者亦參無
+<lb ed="B" n="0192a15"/>住而受法於開峰密行者也蘊本洱海王氏子年十四入寂光
+<lb ed="B" n="0192a16"/>寺剃度初從大力野愚徹庸及西蜀了凡諸宿參究雖並承其
+<lb ed="B" n="0192a17"/>教而於萬法歸一之旨四五年間疑情不釋後聽亮如講法華
+<lb ed="B" n="0192a18"/>諸經參不是心<g ref="#CB12594">䛡</g>又十餘年苦無入處建玉霖軒閉關習靜禮
+<lb ed="B" n="0192a19"/>萬佛名經至三卷南無二字忽心身脫落內外圓明如一輪皎
+<lb ed="B" n="0192a20"/>月即說偈曰虛空是佛身我本世間人我性與空合非佛亦非
+<pb ed="B" xml:id="B27.0151.0192b" n="0192b"/>
+<lb ed="B" n="0192b01"/>人隨參無住即首肎之欲付以法俄而辭去明桂藩之至滇也
+<lb ed="B" n="0192b02"/>命晉王李定國平楚雄永昌叛軍凱旋時學蘊遇於道中因止
+<lb ed="B" n="0192b03"/>晉王至雞山請免山中徭役晉王允之復隨至昆明表貢山果
+<lb ed="B" n="0192b04"/>明帝嘉之賜勅寂光為護國興明之寺鼎革後入九臺把茅三
+<lb ed="B" n="0192b05"/>載而大方廣法席巍然起於萬山密箐中開峰老人神契百城
+<lb ed="B" n="0192b06"/>之外忽命僧持卷至山蘊欣受之由是開法領眾常數百人忽
+<lb ed="B" n="0192b07"/>一日屬諸門人曰三日後我當滅度天降微雨即其時也至期
+<lb ed="B" n="0192b08"/>果雨眾集有侍僧問曰和尚向來說禪說教呵佛呵祖正恁麼
+<lb ed="B" n="0192b09"/>時作麼生蘊震威一喝捋須於口繞殿三匝復座翹一足而寂
+<lb ed="B" n="0192b10"/>壽七十七僧行六十五著有語錄及草堂集</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

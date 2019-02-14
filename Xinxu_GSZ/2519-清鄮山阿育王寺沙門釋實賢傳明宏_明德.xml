@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="淨讀">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>清鄮山阿育王寺沙門釋實賢傳明宏_明德 (From CBETA edition of 新續高僧傳 卷 045）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>清鄮山阿育王寺沙門釋實賢傳<note place="inline">明宏　明德</note>
+                    </head>
+                </head>
+                <p xml:id="pB27p0340a1201">釋實賢字思齊號省庵姓時氏常熟人少甘蔬食出家後參念
+<lb ed="B" n="0340a13"/>佛是誰有省曰吾夢覺矣掩關真寂寺三年晝覽藏文晚課佛
+<lb ed="B" n="0340a14"/>號詣鄮山禮阿育王塔大合緇白廣修供養發四十八願卒感
+<lb ed="B" n="0340a15"/>舍利生輝作勸發菩提心文激厲四眾誦者多為涕下雍正十
+<lb ed="B" n="0340a16"/>一年臘月八日告弟子曰明年四月吾其去矣獨閉一室日課
+<lb ed="B" n="0340a17"/>佛名十萬聲至期書偈辤眾斷食<anchor xml:id="beg_16f" type="cb-app"/>斂<anchor xml:id="end_16f"/>目危坐五鼓具浴更衣面
+<lb ed="B" n="0340a18"/>西寂然送者麋至忽張目曰吾去即來生死事大各淨乃心連
+<lb ed="B" n="0340a19"/>聲誦佛少焉即瞑雍正十二年四月十四日也明宏字梅芳杭
+<lb ed="B" n="0340a20"/>人弱冠家人將為取女逃去薙髮於紹興柯橋彌陀庵尋事參
+<pb ed="B" xml:id="B27.0151.0340b" n="0340b"/>
+<lb ed="B" n="0340b01"/>訪習天台教觀坐禪有省後閱藏於天台萬年寺久之兩目勞
+<lb ed="B" n="0340b02"/>損乃專志誦佛寒暑無間嘗曰我因失明得大利益平時一缽
+<lb ed="B" n="0340b03"/>一杖居無常處人所施與輒濟貧乏實賢與之交稱其得真解
+<lb ed="B" n="0340b04"/>脫決生淨生雍正五年九月實賢於梵天寺結玅蓮法會招宏
+<lb ed="B" n="0340b05"/>入社時宏雖病而持名不少衰移住無錫齋僧館病轉劇一日
+<lb ed="B" n="0340b06"/>徧告檀樾以明日將行眾如期往即起坐號佛而化明德字聖
+<lb ed="B" n="0340b07"/>眼海寧馬氏子四歲出家梵天寺性孤僻不好世務偶得喘疾
+<lb ed="B" n="0340b08"/>日甚猶延僧開淨業堂實賢亦與焉德聞眾唱佛聲恒默隨之
+<lb ed="B" n="0340b09"/>已而自知時至乞賢開示賢曰當淨捨萬緣了脫生死在此一
+<lb ed="B" n="0340b10"/>時宜急著力德遂偕眾持佛名復發四宏誓願語極懇切至夜
+<lb ed="B" n="0340b11"/>半佛聲方竭即轉身垂目而逝時雍正七年十二月二十六日
+<lb ed="B" n="0340b12"/>也</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

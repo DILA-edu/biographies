@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="習禪">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>南宋明州天童寺沙門釋咸傑傳 (From CBETA edition of 新續高僧傳 卷 015）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>南宋明州天童寺沙門釋咸傑傳</head>
+                </head>
+                <p xml:id="pB27p0138a1501">釋咸傑字密庵福州鄭氏子也其母夢廬山老僧入舍遂舉傑
+<lb ed="B" n="0138a16"/>自幼穎異過人及壯鬀髮進具徧參知識最後謁應庵華於衢
+<lb ed="B" n="0138a17"/>州明果庵一日問曰如何是正法眼答曰破沙盆應庵頷之說
+<lb ed="B" n="0138a18"/>偈曰大徹投機句當陽廓頂門相從今四載徵結洞無痕雖未
+<lb ed="B" n="0138a19"/>付衣鉢氣宇吞乾坤<anchor xml:id="beg_73" type="cb-app"/>卻<anchor xml:id="end_73"/>把正法眼喚作破沙盆後出住衢州烏
+<lb ed="B" n="0138a20"/>巨庵次遷祥符蔣山華藏未幾詔主徑山及靈隱上堂牛頭橫
+<pb ed="B" xml:id="B27.0151.0138b" n="0138b"/>
+<lb ed="B" n="0138b01"/>說豎說不知有向上關棙子有般漆桶漢東西不辨南北不分
+<lb ed="B" n="0138b02"/>如何是向上關棙子何異開眼尿牀我有一轉語不在向上向
+<lb ed="B" n="0138b03"/>下千手大悲摸索不著老僧今日布施大眾去矣良久曰達摩
+<lb ed="B" n="0138b04"/>大師無當門齒上堂卓柱杖曰迷時秪迷這箇復卓一下曰悟
+<lb ed="B" n="0138b05"/>時秪悟這箇迷悟兩忘糞掃堆頭重添搕<g ref="#CB05329">𢶍</g>莫有東涌西沒全
+<lb ed="B" n="0138b06"/>機獨脫處道得一句底麼若道不得老僧自道去也擲柱杖曰
+<lb ed="B" n="0138b07"/>三十年後又舉金峰示眾曰老僧二十年前有老婆心二十年
+<lb ed="B" n="0138b08"/>後無老婆心僧問如何是有老婆心峰曰問凡答凡問聖答聖
+<lb ed="B" n="0138b09"/>僧又問如何是無老婆心峰曰問凡不答凡問聖不答聖傑曰
+<lb ed="B" n="0138b10"/>我當時若見他恁麼說好向他道你若自瞥地去自然不落這
+<lb ed="B" n="0138b11"/>聖凡窠臼也又舉婆子燒庵話畢傑曰這箇公案叢林中多有
+<lb ed="B" n="0138b12"/>拈提者老僧今日裂破面皮不免對眾納敗闕一上定要諸方
+<lb ed="B" n="0138b13"/>檢點明白乃召眾曰這婆子住處深隱水泄不通徧向枯木上
+<lb ed="B" n="0138b14"/>糝花寒巖中發燄這僧孤身迥迥慣入洪波等閒坐斷潑天潮
+<lb ed="B" n="0138b15"/>頭到底自無涓滴仔細檢點將來敲枷打鎖則不無若謂佛法
+<lb ed="B" n="0138b16"/>二人俱未夢見今老僧與麼提持畢竟意歸何處良久曰一把
+<lb ed="B" n="0138b17"/>柳絲收不得和煙搭在玉欄杆上堂卓拄杖曰盡大地喚作一
+<lb ed="B" n="0138b18"/>句子擔枷帶鎖不喚作一句子業識茫茫兩頭俱透脫得了淨
+<lb ed="B" n="0138b19"/>倮倮赤洒洒不可把達摩一宗掃地而盡所以雲門大師道盡
+<lb ed="B" n="0138b20"/>乾坤大地無纖毫過患猶是轉句不見一法始是半提更須知
+<pb ed="B" xml:id="B27.0151.0139a" n="0139a"/>
+<lb ed="B" n="0139a01"/>有全提良久曰劍去久矣方乃刻舟</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

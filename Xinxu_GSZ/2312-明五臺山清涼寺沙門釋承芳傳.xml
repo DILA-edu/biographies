@@ -1,0 +1,44 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="明律">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>明五臺山清涼寺沙門釋承芳傳 (From CBETA edition of 新續高僧傳 卷 028）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>明五臺山清涼寺沙門釋承芳傳</head>
+                </head>
+                <p xml:id="pB27p0233a0201">釋承芳者與古心比肩法門不相先後及在昭慶聞古心弘戒
+<lb ed="B" n="0233a03"/>靈隱芳以弟子禮謁之求戒先夕古心感異兆若有神人告之
+<lb ed="B" n="0233a04"/>文殊化身南來受戒古心意不謂芳當之也三壇既畢芳以疾
+<lb ed="B" n="0233a05"/>未至古心忽憶前夢來昭慶問疾即於榻上說沙彌十戒為摩
+<lb ed="B" n="0233a06"/>頂<anchor xml:id="beg_f7" type="cb-app"/>已<anchor xml:id="end_f7"/>戒得威力身不由<anchor xml:id="beg_f8" type="cb-app"/>己<anchor xml:id="end_f8"/>勇猛精進扶疾而起盥潄更衣下榻
+<lb ed="B" n="0233a07"/>求具更為集僧具儀傳授菩薩大戒疾亦隨愈尋還五臺慈聖
+<lb ed="B" n="0233a08"/>太后又夢感神言文殊菩薩肉身還山物色及芳遂詔主五臺
+<lb ed="B" n="0233a09"/>傳戒芳辭曰纔登戒品行持未全有本師在不敢妄承乃移命
+<lb ed="B" n="0233a10"/>古心期以三年古心告退付屬於芳使繼法席</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

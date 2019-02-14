@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0880c20shiMingZhun"><lb
+ed="T" n="0880c20"/><anchor n="T.50.2061.0880c20"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000042412">長安禪定寺</placeName><persName key="A013737">明準</persName>傳</head><p><lb
+ed="T" n="0880c21"/><persName key="A013737">釋明準</persName>者，不詳氏族，生緣本<placeName key="PL000000014700"><placeName>天台</placeName><placeName>靈墟道場</placeName></placeName>，<lb
+ed="T" n="0880c22"/>出俗遊方。至<ref type="place" target="#PL000000042189">京邑</ref>，觀古之神僧<persName key="A013739">智苑</persName>於<placeName key="PL000000002485"><anchor xml:id="beg0880sgsz10"/><choice resp="sgsz"><sic>苑</sic><corr>范</corr></choice><anchor xml:id="end0880sgsz10"/><lb
+ed="T" n="0880c23"/>陽</placeName><ref type="place" target="#PL000000000447">北山</ref><ptr target="#n3369"/>刊石寫經、灌鐵，以俟<persName key="A001428">慈氏</persName>下生，免<lb
+ed="T" n="0880c24"/>水火之虞<ptr target="#n3371"/>。又<placeName key="PL000000023652"><placeName>東洛</placeName><placeName>長壽寺</placeName></placeName>寫《華嚴》，<placeName key="PL000000023661">聖善寺</placeName>寫<lb
+ed="T" n="0880c25"/>《法華》，<placeName key="PL000000023611">嵩山嶽寺</placeName>寫《楞伽》，悉刊貞珉<ptr type="glossary" target="#g2190"/>，皆圖不<lb
+ed="T" n="0880c26"/>朽。<persName key="A013737">準</persName>遂於<date from-iso="+0798-01-26" key="j20125492012578" to-iso="+0798-02-24"><name>貞元</name>戊寅歲春正月</date>，見寺僧鏨<lb
+ed="T" n="0880c27"/>山攻石，石悉頑惡，知匠氏不虔，山靈祕吝。<lb
+ed="T" n="0880c28"/>時<persName key="A013737">準</persName>疏告陰靈，請禆善務。俄於定中見若<lb
+ed="T" n="0880c29"/><anchor xml:id="beg0880sgsz11"/>干<anchor xml:id="end0880sgsz11"/>幅貯無量石<ptr target="#n3372"/>，冥冥之間，如有宰割，皆中<pb ed="T" n="0881a" xml:id="T50.2061.0881a"/><lb
+ed="T" n="0881a01"/>刻字。時連率<ptr type="glossary" target="#g1521"/><placeName key="PL000000002513">博陵</placeName><name>崔</name>公<ptr target="#n3373"/>激勸幕府參佐各<lb
+ed="T" n="0881a02"/>書一品，從〈序〉至〈勸發〉<ptr target="#n3374"/>，凡二十八。圜廊挺立，<lb
+ed="T" n="0881a03"/>不朞畢工。<persName key="A013737">準</persName>之化人，皆此類也。<date key="j20157082015737" notAfter-iso="+0806-10-19" notBefore-iso="+0806-09-20"><name>元和</name>元年<lb
+ed="T" n="0881a04"/>八月</date>中也。後不詳終所。</p>
+    <linkGrp>
+        <link targets="#0880c20 #0880c20"/>
+        <ptr target="#A013737" type="person"/>
+        <ptr target="#PL000000042412" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0880c21 #0880c21"/>
+        <ptr target="#A013737" type="person"/>
+        <ptr target="#PL000000014700" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0880c22 #0880c22"/>
+        <ptr target="#A013737" type="person"/>
+        <ptr target="#PL000000042189" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0880c22 #0880c23"/>
+        <ptr target="#A013739" type="person"/>
+        <ptr target="#PL000000002485" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0880c24 #0880c24"/>
+        <ptr target="#A013737" type="person"/>
+        <ptr target="#PL000000023652" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0880c24 #0880c24"/>
+        <ptr target="#A013737" type="person"/>
+        <ptr target="#PL000000023661" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0880c24 #0880c25"/>
+        <ptr target="#A013737" type="person"/>
+        <ptr target="#PL000000023611" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0880c26 #0881a01"/>
+        <ptr target="#A013737" type="person"/>
+        <ptr target="#j20125492012578" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0881a01 #0881a04"/>
+        <ptr target="#A013737" type="person"/>
+        <ptr target="#j20157082015737" type="time"/>
+    </linkGrp>
+</div>

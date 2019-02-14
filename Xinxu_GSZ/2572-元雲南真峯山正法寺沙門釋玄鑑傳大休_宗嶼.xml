@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="興福">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>元雲南真峯山正法寺沙門釋玄鑑傳大休_宗嶼 (From CBETA edition of 新續高僧傳 卷 050）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>元雲南真峯山正法寺沙門釋玄鑑傳<note place="inline">大休　宗嶼</note>
+                    </head>
+                </head>
+                <p xml:id="pB27p0369a1701">釋玄鑑字無照曲靖人生即不羣父仕安寧僚從見之莫不稱
+<lb ed="B" n="0369a18"/>詡然性獨高邁頗厭宦塵稍長辭親出家往依虎丘寺雲岩淨
+<lb ed="B" n="0369a19"/>剃落嘗與念菴為友初習教觀善說經論每登講席聽者麕至
+<lb ed="B" n="0369a20"/>名著諸方然未窺別傳之旨因出蜀遊荊楚間參空菴一及高
+<pb ed="B" xml:id="B27.0151.0369b" n="0369b"/>
+<lb ed="B" n="0369b01"/>峯妙領悟真諦徧窮知識兩宗之門多所啟發後叩中峯本機
+<lb ed="B" n="0369b02"/>緣契合遂為首座嗣法臨濟世次派別已達二十已而還滇本
+<lb ed="B" n="0369b03"/>示以詩曰狂心未歇為禪忙萬八千程過遠方喪盡目前三頓
+<lb ed="B" n="0369b04"/>棒揮開腦後一尋光陳年故紙渾無用今日新條亦漸忘見說
+<lb ed="B" n="0369b05"/>雲南田地好異時歸去坐繩牀衲僧用處絕羅籠拶著渾身是
+<lb ed="B" n="0369b06"/>脫空輾破一塵如有旨撥開萬象覓無蹤德山焚疏情先死良
+<lb ed="B" n="0369b07"/>遂敲門路已窮積刼塵勞忽吹盡黑龍潭下五更風及至滇止
+<lb ed="B" n="0369b08"/>於曲靖真峯山構庵以棲傍有龍湫墮葉觸波必遭風雨鑑安
+<lb ed="B" n="0369b09"/>禪制之龍徙去遂建正法寺尋入會城梁王欽崇殊勝為剏佛
+<lb ed="B" n="0369b10"/>嚴寺居之雲南行省平章達理麻等力贊其事當道權要遐邇
+<lb ed="B" n="0369b11"/>緇素無不皈從教化盛行弟子數百得法者五人而已不久示
+<lb ed="B" n="0369b12"/>寂闍維之日梁王車駕戾止親觀舉火獲舍利纍纍太息而去
+<lb ed="B" n="0369b13"/>門人瘞靈骨于寺左塔焉天目中峯本復為文誄之略曰佛祖
+<lb ed="B" n="0369b14"/>之道未易墜兮吾無照遠逾一萬八千里江山以來茲佛祖之
+<lb ed="B" n="0369b15"/>道失所望兮吾無照負三十七春秋而云歸生耶死耶果離合
+<lb ed="B" n="0369b16"/>兮非智眼而莫窺祖意教意果同異兮惟神心其了知謂無照
+<lb ed="B" n="0369b17"/>於吾道無所悟兮真機歷掌其誰敢欺謂無照於吾道有所悟
+<lb ed="B" n="0369b18"/>兮大方極目云胡不迷笑德山之焚疏鈔兮何取舍之紛馳鄙
+<lb ed="B" n="0369b19"/>良遂之歸罷講兮徒此是而彼非惟吾無照總不然兮即名言
+<lb ed="B" n="0369b20"/>與實相互融交涉而無虧出入兩宗大匠之門兮孰不歎美而
+<pb ed="B" xml:id="B27.0151.0370a" n="0370a"/>
+<lb ed="B" n="0370a01"/>稱奇屈指八載之相從兮靡有間其毫釐我門人之既多兮求
+<lb ed="B" n="0370a02"/>如無照者非唯今少於古亦稀我不哀無照之兦兮哀祖道之
+<lb ed="B" n="0370a03"/>既墜而今而後孰與扶顛而持危對鑪熏於今夕兮與山川草
+<lb ed="B" n="0370a04"/>木同懷絕世之悲同時有大休者不知何許人得法雪巖元至
+<lb ed="B" n="0370a05"/>元十五年飛錫南來棲圓照山興祖寺時梁王也先欽崇道化
+<lb ed="B" n="0370a06"/>弘<g ref="#CB33488">󸋐</g>法筵御賜藏經并大休禪師之號又重建圓通普照諸剎
+<lb ed="B" n="0370a07"/>延祐丁<anchor xml:id="beg_18d" type="cb-app"/>巳<anchor xml:id="end_18d"/>示寂又宗璵號商巖亦得法於玄鑑初住雞山後為
+<lb ed="B" n="0370a08"/>土官高鳳請住姚安創活佛寺諸方嚮德集者七百餘人有送
+<lb ed="B" n="0370a09"/>僧偈云正是叢林搖落時出門相送步遲遲明朝玉案山中寺
+<lb ed="B" n="0370a10"/>逢著仙人莫看棋</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

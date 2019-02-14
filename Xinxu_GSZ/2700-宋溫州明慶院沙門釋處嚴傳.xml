@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="雜識">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>宋溫州明慶院沙門釋處嚴傳 (From CBETA edition of 新續高僧傳 卷 060）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>宋溫州明慶院沙門釋處嚴傳</head>
+                </head>
+                <p xml:id="pB27p0441b0601">釋處嚴字伯威姓賈氏樂清人也父靖居鄉以長者稱母萬氏
+<lb ed="B" n="0441b07"/>方娠夢黑龍自天而下俄化為道人入其家及嚴生有異相幼
+<lb ed="B" n="0441b08"/>時警悟不凡經史過目輒能成誦舅氏東平先生規邑之名儒
+<lb ed="B" n="0441b09"/>也試之聯語隨聲應答由是奇之少長不茹辛羶母強之卒不
+<lb ed="B" n="0441b10"/>從一日遊精舍歸白其母曰兒蔬食居俗非所宜願出家學佛
+<lb ed="B" n="0441b11"/>惟慈親割愛遂往里之明院慶禮僧知性為師既落髮受具游
+<lb ed="B" n="0441b12"/>歷郡剎初學律未幾習天台教觀慨然歎曰吾邦僻在海隅見
+<lb ed="B" n="0441b13"/>聞不廣遂之錢塘依南屏臻公聽天台大部明法華諸經時學
+<lb ed="B" n="0441b14"/>者尚編錄務相詰難嚴聽法罷端然默坐同輩問之發明師說
+<lb ed="B" n="0441b15"/>了無遺誤因謂之曰文字分別馳<g ref="#CB30262">󷘶</g>法相吾不能為乃遠游禪
+<lb ed="B" n="0441b16"/>林訪尋老宿叩擊玄旨嚴志節清高學識超邁杖錫所至道眼
+<lb ed="B" n="0441b17"/>相契為多會有以首座詔之者嚴曰吾宅心世外逍遙自適能
+<lb ed="B" n="0441b18"/>為人役耶於是西遊帝都觀伊洛南周旋江淮間凡名山勝境
+<lb ed="B" n="0441b19"/>叢林巨剎靡不至焉時道潛思聰與東坡居士游聲名籍甚二
+<lb ed="B" n="0441b20"/>僧咸與嚴善數以篇章往來嚴博學能文詩詞尤典雅且工書
+<pb ed="B" xml:id="B27.0151.0442a" n="0442a"/>
+<lb ed="B" n="0442a01"/>有晉宋法或勸以所作謁縉紳求知<anchor xml:id="beg_1f1" type="cb-app"/>己<anchor xml:id="end_1f1"/>嚴笑謝曰古之桑門上
+<lb ed="B" n="0442a02"/>首與士大夫游非求之也道自合焉爾故終身不以一字干謁
+<lb ed="B" n="0442a03"/>識者高之元祐間還永嘉寓淨光大雲開元諸寺其徒翕然歸
+<lb ed="B" n="0442a04"/>之扣門請益者屨相躡也嚴訓以本業復以詩書子史導之凡
+<lb ed="B" n="0442a05"/>經指授者咸見頭角時開元建護國天王殿命嚴作記文辭雄
+<lb ed="B" n="0442a06"/>偉太守范公見之稱歎良久命刻之石昭垂來許元符初歸故
+<lb ed="B" n="0442a07"/>山誅茅結廬循除蓄流自號潛澗賦詩鼓琴以自娛有古林下
+<lb ed="B" n="0442a08"/>風嚴有辭辨長於講釋里中巨室欲屈之講經恐不能致因具
+<lb ed="B" n="0442a09"/>法筵廣集眾侶預設巍座俟其至與眾迫之忽遽就席闡揚奧
+<lb ed="B" n="0442a10"/>旨緣餙以文吐音鴻亮聽者忻悅明慶自創業幾七百年無文
+<lb ed="B" n="0442a11"/>蹟可攷嚴始為撰記並書之時稱二絕郡守張公平聞其名以
+<lb ed="B" n="0442a12"/>禮致之躬受楞嚴大義欲授以僧正且請主禪席皆力辭之每
+<lb ed="B" n="0442a13"/>詣府手提一笠未嘗輿也人以為府座所厚或屬以事則正色
+<lb ed="B" n="0442a14"/>峻拒然政有不便於民者委曲以告守改容聽之瑞安令呂公
+<lb ed="B" n="0442a15"/>勤慕其道學初相邂逅要與俱還為築庵於廳治後圃為留三
+<lb ed="B" n="0442a16"/>宿而去邑令丁公湛每訪嚴談道終日忘返晚歲絕人事惟精
+<lb ed="B" n="0442a17"/>修淨業所諷楞嚴圓覺維摩光明法華諸經精熟流暢靜夜孤
+<lb ed="B" n="0442a18"/>坐焚香高誦琅琅之聲出於林表嘗手書法華光明二經以報
+<lb ed="B" n="0442a19"/>母德又書華嚴經八十卷首末不懈字法益工宋政和壬辰正
+<lb ed="B" n="0442a20"/>月二十一日示寂年五十四臘三十九三月闍維得舍利數百
+<pb ed="B" xml:id="B27.0151.0442b" n="0442b"/>
+<lb ed="B" n="0442b01"/>明瑩如珠明年九月植塔於故廬之旁以遺骨並舍利葬焉後
+<lb ed="B" n="0442b02"/>四十餘年縣人梅溪王十朋為之銘十朋之生也即嚴寂日其
+<lb ed="B" n="0442b03"/>母夢嚴來惠以金環覺而舉子忽聞嚴化以此異之十朋之大
+<lb ed="B" n="0442b04"/>母嚴之同母娣嚴弟子寶印又十朋之叔父也嘗以伏臘相過
+<lb ed="B" n="0442b05"/>從故其母識嚴及十朋長道經石橋寺寺僧先夕夢迎嚴和尚
+<lb ed="B" n="0442b06"/>詰旦而十朋至故其詩云人喚我為嚴首座前身曾寫石橋碑
+<lb ed="B" n="0442b07"/>銘有別致見梅溪集</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>

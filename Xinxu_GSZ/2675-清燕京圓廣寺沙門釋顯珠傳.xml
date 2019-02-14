@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="興福">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>清燕京圓廣寺沙門釋顯珠傳 (From CBETA edition of 新續高僧傳 卷 059）</title>
+                <author>喻謙 Yu Qian</author>
+                <respStmt>
+                    <resp>Markup</resp>
+                    <name>張伯雍 Chang Po-Yung</name>
+                </respStmt>
+                <principal>馬德偉 Marcus Bingenheimer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <head>清燕京圓廣寺沙門釋顯珠傳</head>
+                </head>
+                <p xml:id="pB27p0429a1701">釋顯珠字慶然別號竹心姓朱氏昌平人父德庫母牛氏家本
+<lb ed="B" n="0429a18"/>寒素幼依州城東嶽廟永亮薙髮受具於潭柘岫雲棟昌既精
+<lb ed="B" n="0429a19"/>律儀泛及經論止持兼至性相雙融嘗言一夕入定心契法微
+<lb ed="B" n="0429a20"/>髣髴有象若黃衲瞿曇趺坐相對演述上乘由是諸妄袪釋五
+<pb ed="B" xml:id="B27.0151.0429b" n="0429b"/>
+<lb ed="B" n="0429b01"/>蘊俱空又嘗還顧本形蛻化枯骨因念眾生種種苦厄作如是
+<lb ed="B" n="0429b02"/>觀偶往菜畦詢於老圃菜有心否答以菜本無心言下有悟得
+<lb ed="B" n="0429b03"/>大解脫燕都阜成闉外有圓廣寺明隆慶萬曆間曾事修葺閱
+<lb ed="B" n="0429b04"/>歲三百棟宇傾廢珠來其會慨然有志誓復招提廣祈法喜得
+<lb ed="B" n="0429b05"/>粟萬斛金銀五百凡諸布施靡不具足已涉願海終見伽藍僧
+<lb ed="B" n="0429b06"/>夏方盛遽爾就寂光緒三十四年八月六日也戶部侍郎鐵嶺
+<lb ed="B" n="0429b07"/>楊儒為撰碑銘刻之石以貽來者</p>
+                <linkGrp>
+                    <link targets="#"/>
+                    <ptr target="#" type="person"/>
+                    <ptr target="#" type="person"/>
+                </linkGrp>
+            </div>
+        </body>
+    </text>
+</TEI>
