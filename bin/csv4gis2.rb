@@ -1,3 +1,4 @@
+require 'cgi'
 require 'csv'
 require 'fileutils'
 require 'json'
@@ -22,11 +23,16 @@ SOURCES = {
 def convert_file(fn, dest)
   $serno = 0
   doc = open_xml(fn)
+  read_text(doc)
 
   node = doc.at_xpath('//anchor')
   unless node.nil?
-    a = node['n'].split('.') # T.50.2063.0935c01
-    $work = a[0] + a[1] + 'n' + a[2]
+    if node.key? 'n'
+      a = node['n'].split('.') # T.50.2063.0935c01
+      $work = a[0] + a[1] + 'n' + a[2]
+    else
+      abort "#{fn} anchor 沒有 n"
+    end
   end
 
   basename = File.basename(fn, '.xml')
@@ -55,6 +61,16 @@ def convert_folder(folder)
   end
 end
 
+def e_g(e)
+  # <g ref="#F6FAA6"/>
+  '{' + e['ref'][1..-1] + '}'
+end
+
+def e_lb(e)
+  n = e['n']
+  "<lb #{n}>"
+end
+
 def e_linkGrp(e, csv)
   place = e.at_xpath('ptr[@type="place"]')
   return if place.nil?
@@ -72,7 +88,7 @@ def e_linkGrp(e, csv)
     s = e_ptr_person(c)
     a << s unless s.nil?
   end
-  text += a.join(';')
+  text += a.join(',')
   text += " was/were in the place #{place_info['name']}<br>"
 
   text += e_linkGrp_text(e)
@@ -100,18 +116,15 @@ def e_linkGrp_text(e)
   $linehead = "#{$work}_p#{n1}"
 
   doc = e.document
-  lb = doc.at_xpath('//lb[@n="%s"]' % n1)
-  return '' if lb.nil?
+  i = $lbs.find_index(n1)
+  return '' if i.nil?
   r = ""
-  lb.xpath('following::lb | following::text()').each do |node|
-    if node.name == 'lb'
-      break if node['n'] > n2
-    else
-      r += node.text
-    end
+  $lbs[i..-1].each do |lb|
+    break if lb > n2
+    r += $text[lb]
   end
   return '' if r.empty?
-  "「#{r}」"
+  "「#{r}」<br>"
 end
 
 def e_ptr_person(e)
@@ -119,6 +132,38 @@ def e_ptr_person(e)
   info = $people[id]
   return nil if info.nil?
   info['name']
+end
+
+def handle_node(e)
+  return '' if e.comment?
+  return handle_text(e) if e.text?
+  r = case e.name
+  when 'linkGrp', 'orig', 'sic' then ''
+  when 'g'  then e_g(e)
+  when 'lb' then e_lb(e)
+  else traverse(e)
+  end
+  r
+end
+
+def handle_text(e)
+  s = e.content().chomp
+  return '' if s.empty?
+
+  case e.parent.name
+  when 'app'
+    return ''
+  when 'div'
+    return '' if s.gsub(/\s/, '').empty?
+  end
+
+  # cbeta xml 文字之間會有多餘的換行
+  s.gsub!(/[\n\r]/, '')
+  
+  # 把 & 轉為 &amp;
+  r = CGI.escapeHTML(s)
+
+  r
 end
 
 def open_xml(fn)
@@ -134,13 +179,41 @@ def read_authority_from_json_file(type)
   JSON.parse(s)
 end
 
+def read_text(doc)
+  text = traverse(doc.root)
+  $lbs = []
+  $text = {}
+  a = text.split(/(<lb [^>]*?>)/)
+  lb = nil
+  a.each do |s|
+    if s.match(/^<lb ([^>]*?)>$/)
+      lb = $1
+      $lbs << lb
+    else
+      unless lb.nil? or s.empty?
+        $text[lb] = s
+      end
+    end
+  end
+end
+
+def traverse(e)
+  r = ''
+  e.children.each { |c| 
+    s = handle_node(c)
+    r += s
+  }
+  r
+end
+
 # main
 $errors = ''
 $no_coordinates = Set.new
 $places = read_authority_from_json_file('place')
 $people = read_authority_from_json_file('person')
 
-folders = %w(Buxu_GSZ Jushi_Zhuan Liang_GSZ Ming_GSZ Mingsengzhuanchao Song_GSZ Tang_GSZ Xinxu_GSZ biQiuNi chuSanZangJiJi)
+# 2019-02-14 伯雍說《新續高僧傳》Xinxu_GSZ 先不做
+folders = %w(Buxu_GSZ Jushi_Zhuan Liang_GSZ Ming_GSZ Mingsengzhuanchao Song_GSZ Tang_GSZ biQiuNi chuSanZangJiJi)
 folders.each do |f|
   convert_folder(f)
 end
