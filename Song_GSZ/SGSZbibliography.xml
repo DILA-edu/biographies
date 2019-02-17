@@ -1351,6 +1351,12 @@
                     <edition>影印明刻版<date></date></edition>
                     <abbr>篇海類編  <hi>Pian hai lei bian i</hi></abbr>
                 </bibl>
+                <bibl ana="book">
+                    <author><hi>Zhou</hi>, Zumo 周祖謨 (Ed.)</author>
+                    <title>Guangyun jiaoben 廣韻校本</title>
+                    <edition>Beijing: Zhonghua 中華書局<date>1960</date>, 2 vols.</edition>
+                    <abbr>廣韻  <hi>Guang yun</hi></abbr>
+                </bibl>
             </listBibl>
         </body>
     </text>

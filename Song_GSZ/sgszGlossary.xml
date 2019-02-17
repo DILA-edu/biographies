@@ -295,7 +295,7 @@
 <note xml:id="g293" resp="sgsz">罪福，罪與福之並稱。</note>
 <note xml:id="g294" resp="sgsz">付度，移交、交代。</note>
 <note xml:id="g295" resp="sgsz">歘，同「忽」也。</note>
-<note xml:id="g296" resp="sgsz">接武，前行後繼也。</note>
+<note xml:id="g296" resp="sgsz">相，共、交互。《廣韻‧下平聲‧陽韻》頁177：「相，共供也。」</note>
 <note rend="display:none;" xml:id="g297" resp="sgsz">抗音，高聲也。《唐才子傳‧卷八》：「常對花臨月，悠然獨酌，抗音長謡，放適自遂。」</note>
 <note xml:id="g298" resp="makita">藏牙折角，喻雄辯難敵也。<seg type="note">藏牙，語出《山堂肆考．卷二百十八》。折角，語出《漢書．卷六十七》。</seg></note>
 <note xml:id="g299" resp="makita">崇班，高位也。</note>
@@ -525,7 +525,7 @@
 <note xml:id="g523" resp="sgsz">立稱，名氣響亮。</note>
 <note rend="display:none;" xml:id="g524" resp="sgsz">搴，音「qiān（ㄑㄧㄢ）」，取也。文囿，文章之苑囿。<persName key="A005035">蕭統</persName>《昭明文選序》：「歷觀文囿，泛覽辭林。」</note>
 <note xml:id="g525" resp="makita">瞻蔔，即梔子，學名<seg type="latin">Gardenia jasminoides</seg>。</note>
-<note xml:id="g526" resp="sgsz">踵武，比喻繼承前人的事業。語出《楚辭‧離騷經章句第一》：「忽奔走以先後兮，及前王之踵武。」</note>
+<note xml:id="g526" resp="sgsz">武，行跡。接武、踵武、繼武，喻前行後繼。《楚辭‧離騷經章句第一》：「忽奔走以先後兮，及前王之踵武。」</note>
 <note xml:id="g527" resp="sgsz">敵，猶相當。</note>
 <note xml:id="g528" resp="makita">擇木，語出《十三經‧左傳‧哀公十一年》：「鳥則擇木，木豈能擇鳥？」</note>
 <note rend="display:none;" xml:id="g529" resp="sgsz">《佛光‧解》頁5599：「思惟事物之理而能有所了知者，稱為解；係與『信』、『證』相對之詞。」</note>
@@ -1771,7 +1771,7 @@
 <note xml:id="g1769" resp="sgsz">色塵，指眼根、眼識所取所緣之對境。為五塵之一，六塵之一。詳見《佛光‧色塵》頁2549。</note>
 <note xml:id="g1770" resp="sgsz">神變，<name>梵</name>語<seg type="latin">vikurvaṇa</seg>，多指六神通中之神足通；廣義言之，則包括身、語、意。詳見《佛光‧神變》頁4261。</note>
 <note xml:id="g1771" resp="sgsz">登庸，舉用、任用人才。語出《尚書‧堯典》：「帝曰：『疇咨若時登庸？』」</note>
-<note xml:id="g1772" resp="sgsz">網漫相，<name>梵</name> jālāvanaddha-hasta-pāda，即縵網相，又作「指間雁王相」、「俱有網鞔相」、「指網縵相」。三十二相之一。詳見《佛光‧三十二相》頁507。</note>
+<note xml:id="g1772" resp="sgsz">網漫相，<seg type="note"><name>梵</name> jālāvanaddha-hasta-pāda，</seg>即縵網相，又作「指間雁王相」、「俱有網鞔相」、「指網縵相」。三十二相之一。詳見《佛光‧三十二相》頁507。</note>
 <note xml:id="g1773" resp="sgsz">賵，<seg type="pronunciation">音「fèng（ㄈㄥˋ）」，</seg>送給喪家助喪的物品。</note>
 <note xml:id="g1774" resp="sgsz">慁，<seg type="pronunciation">音「hùn（ㄏㄨㄣˋ）」，</seg>憂慮。語出《十三經‧左傳‧昭公六年》：「舍不為暴，主不慁賓。」</note>
 <note xml:id="g1775" resp="sgsz">五障，指女子五障──指女子無法成為梵天王、帝釋、魔王、轉輪聖王、佛等五者。詳見《佛光‧女子五障》頁917。</note>
@@ -2240,4 +2240,6 @@
 <note xml:id="g2237" resp="sgsz">特，單獨。<persName key="A022626">王念孫</persName>《廣雅疏證‧卷三上‧釋詁》頁79：「特，獨也。」</note>
 <note xml:id="g2238" resp="sgsz">翫，研習。《後漢書‧卷十八》頁697：「斯誠雄心尚武之幾，先志翫兵之日。」<persName key="A019637">李賢</persName>注：「翫，習也。」</note>
 <note xml:id="g2239" resp="sgsz">儉而難遵，非常節儉而難以遵守。語出《史記‧卷一百三十‧太史公自序》頁3289：「墨者儉而難遵，是以其事不可徧循；然其彊本節用，不可廢也。」</note>
+<note xml:id="g2240" resp="sgsz">所，所在。求，感應、尋找。</note>
+<note xml:id="g2241" resp="sgsz"></note>
 </div>
