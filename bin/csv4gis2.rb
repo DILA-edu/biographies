@@ -35,6 +35,14 @@ def convert_file(fn, dest)
     end
   end
 
+  node = doc.at_xpath('//persName')
+  return if node.nil?
+  if node.key? 'key'
+    $subject = node['key']
+  else
+    abort "#{fn} 第一個 persName 沒有 key"
+  end
+
   basename = File.basename(fn, '.xml')
   dest_f = File.join(dest, "#{basename}.csv")
   CSV.open(dest_f, "wb") do |csv|
@@ -84,6 +92,7 @@ def e_linkGrp(e, csv)
 
   text = 'The Person(s) '
   a = []
+  $persons = []
   e.xpath('ptr[@type="person"]').each do |c|
     s = e_ptr_person(c)
     a << s unless s.nil?
@@ -99,8 +108,13 @@ def e_linkGrp(e, csv)
     $no_coordinates << place_id
   end
 
-  $serno += 1
-  row = [$serno]
+  if $persons.include? $subject # 如果 linkGrp 裡有 傳主
+    $serno += 1
+    row = [$serno]
+  else
+    row = [nil]
+  end
+
   row << place_info['name']
   row << place_info['long']
   row << place_info['lat']
@@ -129,6 +143,7 @@ end
 
 def e_ptr_person(e)
   id = e['target'].sub(/^#(.*)$/, '\1')
+  $persons << id
   info = $people[id]
   return nil if info.nil?
   info['name']
