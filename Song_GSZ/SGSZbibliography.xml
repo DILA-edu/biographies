@@ -1357,6 +1357,12 @@
                     <edition>Beijing: Zhonghua 中華書局<date>1960</date>, 2 vols.</edition>
                     <abbr>廣韻  <hi>Guang yun</hi></abbr>
                 </bibl>
+                <bibl ana="book">
+                    <author><hi>Yu</hi>, Yue 俞樾</author>
+                    <title>古書疑義舉例五種</title>
+                    <edition>Shanghai: Zhonghua 中華書局<date>1957.01</date></edition>
+                    <abbr>古書疑義舉例五種</abbr>
+                </bibl>
             </listBibl>
         </body>
     </text>

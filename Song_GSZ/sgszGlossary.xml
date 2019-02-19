@@ -920,7 +920,7 @@
 <note xml:id="g918" resp="sgsz">正命，<seg type="note"><name>梵</name>語<seg type="latin">samyag-ājīva</seg>，</seg>八正道的第五支。指正確的謀生方式。詳見《佛光‧正命》頁1989。</note>
 <note xml:id="g919" resp="makita">常不輕，<seg type="note">又作「常被輕慢」、「不輕」。</seg>典出<ref cRef="CBETA_T09_n264_p184_c26">《添品妙法蓮華經》CBETA, T09, no. 0264, p. 184, c26</ref>：「爾時有一菩薩比丘，名常不輕。得大勢！以何因緣名常不輕？是比丘凡有所見，若比丘、比丘尼、優婆塞、優婆夷，皆悉禮拜讚歎。」</note>
 <note xml:id="g920" resp="makita">覆釜，指戒壇。<ref cRef="CBETA_T45_n1892_p808_c4-p808_c6">《關中創立戒壇圖經》CBETA, T45, no. 1892, p. 808, c4-6</ref>：「……<persName key="A002869">天帝釋</persName>又加覆釜形於壇上，以覆舍利；<name>大梵王</name>又以無價寶珠，置覆釜形上，供養舍利。」</note>
-<note xml:id="g921" resp="sgsz">隨計吏、隨計車，又作「隨計」，指舉子赴試。典出《史記‧卷一百二十一‧儒林列傳》頁3118-3119：「<persName>公孫弘</persName>為學官，悼道之鬱滯，乃請曰『……當與計偕，詣太常，得受業如弟子。……」指應徵召的人偕計吏同行，後以隨計稱赴舉。計吏，州郡掌簿籍並負責上計的官員。<seg type="note">其所乘車稱為「計車」。</seg></note>
+<note xml:id="g921" resp="sgsz">隨計吏、隨計車，又作「隨計」，指舉子赴試。典出《史記‧卷一百二十一‧儒林列傳》頁3118-3119：「<persName>公孫弘</persName>為學官，悼道之鬱滯，乃請曰『……當與計偕，詣太常，得受業如弟子。……」指應徵召的人偕計吏同行，後以隨計稱赴舉。計吏，州郡掌簿籍並負責上計的官員。<seg type="note">其所乘車稱為「計車」。</seg>比要隨計，指如比要般隨計吏而行。</note>
 <note xml:id="g922" resp="makita">羅漢齋，<seg type="note">又作「羅漢供」、「羅漢會」、「羅漢拜」，</seg>即讚歎羅漢之德，舉行供養之法會。詳見《佛光‧羅漢講》頁6680。</note>
 <note rend="display:none;" xml:id="g923" resp="sgsz">隷習，又作「肄習」，學習也。《宋書‧卷十四》：「<persName key="A002604">太祖</persName>在位，依故事肄習眾軍，兼用<date from-iso="-0201-02-24" key="j16477011801742" to-iso="+0220-11-25"><name>漢</name></date>、<date from-iso="+0220-12-11" key="j18017581818249" to-iso="+0266-02-04"><name>魏</name></date>之禮。」</note>
 <note xml:id="g924" resp="sgsz">庀，<seg type="pronunciation">音「pǐ（ㄆㄧˇ）」，</seg>具備。</note>
@@ -2242,6 +2242,6 @@
 <note xml:id="g2239" resp="sgsz">儉而難遵，非常節儉而難以遵守。語出《史記‧卷一百三十‧太史公自序》頁3289：「墨者儉而難遵，是以其事不可徧循；然其彊本節用，不可廢也。」</note>
 <note xml:id="g2240" resp="sgsz">所，所在。求，感應、尋找。</note>
 <note xml:id="g2241" resp="sgsz">庭誥，猶家訓。《宋書‧卷七十三‧顏延之》頁1893：「庭誥者，施於閨庭之內，謂不遠也。」</note>
-<note xml:id="g2242" resp="sgsz">比要，</note>
-<note xml:id="g2243" resp="sgsz"></note>
+<note xml:id="g2242" resp="sgsz">比要，指戶口、財務的簿籍。《周禮‧地官司徒第二‧小司徒》：「及三年則大比，大比則受邦國之比要。」<persName key="A009224">鄭<roleName>司農</roleName></persName>云：「五家為比，故以比為名。……要，謂其簿。」《古書疑義舉例五種》頁137：「比要者，大比之簿籍也。」《新唐書‧卷四十六‧百官志》頁1200：「比部郎中、員外郎，各一人，掌句會內外賦斂、經費、俸祿、公廨、勳賜、贓贖、徒役課程、逋欠之物，及軍資、械器、和糴、屯收所入。」</note>
+<note xml:id="g2243" resp="sgsz">器能，猶才能。《漢書‧卷六十五‧東方朔傳》頁2863：「<persName key="A002147">武帝</persName>既招英俊，程其器能，用之如不及。」</note>
 </div>
