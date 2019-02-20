@@ -6,7 +6,7 @@
 * Ming_GSZ 明高僧傳
 * Mingsengzhuanchao 名僧傳抄
 * Song_GSZ 宋高僧傳
-* Tang_GSZ 唐高僧傳
+* Tang_GSZ 續高僧傳
 * Xinxu_GSZ 新續高僧傳
 * biQiuNi 比丘尼傳
 * chuSanZangJiJi 出三藏記集
