@@ -1,30 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="雜識">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>宋虎邱雲巖寺沙門釋元淨傳思悅 (From CBETA edition of 新續高僧傳 卷 060）</title>
-                <author>喻謙 Yu Qian</author>
-                <respStmt>
-                    <resp>Markup</resp>
-                    <name>張伯雍 Chang Po-Yung</name>
-                </respStmt>
-                <principal>馬德偉 Marcus Bingenheimer</principal>
-            </titleStmt>
-            <publicationStmt>
-                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div>
-                <head>
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="雜識">
+<lb
+ed="B" n=""/><anchor n="B.27.0151"/>
                     <head>宋虎邱雲巖寺沙門釋元淨傳<note place="inline">思悅</note>
                     </head>
-                </head>
                 <p xml:id="pB27p0438a1701">釋元淨字雪庭雙溪人具正法眼機鋒敏妙為圓悟弟子嘗謁
 <lb ed="B" n="0438a18"/>郡守以詩僧自通守書其刺云詩僧焉敢謁王侯淨續云大海
 <lb ed="B" n="0438a19"/>終須納細流昨夜虎邱山上望一輪明月照蘇州守見之出坳
@@ -40,7 +19,4 @@
                     <ptr target="#" type="person"/>
                     <ptr target="#" type="person"/>
                 </linkGrp>
-            </div>
-        </body>
-    </text>
-</TEI>
+</div>

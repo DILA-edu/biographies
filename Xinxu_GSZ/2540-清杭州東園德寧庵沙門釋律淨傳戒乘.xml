@@ -1,30 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="淨讀">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>清杭州東園德寧庵沙門釋律淨傳戒乘 (From CBETA edition of 新續高僧傳 卷 047）</title>
-                <author>喻謙 Yu Qian</author>
-                <respStmt>
-                    <resp>Markup</resp>
-                    <name>張伯雍 Chang Po-Yung</name>
-                </respStmt>
-                <principal>馬德偉 Marcus Bingenheimer</principal>
-            </titleStmt>
-            <publicationStmt>
-                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div>
-                <head>
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="淨讀">
+<lb
+ed="B" n=""/><anchor n="B.27.0151"/>
                     <head>清杭州東園德寧庵沙門釋律淨傳<note place="inline">戒乘</note>
                     </head>
-                </head>
                 <p xml:id="pB27p0351b0101">釋律淨字明徹姓錢氏德清人也年四十始出家初投餘杭慈
 <lb ed="B" n="0351b02"/>聖復移束園德寧虔誦法華日以為常二十餘年靡有間缺一
 <lb ed="B" n="0351b03"/>日道侶戒乘謂之曰汝道心如此堅固若更以念佛回向淨土
@@ -43,7 +22,4 @@
                     <ptr target="#" type="person"/>
                     <ptr target="#" type="person"/>
                 </linkGrp>
-            </div>
-        </body>
-    </text>
-</TEI>
+</div>

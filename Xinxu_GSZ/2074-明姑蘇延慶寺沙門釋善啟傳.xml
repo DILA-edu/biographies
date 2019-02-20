@@ -1,29 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="義解">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>明姑蘇延慶寺沙門釋善啟傳 (From CBETA edition of 新續高僧傳 卷 006）</title>
-                <author>喻謙 Yu Qian</author>
-                <respStmt>
-                    <resp>Markup</resp>
-                    <name>張伯雍 Chang Po-Yung</name>
-                </respStmt>
-                <principal>馬德偉 Marcus Bingenheimer</principal>
-            </titleStmt>
-            <publicationStmt>
-                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div>
-                <head>
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="義解">
+<lb
+ed="B" n=""/><anchor n="B.27.0151"/>
                     <head>明姑蘇延慶寺沙門釋善啟傳</head>
-                </head>
                 <p xml:id="pB27p0074b1501">釋善啟字東白別號曉庵長洲楊氏子世為宦族甫能言教誦
 <lb ed="B" n="0074b16"/>彌陀如舊習父母異之知是法器捨入永茂院無幾薙染受具
 <lb ed="B" n="0074b17"/>屏跡龍山研窮大藏百氏諸史無不精究永樂戊子出世延慶
@@ -38,7 +17,4 @@
                     <ptr target="#" type="person"/>
                     <ptr target="#" type="person"/>
                 </linkGrp>
-            </div>
-        </body>
-    </text>
-</TEI>
+</div>

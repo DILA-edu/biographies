@@ -1,29 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="義解">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>南宋餘杭上天竺講寺沙門釋善月傳 (From CBETA edition of 新續高僧傳 卷 003）</title>
-                <author>喻謙 Yu Qian</author>
-                <respStmt>
-                    <resp>Markup</resp>
-                    <name>張伯雍 Chang Po-Yung</name>
-                </respStmt>
-                <principal>馬德偉 Marcus Bingenheimer</principal>
-            </titleStmt>
-            <publicationStmt>
-                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div>
-                <head>
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="義解">
+<lb
+ed="B" n=""/><anchor n="B.27.0151"/>
                     <head>南宋餘杭上天竺講寺沙門釋善月傳</head>
-                </head>
                 <p xml:id="pB27p0048b1901">釋善月字光遠號柏庭姓方氏定海人母夢月墮懷生之夕白
 <lb ed="B" n="0048b20"/>光滿室因以名焉初學語嘗合拿道南無字甫成童其父編六
 <pb ed="B" xml:id="B27.0151.0049a" n="0049a"/>
@@ -63,7 +42,4 @@
                     <ptr target="#" type="person"/>
                     <ptr target="#" type="person"/>
                 </linkGrp>
-            </div>
-        </body>
-    </text>
-</TEI>
+</div>

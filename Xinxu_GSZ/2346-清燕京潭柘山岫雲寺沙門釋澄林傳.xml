@@ -1,29 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="明律">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>清燕京潭柘山岫雲寺沙門釋澄林傳 (From CBETA edition of 新續高僧傳 卷 030）</title>
-                <author>喻謙 Yu Qian</author>
-                <respStmt>
-                    <resp>Markup</resp>
-                    <name>張伯雍 Chang Po-Yung</name>
-                </respStmt>
-                <principal>馬德偉 Marcus Bingenheimer</principal>
-            </titleStmt>
-            <publicationStmt>
-                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div>
-                <head>
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="明律">
+<lb
+ed="B" n=""/><anchor n="B.27.0151"/>
                     <head>清燕京潭柘山岫雲寺沙門釋澄林傳</head>
-                </head>
                 <p xml:id="pB27p0249b1101">釋澄林字洞初姓張氏武清人也賦性慈祥不傷生物初投京
 <lb ed="B" n="0249b12"/>師觀音閣薙染復從潭柘振寰受具足徧<g ref="#CB33352">󸉈</g>講肆討論性相兼
 <lb ed="B" n="0249b13"/>叩禪宗參究心要雖出入宗教而律身端嚴語不妄發衣缽自
@@ -46,7 +25,4 @@
                     <ptr target="#" type="person"/>
                     <ptr target="#" type="person"/>
                 </linkGrp>
-            </div>
-        </body>
-    </text>
-</TEI>
+</div>

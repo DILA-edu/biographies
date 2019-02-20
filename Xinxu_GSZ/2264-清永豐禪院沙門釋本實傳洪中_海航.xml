@@ -1,30 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="習禪">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>清永豐禪院沙門釋本實傳洪中_海航 (From CBETA edition of 新續高僧傳 卷 023）</title>
-                <author>喻謙 Yu Qian</author>
-                <respStmt>
-                    <resp>Markup</resp>
-                    <name>張伯雍 Chang Po-Yung</name>
-                </respStmt>
-                <principal>馬德偉 Marcus Bingenheimer</principal>
-            </titleStmt>
-            <publicationStmt>
-                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div>
-                <head>
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪">
+<lb
+ed="B" n=""/><anchor n="B.27.0151"/>
                     <head>清永豐禪院沙門釋本實傳<note place="inline">洪中　海航</note>
                     </head>
-                </head>
                 <p xml:id="pB27p0195a1301">釋本實字性空姓戴氏尋甸人也生而岐嶷穎異過人幼孤依
 <lb ed="B" n="0195a14"/>母撫育少習詩書志軼塵儕及長禮古林薙髮誓持法華跪誦
 <lb ed="B" n="0195a15"/>十載乃從和雅受具嘗閱楞嚴而疑之因參鐘靈梵公示以萬
@@ -52,7 +31,4 @@
                     <ptr target="#" type="person"/>
                     <ptr target="#" type="person"/>
                 </linkGrp>
-            </div>
-        </body>
-    </text>
-</TEI>
+</div>

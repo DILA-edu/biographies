@@ -1,29 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="靈感">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>宋上海靜安寺沙門釋智儼傳 (From CBETA edition of 新續高僧傳 卷 036）</title>
-                <author>喻謙 Yu Qian</author>
-                <respStmt>
-                    <resp>Markup</resp>
-                    <name>張伯雍 Chang Po-Yung</name>
-                </respStmt>
-                <principal>馬德偉 Marcus Bingenheimer</principal>
-            </titleStmt>
-            <publicationStmt>
-                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div>
-                <head>
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="靈感">
+<lb
+ed="B" n=""/><anchor n="B.27.0151"/>
                     <head>宋上海靜安寺沙門釋智儼傳</head>
-                </head>
                 <p xml:id="pB27p0278b1801">釋智儼者忘其姓宇俗稱鰕子和尚居靜安寺舊俗七月望日
 <lb ed="B" n="0278b19"/>為中元節村郭設會寺僧赴請殆盡唯儼在寺有胥村人來寺
 <lb ed="B" n="0278b20"/>因請偕之會所舟行見捕鰕者儼從買一斗索水啖之謂漁者
@@ -39,7 +18,4 @@
                     <ptr target="#" type="person"/>
                     <ptr target="#" type="person"/>
                 </linkGrp>
-            </div>
-        </body>
-    </text>
-</TEI>
+</div>

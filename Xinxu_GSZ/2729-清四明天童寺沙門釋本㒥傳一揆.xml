@@ -1,30 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="雜識">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>清四明天童寺沙門釋本㒥傳一揆 (From CBETA edition of 新續高僧傳 卷 063）</title>
-                <author>喻謙 Yu Qian</author>
-                <respStmt>
-                    <resp>Markup</resp>
-                    <name>張伯雍 Chang Po-Yung</name>
-                </respStmt>
-                <principal>馬德偉 Marcus Bingenheimer</principal>
-            </titleStmt>
-            <publicationStmt>
-                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div>
-                <head>
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="雜識">
+<lb
+ed="B" n=""/><anchor n="B.27.0151"/>
                     <head>清四明天童寺沙門釋本<g ref="#CB21184">㒥</g>傳<note place="inline">一揆</note>
                     </head>
-                </head>
                 <p xml:id="pB27p0457a1001">釋本<g ref="#CB21184">㒥</g>字遠菴姓陸氏崑山人也襁褓即孤依母與兄因感嫂
 <lb ed="B" n="0457a11"/>亡屍動懼而告母求出塵世母曰我昔見天童僧行不凡汝果
 <lb ed="B" n="0457a12"/>有志可往從之即依命翦髮徑投天童時明崇禎壬午六月初
@@ -59,7 +38,4 @@
                     <ptr target="#" type="person"/>
                     <ptr target="#" type="person"/>
                 </linkGrp>
-            </div>
-        </body>
-    </text>
-</TEI>
+</div>

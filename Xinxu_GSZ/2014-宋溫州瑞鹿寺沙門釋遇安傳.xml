@@ -1,29 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="義解">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>宋溫州瑞鹿寺沙門釋遇安傳 (From CBETA edition of 新續高僧傳 卷 003）</title>
-                <author>喻謙 Yu Qian</author>
-                <respStmt>
-                    <resp>Markup</resp>
-                    <name>張伯雍 Chang Po-Yung</name>
-                </respStmt>
-                <principal>馬德偉 Marcus Bingenheimer</principal>
-            </titleStmt>
-            <publicationStmt>
-                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div>
-                <head>
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="義解">
+<lb
+ed="B" n=""/><anchor n="B.27.0151"/>
                     <head>宋溫州瑞鹿寺沙門釋遇安傳</head>
-                </head>
                 <p xml:id="pB27p0043b1001">釋遇安者閩之福州人也其姓字不詳初出家時習天台教一
 <lb ed="B" n="0043b11"/>日讀首楞嚴經至知見立知即無明本知見無見斯即涅槃忽
 <lb ed="B" n="0043b12"/>焉有省謂此當以知見立讀知即無明本為句知見無讀見斯
@@ -55,7 +34,4 @@
                     <ptr target="#" type="person"/>
                     <ptr target="#" type="person"/>
                 </linkGrp>
-            </div>
-        </body>
-    </text>
-</TEI>
+</div>

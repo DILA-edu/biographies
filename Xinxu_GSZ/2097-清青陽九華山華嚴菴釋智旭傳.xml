@@ -1,29 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="義解">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>清青陽九華山華嚴菴釋智旭傳 (From CBETA edition of 新續高僧傳 卷 009）</title>
-                <author>喻謙 Yu Qian</author>
-                <respStmt>
-                    <resp>Markup</resp>
-                    <name>張伯雍 Chang Po-Yung</name>
-                </respStmt>
-                <principal>馬德偉 Marcus Bingenheimer</principal>
-            </titleStmt>
-            <publicationStmt>
-                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div>
-                <head>
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="義解">
+<lb
+ed="B" n=""/><anchor n="B.27.0151"/>
                     <head>清青陽九華山華嚴菴釋智旭傳</head>
-                </head>
                 <p xml:id="pB27p0094a1201">釋智旭字素華晚稱藕益老人姓鍾氏吳人也父岐仲持大悲
 <lb ed="B" n="0094a13"/>咒十年母金氏夢大士抱兒授之遂生子旭七歲聞父訓甘蔬
 <lb ed="B" n="0094a14"/>食不逐腥羶年十二就傅讀書日聆師說即以聖學自任作闢
@@ -89,7 +68,4 @@
                     <ptr target="#" type="person"/>
                     <ptr target="#" type="person"/>
                 </linkGrp>
-            </div>
-        </body>
-    </text>
-</TEI>
+</div>

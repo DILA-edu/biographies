@@ -1,30 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="義解">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>元紹興雲門寺沙門釋允若傳大山恢 (From CBETA edition of 新續高僧傳 卷 004）</title>
-                <author>喻謙 Yu Qian</author>
-                <respStmt>
-                    <resp>Markup</resp>
-                    <name>張伯雍 Chang Po-Yung</name>
-                </respStmt>
-                <principal>馬德偉 Marcus Bingenheimer</principal>
-            </titleStmt>
-            <publicationStmt>
-                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div>
-                <head>
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="義解">
+<lb
+ed="B" n=""/><anchor n="B.27.0151"/>
                     <head>元紹興雲門寺沙門釋允若傳<note place="inline">大山恢</note>
                     </head>
-                </head>
                 <p xml:id="pB27p0056a0901">釋允若字季蘅號浮休因雲門之傍有若耶溪後又號若耶郡
 <lb ed="B" n="0056a10"/>之相里人年九歲能通春秋大義父母鍾愛之稍長翛然有絕
 <lb ed="B" n="0056a11"/>塵之趣遂依雲門元十五祝髮為大僧隨渡濤江首謁大山恢
@@ -56,7 +35,4 @@
                     <ptr target="#" type="person"/>
                     <ptr target="#" type="person"/>
                 </linkGrp>
-            </div>
-        </body>
-    </text>
-</TEI>
+</div>

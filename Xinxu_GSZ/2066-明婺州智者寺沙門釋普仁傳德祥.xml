@@ -1,30 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="義解">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>明婺州智者寺沙門釋普仁傳德祥 (From CBETA edition of 新續高僧傳 卷 005）</title>
-                <author>喻謙 Yu Qian</author>
-                <respStmt>
-                    <resp>Markup</resp>
-                    <name>張伯雍 Chang Po-Yung</name>
-                </respStmt>
-                <principal>馬德偉 Marcus Bingenheimer</principal>
-            </titleStmt>
-            <publicationStmt>
-                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div>
-                <head>
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="義解">
+<lb
+ed="B" n=""/><anchor n="B.27.0151"/>
                     <head>明婺州智者寺沙門釋普仁傳<note place="inline">德祥</note>
                     </head>
-                </head>
                 <p xml:id="pB27p0071a1301">釋普仁字德隱姓趙氏蘭溪人也性孤峭年十歲便有出塵之
 <lb ed="B" n="0071a14"/>想依金華寶石演法院月公祝髮及受具乃慨然求道危坐達
 <lb ed="B" n="0071a15"/>旦期息妄緣時隣院智者住山了然義道價甚高仁入室問答
@@ -44,7 +23,4 @@
                     <ptr target="#" type="person"/>
                     <ptr target="#" type="person"/>
                 </linkGrp>
-            </div>
-        </body>
-    </text>
-</TEI>
+</div>

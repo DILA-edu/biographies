@@ -1,31 +1,10 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="靈感">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>明雲南笻竹寺沙門釋圓旭傳陝西僧 (From CBETA edition of 新續高僧傳 卷 037）</title>
-                <author>喻謙 Yu Qian</author>
-                <respStmt>
-                    <resp>Markup</resp>
-                    <name>張伯雍 Chang Po-Yung</name>
-                </respStmt>
-                <principal>馬德偉 Marcus Bingenheimer</principal>
-            </titleStmt>
-            <publicationStmt>
-                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div>
-                <head>
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="靈感">
+<lb
+ed="B" n=""/><anchor n="B.27.0151"/>
                     <head>明雲南笻竹寺沙門釋圓旭傳<note place="inline">
                             <anchor xml:id="beg_145" type="cb-app"/>陝<anchor xml:id="end_145"/>西僧</note>
                     </head>
-                </head>
                 <p xml:id="pB27p0288b0301">釋圓旭字萬松通海人少機敏負奇氣既捨俗務修持宗乘教
 <lb ed="B" n="0288b04"/>觀靡不博通周覽名山行蹤所至勝境殆遍嘗慨然慕濟顛之
 <lb ed="B" n="0288b05"/>為人故任性飄忽倜儻怪特久亦自得明崇禎間還滇憇於笻
@@ -49,7 +28,4 @@
                     <ptr target="#" type="person"/>
                     <ptr target="#" type="person"/>
                 </linkGrp>
-            </div>
-        </body>
-    </text>
-</TEI>
+</div>

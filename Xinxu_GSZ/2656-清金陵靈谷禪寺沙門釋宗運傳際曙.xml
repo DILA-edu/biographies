@@ -1,30 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="興福">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>清金陵靈谷禪寺沙門釋宗運傳際曙 (From CBETA edition of 新續高僧傳 卷 057）</title>
-                <author>喻謙 Yu Qian</author>
-                <respStmt>
-                    <resp>Markup</resp>
-                    <name>張伯雍 Chang Po-Yung</name>
-                </respStmt>
-                <principal>馬德偉 Marcus Bingenheimer</principal>
-            </titleStmt>
-            <publicationStmt>
-                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div>
-                <head>
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福">
+<lb
+ed="B" n=""/><anchor n="B.27.0151"/>
                     <head>清金陵靈谷禪寺沙門釋宗運傳<note place="inline">際曙</note>
                     </head>
-                </head>
                 <p xml:id="pB27p0420a0101">釋宗運字于南師事南屏豁堂晝夜密參豁公印可即付以法
 <lb ed="B" n="0420a02"/>大興靈谷弘開講演時經兵燹之餘山中幽寂陰雨啾啾夜聞
 <lb ed="B" n="0420a03"/>鬼哭運至攝以道力利濟幽宴其聲遂絕值歲荒獨錫走句曲
@@ -42,7 +21,4 @@
                     <ptr target="#" type="person"/>
                     <ptr target="#" type="person"/>
                 </linkGrp>
-            </div>
-        </body>
-    </text>
-</TEI>
+</div>

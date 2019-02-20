@@ -1,30 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="義解">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>明清涼山竹林寺沙門釋鎮澄傳小山_芺巖 (From CBETA edition of 新續高僧傳 卷 007）</title>
-                <author>喻謙 Yu Qian</author>
-                <respStmt>
-                    <resp>Markup</resp>
-                    <name>張伯雍 Chang Po-Yung</name>
-                </respStmt>
-                <principal>馬德偉 Marcus Bingenheimer</principal>
-            </titleStmt>
-            <publicationStmt>
-                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div>
-                <head>
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="義解">
+<lb
+ed="B" n=""/><anchor n="B.27.0151"/>
                     <head>明清涼山竹林寺沙門釋鎮澄傳<note place="inline">小山　芺巖</note>
                     </head>
-                </head>
                 <p xml:id="pB27p0087b0501">釋鎮澄字空印姓李氏苑平人也父仲武母李氏夢一僧持錫
 <lb ed="B" n="0087b06"/>入室覺而遂生幼性聰慧不類凡兒嬉戲喜作膜拜年十五投
 <lb ed="B" n="0087b07"/>西山廣應寺禮引公得度為沙彌服勤三年登堂受具一江灃
@@ -56,7 +35,4 @@
                     <ptr target="#" type="person"/>
                     <ptr target="#" type="person"/>
                 </linkGrp>
-            </div>
-        </body>
-    </text>
-</TEI>
+</div>

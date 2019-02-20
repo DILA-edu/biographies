@@ -1,32 +1,10 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="護法">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>元磐山甘泉暜濟寺沙門釋祥邁傳辯的達拔合思八_福裕_從超_德亨_從倫
-_圓胤_至溫_明津_本璉_道雲_了詢_慶規_行育_道壽_相叡_善朗_祖珪_元一_貴吉祥_倫吉祥 (From CBETA edition of 新續高僧傳 卷 033）</title>
-                <author>喻謙 Yu Qian</author>
-                <respStmt>
-                    <resp>Markup</resp>
-                    <name>張伯雍 Chang Po-Yung</name>
-                </respStmt>
-                <principal>馬德偉 Marcus Bingenheimer</principal>
-            </titleStmt>
-            <publicationStmt>
-                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div>
-                <head>
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="護法">
+<lb
+ed="B" n=""/><anchor n="B.27.0151"/>
                     <head>元磐山甘泉暜濟寺沙門釋祥邁傳<note place="inline">辯的達拔合思八　福裕　從超　德亨　從倫
 <lb ed="B" n="0263b06"/>　圓胤　至溫　明津　本璉　道雲　了詢　慶規　行育　道壽　相叡　善朗　祖珪　元一　貴吉祥　倫吉祥</note>
                     </head>
-                </head>
                 <p xml:id="pB27p0263b0701">釋祥邁字如意姓延氏太原人系出延讚累世纓冕播遷代郡
 <lb ed="B" n="0263b08"/>因家焉九歲落紺隨師請業棲隱磐山怡性林泉博通內外尤
 <lb ed="B" n="0263b09"/>善屬文凡所撰述辯才無礙衛道功多至元中全真道士丘處
@@ -59,7 +37,4 @@ _圓胤_至溫_明津_本璉_道雲_了詢_慶規_行育_道壽_相叡_善朗_�
                     <ptr target="#" type="person"/>
                     <ptr target="#" type="person"/>
                 </linkGrp>
-            </div>
-        </body>
-    </text>
-</TEI>
+</div>

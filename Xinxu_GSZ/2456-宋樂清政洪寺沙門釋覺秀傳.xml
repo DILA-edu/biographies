@@ -1,29 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="淨讀">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>宋樂清政洪寺沙門釋覺秀傳 (From CBETA edition of 新續高僧傳 卷 041）</title>
-                <author>喻謙 Yu Qian</author>
-                <respStmt>
-                    <resp>Markup</resp>
-                    <name>張伯雍 Chang Po-Yung</name>
-                </respStmt>
-                <principal>馬德偉 Marcus Bingenheimer</principal>
-            </titleStmt>
-            <publicationStmt>
-                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div>
-                <head>
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="淨讀">
+<lb
+ed="B" n=""/><anchor n="B.27.0151"/>
                     <head>宋樂清政洪寺沙門釋覺秀傳</head>
-                </head>
                 <p xml:id="pB27p0312a0701">釋覺秀姓陳氏曹田人也依政洪寺剃度參慧公看十不二門
 <lb ed="B" n="0312a08"/>至一切諸法無非心性一性無性三千宛然忽焉大悟嘗以布
 <lb ed="B" n="0312a09"/>袋盛經律卷往來浙閩諸山或問此中所盛何物秀曰十界十
@@ -36,7 +15,4 @@
                     <ptr target="#" type="person"/>
                     <ptr target="#" type="person"/>
                 </linkGrp>
-            </div>
-        </body>
-    </text>
-</TEI>
+</div>

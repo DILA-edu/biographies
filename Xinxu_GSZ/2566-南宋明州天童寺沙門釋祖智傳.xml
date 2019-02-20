@@ -1,29 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="興福">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>南宋明州天童寺沙門釋祖智傳 (From CBETA edition of 新續高僧傳 卷 049）</title>
-                <author>喻謙 Yu Qian</author>
-                <respStmt>
-                    <resp>Markup</resp>
-                    <name>張伯雍 Chang Po-Yung</name>
-                </respStmt>
-                <principal>馬德偉 Marcus Bingenheimer</principal>
-            </titleStmt>
-            <publicationStmt>
-                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div>
-                <head>
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福">
+<lb
+ed="B" n=""/><anchor n="B.27.0151"/>
                     <head>南宋明州天童寺沙門釋祖智傳</head>
-                </head>
                 <p xml:id="pB27p0365b0701">釋祖智字別山姓楊氏順慶人也年十四得度初聞僧誦六巖
 <lb ed="B" n="0365b08"/>語悅之時巖住蘇之穹窿亟往從焉因閱華嚴經彌勒樓閣入
 <lb ed="B" n="0365b09"/>已還閉之語恍如夢覺越二年徧叩浙翁琰無際派高原泉湻
@@ -42,7 +21,4 @@
                     <ptr target="#" type="person"/>
                     <ptr target="#" type="person"/>
                 </linkGrp>
-            </div>
-        </body>
-    </text>
-</TEI>
+</div>

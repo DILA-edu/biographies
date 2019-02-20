@@ -1,30 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="淨讀">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>清善化護國寺沙門釋慧圓傳開慧_靈一 (From CBETA edition of 新續高僧傳 卷 048）</title>
-                <author>喻謙 Yu Qian</author>
-                <respStmt>
-                    <resp>Markup</resp>
-                    <name>張伯雍 Chang Po-Yung</name>
-                </respStmt>
-                <principal>馬德偉 Marcus Bingenheimer</principal>
-            </titleStmt>
-            <publicationStmt>
-                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div>
-                <head>
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="淨讀">
+<lb
+ed="B" n=""/><anchor n="B.27.0151"/>
                     <head>清善化護國寺沙門釋慧圓傳<note place="inline">開慧　靈一</note>
                     </head>
-                </head>
                 <p xml:id="pB27p0356b1401">釋慧圓姓徐氏湘陰人也出家時年二十四初兩目朦朧發心
 <lb ed="B" n="0356b15"/>持戒依善化護國寺以清煩慮虔誠誦佛尋受具於南嶽祝聖
 <lb ed="B" n="0356b16"/>已而反寺專志禮拜忽焉三載兩目復明由是化導數十百人
@@ -46,7 +25,4 @@
                     <ptr target="#" type="person"/>
                     <ptr target="#" type="person"/>
                 </linkGrp>
-            </div>
-        </body>
-    </text>
-</TEI>
+</div>

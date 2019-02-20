@@ -1,29 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="淨讀">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>明南嶽上封寺沙門釋法祥傳 (From CBETA edition of 新續高僧傳 卷 044）</title>
-                <author>喻謙 Yu Qian</author>
-                <respStmt>
-                    <resp>Markup</resp>
-                    <name>張伯雍 Chang Po-Yung</name>
-                </respStmt>
-                <principal>馬德偉 Marcus Bingenheimer</principal>
-            </titleStmt>
-            <publicationStmt>
-                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div>
-                <head>
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="淨讀">
+<lb
+ed="B" n=""/><anchor n="B.27.0151"/>
                     <head>明南嶽上封寺沙門釋法祥傳</head>
-                </head>
                 <p xml:id="pB27p0330b1201">釋法祥字瑞光別號隱南姓周氏嵊人也生而超曠長事儒術
 <lb ed="B" n="0330b13"/>屢試不第慨然有出世志從其叔遊京師往參嘯巖老人巖示
 <lb ed="B" n="0330b14"/>以向上且謂念佛法門最為捷要祥慮專服膺慎擬書紳頃之
@@ -61,7 +40,4 @@
                     <ptr target="#" type="person"/>
                     <ptr target="#" type="person"/>
                 </linkGrp>
-            </div>
-        </body>
-    </text>
-</TEI>
+</div>

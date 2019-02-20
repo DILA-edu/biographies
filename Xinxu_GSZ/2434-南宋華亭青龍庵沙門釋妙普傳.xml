@@ -1,29 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="遺身">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>南宋華亭青龍庵沙門釋妙普傳 (From CBETA edition of 新續高僧傳 卷 039）</title>
-                <author>喻謙 Yu Qian</author>
-                <respStmt>
-                    <resp>Markup</resp>
-                    <name>張伯雍 Chang Po-Yung</name>
-                </respStmt>
-                <principal>馬德偉 Marcus Bingenheimer</principal>
-            </titleStmt>
-            <publicationStmt>
-                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div>
-                <head>
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="遺身">
+<lb
+ed="B" n=""/><anchor n="B.27.0151"/>
                     <head>南宋華亭青龍庵沙門釋妙普傳</head>
-                </head>
                 <p xml:id="pB27p0302a1901">釋妙普號性空漢州人久依黃龍死心密受心印品格高古氣
 <lb ed="B" n="0302a20"/>宇宏邁因慕船子遺風抵秀水結庵於青龍之野別無長物唯
 <pb ed="B" xml:id="B27.0151.0302b" n="0302b"/>
@@ -63,7 +42,4 @@
                     <ptr target="#" type="person"/>
                     <ptr target="#" type="person"/>
                 </linkGrp>
-            </div>
-        </body>
-    </text>
-</TEI>
+</div>

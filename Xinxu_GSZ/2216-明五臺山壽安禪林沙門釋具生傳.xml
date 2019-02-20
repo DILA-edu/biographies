@@ -1,29 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="習禪">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>明五臺山壽安禪林沙門釋具生傳 (From CBETA edition of 新續高僧傳 卷 018）</title>
-                <author>喻謙 Yu Qian</author>
-                <respStmt>
-                    <resp>Markup</resp>
-                    <name>張伯雍 Chang Po-Yung</name>
-                </respStmt>
-                <principal>馬德偉 Marcus Bingenheimer</principal>
-            </titleStmt>
-            <publicationStmt>
-                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div>
-                <head>
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪">
+<lb
+ed="B" n=""/><anchor n="B.27.0151"/>
                     <head>明五臺山壽安禪林沙門釋具生傳</head>
-                </head>
                 <p xml:id="pB27p0163b0701">釋具生者本名具生吉祥中天竺迦維衛國人行二字略也剎
 <lb ed="B" n="0163b08"/>地利種三藏五明無不徹究自謂言語非究竟法乃入雪山習
 <lb ed="B" n="0163b09"/>定十有二年得奢摩他求證於迦羅室利尊者尊者可之元末
@@ -46,7 +25,4 @@
                     <ptr target="#" type="person"/>
                     <ptr target="#" type="person"/>
                 </linkGrp>
-            </div>
-        </body>
-    </text>
-</TEI>
+</div>

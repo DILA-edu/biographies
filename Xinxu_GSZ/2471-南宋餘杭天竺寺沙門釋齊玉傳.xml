@@ -1,29 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="淨讀">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>南宋餘杭天竺寺沙門釋齊玉傳 (From CBETA edition of 新續高僧傳 卷 042）</title>
-                <author>喻謙 Yu Qian</author>
-                <respStmt>
-                    <resp>Markup</resp>
-                    <name>張伯雍 Chang Po-Yung</name>
-                </respStmt>
-                <principal>馬德偉 Marcus Bingenheimer</principal>
-            </titleStmt>
-            <publicationStmt>
-                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div>
-                <head>
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="淨讀">
+<lb
+ed="B" n=""/><anchor n="B.27.0151"/>
                     <head>南宋餘杭天竺寺沙門釋齊玉傳</head>
-                </head>
                 <p xml:id="pB27p0317b1701">釋齊玉號覺慧姓莫氏霅川人家世顯宦獨棄俗榮蚤親釋學
 <lb ed="B" n="0317b18"/>日記數千言始參祥符神智後依慧辨一日赴僧次有施予者
 <lb ed="B" n="0317b19"/>辭遜之或問故答曰誠不欲以五千之利而喪一日之功慈辨
@@ -49,7 +28,4 @@
                     <ptr target="#" type="person"/>
                     <ptr target="#" type="person"/>
                 </linkGrp>
-            </div>
-        </body>
-    </text>
-</TEI>
+</div>

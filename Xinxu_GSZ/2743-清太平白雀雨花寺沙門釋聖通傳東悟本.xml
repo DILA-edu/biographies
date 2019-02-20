@@ -1,30 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="雜識">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>清太平白雀雨花寺沙門釋聖通傳東悟本 (From CBETA edition of 新續高僧傳 卷 064）</title>
-                <author>喻謙 Yu Qian</author>
-                <respStmt>
-                    <resp>Markup</resp>
-                    <name>張伯雍 Chang Po-Yung</name>
-                </respStmt>
-                <principal>馬德偉 Marcus Bingenheimer</principal>
-            </titleStmt>
-            <publicationStmt>
-                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div>
-                <head>
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="雜識">
+<lb
+ed="B" n=""/><anchor n="B.27.0151"/>
                     <head>清太平白雀雨花寺沙門釋聖通傳<note place="inline">東悟本</note>
                     </head>
-                </head>
                 <p xml:id="pB27p0465b0401">釋聖通字貫一晚號拙存姓王氏常熟人生有靈兆少懷逸志
 <lb ed="B" n="0465b05"/>長就外傅略加指授即便成誦因病廢業遂專心學佛往依城
 <lb ed="B" n="0465b06"/>中長壽庵履貞薙染素風老人為寺尊宿喜其穎異詩法書畫
@@ -68,7 +47,4 @@
                     <ptr target="#" type="person"/>
                     <ptr target="#" type="person"/>
                 </linkGrp>
-            </div>
-        </body>
-    </text>
-</TEI>
+</div>

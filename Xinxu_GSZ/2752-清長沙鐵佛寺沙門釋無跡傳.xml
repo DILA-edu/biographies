@@ -1,29 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="雜識">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>清長沙鐵佛寺沙門釋無跡傳 (From CBETA edition of 新續高僧傳 卷 065）</title>
-                <author>喻謙 Yu Qian</author>
-                <respStmt>
-                    <resp>Markup</resp>
-                    <name>張伯雍 Chang Po-Yung</name>
-                </respStmt>
-                <principal>馬德偉 Marcus Bingenheimer</principal>
-            </titleStmt>
-            <publicationStmt>
-                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div>
-                <head>
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="雜識">
+<lb
+ed="B" n=""/><anchor n="B.27.0151"/>
                     <head>清長沙鐵佛寺沙門釋無跡傳</head>
-                </head>
                 <p xml:id="pB27p0470a1201">釋無跡字寄塵又號八九山人湘潭彭氏子幼寄佛寺便從薙
 <lb ed="B" n="0470a13"/>度性質穎異穉年誦經即會其旨既長工書畫喜吟詠時袁簡
 <lb ed="B" n="0470a14"/>齋太史搜羅名流刊入詩話極一時風雅之盛獨取其淨壇風
@@ -43,7 +22,4 @@
                     <ptr target="#" type="person"/>
                     <ptr target="#" type="person"/>
                 </linkGrp>
-            </div>
-        </body>
-    </text>
-</TEI>
+</div>

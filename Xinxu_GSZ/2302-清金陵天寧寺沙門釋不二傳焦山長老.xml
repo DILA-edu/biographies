@@ -1,30 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="習禪">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>清金陵天寧寺沙門釋不二傳焦山長老 (From CBETA edition of 新續高僧傳 卷 026）</title>
-                <author>喻謙 Yu Qian</author>
-                <respStmt>
-                    <resp>Markup</resp>
-                    <name>張伯雍 Chang Po-Yung</name>
-                </respStmt>
-                <principal>馬德偉 Marcus Bingenheimer</principal>
-            </titleStmt>
-            <publicationStmt>
-                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div>
-                <head>
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪">
+<lb
+ed="B" n=""/><anchor n="B.27.0151"/>
                     <head>清金陵天寧寺沙門釋不二傳<note place="inline">焦山長老</note>
                     </head>
-                </head>
                 <p xml:id="pB27p0223a0601">釋不二者不詳所出或曰鄂渚人天寧西堂僧也出家後得戒
 <lb ed="B" n="0223a07"/>於歸元寺參金山天寧發明心地職居班首提獎後進不遺餘
 <lb ed="B" n="0223a08"/>力多所成就咸豐間年逾七十獨處靜室專習禪定兼究大乘
@@ -43,7 +22,4 @@
                     <ptr target="#" type="person"/>
                     <ptr target="#" type="person"/>
                 </linkGrp>
-            </div>
-        </body>
-    </text>
-</TEI>
+</div>

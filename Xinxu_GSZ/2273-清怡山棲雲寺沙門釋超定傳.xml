@@ -1,29 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="習禪">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>清怡山棲雲寺沙門釋超定傳 (From CBETA edition of 新續高僧傳 卷 023）</title>
-                <author>喻謙 Yu Qian</author>
-                <respStmt>
-                    <resp>Markup</resp>
-                    <name>張伯雍 Chang Po-Yung</name>
-                </respStmt>
-                <principal>馬德偉 Marcus Bingenheimer</principal>
-            </titleStmt>
-            <publicationStmt>
-                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div>
-                <head>
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪">
+<lb
+ed="B" n=""/><anchor n="B.27.0151"/>
                     <head>清怡山棲雲寺沙門釋超定傳</head>
-                </head>
                 <p xml:id="pB27p0200b0601">釋超定字體真姓林氏南安人其母娠時常依外家外祖晚見
 <lb ed="B" n="0200b07"/>一僧求借宿俄失所在而內室舉子呱呱有聲家人駭異知有
 <lb ed="B" n="0200b08"/>自來襁褓而孤育於鄭氏年十六翁媼並逝悲幻質之無常歎
@@ -53,7 +32,4 @@
                     <ptr target="#" type="person"/>
                     <ptr target="#" type="person"/>
                 </linkGrp>
-            </div>
-        </body>
-    </text>
-</TEI>
+</div>

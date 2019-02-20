@@ -1,29 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="興福">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>清四明大梅山保福寺沙門釋行幟傳 (From CBETA edition of 新續高僧傳 卷 056）</title>
-                <author>喻謙 Yu Qian</author>
-                <respStmt>
-                    <resp>Markup</resp>
-                    <name>張伯雍 Chang Po-Yung</name>
-                </respStmt>
-                <principal>馬德偉 Marcus Bingenheimer</principal>
-            </titleStmt>
-            <publicationStmt>
-                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div>
-                <head>
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福">
+<lb
+ed="B" n=""/><anchor n="B.27.0151"/>
                     <head>清四明大梅山保福寺沙門釋行幟傳</head>
-                </head>
                 <p xml:id="pB27p0409b0401">釋行幟字法幢姓林氏瑞安人也原名增志明崇禎戊辰進士
 <lb ed="B" n="0409b05"/>官中允甲申李自成犯闕抗節不屈酷刑幾斃賊敗乃間關南
 <lb ed="B" n="0409b06"/>旋及聞大清定鼎燕京知事不可為遂薙髮為僧時年已五十
@@ -46,7 +25,4 @@
                     <ptr target="#" type="person"/>
                     <ptr target="#" type="person"/>
                 </linkGrp>
-            </div>
-        </body>
-    </text>
-</TEI>
+</div>

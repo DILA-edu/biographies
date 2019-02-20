@@ -1,29 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="興福">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>清燕京圓廣寺沙門釋顯珠傳 (From CBETA edition of 新續高僧傳 卷 059）</title>
-                <author>喻謙 Yu Qian</author>
-                <respStmt>
-                    <resp>Markup</resp>
-                    <name>張伯雍 Chang Po-Yung</name>
-                </respStmt>
-                <principal>馬德偉 Marcus Bingenheimer</principal>
-            </titleStmt>
-            <publicationStmt>
-                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div>
-                <head>
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福">
+<lb
+ed="B" n=""/><anchor n="B.27.0151"/>
                     <head>清燕京圓廣寺沙門釋顯珠傳</head>
-                </head>
                 <p xml:id="pB27p0429a1701">釋顯珠字慶然別號竹心姓朱氏昌平人父德庫母牛氏家本
 <lb ed="B" n="0429a18"/>寒素幼依州城東嶽廟永亮薙髮受具於潭柘岫雲棟昌既精
 <lb ed="B" n="0429a19"/>律儀泛及經論止持兼至性相雙融嘗言一夕入定心契法微
@@ -41,7 +20,4 @@
                     <ptr target="#" type="person"/>
                     <ptr target="#" type="person"/>
                 </linkGrp>
-            </div>
-        </body>
-    </text>
-</TEI>
+</div>

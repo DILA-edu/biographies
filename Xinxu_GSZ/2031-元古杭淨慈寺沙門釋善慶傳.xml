@@ -1,29 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="義解">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>元古杭淨慈寺沙門釋善慶傳 (From CBETA edition of 新續高僧傳 卷 004）</title>
-                <author>喻謙 Yu Qian</author>
-                <respStmt>
-                    <resp>Markup</resp>
-                    <name>張伯雍 Chang Po-Yung</name>
-                </respStmt>
-                <principal>馬德偉 Marcus Bingenheimer</principal>
-            </titleStmt>
-            <publicationStmt>
-                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div>
-                <head>
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="義解">
+<lb
+ed="B" n=""/><anchor n="B.27.0151"/>
                     <head>元古杭淨慈寺沙門釋善慶傳</head>
-                </head>
                 <p xml:id="pB27p0053b1201">釋善慶字千瀨姓彭氏嚴陵人也丱歲而孤萍蹤無寄就舅氏
 <lb ed="B" n="0053b13"/>習儒初見懷楚知為法器問能出家否慶應之曰固本願耳遂
 <lb ed="B" n="0053b14"/>度之受具戒品身律甚嚴徧歷諸宿庭戶咸無所證後聞佛心
@@ -37,7 +16,4 @@
                     <ptr target="#" type="person"/>
                     <ptr target="#" type="person"/>
                 </linkGrp>
-            </div>
-        </body>
-    </text>
-</TEI>
+</div>

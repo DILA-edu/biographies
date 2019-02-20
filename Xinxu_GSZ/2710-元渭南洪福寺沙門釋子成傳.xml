@@ -1,29 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="雜識">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>元渭南洪福寺沙門釋子成傳 (From CBETA edition of 新續高僧傳 卷 061）</title>
-                <author>喻謙 Yu Qian</author>
-                <respStmt>
-                    <resp>Markup</resp>
-                    <name>張伯雍 Chang Po-Yung</name>
-                </respStmt>
-                <principal>馬德偉 Marcus Bingenheimer</principal>
-            </titleStmt>
-            <publicationStmt>
-                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div>
-                <head>
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="雜識">
+<lb
+ed="B" n=""/><anchor n="B.27.0151"/>
                     <head>元渭南洪福寺沙門釋子成傳</head>
-                </head>
                 <p xml:id="pB27p0446b1501">釋子成字彥美別號妙明子霸陵人出家於渭南洪福寺遇魚
 <lb ed="B" n="0446b16"/>嚴老人祥公處得法闡揚大乘經論元至正間詔封傳大乘戒
 <lb ed="B" n="0446b17"/>賜紫閏大國師其性愛書史喜翰墨樂遊學好著述每與賢士
@@ -47,7 +26,4 @@
                     <ptr target="#" type="person"/>
                     <ptr target="#" type="person"/>
                 </linkGrp>
-            </div>
-        </body>
-    </text>
-</TEI>
+</div>

@@ -1,30 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="義解">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>明嘉興東禪寺沙門釋明得傳百川海_妙峰覺 (From CBETA edition of 新續高僧傳 卷 007）</title>
-                <author>喻謙 Yu Qian</author>
-                <respStmt>
-                    <resp>Markup</resp>
-                    <name>張伯雍 Chang Po-Yung</name>
-                </respStmt>
-                <principal>馬德偉 Marcus Bingenheimer</principal>
-            </titleStmt>
-            <publicationStmt>
-                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div>
-                <head>
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="義解">
+<lb
+ed="B" n=""/><anchor n="B.27.0151"/>
                     <head>明嘉興東禪寺沙門釋明得傳<note place="inline">百川海　妙峰覺</note>
                     </head>
-                </head>
                 <p xml:id="pB27p0081a0501">釋明得字月亭以紹萬松林法故又號千松烏程周氏子也生
 <lb ed="B" n="0081a06"/>即穎異岐然不凡髫時隨父入西資道場遂指壁間畫羅漢像
 <lb ed="B" n="0081a07"/>問父曰是何人耶父曰僧也因慨然曰吾願為是矣於是力求
@@ -102,7 +81,4 @@
                     <ptr target="#" type="person"/>
                     <ptr target="#" type="person"/>
                 </linkGrp>
-            </div>
-        </body>
-    </text>
-</TEI>
+</div>

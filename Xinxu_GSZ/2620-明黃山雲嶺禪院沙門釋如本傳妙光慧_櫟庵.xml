@@ -1,30 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="興福">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>明黃山雲嶺禪院沙門釋如本傳妙光慧_櫟庵 (From CBETA edition of 新續高僧傳 卷 054）</title>
-                <author>喻謙 Yu Qian</author>
-                <respStmt>
-                    <resp>Markup</resp>
-                    <name>張伯雍 Chang Po-Yung</name>
-                </respStmt>
-                <principal>馬德偉 Marcus Bingenheimer</principal>
-            </titleStmt>
-            <publicationStmt>
-                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div>
-                <head>
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福">
+<lb
+ed="B" n=""/><anchor n="B.27.0151"/>
                     <head>明黃山雲嶺禪院沙門釋如本傳<note place="inline">妙光慧　櫟庵</note>
                     </head>
-                </head>
                 <p xml:id="pB27p0398a1801">釋如本字妙圓萬歷時與妙光慧禪師同遊黃山止于佛嶺把
 <lb ed="B" n="0398a19"/>茅葺亭設薑施茗弘其願力相與胼胝百具更新遂成勝地慧
 <lb ed="B" n="0398a20"/>為歙巖王氏子本則遺其氏里嘗自述佛嶺紀事一篇略云萬
@@ -58,7 +37,4 @@
                     <ptr target="#" type="person"/>
                     <ptr target="#" type="person"/>
                 </linkGrp>
-            </div>
-        </body>
-    </text>
-</TEI>
+</div>

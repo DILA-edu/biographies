@@ -1,30 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="遺身">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>清衡陽法輪寺沙門釋淡遠傳香英 (From CBETA edition of 新續高僧傳 卷 040）</title>
-                <author>喻謙 Yu Qian</author>
-                <respStmt>
-                    <resp>Markup</resp>
-                    <name>張伯雍 Chang Po-Yung</name>
-                </respStmt>
-                <principal>馬德偉 Marcus Bingenheimer</principal>
-            </titleStmt>
-            <publicationStmt>
-                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div>
-                <head>
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="遺身">
+<lb
+ed="B" n=""/><anchor n="B.27.0151"/>
                     <head>清衡陽法輪寺沙門釋淡遠傳<note place="inline">香英</note>
                     </head>
-                </head>
                 <p xml:id="pB27p0307a0501">釋淡遠者石隱弟子也衡陽附生王仁綱因訟田稅倍額入獄
 <lb ed="B" n="0307a06"/>感神僧靈異得出歸直詣寺訪之羣僧迎勞愈驚禮為弟子石
 <lb ed="B" n="0307a07"/>隱不可事具石隱傳乃命淡遠偕仁綱居鹽菜山一日促仁綱
@@ -49,7 +28,4 @@
                     <ptr target="#" type="person"/>
                     <ptr target="#" type="person"/>
                 </linkGrp>
-            </div>
-        </body>
-    </text>
-</TEI>
+</div>

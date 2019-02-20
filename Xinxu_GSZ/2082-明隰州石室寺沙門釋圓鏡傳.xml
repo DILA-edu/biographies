@@ -1,29 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="義解">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>明隰州石室寺沙門釋圓鏡傳 (From CBETA edition of 新續高僧傳 卷 006）</title>
-                <author>喻謙 Yu Qian</author>
-                <respStmt>
-                    <resp>Markup</resp>
-                    <name>張伯雍 Chang Po-Yung</name>
-                </respStmt>
-                <principal>馬德偉 Marcus Bingenheimer</principal>
-            </titleStmt>
-            <publicationStmt>
-                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div>
-                <head>
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="義解">
+<lb
+ed="B" n=""/><anchor n="B.27.0151"/>
                     <head>明隰州石室寺沙門釋圓鏡傳</head>
-                </head>
                 <p xml:id="pB27p0078b0101">釋圓鏡臨人也早歲出家游心賢首講肆悟諸經密旨常遊平
 <lb ed="B" n="0078b02"/>陽隰州石室寺隨緣為眾說法一日至北門瓦窰坡土鑿搆一
 <lb ed="B" n="0078b03"/>庵如龕燕默其中忽囑其徒曰吾將歸矣眾請其期曰來日耳
@@ -33,7 +12,4 @@
                     <ptr target="#" type="person"/>
                     <ptr target="#" type="person"/>
                 </linkGrp>
-            </div>
-        </body>
-    </text>
-</TEI>
+</div>

@@ -1,29 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="興福">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>明四明天童寺沙門釋元良傳 (From CBETA edition of 新續高僧傳 卷 051）</title>
-                <author>喻謙 Yu Qian</author>
-                <respStmt>
-                    <resp>Markup</resp>
-                    <name>張伯雍 Chang Po-Yung</name>
-                </respStmt>
-                <principal>馬德偉 Marcus Bingenheimer</principal>
-            </titleStmt>
-            <publicationStmt>
-                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div>
-                <head>
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福">
+<lb
+ed="B" n=""/><anchor n="B.27.0151"/>
                     <head>明四明天童寺沙門釋元良傳</head>
-                </head>
                 <p xml:id="pB27p0379a0901">釋元良字原明號左庵姓周氏寧海人也初居台之瑞巖元至
 <lb ed="B" n="0379a10"/>正十八年戊<anchor xml:id="beg_198" type="cb-app"/>戌<anchor xml:id="end_198"/>行宣政院奏良道行被旨住天童重建朝元閣
 <lb ed="B" n="0379a11"/>範萬銅佛於其上危參政素奉敕紀其績賜號善覺普光禪師
@@ -37,7 +16,4 @@
                     <ptr target="#" type="person"/>
                     <ptr target="#" type="person"/>
                 </linkGrp>
-            </div>
-        </body>
-    </text>
-</TEI>
+</div>

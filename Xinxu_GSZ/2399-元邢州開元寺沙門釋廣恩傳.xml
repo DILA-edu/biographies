@@ -1,29 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="靈感">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>元邢州開元寺沙門釋廣恩傳 (From CBETA edition of 新續高僧傳 卷 036）</title>
-                <author>喻謙 Yu Qian</author>
-                <respStmt>
-                    <resp>Markup</resp>
-                    <name>張伯雍 Chang Po-Yung</name>
-                </respStmt>
-                <principal>馬德偉 Marcus Bingenheimer</principal>
-            </titleStmt>
-            <publicationStmt>
-                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div>
-                <head>
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="靈感">
+<lb
+ed="B" n=""/><anchor n="B.27.0151"/>
                     <head>元邢州開元寺沙門釋廣恩傳</head>
-                </head>
                 <p xml:id="pB27p0280b1001">釋廣恩字萬安姓賈氏洺水人生有佛性年且冠求出家從經
 <lb ed="B" n="0280b11"/>城法雲壑祝髮又從暉公受具戒學禪臨城山閱數載游歷諸
 <lb ed="B" n="0280b12"/>方還至棗疆與大姓霍氏契因結庵於其所居自謂行不堅潔
@@ -51,7 +30,4 @@
                     <ptr target="#" type="person"/>
                     <ptr target="#" type="person"/>
                 </linkGrp>
-            </div>
-        </body>
-    </text>
-</TEI>
+</div>

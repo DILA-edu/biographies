@@ -1,29 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="習禪">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>清潤州金山江天寺沙門釋大定傳 (From CBETA edition of 新續高僧傳 卷 026）</title>
-                <author>喻謙 Yu Qian</author>
-                <respStmt>
-                    <resp>Markup</resp>
-                    <name>張伯雍 Chang Po-Yung</name>
-                </respStmt>
-                <principal>馬德偉 Marcus Bingenheimer</principal>
-            </titleStmt>
-            <publicationStmt>
-                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div>
-                <head>
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪">
+<lb
+ed="B" n=""/><anchor n="B.27.0151"/>
                     <head>清潤州金山江天寺沙門釋大定傳</head>
-                </head>
                 <p xml:id="pB27p0222a1601">釋大定字密源姓鄧氏黃陂人也父學浩母蔡氏雷雨中見寶
 <lb ed="B" n="0222a17"/>塔湧見其前感而有身故生有自來幼而素食有志遺塵及嚴
 <lb ed="B" n="0222a18"/>慈見背詣隨州仁聖寺禮本分剃度同參大千知為道器時善
@@ -60,7 +39,4 @@
                     <ptr target="#" type="person"/>
                     <ptr target="#" type="person"/>
                 </linkGrp>
-            </div>
-        </body>
-    </text>
-</TEI>
+</div>

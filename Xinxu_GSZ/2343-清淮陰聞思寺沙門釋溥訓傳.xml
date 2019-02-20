@@ -1,29 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="明律">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>清淮陰聞思寺沙門釋溥訓傳 (From CBETA edition of 新續高僧傳 卷 030）</title>
-                <author>喻謙 Yu Qian</author>
-                <respStmt>
-                    <resp>Markup</resp>
-                    <name>張伯雍 Chang Po-Yung</name>
-                </respStmt>
-                <principal>馬德偉 Marcus Bingenheimer</principal>
-            </titleStmt>
-            <publicationStmt>
-                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div>
-                <head>
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="明律">
+<lb
+ed="B" n=""/><anchor n="B.27.0151"/>
                     <head>清淮陰聞思寺沙門釋溥訓傳</head>
-                </head>
                 <p xml:id="pB27p0248a1801">釋溥訓字宏範姓彭氏射陵人也性質敏穎不類凡童幼依近
 <lb ed="B" n="0248a19"/>邑延壽寺為僧略習經典頗解吟咏出語天成人多異之年二
 <lb ed="B" n="0248a20"/>十聞獨愚宏法楚州詣壇圓具精研律部博綜梵文嘗謂律學
@@ -44,7 +23,4 @@
                     <ptr target="#" type="person"/>
                     <ptr target="#" type="person"/>
                 </linkGrp>
-            </div>
-        </body>
-    </text>
-</TEI>
+</div>

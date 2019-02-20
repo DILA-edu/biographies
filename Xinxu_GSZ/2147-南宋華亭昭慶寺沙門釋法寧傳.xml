@@ -1,29 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="習禪">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>南宋華亭昭慶寺沙門釋法寧傳 (From CBETA edition of 新續高僧傳 卷 013）</title>
-                <author>喻謙 Yu Qian</author>
-                <respStmt>
-                    <resp>Markup</resp>
-                    <name>張伯雍 Chang Po-Yung</name>
-                </respStmt>
-                <principal>馬德偉 Marcus Bingenheimer</principal>
-            </titleStmt>
-            <publicationStmt>
-                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div>
-                <head>
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪">
+<lb
+ed="B" n=""/><anchor n="B.27.0151"/>
                     <head>南宋華亭昭慶寺沙門釋法寧傳</head>
-                </head>
                 <p xml:id="pB27p0123b0801">釋法寧因住沂州馬<g ref="#CB02753">𡺸</g>山故號馬<g ref="#CB02753">𡺸</g>姓李氏莒人也初依沂州
 <lb ed="B" n="0123b09"/>天寧妙空明得度參侍既久盡得雲門宗旨出世住沂之淨居
 <lb ed="B" n="0123b10"/>寺大宏雪竇之道初寧於紹興間抵華亭青龍鎮察判章滾其
@@ -39,7 +18,4 @@
                     <ptr target="#" type="person"/>
                     <ptr target="#" type="person"/>
                 </linkGrp>
-            </div>
-        </body>
-    </text>
-</TEI>
+</div>

@@ -1,29 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="習禪">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>清四川雙桂福國院沙門釋真旻傳 (From CBETA edition of 新續高僧傳 卷 025）</title>
-                <author>喻謙 Yu Qian</author>
-                <respStmt>
-                    <resp>Markup</resp>
-                    <name>張伯雍 Chang Po-Yung</name>
-                </respStmt>
-                <principal>馬德偉 Marcus Bingenheimer</principal>
-            </titleStmt>
-            <publicationStmt>
-                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div>
-                <head>
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪">
+<lb
+ed="B" n=""/><anchor n="B.27.0151"/>
                     <head>清四川雙桂福國院沙門釋真旻傳</head>
-                </head>
                 <p xml:id="pB27p0214b0701">釋真旻字透月姓蕭氏湘鄉人生質孱弱幼多病苦十齡就傳
 <lb ed="B" n="0214b08"/>略通大義家貧廢學然見僧心喜年十八始有出家之念乙<anchor xml:id="beg_de" type="cb-app"/>巳<anchor xml:id="end_de"/>
 <lb ed="B" n="0214b09"/>隨兄貿遷入蜀無意經營及聞父喪感世無常歸真益切丁未
@@ -63,7 +42,4 @@
                     <ptr target="#" type="person"/>
                     <ptr target="#" type="person"/>
                 </linkGrp>
-            </div>
-        </body>
-    </text>
-</TEI>
+</div>

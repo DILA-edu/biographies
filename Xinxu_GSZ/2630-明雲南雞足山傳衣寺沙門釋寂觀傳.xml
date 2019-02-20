@@ -1,29 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="興福">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>明雲南雞足山傳衣寺沙門釋寂觀傳 (From CBETA edition of 新續高僧傳 卷 055）</title>
-                <author>喻謙 Yu Qian</author>
-                <respStmt>
-                    <resp>Markup</resp>
-                    <name>張伯雍 Chang Po-Yung</name>
-                </respStmt>
-                <principal>馬德偉 Marcus Bingenheimer</principal>
-            </titleStmt>
-            <publicationStmt>
-                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div>
-                <head>
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福">
+<lb
+ed="B" n=""/><anchor n="B.27.0151"/>
                     <head>明雲南雞足山傳衣寺沙門釋寂觀傳</head>
-                </head>
                 <p xml:id="pB27p0404b0101">釋寂觀字法界姓陳氏葉榆人生性純篤丱角喪母哀泣幾滅
 <lb ed="B" n="0404b02"/>見俗演目連乃愀然曰欲報劬勞之恩非此莫能盡心因思出
 <lb ed="B" n="0404b03"/>家往白於父父有難色固請許之往蕩山禮印光得度光學富
@@ -40,7 +19,4 @@
                     <ptr target="#" type="person"/>
                     <ptr target="#" type="person"/>
                 </linkGrp>
-            </div>
-        </body>
-    </text>
-</TEI>
+</div>

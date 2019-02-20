@@ -1,30 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="靈感">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>元晉寧東山盤龍寺沙門釋宗照傳空庵 (From CBETA edition of 新續高僧傳 卷 036）</title>
-                <author>喻謙 Yu Qian</author>
-                <respStmt>
-                    <resp>Markup</resp>
-                    <name>張伯雍 Chang Po-Yung</name>
-                </respStmt>
-                <principal>馬德偉 Marcus Bingenheimer</principal>
-            </titleStmt>
-            <publicationStmt>
-                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div>
-                <head>
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="靈感">
+<lb
+ed="B" n=""/><anchor n="B.27.0151"/>
                     <head>元晉寧東山盤龍寺沙門釋宗照傳<note place="inline">空庵</note>
                     </head>
-                </head>
                 <p xml:id="pB27p0282a0701">釋宗照字蓮峯晉寧段氏子也生有異性天資絕倫年十八禮
 <lb ed="B" n="0282a08"/>雲峰薙染每以七日斷絕思想參究一日聞伐木丁丁瞿然朗
 <lb ed="B" n="0282a09"/>悟杖錫操方徧覽名山<g ref="#CB33499">𠪱</g>抵巨匠初謁空庵許為法器後叩中
@@ -42,7 +21,4 @@
                     <ptr target="#" type="person"/>
                     <ptr target="#" type="person"/>
                 </linkGrp>
-            </div>
-        </body>
-    </text>
-</TEI>
+</div>

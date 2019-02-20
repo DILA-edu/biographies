@@ -1,29 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="義解">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>元五臺山金河寺沙門釋道㲀傳 (From CBETA edition of 新續高僧傳 卷 004）</title>
-                <author>喻謙 Yu Qian</author>
-                <respStmt>
-                    <resp>Markup</resp>
-                    <name>張伯雍 Chang Po-Yung</name>
-                </respStmt>
-                <principal>馬德偉 Marcus Bingenheimer</principal>
-            </titleStmt>
-            <publicationStmt>
-                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div>
-                <head>
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="義解">
+<lb
+ed="B" n=""/><anchor n="B.27.0151"/>
                     <head>元五臺山金河寺沙門釋道<g ref="#CB01324">㲀</g>傳</head>
-                </head>
                 <p xml:id="pB27p0062b1501">釋道<g ref="#CB01324">㲀</g>字法幢姓杜氏雲中人也家傳十善世稟五常始從齠
 <lb ed="B" n="0062b16"/>齔兼習儒典天然聰辯性自仁賢年十五歷諸講席訪道禪林
 <lb ed="B" n="0062b17"/>博達多聞羣推英悟蓋既精五教旁通百家名利不染愛惡非
@@ -44,7 +23,4 @@
                     <ptr target="#" type="person"/>
                     <ptr target="#" type="person"/>
                 </linkGrp>
-            </div>
-        </body>
-    </text>
-</TEI>
+</div>

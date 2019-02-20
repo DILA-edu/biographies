@@ -1,30 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="淨讀">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>清長沙嶽麓萬壽寺沙門釋映冰傳一心_心有_續乘 (From CBETA edition of 新續高僧傳 卷 048）</title>
-                <author>喻謙 Yu Qian</author>
-                <respStmt>
-                    <resp>Markup</resp>
-                    <name>張伯雍 Chang Po-Yung</name>
-                </respStmt>
-                <principal>馬德偉 Marcus Bingenheimer</principal>
-            </titleStmt>
-            <publicationStmt>
-                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div>
-                <head>
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="淨讀">
+<lb
+ed="B" n=""/><anchor n="B.27.0151"/>
                     <head>清長沙嶽麓萬壽寺沙門釋映冰傳<note place="inline">一心　心有　續乘</note>
                     </head>
-                </head>
                 <p xml:id="pB27p0355a0101">釋映冰字南泉姓馮氏湘潭人年十六出家於長沙百隆寺具
 <lb ed="B" n="0355a02"/>足<anchor xml:id="beg_17b" type="cb-app"/>於<anchor xml:id="end_17b"/>嶽麓萬壽寺後主杲山中興禪林道譽遠敷更歷寺院莫
 <lb ed="B" n="0355a03"/>不革新化為叢席退居天井山四十餘年專修淨土光緒八年
@@ -52,7 +31,4 @@
                     <ptr target="#" type="person"/>
                     <ptr target="#" type="person"/>
                 </linkGrp>
-            </div>
-        </body>
-    </text>
-</TEI>
+</div>

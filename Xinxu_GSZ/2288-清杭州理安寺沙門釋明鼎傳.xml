@@ -1,29 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="習禪">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>清杭州理安寺沙門釋明鼎傳 (From CBETA edition of 新續高僧傳 卷 025）</title>
-                <author>喻謙 Yu Qian</author>
-                <respStmt>
-                    <resp>Markup</resp>
-                    <name>張伯雍 Chang Po-Yung</name>
-                </respStmt>
-                <principal>馬德偉 Marcus Bingenheimer</principal>
-            </titleStmt>
-            <publicationStmt>
-                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div>
-                <head>
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪">
+<lb
+ed="B" n=""/><anchor n="B.27.0151"/>
                     <head>清杭州理安寺沙門釋明鼎傳</head>
-                </head>
                 <p xml:id="pB27p0213a0801">釋明鼎字調梅號粟庵晚歲自稱恬退翁姓馮氏黃梅人幼讀
 <lb ed="B" n="0213a09"/>書輒嗜禪味企慕空門父憐而成其志髫齡入匯源禮石白落
 <lb ed="B" n="0213a10"/>髮年二十秉戒於萬杉大楚深究本分遍參宗匠若金粟碧若
@@ -52,7 +31,4 @@
                     <ptr target="#" type="person"/>
                     <ptr target="#" type="person"/>
                 </linkGrp>
-            </div>
-        </body>
-    </text>
-</TEI>
+</div>

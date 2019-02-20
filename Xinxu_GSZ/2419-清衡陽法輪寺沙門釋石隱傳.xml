@@ -1,29 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="靈感">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>清衡陽法輪寺沙門釋石隱傳 (From CBETA edition of 新續高僧傳 卷 038）</title>
-                <author>喻謙 Yu Qian</author>
-                <respStmt>
-                    <resp>Markup</resp>
-                    <name>張伯雍 Chang Po-Yung</name>
-                </respStmt>
-                <principal>馬德偉 Marcus Bingenheimer</principal>
-            </titleStmt>
-            <publicationStmt>
-                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div>
-                <head>
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="靈感">
+<lb
+ed="B" n=""/><anchor n="B.27.0151"/>
                     <head>清衡陽法輪寺沙門釋石隱傳</head>
-                </head>
                 <p xml:id="pB27p0292a1201">釋石隱者不詳其氏族蓋明故臣也桂藩南遷遯竄荒遠事不
 <lb ed="B" n="0292a13"/>可為乃改僧服康熙時始來衡陽居法輪寺重修精舍戒律嚴
 <lb ed="B" n="0292a14"/>苦法化弘深初至時野獸殘其園蔬盜竊其財皆自還伏至今
@@ -48,7 +27,4 @@
                     <ptr target="#" type="person"/>
                     <ptr target="#" type="person"/>
                 </linkGrp>
-            </div>
-        </body>
-    </text>
-</TEI>
+</div>

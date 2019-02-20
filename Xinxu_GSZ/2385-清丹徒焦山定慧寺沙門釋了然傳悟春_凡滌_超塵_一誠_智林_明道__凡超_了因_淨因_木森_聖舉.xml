@@ -1,32 +1,10 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="護法">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>清丹徒焦山定慧寺沙門釋了然傳悟春_凡滌_超塵_一誠_智林_明道
-_凡超_了因_淨因_木森_聖舉 (From CBETA edition of 新續高僧傳 卷 035）</title>
-                <author>喻謙 Yu Qian</author>
-                <respStmt>
-                    <resp>Markup</resp>
-                    <name>張伯雍 Chang Po-Yung</name>
-                </respStmt>
-                <principal>馬德偉 Marcus Bingenheimer</principal>
-            </titleStmt>
-            <publicationStmt>
-                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div>
-                <head>
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="護法">
+<lb
+ed="B" n=""/><anchor n="B.27.0151"/>
                     <head>清丹徒焦山定慧寺沙門釋了然傳<note place="inline">悟春　凡滌　超塵　一誠　智林　明道
 <lb ed="B" n="0272b11"/>　凡超　了因　淨因　木森　聖舉</note>
                     </head>
-                </head>
                 <p xml:id="pB27p0272b1201">釋了然字月輝姓雷氏寶應人也賦性堅忍不慕浮榮少遊盱
 <lb ed="B" n="0272b13"/>眙入一蘭若林木幽靜耽憩忘歸遂爾捨身研求梵典精進無
 <lb ed="B" n="0272b14"/>已既受具足持律尤嚴發腳行方遐邇企止道光丁未來主焦
@@ -64,7 +42,4 @@ _凡超_了因_淨因_木森_聖舉 (From CBETA edition of 新續高僧傳 卷 0
                     <ptr target="#" type="person"/>
                     <ptr target="#" type="person"/>
                 </linkGrp>
-            </div>
-        </body>
-    </text>
-</TEI>
+</div>

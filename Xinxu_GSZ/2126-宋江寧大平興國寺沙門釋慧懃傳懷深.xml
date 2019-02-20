@@ -1,30 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="習禪">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>宋江寧大平興國寺沙門釋慧懃傳懷深 (From CBETA edition of 新續高僧傳 卷 011）</title>
-                <author>喻謙 Yu Qian</author>
-                <respStmt>
-                    <resp>Markup</resp>
-                    <name>張伯雍 Chang Po-Yung</name>
-                </respStmt>
-                <principal>馬德偉 Marcus Bingenheimer</principal>
-            </titleStmt>
-            <publicationStmt>
-                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div>
-                <head>
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪">
+<lb
+ed="B" n=""/><anchor n="B.27.0151"/>
                     <head>宋江寧大平興國寺沙門釋慧懃傳<note place="inline">懷深</note>
                     </head>
-                </head>
                 <p xml:id="pB27p0112a0301">釋慧懃字佛鑑姓汪氏舒州人嗣五祖得度每以唯此一事實
 <lb ed="B" n="0112a04"/>餘二則非真味之有省徧參名宿往來五祖之門有年政和五
 <lb ed="B" n="0112a05"/>年居蔣山賜徽號紫衣政和七年十月二十八日沐浴更衣端
@@ -39,7 +18,4 @@
                     <ptr target="#" type="person"/>
                     <ptr target="#" type="person"/>
                 </linkGrp>
-            </div>
-        </body>
-    </text>
-</TEI>
+</div>

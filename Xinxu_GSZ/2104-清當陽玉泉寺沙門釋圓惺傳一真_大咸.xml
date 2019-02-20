@@ -1,30 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="義解">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>清當陽玉泉寺沙門釋圓惺傳一真_大咸 (From CBETA edition of 新續高僧傳 卷 009）</title>
-                <author>喻謙 Yu Qian</author>
-                <respStmt>
-                    <resp>Markup</resp>
-                    <name>張伯雍 Chang Po-Yung</name>
-                </respStmt>
-                <principal>馬德偉 Marcus Bingenheimer</principal>
-            </titleStmt>
-            <publicationStmt>
-                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div>
-                <head>
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="義解">
+<lb
+ed="B" n=""/><anchor n="B.27.0151"/>
                     <head>清當陽玉泉寺沙門釋圓惺傳<note place="inline">一真　大咸</note>
                     </head>
-                </head>
                 <p xml:id="pB27p0098a1001">釋圓惺字鑑葊一號傳真姓蘇氏西蜀通江人也幼失恃怙依
 <lb ed="B" n="0098a11"/>於外宅九歲避寇梁山旁匿沙河菩提庵禮偶然師出家後為
 <lb ed="B" n="0098a12"/>破山老人行者清順治三年出蜀入楚謁玉泉恒河律師潛心
@@ -61,7 +40,4 @@
                     <ptr target="#" type="person"/>
                     <ptr target="#" type="person"/>
                 </linkGrp>
-            </div>
-        </body>
-    </text>
-</TEI>
+</div>

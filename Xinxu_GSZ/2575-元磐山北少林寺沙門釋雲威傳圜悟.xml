@@ -1,30 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="興福">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>元磐山北少林寺沙門釋雲威傳圜悟 (From CBETA edition of 新續高僧傳 卷 050）</title>
-                <author>喻謙 Yu Qian</author>
-                <respStmt>
-                    <resp>Markup</resp>
-                    <name>張伯雍 Chang Po-Yung</name>
-                </respStmt>
-                <principal>馬德偉 Marcus Bingenheimer</principal>
-            </titleStmt>
-            <publicationStmt>
-                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div>
-                <head>
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福">
+<lb
+ed="B" n=""/><anchor n="B.27.0151"/>
                     <head>元磐山北少林寺沙門釋雲威傳<note place="inline">圜悟</note>
                     </head>
-                </head>
                 <p xml:id="pB27p0371b1801">釋雲威姓侯氏太谷人幼習儒術高才博識早有令譽方及壯
 <lb ed="B" n="0371b19"/>歲舍業去浮下髮披褐參最上乘朋遊講肆慧辯出倫聞玉山
 <lb ed="B" n="0371b20"/>博達公講席之盛走謁依之為入室之子久之遂承印證會磐
@@ -40,7 +19,4 @@
                     <ptr target="#" type="person"/>
                     <ptr target="#" type="person"/>
                 </linkGrp>
-            </div>
-        </body>
-    </text>
-</TEI>
+</div>

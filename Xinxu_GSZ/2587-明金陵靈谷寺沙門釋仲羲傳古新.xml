@@ -1,30 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="興福">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>明金陵靈谷寺沙門釋仲羲傳古新 (From CBETA edition of 新續高僧傳 卷 051）</title>
-                <author>喻謙 Yu Qian</author>
-                <respStmt>
-                    <resp>Markup</resp>
-                    <name>張伯雍 Chang Po-Yung</name>
-                </respStmt>
-                <principal>馬德偉 Marcus Bingenheimer</principal>
-            </titleStmt>
-            <publicationStmt>
-                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div>
-                <head>
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福">
+<lb
+ed="B" n=""/><anchor n="B.27.0151"/>
                     <head>明金陵靈谷寺沙門釋仲羲傳<note place="inline">古新</note>
                     </head>
-                </head>
                 <p xml:id="pB27p0380a1201">釋仲羲字物先淛東僧也為仲芳倫禪師弟子洪武九年被召
 <lb ed="B" n="0380a13"/>住蔣山梁誌公塔寺以寺近宮闕王氣攸聚紫雲黃霧昕夕擁
 <lb ed="B" n="0380a14"/>護非惟僧徒食息靡安聖跡神靈均未妥善且佛法以方便為
@@ -54,7 +33,4 @@
                     <ptr target="#" type="person"/>
                     <ptr target="#" type="person"/>
                 </linkGrp>
-            </div>
-        </body>
-    </text>
-</TEI>
+</div>

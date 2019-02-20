@@ -1,30 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="習禪">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>宋虎邱雲巖寺沙門釋清順傳子英_智通_慧光 (From CBETA edition of 新續高僧傳 卷 011）</title>
-                <author>喻謙 Yu Qian</author>
-                <respStmt>
-                    <resp>Markup</resp>
-                    <name>張伯雍 Chang Po-Yung</name>
-                </respStmt>
-                <principal>馬德偉 Marcus Bingenheimer</principal>
-            </titleStmt>
-            <publicationStmt>
-                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div>
-                <head>
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪">
+<lb
+ed="B" n=""/><anchor n="B.27.0151"/>
                     <head>宋虎邱雲巖寺沙門釋清順傳<note place="inline">子英　智通　慧光</note>
                     </head>
-                </head>
                 <p xml:id="pB27p0111b0801">釋清順宋至道中知州事魏庠奏改虎邱律寺為雲巖禪寺迎
 <lb ed="B" n="0111b09"/>清順主之虎邱自竺道壹道生以來主法席者多崇義解至清
 <lb ed="B" n="0111b10"/>始啟禪派故後學奉清為鼻祖云又子英字覺印姓懷氏錢塘
@@ -45,7 +24,4 @@
                     <ptr target="#" type="person"/>
                     <ptr target="#" type="person"/>
                 </linkGrp>
-            </div>
-        </body>
-    </text>
-</TEI>
+</div>

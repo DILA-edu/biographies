@@ -1,30 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="明律">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>清杭州昭慶寺沙門釋隨道傳福溶 (From CBETA edition of 新續高僧傳 卷 031）</title>
-                <author>喻謙 Yu Qian</author>
-                <respStmt>
-                    <resp>Markup</resp>
-                    <name>張伯雍 Chang Po-Yung</name>
-                </respStmt>
-                <principal>馬德偉 Marcus Bingenheimer</principal>
-            </titleStmt>
-            <publicationStmt>
-                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div>
-                <head>
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="明律">
+<lb
+ed="B" n=""/><anchor n="B.27.0151"/>
                     <head>清杭州昭慶寺沙門釋隨道傳<note place="inline">福溶</note>
                     </head>
-                </head>
                 <p xml:id="pB27p0252a1901">釋隨道字德先姓沈氏石門人幼投餘杭龍泉寺履初受度得
 <lb ed="B" n="0252a20"/>戒於宜潔久居昭慶常為羯磨持身端肅學人依止者多為仰
 <pb ed="B" xml:id="B27.0151.0252b" n="0252b"/>
@@ -41,7 +20,4 @@
                     <ptr target="#" type="person"/>
                     <ptr target="#" type="person"/>
                 </linkGrp>
-            </div>
-        </body>
-    </text>
-</TEI>
+</div>

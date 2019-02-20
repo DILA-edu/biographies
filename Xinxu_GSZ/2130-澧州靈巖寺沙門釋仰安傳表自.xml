@@ -1,30 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="習禪">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>澧州靈巖寺沙門釋仰安傳表自 (From CBETA edition of 新續高僧傳 卷 011）</title>
-                <author>喻謙 Yu Qian</author>
-                <respStmt>
-                    <resp>Markup</resp>
-                    <name>張伯雍 Chang Po-Yung</name>
-                </respStmt>
-                <principal>馬德偉 Marcus Bingenheimer</principal>
-            </titleStmt>
-            <publicationStmt>
-                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div>
-                <head>
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪">
+<lb
+ed="B" n=""/><anchor n="B.27.0151"/>
                     <head>澧州靈巖寺沙門釋仰安傳<note place="inline">表自</note>
                     </head>
-                </head>
                 <p xml:id="pB27p0113a1201">釋仰安未知所出生而穎異幼年舍俗既圓顱頂慕最上乘精
 <lb ed="B" n="0113a13"/>謹律儀耽遊講肆久而棄之遂入佛果勤公之室時大溈泰為
 <lb ed="B" n="0113a14"/>座元昕夕扣之頓領玄旨後泰住持德山命安詣佛果且付以
@@ -51,7 +30,4 @@
                     <ptr target="#" type="person"/>
                     <ptr target="#" type="person"/>
                 </linkGrp>
-            </div>
-        </body>
-    </text>
-</TEI>
+</div>

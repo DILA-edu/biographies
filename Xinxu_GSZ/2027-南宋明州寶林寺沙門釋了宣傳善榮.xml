@@ -1,30 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="義解">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>南宋明州寶林寺沙門釋了宣傳善榮 (From CBETA edition of 新續高僧傳 卷 003）</title>
-                <author>喻謙 Yu Qian</author>
-                <respStmt>
-                    <resp>Markup</resp>
-                    <name>張伯雍 Chang Po-Yung</name>
-                </respStmt>
-                <principal>馬德偉 Marcus Bingenheimer</principal>
-            </titleStmt>
-            <publicationStmt>
-                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div>
-                <head>
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="義解">
+<lb
+ed="B" n=""/><anchor n="B.27.0151"/>
                     <head>南宋明州寶林寺沙門釋了宣傳<note place="inline">善榮</note>
                     </head>
-                </head>
                 <p xml:id="pB27p0050b1701">釋了宣四明人肄業於寶林因慕南湖之盛投之精究三觀十
 <lb ed="B" n="0050b18"/>乘之旨閱大藏教無不知其大義修法華懺法二十七年與釋
 <lb ed="B" n="0050b19"/>善榮為同志相善凡所脩進必偕榮嘗金書法華稜嚴淨名圓
@@ -43,7 +22,4 @@
                     <ptr target="#" type="person"/>
                     <ptr target="#" type="person"/>
                 </linkGrp>
-            </div>
-        </body>
-    </text>
-</TEI>
+</div>

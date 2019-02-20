@@ -1,29 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="護法">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>清樂清白��寺沙門釋華山傳 (From CBETA edition of 新續高僧傳 卷 035）</title>
-                <author>喻謙 Yu Qian</author>
-                <respStmt>
-                    <resp>Markup</resp>
-                    <name>張伯雍 Chang Po-Yung</name>
-                </respStmt>
-                <principal>馬德偉 Marcus Bingenheimer</principal>
-            </titleStmt>
-            <publicationStmt>
-                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div>
-                <head>
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="護法">
+<lb
+ed="B" n=""/><anchor n="B.27.0151"/>
                     <head>清樂清白<g ref="#CB15112">󳬈</g>寺沙門釋華山傳</head>
-                </head>
                 <p xml:id="pB27p0274b1101">釋華山字雲泉姓陳氏樂清人也生有奇資氣宇清峻十歲出
 <lb ed="B" n="0274b12"/>家於雙獅山淨濟寺禮允參度為沙彌初習教乘敏慧天鍾光
 <lb ed="B" n="0274b13"/>緒十一年聽大海講彌陀疏鈔輒能依所聞義對眾敷演時年
@@ -50,7 +29,4 @@
                     <ptr target="#" type="person"/>
                     <ptr target="#" type="person"/>
                 </linkGrp>
-            </div>
-        </body>
-    </text>
-</TEI>
+</div>

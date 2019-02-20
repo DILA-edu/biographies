@@ -1,30 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="興福">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>明銅梁龍興寺沙門釋空源傳圓聰_智雲_明愈_本尊 (From CBETA edition of 新續高僧傳 卷 052）</title>
-                <author>喻謙 Yu Qian</author>
-                <respStmt>
-                    <resp>Markup</resp>
-                    <name>張伯雍 Chang Po-Yung</name>
-                </respStmt>
-                <principal>馬德偉 Marcus Bingenheimer</principal>
-            </titleStmt>
-            <publicationStmt>
-                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div>
-                <head>
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福">
+<lb
+ed="B" n=""/><anchor n="B.27.0151"/>
                     <head>明銅梁龍興寺沙門釋空源傳<note place="inline">圓聰　智雲　明愈　本尊</note>
                     </head>
-                </head>
                 <p xml:id="pB27p0386a1101">釋空源字不二廣安人明永樂中游蜀至安居鄉聞鐵鑪山為
 <lb ed="B" n="0386a12"/>陳希夷修煉之所賞其幽秀遂結草葊寒暑一衲靜居數十年
 <lb ed="B" n="0386a13"/>足不出戶圓聰閔其獨處無伴遣弟子明愈侍之因得不二之
@@ -43,7 +22,4 @@
                     <ptr target="#" type="person"/>
                     <ptr target="#" type="person"/>
                 </linkGrp>
-            </div>
-        </body>
-    </text>
-</TEI>
+</div>

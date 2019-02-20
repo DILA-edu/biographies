@@ -1,30 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="譯經">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>元甘泉馬謕山沙門釋智慧傳廣福_安藏_逸林 (From CBETA edition of 新續高僧傳 卷 002）</title>
-                <author>喻謙 Yu Qian</author>
-                <respStmt>
-                    <resp>Markup</resp>
-                    <name>張伯雍 Chang Po-Yung</name>
-                </respStmt>
-                <principal>馬德偉 Marcus Bingenheimer</principal>
-            </titleStmt>
-            <publicationStmt>
-                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div>
-                <head>
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="譯經">
+<lb
+ed="B" n=""/><anchor n="B.27.0151"/>
                     <head>元甘泉馬謕山沙門釋智慧傳<note place="inline">廣福　安藏　逸林</note>
                     </head>
-                </head>
                 <p xml:id="pB27p0035a1201">釋智慧者舊傳甘泉馬蹏山僧也馬蹏今名馬鞍在甘泉西北
 <lb ed="B" n="0035a13"/>三十五里慧善梵書與西來諸僧同譯文殊利發菩提心願文
 <lb ed="B" n="0035a14"/>乃巴看落目瓦所傳也又譯聖妙吉祥真實名經一卷其經前
@@ -44,7 +23,4 @@
                     <ptr target="#" type="person"/>
                     <ptr target="#" type="person"/>
                 </linkGrp>
-            </div>
-        </body>
-    </text>
-</TEI>
+</div>

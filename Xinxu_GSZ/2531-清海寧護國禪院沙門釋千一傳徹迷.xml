@@ -1,30 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="淨讀">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>清海寧護國禪院沙門釋千一傳徹迷 (From CBETA edition of 新續高僧傳 卷 046）</title>
-                <author>喻謙 Yu Qian</author>
-                <respStmt>
-                    <resp>Markup</resp>
-                    <name>張伯雍 Chang Po-Yung</name>
-                </respStmt>
-                <principal>馬德偉 Marcus Bingenheimer</principal>
-            </titleStmt>
-            <publicationStmt>
-                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div>
-                <head>
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="淨讀">
+<lb
+ed="B" n=""/><anchor n="B.27.0151"/>
                     <head>清海寧護國禪院沙門釋千一傳<note place="inline">徹迷</note>
                     </head>
-                </head>
                 <p xml:id="pB27p0346a0501">釋千一字遠人姓王氏海寧人也素懷清絜雅慕禪修因投邑
 <lb ed="B" n="0346a06"/>中護國禪院落髮受具於西湖昭慶寺謹持律儀誠心薰念志
 <lb ed="B" n="0346a07"/>樂寂靜顏其室曰廬山僻處潛修其中乾隆戊<anchor xml:id="beg_175" type="cb-app"/>戌<anchor xml:id="end_175"/>秋自知時至
@@ -43,7 +22,4 @@
                     <ptr target="#" type="person"/>
                     <ptr target="#" type="person"/>
                 </linkGrp>
-            </div>
-        </body>
-    </text>
-</TEI>
+</div>

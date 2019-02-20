@@ -1,30 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="興福">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>明遠安福河寺沙門釋普亮傳弘參_深潤 (From CBETA edition of 新續高僧傳 卷 052）</title>
-                <author>喻謙 Yu Qian</author>
-                <respStmt>
-                    <resp>Markup</resp>
-                    <name>張伯雍 Chang Po-Yung</name>
-                </respStmt>
-                <principal>馬德偉 Marcus Bingenheimer</principal>
-            </titleStmt>
-            <publicationStmt>
-                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div>
-                <head>
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福">
+<lb
+ed="B" n=""/><anchor n="B.27.0151"/>
                     <head>明遠安福河寺沙門釋普亮傳<note place="inline">弘參　深潤</note>
                     </head>
-                </head>
                 <p xml:id="pB27p0389a1101">釋普亮未知何許人識懷溫敏風儀遒遠弱冠剃染慧解兼人
 <lb ed="B" n="0389a12"/>博涉內外獨契真如而道貴利他更思弘濟振錫荊楚卜居妙
 <lb ed="B" n="0389a13"/>峰山剏建蘭若其山在遠安城外五十里許地隔塵囂林壑深
@@ -39,7 +18,4 @@
                     <ptr target="#" type="person"/>
                     <ptr target="#" type="person"/>
                 </linkGrp>
-            </div>
-        </body>
-    </text>
-</TEI>
+</div>

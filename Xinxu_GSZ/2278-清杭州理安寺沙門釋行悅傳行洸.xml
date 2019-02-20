@@ -1,30 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="習禪">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>清杭州理安寺沙門釋行悅傳行洸 (From CBETA edition of 新續高僧傳 卷 024）</title>
-                <author>喻謙 Yu Qian</author>
-                <respStmt>
-                    <resp>Markup</resp>
-                    <name>張伯雍 Chang Po-Yung</name>
-                </respStmt>
-                <principal>馬德偉 Marcus Bingenheimer</principal>
-            </titleStmt>
-            <publicationStmt>
-                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div>
-                <head>
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪">
+<lb
+ed="B" n=""/><anchor n="B.27.0151"/>
                     <head>清杭州理安寺沙門釋行悅傳<note place="inline">行洸</note>
                     </head>
-                </head>
                 <p xml:id="pB27p0204a1501">釋行悅字梅谷亦號呆翁晚稱蒲衣尊者姓曹氏婁東人年十
 <lb ed="B" n="0204a16"/>八披剃於普陀海岸禪林受具後擔簦詣硿峒參瑞白知向上
 <lb ed="B" n="0204a17"/>事復參天童密問掣電之機還許湊泊也無密方詰難即拂袖
@@ -52,7 +31,4 @@
                     <ptr target="#" type="person"/>
                     <ptr target="#" type="person"/>
                 </linkGrp>
-            </div>
-        </body>
-    </text>
-</TEI>
+</div>

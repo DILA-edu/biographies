@@ -1,30 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="譯經">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>明金陵鍾山西天寺沙門釋智光傳班的答_惠便 (From CBETA edition of 新續高僧傳 卷 002）</title>
-                <author>喻謙 Yu Qian</author>
-                <respStmt>
-                    <resp>Markup</resp>
-                    <name>張伯雍 Chang Po-Yung</name>
-                </respStmt>
-                <principal>馬德偉 Marcus Bingenheimer</principal>
-            </titleStmt>
-            <publicationStmt>
-                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div>
-                <head>
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="譯經">
+<lb
+ed="B" n=""/><anchor n="B.27.0151"/>
                     <head>明金陵鍾山西天寺沙門釋智光傳<note place="inline">班的答　惠便</note>
                     </head>
-                </head>
                 <p xml:id="pB27p0038b0501"><persName key="A015653">釋智光</persName>，字<persName key="A015653">無隱</persName>，慶雲人<!-- 《金陵梵剎志》：山東武定州慶雲人 -->，不詳其氏族。初出家時，居燕都法雲寺。<lb
 ed="B" n="0038b06"/>志業敏慧，苦心向學，內外典籍，罔不研翫。<date notBefore-iso="+1341-01-26" key="j22108762221593" notAfter-iso="+1370-05-31"><name>元</name><name>至正</name>中</date><persName key="A009965">班的答</persName>自<lb
 ed="B" n="0038b07"/><placeName key="PL000000048207">天竺</placeName>遨遊<placeName key="PL000000006998">上都</placeName>，棲止法雲。<persName key="A015653">智光</persName>得親儀範，昕夕請益，聆聲通意，<lb
@@ -53,7 +32,4 @@ ed="B" n="0039a07"/>康圓寂智炳幾先靈消曠海月皎中天</p>
                     <ptr target="#" type="person"/>
                     <ptr target="#" type="person"/>
                 </linkGrp>
-            </div>
-        </body>
-    </text>
-</TEI>
+</div>

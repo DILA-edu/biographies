@@ -1,30 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="靈感">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>明雲南雞足山西來寺沙門釋如唐傳大智 (From CBETA edition of 新續高僧傳 卷 037）</title>
-                <author>喻謙 Yu Qian</author>
-                <respStmt>
-                    <resp>Markup</resp>
-                    <name>張伯雍 Chang Po-Yung</name>
-                </respStmt>
-                <principal>馬德偉 Marcus Bingenheimer</principal>
-            </titleStmt>
-            <publicationStmt>
-                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div>
-                <head>
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="靈感">
+<lb
+ed="B" n=""/><anchor n="B.27.0151"/>
                     <head>明雲南雞足山西來寺沙門釋如唐傳<note place="inline">大智</note>
                     </head>
-                </head>
                 <p xml:id="pB27p0288a1201">釋如唐者關中人初至滇棲雞足山羅漢崖下日諷法華久之
 <lb ed="B" n="0288a13"/>泉自崖根迸出眾多歎異乃為造寺曰西來寺本所自也如唐
 <lb ed="B" n="0288a14"/>性本慈祥善心化物每於食後以手承盋立向階前念佛一聲
@@ -41,7 +20,4 @@
                     <ptr target="#" type="person"/>
                     <ptr target="#" type="person"/>
                 </linkGrp>
-            </div>
-        </body>
-    </text>
-</TEI>
+</div>

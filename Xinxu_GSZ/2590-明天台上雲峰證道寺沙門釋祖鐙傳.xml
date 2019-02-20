@@ -1,29 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="興福">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>明天台上雲峰證道寺沙門釋祖鐙傳 (From CBETA edition of 新續高僧傳 卷 051）</title>
-                <author>喻謙 Yu Qian</author>
-                <respStmt>
-                    <resp>Markup</resp>
-                    <name>張伯雍 Chang Po-Yung</name>
-                </respStmt>
-                <principal>馬德偉 Marcus Bingenheimer</principal>
-            </titleStmt>
-            <publicationStmt>
-                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div>
-                <head>
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福">
+<lb
+ed="B" n=""/><anchor n="B.27.0151"/>
                     <head>明天台上雲峰證道寺沙門釋祖鐙傳</head>
-                </head>
                 <p xml:id="pB27p0382b0101">釋祖鐙字無盡姓王氏四明人也父好謙嘗寫華嚴經五色舍
 <lb ed="B" n="0382b02"/>利見於筆端父方驚歎曰般若之驗一至於斯耶時鐙年尚幼
 <lb ed="B" n="0382b03"/>聞言興感及至成童即求出家依郡中天寧良偉習經咒尋事
@@ -62,7 +41,4 @@
                     <ptr target="#" type="person"/>
                     <ptr target="#" type="person"/>
                 </linkGrp>
-            </div>
-        </body>
-    </text>
-</TEI>
+</div>

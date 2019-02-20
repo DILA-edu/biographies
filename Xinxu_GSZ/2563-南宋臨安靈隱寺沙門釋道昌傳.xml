@@ -1,29 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="興福">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>南宋臨安靈隱寺沙門釋道昌傳 (From CBETA edition of 新續高僧傳 卷 049）</title>
-                <author>喻謙 Yu Qian</author>
-                <respStmt>
-                    <resp>Markup</resp>
-                    <name>張伯雍 Chang Po-Yung</name>
-                </respStmt>
-                <principal>馬德偉 Marcus Bingenheimer</principal>
-            </titleStmt>
-            <publicationStmt>
-                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div>
-                <head>
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福">
+<lb
+ed="B" n=""/><anchor n="B.27.0151"/>
                     <head>南宋臨安靈隱寺沙門釋道昌傳</head>
-                </head>
                 <p xml:id="pB27p0364b0201">釋道昌字月堂姓吳氏歸安人幼投鹿苑禮澄公為師年十三
 <lb ed="B" n="0364b03"/>祝髮受具堅持淨節不異成人踰年行腳不禪寒暑尋訪耆宿
 <lb ed="B" n="0364b04"/>究取上乘時妙湛佳湖州道場聲譽甚盛昌往謁之一日問妙
@@ -48,7 +27,4 @@
                     <ptr target="#" type="person"/>
                     <ptr target="#" type="person"/>
                 </linkGrp>
-            </div>
-        </body>
-    </text>
-</TEI>
+</div>

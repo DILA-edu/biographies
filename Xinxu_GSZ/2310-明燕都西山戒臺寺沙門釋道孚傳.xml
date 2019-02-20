@@ -1,29 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="明律">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>明燕都西山戒臺寺沙門釋道孚傳 (From CBETA edition of 新續高僧傳 卷 028）</title>
-                <author>喻謙 Yu Qian</author>
-                <respStmt>
-                    <resp>Markup</resp>
-                    <name>張伯雍 Chang Po-Yung</name>
-                </respStmt>
-                <principal>馬德偉 Marcus Bingenheimer</principal>
-            </titleStmt>
-            <publicationStmt>
-                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div>
-                <head>
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="明律">
+<lb
+ed="B" n=""/><anchor n="B.27.0151"/>
                     <head>明燕都西山戒臺寺沙門釋道孚傳</head>
-                </head>
                 <p xml:id="pB27p0231b1801">釋道孚字知幻姓蔣氏江浦人也初依金陵靈谷寺雅慕清絜
 <lb ed="B" n="0231b19"/>不和情俗年三十薙染受具發願參方展程之日即自誓曰此
 <lb ed="B" n="0231b20"/>行不踏曹溪路不敢回頭見故鄉卒踐其言明正統間孚方北
@@ -41,7 +20,4 @@
                     <ptr target="#" type="person"/>
                     <ptr target="#" type="person"/>
                 </linkGrp>
-            </div>
-        </body>
-    </text>
-</TEI>
+</div>

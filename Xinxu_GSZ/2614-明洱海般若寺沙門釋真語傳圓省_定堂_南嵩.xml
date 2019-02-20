@@ -1,30 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="興福">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>明洱海般若寺沙門釋真語傳圓省_定堂_南嵩 (From CBETA edition of 新續高僧傳 卷 053）</title>
-                <author>喻謙 Yu Qian</author>
-                <respStmt>
-                    <resp>Markup</resp>
-                    <name>張伯雍 Chang Po-Yung</name>
-                </respStmt>
-                <principal>馬德偉 Marcus Bingenheimer</principal>
-            </titleStmt>
-            <publicationStmt>
-                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div>
-                <head>
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福">
+<lb
+ed="B" n=""/><anchor n="B.27.0151"/>
                     <head>明洱海般若寺沙門釋真語傳<note place="inline">圓省　定堂　南嵩</note>
                     </head>
-                </head>
                 <p xml:id="pB27p0395a0701">釋真語字默庵姓李氏賓川人也生有善性幼喜事佛明嘉靖
 <lb ed="B" n="0395a08"/>癸丑禮師正宗薙髮剏止止庵真語初不識字及授經論禮誦
 <lb ed="B" n="0395a09"/>華嚴日夜不輟七易寒暑慧性頓開口誦心惟便通玅義後李
@@ -54,7 +33,4 @@
                     <ptr target="#" type="person"/>
                     <ptr target="#" type="person"/>
                 </linkGrp>
-            </div>
-        </body>
-    </text>
-</TEI>
+</div>

@@ -1,29 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="習禪">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>南宋隆興黃龍寺沙門釋道震傳 (From CBETA edition of 新續高僧傳 卷 013）</title>
-                <author>喻謙 Yu Qian</author>
-                <respStmt>
-                    <resp>Markup</resp>
-                    <name>張伯雍 Chang Po-Yung</name>
-                </respStmt>
-                <principal>馬德偉 Marcus Bingenheimer</principal>
-            </titleStmt>
-            <publicationStmt>
-                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div>
-                <head>
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪">
+<lb
+ed="B" n=""/><anchor n="B.27.0151"/>
                     <head>南宋隆興黃龍寺沙門釋道震傳</head>
-                </head>
                 <p xml:id="pB27p0123a1701">釋道震字山堂金陵趙氏子也垂髫依覺印英禪師英遷泗之
 <lb ed="B" n="0123a18"/>普照得度久之辤謁丹霞湻與論曹洞宗旨震呈以偈曰白雲
 <lb ed="B" n="0123a19"/>深覆古寒巖異草靈花彩鳳銜夜半天明日當午騎牛背面著
@@ -40,7 +19,4 @@
                     <ptr target="#" type="person"/>
                     <ptr target="#" type="person"/>
                 </linkGrp>
-            </div>
-        </body>
-    </text>
-</TEI>
+</div>

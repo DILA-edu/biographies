@@ -1,29 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="雜識">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>南宋江西羅湖沙門釋曉瑩傳 (From CBETA edition of 新續高僧傳 卷 061）</title>
-                <author>喻謙 Yu Qian</author>
-                <respStmt>
-                    <resp>Markup</resp>
-                    <name>張伯雍 Chang Po-Yung</name>
-                </respStmt>
-                <principal>馬德偉 Marcus Bingenheimer</principal>
-            </titleStmt>
-            <publicationStmt>
-                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div>
-                <head>
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="雜識">
+<lb
+ed="B" n=""/><anchor n="B.27.0151"/>
                     <head>南宋江西羅湖沙門釋曉瑩傳</head>
-                </head>
                 <p xml:id="pB27p0443b1401">釋曉瑩字仲溫未知何許人亦不詳其氏族既離塵俗歷訪叢
 <lb ed="B" n="0443b15"/>席頓明大事四眾推重晚歸羅湖杜門<anchor xml:id="beg_1f3" type="cb-app"/>卻<anchor xml:id="end_1f3"/>掃不與世接惟以平
 <lb ed="B" n="0443b16"/>昔所見聞諸方尊宿提倡向上及道侶譚說發揮宗教之言或
@@ -36,7 +15,4 @@
                     <ptr target="#" type="person"/>
                     <ptr target="#" type="person"/>
                 </linkGrp>
-            </div>
-        </body>
-    </text>
-</TEI>
+</div>

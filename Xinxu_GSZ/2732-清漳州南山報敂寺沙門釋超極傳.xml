@@ -1,29 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="雜識">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>清漳州南山報敂寺沙門釋超極傳 (From CBETA edition of 新續高僧傳 卷 063）</title>
-                <author>喻謙 Yu Qian</author>
-                <respStmt>
-                    <resp>Markup</resp>
-                    <name>張伯雍 Chang Po-Yung</name>
-                </respStmt>
-                <principal>馬德偉 Marcus Bingenheimer</principal>
-            </titleStmt>
-            <publicationStmt>
-                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div>
-                <head>
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="雜識">
+<lb
+ed="B" n=""/><anchor n="B.27.0151"/>
                     <head>清漳州南山報敂寺沙門釋超極傳</head>
-                </head>
                 <p xml:id="pB27p0458b0501">釋超極字休耳晚號笨翁姓陳氏靖人也父於明季以卿貢進
 <lb ed="B" n="0458b06"/>士謁選入都病沒燕山會流冠鴟張京城淪陷旅櫬未還心懷
 <lb ed="B" n="0458b07"/>忍痛絕意世榮竟從雪峰亘薙染得法後飄笠孤征辛勤萬里
@@ -44,7 +23,4 @@
                     <ptr target="#" type="person"/>
                     <ptr target="#" type="person"/>
                 </linkGrp>
-            </div>
-        </body>
-    </text>
-</TEI>
+</div>

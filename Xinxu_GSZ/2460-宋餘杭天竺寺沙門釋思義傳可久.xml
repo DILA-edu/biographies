@@ -1,30 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="淨讀">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>宋餘杭天竺寺沙門釋思義傳可久 (From CBETA edition of 新續高僧傳 卷 041）</title>
-                <author>喻謙 Yu Qian</author>
-                <respStmt>
-                    <resp>Markup</resp>
-                    <name>張伯雍 Chang Po-Yung</name>
-                </respStmt>
-                <principal>馬德偉 Marcus Bingenheimer</principal>
-            </titleStmt>
-            <publicationStmt>
-                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div>
-                <head>
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="淨讀">
+<lb
+ed="B" n=""/><anchor n="B.27.0151"/>
                     <head>宋餘杭天竺寺沙門釋思義傳<note place="inline">可久</note>
                     </head>
-                </head>
                 <p xml:id="pB27p0313a0301">釋思義字和甫姓凌氏武康人也試法華經第一得度悟解過
 <lb ed="B" n="0313a04"/>人攝<g ref="#CB33485">󸋍</g>講席風發泉湧泠然動聽顧以苦行自勵勤修三昧嘗
 <lb ed="B" n="0313a05"/>生肉癭纍纍項下如是行持夜夢功德天食之以桃其疾良已
@@ -43,7 +22,4 @@
                     <ptr target="#" type="person"/>
                     <ptr target="#" type="person"/>
                 </linkGrp>
-            </div>
-        </body>
-    </text>
-</TEI>
+</div>

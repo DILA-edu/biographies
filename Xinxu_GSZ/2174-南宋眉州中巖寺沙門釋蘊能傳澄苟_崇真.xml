@@ -1,30 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="習禪">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>南宋眉州中巖寺沙門釋蘊能傳澄苟_崇真 (From CBETA edition of 新續高僧傳 卷 014）</title>
-                <author>喻謙 Yu Qian</author>
-                <respStmt>
-                    <resp>Markup</resp>
-                    <name>張伯雍 Chang Po-Yung</name>
-                </respStmt>
-                <principal>馬德偉 Marcus Bingenheimer</principal>
-            </titleStmt>
-            <publicationStmt>
-                <p>For use in the Chinese Buddhist SNA project. Markup designed for extracting relationship data.</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Biographies extracted from the CBETA edition of the 新續高僧傳 (taken from Collection "B" (補續續大藏經）Vol.27 Text 151)</p>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div>
-                <head>
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪">
+<lb
+ed="B" n=""/><anchor n="B.27.0151"/>
                     <head>南宋眉州中巖寺沙門釋蘊能傳<note place="inline">澄苟　崇真</note>
                     </head>
-                </head>
                 <p xml:id="pB27p0135b0701">釋蘊能號慧目姓呂氏眉人也少習儒博究經史年二十二校
 <lb ed="B" n="0135b08"/>書村落偶於山寺見禪冊在几閱之似有得遂裂衣冠投僧圓
 <lb ed="B" n="0135b09"/>具一鉢遐遊首參寶勝澄甫禪師徵詰酬酢所趣頗異逕往荊
@@ -47,7 +26,4 @@
                     <ptr target="#" type="person"/>
                     <ptr target="#" type="person"/>
                 </linkGrp>
-            </div>
-        </body>
-    </text>
-</TEI>
+</div>
