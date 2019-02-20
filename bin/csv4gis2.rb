@@ -135,6 +135,10 @@ def e_linkGrp_text(e)
   r = ""
   $lbs[i..-1].each do |lb|
     break if lb > n2
+    if r.size > 50
+      r += '⋯⋯'
+      break
+    end
     r += $text[lb]
   end
   return '' if r.empty?
