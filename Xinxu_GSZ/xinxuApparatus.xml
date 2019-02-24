@@ -1,8 +1,28 @@
 ﻿<div xmlns="http://www.tei-c.org/ns/1.0" type="apparatus">
 <p>
+		<app from="beg003801">
+			<lem wit="喻眛庵輯影本">寺</lem>
+			<rdg wit="CBETA">寺</rdg>
+		</app>
 		<app from="beg_c">
 			<lem wit="喻眛庵輯影本">祟</lem>
 			<rdg wit="CBETA">崇</rdg>
+		</app>
+		<app from="beg003803">
+			<lem wit="喻眛庵輯影本">至橋</lem>
+			<rdg wit="CBETA">至橋</rdg>
+		</app>
+		<app from="beg003901">
+			<lem wit="喻眛庵輯影本">士</lem>
+			<rdg wit="CBETA">土</rdg>
+		</app>
+		<app from="beg_d">
+			<lem wit="喻眛庵輯影本">已</lem>
+			<rdg wit="CBETA">己</rdg>
+		</app>
+		<app from="beg003903">
+			<lem wit="喻眛庵輯影本"><g ref="#CB33451">󸊫</g></lem>
+			<rdg wit="CBETA"><g ref="#CB33451">󸊫</g></rdg>
 		</app>
 	</p>
 </div>

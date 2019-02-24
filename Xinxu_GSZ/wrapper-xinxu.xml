@@ -92,19 +92,21 @@
         <xi:include href="1993-1introduction.xml"/>
       </div>
       <div type="juan" n="1">
-        <xi:include href="1993-宋京師傳法院沙門釋法天傳.xml"/>
+        <xi:include href="1993-2宋京師傳法院沙門釋法天傳.xml"/>
         <xi:include href="1994-宋京師傳法院沙門釋天息災傳施護_道圓_行勤_光遠.xml"/>
         <xi:include href="1995-宋西夏護國仁王寺沙門釋不動傳.xml"/>
         <xi:include href="1996-宋京師傳法院沙門釋法護傳惟淨_紹德_慧絢.xml"/>
         <xi:include href="1997-宋京師傳法院沙門釋吉祥傳慈賢_金總持_日稱.xml"/>
+      </div>
+      <div type="juan" n="2">
         <xi:include href="1998-元甘泉馬謕山沙門釋智慧傳廣福_安藏_逸林.xml"/>
         <xi:include href="1999-元雲南玉案山寺沙門釋雄辯傳.xml"/>
         <xi:include href="2000-元燕都慶壽寺沙門釋沙囉巴傳剌溫卜_迦囉思巴.xml"/>
         <xi:include href="2001-元燕都廣寒院沙門釋識里傳.xml"/>
         <xi:include href="2002-元會稽圓通寺沙門釋弘濟傳般若空利.xml"/>
-        <xi:include href="2003siLe寺泐.xml"/>
+        <xi:include href="2003zongLe宗泐.xml"/>
         <xi:include href="2004zhiGuang智光.xml"/>
-        <xi:include href="2005-清五臺清涼山寺沙門釋老藏傳.xml"/>
+        <xi:include href="2005laoZang老藏.xml"/>
         <xi:include href="2006-清蒙古多倫泊彙宗寺沙門釋克圖傳.xml"/>
         <xi:include href="2007-宋永嘉瑞鹿寺釋本先傳.xml"/>
         <xi:include href="2008-宋溫州東溪草堂沙門釋處元傳.xml"/>
