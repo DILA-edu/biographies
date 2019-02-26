@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0486a02zuDeng">
-    <head><lb ed="X" n="0486a02"/>　　　　<persName key="A015552">無盡燈</persName>禪師傳</head>
-    <p><anchor n="X.77.1524.0486a03"/><lb ed="X" n="0486a03"/><persName key="A015552">祖燈</persName>。<persName key="A015552">無盡</persName>其字也。族王氏。<placeName key="PL000000012196">四明</placeName>人。父<persName key="A022386">好謙</persName>。甞寫華嚴
+    <head><lb ed="X" n="0486a02"/>　　　　<persName key="A000984">無盡燈</persName>禪師傳</head>
+    <p><anchor n="X.77.1524.0486a03"/><lb ed="X" n="0486a03"/><persName key="A000984">祖燈</persName>。<persName key="A000984">無盡</persName>其字也。族王氏。<placeName key="PL000000012196">四明</placeName>人。父<persName key="A022386">好謙</persName>。甞寫華嚴
         <lb ed="X" n="0486a04"/>經。五色舍利。見於筆端。師年方幼。歎曰。般若之驗。一
         <lb ed="X" n="0486a05"/>至於斯邪。即求出家。依郡之<placeName key="PL000000012166">天寧</placeName><persName key="A022387">東白明</persName>公。秉戒於
         <lb ed="X" n="0486a06"/><persName key="A022388">開元奎</persName>律師。已而<persName key="A022268">日溪泳</persName>公。來代<persName key="A022387">明</persName>公說法。命掌綱
@@ -41,60 +41,60 @@
     
     <linkGrp>
         <link targets="#0486a03 #0486a05"/>
-        <ptr target="#A015552" type="person"/>
+        <ptr target="#A000984" type="person"/>
         <ptr target="#A022386" type="person"/>
         <ptr target="#PL000000012196" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0486a03 #0486a05"/>
-        <ptr target="#A015552" type="person"/>
+        <ptr target="#A000984" type="person"/>
         <ptr target="#A022387" type="person"/>
         <ptr target="#PL000000012166" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0486a05 #0486a06"/>
-        <ptr target="#A015552" type="person"/>
+        <ptr target="#A000984" type="person"/>
         <ptr target="#A022388" type="person"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0486a06 #0486a11"/>
-        <ptr target="#A015552" type="person"/>
+        <ptr target="#A000984" type="person"/>
         <ptr target="#A022268" type="person"/>
         <ptr target="#PL000000012166" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0486a11 #0486a13"/>
-        <ptr target="#A015552" type="person"/>
+        <ptr target="#A000984" type="person"/>
         <ptr target="#A000655" type="person"/>
         <ptr target="#PL000000012081" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0486a11 #0486a13"/>
-        <ptr target="#A015552" type="person"/>
+        <ptr target="#A000984" type="person"/>
         <ptr target="#A022389" type="person"/>
         <ptr target="#PL000000011683" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0486a11 #0486a13"/>
-        <ptr target="#A015552" type="person"/>
+        <ptr target="#A000984" type="person"/>
         <ptr target="#A000325" type="person"/>
         <ptr target="#PL000000014412" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0486a11 #0486a13"/>
-        <ptr target="#A015552" type="person"/>
+        <ptr target="#A000984" type="person"/>
         <ptr target="#A022390" type="person"/>
         <ptr target="#PL000000014814" type="place"/>
     </linkGrp>  
     <linkGrp>
         <link targets="#0486a14 #0486a21"/>
-        <ptr target="#A015552" type="person"/>
+        <ptr target="#A000984" type="person"/>
         <ptr target="#A022391" type="person"/>
         <ptr target="#PL000000014411" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0486a21 #0486b05"/>
-        <ptr target="#A015552" type="person"/>
+        <ptr target="#A000984" type="person"/>
         <ptr target="#PL000000014860" type="place"/>
         <ptr target="#j22211612221161" type="time"/>
     </linkGrp>
@@ -105,7 +105,7 @@
     </linkGrp>
     <linkGrp>
         <link targets="#0486b06 #0486b07"/>
-        <ptr target="#A015552" type="person"/>
+        <ptr target="#A000984" type="person"/>
         <ptr target="#A022392" type="person"/>
     </linkGrp>
 </div>

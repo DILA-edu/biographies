@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0456c11shuiSheng">
-    <head><lb ed="X" n="0456c11"/>　　　　<persName key="A015520">水盛</persName>禪師傳</head>
-    <p><anchor n="X.77.1524.0456c12"/><lb ed="X" n="0456c12"/><persName key="A015520">水盛</persName>。字<persName key="A015520">竺源</persName>。自號<persName key="A015520">無住翁</persName>。饒之<placeName key="PL000000018724">樂平</placeName>范氏子。<date key="j21929542193319" when-iso="1292">十七</date>依
+    <head><lb ed="X" n="0456c11"/>　　　　<persName key="A000285">水盛</persName>禪師傳</head>
+    <p><anchor n="X.77.1524.0456c12"/><lb ed="X" n="0456c12"/><persName key="A000285">水盛</persName>。字<persName key="A000285">竺源</persName>。自號<persName key="A000285">無住翁</persName>。饒之<placeName key="PL000000018724">樂平</placeName>范氏子。<date key="j21929542193319" when-iso="1292">十七</date>依
         <lb ed="X" n="0456c13"/><placeName key="PL000000017119">羅山院</placeName><persName key="A022194">甞公</persName>。甞使從儒者學。而師每習禪定。且針指
         <lb ed="X" n="0456c14"/>出血。書金剛經。甞呵之。師云。學儒可敵生死耶。從度
         <lb ed="X" n="0456c15"/>走。謁<persName key="A022195">月庭忠</persName>公於<placeName key="PL000000008734">蔣山</placeName>。端坐一室。以三百六十骨節。
@@ -30,7 +30,7 @@
         <lb ed="X" n="0457a16"/>大無畏。如透水月華。萬浪千波。觸之不散。方不被生
         <lb ed="X" n="0457a17"/>死陰魔所惑。此師生平實證實悟者。故亦用是以誨
         <lb ed="X" n="0457a18"/>人也。師制行峻絕。有壁立萬仞之意。<placeName key="PL000000020011">廣信</placeName><persName key="A022203">祝蕃遠</persName>甞
-        <lb ed="X" n="0457a19"/>云。<placeName key="PL000000020168">番陽</placeName><persName key="A015520">竺源</persName>。吳中斷崖。其人類孤峯懸崖。可仰望而
+        <lb ed="X" n="0457a19"/>云。<placeName key="PL000000020168">番陽</placeName><persName key="A000285">竺源</persName>。吳中斷崖。其人類孤峯懸崖。可仰望而
         <lb ed="X" n="0457a20"/>不可攀躋。人稱之為實錄。<date from-iso="1347-05-19" to-iso="1347-06-16" key="j22131802213208">至正丁亥夏四月</date>。召四眾
         <lb ed="X" n="0457a21"/>戒飭之。引紙膝上書偈。端坐而逝。將葬。是夜有光。如
         <lb ed="X" n="0457a22"/>匹練自天際下燭。交相通貫。未幾。散布<placeName key="PL000000055717">五峯</placeName>之頂。復
@@ -39,94 +39,94 @@
     
     <linkGrp>
         <link targets="#0456c12 #0456c12"/>
-        <ptr target="#A015520" type="person"/>
+        <ptr target="#A000285" type="person"/>
         <ptr target="#PL000000018724" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0456c12 #0456c14"/>
-        <ptr target="#A015520" type="person"/>
+        <ptr target="#A000285" type="person"/>
         <ptr target="#A022194" type="person"/>
         <ptr target="#PL000000017119" type="place"/>
         <ptr target="#j21929542193319" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0456c14 #0456c19"/>
-        <ptr target="#A015520" type="person"/>
+        <ptr target="#A000285" type="person"/>
         <ptr target="#A022195" type="person"/>
         <ptr target="#PL000000008734" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0456c19 #0456c23"/>
-        <ptr target="#A015520" type="person"/>
+        <ptr target="#A000285" type="person"/>
         <ptr target="#PL000000018801" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0456c23 #0456c24"/>
-        <ptr target="#A015520" type="person"/>
+        <ptr target="#A000285" type="person"/>
         <ptr target="#PL000000017119" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0456c24 #0457a01"/>
-        <ptr target="#A015520" type="person"/>
+        <ptr target="#A000285" type="person"/>
         <ptr target="#A022196" type="person"/>
         <ptr target="#PL000000008734" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0457a02 #0457a05"/>
-        <ptr target="#A015520" type="person"/>
+        <ptr target="#A000285" type="person"/>
         <ptr target="#A022197" type="person"/>
         <ptr target="#PL000000016199" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0457a05 #0457a05"/>
-        <ptr target="#A015520" type="person"/>
+        <ptr target="#A000285" type="person"/>
         <ptr target="#PL000000012319" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0457a05 #0457a05"/>
-        <ptr target="#A015520" type="person"/>
+        <ptr target="#A000285" type="person"/>
         <ptr target="#PL000000018709" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0457a05 #0457a07"/>
-        <ptr target="#A015520" type="person"/>
+        <ptr target="#A000285" type="person"/>
         <ptr target="#A022198" type="person"/>
         <ptr target="#PL000000055715" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0457a07 #0457a09"/>
-        <ptr target="#A015520" type="person"/>
+        <ptr target="#A000285" type="person"/>
         <ptr target="#PL000000011475" type="place"/>
         <ptr target="#j22065062206859" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0457a09 #0457a10"/>
-        <ptr target="#A015520" type="person"/>
+        <ptr target="#A000285" type="person"/>
         <ptr target="#PL000000055715" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0457a10 #0457a11"/>
-        <ptr target="#A015520" type="person"/>
+        <ptr target="#A000285" type="person"/>
         <ptr target="#A007254" type="person"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0457a11 #0457a13"/>
-        <ptr target="#A015520" type="person"/>
+        <ptr target="#A000285" type="person"/>
         <ptr target="#A022199" type="person"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0457a11 #0457a13"/>
-        <ptr target="#A015520" type="person"/>
+        <ptr target="#A000285" type="person"/>
         <ptr target="#A022200" type="person"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0457a11 #0457a13"/>
-        <ptr target="#A015520" type="person"/>
+        <ptr target="#A000285" type="person"/>
         <ptr target="#A022201" type="person"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0457a13 #0457a14"/>
-        <ptr target="#A015520" type="person"/>
+        <ptr target="#A000285" type="person"/>
         <ptr target="#A022202" type="person"/>
     </linkGrp>
     <linkGrp>
@@ -136,7 +136,7 @@
     </linkGrp>
     <linkGrp>
         <link targets="#0457a20 #0457a21"/>
-        <ptr target="#A015520" type="person"/>
+        <ptr target="#A000285" type="person"/>
         <ptr target="#j22131802213208" type="time"/>
     </linkGrp>
 </div>

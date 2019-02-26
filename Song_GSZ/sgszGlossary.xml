@@ -27,7 +27,7 @@
 <note xml:id="g25" resp="makita">六和，即「六和敬」，指僧侶六種和同愛敬（同戒、同見、同行、身慈、口慈、意慈）。</note>
 <note xml:id="g26" resp="makita">阿耨多羅三藐三菩提，<name>梵</name>語<seg type="latin">Anuttarasamyaksaṃbodhi</seg>，又作「等覺」、「正覺」、「等正覺」等。「薩云」乃「薩般若」之訛譯。「般若」即智慧也。</note>
 <note xml:id="g27" resp="makita">語出《漢書‧武帝紀》：「翌日親登<placeName key="PL000000023253">嵩高</placeName>，御史乘屬，在廟旁吏卒咸聞呼『萬歲』者三。」</note>
-<note xml:id="g28" resp="sgsz">三慧，聞慧、思慧、修慧也。</note>
+<note xml:id="g28" resp="sgsz">三慧，指聞慧、思慧、修慧。詳見《佛光‧三慧》頁670。</note>
 <note xml:id="g29" resp="sgsz">三業，身口意三處之所作也。</note>
 <note xml:id="g30" resp="sgsz">剃染，即剃頭染衣，指出家。</note>
 <note rend="display:none;" xml:id="g31" resp="sgsz"><persName key="A021060">顧炎武</persName>云：「《後漢書‧方術傳》：『自是習為内學。』注：『蓋謂圖讖之書。其事祕宻，故稱内也。』褚少孫《補滑嵇傳》：『以傳記雜說為外家，是以六經為内也。』東漢儒者則以七緯為内學，六經為外學。」《四庫‧魏書‧卷十六考證》。<persName key="A017616">李善</persName>《文選‧東都賦》注：「 六籍，六經也。」（g32補充）</note>
@@ -2034,21 +2034,21 @@
 <note xml:id="g2031" resp="sgsz">掉舌，猶言語。</note>
 <note xml:id="g2032" resp="sgsz">給使，給侍、供役。</note>
 <note xml:id="g2033" resp="sgsz">服章，服飾。</note>
-<note xml:id="g2034" resp="sgsz">乘剛，猶昇天。語出<persName key="A006915">葛洪</persName>《抱朴子‧內篇雜應第十五》：「鳶飛轉髙則但直舒兩翅了，不復扇搖之而自進者，漸乘㓻氣故也。」</note>
+<note xml:id="g2034" resp="sgsz">乘剛，猶昇天。<persName key="A006915">葛洪</persName>《抱朴子‧內篇雜應第十五》：「鳶飛轉髙則但直舒兩翅了，不復扇搖之而自進者，漸乘㓻氣故也。」</note>
 <note xml:id="g2035" resp="sgsz">襞掠，即「擗掠」，打掃。<seg type="pronunciation">襞，音「bì（ㄅㄧˋ）」。</seg></note>
 <note xml:id="g2036" resp="sgsz">弭節，停車不進。語出《楚辭‧離騷經章句第一》：「吾令<persName key="A007919">羲和</persName>弭節兮，望<placeName key="PL000000055451">崦嵫</placeName>而勿迫。」</note>
 <note xml:id="g2037" resp="sgsz">𥽦<seg type="pronunciation">，音「zuò（ㄗㄨㄛˋ）」</seg>，精米。</note>
-<note xml:id="g2038" resp="sgsz">菜茹，食用蔬菜。《漢書‧卷二十四上》：「菜茹有畦。」</note>
+<note xml:id="g2038" resp="sgsz">菜茹，蔬菜。《漢書‧卷二十四上‧食貨志》頁1120：「菜茹有畦。」<persName key="A019696">顏師古</persName>注：「茹，所食之菜也。畦，區也。」</note>
 <note xml:id="g2039" resp="sgsz">理棼，猶治棼，解開亂絲。語出《十三經‧左傳‧隱公四年》：「臣聞以德和民不聞以亂。以亂，猶治絲而棼之也。」</note>
 <note xml:id="g2040" resp="sgsz">破木，破煩惱。<ref cRef="CBETA_T31_n1595_p235_b6-p235_b8">《攝大乘論釋》CBETA, T31, no. 1595, p. 235, b6-8</ref>：「如世間欲破木：先用細楔，後用麁楔；觀行人破煩惱亦爾。」</note>
 <note xml:id="g2041" resp="sgsz">鴻緒，猶後嗣。</note>
-<note xml:id="g2042" resp="sgsz">履貞吉，指隱士。語出《易經‧履卦》：「履道坦坦，幽人貞吉。」<persName key="A005009">孔穎達</persName>疏：「幽人貞吉者，既無險難，故在幽隱之人守正得吉。」</note>
+<note xml:id="g2042" resp="sgsz">履貞吉，指守正道而不自亂。語出《易經‧履卦》：「履道坦坦，幽人貞吉。」<persName key="A005009">孔穎達</persName>疏：「幽人貞吉者，既無險難，故在幽隱之人守正得吉。」</note>
 <note xml:id="g2043" resp="sgsz">七支，<ref cRef="CBETA_T01_n26_p735_c5-p735_c7">《中阿含經》CBETA, T01, no. 26, p. 735, c5-7</ref>：「正見、正志、正語、正業、正命、正方便、正念。若有以此七支習、助、具，善趣向心得一者，是謂聖正定。」</note>
 <note xml:id="g2044" resp="sgsz">耄，八十、九十歲。<seg type="note">《禮記‧曲禮上》：「八十、九十曰耄，七年曰悼。悼與耄雖有罪，不加刑焉！」</seg></note>
-<note xml:id="g2045" resp="sgsz">器，指法器。凡能修行佛道者，稱為法器。</note>
+<note xml:id="g2045" resp="sgsz">以燈傳燈，用器投器，指傳法嗣。器，指法器。凡能修行佛道者，稱為法器。</note>
 <note xml:id="g2046" resp="sgsz">門子，看門的人。</note>
 <note xml:id="g2047" resp="sgsz">聞持，聞而久憶。<ref cRef="CBETA_T01_n26_p421_c16-p421_c19">《中阿含經》CBETA, T01, no. 26, p. 421, c16-19</ref>：「謂一心聽經人復有二種：有聞持法、有聞不持法；若聞持法者勝，聞不持法者為不如也。」</note>
-<note xml:id="g2048" resp="sgsz">直聲，依文誦讀。<ref cRef="CBETA_T35_n1735_p876_c5">《大方廣佛華嚴經疏》CBETA, T35, no. 1735, p. 876, c5</ref>：「唯一直聲，無宮商等異。」</note>
+<note xml:id="g2048" resp="sgsz">直聲，沒有高低起伏聲調的誦讀。<ref cRef="CBETA_T35_n1735_p876_c5">《大方廣佛華嚴經疏》CBETA, T35, no. 1735, p. 876, c5</ref>：「唯一直聲，無宮商等異。」</note>
 <note xml:id="g2049" resp="sgsz">堠，<seg type="pronunciation">音「hòu（ㄏㄡˋ）」，</seg>古稱里程碑，以土堆構成。「候」通「堠」。《史記．卷二十五．律書》頁1242：「願且堅邊設候，結和通使。」</note>
 <note xml:id="g2050" resp="sgsz">唄𠽋，讚歎。<seg type="pronunciation">𠽋，音「nì（ㄋㄧˋ）」。</seg><ref cRef="CBETA_K35_n1257_p145_a12-p153_a5">《新集藏經音義隨函錄(第13卷-第30卷)》CBETA, K35, no. 1257, p. 145, a12-p. 153, a5</ref>：「唄𠽋（上蒲邁反，下女力反，四分律作『唄匿』）。……唄匿（上蒲芥反，此言讚嘆）。」又，<ref cRef="CBETA_T34_n1723_p727_b20-p727_b21">《妙法蓮華經玄贊》CBETA, T34, no. 1723, p. 727, b20-21</ref>：「<name>梵</name>云『婆陟』，此言『讚歎』，『唄匿』訛也。」</note>
 <note xml:id="g2051" resp="sgsz">表詮，對事理的解釋。</note>
