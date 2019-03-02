@@ -8790,7 +8790,7 @@
 		</app>
 		<app from="beg0872sgsz1" ana="appType1b">
 			<lem wit="【大】">藏</lem>
-			<rdg resp="sgsz" wit="【范】【磧】【宮】">臧</rdg>
+	               	<rdg resp="sgsz" wit="【范】【磧】【宮】">臧</rdg><!-- 《金石文字辨異‧下平‧七陽》臧、藏互通 -->
 		</app>
 		<app from="beg0872001" ana="appType1b">
 			<lem wit="【大】">兔</lem>

@@ -1144,7 +1144,7 @@
 <note xml:id="g1142" resp="sgsz">猾夏，侵擾<placeName key="PL000000000083">中國</placeName>。《尚書‧虞書‧舜典》：「蠻夷猾夏，寇賊姦宄。」</note>
 <note xml:id="g1143" resp="makita">依違，即模棱兩可。<seg type="note">《漢書‧卷二十一上》：「依違以惟，未能修明。」<persName key="A019696">顏師古</persName>注：「依違，不決之意也。惟，思也。」</seg></note>
 <note xml:id="g1144" resp="sgsz">肆，陳列。</note>
-<note xml:id="g1145" resp="sgsz">認指忘月，本末倒置之謂。<ref cRef="CBETA_T25_n1509_p726_a03">《大智度論》CBETA, T25, no. 1509, p. 726, a03</ref>：「如人以指指月，不知者但觀其指而不視月。」</note>
+<note xml:id="g1145" resp="sgsz">認指忘月，本末倒置之謂。<ref cRef="CBETA_T25_n1509_p726_a03">《大智度論》CBETA, T25, no. 1509, p. 726, a03</ref>：「如人以指指月，不知者但觀其指而不視月。」指、筌譬教，月、魚譬法。</note>
 <note xml:id="g1146" resp="sgsz">是糺是殛，言舉而殺之。語出《十三經‧左傳‧僖公二十八年》：「明神先君，是糾是殛。」</note>
 <note xml:id="g1147" resp="sgsz">六情，指喜、怒、哀、樂、愛、惡等六種感情。</note>
 <note rend="display:none;" xml:id="g1148" resp="sgsz">漸修，頓悟之對稱。<ref cRef="CBETA_X05_n227_p064_b03">《貞元新譯華嚴經疏》CBETA, X05, no. 0227, p. 064, b03</ref>：「謂說漸者，則看心修淨方便通經，或頓悟漸修，或漸修漸悟。說頓者，直指心體，或頓毀語言，或頓悟頓修，或無修無悟。」</note>
@@ -1207,7 +1207,7 @@
 <note xml:id="g1205" resp="sgsz">否、復，皆《易經》卦名。否卦，象天地不交，萬物不通之義。復卦，機運循環之象。</note>
 <note xml:id="g1206" resp="makita">嗃嗃，<seg type="pronunciation">音「hè hè（ㄏㄜˋ ㄏㄜˋ）」，</seg>嚴肅貌。嘻嘻，喜笑之貌。語出《易經‧家人卦‧象曰》：「家人嗃嗃，未失也；婦子嘻嘻，失家節也。」<seg type="note"><persName key="A002424">王弼</persName>注：「家人之義，各自修一家之道，不能知家外他人之事也。」</seg><persName key="A005009">孔穎達</persName>疏：「未失也者，初雖悔厲似失於猛，終无慢黷，故曰未失也。失家節者，若縱其嘻嘻，初雖歡樂，終失家節也。」</note>
 <note xml:id="g1207" resp="sgsz">刀圭，中藥量器名，<persName key="A008894">孫思邈</persName>《備急千金要方．卷一》：「刀圭者，十分方寸匕之一，準如梧桐子大也。」</note>
-<note xml:id="g1208" resp="sgsz">三身，<seg type="note"><name>梵</name>語<seg type="latin">trayaḥ kāyāḥ</seg>。</seg>又作三身佛、三佛身、三佛。即佛之法身、報身以及應身。見《佛光》頁555。</note>
+<note xml:id="g1208" resp="sgsz">三身，<seg type="note"><name>梵</name>語<seg type="latin">trayaḥ kāyāḥ</seg>。</seg>又作三身佛、三佛身、三佛。即佛之法身（佛所說的正法）、報身（佛之果報身）以及應身（佛為教化眾生，應眾生之根機而變化顯現之身）。見《佛光‧三身》頁555。</note>
 <note xml:id="g1209" resp="sgsz">因地，為「果地」之對稱。<seg type="note">地者，位地、階位之意。</seg>指修行佛道之階位。<seg type="note">亦即指由因行至證果間之階位。與「因位」同義。</seg>見《佛光》頁2275。</note>
 <note xml:id="g1210" resp="sgsz">謾，通「漫」，徒然。</note>
 <note rend="display:none;" xml:id="g1211" resp="sgsz">伺，音「sì（ㄙˋ）」，暗中偵察。</note>
@@ -1281,7 +1281,7 @@
 <note xml:id="g1279" resp="makita">標格，即風範。</note>
 <note xml:id="g1280" resp="sgsz">周羅，即髻。案《釋氏要覽》CBETA, T54, no. 2127, p. 267, a18-19<ref cRef="CBETA_T54_n2127_p267_a18-p267_a19">CBETA, T54, no. 2127, p. 267, a18-19</ref>：「周羅髮，即今親教和尚，最後為剃頂上髮也。<name>梵</name>語『周羅』，此云小結。」</note>
 <note xml:id="g1281" resp="makita">諸父，泛稱伯父及叔父；季父，年齡最小的叔父。</note>
-<note xml:id="g1282" resp="makita">語出《詩經‧豳風‧伐柯》：「伐柯伐柯，其則不遠。」</note>
+<note xml:id="g1282" resp="makita">伐柯，模範在旁不必遠求。語出《詩經‧豳風‧伐柯》：「伐柯伐柯，其則不遠。」</note>
 <note xml:id="g1283" resp="sgsz">裒多益寡，言多者得謙，物更裒聚彌益多也。裒，音「póu（ㄆㄡˊ）」，聚之多也。語出《易經‧謙卦》：「君子以裒多益寡，稱物平施。」</note>
 <note xml:id="g1284" resp="makita">日居月諸，喻光陰之流逝。語出《詩經‧邶風‧日月》：「日居月諸，照臨下土。」</note>
 <note xml:id="g1285" resp="sgsz">勞止，即辛苦。語出《詩經‧大雅‧民勞》：「民亦勞止，汔可小康。」</note>
@@ -1993,7 +1993,7 @@
 <note xml:id="g1991" resp="sgsz">道左，猶道旁。或作「道東」。語出《詩經‧唐風‧有杕之杜》：「有杕之杜，生于道左。」</note>
 <note xml:id="g1992" resp="sgsz">軍行，猶軍職。語出《十三經‧左傳‧僖公‧三十三年》：「復與之冀，未有軍行。」</note>
 <note xml:id="g1993" resp="sgsz">祓除，除災去邪之祭。語出《周禮‧春官宗伯下‧女巫》：「女巫掌歲時祓除、釁浴。」</note>
-<note rend="display:none;" xml:id="g1994" resp="sgsz">若，如此、這樣。<seg type="note">《尚書‧大誥》：「爾知寧王若勤哉！」</seg></note>
+<note xml:id="g1994" resp="sgsz">若，選擇。《國語‧晉語‧里克殺奚齊而秦立惠公》：「<persName key="A005574">秦穆公</persName>許諾。反使者，乃召大夫<persName>子明</persName>及<persName>公孫枝</persName>，曰『夫<placeName key="PL000000005729">晉國</placeName>之亂，吾誰使先，若夫二公子而立之？以為朝夕之急。』」</note>
 <note rend="display:none;" xml:id="g1995" resp="sgsz">精潔，精粹潔淨。</note>
 <note xml:id="g1996" resp="sgsz">捫蘿，攀援葛藤，形容道路艱險。</note>
 <note xml:id="g1997" resp="sgsz">趾，通「址」。<persName key="A010968">潘岳</persName>《四庫‧文選註‧卷十‧西征賦》頁36：「擢百尋之層觀，今數仞之餘趾。」<persName key="A017616">李善</persName>注：「趾，基也。」</note>
@@ -2248,4 +2248,8 @@
 <note xml:id="g2245" resp="sgsz">一成，完全。</note>
 <note xml:id="g2246" resp="sgsz">慕學，即學習。慕，習、效。</note>
 <note xml:id="g2247" resp="sgsz">大供，指無遮大會。</note>
+<note xml:id="g2248" resp="sgsz">機，事物變化的原由。《莊釋‧外篇‧至樂第十八》頁625：「萬物皆出於機，皆入於機。」<persName key="A021444">成玄英</persName>疏：「機者發動，所謂造化也。」</note>
+<note xml:id="g2249" resp="sgsz">屬耳，注意傾聽。《後漢書‧卷二十四‧<persName key="A019542">馬援</persName>列傳》頁837：「自皇太子、諸王侍聞者，莫不屬耳忘倦。」</note>
+<note xml:id="g2250" resp="sgsz">從，隨；荒頓，荒廢。</note>
+<note xml:id="g2251" resp="sgsz">羞，猶獻。《左傳．隱公三年》：「可薦於鬼神，可羞於王公。」</note>
 </div>
