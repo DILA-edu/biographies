@@ -563,6 +563,10 @@ def check_regular_name(auth_info, name_set):
       info = auth_info[k]
     except:
       sys.exit('錯誤：找不到 {} 的 authority 資訊，請先執行 read-authority.py 取得最新資訊，\n如果還是發生相同錯誤，請檢查 Authority DB 是否有此 ID。'.format(k))
+    
+    if info is None:
+      sys.exit('{} 在 authority 資訊中不存在。'.format(k))
+
     if 'name' in info:
       new = k + '\t' + info['name']
     else:
