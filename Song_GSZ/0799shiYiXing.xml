@@ -2,7 +2,7 @@
 <div xmlns="http://www.tei-c.org/ns/1.0" type="義解" xml:id="gsz0732c07shiYiXing"><lb
 ed="T" n="0732c07"/><anchor n="T.50.2061.0732c07"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000023260"><placeName>中嶽</placeName><placeName>嵩陽寺</placeName></placeName><persName key="A000008">一行</persName>傳</head><p><lb
 ed="T" n="0732c08"/><persName key="A000008">釋一行</persName>，俗姓<name>張</name>，<placeName key="PL000000001981">鉅鹿</placeName>人也，本名<persName key="A000008">遂</persName>，則<date notBefore-iso="+0618-06-21" key="j19469511973336" notAfter-iso="+0690-09-16"><name>唐</name>初</date>佐<lb
-ed="T" n="0732c09"/>命<ptr type="glossary" target="#g682"/><persName key="A009313"><persName><anchor xml:id="beg0732002"/><choice resp="sgsz"><sic>剡</sic><corr>郯</corr></choice><anchor xml:id="end0732002"/>國公</persName><ptr target="#n3255"/><persName>公謹</persName></persName>之支孫也。丱歲<ptr rend="display:none;" type="glossary" target="#g635"/>不群，聰黠明<lb
+ed="T" n="0732c09"/>命<ptr type="glossary" target="#g682"/><persName key="A009313"><persName><anchor xml:id="beg0732002"/><choice resp="PC-JK-MB"><sic>剡</sic><corr>郯</corr></choice><anchor xml:id="end0732002"/>國公</persName><ptr target="#n3255"/><persName>公謹</persName></persName>之支孫也。丱歲<ptr rend="display:none;" type="glossary" target="#g635"/>不群，聰黠明<lb
 ed="T" n="0732c10"/>利，有老成<ptr rend="display:none;" type="glossary" target="#g672"/>之風。讀書不再覽，已暗誦矣。因<lb
 ed="T" n="0732c11"/>遇<persName key="A009319">普寂<roleName>禪師</roleName></persName>大行禪要，歸心者眾，乃悟世<lb
 ed="T" n="0732c12"/>幻，禮<persName key="A009319">寂</persName>為師，出家剃染。所誦經法，無不精<lb
@@ -34,9 +34,9 @@ ed="T" n="0733a08"/>其本，記念精熟，如素所習。唱數幅<ptr rend="d
 ed="T" n="0733a09"/>覺降榻稽首曰：「<ref target="#A000008" type="person">師</ref>實聖人也。」嗟歎良久。尋<lb
 ed="T" n="0733a10"/>乃詔對無恒<ptr type="glossary" target="#g687"/>，占其災福，若指于掌，言多補<lb
 ed="T" n="0733a11"/>益。時<persName key="A009329">邢和璞</persName>者，道術人，莫窺<ref target="#A000008" type="person">其</ref>際，甞謂<persName key="A015027">尹<lb
-ed="T" n="0733a12"/>愔</persName>曰：「<persName key="A000008">一行<roleName>和尚</roleName></persName>真聖人也。<date from-iso="-0201-02-24" key="j16477011723283" to-iso="+0006-02-01"><name>漢</name></date><persName key="A009331"><anchor xml:id="beg0733001"/><choice resp="sgsz"><sic>洛</sic><corr>落</corr></choice><anchor xml:id="end0733001"/>下閎</persName>造曆<lb
+ed="T" n="0733a12"/>愔</persName>曰：「<persName key="A000008">一行<roleName>和尚</roleName></persName>真聖人也。<date from-iso="-0201-02-24" key="j16477011723283" to-iso="+0006-02-01"><name>漢</name></date><persName key="A009331"><anchor xml:id="beg0733001"/><choice resp="PC-JK-MB"><sic>洛</sic><corr>落</corr></choice><anchor xml:id="end0733001"/>下閎</persName>造曆<lb
 ed="T" n="0733a13"/>云：『八百歲當差一日，則有聖人定之。』今<lb
-ed="T" n="0733a14"/>年期畢矣。屬《大衍曆》出，正其差謬，則<persName key="A009331"><anchor xml:id="beg0733sgsz4"/><choice resp="sgsz"><sic>洛</sic><corr>落</corr></choice><anchor xml:id="end0733sgsz4"/>下<lb
+ed="T" n="0733a14"/>年期畢矣。屬《大衍曆》出，正其差謬，則<persName key="A009331"><anchor xml:id="beg0733sgsz4"/><choice resp="PC-JK-MB"><sic>洛</sic><corr>落</corr></choice><anchor xml:id="end0733sgsz4"/>下<lb
 ed="T" n="0733a15"/>閎</persName>之言可信。非聖人孰能預於斯矣！」又<lb
 ed="T" n="0733a16"/>於<persName key="A000774">金剛<roleName>三藏</roleName></persName>學陀羅尼祕印，登前佛壇，受<lb
 ed="T" n="0733a17"/>法王寶；復同<persName key="A001342">無畏<roleName>三藏</roleName></persName>譯《毘盧遮那佛經》<ptr target="#n208"/>，<lb
@@ -55,8 +55,8 @@ ed="T" n="0733a29"/>任去別圖。<persName key="A009336">媼</persName>戟手<
 ed="T" n="0733b01"/>互，繃褓間抱乳<ref type="person" target="#A000008">汝</ref>。長成，何忘此惠耶！」<persName key="A000008">行</persName>心<lb
 ed="T" n="0733b02"/>慈愛，終夕不樂。於是運算畢，召淨人<ptr rend="display:none;" type="glossary" target="#g695"/>戒之<lb
 ed="T" n="0733b03"/>曰：「汝曹挈布囊於某坊閑靜地，午時坐伺，<lb
-ed="T" n="0733b04"/>得生類投囊，速歸。」明日，果有<anchor xml:id="beg0733sgsz6"/><choice resp="sgsz"><sic><g ref="#Z1202"/></sic><corr>猳</corr></choice><anchor xml:id="end0733sgsz6"/>彘引㹠七<lb
-ed="T" n="0733b05"/>箇，淨人分頭驅逐，<anchor xml:id="beg0733sgsz8"/><choice resp="sgsz"><sic><g ref="#Z1202"/></sic><corr>猳</corr></choice><anchor xml:id="end0733sgsz8"/>母走矣，得㹠而歸。<persName key="A000008">行</persName>已<lb
+ed="T" n="0733b04"/>得生類投囊，速歸。」明日，果有<anchor xml:id="beg0733sgsz6"/><choice resp="PC-JK-MB"><sic><g ref="#Z1202"/></sic><corr>猳</corr></choice><anchor xml:id="end0733sgsz6"/>彘引㹠七<lb
+ed="T" n="0733b05"/>箇，淨人分頭驅逐，<anchor xml:id="beg0733sgsz8"/><choice resp="PC-JK-MB"><sic><g ref="#Z1202"/></sic><corr>猳</corr></choice><anchor xml:id="end0733sgsz8"/>母走矣，得㹠而歸。<persName key="A000008">行</persName>已<lb
 ed="T" n="0733b06"/>備巨瓮，逐一入之，閉蓋，以六乙泥<ptr type="glossary" target="#g696"/>封口，<lb
 ed="T" n="0733b07"/>誦胡語數契而止。投明<ptr rend="display:none;" type="glossary" target="#g697"/>，中官下詔入問，云：「<lb
 ed="T" n="0733b08"/>司天監奏：『昨夜北斗七座星全不見』，何耶？」對<lb
@@ -100,7 +100,7 @@ ed="T" n="0733c16"/>「是是，無不可者。」<persName key="A000008">行</p
 ed="T" n="0733c17"/>其戶。<persName key="A009319">寂</persName>乃徐召侍者曰：「速聲鐘，<persName key="A000008">一行</persName>已滅<lb
 ed="T" n="0733c18"/>度。」左右疾走視之，瞑目而坐，手掩伺息，已<lb
 ed="T" n="0733c19"/>絕。四眾<ptr rend="display:none;" type="glossary" target="#g98"/>弟子悲號沸渭，撼動山谷，乃停神於<lb
-ed="T" n="0733c20"/><placeName key="PL000000042154">罔極寺</placeName>。自終及葬，凡經<anchor xml:id="beg0733002"/><choice resp="sgsz"><sic>二</sic><corr>三</corr></choice><anchor xml:id="end0733002"/>七日，爪甲不變，<lb
+ed="T" n="0733c20"/><placeName key="PL000000042154">罔極寺</placeName>。自終及葬，凡經<anchor xml:id="beg0733002"/><choice resp="PC-JK-MB"><sic>二</sic><corr>三</corr></choice><anchor xml:id="end0733002"/>七日，爪甲不變，<lb
 ed="T" n="0733c21"/>髭髮更長，形色怡悅，時眾驚異。<ref type="person" target="#A000291">帝</ref>覽奏悲愴<lb
 ed="T" n="0733c22"/>曰：「<ref type="person" target="#A000008">禪師</ref>捨<ref type="person" target="#A000291">朕</ref>，深用哀慕！」喪事官供，詔葬于<lb
 ed="T" n="0733c23"/><placeName key="PL000000042091">銅人原</placeName>，謚曰<persName key="A000008">大慧禪師</persName>。御撰塔銘，天下釋<lb

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0759c18shiXiangYu"><lb
 ed="T" n="0759c18"/><anchor n="T.50.2061.0759c18"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000027459"><placeName>郢州</placeName><placeName>大佛山</placeName></placeName><persName key="A010192">香育</persName>傳</head><p><lb
-ed="T" n="0759c19"/><persName key="A010192">釋香育</persName>，姓<name>李</name>氏，<placeName key="PL000000023001">濟陰</placeName>人也。父為<placeName key="PL000000021539">兗<anchor xml:id="beg0759007"/><choice resp="sgsz"><sic>州</sic><corr>府</corr></choice><anchor xml:id="end0759007"/><ptr target="#n987"/></placeName>掾。<persName key="A010192">育</persName><lb
+ed="T" n="0759c19"/><persName key="A010192">釋香育</persName>，姓<name>李</name>氏，<placeName key="PL000000023001">濟陰</placeName>人也。父為<placeName key="PL000000021539">兗<anchor xml:id="beg0759007"/><choice resp="PC-JK-MB"><sic>州</sic><corr>府</corr></choice><anchor xml:id="end0759007"/><ptr target="#n987"/></placeName>掾。<persName key="A010192">育</persName><lb
 ed="T" n="0759c20"/>有道性，常研習《莊》《老》，根器<ptr type="glossary" target="#g1418"/>奮發。俄於<name>釋</name>典<lb
 ed="T" n="0759c21"/>留神，決捐俗態。趨<placeName key="PL000000003030"><placeName>滄州</placeName><placeName>安定寺</placeName></placeName><persName key="A010194">智元<roleName>律師</roleName></persName><lb
 ed="T" n="0759c22"/>所，乞求削染。滿足戒<ptr type="glossary" target="#g33"/>後，精力律學，垂欲卒<lb

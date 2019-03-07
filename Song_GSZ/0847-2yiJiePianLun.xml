@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="義解" xml:id="gsz0753a03yiJiePianLun">
 <anchor n="T.50.2061.0753a03"/><head>義解篇論</head><p><lb
-n="0753a03" ed="T"/>論曰：</p><p>玄默<ptr type="glossary" target="#g994"/>垂文，聖人俯察。<placeName key="PL000000000193">河</placeName>、<placeName key="PL000000023512"><anchor xml:id="beg0753sgsz1"/><choice resp="sgsz"><sic>𨿅</sic><corr>雒</corr></choice><anchor xml:id="end0753sgsz1"/></placeName>之流有告，<lb
+n="0753a03" ed="T"/>論曰：</p><p>玄默<ptr type="glossary" target="#g994"/>垂文，聖人俯察。<placeName key="PL000000000193">河</placeName>、<placeName key="PL000000023512"><anchor xml:id="beg0753sgsz1"/><choice resp="PC-JK-MB"><sic>𨿅</sic><corr>雒</corr></choice><anchor xml:id="end0753sgsz1"/></placeName>之流有告，<lb
 n="0753a04" ed="T"/>圖書之法作程<ptr target="#n995"/>，<persName key="A002761">禹</persName>受斯符，乃為經緯，本六<lb
 n="0753a05" ed="T"/>十餘字，訓第表明，號〈洪範〉以開章，得彝倫<lb
 n="0753a06" ed="T"/>而逌敘<ptr target="#n996"/>。帝王之法粲然可觀，祖述之家翕爾<lb
@@ -12,7 +12,7 @@ n="0753a10" ed="T"/>門<ptr type="glossary" target="#g999"/>，施巧智<ptr typ
 n="0753a11" ed="T"/>得正信者必開正眼<ptr type="glossary" target="#g1938"/>，見正道者必事正修，<lb
 n="0753a12" ed="T"/>倒本前因，則以決擇<ptr type="glossary" target="#g1001"/>為主。原夫能詮之教<lb
 n="0753a13" ed="T"/>喻圖書也，所詮之理喻訓第也，經容緯入，<lb
-n="0753a14" ed="T"/>緯變經存，令表顯之名言，從體義之<anchor xml:id="beg0753001" n="0753001"/><choice resp="sgsz"><sic>相</sic><corr>相（去聲）</corr></choice><anchor xml:id="end0753001"/>雜。<lb
+n="0753a14" ed="T"/>緯變經存，令表顯之名言，從體義之<anchor xml:id="beg0753001" n="0753001"/><choice resp="PC-JK-MB"><sic>相</sic><corr>相（去聲）</corr></choice><anchor xml:id="end0753001"/>雜。<lb
 n="0753a15" ed="T"/>《唯識》<ptr target="#n767"/>僉推於<persName key="A001963">護法</persName><ptr target="#n1206"/>，成即司南；《婆沙》<ptr target="#n1003"/>奄有<ptr type="glossary" target="#g1005"/>於餘<lb
 n="0753a16" ed="T"/>師<ptr type="glossary" target="#g664"/>，說同衍字。良以各迷己見，皆未極成，正<lb
 n="0753a17" ed="T"/>不正之說恢張，玄又玄之談崛起。大抵無名<lb

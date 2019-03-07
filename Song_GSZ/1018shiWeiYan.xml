@@ -2,8 +2,8 @@
 <div xmlns="http://www.tei-c.org/ns/1.0" type="護法" xml:id="gsz0816a18shiWeiYan"><lb
 ed="T" n="0816a18"/><anchor n="T.50.2061.0816a18"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000028895"><placeName>朗州</placeName><placeName>藥山</placeName></placeName><persName key="A010510">唯儼</persName>傳</head><p><lb
 ed="T" n="0816a19"/><persName key="A010510">釋唯儼</persName>，俗姓<name>寒</name><ptr target="#n2241"/>，<placeName key="PL000000005051">絳縣</placeName><ptr target="#n1850"/>人也。童齓慷愷<ptr type="glossary" target="#g1094"/>，敏俊逸<lb
-ed="T" n="0816a20"/>群。<date key="j19990541999348" from-iso="+0761-02-14" to-iso="+0761-12-05">年十七</date>，<choice resp="makita"><sic>從</sic><corr>徙</corr></choice><placeName key="PL000000019114">南康</placeName>事<placeName key="PL000000031787"><choice resp="sgsz"><sic>湖</sic><corr>潮</corr></choice>陽</placeName>西山<ptr target="#n496"/><persName key="A011917"><anchor xml:id="beg0816001"/>慧照<anchor xml:id="end0816001"/><roleName>禪師</roleName></persName>。<lb
-ed="T" n="0816a21"/><date from-iso="+0773-02-01" key="j20034242003806" to-iso="+0774-02-18"><name>大曆</name>八年</date>，納戒于<placeName key="PL000000028989">衡嶽寺</placeName><persName key="A010470">希<choice resp="sgsz"><sic>澡</sic><corr>操</corr></choice><roleName>律師</roleName></persName><ptr target="#n497"/>所，乃曰：<lb
+ed="T" n="0816a20"/>群。<date key="j19990541999348" from-iso="+0761-02-14" to-iso="+0761-12-05">年十七</date>，<choice resp="makita"><sic>從</sic><corr>徙</corr></choice><placeName key="PL000000019114">南康</placeName>事<placeName key="PL000000031787"><choice resp="PC-JK-MB"><sic>湖</sic><corr>潮</corr></choice>陽</placeName>西山<ptr target="#n496"/><persName key="A011917"><anchor xml:id="beg0816001"/>慧照<anchor xml:id="end0816001"/><roleName>禪師</roleName></persName>。<lb
+ed="T" n="0816a21"/><date from-iso="+0773-02-01" key="j20034242003806" to-iso="+0774-02-18"><name>大曆</name>八年</date>，納戒于<placeName key="PL000000028989">衡嶽寺</placeName><persName key="A010470">希<choice resp="PC-JK-MB"><sic>澡</sic><corr>操</corr></choice><roleName>律師</roleName></persName><ptr target="#n497"/>所，乃曰：<lb
 ed="T" n="0816a22"/>「大丈夫當離法自淨，焉能屑屑事細行於布<lb
 ed="T" n="0816a23"/>巾邪？<ptr target="#n498"/>」遂謁<persName key="A010291">石頭<roleName>禪師</roleName></persName>，密證心法，住<placeName key="PL000000028895">藥山</placeName><lb
 ed="T" n="0816a24"/>焉。一夜明月，陟彼崔嵬<ptr type="glossary" target="#g1352"/>，大笑一聲，聲應<placeName key="PL000000029560">澧陽</placeName><lb
@@ -23,7 +23,7 @@ ed="T" n="0816b08"/>千株松下兩函經。我來相問<ptr target="#n499"/>無
 ed="T" n="0816b09"/>天水在瓶。」又偈「選得幽居愜野情，終年<lb
 ed="T" n="0816b10"/>無送亦無迎。有時直上孤峯頂，月下披雲<lb
 ed="T" n="0816b11"/>笑一聲。<ptr target="#n2243"/>」初<persName key="A010395">翱</persName>與<persName key="A003947">韓愈</persName>、<persName key="A003970">柳宗元</persName>、<persName key="A006962">劉禹錫</persName>為文會<lb
-ed="T" n="0816b12"/>之交，自相與述古言、法《六<choice resp="sgsz"><sic>藉</sic><corr>籍</corr></choice>》<ptr type="glossary" target="#g1095"/>，為文黜浮華、<lb
+ed="T" n="0816b12"/>之交，自相與述古言、法《六<choice resp="PC-JK-MB"><sic>藉</sic><corr>籍</corr></choice>》<ptr type="glossary" target="#g1095"/>，為文黜浮華、<lb
 ed="T" n="0816b13"/>尚理致，言為文者<persName key="A003947">韓</persName>、<persName key="A003970">柳</persName>、<persName key="A006962">劉</persName>焉。<persName key="A003947">吏部</persName>常論：「<persName key="A002174">仲<lb
 ed="T" n="0816b14"/>尼</persName>既沒，諸子異端，故<persName key="A011920">荀</persName><persName key="A004486">孟</persName>復之，<persName key="A006982">楊</persName><persName key="A006931">墨</persName>之流洗<lb
 ed="T" n="0816b15"/>然遺落。殆<date from-iso="+0557-02-17" key="j19245481933331" to-iso="+0581-03-06">周</date><date from-iso="+0581-03-06" key="j19333311946884" to-iso="+0618-04-15">隋</date>之世，王道弗興，故<persName key="A011186">文中子</persName>有<lb
@@ -50,7 +50,7 @@ ed="T" n="0816c06"/>云：「都未曉<ref type="person" target="#A010510">吾</
 ed="T" n="0816c07"/>系曰：甞覽<persName key="A010395">李文<roleName>公</roleName></persName>《復性》二篇，明佛理不引<lb
 ed="T" n="0816c08"/>佛書，援證而徵，取《易》《禮》而止。可謂外柔順而<lb
 ed="T" n="0816c09"/>內剛逆也，故曰「得象而忘言<ptr type="glossary" target="#g1149"/>」矣！經云治世<lb
-ed="T" n="0816c10"/><anchor xml:id="beg0816003"/><choice resp="sgsz"><sic>語</sic><corr>諸</corr></choice><anchor xml:id="end0816003"/>言皆成正法者<ptr target="#n2248"/>，<persName key="A010395">李<roleName>公</roleName></persName>有焉。<persName key="A010510">儼<roleName>公</roleName></persName>一笑，聲<lb
+ed="T" n="0816c10"/><anchor xml:id="beg0816003"/><choice resp="PC-JK-MB"><sic>語</sic><corr>諸</corr></choice><anchor xml:id="end0816003"/>言皆成正法者<ptr target="#n2248"/>，<persName key="A010395">李<roleName>公</roleName></persName>有焉。<persName key="A010510">儼<roleName>公</roleName></persName>一笑，聲<lb
 ed="T" n="0816c11"/>徹遐鄉，雖未勞<persName key="A000053">目連</persName>遠尋，而《易例》有諸：「隆<lb
 ed="T" n="0816c12"/>墀永歎，遠壑必盈<ptr target="#n2249"/>」，道感如然不知其然也！</p>
     <linkGrp>

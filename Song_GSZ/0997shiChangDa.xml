@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0807c12shiChangDa"><lb
 ed="T" n="0807c12"/><anchor n="T.50.2061.0807c12"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000010127"><placeName>吳郡</placeName><placeName>破山寺</placeName></placeName><persName key="A011543">常達</persName>傳</head><p><lb
-ed="T" n="0807c13"/><persName key="A011543">釋常達</persName>，字<persName key="A011543">文舉</persName>，俗姓<name>顧</name>，<placeName key="PL000000010157">海隅</placeName>人也。發跡<placeName key="PL000000058011"><choice resp="sgsz"><sic>何</sic><corr>河</corr></choice><lb
+ed="T" n="0807c13"/><persName key="A011543">釋常達</persName>，字<persName key="A011543">文舉</persName>，俗姓<name>顧</name>，<placeName key="PL000000010157">海隅</placeName>人也。發跡<placeName key="PL000000058011"><choice resp="PC-JK-MB"><sic>何</sic><corr>河</corr></choice><lb
 ed="T" n="0807c14"/>陽</placeName>、<placeName key="PL000000058013">大福山</placeName>，遊學<placeName key="PL000000015039">江淮</placeName>諸勝寺。<persName key="A011543">達</persName>允迪<ptr type="glossary" target="#g786"/>中和，<lb
 ed="T" n="0807c15"/>克完戒法，專講<persName key="A001519">南山</persName>律鈔<ptr target="#n1290"/>。後求《涅槃》圓音，<lb
 ed="T" n="0807c16"/>《法華》止觀<ptr rend="display:none;" type="glossary" target="#g187"/>，復通《陰符》<ptr rend="display:none;" target="#n1856"/>、《老》、《莊》、百家之書，其餘分<lb

@@ -4,7 +4,7 @@ ed="T" n="0804a27"/><anchor n="T.50.2061.0804a27"/><head><date from-iso="+0618-0
 ed="T" n="0804a28"/><persName key="A011164">釋曇清</persName>，未詳何許人也。幼持邊幅<ptr type="glossary" target="#g650"/>，罔或<lb
 ed="T" n="0804a29"/>迷方<ptr type="glossary" target="#g651"/>，以謹昏呶<ptr type="glossary" target="#g655"/>，究窮佛旨。乃負笈來<placeName key="PL000000057836"><placeName>吳</placeName><placeName>北<pb ed="T" n="0804b" xml:id="T50.2061.0804b"/><lb
 ed="T" n="0804b01"/>院</placeName></placeName><persName key="A011021">道恒<roleName>宗師</roleName></persName>法會，與<persName key="A011073">省躬</persName>猶<name>滕</name>、<name>薛</name>之前後也<ptr target="#n1488"/>。<lb
-ed="T" n="0804b02"/>旋留<placeName key="PL000000028928">南嶽</placeName>化徒，適會<date notBefore-iso="+0806-01-29" key="j20154742020967" notAfter-iso="+0821-02-12"><name>元和</name>中</date><placeName key="PL000000036515"><placeName>閬州</placeName><placeName>龍<anchor xml:id="beg0804sgsz9"/><choice resp="sgsz"><sic>與</sic><corr>興</corr></choice><anchor xml:id="end0804sgsz9"/>寺</placeName></placeName><lb
+ed="T" n="0804b02"/>旋留<placeName key="PL000000028928">南嶽</placeName>化徒，適會<date notBefore-iso="+0806-01-29" key="j20154742020967" notAfter-iso="+0821-02-12"><name>元和</name>中</date><placeName key="PL000000036515"><placeName>閬州</placeName><placeName>龍<anchor xml:id="beg0804sgsz9"/><choice resp="PC-JK-MB"><sic>與</sic><corr>興</corr></choice><anchor xml:id="end0804sgsz9"/>寺</placeName></placeName><lb
 ed="T" n="0804b03"/>結界<ptr type="glossary" target="#g656"/>，時<persName key="A011176">義嵩</persName>講<persName key="A001899">素</persName>新《疏》<ptr target="#n902"/>，傑出輩流<ptr rend="display:none;" type="glossary" target="#g630"/>，因云：「《僧<lb
 ed="T" n="0804b04"/>祇律》云：『齊七樹相去，爾所作羯磨者，名善<lb
 ed="T" n="0804b05"/>作羯磨。<ptr target="#n1761"/>』準此四面，皆取六十三步等，如是<lb
@@ -18,7 +18,7 @@ ed="T" n="0804b12"/>系曰：<persName key="A011164">清<roleName>公</roleName>
 ed="T" n="0804b13"/><persName key="A011176">嵩</persName>、<persName key="A011179">悟</persName>二公遇于必爭之地，<persName key="A011164">清</persName>果得俊。矧<ptr rend="display:none;" type="glossary" target="#g325"/>夫<lb
 ed="T" n="0804b14"/><placeName key="PL000000036515">閬苑</placeName>也，僻<ptr type="glossary" target="#g1359"/>用律文，三隅不反<ptr target="#n939"/>。既成圖狀<ptr target="#n1765"/>，學<lb
 ed="T" n="0804b15"/>者流傳，致其<persName key="A011176">嵩<roleName>公</roleName></persName>如填海<ptr type="glossary" target="#g663"/>底。至<date notBefore-iso="+0847-02-10" key="j20304612035523" notAfter-iso="+0860-12-20"><name>大中</name>中</date><persName key="A009180">玄<lb
-ed="T" n="0804b16"/>暢<roleName>公</roleName></persName>荐<ptr rend="display:none;" type="glossary" target="#g104"/>加褒貶，貶<persName key="A011176">嵩</persName><anchor xml:id="beg0804sgsz13"/><choice resp="sgsz"><sic>之</sic><corr>又</corr></choice><anchor xml:id="end0804sgsz13"/>轉沈尾閭<ptr type="glossary" target="#g660"/>中矣。</p>
+ed="T" n="0804b16"/>暢<roleName>公</roleName></persName>荐<ptr rend="display:none;" type="glossary" target="#g104"/>加褒貶，貶<persName key="A011176">嵩</persName><anchor xml:id="beg0804sgsz13"/><choice resp="PC-JK-MB"><sic>之</sic><corr>又</corr></choice><anchor xml:id="end0804sgsz13"/>轉沈尾閭<ptr type="glossary" target="#g660"/>中矣。</p>
     <linkGrp>
         <link targets="#0804a27 #0804a27"/>
         <ptr target="#A011164" type="person"/>

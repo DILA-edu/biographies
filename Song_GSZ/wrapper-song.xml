@@ -898,7 +898,7 @@
         <byline n="Author"><anchor xml:id="beg0878sgsz11"/><date from-iso="+0960-02-09" key="j20717322132856" to-iso="+1127-06-18">宋</date><placeName key="PL000000023316"
             >左街天壽寺</placeName><persName key="A001910"><roleName>通慧大師<lb n="0878b16" ed="T"
               />賜紫沙門</roleName>贊寧</persName>等奉 勅<anchor xml:id="end0878sgsz11"/><anchor
-            xml:id="beg0878008"/><choice resp="sgsz"><sic>譯</sic><corr>撰</corr></choice><anchor xml:id="end0878008"/></byline><lb n="0878b17" ed="T"/>
+            xml:id="beg0878008"/><choice resp="PC-JK-MB"><sic>譯</sic><corr>撰</corr></choice><anchor xml:id="end0878008"/></byline><lb n="0878b17" ed="T"/>
         <p>興福篇第九之二（正傳二十一人附見三人）</p>
         <xi:include href="1194shiSengJie.xml"/>
         <xi:include href="1195shiDingGuang.xml"/>

@@ -2,10 +2,10 @@
 <div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0754b29shiHuiNeng"><lb
 ed="T" n="0754b29"/><anchor n="T.50.2061.0754b29"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000030551">韶州</placeName>今<placeName key="PL000000030578">南華寺</placeName><persName key="A001719">慧能</persName>傳</head><pb n="0754c" xml:id="T50.2061.0754c" ed="T"/><p><lb
 ed="T" n="0754c01"/><persName key="A001719">釋慧能</persName><ptr rend="display:none;" target="#n1230"/>，姓<name>盧</name>氏，<placeName key="PL000000031876"><placeName>南海</placeName><placeName>新興</placeName></placeName>人也，其本世居<placeName key="PL000000002485">范<lb
-ed="T" n="0754c02"/>陽</placeName>。厥考諱<persName key="A018985">行瑫</persName>，<date notBefore-iso="+0618-06-21" key="j19469511950091" notAfter-iso="+0627-01-25"><name>武德</name>中</date>流<anchor xml:id="beg0754sgsz8"/><choice resp="sgsz"><sic>亭</sic><corr>于</corr></choice><anchor xml:id="end0754sgsz8"/><placeName key="PL000000031875">新州</placeName>百姓<ptr target="#n1311"/>，終於<lb
+ed="T" n="0754c02"/>陽</placeName>。厥考諱<persName key="A018985">行瑫</persName>，<date notBefore-iso="+0618-06-21" key="j19469511950091" notAfter-iso="+0627-01-25"><name>武德</name>中</date>流<anchor xml:id="beg0754sgsz8"/><choice resp="PC-JK-MB"><sic>亭</sic><corr>于</corr></choice><anchor xml:id="end0754sgsz8"/><placeName key="PL000000031875">新州</placeName>百姓<ptr target="#n1311"/>，終於<lb
 ed="T" n="0754c03"/>貶所。略述家系，避<name>盧亭</name><ptr target="#n1310"/>島夷之不敏<ptr type="glossary" target="#g1313"/>也。<date from-iso="+0638-01-24" key="j19541081954491" to-iso="+0639-02-11"><name>貞<lb
 ed="T" n="0754c04"/>觀</name>十二年戊戌歲</date>生<persName key="A001719">能</persName>也，純淑迂懷，惠性間<lb
-ed="T" n="0754c05"/>出。雖蠻風獠俗，漬染不深，而詭行么形<ptr type="glossary" target="#g1315"/>，<anchor xml:id="beg0754sgsz10"/><choice resp="sgsz"><sic>駁<lb
+ed="T" n="0754c05"/>出。雖蠻風獠俗，漬染不深，而詭行么形<ptr type="glossary" target="#g1315"/>，<anchor xml:id="beg0754sgsz10"/><choice resp="PC-JK-MB"><sic>駁<lb
 ed="T" n="0754c06"/>維</sic><corr>駮<lb
 ed="T" n="0754c06"/>雜</corr></choice><anchor xml:id="end0754sgsz10"/><ptr rend="display:none;" type="glossary" target="#g1314"/>難測。父既少失，母<anchor xml:id="beg0754sgsz12"/>且<anchor xml:id="end0754sgsz12"/>寡居，家亦屢空，業無<lb
 ed="T" n="0754c07"/>腴產。<persName key="A001719">能</persName>負薪矣，日售荷擔。偶聞𨞬<ptr type="glossary" target="#g640"/>肆間誦<lb

@@ -2,7 +2,7 @@
 <div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0769a14shiDaoWu"><lb
 ed="T" n="0769a14"/><anchor n="T.50.2061.0769a14"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000027845"><placeName>荊州</placeName><placeName>天皇寺</placeName></placeName><persName key="A010299">道悟</persName>傳<ptr target="#n1472"/>（<persName key="A010427">崇信</persName>）</head><p><lb
 ed="T" n="0769a15"/><persName key="A010299">釋道悟</persName>，姓<name>張</name>氏，<placeName key="PL000000013615"><placeName>婺州</placeName><placeName>東陽</placeName></placeName>人也。受天粹氣，<lb
-ed="T" n="0769a16"/>為<persName key="A002799"><anchor xml:id="beg0769001"/><choice resp="sgsz"><sic>王</sic><corr>法王</corr></choice><anchor xml:id="end0769001"/></persName>子，生而神俊，長而謹愿。<date key="j19990101999374" from-iso="+0761-01-01" to-iso="+0761-12-31">年十四</date>，金翅<ptr type="glossary" target="#g617"/><lb
+ed="T" n="0769a16"/>為<persName key="A002799"><anchor xml:id="beg0769001"/><choice resp="PC-JK-MB"><sic>王</sic><corr>法王</corr></choice><anchor xml:id="end0769001"/></persName>子，生而神俊，長而謹愿。<date key="j19990101999374" from-iso="+0761-01-01" to-iso="+0761-12-31">年十四</date>，金翅<ptr type="glossary" target="#g617"/><lb
 ed="T" n="0769a17"/>始毛，麒麟方角，啟白尊老，將求出家，慈愛<lb
 ed="T" n="0769a18"/>之旨，不見聽許。輒損薄常膳，日唯一食，雖<lb
 ed="T" n="0769a19"/>體腹羸餒，彌年<ptr type="glossary" target="#g1288"/>益堅。父母不獲已而許之。<lb
@@ -21,8 +21,8 @@ ed="T" n="0769b02"/>不食。至誠則通，物感迺靈，猱㹶豰玃，更饋
 ed="T" n="0769b03"/>栗。異日野夫操斧，言伐其楚，偶所遭覩，駭<lb
 ed="T" n="0769b04"/>動悚息，馳諭朋曹，謂為神奇。曾不旬朔，詣<lb
 ed="T" n="0769b05"/>者成市。憑嵌倚峭，且構危棟，貲糧供具，環<lb
-ed="T" n="0769b06"/>遶方丈。猛虎<anchor xml:id="beg0769003"/><choice resp="sgsz"><sic>耽耽</sic><corr>眈眈</corr></choice><anchor xml:id="end0769003"/>，侶出族遊，一來座側，<lb
-ed="T" n="0769b07"/><anchor xml:id="beg0769004"/><choice resp="sgsz"><sic>歛</sic><corr>斂</corr></choice><anchor xml:id="end0769004"/><ptr target="#n1090"/>折肢體，其類馴擾可知也。夫語法者無<lb
+ed="T" n="0769b06"/>遶方丈。猛虎<anchor xml:id="beg0769003"/><choice resp="PC-JK-MB"><sic>耽耽</sic><corr>眈眈</corr></choice><anchor xml:id="end0769003"/>，侶出族遊，一來座側，<lb
+ed="T" n="0769b07"/><anchor xml:id="beg0769004"/><choice resp="PC-JK-MB"><sic>歛</sic><corr>斂</corr></choice><anchor xml:id="end0769004"/><ptr target="#n1090"/>折肢體，其類馴擾可知也。夫語法者無<lb
 ed="T" n="0769b08"/>階漸，涉功者有淺深，木踰鑽而見火，鑑勤<lb
 ed="T" n="0769b09"/>磨而照膽<ptr target="#n1491"/>，理必然矣。是以掃塵累，遯巖藪，<lb
 ed="T" n="0769b10"/>服形體，遺晝夜，精嚴不息，趣無上道，其有<lb
@@ -57,7 +57,7 @@ ed="T" n="0769c09"/>紳<anchor xml:id="end0769006"/>清重，擁旄統眾，風�
 ed="T" n="0769c10"/>車盛<anchor xml:id="beg0769sgsz4"/>禮<anchor xml:id="end0769sgsz4"/>，問法勤至。<persName key="A010299">悟</persName>神氣灑落，安詳自處，徐<lb
 ed="T" n="0769c11"/>以軟語，為之獻酬，必中精微，洞過肯綮。又<lb
 ed="T" n="0769c12"/>常秉貞操，不修逢迎，一無卑貴，坐而揖對。<lb
-ed="T" n="0769c13"/><persName key="A022947">裴<roleName>公</roleName></persName>訝其峻拔，徵其<anchor xml:id="beg0769007"/><choice resp="sgsz"><sic>善</sic><corr>義</corr></choice><anchor xml:id="end0769007"/>趣<ptr rend="display:none;" type="glossary" target="#g383"/>，謂「抗俗之志當<lb
+ed="T" n="0769c13"/><persName key="A022947">裴<roleName>公</roleName></persName>訝其峻拔，徵其<anchor xml:id="beg0769007"/><choice resp="PC-JK-MB"><sic>善</sic><corr>義</corr></choice><anchor xml:id="end0769007"/>趣<ptr rend="display:none;" type="glossary" target="#g383"/>，謂「抗俗之志當<lb
 ed="T" n="0769c14"/>徑挺如是邪」。<persName key="A010299">悟</persName>以為「是法平等，不見主客，<lb
 ed="T" n="0769c15"/>豈効世諦<ptr type="glossary" target="#g1898"/>，與人居而局狹邪？」<persName key="A022947">裴<roleName>公</roleName></persName>理冥意會，<lb
 ed="T" n="0769c16"/>投誠歸命。既見仁者，我心則降，如熱得濯，<lb
@@ -74,8 +74,8 @@ ed="T" n="0769c26"/>先是煙焰之末，殿宇不立，顧緇褐且虧瞻<lb
 ed="T" n="0769c27"/><anchor xml:id="beg0769sgsz6"/>禮<anchor xml:id="end0769sgsz6"/>，密念結構，罔知權輿。禪宴之際，若值<lb
 ed="T" n="0769c28"/>神物，自道祠舍濱江水焉。凡我疆畛，富於<lb
 ed="T" n="0769c29"/>松梓，悉願傾倒，施僧伽藍。命工覘之，宛若<pb ed="T" n="0770a" xml:id="T50.2061.0770a"/><lb
-ed="T" n="0770a01"/>符契。於是斬巨棟，幹修楹，撑崖拄<choice resp="sgsz"><sic><g ref="#Z1249"/></sic><corr>壑</corr></choice>，雲屯<lb
-ed="T" n="0770a02"/>井構。時維秋杪，水用都涸，徒眾<anchor xml:id="beg0770sgsz1"/><choice resp="sgsz"><sic>歛</sic><corr>斂</corr></choice><anchor xml:id="end0770sgsz1"/><ptr target="#n1090"/>手，塊然無<lb
+ed="T" n="0770a01"/>符契。於是斬巨棟，幹修楹，撑崖拄<choice resp="PC-JK-MB"><sic><g ref="#Z1249"/></sic><corr>壑</corr></choice>，雲屯<lb
+ed="T" n="0770a02"/>井構。時維秋杪，水用都涸，徒眾<anchor xml:id="beg0770sgsz1"/><choice resp="PC-JK-MB"><sic>歛</sic><corr>斂</corr></choice><anchor xml:id="end0770sgsz1"/><ptr target="#n1090"/>手，塊然無<lb
 ed="T" n="0770a03"/>謀。會一夕雨至，萬株並進，晨發江滸，暮抵<lb
 ed="T" n="0770a04"/>寺門。剞劂之際，動無乏者。其餘廊廡床案，靡<lb
 ed="T" n="0770a05"/>非幽贊。事隣語怪，闕而不書。其感攝靈祇，<lb
@@ -85,7 +85,7 @@ ed="T" n="0770a08"/>常協律<persName key="A013909">符載</persName>著文頌�
 ed="T" n="0770a09"/>也。又<date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000029483"><placeName>澧州</placeName><placeName>龍潭禪院</placeName></placeName><persName key="A010427">釋崇信</persName>，未詳氏族。<lb
 ed="T" n="0770a10"/><persName key="A010427">信</persName>在俗為<placeName key="PL000000027764">渚宮</placeName>胡餅師之子，弱齡宛異，神府<lb
 ed="T" n="0770a11"/>寬然。昔<placeName key="PL000000027845">天皇寺</placeName><persName key="A010299">悟<roleName>禪師</roleName></persName>隱耀藏光<ptr target="#n1494"/>，人莫我<lb
-ed="T" n="0770a12"/>測。<persName key="A010427">信</persName>家居寺巷，恒<anchor xml:id="beg0770001"/><choice resp="sgsz"><sic>曰</sic><corr>日</corr></choice><anchor xml:id="end0770001"/>提餅笥饋<persName key="A010299">悟<roleName>公</roleName></persName>齋<lb
+ed="T" n="0770a12"/>測。<persName key="A010427">信</persName>家居寺巷，恒<anchor xml:id="beg0770001"/><choice resp="PC-JK-MB"><sic>曰</sic><corr>日</corr></choice><anchor xml:id="end0770001"/>提餅笥饋<persName key="A010299">悟<roleName>公</roleName></persName>齋<lb
 ed="T" n="0770a13"/>食。食畢且留一餅曰：「<ref type="person" target="#A010299">吾</ref>惠<ref type="person" target="#A010427">汝</ref>，以蔭子孫。」<persName key="A010427">信</persName><lb
 ed="T" n="0770a14"/>一日自念曰：「餅是<ref type="person" target="#A010427">我</ref>持去，何以返遺<ref type="person" target="#A010427">我</ref>邪？<lb
 ed="T" n="0770a15"/>莫別有旨乎？」遂拱手問焉。<persName key="A010299">悟<roleName>公</roleName></persName>曰：「是<ref type="person" target="#A010427">汝</ref>持<lb

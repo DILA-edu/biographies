@@ -5,7 +5,7 @@ ed="T" n="0737a05"/><persName key="A001755">釋澄觀</persName>，姓<name>夏�
 ed="T" n="0737a06"/>依<placeName key="PL000000013213">寶林寺</placeName>（今<placeName key="PL000000013195">應天山</placeName>）<persName key="A009495">霈<roleName>禪師</roleName></persName>出家，誦《法華經》。<date key="j19953921995745" from-iso="+0751-02-05" to-iso="+0752-01-24">十四</date>，<lb
 ed="T" n="0737a07"/>遇恩得度，便隷<ref type="place" target="#PL000000013213">此寺</ref>。<persName key="A001755">觀</persName>俊朗高逸，弗可以<lb
 ed="T" n="0737a08"/>細務拘。遂遍尋名山，旁求祕藏。梯航<ptr type="glossary" target="#g812"/>既具，<lb
-ed="T" n="0737a09"/><anchor xml:id="beg0737sgsz1"/><choice resp="sgsz"><sic>壺</sic><corr>壼</corr></choice><anchor xml:id="end0737sgsz1"/>奧<ptr rend="display:none;" type="glossary" target="#g592"/>必臻。<date notBefore-iso="+0758-03-22" key="j19979941998806" notAfter-iso="+0760-06-11"><name>乾元</name>中</date>，依<placeName key="PL000000009026"><placeName>潤州</placeName><placeName>棲霞寺</placeName></placeName><persName key="A009496">醴<roleName>律師</roleName></persName>，學<lb
+ed="T" n="0737a09"/><anchor xml:id="beg0737sgsz1"/><choice resp="PC-JK-MB"><sic>壺</sic><corr>壼</corr></choice><anchor xml:id="end0737sgsz1"/>奧<ptr rend="display:none;" type="glossary" target="#g592"/>必臻。<date notBefore-iso="+0758-03-22" key="j19979941998806" notAfter-iso="+0760-06-11"><name>乾元</name>中</date>，依<placeName key="PL000000009026"><placeName>潤州</placeName><placeName>棲霞寺</placeName></placeName><persName key="A009496">醴<roleName>律師</roleName></persName>，學<lb
 ed="T" n="0737a10"/><persName key="A000747">相部</persName><ptr type="glossary" target="#g2176"/>律<ptr target="#n911"/>。<ref type="place" target="#PL000000013239">本州</ref>依<persName key="A004177">曇一</persName>，隷「南山律」。詣<placeName key="PL000000008820">金陵</placeName><persName key="A004182">玄<lb
 ed="T" n="0737a11"/>璧<roleName>法師</roleName></persName>傳<placeName key="PL000000042002">關河</placeName>「三論」<ptr type="glossary" target="#g813"/>。「三論」之盛于<placeName key="PL000000000197">江表</placeName>，<persName key="A001755">觀</persName><lb
 ed="T" n="0737a12"/>之力也。<date notBefore-iso="+0766-12-22" key="j20011912005993" notAfter-iso="+0780-02-14"><name>大曆</name>中</date>，就<placeName key="PL000000008823">瓦棺寺</placeName>傳《起信》<ptr target="#n3277"/>、《涅槃》。又<lb
@@ -36,7 +36,7 @@ ed="T" n="0737b07"/>納光明遍照之徵也。起<date from-iso="+0784-01-31" k
 ed="T" n="0737b08"/>三年十二月</date>畢功，成二十軸，乃飯千僧以<lb
 ed="T" n="0737b09"/>落成也。後常思付授，忽夜夢身化為龍，矯<lb
 ed="T" n="0737b10"/>首于<placeName key="PL000000005319">南臺</placeName>，蟠尾于山北，拏攫碧落<ptr rend="display:none;" type="glossary" target="#g820"/>，鱗鬣耀<lb
-ed="T" n="0737b11"/>日。須臾，蜿蜓化為千數小龍，騰<anchor xml:id="beg0737sgsz3"/><choice resp="sgsz"><sic>耀</sic><corr>躍</corr></choice><anchor xml:id="end0737sgsz3"/>青冥<ptr rend="display:none;" type="glossary" target="#g820"/>，分<lb
+ed="T" n="0737b11"/>日。須臾，蜿蜓化為千數小龍，騰<anchor xml:id="beg0737sgsz3"/><choice resp="PC-JK-MB"><sic>耀</sic><corr>躍</corr></choice><anchor xml:id="end0737sgsz3"/>青冥<ptr rend="display:none;" type="glossary" target="#g820"/>，分<lb
 ed="T" n="0737b12"/>散而去。蓋取象乎教法支分流布也。<date from-iso="+0788-02-16" key="j20089172008946" to-iso="+0788-03-16">四年春<lb
 ed="T" n="0737b13"/>正月</date>，<ref type="place" target="#PL000000005362">寺</ref>主<persName key="A009526">賢林</persName>請講新疏。<date from-iso="+0791-02-12" key="j20100092010362" to-iso="+0792-01-31">七年</date>，<placeName key="PL000000003797">河東</placeName>節度使<lb
 ed="T" n="0737b14"/><persName key="A009527">李<roleName>公</roleName>自良</persName>復請於<placeName key="PL000000003781">崇福寺</placeName>講。<persName key="A004215">德宗</persName>降中使<lb
@@ -56,7 +56,7 @@ ed="T" n="0737b27"/>枝合歡蓮華，一華皆有三節，人咸歎伏。尋<lb
 ed="T" n="0737b28"/>譯《守護國界主經》<ptr target="#n3285"/>，<persName key="A001755">觀</persName>綴文潤色。<persName key="A004380">順宗</persName>在春<lb
 ed="T" n="0737b29"/>宮，嘗垂教令述《了義》<ptr target="#n3286"/>一卷、《心要》<ptr target="#n3287"/>一卷并《食<pb ed="T" n="0737c" xml:id="T50.2061.0737c"/><lb
 ed="T" n="0737c01"/>肉得罪因緣》。洎至<placeName key="PL000000042189">長安</placeName>，頻加禮接。朝臣歸<lb
-ed="T" n="0737c02"/>向，則<persName key="A009531">齊<roleName>相國</roleName><anchor xml:id="beg0737sgsz4"/><choice resp="sgsz"><sic>杭</sic><corr>抗</corr></choice><anchor xml:id="end0737sgsz4"/></persName>、<persName key="A009532">韋<roleName>太常</roleName>渠牟</persName>，皆結交最深。故<lb
+ed="T" n="0737c02"/>向，則<persName key="A009531">齊<roleName>相國</roleName><anchor xml:id="beg0737sgsz4"/><choice resp="PC-JK-MB"><sic>杭</sic><corr>抗</corr></choice><anchor xml:id="end0737sgsz4"/></persName>、<persName key="A009532">韋<roleName>太常</roleName>渠牟</persName>，皆結交最深。故<lb
 ed="T" n="0737c03"/>相<persName key="A009534">武元衡</persName>、<persName key="A009535">鄭絪</persName>、<persName key="A004369">李吉甫</persName>、<persName key="A009536">權德輿</persName>、<persName key="A009537">李逢吉</persName>、中書舍<lb
 ed="T" n="0737c04"/>人<persName key="A009538">錢徽</persName>、兵部侍郎<persName key="A009183">歸登</persName>、<placeName key="PL000000027118">襄陽</placeName>節度使<persName key="A004372">嚴綬</persName>、<placeName key="PL000000013239">越州</placeName><lb
 ed="T" n="0737c05"/>觀察使<persName key="A009184">孟簡</persName>、<placeName key="PL000000018628">洪州</placeName><persName key="A009540">韋丹</persName>，咸慕高風，或從戒<lb

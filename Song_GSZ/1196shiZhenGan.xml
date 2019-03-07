@@ -2,7 +2,7 @@
 <div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0878c29shiZhenGan"><lb
 ed="T" n="0878c29"/><anchor n="T.50.2061.0878c29"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000012751"><placeName>吳郡</placeName><placeName>嘉禾</placeName></placeName><ptr target="#n719"/><persName key="A013712">貞幹</persName>傳</head><pb n="0879a" xml:id="T50.2061.0879a" ed="T"/><p><lb
 ed="T" n="0879a01"/><persName key="A013712">釋貞幹</persName>，俗姓<name>武</name>氏，<placeName key="PL000000003893">雲中</placeName>人也。神宇高邈，以禪<lb
-ed="T" n="0879a02"/>默為務。曳錫踽步<ptr type="glossary" target="#g2154"/>，南訪靈跡，及至<placeName key="PL000000013136">故<anchor xml:id="beg0879sgsz1"/><choice resp="sgsz"><sic>障</sic><corr>鄣</corr></choice><anchor xml:id="end0879sgsz1"/></placeName>，<lb
+ed="T" n="0879a02"/>默為務。曳錫踽步<ptr type="glossary" target="#g2154"/>，南訪靈跡，及至<placeName key="PL000000013136">故<anchor xml:id="beg0879sgsz1"/><choice resp="PC-JK-MB"><sic>障</sic><corr>鄣</corr></choice><anchor xml:id="end0879sgsz1"/></placeName>，<lb
 ed="T" n="0879a03"/>有<placeName key="PL000000049696">崑山寺</placeName>者，林泉秀茂，則<date from-iso="+0420-07-11" key="j18746541896160" to-iso="+0479-05-29"><name>宋</name></date><ptr target="#n3336"/><persName key="A001800">支曇諦</persName>甞考室<ptr type="glossary" target="#g2155"/><lb
 ed="T" n="0879a04"/>于此，味道<ptr type="glossary" target="#g2156"/>崇化二十餘載，基蹠存焉！至<date notBefore-iso="+0424-09-18" key="j18761841886591" notAfter-iso="+0453-03-17"><name>元<lb
 ed="T" n="0879a05"/>嘉</name>中</date>創成大伽藍。屬<persName key="A006570">武宗</persName>廢教，<ref type="place" target="#PL000000049696">其寺</ref>屏除。<lb

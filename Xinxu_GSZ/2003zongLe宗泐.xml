@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" type="譯經" xml:id="xxgsz0038a03siLe"><lb
-ed="B" n="0038a03"/><anchor n="B.27.0151.0038a03"/><head>明<placeName key="PL000000011683">臨安淨慈寺</placeName>沙門<persName key="A000581">釋<anchor xml:id="beg003801"/><choice resp="xxgsz"><sic>寺</sic><corr>宗</corr></choice><anchor xml:id="end003801"/><!-- 據目錄、內文改 -->泐</persName>傳</head><p xml:id="pB27p0038a0401"><lb
+<div xmlns="http://www.tei-c.org/ns/1.0" type="譯經" xml:id="gsz0038a03siLe"><lb
+ed="B" n="0038a03"/><anchor n="B.27.0151.0038a03"/><head>明<placeName key="PL000000011683">臨安淨慈寺</placeName>沙門<persName key="A000581">釋<anchor xml:id="beg003801"/><choice resp="PC-MB"><sic>寺</sic><corr>宗</corr></choice><anchor xml:id="end003801"/><!-- 據目錄、內文改 -->泐</persName>傳</head><p xml:id="pB27p0038a0401"><lb
 ed="B" n="0038a04"/><persName key="A000581">釋宗泐</persName>，字<persName key="A000581">季潭</persName>，別題所居曰<persName key="A000581">全室</persName>。生有殊質，幼而聰異。授讀塾<lb
 ed="B" n="0038a05"/>師便見稱許，期以遠到。乃性猒俗榮，獨契玄玅。偶涉文苑，別有<lb
 ed="B" n="0038a06"/>悟心。年當成立，矢厥志願，竟從剃染。受具足後，得詣<placeName key="PL000000011683">淨慈</placeName><persName key="A000062">笑隱</persName>。<lb

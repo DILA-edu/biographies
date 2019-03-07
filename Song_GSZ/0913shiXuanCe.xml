@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0777c12shiXuanCe"><lb
-ed="T" n="0777c12"/><anchor n="T.50.2061.0777c12"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000026508"><placeName>黃州</placeName><placeName><anchor xml:id="beg0777sgsz10"/><choice resp="sgsz"><sic>九井</sic><corr>九井山</corr></choice><anchor xml:id="end0777sgsz10"/></placeName></placeName><persName key="A010534">玄策</persName>傳</head><p><lb
+ed="T" n="0777c12"/><anchor n="T.50.2061.0777c12"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000026508"><placeName>黃州</placeName><placeName><anchor xml:id="beg0777sgsz10"/><choice resp="PC-JK-MB"><sic>九井</sic><corr>九井山</corr></choice><anchor xml:id="end0777sgsz10"/></placeName></placeName><persName key="A010534">玄策</persName>傳</head><p><lb
 ed="T" n="0777c13"/><persName key="A010534">釋玄策</persName>，俗姓<name>魯</name>，<placeName key="PL000000013239">會稽</placeName>人也。幼隨父商估，赴<lb
 ed="T" n="0777c14"/><placeName key="PL000000014411">天台山</placeName>光明會，乃<date from-iso="+0581-03-06" key="j19333311946884" to-iso="+0618-04-15"><name>隋</name>朝</date><persName key="A001301">智顗<roleName>禪師</roleName></persName>立教，年別<ptr type="glossary" target="#g1578"/><lb
 ed="T" n="0777c15"/>九月，遠近州邑黑白二眾鳩聚。<persName key="A010534">策</persName>覩殊異，遂<lb

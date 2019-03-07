@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0887c19shiShiLu"><lb
 ed="T" n="0887c19"/><anchor n="T.50.2061.0887c19"/><head><date from-iso="+0960-02-09" key="j20717322132856" to-iso="+1127-06-18"><anchor xml:id="begd1e49280"/>宋<anchor xml:id="endd1e49280"/></date>東京開寶寺<persName key="A013811">師律</persName>傳</head><p><lb
-ed="T" n="0887c20"/><persName key="A013811">釋師律</persName>，<placeName key="PL000000002485"><anchor xml:id="beg0887sgsz17"/><choice resp="sgsz"><sic>茫</sic><corr>范</corr></choice><anchor xml:id="end0887sgsz17"/>陽</placeName>人也，姓<name>賈</name>氏，大丞相<persName key="A012285"><persName>魏國公</persName><persName>耽</persName></persName><lb
+ed="T" n="0887c20"/><persName key="A013811">釋師律</persName>，<placeName key="PL000000002485"><anchor xml:id="beg0887sgsz17"/><choice resp="PC-JK-MB"><sic>茫</sic><corr>范</corr></choice><anchor xml:id="end0887sgsz17"/>陽</placeName>人也，姓<name>賈</name>氏，大丞相<persName key="A012285"><persName>魏國公</persName><persName>耽</persName></persName><lb
 ed="T" n="0887c21"/>之後，《唐書》有傳。<persName key="A013811">律</persName>弱齓端謹，不與群童鬪<lb
 ed="T" n="0887c22"/>伎。裁<date key="j20490492049413" notAfter-iso="+0898-12-31" notBefore-iso="+0898-01-01">十五歲</date>，於<placeName key="PL000000000351">憫中寺</placeName>落髮，<anchor xml:id="beg0887sgsz19"/>禮<anchor xml:id="end0887sgsz19"/><persName key="A013812">貞涉</persName>為師。<lb
 ed="T" n="0887c23"/>嚴肅垂勗，所履不出邊幅之外。涉默異之<lb

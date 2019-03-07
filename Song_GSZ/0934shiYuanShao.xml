@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0784b20shiYuanShao"><lb
-n="0784b20" ed="T"/><anchor n="T.50.2061.0784b20"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><anchor xml:id="beg0784002" n="0784002"/><supplied resp="sgsz">今</supplied>東京<anchor xml:id="end0784002"/><placeName key="PL000000023413">封禪寺</placeName><persName key="A010654">圓紹</persName>傳</head><p><lb
+n="0784b20" ed="T"/><anchor n="T.50.2061.0784b20"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><anchor xml:id="beg0784002" n="0784002"/><supplied resp="PC-JK-MB">今</supplied>東京<anchor xml:id="end0784002"/><placeName key="PL000000023413">封禪寺</placeName><persName key="A010654">圓紹</persName>傳</head><p><lb
 ed="T" n="0784b21"/><persName key="A010654">釋圓紹</persName>，姓<name>孫</name>氏，其先<placeName key="PL000000012060">富陽</placeName>人也，祖官于<placeName key="PL000000024377">南<lb
 ed="T" n="0784b22"/>燕</placeName>，因為<placeName key="PL000000024153"><placeName>滑臺</placeName><placeName>白馬</placeName></placeName>人焉。年及識環<ptr type="glossary" target="#g1628"/>，天然俊<lb
 ed="T" n="0784b23"/>邁。隣兒戲玩，我且恬然；群從追隨，我惟閑靜。<lb
@@ -16,7 +16,7 @@ ed="T" n="0784c03"/>今為<placeName key="PL000000023413">開寶</placeName>也�
 ed="T" n="0784c04"/>罷調<ref type="place" target="#PL000000023329"><name>商</name>鼎</ref>，來鎮<ref type="place" target="#PL000000023329"><name>魏</name>郊</ref><ptr target="#n1688"/>。同氣相求，一言道合，<lb
 ed="T" n="0784c05"/>即命居<ref type="place" target="#PL000000023467">今東</ref><placeName key="PL000000057262">上方院</placeName>也。<persName key="A010654">紹</persName>將聚禪徒，患其<lb
 ed="T" n="0784c06"/>迫窄，遂開<placeName key="PL000000057262">上院</placeName>之西，損上益下。時檀施<ptr type="glossary" target="#g237"/>臻<lb
-ed="T" n="0784c07"/>萃<ptr type="glossary" target="#g1405"/>，<anchor xml:id="beg0784sgsz30"/><choice resp="sgsz"><sic>條</sic><corr>倐</corr></choice><anchor xml:id="end0784sgsz30"/>成巨院，擁納之流，數盈二百，橫跨<placeName key="PL000000023412">夷<lb
+ed="T" n="0784c07"/>萃<ptr type="glossary" target="#g1405"/>，<anchor xml:id="beg0784sgsz30"/><choice resp="PC-JK-MB"><sic>條</sic><corr>倐</corr></choice><anchor xml:id="end0784sgsz30"/>成巨院，擁納之流，數盈二百，橫跨<placeName key="PL000000023412">夷<lb
 ed="T" n="0784c08"/>門山</placeName>之峻嶺焉。<persName key="A010654">紹</persName>即七祖<persName key="A005612">荷澤神會<roleName>禪師</roleName></persName>五<lb
 ed="T" n="0784c09"/>葉法孫也。演其無念<ptr type="glossary" target="#g1133"/>，示以真心，了<persName key="A001361">達磨</persName>之<lb
 ed="T" n="0784c10"/>密傳，極<persName key="A001719">南能</persName>之深趣。時參學之眾，擁從且繁。<lb
@@ -32,7 +32,7 @@ ed="T" n="0784c19"/>中寂然而化，俗壽八十五，法臘六十三。勅許
 ed="T" n="0784c20"/>於<ref type="place" target="#PL000000057262">本院</ref>西南隅建塔焉。越<ptr type="glossary" target="#g1632"/><date key="j20491092049109" when-iso="+0898-03-02">五年二月二日</date>重<lb
 ed="T" n="0784c21"/>開塔，髮長半寸，儀貌如生。乃以香<anchor xml:id="beg0784sgsz32"/>華<anchor xml:id="end0784sgsz32"/>供養<lb
 ed="T" n="0784c22"/>七日，遠近瞻<anchor xml:id="beg0784sgsz34"/>禮<anchor xml:id="end0784sgsz34"/>，稱歎希奇。已而行茶毘，火<lb
-ed="T" n="0784c23"/>中逈出五色神光，收舍利百餘粒，四<choice resp="sgsz"><sic>散</sic><corr>眾</corr></choice><ptr type="glossary" target="#g98"/>隨<lb
+ed="T" n="0784c23"/>中逈出五色神光，收舍利百餘粒，四<choice resp="PC-JK-MB"><sic>散</sic><corr>眾</corr></choice><ptr type="glossary" target="#g98"/>隨<lb
 ed="T" n="0784c24"/>心淘選，近一千粒，溫潤玉潔，璨爛珠圓，驗<lb
 ed="T" n="0784c25"/>五分<ptr type="glossary" target="#g1633"/>之熏成，匪一生之構集。四眾虔仰，復迎<lb
 ed="T" n="0784c26"/>入塔，即<persName key="A003875">昭宗<roleName>皇帝</roleName></persName><date from-iso="+0898-01-30" key="j20490782049461" to-iso="+0899-02-17">戊午歲</date>也。<placeName key="PL000000025556">睢陽</placeName>相國<persName key="A010659">袁象<lb

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0797c12shiShouZhi"><lb
-ed="T" n="0797c12"/><anchor n="T.50.2061.0797c12"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000011644"><placeName>杭州</placeName><choice resp="sgsz"><sic><placeName>天竺山</placeName><placeName>靈隱寺</placeName></sic><corr><placeName>靈隱山</placeName><placeName>天竺寺</placeName></corr></choice></placeName><ptr target="#n413"/><persName key="A010894">守<choice resp="sgsz"><sic>直</sic><corr>真</corr></choice></persName><ptr target="#n414"/>傳</head><p><lb
-ed="T" n="0797c13"/><persName key="A010894">釋守<choice resp="sgsz"><sic>直</sic><corr>真</corr></choice></persName>，字<persName key="A010894">堅道</persName>，<placeName key="PL000000011520">錢塘</placeName>人也，姓<name>范</name>氏，<placeName key="PL000000013662"><placeName>齊</placeName><placeName>信安</placeName></placeName>太<lb
+ed="T" n="0797c12"/><anchor n="T.50.2061.0797c12"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000011644"><placeName>杭州</placeName><choice resp="PC-JK-MB"><sic><placeName>天竺山</placeName><placeName>靈隱寺</placeName></sic><corr><placeName>靈隱山</placeName><placeName>天竺寺</placeName></corr></choice></placeName><ptr target="#n413"/><persName key="A010894">守<choice resp="PC-JK-MB"><sic>直</sic><corr>真</corr></choice></persName><ptr target="#n414"/>傳</head><p><lb
+ed="T" n="0797c13"/><persName key="A010894">釋守<choice resp="PC-JK-MB"><sic>直</sic><corr>真</corr></choice></persName>，字<persName key="A010894">堅道</persName>，<placeName key="PL000000011520">錢塘</placeName>人也，姓<name>范</name>氏，<placeName key="PL000000013662"><placeName>齊</placeName><placeName>信安</placeName></placeName>太<lb
 ed="T" n="0797c14"/>守<persName key="A010895">瑝</persName>之八葉。禮既冠眾，君子器之。夙有丘<lb
 ed="T" n="0797c15"/>園<ptr type="glossary" target="#g1217"/>之期，不顧玄纁<ptr type="glossary" target="#g445"/>之錫。遂詣<placeName key="PL000000010025"><placeName>蘇州</placeName><placeName>支硎寺</placeName></placeName><lb
 ed="T" n="0797c16"/><persName key="A010896">圓<roleName>大師</roleName></persName>所受具足律儀。是夜，眼中光現長一<lb
@@ -18,7 +18,7 @@ ed="T" n="0797c26"/>見也。至<date from-iso="+0738-01-29" key="j1990637199102
 ed="T" n="0797c27"/>請正名隷<placeName key="PL000000018793">大林寺</placeName><ptr target="#n1117"/>，後移籍<placeName key="PL000000011644">天竺</placeName>住<placeName key="PL000000011567">靈隱峯</placeName>，<lb
 ed="T" n="0797c28"/>時<date from-iso="+0767-02-08" key="j20012392001592" to-iso="+0768-01-27"><name>大曆</name>二年</date>也。至<date from-iso="+0770-04-05" key="j20023912002419" to-iso="+0770-05-03">五年三月</date>，寓于<placeName key="PL000000057581"><placeName>龍興</placeName><placeName>淨土<lb
 ed="T" n="0797c29"/>院</placeName></placeName><ptr target="#n1118"/>，謂左右曰：「夫至人乘如而來，乘如而去，<pb ed="T" n="0798a" xml:id="T50.2061.0798a"/><lb
-ed="T" n="0798a01"/>示其<choice resp="sgsz"><sic>心</sic><corr>必</corr></choice>然<ptr target="#n1119"/>也。而愚<ptr target="#n1124"/>夫欲以長繩繫彼白日，<lb
+ed="T" n="0798a01"/>示其<choice resp="PC-JK-MB"><sic>心</sic><corr>必</corr></choice>然<ptr target="#n1119"/>也。而愚<ptr target="#n1124"/>夫欲以長繩繫彼白日，<lb
 ed="T" n="0798a02"/>安可得乎？<ref type="person" target="#A010894">吾</ref>景落桑榆<ptr type="glossary" target="#g1554"/>，豈淹久<ptr type="glossary" target="#g447"/>也？<ptr target="#n1126"/>」以<date key="j20024192002419" when-iso="+0770-05-03">其年<lb
 ed="T" n="0798a03"/>此月二十九日</date>告終，春秋七十一，僧臘四十<lb
 ed="T" n="0798a04"/>五。其間臨壇度人多矣，顯名者<placeName key="PL000000010052">洞庭</placeName><ptr target="#n1129"/><persName key="A010899">辯秀</persName>、<lb

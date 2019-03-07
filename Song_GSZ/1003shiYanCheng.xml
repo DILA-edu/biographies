@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0809b11shiYanCheng"><lb
 ed="T" n="0809b11"/><anchor n="T.50.2061.0809b11"/><head><date from-iso="+0907-06-10" key="j20524952058534" to-iso="+0923-12-22">梁</date><placeName key="PL000000010127"><placeName>蘇州<ptr target="#n280"/></placeName><placeName>破山</placeName><placeName>興福寺</placeName></placeName><persName key="A011646">彥偁</persName>傳（<persName key="A011648">壽<anchor xml:id="beg0809sgsz5"/>闍黎<anchor xml:id="end0809sgsz5"/></persName>）</head><p><lb
-ed="T" n="0809b12"/><persName key="A011646">釋彥偁</persName>，姓<name>龔</name>氏，<placeName key="PL000000010157"><placeName>吳郡</placeName><placeName>常熟</placeName></placeName>人也。揭厲<ptr type="glossary" target="#g1031"/>戒<choice resp="sgsz"><sic>津</sic><corr>律</corr></choice>，<lb
+ed="T" n="0809b12"/><persName key="A011646">釋彥偁</persName>，姓<name>龔</name>氏，<placeName key="PL000000010157"><placeName>吳郡</placeName><placeName>常熟</placeName></placeName>人也。揭厲<ptr type="glossary" target="#g1031"/>戒<choice resp="PC-JK-MB"><sic>津</sic><corr>律</corr></choice>，<lb
 ed="T" n="0809b13"/>錙銖<ptr type="glossary" target="#g170"/>塵務，勤求師範，唯善是從。末扣擊《繼<lb
 ed="T" n="0809b14"/>宗》記<ref type="person" target="#A023367">主</ref><ptr target="#n1880"/>，得其戶牗<ptr type="glossary" target="#g906"/>，乃於<ref type="place" target="#PL000000010157">本生地</ref>講導，同好<lb
 ed="T" n="0809b15"/>鳩聚，律風孔<ptr type="glossary" target="#g909"/>扇，號為<name>毘尼窟宅</name>焉。先是<placeName key="PL000000010157">海<lb
@@ -13,7 +13,7 @@ ed="T" n="0809b20"/>其更闌各睡，乃自持炬就拔其箭。虎耽耳<ptr t
 ed="T" n="0809b21"/>舐矢鏃血，顧<persName key="A011646">偁</persName>而瞑目焉。質明<ptr type="glossary" target="#g438"/>，獵師<persName key="A011647">朱德</persName>就<lb
 ed="T" n="0809b22"/>寺尋虎，<persName key="A011646">偁</persName>告示其箭，<persName key="A011647">朱德</persName>悛心<ptr type="glossary" target="#g858"/>罷獵焉。<lb
 ed="T" n="0809b23"/><persName key="A003552"><persName>武肅王</persName><persName>錢<roleName>氏</roleName></persName></persName>知重，每設冥齋，召行持明法<ptr type="glossary" target="#g249"/>。<lb
-ed="T" n="0809b24"/>時覆肩衣自肱而墮，還自<anchor xml:id="beg0809sgsz9"/><choice resp="sgsz"><sic>塔</sic><corr>搭</corr></choice><anchor xml:id="end0809sgsz9"/>上，或見鬼物隨<lb
+ed="T" n="0809b24"/>時覆肩衣自肱而墮，還自<anchor xml:id="beg0809sgsz9"/><choice resp="PC-JK-MB"><sic>塔</sic><corr>搭</corr></choice><anchor xml:id="end0809sgsz9"/>上，或見鬼物隨<lb
 ed="T" n="0809b25"/>侍焉。所謂道德盛則鬼神助也。以<date from-iso="+0920-06-24" key="j20572582057286" to-iso="+0920-07-22"><name>貞明</name>六年<lb
 ed="T" n="0809b26"/>六月</date>，終于山房，年九十九歲云。</p><p>次<persName key="A011648">壽<roleName><anchor xml:id="beg0809sgsz11"/>闍黎<anchor xml:id="end0809sgsz11"/></roleName></persName>者，<lb
 ed="T" n="0809b27"/><placeName key="PL000000010590">淮浦</placeName>左右，貞諒<ptr type="glossary" target="#g1431"/>不群，防護正念，時少雙偶。<lb

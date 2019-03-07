@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="讀誦" xml:id="gsz0871a08shiRuoXu"><lb
-ed="T" n="0871a08"/><anchor n="T.50.2061.0871a08"/><head><date from-iso="+0947-03-15" key="j20670182068464" to-iso="+0951-02-28">漢</date><placeName key="PL000000018775"><placeName>江州</placeName><placeName>廬山</placeName></placeName><persName key="A013621">若虛</persName>傳（<persName key="A013622"><anchor xml:id="beg0871001"/><choice resp="sgsz"><sic>亡名僧</sic><corr>亡名</corr></choice><anchor xml:id="end0871001"/></persName>）</head><p><lb
+ed="T" n="0871a08"/><anchor n="T.50.2061.0871a08"/><head><date from-iso="+0947-03-15" key="j20670182068464" to-iso="+0951-02-28">漢</date><placeName key="PL000000018775"><placeName>江州</placeName><placeName>廬山</placeName></placeName><persName key="A013621">若虛</persName>傳（<persName key="A013622"><anchor xml:id="beg0871001"/><choice resp="PC-JK-MB"><sic>亡名僧</sic><corr>亡名</corr></choice><anchor xml:id="end0871001"/></persName>）</head><p><lb
 ed="T" n="0871a09"/><persName key="A013621">釋若虛</persName>，隱于<placeName key="PL000000018775">廬山</placeName>，數年持經，不出石室。<placeName key="PL000000000122">江<lb
 ed="T" n="0871a10"/>南國</placeName>主<ref type="person" target="#A006600 #A006601"><name>李</name>氏</ref>欽尚其道，累徵，終不降就。唯言<lb
 ed="T" n="0871a11"/>「<ref type="person" target="#A013621">老僧</ref>無能，寧銷王者歸心？若更相呼，竄入深<lb
@@ -10,7 +10,7 @@ ed="T" n="0871a14"/>焉。又<placeName key="PL000000028663">潭州</placeName><
 ed="T" n="0871a15"/><placeName key="PL000000028663">長沙</placeName><persName key="A013623"><persName>文昭王</persName><persName>馬<roleName>氏</roleName></persName></persName>特加禮重，召入<placeName key="PL000000055391"><placeName>天策府</placeName><placeName>湘<lb
 ed="T" n="0871a16"/>西院</placeName></placeName>供養。然其語事，詭異堪驚。一旦召知<lb
 ed="T" n="0871a17"/>佛殿僧，令急襞掠<ptr type="glossary" target="#g2035"/>佛像，各就兩廂。僧皆謂<lb
-ed="T" n="0871a18"/>為狂發，相目而笑。舉止極甚<anchor xml:id="beg0871002"/><choice resp="sgsz"><sic>忽</sic><corr>怱</corr></choice><anchor xml:id="end0871002"/>切。須臾，自<lb
+ed="T" n="0871a18"/>為狂發，相目而笑。舉止極甚<anchor xml:id="beg0871002"/><choice resp="PC-JK-MB"><sic>忽</sic><corr>怱</corr></choice><anchor xml:id="end0871002"/>切。須臾，自<lb
 ed="T" n="0871a19"/>入正殿內據佛座而坐，奄然而化。舉州道<lb
 ed="T" n="0871a20"/>俗，爭<anchor xml:id="beg0871sgsz3"/>禮<anchor xml:id="end0871sgsz3"/>焚香，<placeName key="PL000000057659">漢</placeName><date key="j20673842068464" notAfter-iso="+0951-02-28" notBefore-iso="+0948-03-15"><name>乾祐</name>中</date>也。</p>
     <linkGrp>

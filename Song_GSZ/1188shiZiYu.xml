@@ -2,10 +2,10 @@
 <div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0876c06shiZiYu"><lb
 ed="T" n="0876c06"/><anchor n="T.50.2061.0876c06"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000012985"><placeName>湖州</placeName><placeName>大雲寺</placeName></placeName><persName key="A010808">子瑀</persName>傳</head><p><lb
 ed="T" n="0876c07"/><persName key="A010808">釋子瑀</persName><ptr target="#n709"/>字<persName key="A010808">真瑛</persName>，姓<name>沈</name>氏，<placeName key="PL000000013084"><placeName>吳興</placeName><placeName>德清</placeName></placeName>人也。其先<lb
-ed="T" n="0876c08"/><choice resp="sgsz"><sic>亡</sic><corr>世</corr></choice>國<ptr target="#n710"/>於<name>沈</name>，因以為氏，<date from-iso="-769-01-01" key="j14401891574597" to-iso="-402-12-31">春秋</date><name>沈</name>子<ptr target="#n3218"/>之後也。<ptr target="#n3219"/><persName key="A010808">瑀</persName><lb
+ed="T" n="0876c08"/><choice resp="PC-JK-MB"><sic>亡</sic><corr>世</corr></choice>國<ptr target="#n710"/>於<name>沈</name>，因以為氏，<date from-iso="-769-01-01" key="j14401891574597" to-iso="-402-12-31">春秋</date><name>沈</name>子<ptr target="#n3218"/>之後也。<ptr target="#n3219"/><persName key="A010808">瑀</persName><lb
 ed="T" n="0876c09"/>生而聰慧，不以師授。年未總角，辭親出家，<lb
 ed="T" n="0876c10"/>以<date notBefore-iso="+0692-04-25" key="j19739231974106" notAfter-iso="+0692-10-25"><name>如意</name>年中</date>大赦度人，壞衣<ptr type="glossary" target="#g971"/>削䰂<ptr rend="display:none;" type="glossary" target="#g635"/>，煤炱<ptr target="#n3220"/>世<lb
-ed="T" n="0876c11"/>事，於<placeName key="PL000000023665"><placeName>洛京</placeName><placeName>大福先寺</placeName></placeName>受戒<ptr target="#n3221"/>。勤勤祈請，<supplied resp="sgsz">不遑</supplied>假寐<ptr target="#n3222"/>。<lb
+ed="T" n="0876c11"/>事，於<placeName key="PL000000023665"><placeName>洛京</placeName><placeName>大福先寺</placeName></placeName>受戒<ptr target="#n3221"/>。勤勤祈請，<supplied resp="PC-JK-MB">不遑</supplied>假寐<ptr target="#n3222"/>。<lb
 ed="T" n="0876c12"/>三日之夕，見有神人儼然<ptr target="#n3223"/>在目，倏往忽來，<lb
 ed="T" n="0876c13"/>或同或異，得非至誠乎？於是燭如來燈，<lb
 ed="T" n="0876c14"/>佩菩薩印。<date notBefore-iso="+0694-11-26" key="j19748681975200" notAfter-iso="+0695-10-24"><name>證聖</name>中</date>歸于<placeName key="PL000000012985">大雲道場</placeName>，堅執律<lb
@@ -17,7 +17,7 @@ ed="T" n="0876c19"/>而聞命焉！常<anchor xml:id="beg0876sgsz9"/>禮<anchor 
 ed="T" n="0876c20"/>日夜一匝，或二日、三日一匝。夜有聖僧九人<lb
 ed="T" n="0876c21"/>降於<anchor xml:id="beg0876sgsz11"/>禮<anchor xml:id="end0876sgsz11"/>懺之所，相與行道，彈指<ptr type="glossary" target="#g507"/>而去。或夜無<lb
 ed="T" n="0876c22"/>燈燭，心口是念，圓光照室，如坐月中。如此<lb
-ed="T" n="0876c23"/>則往往有之。<persName key="A010808">瑀</persName>慨<placeName key="PL000000013084">德清</placeName><anchor xml:id="beg0876sgsz13"/><choice resp="sgsz"><sic>徧</sic><corr>偏</corr></choice><anchor xml:id="end0876sgsz13"/>邑<ptr target="#n711"/>，未有塔寺，遂<lb
+ed="T" n="0876c23"/>則往往有之。<persName key="A010808">瑀</persName>慨<placeName key="PL000000013084">德清</placeName><anchor xml:id="beg0876sgsz13"/><choice resp="PC-JK-MB"><sic>徧</sic><corr>偏</corr></choice><anchor xml:id="end0876sgsz13"/>邑<ptr target="#n711"/>，未有塔寺，遂<lb
 ed="T" n="0876c24"/>銳懷營構。一唱齊和，乃成精宇。前後寫經<lb
 ed="T" n="0876c25"/>三藏<ptr target="#n713"/>，凡一萬六千卷。<date notBefore-iso="+0742-02-14" key="j19921141993438" notAfter-iso="+0745-09-30"><name>天寶</name>初</date>，<placeName key="PL000000012110">臨安</placeName><persName key="A013697">足法師</persName>死，<lb
 ed="T" n="0876c26"/>經三宿，將入地獄，冥中見<persName key="A010808">瑀</persName>引至王所，謂<lb

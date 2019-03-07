@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="義解" xml:id="gsz0747c27shiZhenHui"><lb
-ed="T" n="0747c27"/><anchor n="T.50.2061.0747c27"/><head><date from-iso="+0923-05-18" key="j20583162063308" to-iso="+0937-01-16">後唐</date><placeName key="PL000000023307"><placeName><supplied resp="sgsz">今</supplied>東京</placeName><placeName>相國寺</placeName></placeName><ptr target="#n273"/><persName key="A009901">貞誨</persName>傳</head><p><lb
+ed="T" n="0747c27"/><anchor n="T.50.2061.0747c27"/><head><date from-iso="+0923-05-18" key="j20583162063308" to-iso="+0937-01-16">後唐</date><placeName key="PL000000023307"><placeName><supplied resp="PC-JK-MB">今</supplied>東京</placeName><placeName>相國寺</placeName></placeName><ptr target="#n273"/><persName key="A009901">貞誨</persName>傳</head><p><lb
 ed="T" n="0747c28"/><persName key="A009901">釋貞誨</persName>，姓<name>包</name>氏，<placeName key="PL000000010157"><placeName>吳郡</placeName><placeName>常熟</placeName></placeName>人也。<date key="j20406482041012" from-iso="+0875-01-01" to-iso="+0875-12-31">年始十三</date>，出<lb
 ed="T" n="0747c29"/>家於本州<placeName key="PL000000009853">龍興寺</placeName>。其性沈靜，分陰是競<ptr type="glossary" target="#g1107"/>。方踰<pb ed="T" n="0748a" xml:id="T50.2061.0748a"/><lb
 ed="T" n="0748a01"/>一稔，誦徹《法華經》，如是恒業日周二部。<date key="j20428402043204" from-iso="+0881-01-01" to-iso="+0881-12-31">年<lb
@@ -15,7 +15,7 @@ ed="T" n="0748a09"/><persName key="A009901">誨</persName>風規<ptr type="gloss
 ed="T" n="0748a10"/>置長講<placeName key="PL000000057657">法華經堂</placeName>於<placeName key="PL000000023310">西塔院</placeName>，從此翕然<ptr rend="display:none;" type="glossary" target="#g768"/>盛集。<lb
 ed="T" n="0748a11"/><persName key="A009901">誨</persName>旁讀大藏教文，二時<ptr type="glossary" target="#g1114"/><anchor xml:id="beg0748001"/>行<anchor xml:id="end0748001"/>道，精進罔疲。凡<lb
 ed="T" n="0748a12"/>世伎術百家之言，黜于議論之外，誡門徒曰：<lb
-ed="T" n="0748a13"/>「異端之說，<choice resp="sgsz"><sic>汨</sic><corr>汩</corr></choice>亂<ptr type="glossary" target="#g1115"/>真心，無記<ptr type="glossary" target="#g1312"/>不熏，何須習俗？<lb
+ed="T" n="0748a13"/>「異端之說，<choice resp="PC-JK-MB"><sic>汨</sic><corr>汩</corr></choice>亂<ptr type="glossary" target="#g1115"/>真心，無記<ptr type="glossary" target="#g1312"/>不熏，何須習俗？<lb
 ed="T" n="0748a14"/><ref type="person" target="#A009901">吾</ref>止願為師子吼，不作野<anchor xml:id="beg0748002"/>犴<anchor xml:id="end0748002"/><ptr type="glossary" target="#g1116"/>鳴也。」但專<lb
 ed="T" n="0748a15"/>香燭塗掃，以<placeName key="PL000000056086">內院</placeName>為息肩<ptr rend="display:none;" type="glossary" target="#g916"/>之地。至<placeName key="PL000000057656">後唐</placeName><date key="j20626422062642" when-iso="+0935-03-22"><name>清<lb
 ed="T" n="0748a16"/>泰</name>二年二月十日</date>，召弟子五十餘人，自具香<lb

@@ -10,11 +10,11 @@
           <title xml:lang="en">New Collection of Biographies of Eminent Monks</title>
         </title>
       <author><name xml:lang="zh-Latn">Yuqian</name><name xml:lang="zh-Hant">喻謙</name>(?-1932)</author>
-        <editor>Marcus Bingenheimer</editor>
-        <editor>Chang, Po-Yung 張伯雍</editor>
+        <editor>Marcus Bingenheimer (MB)</editor>
+        <editor>Chang, Po-Yung 張伯雍 (PC)</editor>
         <respStmt>
           <resp>Encoding, Markup</resp>
-          <name>Chang, Po-Yung 張伯雍</name>
+          <name>Chang, Po-Yung 張伯雍 (PC)</name>
         </respStmt>
         <respStmt>
           <resp>Programming, Interface Design</resp>
@@ -24,7 +24,7 @@
           <resp>Archive Creation and Maintainance</resp>
           <name></name>
         </respStmt>
-        <principal>Marcus Bingenheimer</principal>
+        <principal>Marcus Bingenheimer (MB)</principal>
         <funder>Chung-Hwa Institute of Buddhist Studies 中華佛學研究所</funder>
       </titleStmt>
       <publicationStmt>
@@ -465,7 +465,7 @@
         <xi:include href="2258-清寧鄉大溈密印寺沙門釋正明傳慧山海.xml"/>
         <xi:include href="2259-清四明天童寺沙門釋通賢傳.xml"/>
         <xi:include href="2260-清四明天童寺沙門釋通容傳.xml"/>
-        <xi:include href="2261-清四明天童寺沙門釋道忞傳.xml"/>
+        <xi:include href="2261daoMin道忞.xml"/>
         <xi:include href="2262-清錢塘淨慈寺沙門釋正嵒傳方孝.xml"/>
         <xi:include href="2263-清孤嶼江心寺沙門釋本塋傳.xml"/>
         <xi:include href="2264-清瑞安仙巖寺沙門釋超志傳.xml"/>
@@ -1034,7 +1034,7 @@
         <xi:include href="2657-清公安玉泉寺沙門釋海福傳.xml"/>
         <xi:include href="2658-清當陽東禪堂沙門釋性關傳覺聰_本赤_印正.xml"/>
         <xi:include href="2659-清荊州天王寺沙門釋慧海傳.xml"/>
-        <xi:include href="2660-清四川雙桂福國禪院沙門釋海明傳.xml"/>
+        <xi:include href="2660haiMing海明.xml"/>
         <xi:include href="2661-清盤山正法禪院沙門釋行乾傳養心.xml"/>
         <xi:include href="2662-清黃檗山寺沙門釋隆琦傳.xml"/>
         <xi:include href="2663-清興教萬壽禪寺沙門釋道仁傳.xml"/>
@@ -1177,7 +1177,7 @@
         <xi:include href="2760-清太平白雀雨花寺沙門釋聖通傳東悟本.xml"/>
         <xi:include href="2761-清南嶽曉霞峰沙門釋文惺傳大成.xml"/>
         <xi:include href="2762-清潤州焦山寺沙門釋智先傳德鏡_行載.xml"/>
-        <xi:include href="2763jiZhan.xml"/>
+        <xi:include href="2763jiZhan寂湛.xml"/>
         <xi:include href="2764-清福州雪峯寺沙門釋海印傳.xml"/>
         <xi:include href="2765-清杭州淨慈寺沙門釋明幢傳.xml"/>
         <xi:include href="2766-清杭州雲林寺沙門釋義果傳上志.xml"/>

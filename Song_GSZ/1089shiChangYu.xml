@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="感通" xml:id="gsz0845b09shiChangYu"><lb
 ed="T" n="0845b09"/><anchor n="T.50.2061.0845b09"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000005495"><placeName>清涼山</placeName><placeName>祕魔巖</placeName></placeName><persName key="A004846">常遇</persName>傳</head><p><lb
-ed="T" n="0845b10"/><persName key="A004846">釋常遇</persName>，俗姓<name>陰</name>，<placeName key="PL000000000368"><anchor xml:id="beg0845sgsz1"/><choice resp="sgsz"><sic>苑</sic><corr>范</corr></choice><anchor xml:id="end0845sgsz1"/>陽</placeName>人也，出家於<placeName key="PL000000000514">燕</placeName>北<placeName key="PL000000000496">安集<lb
+ed="T" n="0845b10"/><persName key="A004846">釋常遇</persName>，俗姓<name>陰</name>，<placeName key="PL000000000368"><anchor xml:id="beg0845sgsz1"/><choice resp="PC-JK-MB"><sic>苑</sic><corr>范</corr></choice><anchor xml:id="end0845sgsz1"/>陽</placeName>人也，出家於<placeName key="PL000000000514">燕</placeName>北<placeName key="PL000000000496">安集<lb
 ed="T" n="0845b11"/>寺</placeName>。襟懷灑落，道貌清奇，晦跡林泉，避脫聲<lb
 ed="T" n="0845b12"/>利<ptr target="#n2719"/>。<date from-iso="+0850-02-20" key="j20315672031920" to-iso="+0851-02-08"><name>大中</name>四年</date>，<anchor xml:id="beg0845002"/>杖錫<anchor xml:id="end0845002"/>離<placeName key="PL000000000514">燕</placeName>，孤征朔雪，祁冱<ptr type="glossary" target="#g1784"/>千<lb
 ed="T" n="0845b13"/>里，徑涉<placeName key="PL000000005250">五峯</placeName>，詣<placeName key="PL000000005387"><placeName>華嚴寺</placeName><placeName>菩薩堂</placeName></placeName>，矚<persName key="A002144">文殊</persName>睟<lb
@@ -21,7 +21,7 @@ ed="T" n="0845b26"/>部》<ptr target="#n2722"/>等法，翫味精課，不遺�
 ed="T" n="0845b27"/>道出凡境，事或<anchor xml:id="beg0845sgsz7"/>禮<anchor xml:id="end0845sgsz7"/>問，他見莫尋。士嚮庶歸，克<lb
 ed="T" n="0845b28"/>念如聖。洎<persName key="A006571">懿皇</persName>運末<ptr target="#n2728"/>，<persName key="A004846">遇</persName>易舊規，或拊掌大<lb
 ed="T" n="0845b29"/>咍，或擊石異語，類<persName key="A003064">不輕</persName>之海記<ptr target="#n2726"/>，同<placeName key="PL000000023022">楚</placeName>客之<pb ed="T" n="0845c" xml:id="T50.2061.0845c"/><lb
-ed="T" n="0845c01"/>佯狂<ptr target="#n2727"/>。及禍發<placeName key="PL000000000214">中原</placeName>，寇盜交騁，夷撤宮<anchor xml:id="beg0845sgsz9"/><choice resp="sgsz"><sic>壺</sic><corr>壼</corr></choice><anchor xml:id="end0845sgsz9"/>，鑾<lb
+ed="T" n="0845c01"/>佯狂<ptr target="#n2727"/>。及禍發<placeName key="PL000000000214">中原</placeName>，寇盜交騁，夷撤宮<anchor xml:id="beg0845sgsz9"/><choice resp="PC-JK-MB"><sic>壺</sic><corr>壼</corr></choice><anchor xml:id="end0845sgsz9"/>，鑾<lb
 ed="T" n="0845c02"/>輅蒙塵<ptr target="#n981"/>，因省<ref type="person" target="#A004846">師</ref>言，其若合契矣<ptr target="#n2729"/>。時屬<placeName key="PL000000003797">河東</placeName><lb
 ed="T" n="0845c03"/><persName key="A009891">武皇</persName>遙嚮真德，就山致信。迨<date from-iso="+0888-05-19" key="j20455352045563" to-iso="+0888-06-16"><name>文德</name>元年夏<lb
 ed="T" n="0845c04"/>四月</date>，命<placeName key="PL000000003871">憲州</placeName>刺史<persName key="A012809">馬師素</persName>傳意邀請，<persName key="A004846">遇</persName>曰：<lb

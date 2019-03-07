@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="義解" xml:id="gsz0746c04shiGuiYu"><lb
-ed="T" n="0746c04"/><anchor n="T.50.2061.0746c04"/><head><date from-iso="+0907-06-10" key="j20524952058534" to-iso="+0923-12-22">梁</date><supplied resp="sgsz">今</supplied><placeName key="PL000000023307"><placeName>東京</placeName><placeName>相國寺</placeName></placeName><ptr target="#n273"/><persName key="A009874">歸嶼</persName>傳</head><p><lb
+ed="T" n="0746c04"/><anchor n="T.50.2061.0746c04"/><head><date from-iso="+0907-06-10" key="j20524952058534" to-iso="+0923-12-22">梁</date><supplied resp="PC-JK-MB">今</supplied><placeName key="PL000000023307"><placeName>東京</placeName><placeName>相國寺</placeName></placeName><ptr target="#n273"/><persName key="A009874">歸嶼</persName>傳</head><p><lb
 ed="T" n="0746c05"/><persName key="A009874">釋歸嶼</persName>，姓<name>湄</name>氏，<placeName key="PL000000016347">壽春</placeName>人也。父<persName key="A009875">元旭</persName>知<ref type="person" target="#A009874">子</ref>敏<lb
 ed="T" n="0746c06"/>利，授以《詩》、《書》，誦覽記憶，彌見過群。從諸子<lb
 ed="T" n="0746c07"/>而竊願出塵，<ref type="person" target="#A009875">父</ref>母允其頻請，乃<anchor xml:id="beg0746sgsz10"/>禮<anchor xml:id="end0746sgsz10"/>本郡<placeName key="PL000000016332">開<lb
 ed="T" n="0746c08"/>元寺</placeName><persName key="A009877">道宗<roleName>律師</roleName></persName>為力生<ptr type="glossary" target="#g1063"/>焉。未及周星<ptr type="glossary" target="#g122"/>，念通<lb
 ed="T" n="0746c09"/>《法華》、《仁王》<ptr target="#n198"/>二經。登于<date key="j20424742042839" from-iso="+0880-01-01" to-iso="+0880-12-31">弱冠</date>，而全戒足，矜持<lb
-ed="T" n="0746c10"/>三行<ptr target="#n1064"/>，靡曠四儀<ptr type="glossary" target="#g1065"/>，習聽新章<ptr target="#n902"/>，<anchor xml:id="beg0746005"/><choice resp="sgsz"><sic>寺</sic><corr>尋</corr></choice><anchor xml:id="end0746005"/>通講授。後<lb
+ed="T" n="0746c10"/>三行<ptr target="#n1064"/>，靡曠四儀<ptr type="glossary" target="#g1065"/>，習聽新章<ptr target="#n902"/>，<anchor xml:id="beg0746005"/><choice resp="PC-JK-MB"><sic>寺</sic><corr>尋</corr></choice><anchor xml:id="end0746005"/>通講授。後<lb
 ed="T" n="0746c11"/>聞<placeName key="PL000000023581">洛京</placeName>、<placeName key="PL000000042002">三輔</placeName>經、論盛行，結侶求師。僅于十<lb
 ed="T" n="0746c12"/>載，疏通性、相，精大、小乘，名數一支，「因明」一<lb
 ed="T" n="0746c13"/>學，《俱舍》<ptr target="#n1429"/>、《唯識》<ptr target="#n767"/>、《維摩》、《上生》<ptr target="#n772"/>，皆深藏若虛也。復<lb

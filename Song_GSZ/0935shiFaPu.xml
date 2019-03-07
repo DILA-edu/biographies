@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0785a03shiFaPu"><lb
-ed="T" n="0785a03"/><anchor n="T.50.2061.0785a03"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000028066"><choice resp="sgsz"><sic>蘄</sic><corr>黃</corr></choice><ptr target="#n1691"/>州黃崗山</placeName><persName key="A010662">法普</persName>傳（<persName key="A010664">休靜</persName>）</head><p><lb
+ed="T" n="0785a03"/><anchor n="T.50.2061.0785a03"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000028066"><choice resp="PC-JK-MB"><sic>蘄</sic><corr>黃</corr></choice><ptr target="#n1691"/>州黃崗山</placeName><persName key="A010662">法普</persName>傳（<persName key="A010664">休靜</persName>）</head><p><lb
 ed="T" n="0785a04"/><persName key="A010662">釋法普</persName>，姓<name>潘</name>氏，<placeName key="PL000000015064">廬江</placeName>人也。貌古情寬，擁敗<lb
 ed="T" n="0785a05"/>納觀方。<date notBefore-iso="+0806-01-29" key="j20154742020606" notAfter-iso="+0820-02-17"><name>元和</name>中</date>，因見<placeName key="PL000000028066">黃崗</placeName>山色奇秀，其峯<lb
 ed="T" n="0785a06"/>巉崪<ptr type="glossary" target="#g1634"/>，其林欝密，中有石壇，平坦而高峙。乃放<lb

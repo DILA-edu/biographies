@@ -2,13 +2,13 @@
 <div xmlns="http://www.tei-c.org/ns/1.0" type="義解" xml:id="gsz0752b04shiYiJi"><lb
 ed="T" n="0752b04"/><anchor n="T.50.2061.0752b04"/><head><date from-iso="+0960-02-09" key="j20717322132856" to-iso="+1127-06-18"><anchor xml:id="beg0752sgsz1"/>宋<anchor xml:id="end0752sgsz1"/></date><placeName key="PL000000014778"><placeName>天台山</placeName><placeName>螺溪傳教院</placeName></placeName><ptr target="#n274"/><persName key="A010042">義寂</persName>傳</head><p><lb
 ed="T" n="0752b05"/><persName key="A010042">釋義寂</persName>字<persName key="A010042">常照</persName>，姓<name>胡</name>氏，<placeName key="PL000000012521"><placeName>溫州</placeName><placeName>永嘉</placeName></placeName>人也。母妊<lb
-ed="T" n="0752b06"/>娠公<anchor xml:id="beg0752003"/><choice resp="sgsz"><sic>白</sic><corr>日</corr></choice><anchor xml:id="end0752003"/>不喜葷血，生乃首蒙紫帽而誕焉。<lb
+ed="T" n="0752b06"/>娠公<anchor xml:id="beg0752003"/><choice resp="PC-JK-MB"><sic>白</sic><corr>日</corr></choice><anchor xml:id="end0752003"/>不喜葷血，生乃首蒙紫帽而誕焉。<lb
 ed="T" n="0752b07"/>幼啟二親，堅求去俗，旋入<placeName key="PL000000012500">開元伽藍</placeName>。師授<lb
 ed="T" n="0752b08"/>《法華經》，朞月<ptr type="glossary" target="#g1274"/>而徹，寺之耆老稱歎希有。受具<ptr type="glossary" target="#g33"/><lb
 ed="T" n="0752b09"/>已，往<placeName key="PL000000013265">會稽</placeName>學<persName key="A001519">南山</persName>鈔<ptr target="#n1290"/>。既通律義，乃造<placeName key="PL000000014411">天台<lb
 ed="T" n="0752b10"/>山</placeName>研尋「止觀」，其所易解猶<placeName key="PL000000023601">河南</placeName><persName key="A005679">一遍照</persName>也。<lb
 ed="T" n="0752b11"/>先是<persName key="A001301">智者</persName>教迹，遠則<persName key="A008454">安</persName><persName key="A010333">史</persName>兵殘<ptr target="#n382"/>，近則<date from-iso="+0841-02-08" key="j20282682030170" to-iso="+0846-04-25"><name>會昌</name></date>焚<lb
-ed="T" n="0752b12"/>毀<ptr target="#n1291"/>，零編斷簡，本折枝摧，傳者何憑端正<anchor xml:id="beg0752004"/><choice resp="sgsz"><sic>甚</sic><corr>其</corr></choice><anchor xml:id="end0752004"/><lb
+ed="T" n="0752b12"/>毀<ptr target="#n1291"/>，零編斷簡，本折枝摧，傳者何憑端正<anchor xml:id="beg0752004"/><choice resp="PC-JK-MB"><sic>甚</sic><corr>其</corr></choice><anchor xml:id="end0752004"/><lb
 ed="T" n="0752b13"/>學？<persName key="A010042">寂</persName>思鳩集也。適<placeName key="PL000000013514">金華</placeName>古藏中得《淨名疏》<ptr target="#n1197"/><lb
 ed="T" n="0752b14"/>而已。後欵告<ptr type="glossary" target="#g1296"/><persName key="A008355">韶<roleName>禪師</roleName></persName>，囑人泛舟於<placeName key="PL000000048414">日本國</placeName><lb
 ed="T" n="0752b15"/>購獲僅足<ptr target="#n1198"/>。由是博聞多識。微<persName key="A010042">寂</persName>，此宗學者幾<lb
@@ -35,7 +35,7 @@ ed="T" n="0752c06"/>四日</date>，囑誡門人：「不許哭泣祭奠。應<p
 ed="T" n="0752c07"/>者，非<ref type="person" target="#A010042">吾</ref>弟子也。」即窆于方丈，樹小塔焉。享<lb
 ed="T" n="0752c08"/>年六十九，法臘五十矣。四方傳法弟子見星<lb
 ed="T" n="0752c09"/>而舍<ptr target="#n1295"/>者數百人。<persName key="A010042">寂</persName>平素講《法華經》并《玄義》<ptr target="#n1171"/>共<lb
-ed="T" n="0752c10"/>二十許座，《光明》<ptr target="#n1192"/>、《淨名》、《梵網》<ptr target="#n1200"/>等經，《止觀》<ptr target="#n1173"/>、《金<choice resp="sgsz"><sic><g ref="#Z1254"/></sic><corr>錍</corr></choice>》<ptr target="#n1195"/>等<lb
+ed="T" n="0752c10"/>二十許座，《光明》<ptr target="#n1192"/>、《淨名》、《梵網》<ptr target="#n1200"/>等經，《止觀》<ptr target="#n1173"/>、《金<choice resp="PC-JK-MB"><sic><g ref="#Z1254"/></sic><corr>錍</corr></choice>》<ptr target="#n1195"/>等<lb
 ed="T" n="0752c11"/>論，《法界》<ptr target="#n1296"/>、《還源》<ptr target="#n1297"/>等觀，《禪源詮》<ptr target="#n1298"/>、《永嘉集》<ptr target="#n1299"/>各數遍，所<lb
 ed="T" n="0752c12"/>著《止觀義例》<ptr target="#n1201"/>、《法華十妙不二門科節》<ptr target="#n1202"/>數卷。自<lb
 ed="T" n="0752c13"/><persName key="A001301">智者</persName>捐世，六代傳法<persName key="A001307">湛然<roleName>師</roleName></persName>之後，二百餘齡，<lb

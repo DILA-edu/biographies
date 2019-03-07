@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="遺身" xml:id="gsz0856c09shiQuanHuo"><lb
-ed="T" n="0856c09"/><anchor n="T.50.2061.0856c09"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000028240"><placeName>鄂州</placeName><placeName>巖頭<anchor xml:id="beg0856004"/><choice resp="sgsz"><sic>院</sic><corr>山</corr></choice><anchor xml:id="end0856004"/></placeName></placeName><persName key="A008167">全豁</persName>傳</head><p><lb
+ed="T" n="0856c09"/><anchor n="T.50.2061.0856c09"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000028240"><placeName>鄂州</placeName><placeName>巖頭<anchor xml:id="beg0856004"/><choice resp="PC-JK-MB"><sic>院</sic><corr>山</corr></choice><anchor xml:id="end0856004"/></placeName></placeName><persName key="A008167">全豁</persName>傳</head><p><lb
 ed="T" n="0856c10"/><persName key="A008167">釋全豁</persName>，俗姓<name>柯</name>氏，<placeName key="PL000000017906">泉州</placeName>人也<ptr target="#n2913"/>。少而挺秀，器度<lb
 ed="T" n="0856c11"/>宏遠而疎略。<anchor xml:id="beg0856sgsz14"/>禮<anchor xml:id="end0856sgsz14"/><placeName key="PL000000019385">清源</placeName><persName key="A013238">誼<name>公</name></persName>為師。往<placeName key="PL000000042189">長安</placeName>，造<lb
 ed="T" n="0856c12"/><placeName key="PL000000042216">西明寺</placeName>，<persName key="A023854">照<name>公</name></persName>與受滿足法<ptr target="#n2914"/>。即於左街<placeName key="PL000000042165">保壽<lb
@@ -20,7 +20,7 @@ ed="T" n="0856c25"/><persName key="A013248">田詠</persName>兄弟率財營構�
 ed="T" n="0856c26"/>德<ptr target="#n2916"/>。提唱斗峻<ptr type="glossary" target="#g1905"/>，時號<persName key="A008167">巖頭法道</persName>，難其領會<lb
 ed="T" n="0856c27"/>焉。</p><p xml:id="pT50p0856c2801"><lb
 ed="T" n="0856c28"/>系曰：<persName key="A003641">休</persName>、<persName key="A008167">豁</persName>二師，何臨難無苟免乎<ptr type="glossary" target="#g1906"/>？通曰：「凡<lb
-ed="T" n="0856c29"/>夫之難，是菩薩之易。經生累捨，此烏<anchor xml:id="beg0856sgsz19"/><choice resp="sgsz"><sic>悕</sic><corr>恡</corr></choice><anchor xml:id="end0856sgsz19"/>哉？昔<pb ed="T" n="0857a" xml:id="T50.2061.0857a"/><lb
+ed="T" n="0856c29"/>夫之難，是菩薩之易。經生累捨，此烏<anchor xml:id="beg0856sgsz19"/><choice resp="PC-JK-MB"><sic>悕</sic><corr>恡</corr></choice><anchor xml:id="end0856sgsz19"/>哉？昔<pb ed="T" n="0857a" xml:id="T50.2061.0857a"/><lb
 ed="T" n="0857a01"/><persName key="A000366">安世高</persName>累累償債<ptr target="#n2917"/>，去若拂塵。業累纔輕，苦<lb
 ed="T" n="0857a02"/>依身盡，換堅固之體耳。神仙或從刃殞者，<lb
 ed="T" n="0857a03"/>謂之劍解，況其正修證果之人？觀待道理，<lb

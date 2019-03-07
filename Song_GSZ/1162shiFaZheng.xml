@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="讀誦" xml:id="gsz0867c27shiFaZheng"><lb
-    ed="T" n="0867c27"/><anchor n="T.50.2061.0867c27"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000027843">江<choice resp="sgsz"><sic>州</sic><corr>陵</corr></choice>開元寺</placeName><ptr target="#n690"/><persName key="A013585">法正</persName>傳（<persName key="A013586">會宗</persName>）</head><p><lb
+    ed="T" n="0867c27"/><anchor n="T.50.2061.0867c27"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000027843">江<choice resp="PC-JK-MB"><sic>州</sic><corr>陵</corr></choice>開元寺</placeName><ptr target="#n690"/><persName key="A013585">法正</persName>傳（<persName key="A013586">會宗</persName>）</head><p><lb
 ed="T" n="0867c28"/><persName key="A013585">釋法正</persName>，不知何許人也。寬曠其懷，慎修厥<lb
 ed="T" n="0867c29"/>行。司辰于三業<ptr type="glossary" target="#g29"/>，御史于六根，以其日諷《金<pb ed="T" n="0868a" xml:id="T50.2061.0868a"/><lb
 ed="T" n="0868a01"/>剛般若》<ptr target="#n3066"/>三七過，執持恭恪，罔或云懈。<date key="j20209682021245" notAfter-iso="+0821-11-17" notBefore-iso="+0821-02-13"><name>長慶</name><lb
@@ -18,8 +18,8 @@ ed="T" n="0868a12"/>會宗</persName>，俗姓<name>蔡</name>。初泛爾<ptr t
 ed="T" n="0868a13"/>中蠱病，乃骨立，因苦發心，志誦《金剛般若<lb
 ed="T" n="0868a14"/>經》以待盡。爾至五十過，夢有人令開口，喉<lb
 ed="T" n="0868a15"/>中引出髮十餘莖；其夜又有夢吐螾長一<lb
-ed="T" n="0868a16"/><choice resp="sgsz"><sic>寸月</sic><corr>肘</corr></choice>餘，因此遂愈──當<date key="j20220792022163" notAfter-iso="+0824-05-23" notBefore-iso="+0824-02-29"><name>長慶</name>初</date>也。<placeName key="PL000000027229">荆山</placeName>僧<persName key="A023172">行<lb
-ed="T" n="0868a17"/><choice resp="sgsz"><sic>覩</sic><corr>堅</corr></choice></persName>見其事<ptr target="#n693"/>。<persName key="A013586">宗</persName>不測終所。</p>
+ed="T" n="0868a16"/><choice resp="PC-JK-MB"><sic>寸月</sic><corr>肘</corr></choice>餘，因此遂愈──當<date key="j20220792022163" notAfter-iso="+0824-05-23" notBefore-iso="+0824-02-29"><name>長慶</name>初</date>也。<placeName key="PL000000027229">荆山</placeName>僧<persName key="A023172">行<lb
+ed="T" n="0868a17"/><choice resp="PC-JK-MB"><sic>覩</sic><corr>堅</corr></choice></persName>見其事<ptr target="#n693"/>。<persName key="A013586">宗</persName>不測終所。</p>
     <linkGrp>
         <link targets="#0867c27 #0867c27"/>
         <ptr target="#A013585" type="person"/>

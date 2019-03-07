@@ -28,7 +28,7 @@ ed="T" n="0827a05"/>之僧。自爾民間多就求男女焉。屬<date from-iso=
 ed="T" n="0827a06"/><placeName key="PL000000013233">永欣</placeName>也，唯今<placeName key="PL000000013226">大善</placeName>獨留，號<placeName key="PL000000013226">開元</placeName>矣，遂移<persName key="A012186">會</persName><lb
 ed="T" n="0827a07"/>身入<ref type="place" target="#PL000000013226">是寺</ref>中。<date from-iso="+0847-02-10" key="j20304612035056" to-iso="+0859-09-10"><name>大中</name></date>之後，有<persName key="A012266">曇休<roleName>律師</roleName></persName>為<persName key="A012186">會</persName><lb
 ed="T" n="0827a08"/>別創堂宇，廣其供具。又甞就閭閻<ptr type="glossary" target="#g637"/>家求草<lb
-ed="T" n="0827a09"/>屨，至今<placeName key="PL000000013239">越</placeName>人多以芒鞵油旛上獻，感應<anchor xml:id="beg0827sgsz1"/><choice resp="sgsz"><sic><g ref="#Z1185"/></sic><corr>肸</corr></choice><anchor xml:id="end0827sgsz1"/><lb
+ed="T" n="0827a09"/>屨，至今<placeName key="PL000000013239">越</placeName>人多以芒鞵油旛上獻，感應<anchor xml:id="beg0827sgsz1"/><choice resp="PC-JK-MB"><sic><g ref="#Z1185"/></sic><corr>肸</corr></choice><anchor xml:id="end0827sgsz1"/><lb
  ed="T" n="0827a10"/>蠁<ptr type="glossary" target="#g1675"/>，各赴人家，不可周述。今號<persName key="A012186">超化大師</persName><ptr target="#n2423"/>。<lb
 ed="T" n="0827a11"/>從<date from-iso="+0650-02-10" key="j19585081960698" to-iso="+0656-02-09"><name>永徽</name></date>至今，未甞闕其供施焉。沙門<persName key="A009895">虛受</persName><lb
 ed="T" n="0827a12"/>為碑紀述焉。</p><p xml:id="pT50p0827a1301"><lb
@@ -42,13 +42,13 @@ ed="T" n="0827a17"/>中月，孰能預於是乎？</p>
         <ptr target="#A012186" type="person"/>
         <ptr target="#PL000000055079" type="place"/>
     </linkGrp>
-    <linkGrp>
+    <linkGrp type="wrong">
         <link targets="#0826c11 #0826c13"/>
         <ptr target="#A012186" type="person"/>
         <ptr target="#A002169" type="person"/>
         <ptr target="#j18082271812891" type="time"/>
     </linkGrp>
-    <linkGrp>
+    <linkGrp type="wrong">
         <link targets="#0826c13 #0826c14"/>
         <ptr target="#A012186" type="person"/>
         <ptr target="#j18233761823479" type="time"/>
