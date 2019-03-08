@@ -198,6 +198,7 @@ def handle_anchor(e):
   if id is not None:
     print('anchor id:', id, file=log)
     app_id=id[3:]
+    if app_id in app_type_0: return ''
     if app_id not in appId2Ser:
       print('anchor ID 在 sgszApparatus.xml 不存在: '+id, file=log)
     else:
@@ -780,11 +781,12 @@ def read_notes(tree):
   return r
 
 def readApps(tei):
-  global appsContent, appId2Ser
+  global appsContent, appId2Ser, app_type_0
   globals['mode']='notes'
   back = tei.find('.//back')
   appsContent=collections.OrderedDict()
   appId2Ser={}
+  app_type_0 = []
   r={}
   count=0
   for n in back.iter('app'):
@@ -792,8 +794,12 @@ def readApps(tei):
     s=''
 
     ana = n.get('ana')
-    if ana != 'appType0':
-      s += re.sub('^appType(.*)$', r'\1）', ana)
+    if ana == 'appType0':
+      app_type_0.append(appId)
+      continue
+
+    #if ana != 'appType0':
+    #  s += re.sub('^appType(.*)$', r'\1）', ana)
 
     lem=n.find('lem')
     #s+=lem.get('wit')
