@@ -1799,7 +1799,7 @@ choice =
     
     ## Resp statement for the choice.
     attribute resp {
-      xsd:string { pattern = "(xxgsz)" }
+      xsd:string { pattern = "(PC-MB)" }
     }?,
     att.global.attributes,
     empty
