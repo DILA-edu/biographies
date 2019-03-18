@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0883c16shiZhiHui"><lb
-n="0883c16" ed="T"/><anchor n="T.50.2061.0883c16"/><head><date from-iso="+0923-05-18" key="j20583162063308" to-iso="+0937-01-16">後唐</date>洛陽中灘浴院<persName key="A013776">智暉</persName>傳</head><p><lb
-ed="T" n="0883c17"/><persName key="A013776">釋智暉</persName>，姓高氏，<placeName key="PL000000043060">咸秦</placeName>人也。權輿總角，萌離俗<lb
-ed="T" n="0883c18"/>之心，不狎童遊，動循天分。欻遇<placeName key="PL000000042639">圭峯</placeName><persName key="A013777">溫禪<lb
-ed="T" n="0883c19"/>師</persName>，氣貌瑰偉，虛心體道，<anchor xml:id="beg0883sgsz19"/>趨<anchor xml:id="end0883sgsz19"/>其門者，淑慝旌<lb
+n="0883c16" ed="T"/><anchor n="T.50.2061.0883c16"/><head><date from-iso="+0923-05-18" key="j20583162063308" to-iso="+0937-01-16">後唐</date><placeName key="PL000000023616">洛陽中灘浴院</placeName><persName key="A013776">智暉</persName>傳</head><p><lb
+ed="T" n="0883c17"/><persName key="A013776">釋智暉</persName>，姓<name>高</name>氏，<placeName key="PL000000043060">咸秦</placeName>人也。權輿<ptr type="glossary" target="#g830"/>總角，萌離俗<lb
+ed="T" n="0883c18"/>之心，不狎童遊，動循天分。欻遇<placeName key="PL000000042639">圭峯</placeName><persName key="A013777">溫<roleName>禪<lb
+ed="T" n="0883c19"/>師</roleName></persName>，氣貌瑰偉，虛心體道，<anchor xml:id="beg0883sgsz19"/>趨<anchor xml:id="end0883sgsz19"/>其門者，淑慝旌<lb
 ed="T" n="0883c20"/>別矣。謂<persName key="A013776">暉</persName>曰：「<persName key="A013776">子</persName>實材器多能之士也。」請祈<lb
 ed="T" n="0883c21"/>攝受，二十登戒。風骨聳拔，好尚且奇。山中闃<lb
 ed="T" n="0883c22"/>然，曾無他事，唯鉤索藏教，禪律亘通，日誦<lb
