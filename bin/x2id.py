@@ -164,7 +164,7 @@ def create_footnote(s, e):
     r = "<footnote marker_style='footnote-anchor'>"
   else:
     parent=e.getparent()
-    if parent.tag in ('persName', 'placeName' 'name'):
+    if parent.tag in ('persName', 'placeName', 'name'):
       if len(e.xpath('following-sibling::*')) == 0:
         # 如果是最後一個元素
         r = "<footnote marker_style='footnote-anchor'>"
@@ -566,7 +566,8 @@ def check_regular_name(auth_info, name_set):
       sys.exit('錯誤：找不到 {} 的 authority 資訊，請先執行 read-authority.py 取得最新資訊，\n如果還是發生相同錯誤，請檢查 Authority DB 是否有此 ID。'.format(k))
     
     if info is None:
-      sys.exit('{} 在 authority 資訊中不存在。'.format(k))
+      print('{} 在 authority 資訊中不存在。'.format(k))
+      sys.exit('程式中斷')
 
     if 'name' in info:
       new = k + '\t' + info['name']
@@ -957,27 +958,27 @@ os.makedirs(out_folder, exist_ok=True)
 print('output file:', OUT)
 fo = open(OUT, 'w', encoding='utf8')
 fo.write('<root>\n' + content)
-#fo.close()
 
 
-#fo = open('../output/indesign/sgsz-notes.xml', 'w', encoding='utf_8_sig')
+print('write 註解')
 fo.write(h1("註解"))
 fo.write(globals['endnotes'])
-#fo.close()
 
-#fo = open('../output/indesign/sgsz-index.xml', 'w', encoding='utf_8_sig')
 place_authority(fo)
 person_authority(fo)
 
-
+print('write 引用書目')
 fo.write(h1("引用書目"))
 fo.write(read_bibl())
 
 fo.write('</root>')
 fo.close()
+print('system platform:', sys.platform)
 if sys.platform.startswith('win'):
   os.system('python x2id2.py')
   os.system('ruby x2id3.rb')
 else:
   r=subprocess.call(['python3', 'x2id2.py'])
+  print('python3 x2id2.py return:', r)
   r=subprocess.call(['ruby', 'x2id3.rb'])
+  print('ruby x2id3.rb return:', r)
