@@ -165,7 +165,7 @@ def create_footnote(s, e):
   else:
     parent=e.getparent()
     if parent.tag in ('persName', 'placeName', 'name'):
-      if len(e.xpath('following-sibling::*')) == 0:
+      if len(e.xpath('following-sibling::node()')) == 0:
         # 如果是最後一個元素
         r = "<footnote marker_style='footnote-anchor'>"
       else:
