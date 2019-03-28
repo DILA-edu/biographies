@@ -957,20 +957,23 @@ out_folder = os.path.dirname(OUT)
 os.makedirs(out_folder, exist_ok=True)
 print('output file:', OUT)
 fo = open(OUT, 'w', encoding='utf8')
-fo.write('<root>\n' + content)
+fo.write('<root>\n')
+fo.write('  <body>\n')
+fo.write(content)
 
 
 print('write 註解')
 fo.write(h1("註解"))
 fo.write(globals['endnotes'])
-
+fo.write('  </body>\n')
+fo.write('  <back>\n')
 place_authority(fo)
 person_authority(fo)
 
 print('write 引用書目')
 fo.write(h1("引用書目"))
 fo.write(read_bibl())
-
+fo.write('  </back>\n')
 fo.write('</root>')
 fo.close()
 print('system platform:', sys.platform)
