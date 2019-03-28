@@ -98,18 +98,22 @@ function get_attribute(node, key) {
 
 // 根據 key 取得所在頁碼
 function get_pages_by_key(k) {
+  //log.writeln('get_pages_by_key, key: '+k);
   var pages = [];
-  var p;
+  var found, num, page;
   var a = key_containers[k]; // 根據 key 取得所在位置 insertion_point
-  var j;
   for (i = 0; i < a.length; i++) {  
-    //p = a[i].parentTextFrames[0].parentPage.name;
-    p = find_page(a[i]);
-    j = pages.indexOf(p.name);
-    if (j < 0) { // 如果這個 頁數 還沒有出現過
-      pages.push(p.name);
+    page = find_page(a[i]);
+    num = parseInt(page.name)
+    found = pages.indexOf(num);
+    if (found < 0) { // 如果這個 頁數 還沒有出現過
+      pages.push(num);
     }
   }; 
+  pages.sort();
+  for (i = 0; i < pages.length; i++) {  
+    pages[i] = pages[i].toString();
+  }
   return pages.join();
 }
 
@@ -482,6 +486,7 @@ function xmlRuleForPersName() {
 
 /* 記錄 人名、地名 所在頁碼 */
 function save_key_container(key, container) {
+  //log.writeln('save_key_container, key: '+key);
   if (key in key_containers) { // 如果這個 key 已經出現過
     var containers = key_containers[key];
     var i = containers.indexOf(container);
