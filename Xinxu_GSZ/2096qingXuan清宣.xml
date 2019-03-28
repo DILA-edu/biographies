@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="義解" xml:id="gsz0093a14shiQingXuan"><lb
+ed="B" n="0093a14"/><anchor n="B.27.0151.0093a14"/><head>明定遠白馬山蓮城寺沙門釋清宣傳<note place="inline">空谷</note></head><lb
+ed="B" n="0093a15"/><p xml:id="pB27p0093a1501"><persName key="A016191">釋清宣</persName>，字<persName key="A016191">法雨</persName>，姓王氏，岳池人也。幼而神穎，初習詩文，便尋義<lb
+ed="B" n="0093a16"/>理。長依華銀山<persName key="A042500">空谷</persName>剃落，始研教乘，論辯亹亹。及專講筵，蜚聲<lb
+ed="B" n="0093a17"/>林院。明<date from-iso="+1628-02-05" key="j23157102316063" to-iso="+1629-01-23">崇禎元年</date>復參<persName key="A042271">福庵</persName>習禪有省。及受衣法，更承<ref type="person" target="#A006696">聖</ref>眷，敕<lb
+ed="B" n="0093a18"/>主燕京彌勒院，并賜御製手卷。大興講席，宗教弘焉！已而杖策<lb
+ed="B" n="0093a19"/>遊方，契茲山水，助我禪悅。<date from-iso="+1630-02-12" key="j23164482316801" to-iso="+1631-01-31">庚午</date>至滇黔國，<persName key="A011522">沐公</persName>請入覺照寺，結<lb
+ed="B" n="0093a20"/>制三期，法旨遠敷。明之季葉，<persName key="A006704">永曆</persName>窮蹙，跋踄滇粵，猶加褒諭，兼<pb ed="B" xml:id="B27.0151.0093b" n="0093b"/><lb
+ed="B" n="0093b01"/>錫紫衣，命居定遠白馬山，建蓮城寺。弘開鑪冶，德響諸方，一時<lb
+ed="B" n="0093b02"/>稱為滇南宗匠。寂於<date from-iso="+1663-02-08" key="j23284972328850" to-iso="+1664-01-27">癸卯</date>，預知期至，其辭世偈云：「來從此處來，<lb
+ed="B" n="0093b03"/>去從此處去；來去不離此，徧在一切處。」塔於龍岡，年五十八。著<lb
+ed="B" n="0093b04"/>有《堆雲集》行世。</p>
+    <linkGrp>
+        <link targets="#0093a16 #0093a16"/>
+        <ptr target="#A016191" type="person"/>
+        <ptr target="#A042500" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0093a17 #0093a17"/>
+        <ptr target="#A016191" type="person"/>
+        <ptr target="#A042271" type="person"/>
+        <ptr target="#j23157102316063" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0093a17 #0093a18"/>
+        <ptr target="#A016191" type="person"/>
+        <ptr target="#A006696" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0093a19 #0093a20"/>
+        <ptr target="#A016191" type="person"/>
+        <ptr target="#A011522" type="person"/>
+        <ptr target="#j23164482316801" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0093a20 #0093b01"/>
+        <ptr target="#A016191" type="person"/>
+        <ptr target="#A006704" type="person"/>
+    </linkGrp>
+</div>

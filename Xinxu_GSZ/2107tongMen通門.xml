@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="義解" xml:id="gsz0099b20shiTongMen"><lb
+ed="B" n="0099b20"/><anchor n="B.27.0151.0099b20"/><head>清四明天童寺沙門釋通門傳</head><lb
+ed="B" n="0100a01"/><p xml:id="pB27p0100a0101"><persName key="A001148">釋通門</persName>，字<persName key="A001148">牧雲</persName>，號<persName key="A001148">臥菴</persName>，姓張氏，常熟人也。從近邑破山寺<persName key="A015840">洞聞</persName><lb
+ed="B" n="0100a02"/>祝髮<!-- 《續指月錄》卷19：「二十歲投破山洞聞乘和尚出家。原名契門。」(CBETA, X84, no. 1579, p. 137, c23-24) -->，後參<anchor xml:id="beg010001"/><choice><sic resp="CBETA"><persName key="A003688">密雲</persName></sic><corr resp="PC-MB"><persName key="A000114">博山</persName></corr></choice><anchor xml:id="end010001"/>，得法於<persName key="A003688">天童</persName><!-- 《五燈會元續略》卷4：「初參博山。次參天童於金粟。」(CBETA, X80, no. 1566, p. 537, a22) -->。出世古南，<date from-iso="+1644-02-08" key="j23215572321911" to-iso="+1645-01-27">甲申</date>渡江埽塔，遂主四<lb
+ed="B" n="0100a03"/>明栖真。復住嘉禾梅溪，遷破山及鎮江鶴林。<date from-iso="+1652-02-09" key="j23244802324834" to-iso="+1653-01-28">壬辰</date>延主天童，尋<lb
+ed="B" n="0100a04"/>遷秀峰。著有《七會語錄》二十卷及《別集》、《偶集》、《嬾齋集》盛行於世。<lb
+ed="B" n="0100a05"/><persName key="A001148">門</persName>生平蕭散磊落，莅眾<!-- 臨眾 -->甚嚴，詩章超潔，書法遒勁。後退老於湖<lb
+ed="B" n="0100a06"/>邨恤廬。<date when-iso="+1671-12-15" key="j23317292331729">康熙辛亥十一月望日</date>，從容舒展而逝，塔於西資庵。數<lb
+ed="B" n="0100a07"/>年，忽洪水湧出，塔幾壞。因荼毗，得舍利無算。其色晶瑩，投入水<lb
+ed="B" n="0100a08"/>盆中以髮引之，聯如貫珠。時<persName key="A010705">曉山本皙</persName>主持天童，為建舍利塔<lb
+ed="B" n="0100a09"/>於南山。</p>
+    <linkGrp>
+        <link targets="#0100a01 #0100a01"/>
+        <ptr target="#A001148" type="person"/>
+        <ptr target="#A015840" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0100a02 #0100a02"/>
+        <ptr target="#A001148" type="person"/>
+        <ptr target="#A000114" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0100a02 #0100a02"/>
+        <ptr target="#A001148" type="person"/>
+        <ptr target="#A003688" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0100a02 #0100a03"/>
+        <ptr target="#A001148" type="person"/>
+        <ptr target="#A003688" type="person"/>
+    </linkGrp>
+</div>

@@ -189,7 +189,7 @@
         <xi:include href="2093deQing德清.xml"/>
         <xi:include href="2094-明寶慶五臺庵沙門釋觀衡傳惠仁_空印.xml"/>
         <xi:include href="2095-明餘杭理安寺沙門釋如嵩傳靜明_易庵.xml"/>
-        <xi:include href="2096-明定遠白馬山蓮城寺沙門釋清宣傳空谷.xml"/>
+        <xi:include href="2096qingXuan清宣.xml"/>
       </div>
       <div type="juan" n="9">
         <anchor n="B.27.0151.0093b11"/>
@@ -197,7 +197,7 @@
         <lb n="0093b13" ed="B"/><p>義解篇第二之七(正傳十二人　附見九人)</p>
         <xi:include href="2097-清青陽九華山華嚴菴釋智旭傳.xml"/>
         <xi:include href="2098-清杭州上天竺沙門釋方誌傳.xml"/>
-        <xi:include href="2099-清宜都青林寺沙門釋道隆傳敏樹.xml"/>
+        <xi:include href="2099daoLong道隆.xml"/>
         <xi:include href="2100-清潤州金山寺沙門釋通問傳.xml"/>
         <xi:include href="2101-清潤州金山江天寺沙門釋超樂傳明銓_實雄.xml"/>
         <xi:include href="2102-清安徽清涼寺沙門釋音可傳.xml"/>
@@ -205,7 +205,7 @@
         <xi:include href="2104-清當陽玉泉寺沙門釋圓惺傳一真_大咸.xml"/>
         <xi:include href="2105-清四明天童寺沙門釋本晢傳.xml"/>
         <xi:include href="2106-清四明天童寺沙門釋超靜傳元盛.xml"/>
-        <xi:include href="2107-清四明天童寺沙門釋通門傳.xml"/>
+        <xi:include href="2107tongMen通門.xml"/>
         <xi:include href="2108-清燕都廣濟寺沙門釋湛祐傳靈機觀_天樹植.xml"/>
       </div>
       <div type="juan" n="10">
@@ -407,7 +407,7 @@
         <head>新續高僧傳四集卷第二十一</head>
         <lb n="0180b13" ed="B"/><p>習禪篇第三之十一(正傳九人　附見三人)</p>
         <xi:include href="2248-明徑山化城寺沙門釋法鎧傳.xml"/>
-        <xi:include href="2249-明四明天童寺沙門釋圓悟傳.xml"/>
+        <xi:include href="2249yuanWu圓悟.xml"/>
         <xi:include href="2250-明雲南竹林寺沙門釋密行傳.xml"/>
         <xi:include href="2251zhengHui正誨.xml"/>
         <xi:include href="2252-明雲南水目山寶華寺沙門釋洪如傳.xml"/>
@@ -460,12 +460,12 @@
         <xi:include href="2284-清四川雙桂福國院沙門釋印水傳.xml"/>
         <xi:include href="2285-清杭州理安寺沙門釋行悅傳行洸.xml"/>
         <xi:include href="2286-清湘陰神鼎山沙門釋行澤傳懋功_修木_玄劍.xml"/>
-        <xi:include href="2287-清杭州理安寺沙門釋行珍傳斯瑞.xml"/>
+        <xi:include href="2287xingZhen行珍.xml"/>
         <xi:include href="2288-清長沙嶽麓萬壽寺沙門釋智檀傳操雪筠.xml"/>
         <xi:include href="2289-清衡陽萬壽寺沙門釋行泰傳.xml"/>
-        <xi:include href="2290-清成都昭覺寺沙門釋通醉傳溪聲圓_佛冕綱.xml"/>
+        <xi:include href="2290tongZui通醉.xml"/>
         <xi:include href="2291-清杭州理安寺沙門釋超格傳超徹.xml"/>
-        <xi:include href="2292-清杭州雲林寺沙門釋原志傳慧輅_智廣.xml"/>
+        <xi:include href="2292yuanZhi原志.xml"/>
       </div>
       <div type="juan" n="25">
         <anchor n="B.27.0151.0211b11"/>
