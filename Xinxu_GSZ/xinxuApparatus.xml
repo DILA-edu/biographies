@@ -24,6 +24,14 @@
 			<lem wit="喻眛庵輯影本"><g ref="#CB33451">󸊫</g></lem>
 			<rdg wit="CBETA"><g ref="#CB33451">󸊫</g></rdg>
 		</app>
+		<app from="beg008301">
+			<lem wit="喻眛庵輯影本">士</lem>
+			<rdg wit="CBETA">士</rdg>
+		</app>
+		<app from="beg008303">
+			<lem wit="喻眛庵輯影本">埽</lem>
+			<rdg wit="CBETA">掃</rdg>
+		</app>
 		<app from="beg009601">
 			<lem wit="喻眛庵輯影本">記</lem>
 			<rdg wit="CBETA">記</rdg>
@@ -91,6 +99,10 @@
 		<app from="beg041101">
 			<lem wit="喻眛庵輯影本">㩦</lem>
 			<rdg wit="CBETA">攜</rdg>
+		</app>
+		<app from="beg041201">
+			<lem wit="喻眛庵輯影本">扶</lem>
+			<rdg wit="CBETA">抉</rdg>
 		</app>
 		<app from="beg041601">
 			<lem wit="喻眛庵輯影本">寶</lem>

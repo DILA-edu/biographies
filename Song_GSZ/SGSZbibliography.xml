@@ -1363,6 +1363,12 @@
                     <edition>Shanghai: Zhonghua 中華書局<date>1957.01</date></edition>
                     <abbr>古書疑義舉例五種</abbr>
                 </bibl>
+                <bibl ana="book">
+                    <author><hi>Wang</hi>, Bangwei 王邦維</author>
+                    <title>義淨籍貫考辨</title>
+                    <edition>Beijing: Zhonghua 中華書局 大唐西域求法高僧傳校注 pp.268-273<date>1988.09</date></edition>
+                    <abbr>義淨籍貫考辨</abbr>
+                </bibl>
             </listBibl>
         </body>
     </text>

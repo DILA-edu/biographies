@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="譯經" xml:id="gsz0038b04shiZhiGuang"><lb
-ed="B" n="0038b04"/><anchor n="B.27.0151.0038b04"/><head>明<placeName key="PL000000008824">金陵鍾山西天寺</placeName>沙門<persName key="A015653">釋智光</persName>傳<note place="inline"><persName key="A009965">班的答</persName>　<persName key="A019689">惠便</persName></note></head><p xml:id="pB27p0038b0501"><lb
+ed="B" n="0038b04"/><anchor n="B.27.0151.0038b04"/><head>明<placeName key="PL000000008824">金陵鍾山西天寺</placeName>沙門<persName key="A015653">釋智光</persName>傳<persName type="secondary"><persName key="A009965">班的答</persName>　<persName key="A019689">惠便</persName></persName></head><p xml:id="pB27p0038b0501"><lb
 ed="B" n="0038b05"/><persName key="A015653">釋智光</persName>，字<persName key="A015653">無隱</persName>，<placeName key="PL000000003136">慶雲</placeName>人<!-- 《金陵梵剎志》：山東武定州慶雲人 -->，不詳其氏族<!-- 《補續高僧傳》卷1：「山東武定州王氏子也。父全。母董氏。」(CBETA, X77, no. 1524, p. 372, b19) -->。初出家時，居<placeName key="PL000000000323">燕都</placeName>法雲寺。<lb
 ed="B" n="0038b06"/>志業敏慧，苦心向學，內外典籍，罔不研翫。<date notBefore-iso="+1341-01-26" key="j22108762221593" notAfter-iso="+1370-05-31"><name>元</name><name>至正</name>中</date><persName key="A009965">班的答</persName>自<lb
 ed="B" n="0038b07"/><placeName key="PL000000048207">天竺</placeName>遨遊<placeName key="PL000000006998">上都</placeName>，棲止<placeName>法雲</placeName>。<persName key="A015653">智光</persName>得親儀範，昕夕請益，聆聲通意，<lb

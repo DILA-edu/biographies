@@ -175,7 +175,7 @@
         <lb n="0079b13" ed="B"/><p>義解篇第二之五(正傳八人　附見十二人)</p>
         <xi:include href="2085-明金陵寶華山釋洪恩傳.xml"/>
         <xi:include href="2086-明嘉興東禪寺沙門釋明得傳百川海_妙峰覺.xml"/>
-        <xi:include href="2087-明杭州昭慶寺沙門釋大惠傳紹覺_愚菴.xml"/>
+        <xi:include href="2087daHui大惠.xml"/>
         <xi:include href="2088-明雲南雞足山放光寺沙門釋禪傳.xml"/>
         <xi:include href="2089-明餘杭徑山寺沙門釋圓澄傳.xml"/>
         <xi:include href="2090-明天台慈雲寺沙門釋真清傳寶珠_荊山_月溪.xml"/>
@@ -198,7 +198,7 @@
         <xi:include href="2097-清青陽九華山華嚴菴釋智旭傳.xml"/>
         <xi:include href="2098-清杭州上天竺沙門釋方誌傳.xml"/>
         <xi:include href="2099daoLong道隆.xml"/>
-        <xi:include href="2100-清潤州金山寺沙門釋通問傳.xml"/>
+        <xi:include href="2100tongWen通問.xml"/>
         <xi:include href="2101-清潤州金山江天寺沙門釋超樂傳明銓_實雄.xml"/>
         <xi:include href="2102-清安徽清涼寺沙門釋音可傳.xml"/>
         <xi:include href="2103-清峽州石塔寺沙門釋戒隱傳德儀.xml"/>
@@ -995,7 +995,7 @@
         <xi:include href="2659-清荊州天王寺沙門釋慧海傳.xml"/>
         <xi:include href="2660haiMing海明.xml"/>
         <xi:include href="2661-清盤山正法禪院沙門釋行乾傳養心.xml"/>
-        <xi:include href="2662-清黃檗山寺沙門釋隆琦傳.xml"/>
+        <xi:include href="2662longQi隆琦.xml"/>
         <xi:include href="2663-清興教萬壽禪寺沙門釋道仁傳.xml"/>
         <xi:include href="2664-清黃檗山寺沙門釋性願傳超炯.xml"/>
         <xi:include href="2665-衡陽東山智勝寺沙門釋明德傳.xml"/>
