@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0410a12shiXingGung"><lb
+ed="B" n="0410a12"/><anchor n="B.27.0151.0410a12"/><head>清當陽東禪堂沙門<persName key="A021902">釋性關</persName>傳<persName type="secondary" key="A042549">覺聰</persName><persName type="secondary" key="A042550">本赤</persName><persName type="secondary" key="A001501">印正</persName></head><lb
+ed="B" n="0410a13"/><p xml:id="pB27p0410a1301"><persName key="A021902">釋性關</persName><!-- g096p0204《玉泉寺志．卷2．[遍雲法師]》：「性闔」(《中國佛寺史志彙刊》，第3輯，第17冊，頁0204) -->，字<persName key="A021902">遍雲</persName>，姓吳氏，鄖陽人。少孤，薙髮襄陽仁皇寺，事<persName key="A042547">惺然</persName><lb
+ed="B" n="0410a14"/>為師。年二十，遊吳越，受<choice><sic resp="CBETA">華</sic><corr resp="PC-MB">寶華</corr></choice>山<!-- 寶華山志 --><persName key="A001028">三昧寂光</persName>衣缽，復得法金陵天界<lb
+ed="B" n="0410a15"/>寺<persName key="A042548">中隱</persName><!-- 《玉泉寺志．卷2．[遍雲法師]》：「於金陵天界寺受中隱法師衣法與道衲三學」(《中國佛寺史志彙刊》，第3輯，第17冊，頁0205) -->。西上荊州，於聖水寺<!-- 《玉泉寺志．卷2》：「西上荊南卜邑之聖水寺」 -->旁結茆曰「松庵」。讀《圓覺了義》<!-- 大方廣圓覺修多羅了義經 -->有悟。<lb
+ed="B" n="0410a16"/>後辟<!-- 通「避」 -->亂漢、沔間。時開講席，人多重之。<date from-iso="+1650-02-01" key="j23237422324095" to-iso="+1651-01-20">順治七年</date>入玉泉，剏立東<lb
+ed="B" n="0410a17"/>禪堂。演法弘律，歸依者眾。<date when-iso="+1658-02-13" key="j23266762326676">順治十五年正月十二日</date>寂于監利<lb
+ed="B" n="0410a18"/>靈照庵。二十年中駐錫十有八處，講說所施，津梁無絕。所著語<lb
+ed="B" n="0410a19"/>錄、詩文，戒不授梓，故佚而不傳。弟子<persName key="A042549">覺聰</persName><!-- 可能又稱寂聰，參《玉泉寺志》 -->、<persName key="A042550">本赤</persName>，保守東禪，鋤墾<lb
+ed="B" n="0410a20"/>田土，補修殿宇，不墜舊聲。後有<persName key="A001501">印正</persName>，字<persName key="A001501">蓮月</persName>者，岳池江氏子。母<pb ed="B" xml:id="B27.0151.0410b" n="0410b"/><lb
+ed="B" n="0410b01"/>喪，聞僧誦經有「三界火宅」語，悚然有世外之心。因自斷髮，出涪<lb
+ed="B" n="0410b02"/>陵，禮<persName key="A009652">破山明</persName>，尋具戒并授偈拂。始開法于東印寺，及入楚，<g ref="#CB33499">𠪱</g>主<lb
+ed="B" n="0410b03"/>福昌、天皇、玉泉三寺。晚歲于玉泉增修毘盧殿，勤勞二十餘年，<lb
+ed="B" n="0410b04"/>遂成叢社。寂於<date when-iso="+1691-08-03" key="j23389002338900">康熙三十年七月十日</date>，壽七十有八。著有《語錄》，<lb
+ed="B" n="0410b05"/>塔于寺東梅花洞北仙琴山。<!-- 《玉泉寺志．卷4．蓮月印正禪師塔銘》(《中國佛寺史志彙刊》，第3輯，第18冊，頁0398) --></p>
+    <linkGrp>
+        <link targets="#0410a13 #0410a14"/>
+        <ptr target="#A021902" type="person"/>
+        <ptr target="#A042547" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0410a14 #0410a14"/>
+        <ptr target="#A021902" type="person"/>
+        <ptr target="#A001028" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0410a14 #0410a15"/>
+        <ptr target="#A021902" type="person"/>
+        <ptr target="#A042548" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0410a19 #0410a19"/>
+        <ptr target="#A021902" type="person"/>
+        <ptr target="#A042549" type="person"/>
+        <ptr target="#A042550" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0410a20 #0410b02"/>
+        <ptr target="#A001501" type="person"/>
+        <ptr target="#A009652" type="person"/>
+    </linkGrp>
+</div>

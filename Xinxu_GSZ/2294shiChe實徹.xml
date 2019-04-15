@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0212b13shiShiChe"><lb
+ed="B" n="0212b13"/><anchor n="B.27.0151.0212b13"/><head>清潤州金山江天寺沙門<persName key="A013468">釋實徹</persName>傳<persName type="secondary" key="A021303">際雲</persName></head><lb
+ed="B" n="0212b14"/><p xml:id="pB27p0212b1401"><persName key="A013468">釋實徹</persName>，字<persName key="A013468">大曉</persName>，姓黃氏<!-- 《普陀洛迦新志．卷6．大曉》：「江蘇崇明陳氏子」(《中國佛寺史志彙刊》，第1輯，第10冊，頁0400)《武進天寧寺志．卷7．大曉徹禪師行略》：「考陳公，妣董氏」(《中國佛寺史志彙刊》，第1輯，第35冊，頁0177) -->，崇明人也。參學諸方，自以為了此大事。<lb
+ed="B" n="0212b15"/>因往臨安徑山，忽染大病，覺前所得，胥歸無用。病愈復荷擔出<lb
+ed="B" n="0212b16"/>行，重參知識，無有能發疑情者。乃入鐘山石洞，誓不復出。獨處<lb
+ed="B" n="0212b17"/>崖中，屢有悟處。適游侶相訪，歎其精進，謂：「古人悟後，必當見人。」<lb
+ed="B" n="0212b18"/>力勸之出。乃往鐘山，親炙<persName key="A014638">香林月潭</persName>。一日灑掃舉篲，應機問答<lb
+ed="B" n="0212b19"/>契合，付以<persName key="A013268">南磵</persName>源流。嘗入終南，住石洞二年。一夕立洞外，天無<lb
+ed="B" n="0212b20"/>星月，雲霧晦冥。忽見電光一爍，豁然開悟。後主金山席，復移常<pb ed="B" xml:id="B27.0151.0213a" n="0213a"/><lb
+ed="B" n="0213a01"/>州天寧。<date from-iso="+1757-02-18" key="j23628402363194" to-iso="+1758-02-07">乾隆二十二年</date>重幸江南，賜紫。<date from-iso="+1757-05-18" key="j23629292362957" to-iso="+1757-06-15">是歲四月</date>卒，年七十三。<lb
+ed="B" n="0213a02"/>弟子<persName key="A021303">際雲</persName>序其《語錄》刊之。<persName key="A021303">際雲</persName>字<persName key="A021303">天濤</persName>，嘉定王氏子<!-- 《武進天寧寺志．卷7．天濤法師行略》：「江南嘉定王氏子。父孚五；母唐氏」(《中國佛寺史志彙刊》，第1輯，第35冊，頁0183) -->。母<persName key="A042556">唐氏</persName>善<lb
+ed="B" n="0213a03"/>病，娠<persName key="A021303">雲</persName>乃瘥<!-- ㄔㄞˋ，病痊癒 -->。剃染後參扣宗匠，發明宗乘。<persName key="A021303">雲</persName>以邇來禪學尠求<lb
+ed="B" n="0213a04"/>真際，不惜腕力，提命周至。遇知見纏縛者，必廣引佛祖言，教斷<lb
+ed="B" n="0213a05"/>之，不至釋然不止。<date when-iso="+1771-02-03" key="j23679382367938">乾隆三十五年臘後十日</date><!-- 《武進天寧寺志．卷7．天濤法師行略》：「師生於康熙癸酉（32年），寂於乾隆丙戌（31年），世壽七十四。」(《中國佛寺史志彙刊》，第1輯，第35冊，頁0184)《續金山志．卷2．大清臨濟下三十六世沙門際雲》：「乾隆三十五年臘月十九日逝」(《中國佛寺史志彙刊》，第1輯，第39冊，頁0248) -->示寂，建塔於丹徒<lb
+ed="B" n="0213a06"/>七里甸南。</p>
+    <linkGrp>
+        <link targets="#0212b18 #0212b18"/>
+        <ptr target="#A013468" type="person"/>
+        <ptr target="#A014638" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0213a01 #0213a01"/>
+        <ptr target="#A013468" type="person"/>
+        <ptr target="#A006727" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0213a02 #0213a02"/>
+        <ptr target="#A013468" type="person"/>
+        <ptr target="#A021303" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0213a02 #0213a03"/>
+        <ptr target="#A042556" type="person"/>
+        <ptr target="#A021303" type="person"/>
+    </linkGrp>
+</div>

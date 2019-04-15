@@ -133,7 +133,7 @@
         <anchor n="B.27.0151.0063a11"/>
         <head>新續高僧傳四集卷第五</head>
         <lb n="0063a13" ed="B"/><p>義解篇弟二之三(正傳十六人　附見十四人)</p>
-        <xi:include href="2055-明大理蕩山沙門釋無極傳.xml"/>
+        <xi:include href="2055wuji無極.xml"/>
         <xi:include href="2056-明嘉定淨信寺沙門釋祖儞傳石室瑛_竹屋淨.xml"/>
         <xi:include href="2057-明杭州上天竺講寺沙門釋弘道傳.xml"/>
         <xi:include href="2058-明寧波普陀寺沙門釋行丕傳.xml"/>
@@ -408,7 +408,7 @@
         <lb n="0180b13" ed="B"/><p>習禪篇第三之十一(正傳九人　附見三人)</p>
         <xi:include href="2248-明徑山化城寺沙門釋法鎧傳.xml"/>
         <xi:include href="2249yuanWu圓悟.xml"/>
-        <xi:include href="2250-明雲南竹林寺沙門釋密行傳.xml"/>
+        <xi:include href="2250miXing密行.xml"/>
         <xi:include href="2251zhengHui正誨.xml"/>
         <xi:include href="2252-明雲南水目山寶華寺沙門釋洪如傳.xml"/>
         <xi:include href="2253-明湖州上柏山報恩禪院沙門釋天隱傳.xml"/>
@@ -472,7 +472,7 @@
         <head>新續高僧傳四集卷第二十五</head>
         <lb n="0211b13" ed="B"/><p>習禪篇第三之十五(正傳十三人　附見九人)</p>
         <xi:include href="2293-清杭州理安寺沙門釋性音傳.xml"/>
-        <xi:include href="2294-清潤州金山江天寺沙門釋實徹傳際雲.xml"/>
+        <xi:include href="2294shiChe實徹.xml"/>
         <xi:include href="2295-清杭州理安寺沙門釋明鼎傳.xml"/>
         <xi:include href="2296-清燕京西山普覺寺沙門釋元日傳.xml"/>
         <xi:include href="2297-清杭州雲林寺沙門釋德元傳德琳.xml"/>
@@ -991,7 +991,7 @@
         <xi:include href="2655-清雲南雞足山斷際庵沙門釋寂定傳楚石_普聯.xml"/>
         <xi:include href="2656-清四明大梅山保福寺沙門釋行幟傳.xml"/>
         <xi:include href="2657-清公安玉泉寺沙門釋海福傳.xml"/>
-        <xi:include href="2658-清當陽東禪堂沙門釋性關傳覺聰_本赤_印正.xml"/>
+        <xi:include href="2658xingGuan性關.xml"/>
         <xi:include href="2659-清荊州天王寺沙門釋慧海傳.xml"/>
         <xi:include href="2660haiMing海明.xml"/>
         <xi:include href="2661-清盤山正法禪院沙門釋行乾傳養心.xml"/>

@@ -3,7 +3,7 @@
 ed="T" n="0787a04"/><anchor n="T.50.2061.0787a04"/><head><date from-iso="+0923-05-18" key="j20583162063308" to-iso="+0937-01-16">後唐</date><placeName key="PL000000017203"><placeName>福州</placeName><placeName>長慶院</placeName></placeName><persName key="A003890">慧稜</persName>傳</head><p><lb
 ed="T" n="0787a05"/><persName key="A003890">釋慧稜</persName>，<placeName key="PL000000012815"><placeName>杭州</placeName><placeName>海鹽</placeName></placeName>人也，俗姓<name>孫</name>氏。初誕纏紫<lb
 ed="T" n="0787a06"/>色胎衣<ptr target="#n269"/>。為童齓<ptr type="glossary" target="#g280"/>日，俊朗抗節<ptr type="glossary" target="#g1643"/>，於<placeName key="PL000000009882"><placeName>吳苑</placeName><placeName>通玄<lb
-ed="T" n="0787a07"/>寺</placeName></placeName>登戒。已聞南方有禪學，遂遊<placeName key="PL000000056178">閩</placeName>嶺，謁<persName key="A003677">雪<lb
+ed="T" n="0787a07"/>寺</placeName></placeName>登戒。已聞南方有禪學，遂遊<placeName key="PL000000056838">閩嶺</placeName>，謁<persName key="A003677">雪<lb
 ed="T" n="0787a08"/>峯</persName>，提耳<ptr type="glossary" target="#g1597"/>指訂<ptr type="glossary" target="#g65"/>，頓明本性。乃述偈云：「昔時謾<lb
 ed="T" n="0787a09"/>向途中學，今日看來火裏氷。」如是親依，不<lb
 ed="T" n="0787a10"/>下峯頂，計三十許載。冥循定業，謹攝矜莊。<lb
@@ -28,7 +28,7 @@ ed="T" n="0787a17"/>官供。判官<persName key="A010697">林文盛</persName>�
         <link targets="#0787a07 #0787a08"/>
         <ptr target="#A003890" type="person"/>
         <ptr target="#A003677" type="person"/>
-        <ptr target="#PL000000056178" type="place"/>
+        <ptr target="#PL000000056838" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0787a11 #0787a11"/>
