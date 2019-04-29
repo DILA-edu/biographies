@@ -799,8 +799,8 @@ def readApps(tei):
       app_type_0.append(appId)
       continue
 
-    #if ana != 'appType0':
-    #  s += re.sub('^appType(.*)$', r'\1）', ana)
+    if ana != 'appType0':
+      s += re.sub('^appType(.*)$', r'\1）', ana)
 
     lem=n.find('lem')
     #s+=lem.get('wit')
