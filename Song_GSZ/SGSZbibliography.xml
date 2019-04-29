@@ -1304,6 +1304,12 @@
                     <abbr>新五代史</abbr>
                 </bibl>
                 <bibl ana="book">
+                    <author><hi>Tuo</hi>, Tuo 脫脫</author>
+                    <title>宋史</title>
+                    <edition>Shanghai: Zhonghua 上海 中華書局<date>1977.11</date>First edition</edition>
+                    <abbr>宋史</abbr>
+                </bibl>
+                <bibl ana="book">
                     <author><hi>Ji</hi>, Xianlin 季羨林</author>
                     <title>季羨林自選集：佛</title>
                     <edition>Beijing: Huayi Press 北京 华艺出版社<date>2008.05</date>First edition</edition>

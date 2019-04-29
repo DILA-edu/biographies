@@ -134,11 +134,11 @@
         <head>新續高僧傳四集卷第五</head>
         <lb n="0063a13" ed="B"/><p>義解篇弟二之三(正傳十六人　附見十四人)</p>
         <xi:include href="2055wuji無極.xml"/>
-        <xi:include href="2056-明嘉定淨信寺沙門釋祖儞傳石室瑛_竹屋淨.xml"/>
-        <xi:include href="2057-明杭州上天竺講寺沙門釋弘道傳.xml"/>
-        <xi:include href="2058-明寧波普陀寺沙門釋行丕傳.xml"/>
-        <xi:include href="2059-明松江興聖寺沙門釋原真傳.xml"/>
-        <xi:include href="2060-明陽山大慈寺沙門釋善學傳原澄.xml"/>
+        <xi:include href="2056zuNi祖儞.xml"/>
+        <xi:include href="2057hongDao弘道.xml"/>
+        <xi:include href="2058xingPi行丕.xml"/>
+        <xi:include href="2059yuanZhen原真.xml"/>
+        <xi:include href="2060shanXue善學.xml"/>
         <xi:include href="2061-明餘杭上天竺寺沙門釋慧日傳柏子庭.xml"/>
         <xi:include href="2062ruQi如玘.xml"/>
         <xi:include href="2063-明紹興寶林寺沙門釋大同傳春谷_古懷肇_古林茂.xml"/>
