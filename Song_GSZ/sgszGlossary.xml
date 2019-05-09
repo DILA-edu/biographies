@@ -1012,7 +1012,7 @@
 <note xml:id="g1010" resp="makita">三玄，老子、莊子、周易之合稱。語出《顏氏家訓‧勉學第八》：「莊、老、 周易 ，總謂三玄。」</note>
 <note xml:id="g1011" resp="PC-JK-MB">蓼，<seg type="pronunciation">音「liǎo（ㄌㄧㄠˇ）」，</seg>藥草名，學名 Polygonum，味辛辣。</note>
 <note xml:id="g1012" resp="makita">善慧地，為菩薩十地中之第九地。詳見《佛光‧善慧地》頁4895。</note>
-<note xml:id="g1013" resp="PC-JK-MB">枻，<seg type="pronunciation">音「yì（ㄧˋ）」，</seg>即楫。竚，久立。鼓枻，搖槳行船。<seg type="note">《楚辭‧漁父章句第七》：「漁父莞爾而笑，鼓枻而去。」</seg></note>
+<note xml:id="g1013" resp="PC-JK-MB">枻，<seg type="pronunciation">音「yì（ㄧˋ）」，</seg>即楫。竚，久立。鼓枻，搖槳行船。<persName key="A006021">屈原</persName>《楚辭‧漁父章句第七》：「漁父莞爾而笑，鼓枻而去。」</note>
 <note xml:id="g1014" resp="PC-JK-MB">鍊師，品德高尚、修行精深的道士。</note>
 <note xml:id="g1015" resp="makita">黎邪，即聖者。<name>梵</name>語<seg type="latin">ārya</seg>之音譯，又作阿哩夜、阿離耶、阿離野、阿棃阿、阿黎耶、阿略、阿夷。有關聖者能否造業受報，參見<ref cRef="CBETA_T29_n1558_p82_a4-p82_a22">《阿毘達磨俱舍論》CBETA, T29, no. 1558, p. 82, a4-22</ref>。</note>
 <note xml:id="g1016" resp="PC-JK-MB">弗地，打勝仗之後隨即撤軍。《十三經‧左傳‧襄公十三年》：「弗地曰入。」<persName key="A007298">杜預</persName>注：「謂勝其國邑不有其地。」</note>
@@ -1463,9 +1463,9 @@
 <note xml:id="g1461" resp="PC-JK-MB">卜居、卜築，擇地居住、築室。<seg type="note"><persName key="A005221">杜甫</persName>《寄題江外草堂》：「嗜酒愛風竹，卜居必林泉。」</seg></note>
 <note xml:id="g1462" resp="PC-JK-MB">稅駕，猶解駕，停車休息。<seg type="note">《史記‧卷八十七》：「物極則衰，<ref type="person" target="#A021954">吾</ref>未知所稅駕也！」</seg></note>
 <note xml:id="g1463" resp="PC-JK-MB">暾<seg type="pronunciation">，音「tūn（ㄊㄨㄣ）」</seg>，早晨初升的太陽。<seg type="note">《楚辭‧九歌‧少司命》：「暾將出兮東方，照吾檻兮扶桑。」</seg></note>
-<note xml:id="g1464" resp="makita">伊蘭，<name>梵</name>語<seg type="latin">erāvana 或 eraṇḍa</seg>，即蓖麻，學名 Ricinus communis，又作「伊羅」。經論中多以伊蘭比喻煩惱。<seg type="note"><ref cRef="CBETA_T17_n741_p545_b2-p545_b4">《五苦章句經》CBETA, T17, no. 741, p. 545, b2-4</ref>：「一切臭木，莫過伊蘭，其臭毒惡，人見惡之，畏聞其氣。」</seg></note>
-<note xml:id="g1465" resp="makita">栴檀，<seg type="note">又作「旃檀」，</seg><name>梵</name>語<seg type="latin">candana</seg>，即檀香，學名Santalum album，經論中多以栴檀之妙香此喻菩提。<seg type="note"><ref cRef="CBETA_T17_n741_p545_a24-p545_a25">《五苦章句經》CBETA, T17, no. 741, p. 545, a24-25</ref>：「一切眾香，莫過栴檀；其香無量，香價貴於閻浮提金。」</seg></note>
-<note xml:id="g1466" resp="PC-JK-MB">甘露，<seg type="note"><name>梵</name>語<seg type="latin">amṛta</seg>，巴利語 amata，又作「阿密哩多」，不死之神藥，天上之靈酒。《吠陀》中謂蘇摩酒為甘露。常以甘露</seg>比喻佛法之法味<seg type="note">與妙味長養眾生之身心</seg>。詳見《佛光‧甘露》頁2052。</note>
+<note xml:id="g1464" resp="makita">伊蘭，<name>梵</name>語<seg type="latin">erāvana</seg>或<seg type="latin">eraṇḍa</seg>，即蓖麻，學名<seg type="latin">Ricinus communis</seg>，又作「伊羅」。經論中多以伊蘭比喻煩惱。<seg type="note"><ref cRef="CBETA_T17_n741_p545_b2-p545_b4">《五苦章句經》CBETA, T17, no. 741, p. 545, b2-4</ref>：「一切臭木，莫過伊蘭，其臭毒惡，人見惡之，畏聞其氣。」</seg></note>
+<note xml:id="g1465" resp="makita">栴檀，<seg type="note">又作「旃檀」，</seg><name>梵</name>語<seg type="latin">candana</seg>，即檀香，學名<seg type="latin">Santalum album</seg>，經論中多以栴檀之妙香此喻菩提。<seg type="note"><ref cRef="CBETA_T17_n741_p545_a24-p545_a25">《五苦章句經》CBETA, T17, no. 741, p. 545, a24-25</ref>：「一切眾香，莫過栴檀；其香無量，香價貴於閻浮提金。」</seg></note>
+<note xml:id="g1466" resp="PC-JK-MB">甘露，<seg type="note"><name>梵</name>語<seg type="latin">amṛta</seg>，巴利語<seg type="latin">amata</seg>，又作「阿密哩多」，不死之神藥，天上之靈酒。《吠陀》中謂蘇摩酒為甘露。常以甘露</seg>比喻佛法之法味<seg type="note">與妙味長養眾生之身心</seg>。詳見《佛光‧甘露》頁2052。</note>
 <note xml:id="g1467" resp="makita">蒺蔾<seg type="note">，又作「蒺藜」</seg>，學名 Tribulus terrestris，果實因具刺狀物而得名。指非法聚會<seg type="note">，眾僧不如法之寺，不生福利</seg>，是為蒺蔾園。詳見《佛光》頁5910。</note>
 <note xml:id="g1468" resp="PC-JK-MB">彝典，猶常典。<seg type="note"><persName key="A004634">江淹</persName>《為蕭相國拜齊王表》：「業不題於宗器，聲靡記於彝典。」</seg></note>
 <note xml:id="g1469" resp="PC-JK-MB">元胎，指孕育萬物的大道。<seg type="note"><persName key="A008719">司空圖</persName>《靈臺三官堂疏》：「蓋聞元胎秉粹，真極設官，貫日星而動六幽，攝品彙而尊三府。」</seg></note>
@@ -2305,5 +2305,18 @@
 <note xml:id="g2302" resp="PC-JK-MB">佉闍尼，即「嚼食」，指根、莖、葉、花、果等食物。僅食此五種而不食蒲繕尼（噉食、含噉），則不成足食。蒲繕尼指五種正食者，即飯、麥豆飯、麵、肉、餅。食此五種，稱為足食。《佛學‧珂但尼 》：「（飲食）<seg type="latin">Khādaniya</seg>，又作佉陀尼，佉闍尼。譯曰嚼食。」另見《佛光‧二五食 》頁189。</note>
 <note xml:id="g2303" resp="PC-JK-MB">自狹而廣，猶「由寡而眾」。<ref cRef="CBETA_X16_n313_p405_c22-p405_c24">《楞嚴經序指味疏》CBETA, X16, no. 313, p. 405, c22-24</ref>：「一人為狹，一國為廣；一國為狹，諸國為廣。故曰自狹而廣。」</note>
 <note xml:id="g2304" resp="PC-JK-MB">顒昂，又作「顒卬」，肅敬軒昂，氣度不凡貌。<persName>羊勝</persName>《四庫‧西京雜記‧卷四‧屏風賦》頁6：「畫以古烈，顒顒昻昻。」顒，嚴正貌。</note>
-<note xml:id="g2305" resp="PC-JK-MB">挺質，與生俱來的美質。<ref cRef="CBETA, T52, no. 2103, p. 247, b23-24">《廣弘明集》CBETA, T52, no. 2103, p. 247, b23-24</ref>：「白玉照采，方斯非貴；珊瑚挺質，匹此未珍。」</note>
+<note xml:id="g2305" resp="PC-JK-MB">挺質，與生俱來的美質。<ref cRef="CBETA_T52_n2103_p247_b23-p247_b24">《廣弘明集》CBETA, T52, no. 2103, p. 247, b23-24</ref>：「白玉照采，方斯非貴；珊瑚挺質，匹此未珍。」</note>
+<note xml:id="g2306" resp="PC-JK-MB">鯤，傳說中的大魚。《莊子‧内篇‧逍遥遊第一》：「北冥有魚，其名為鯤；鯤之大，不知其幾千里也！」</note>
+<note xml:id="g2307" resp="PC-JK-MB">攻玉於他山，喻借助外力，改正自己的缺失。語出《詩經‧小雅‧鶴鳴》：「它山之石，可以攻玉。」</note>
+<note xml:id="g2308" resp="PC-JK-MB">氷天，指極高或極北苦寒之處；桂海，指南方燠熱之處。<persName key="A004634">江淹</persName>《四庫‧文選註‧卷三十‧（雜體詩）袁太尉從駕》頁35：「文軫薄桂海，聲教燭冰天。」<persName key="A017616">李善</persName>注：「<placeName key="PL000000000153">南海</placeName>有桂，故云<placeName key="PL000000000153">桂海</placeName>。」</note>
+<note xml:id="g2309" resp="PC-JK-MB">輯睦，又作「輯穆」，猶和睦。《爾雅．釋詁上》：「輯，和也。」</note>
+<note xml:id="g2310" resp="PC-JK-MB">綈繡，飾以彩繡的厚繒。</note>
+<note xml:id="g2311" resp="PC-JK-MB">鞠子，猶稚子。《尚書‧周書‧<persName key="A018084">康王</persName>之誥第二十五》：「用奉恤厥若，無遺鞠子羞。」</note>
+<note xml:id="g2312" resp="PC-JK-MB">氣調，<seg type="pronunciation">音「qì diào（ㄑㄧˋ ㄉㄧㄠˋ）」，</seg>氣韻才調。<ref cRef="CBETA_T50_n2059_p382_a9-p382_a10">《高僧傳》CBETA, T50, no. 2059, p. 382, a9-10</ref>：「氣調爽拔，神用俊舉。」</note>
+<note xml:id="g2313" resp="PC-JK-MB">意表，言外之意。</note>
+<note xml:id="g2314" resp="PC-JK-MB">心學，即增上心學，三學之一。</note>
+<note xml:id="g2315" resp="PC-JK-MB">樵蒸，猶柴薪。《漢書‧卷八十七上‧<persName key="A002161">揚雄</persName>傳》頁3532：「樵蒸焜上，配藜四施。」<persName key="A019696">顏師古</persName>注：「樵，木薪也。蒸，麻幹也。」</note>
+<note xml:id="g2316" resp="PC-JK-MB">榱桷，<seg type="pronunciation">音「cuī jué（ㄘㄨㄟ ㄐㄩㄝˊ）」，</seg>屋椽。與棟樑相對而言，為房屋次要結構。</note>
+<note xml:id="g2317" resp="PC-JK-MB">輕安，平和貌。無撓，不屈。</note>
+<note xml:id="g2318" resp="PC-JK-MB">惟錯，言其饒多非一種。《尚書‧夏書‧禹貢》：「厥貢鹽絺，海物惟錯。」</note>
 </div>
