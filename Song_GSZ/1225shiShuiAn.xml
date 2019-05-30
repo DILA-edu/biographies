@@ -1,29 +1,39 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0887a10shiYongAn"><lb
-ed="T" n="0887a10"/><anchor n="T.50.2061.0887a10"/><head><date from-iso="+0960-02-09" key="j20717322132856" to-iso="+1127-06-18"><anchor xml:id="begd1e49056"/>宋<anchor xml:id="endd1e49056"/></date>杭州報恩寺<persName key="A013518">永安</persName>傳</head><p><lb
-ed="T" n="0887a11"/><persName key="A013518">釋<anchor xml:id="beg0887002"/><choice resp="PC-JK-MB"><sic>水</sic><corr>永</corr></choice><anchor xml:id="end0887002"/>安</persName>，姓翁氏，<placeName key="PL000000012518">溫州永嘉</placeName>人也。少歲淳厚，<lb
-ed="T" n="0887a12"/>黃中通理。遇同郡<persName key="A014740">彙征大師</persName>鳳鳴越嶠<!--找不到此地-->，玉<lb
-ed="T" n="0887a13"/>瑩藍田，穫落文心，沈潛學奧，以其出樂安<lb
-ed="T" n="0887a14"/><persName key="A013760">孫郃</persName>拾遺之門也，而有慕上之心，往拜而<lb
+ed="T" n="0887a10"/><anchor n="T.50.2061.0887a10"/><head><date from-iso="+0960-02-09" key="j20717322132856" to-iso="+1127-06-18"><anchor xml:id="begd1e49056"/>宋<anchor xml:id="endd1e49056"/></date><placeName key="PL000000011432">杭州報恩寺</placeName><persName key="A013518">永安</persName>傳</head><p><lb
+ed="T" n="0887a11"/><persName key="A013518">釋<anchor xml:id="beg0887002"/><choice resp="PC-JK-MB"><sic>水</sic><corr>永</corr></choice><anchor xml:id="end0887002"/>安</persName>，姓<name>翁</name>氏，<placeName key="PL000000012518"><placeName>溫州</placeName><placeName>永嘉</placeName></placeName>人也。少歲淳厚，<lb
+ed="T" n="0887a12"/>黃中通理<ptr type="glossary" target="#g2320"/>。遇同郡<persName key="A014740">彙征<roleName>大師</roleName></persName>鳳鳴越嶠，玉<lb
+ed="T" n="0887a13"/>瑩<placeName key="PL000000042576">藍田</placeName>，穫落《文心》<ptr target="#n3485"/>，沈潛學奧，以其出<placeName key="PL000000014829">樂安</placeName><lb
+ed="T" n="0887a14"/><persName key="A013760">孫郃</persName>拾遺之門也<ptr target="#n3486"/>，而有慕上之心，往拜而<lb
 ed="T" n="0887a15"/>乞度。然<persName key="A014740">征</persName>性高岸而寡合，而<persName key="A013518">安</persName>事之也曲<lb
-ed="T" n="0887a16"/>從若環，蓋哀其幼知擇師耳。<date key="j20594412060821" notAfter-iso="+0930-03-27" notBefore-iso="+0926-06-16"><name>天成</name>中</date>，隨侍<lb
-ed="T" n="0887a17"/>出<placeName key="PL000000011518">杭</placeName>，俄有從十二頭陀之意，潛逃欲登<placeName key="PL000000056838">閩<lb
-ed="T" n="0887a18"/>嶺</placeName>，參問禪宗。屬封<anchor xml:id="beg0887003"/><choice resp="PC-JK-MB"><sic>彊</sic><corr>壃</corr></choice><anchor xml:id="end0887003"/>艱棘，却迴結庵于<placeName key="PL000000014411">天<lb
-ed="T" n="0887a19"/>台</placeName>。後遇<persName key="A008355">韶禪師</persName>法集，頓遣群疑，重來<anchor xml:id="beg0887sgsz1"/>禮<anchor xml:id="end0887sgsz1"/><persName key="A014740">征</persName>。<lb
+ed="T" n="0887a16"/>從若環，蓋哀其幼知擇師耳。<date notBefore-iso="+0926-06-16" key="j20594412060821" notAfter-iso="+0930-03-27"><name>天成</name>中</date>，隨侍<lb
+ed="T" n="0887a17"/>出<placeName key="PL000000011518">杭</placeName>，俄有從十二頭陀<ptr type="glossary" target="#g1829"/>之意，潛逃欲登<placeName key="PL000000056838">閩<lb
+ed="T" n="0887a18"/>嶺</placeName>，參問禪宗。屬封<anchor xml:id="beg0887003"/>彊<anchor xml:id="end0887003"/><ptr type="glossary" target="#g2321"/>艱棘，却迴結庵于<placeName key="PL000000014411">天<lb
+ed="T" n="0887a19"/>台</placeName>。後遇<persName key="A008355">韶<roleName>禪師</roleName></persName>法集，頓遣群疑，重來<anchor xml:id="beg0887sgsz1"/>禮<anchor xml:id="end0887sgsz1"/><persName key="A014740">征</persName>。<lb
 ed="T" n="0887a20"/>咄之曰：「棄背孝養，爾自速辜，遺行<ptr type="glossary" target="#g2205"/>于斯，還<lb
 ed="T" n="0887a21"/>有裨補前咎計否？」<persName key="A013518">安</persName>跪對曰：「從來無事，請<lb
-ed="T" n="0887a22"/>用塞責。」<persName key="A014740">征</persName>肯頷之。<ref type="person" target="#A006774">漢南國王錢氏</ref>召居<placeName key="PL000000011432">報<lb
-ed="T" n="0887a23"/>恩寺</placeName>，署號禪師焉。乃以華嚴李論為會要<ptr rend="display:none;" type="glossary" target="#g1198"/>，<lb
+ed="T" n="0887a22"/>用塞責<ptr type="glossary" target="#g2322"/>。」<persName key="A014740">征</persName>肯頷之。<placeName key="PL000000008355">漢南國</placeName>王<persName key="A006774">錢<roleName>氏</roleName></persName>召居<placeName key="PL000000011432">報<lb
+ed="T" n="0887a23"/>恩寺</placeName>，署號「禪師」焉<ptr target="#n3487"/>。乃以《華嚴李論》<ptr target="#n3488"/>為會要<ptr rend="display:none;" type="glossary" target="#g1198"/>，<lb
 ed="T" n="0887a24"/>因將合經，<anchor xml:id="begd1e49115"/>募<anchor xml:id="endd1e49115"/>人雕板，印而施行。每有檀<lb
-ed="T" n="0887a25"/>施，罕聞儲畜，迴捨二田矣。以<date key="j20768372077220" notAfter-iso="+0975-02-18" notBefore-iso="+0974-01-31"><name>開寶</name>甲<anchor xml:id="beg0887sgsz3"/>戌<anchor xml:id="end0887sgsz3"/><lb
+ed="T" n="0887a25"/>施，罕聞儲畜，迴捨二田<ptr target="#n1255"/>矣。以<date from-iso="+0974-01-31" key="j20768372077220" to-iso="+0975-02-18"><name>開寶</name>甲<anchor xml:id="beg0887sgsz3"/>戌<anchor xml:id="end0887sgsz3"/><lb
 ed="T" n="0887a26"/>歲</date>終而焚之，其舌存焉。累投火鍛，色雖同<lb
-ed="T" n="0887a27"/>乎熾炭，寒則柔弱，今藏普賢道場<!--找不到此地-->中。春秋六<lb
+ed="T" n="0887a27"/>乎熾炭，寒則柔弱，今藏<placeName key="PL000000049322">普賢道場</placeName>中<ptr target="#n3489"/>。春秋六<lb
 ed="T" n="0887a28"/>十四，法臘四十四云。</p>
     <linkGrp>
         <link targets="#0887a11 #0887a13"/>
         <ptr target="#A013518" type="person"/>
         <ptr target="#A014740" type="person"/>
         <ptr target="#PL000000012518" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0887a13 #0887a14"/>
+        <ptr target="#A013760" type="person"/>
+        <ptr target="#A014740" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0887a13 #0887a14"/>
+        <ptr target="#A013760" type="person"/>
+        <ptr target="#PL000000014829" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0887a16 #0887a17"/>
@@ -35,9 +45,13 @@ ed="T" n="0887a28"/>十四，法臘四十四云。</p>
     <linkGrp>
         <link targets="#0887a18 #0887a19"/>
         <ptr target="#A013518" type="person"/>
-        <ptr target="#A008355" type="person"/>
         <ptr target="#PL000000014411" type="place"/>
-        <ptr target="#j20594412060821" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0887a19 #0887a19"/>
+        <ptr target="#A013518" type="person"/>
+        <ptr target="#A008355" type="person"/>
+        <ptr target="#PL000000011518" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0887a19 #0887a22"/>
@@ -53,5 +67,11 @@ ed="T" n="0887a28"/>十四，法臘四十四云。</p>
         <link targets="#0887a22 #0887a24"/>
         <ptr target="#A013518" type="person"/>
         <ptr target="#A006774" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0887a25 #0887a26"/>
+        <ptr target="#A013518" type="person"/>
+        <ptr target="#PL000000011432" type="place"/>
+        <ptr target="#j20768372077220" type="time"/>
     </linkGrp>
 </div>

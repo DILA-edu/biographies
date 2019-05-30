@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="義解" xml:id="gsz0072a17shiHuaiWei"><lb
+ed="B" n="0072a17"/><anchor n="B.27.0151.0072a17"/><head>明會稽寶相寺沙門<persName key="A015593">釋懷渭</persName>傳</head><lb
+ed="B" n="0072a18"/><p xml:id="pB27p0072a1801"><persName key="A015593">釋懷渭</persName>，字<persName key="A015593">清遠</persName>，晚號<persName key="A015593">竹菴</persName>，姓魏氏，南昌人也。幼性穎異，誦書屬<lb
+ed="B" n="0072a19"/>文略加指授，便爾開悟。既出家，從其舅氏<persName key="A000062">全悟</persName>為師。一日<persName key="A000062">悟</persName>警<lb
+ed="B" n="0072a20"/>勵諸徒，眾未有對，<persName key="A015593">渭</persName>直前肆言，如俊鶻橫秋，目無留行。<persName key="A000062">悟</persName>振威<pb ed="B" xml:id="B27.0151.0072b" n="0072b"/><lb
+ed="B" n="0072b01"/>叱之，眾為駭愕，<persName key="A015593">渭</persName>氣不少沮，如是詰難，至於再三。<persName key="A000062">悟</persName>莞爾芙曰：<lb
+ed="B" n="0072b02"/>「<ref type="person" target="#A015593">汝</ref>可入<ref type="person" target="#A000062">吾</ref>室矣。」命為記室。浙江行省丞相<persName key="A014445">康里<roleName>公</roleName></persName>重其文行，遣<lb
+ed="B" n="0072b03"/>使者具書幣，延至主會稽之寶相，遷杭之淨慈，誘道後進。於五<lb
+ed="B" n="0072b04"/>時八教，多有啟迪。明洪武初，儀曹奉詔設無遮大會於鍾山，二<lb
+ed="B" n="0072b05"/>浙名僧咸集。<persName key="A015593">渭</persName>一至京師，遂退居錢塘之梁渚，梁渚者為<persName key="A000062">全悟</persName><lb
+ed="B" n="0072b06"/>藏爪髮之地。武洪八年十二月，怡然而逝。所著四會語錄，及詩<lb
+ed="B" n="0072b07"/>文曰《外集》者若干卷行世。</p>
+    <linkGrp>
+        <link targets="#0072a19 #0072b02"/>
+        <ptr target="#A015593" type="person"/>
+        <ptr target="#A000062" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0072b02 #0072b03"/>
+        <ptr target="#A015593" type="person"/>
+        <ptr target="#A014445" type="person"/>
+    </linkGrp>
+</div>

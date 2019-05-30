@@ -3,7 +3,7 @@
     <head><lb ed="X" n="0398c21"/>　　　　<persName key="A008316">素庵</persName>法師傳(附<persName key="A015832">兀齋</persName>．<persName key="A015839">幻齋</persName>二比丘)</head>
     <p><anchor n="X.77.1524.0398c22"/><lb ed="X" n="0398c22"/><persName key="A008316">素庵</persName>法師。諱某。生於<placeName key="PL000000027133">襄陽</placeName>鍾氏。壯歲棄儒。遍訪知識。
         <lb ed="X" n="0398c23"/>至南陽<placeName key="PL000000025200">留山寺</placeName>。禮<persName key="A008318">泯庵休</persName>公落髮。瓢然一鉢。歷<placeName key="PL000000025190">伏牛</placeName>
-        <lb ed="X" n="0398c24"/><placeName key="PL000000005250">清凉</placeName>受具。依<persName key="A008319">秀</persName>法師。習經論凡十一載。精其業。南禮
+        <lb ed="X" n="0398c24"/><placeName key="PL000000005250">清凉</placeName>受具。依<persName key="A008306">秀</persName>法師。習經論凡十一載。精其業。南禮
         <lb ed="X" n="0399a01"/><placeName key="PL000000013847">普陀</placeName>。過<placeName key="PL000000008891">白下</placeName>。<placeName key="PL000000008891">白下</placeName>名流。針芥自合。以<placeName key="PL000000009026">攝山</placeName>講席留師。
         <lb ed="X" n="0399a02"/>道聲大振。師亦樂茲山幽[穴/逐]。遂誅茆築室。棲遲十年。
         <lb ed="X" n="0399a03"/>一日扶杖將行。留偈<placeName key="PL000000009028">淨業堂</placeName>云。自入<placeName key="PL000000009026">棲霞</placeName>已十年。東
@@ -68,7 +68,7 @@
     <linkGrp>
         <link targets="#0398c24 #0398c24"/>
         <ptr target="#A008316" type="person"/>
-        <ptr target="#A008319" type="person"/>
+        <ptr target="#A008306" type="person"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0398c24 #0399a01"/>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="義解" xml:id="gsz0078a03shiYaunLong"><lb
+ed="B" n="0078a03"/><anchor n="B.27.0151.0078a03"/><head>明餘杭土橋庵沙門<persName key="A042311">釋圓瓏</persName>傳<persName type="secondary" key="A001134">紹覺承</persName><persName type="secondary" key="A000948"><choice><sic resp="CBETA">直</sic><corr resp="PC-MB">真</corr></choice>界</persName></head><lb
+ed="B" n="0078a04"/><p xml:id="pB27p0078a0401"><persName key="A042311">釋圓瓏</persName>，字<persName key="A042311">大覺</persName>，姓鄭氏<!-- 《蓮居庵志．卷3．[大覺禪師]》：「人稱為陳睦州」(《中國佛寺志叢刊》，第4輯，第70冊，頁0062) -->，武林人也。往來<persName key="A008309">無極</persName>講席間，與<persName key="A004672">雪浪</persName>度<lb
+ed="B" n="0078a05"/>門相友善。而<persName key="A001134">紹覺承</persName>執弟子禮，唯謹各侍一母，稱兩睦州。時寄<lb
+ed="B" n="0078a06"/>寓土橋民廬，因奉母也。有<persName key="A042592">古松英</persName>者，兄弟同出家淨慈，<persName key="A042311">瓏</persName>日與<lb
+ed="B" n="0078a07"/><persName key="A042592">英</persName>語，夜宿<persName key="A042592">英</persName>寮，如家唱和，揮灑牆壁幾徧，自謂<persName key="A004127">寒山</persName><persName key="A009211">拾得</persName>，人莫<lb
+ed="B" n="0078a08"/>之許。所寄廬地僅方丈，而集海內名士，座為之滿。梵筴止一度<lb
+ed="B" n="0078a09"/>一架，取讀之恍入龍藏，入無量法門矣。自題栗主<!-- 神主牌位 -->於案，欲以謝<lb
+ed="B" n="0078a10"/>客。客至且疑且悲，低回久之，漸入其寢，突遇<persName key="A042311">瓏</persName>，乃相視莞然。嘗<lb
+ed="B" n="0078a11"/>讀《宗鏡》有省，與其徒<persName key="A001134">承</persName>手錄百卷，示鄰居士<persName key="A011239">虞長孺</persName>曰：「吾得掃<lb
+ed="B" n="0078a12"/>除宗鏡堂，為<persName key="A000282">壽<roleName>師</roleName></persName>役，足可無憾。」「來時虛空包法界，去時法界包<lb
+ed="B" n="0078a13"/>虛空耳！」逝時，喃喃二語不絕。時《宗鏡》唯梵本，<persName key="A007760">妙峰福燈</persName>閱之而<lb
+ed="B" n="0078a14"/>悟，因勸藩王刻其書於秦。而<persName key="A042311">瓏</persName>始傳寫於吳，吳中士人多喜讀<lb
+ed="B" n="0078a15"/>之。<persName key="A007760">妙峰</persName>亦駐錫南屏，與<persName key="A042593">筠泉蓮</persName>為友，皆遠嗣<persName key="A000282">永明壽</persName>云。有<persName key="A000948">真界</persName>，<lb
+ed="B" n="0078a16"/>字<persName key="A000948">幻居</persName>者，檇李人<!-- 《勅建淨慈寺志．卷10．幻居直界》：「貌修潔而慈和，揮麈吳中，有彌天之譽。適病肺，暫止南屏松壽堂，」(《中國佛寺史志彙刊》，第1輯，第18冊，頁0738) -->。亦來吳中，棲止南屏松壽堂，註解《金剛經》。視<lb
+ed="B" n="0078a17"/>古今百家註無當旨者，獨會祖意而為之註，直指人心而不襲<lb
+ed="B" n="0078a18"/>舊語。蓋<persName key="A001719">六祖</persName>、<persName key="A000655">中峰</persName>於此頓悟，非直註則經屬於論矣！註成<persName key="A011239">六夢<lb
+ed="B" n="0078a19"/>居士</persName>序之，去隱西溪。無何，端坐而化。</p>
+    <linkGrp>
+        <link targets="#0078a04 #0078a04"/>
+        <ptr target="#A042311" type="person"/>
+        <ptr target="#A008309" type="person"/>
+        <ptr target="#A004672" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0078a05 #0078a05"/>
+        <ptr target="#A042311" type="person"/>
+        <ptr target="#A001134" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0078a06 #0078a07"/>
+        <ptr target="#A042311" type="person"/>
+        <ptr target="#A042592" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0078a11 #0078a12"/>
+        <ptr target="#A011239" type="person"/>
+        <ptr target="#A001134" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0078a15 #0078a15"/>
+        <ptr target="#A007760" type="person"/>
+        <ptr target="#A042593" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0078a18 #0078a19"/>
+        <ptr target="#A000948" type="person"/>
+        <ptr target="#A011239" type="person"/>
+    </linkGrp>
+</div>

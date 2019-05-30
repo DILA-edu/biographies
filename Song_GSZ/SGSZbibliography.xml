@@ -1375,6 +1375,12 @@
                     <edition>Beijing: Zhonghua 中華書局 大唐西域求法高僧傳校注 pp.268-273<date>1988.09</date></edition>
                     <abbr>義淨籍貫考辨</abbr>
                 </bibl>
+                <bibl ana="book">
+                    <author><hi>Yu</hi>, Lunian 俞鹿年</author>
+                    <title>Dictionary of Chinese Bureaucracy 中國官制大辞典</title>
+                    <edition>Harbin，Heilongjiang People's Publishing House 哈爾濱，黑龍江人民出版社<date>1992.10</date>First edition</edition>
+                    <abbr>官制</abbr>
+                </bibl>
             </listBibl>
         </body>
     </text>

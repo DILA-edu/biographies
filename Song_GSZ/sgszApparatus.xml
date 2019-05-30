@@ -5851,17 +5851,17 @@
 			<lem wit="【大】">禮</lem>
 			<rdg resp="PC-JK-MB" wit="【范】【磧】">礼</rdg>
 		</app>
-		<app from="beg0821001" ana="appType2a">
+		<app from="beg0821001" ana="appType1a">
 			<lem wit="【大】">施</lem>
 			<rdg resp="Taisho" wit="【宋】【元】">修</rdg>
 			<rdg resp="PC-JK-MB" wit="【范】">施</rdg>
-			<rdg resp="PC-JK-MB" wit="【磧】">修</rdg>
+			<rdg resp="PC-JK-MB" wit="【磧】【宮】">修</rdg>
 		</app>
 		<app from="beg0821002" ana="appType2a">
 			<lem wit="【大】">頭</lem>
 			<rdg resp="Taisho" wit="【宋】【元】">投</rdg>
 			<rdg resp="PC-JK-MB" wit="【范】">頭</rdg>
-			<rdg resp="PC-JK-MB" wit="【磧】">投</rdg>
+			<rdg resp="PC-JK-MB" wit="【磧】【宮】">投</rdg>
 		</app>	
 		<app from="beg0821sgsz2" ana="appType0">
 			<lem wit="【大】">耶</lem>

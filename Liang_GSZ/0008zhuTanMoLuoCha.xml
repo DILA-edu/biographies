@@ -35,4 +35,17 @@
         <ptr target="#PL000000025062" type="place"/>
         <ptr target="#j18324421832470" type="time"/>
     </linkGrp>
+    <linkGrp>
+        <link targets="#0327a05 #0327a05"/>
+        <ptr n="父" target="#A001882" type="person"/>
+        <ptr n="子" target="#A001883" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0327a06 #0327a07"/>
+        <ptr n="授旨" target="#A000749" type="person"/>
+        <ptr n="筆受" target="#A002485" type="person"/>
+        <ptr n="筆受" target="#A002486" type="person"/>
+        <ptr n="筆受" target="#A002487" type="person"/>
+        <ptr n="筆受" target="#A002488" type="person"/>
+    </linkGrp>
 </div>

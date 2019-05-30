@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="義解" xml:id="gsz0078b05shiZhenJie"><lb
+ed="B" n="0078b05"/><anchor n="B.27.0151.0078b05"/><head>明應天樓霞寺沙門<persName key="A008316">釋真節</persName>傳</head><lb
+ed="B" n="0078b06"/><p xml:id="pB27p0078b0601"><persName key="A008316">釋真節</persName>，字<persName key="A008316">素庵</persName>，襄陽人也。少為郡弟子，忽宿根內萌，即辭割親<lb
+ed="B" n="0078b07"/>愛，禮<persName key="A008318">明休</persName>祝髮。既而北遊京師，徧參講席。謁<persName key="A008306">秀<roleName>法師</roleName></persName>饜餐法喜，<lb
+ed="B" n="0078b08"/>深得<persName key="A002450">賢首</persName>之印。<persName key="A008316">節</persName>學富內外，諸方每以龍象推之。久之負錫南<lb
+ed="B" n="0078b09"/>還金陵，出主攝山樓霞，眾逾三百，教備五乘，據師子座，撾大法<lb
+ed="B" n="0078b10"/>鼓三十餘年。檀施之餘，拓地為廬。時<persName key="A007748">殷宗伯</persName>得郎邪大士像，<persName key="A004257">五<lb
+ed="B" n="0078b11"/>臺陸<roleName>公</roleName></persName>亦鑄金像，悉歸<persName key="A008316">節</persName>供奉。<persName key="A011429">羅<roleName>參知</roleName></persName>署曰「圓通精舍」，句曲<persName key="A008317">李<lb
+ed="B" n="0078b12"/>石麓</persName>學士盟為外方交。<persName key="A008316">節</persName>闡大法不以期限，嘗講《法華經》至〈多<lb
+ed="B" n="0078b13"/>寶塔品〉，空中忽現寶塔於座前，一如經言。四眾跂觀，灑然希覯<!-- 罕見 -->。<lb
+ed="B" n="0078b14"/>中使張某奉<persName key="A007207">慈聖寶太后</persName>命至，同覩聖瑞，乃出尚方金縷僧伽<lb
+ed="B" n="0078b15"/>黎衣一襲，宣慈旨錫之。即於講堂之西建一浮屠，以徵神化。<persName key="A007641">汪<lb
+ed="B" n="0078b16"/>道昆</persName>記其事。</p>
+    <linkGrp>
+        <link targets="#0078b06 #0078b07"/>
+        <ptr target="#A008316" type="person"/>
+        <ptr target="#A008318" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0078b07 #0078b08"/>
+        <ptr target="#A008316" type="person"/>
+        <ptr target="#A008306" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0078b10 #0078b11"/>
+        <ptr target="#A008316" type="person"/>
+        <ptr target="#A007748" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0078b10 #0078b11"/>
+        <ptr target="#A008316" type="person"/>
+        <ptr target="#A004257" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0078b11 #0078b11"/>
+        <ptr target="#A008316" type="person"/>
+        <ptr target="#A011429" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0078b11 #0078b12"/>
+        <ptr target="#A008316" type="person"/>
+        <ptr target="#A008317" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0078b14 #0078b15"/>
+        <ptr target="#A008316" type="person"/>
+        <ptr target="#A007207" type="person"/>
+    </linkGrp>
+</div>

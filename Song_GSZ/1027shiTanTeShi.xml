@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="感通" xml:id="gsz0820b09shiTanTeShi"><lb
 n="0820b09" ed="T"/><anchor n="T.50.2061.0820b09"/><head><date from-iso="+0386-02-21" key="j18620951916335" to-iso="+0534-08-24">後魏</date><placeName key="PL000000045052">西涼府</placeName><persName key="A012060">檀特師</persName>傳</head><p><lb
-ed="T" n="0820b10"/><persName key="A012060">釋檀特師</persName>者，一名<persName key="A012060">慧豐</persName>，不知何許人也。身<lb
+ed="T" n="0820b10"/><persName key="A012060">釋檀特師</persName>者<ptr target="#n3482"/>，一名<persName key="A012060">慧豐</persName>，不知何許人也。身<lb
 ed="T" n="0820b11"/>雖剃染<ptr type="glossary" target="#g30"/>，率略無檢制，飲酒啖肉，語默無常。<lb
 ed="T" n="0820b12"/>逆<ptr rend="display:none;" type="glossary" target="#g1229"/>論來事，後必如言。居于<placeName key="PL000000045061">武威</placeName>，肆意狂逸。<lb
 ed="T" n="0820b13"/>時<persName key="A012061">宇文仲和</persName>為<anchor xml:id="beg0820002"/>刺<anchor xml:id="end0820002"/>史，請<ref type="person" target="#A012060">之</ref>入<ref type="place" target="#PL000000045052">州</ref>，歷觀厩<ptr rend="display:none;" type="glossary" target="#g1234"/><lb

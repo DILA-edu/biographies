@@ -143,38 +143,38 @@
         <xi:include href="2062ruQi如玘.xml"/>
         <xi:include href="2063daTong大同.xml"/>
         <xi:include href="2064yuanJing原瀞.xml"/>
-        <xi:include href="2065-明杭州集慶寺沙門釋士璋傳天心瑩.xml"/>
-        <xi:include href="2066-明婺州智者寺沙門釋普仁傳德祥.xml"/>
-        <xi:include href="2067-明上海安國寺沙門釋紹宗傳靜庵鎮.xml"/>
-        <xi:include href="2068-明餘杭淨慈寺沙門釋明德傳悅堂顏.xml"/>
-        <xi:include href="2069-明會稽寶相寺沙門釋懷渭傳.xml"/>
-        <xi:include href="2070-明錢塘靈隱寺沙門釋大訢傳了萬_晦機_東叟.xml"/>
+        <xi:include href="2065shiZhang士璋.xml"/>
+        <xi:include href="2066puRen普仁.xml"/>
+        <xi:include href="2067shaoZong紹宗.xml"/>
+        <xi:include href="2068mingDe明德.xml"/>
+        <xi:include href="2069huaiWei懷渭.xml"/>
+        <xi:include href="2070daXi大訢.xml"/>
       </div>
       <div type="juan" n="6">
         <anchor n="B.27.0151.0073a11"/>
         <head>新續高僧傳四集卷第六</head>
         <lb n="0073a13" ed="B"/><p>義解篇弟二之四(正傳十四人　附見九人)</p>
-        <xi:include href="2071-明杭州淨慈寺沙門釋道聯傳物先義_宗靜.xml"/>
-        <xi:include href="2072-明松江普照寺沙門釋居敬傳東源.xml"/>
-        <xi:include href="2073-明杭州龍井寺沙門釋普智傳.xml"/>
-        <xi:include href="2074-明姑蘇延慶寺沙門釋善啟傳.xml"/>
-        <xi:include href="2075-明杭州上天竺沙門釋永顧傳如蘭.xml"/>
-        <xi:include href="2076-明桂林橫州壽佛寺沙門釋應能傳.xml"/>
-        <xi:include href="2077-明雲南雞足山大覺寺沙門釋盡玄傳幻空.xml"/>
+        <xi:include href="2071daoLian道聯.xml"/>
+        <xi:include href="2072juJing居敬.xml"/>
+        <xi:include href="2073puZhi普智.xml"/>
+        <xi:include href="2074shanQi善啟.xml"/>
+        <xi:include href="2075yongGu永顧.xml"/>
+        <xi:include href="2076yingNeng應能.xml"/>
+        <xi:include href="2077jinXuan盡玄.xml"/>
         <xi:include href="2078mingLong明龍.xml"/>
-        <xi:include href="2079-明蘇州華山沙門釋祖住傳大章.xml"/>
-        <xi:include href="2080-明杭州淨慈寺沙門釋大壑傳.xml"/>
-        <xi:include href="2081-明餘杭土橋庵沙門釋圓瓏傳梁覺承_直界.xml"/>
-        <xi:include href="2082-明隰州石室寺沙門釋圓鏡傳.xml"/>
-        <xi:include href="2083-明應天樓霞寺沙門釋真節傳.xml"/>
-        <xi:include href="2084-明塘棲大善寺沙門釋傳如傳.xml"/>
+        <xi:include href="2079zuZhu祖住.xml"/>
+        <xi:include href="2080daHuo大壑.xml"/>
+        <xi:include href="2081yuanLong圓瓏.xml"/>
+        <xi:include href="2082yuanJing圓鏡.xml"/>
+        <xi:include href="2083zhenJie真節.xml"/>
+        <xi:include href="2084chuanRu傳如.xml"/>
       </div>
       <div type="juan" n="7">
         <anchor n="B.27.0151.0079b11"/>
         <head>新續高僧傳四集卷第七</head>
         <lb n="0079b13" ed="B"/><p>義解篇第二之五(正傳八人　附見十二人)</p>
-        <xi:include href="2085-明金陵寶華山釋洪恩傳.xml"/>
-        <xi:include href="2086-明嘉興東禪寺沙門釋明得傳百川海_妙峰覺.xml"/>
+        <xi:include href="2085hongEn洪恩.xml"/>
+        <xi:include href="2086mingDe明得.xml"/>
         <xi:include href="2087daHui大惠.xml"/>
         <xi:include href="2088-明雲南雞足山放光寺沙門釋禪傳.xml"/>
         <xi:include href="2089-明餘杭徑山寺沙門釋圓澄傳.xml"/>

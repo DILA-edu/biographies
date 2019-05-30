@@ -138,7 +138,6 @@
     </linkGrp>
     <linkGrp>
         <link targets="#0112a08 #0112a13"/>
-        <ptr target="#A002188" type="person"/>
         <ptr target="#A000750" type="person"/>
         <ptr target="#PL000000048268" type="place"/>
     </linkGrp>

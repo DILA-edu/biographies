@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="義解" xml:id="gsz0074b02shiJuJing"><lb
+ed="B" n="0074b02"/><anchor n="B.27.0151.0074b02"/><head>明松江普照寺沙門<persName key="A008281">釋居敬</persName>傳<persName type="secondary" key="A008283">東源</persName></head><lb
+ed="B" n="0074b03"/><p xml:id="pB27p0074b0301"><persName key="A008281">釋居敬</persName>，字<persName key="A008281">心淵</persName>，別號<persName key="A008281">蘭雪</persName>。學通內外，善屬文，精嚴律部。禮金陵<lb
+ed="B" n="0074b04"/>大報恩寺<persName key="A012732">一雨</persName>，後參杭州集慶寺<persName key="A008283">東源</persName>，於懺摩堂居第一座，從<lb
+ed="B" n="0074b05"/>而講《周易》。永樂初奉詔校大藏經，預修會典。已而住持上海廣<lb
+ed="B" n="0074b06"/>福講寺，遷松江普照，大開法席，垂十餘載。建大雄殿、海月堂、三<lb
+ed="B" n="0074b07"/>解脫門，廊廡重軒，精舍香積，煥然新之。七眾瞻仰，道風大扇。</p>
+    <linkGrp>
+        <link targets="#0074b03 #0074b04"/>
+        <ptr target="#A008281" type="person"/>
+        <ptr target="#A012732" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0074b04 #0074b05"/>
+        <ptr target="#A008281" type="person"/>
+        <ptr target="#A008283" type="person"/>
+    </linkGrp>
+</div>

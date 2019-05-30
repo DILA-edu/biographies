@@ -18,72 +18,54 @@
         <ptr target="#A000750" type="person"/>
         <ptr target="#PL000000055433" type="place"/>
     </linkGrp>
-
-
     <linkGrp>
         <link targets="#0337c14 #0337c17"/>
         <ptr target="#A000750" type="person"/>
         <ptr target="#A002182" type="person"/>
         <ptr target="#PL000000049249" type="place"/>
     </linkGrp>
-
-
     <linkGrp>
         <link targets="#0337c24 #0338a11"/>
         <ptr target="#A000750" type="person"/>
         <ptr target="#PL000000048268" type="place"/>
     </linkGrp>
-
     <linkGrp>
         <link targets="#0338a11 #0338a16"/>
         <ptr target="#A000750" type="person"/>
         <ptr target="#PL000000048367" type="place"/>
     </linkGrp>
-
-
     <linkGrp>
         <link targets="#0338a17 #0338a20"/>
         <ptr target="#A000750" type="person"/>
         <ptr target="#PL000000048280" type="place"/>
     </linkGrp>
-
-
     <linkGrp>
         <link targets="#0338a20 #0338a26"/>
         <ptr target="#A000750" type="person"/>
         <ptr target="#PL000000048734" type="place"/>
     </linkGrp>
-
-
     <linkGrp>
         <link targets="#0338a29 #0338b11"/>
         <ptr target="#A000750" type="person"/>
         <ptr target="#PL000000020455" type="place"/>
     </linkGrp>
-
-
     <linkGrp>
         <link targets="#0338b11 #0338b15"/>
         <ptr target="#A000750" type="person"/>
         <ptr target="#A002374" type="person"/>
         <ptr target="#PL000000021115" type="place"/>
     </linkGrp>
-
     <linkGrp>
         <link targets="#0338b15 #0338b18"/>
         <ptr target="#A000750" type="person"/>
         <ptr target="#A000441" type="person"/>
         <ptr target="#PL000000010767" type="place"/>
     </linkGrp>
-
-
     <linkGrp>
         <link targets="#0338b23 #0338b24"/>
         <ptr target="#A000750" type="person"/>
         <ptr target="#PL000000027715" type="place"/>
     </linkGrp>
-
-
     <linkGrp>
         <link targets="#0337c05 #0337c06"/>
         <ptr target="#A000750" type="person"/>
