@@ -241,8 +241,8 @@
         <ptr target="#A005838" type="person"/>
         <ptr target="#PL000000049245" type="place"/>
     </linkGrp>
-	<linkGrp>
-        <link targets="#0449a19 #0449a21"/>
+	<linkGrp cert="low">
+	    <link targets="#0449a19 #0449a21"/>
         <ptr target="#A001482" type="person"/>
         <ptr target="#A005838" type="person"/>
     </linkGrp>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0169b03shiKaiYuan"><lb
+ed="B" n="0169b03"/><anchor n="B.27.0151.0169b03"/><head>明衡山南嶽寺沙門<persName key="A042258">釋開緣</persName>傳<persName type="secondary" key="A008337">寶珠</persName><persName type="secondary" key="A042259">圓昂</persName></head><lb
+ed="B" n="0169b04"/><p xml:id="pB27p0169b0401"><persName key="A042258">釋開緣</persName>，字<persName key="A042258">無盡</persName>，順天人。<date notBefore-iso="+1522-02-07" key="j22769962293443" notAfter-iso="+1567-02-18">明嘉靖間</date>與僧<persName key="A008337">寶珠</persName>同遊南嶽，初棲明<lb
+ed="B" n="0169b05"/>月峯，又得花藥僧元章山莊於水參峰之麓，居四十餘年。草衣<lb
+ed="B" n="0169b06"/>木食，悟佛心印，年七十坐化。弟子<persName key="A042259">圓昂</persName>，字<persName key="A042259">遜庵</persName>，衡陽人。祝髮花<lb
+ed="B" n="0169b07"/>藥寺，參南嶽<persName key="A042258">無盡</persName>，遂嚴戒律，習教明宗，玅通玄悟。曾在南嶽建<lb
+ed="B" n="0169b08"/>雲龍寺。以<date from-iso="+1592-02-13" key="j23025692302922" to-iso="+1593-01-31">萬曆壬辰</date>入寂，葬小松山。武陵<persName key="A008115">龍德孚</persName>銘其塔曰：「南<lb
+ed="B" n="0169b09"/>嶽胡來？西天胡去？丕振宗風，洪沾法雨；五葉有傳，一葦可渡；無<lb
+ed="B" n="0169b10"/>生無滅，何去何住？勗哉後人，永修禪土。」</p>
+    <linkGrp>
+        <link targets="#0169b04 #0169b04"/>
+        <ptr target="#A042258" type="person"/>
+        <ptr target="#A008337" type="person"/>
+        <ptr target="#j22769962293443" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0169b06 #0169b07"/>
+        <ptr target="#A042258" type="person"/>
+        <ptr target="#A042259" type="person"/>
+    </linkGrp>
+</div>

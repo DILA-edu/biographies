@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="雜識" xml:id="gsz0460b10shiFaZhi"><lb
+ed="B" n="0460b10"/><anchor n="B.27.0151.0460b10"/><head>清南嶽石浪庵沙門<persName key="A022518">釋法智</persName>傳<persName type="secondary" key="A041030">異目宗</persName></head><lb
+ed="B" n="0460b11"/><p xml:id="pB27p0460b1101"><persName key="A022518">釋法智</persName>，字<persName key="A022518">破門</persName>，維揚人，莫詳其族姓。初來衡山，結茅下火場庵，<lb
+ed="B" n="0460b12"/>名<persName key="A022518">石浪</persName>，工草書，亦有詩名。與樞巡<persName key="A043014">彭禹峰</persName>友善。或云<persName key="A022518">法智</persName>初習<lb
+ed="B" n="0460b13"/>若行<!-- 阿蘭若行？ -->，沈於厨飪，嘗以鐵鉗畫其門扉，效<persName key="A014141">懷素</persName>體，歲月浸淫，扉為<lb
+ed="B" n="0460b14"/>之破，書法遂入妙品，時人因號曰<persName key="A022518">破門</persName>。又<persName key="A041030">異目宗</persName>禪師者，江西<lb
+ed="B" n="0460b15"/>人。居南嶽上封寺，偶夜乘月登絕頂，偈云：「孤迥迥，明歷歷<!-- 厯 -->，料得<lb
+ed="B" n="0460b16"/>幾人夢覺知，不是山僧消，眼閉清光空，過夜深時，禪理清澈，心<lb
+ed="B" n="0460b17"/>與景超。」自是大興祖席。湖湘<persName key="A041030">宗</persName>之得法弟子四人：<persName key="A043015">正庵統</persName>、<persName key="A043016">源庵<lb
+ed="B" n="0460b18"/>本</persName>、<persName key="A043017">綸庵經</persName>、<persName key="A043018">裔庵興</persName>，均有德聲，《語錄》傳世。</p>
+    <linkGrp>
+        <link targets="#0460b12 #0460b12"/>
+        <ptr target="#A022518" type="person"/>
+        <ptr target="#A043014" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0460b17 #0460b18"/>
+        <ptr target="#A041030" type="person"/>
+        <ptr target="#A043015" type="person"/>
+        <ptr target="#A043016" type="person"/>
+        <ptr target="#A043017" type="person"/>
+        <ptr target="#A043018" type="person"/>
+    </linkGrp>
+</div>

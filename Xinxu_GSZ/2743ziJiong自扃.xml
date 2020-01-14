@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="雜識" xml:id="gsz0455b11shiZiJiong"><lb
+ed="B" n="0455b11"/><anchor n="B.27.0151.0455b11"/><head>清虎邱雲巖寺沙門<persName key="A016084">釋自扃</persName>傳</head><lb
+ed="B" n="0455b12"/><p xml:id="pB27p0455b1201"><persName key="A016084">釋自扃</persName>，字<persName key="A016084">道開</persName>，號<persName key="A016084">闓庵</persName>，姓周氏，吳人。出家虎邱，詩如<persName key="A018691">石田</persName>、畫宗<lb
+ed="B" n="0455b13"/><persName key="A042987">巨然</persName>。師事<persName key="A001971">蒼雪徹</persName>、<persName key="A000658">汰如河</persName>，通賢首、慈恩二宗旨。歸講《圓覺》於虎<lb
+ed="B" n="0455b14"/>邱，講《涅槃》於華亭，講《楞伽》於武塘，妙義雲委，如缾瀉水。<date from-iso="+1652-07-06" key="j23246282324656" to-iso="+1652-08-03">順治壬<lb
+ed="B" n="0455b15"/>辰六月</date>，自檇李歸虎邱東小庵，屬疾數日。邀<persName key="A001971">蒼</persName>公坐榻前，手書<lb
+ed="B" n="0455b16"/>訣別，有曰：「一事無成，五十二載，一場懡<g ref="#CB01334">㦬</g><!-- 面慚 -->，雙手拓開。」志氣清明，<lb
+ed="B" n="0455b17"/>字畫端好，<anchor xml:id="beg_205" type="cb-app"/>斂<anchor xml:id="end_205"/>衣端容，擲筆而逝，塔在庵右。其徒<persName key="A042988">文圭</persName>謁虞山<persName key="A001834">錢<lb
+ed="B" n="0455b18"/>謙益</persName>為撰塔銘。</p>
+    <linkGrp>
+        <link targets="#0455b13 #0455b13"/>
+        <ptr target="#A016084" type="person"/>
+        <ptr target="#A001971" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0455b13 #0455b13"/>
+        <ptr target="#A016084" type="person"/>
+        <ptr target="#A000658" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0455b14 #0455b16"/>
+        <ptr target="#A016084" type="person"/>
+        <ptr target="#A001971" type="person"/>
+        <ptr target="#j23246282324656" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0455b17 #0455b18"/>
+        <ptr target="#A016084" type="person"/>
+        <ptr target="#A042988" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0455b17 #0455b18"/>
+        <ptr target="#A001834" type="person"/>
+        <ptr target="#A042988" type="person"/>
+    </linkGrp>
+</div>

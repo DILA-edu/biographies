@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="義解" xml:id="gsz0099b05shiChaoJing"><lb
+ed="B" n="0099b05"/><anchor n="B.27.0151.0099b05"/><head>清四明天童寺沙門<persName key="A021807">釋超靜</persName>傳<persName type="secondary" key="A009314">元盛</persName></head><lb
+ed="B" n="0099b06"/><p xml:id="pB27p0099b0601"><persName key="A021807">釋超靜</persName>，字<persName key="A021807">冷崖</persName>，姓李氏，昌化人也。幼有異稟，素懷出俗志。薙染<lb
+ed="B" n="0099b07"/>後，首參<persName key="A016242">湛菴常</persName>於南廣。後依<persName key="A010705">山曉晢</persName>於佛日，入室司香，隨至天<lb
+ed="B" n="0099b08"/>童。歷年既久，始受記莂。首眾山中，更號<persName key="A021807">柏堂</persName>。後受姚江東山請，<lb
+ed="B" n="0099b09"/>開法三年，脩復殿宇，四眾悅服。因<persName key="A010705">晢</persName>養病中峰，郡守<persName key="A042666">萊嵩李煦</persName><lb
+ed="B" n="0099b10"/>延<persName key="A021807">靜</persName>代座說法。<persName key="A021807">靜</persName>律己臨眾，惟一嚴厲，禪規整肅，海內嚮風。凡<lb
+ed="B" n="0099b11"/>作務之勞，以身先之，不異首眾。時也<persName key="A010705">晢</persName>寂，後守龕一載。因抱疴<lb
+ed="B" n="0099b12"/>欲謝去，<persName key="A042666">李<roleName>守</roleName></persName>又延，同參<persName key="A009314">元盛</persName>理院事，<persName key="A021807">靜</persName>得息肩，不旬日怡然而<lb
+ed="B" n="0099b13"/>化，塔於幻智菴後。有《二會錄》行世。<persName key="A009314">盛</persName>字<persName key="A009314">慰弘</persName>，姓沈氏，桐鄉人也。<lb
+ed="B" n="0099b14"/>家世儒門，天資穎異，有志向上。既從薙染，勤求梵冊。而目光近<lb
+ed="B" n="0099b15"/>覷，闇室中能一目數行。著作蒼古<!-- 蒼勁古樸 -->，時謂<persName key="A008833">杼山</persName>再世，因號<persName key="A009314">杼山</persName>。聞<lb
+ed="B" n="0099b16"/><persName key="A010705">山曉皙</persName>闡化佛日，乃往參謁。<persName key="A010705">皙</persName>甚器<ref type="person" target="#A009314">之</ref>，命為內記。後隨往天童，<lb
+ed="B" n="0099b17"/>典記室。尋開法於佛日，三年退歸，守塔於中峰。及繼席<persName key="A021807">柏堂</persName>，辛<lb
+ed="B" n="0099b18"/>勞八載，<choice><sic resp="CBETA">錙</sic><corr resp="PC-MB">緇</corr></choice>素趨慕無虛日。退隱於姚江，說偈坐脫，歸葬於玲瓏<lb
+ed="B" n="0099b19"/>南山之麓。有《二會錄》、《華梵集語》、《杼山詩文集》藏之笥中。</p>
+    <linkGrp>
+        <link targets="#0099b07 #0099b07"/>
+        <ptr target="#A021807" type="person"/>
+        <ptr target="#A016242" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0099b07 #0099b07"/>
+        <ptr target="#A021807" type="person"/>
+        <ptr target="#A010705" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0099b09 #0099b10"/>
+        <ptr target="#A021807" type="person"/>
+        <ptr target="#A042666" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0099b12 #0099b13"/>
+        <ptr target="#A021807" type="person"/>
+        <ptr target="#A042666" type="person"/>
+        <ptr target="#A009314" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0099b15 #0099b16"/>
+        <ptr target="#A010705" type="person"/>
+        <ptr target="#A009314" type="person"/>
+    </linkGrp>
+</div>

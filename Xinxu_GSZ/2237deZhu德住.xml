@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0172a19shiDeZhu"><lb
+ed="B" n="0172a19"/><anchor n="B.27.0151.0172a19"/><head>明雲南雞足山聖峰寺沙門<persName key="A012003">釋德住</persName>傳<persName type="secondary" key="A012822">興徹</persName><persName type="secondary" key="A010053">祖復</persName></head><lb
+ed="B" n="0172a20"/><p xml:id="pB27p0172a2001"><persName key="A012003">釋德住</persName>，字<persName key="A012003">寶山</persName>，姓張氏，劍川人也。童行超然，不為俗染。<date from-iso="+1563-02-03" key="j22919672292321" to-iso="+1564-01-23">明嘉靖<pb ed="B" xml:id="B27.0151.0172b" n="0172b"/><lb
+ed="B" n="0172b01"/>癸亥</date>入雞足山受度。初居聖峯，究心宗學。忽一笠飄然，行腳中<lb
+ed="B" n="0172b02"/>州至伏<anchor xml:id="beg017201"/><choice><sic resp="CBETA">告</sic><corr resp="PC-MB">牛</corr></choice><anchor xml:id="end017201"/>山。主僧北人，格於語音，閉門不納。<persName key="A012003">山</persName>因立一足，亭亭<lb
+ed="B" n="0172b03"/>門外，寂然一定，經七晝夜，立處不偏不倚，不移尺寸。寺僧嘗布<lb
+ed="B" n="0172b04"/>灰驗其左右，眾始歎異。後額其處曰「雲南鐵足羅漢」云。及還滇<lb
+ed="B" n="0172b05"/>隱幻住庵。值聖峰災，與<persName key="A007760">妙峰</persName>分道叩募，復恢舊基，重搆新宇。年<lb
+ed="B" n="0172b06"/>至耄耋始化。<persName key="A012822">興徹</persName>者，字<persName key="A012822">大空</persName>，洱海人。依<persName key="A011983">定堂</persName>祝髮，誓習立禪。終<lb
+ed="B" n="0172b07"/>日不坐，終夜不寢。後往孤鳥寺<!-- 《雞足山志．卷6．太空》：「後往孤島寺，參天竺和尚。」(《中國佛寺史志彙刊》，第3輯，第1冊，頁0395) -->參<persName key="A012875">天竺</persName>，復掩關蕩山，學《楞嚴》於<lb
+ed="B" n="0172b08"/><persName key="A012869">印光</persName>。一定三日，<persName key="A012869">光</persName>訊曰：「得法喜乎？」曰：「如是，如是。」翹一足示之而<lb
+ed="B" n="0172b09"/>無欹斜，<persName key="A012869">光</persName>首肎<!-- 通「肯」 --><ref type="person" target="#A012822">之</ref>。既而入獅子山。一日報眾違別，香煙起處，聞<lb
+ed="B" n="0172b10"/>空中梵聲漸向西去。又<persName key="A010053">祖復</persName>，字<persName key="A010053">野山</persName>，姓朱氏，其先出自晉藩，遠<lb
+ed="B" n="0172b11"/>承國蔭。<persName key="A010053">復</persName>雖生於華胤，而厭棄俗榮。明萬曆初遊匡廬、茅山，周<lb
+ed="B" n="0172b12"/>覽名勝，尋稅髮。至滇，會楚雄歲旱，<persName key="A010053">復</persName>為祈雨，甘霖立霈，士民德<lb
+ed="B" n="0172b13"/><ref type="person" target="#A010053">之</ref>，乃建紫頂禪林。未幾入永昌臺山，更剏金光梵宇。赴京請藏，<lb
+ed="B" n="0172b14"/>以鎮此山。嘗爇香指上，焚禱佛前，十之八九。平生不設臥具，翹<lb
+ed="B" n="0172b15"/>然達旦，故人號為<persName key="A010053">立禪</persName>。足不蹈戶者數年，及聞明社傾覆，清兵<lb
+ed="B" n="0172b16"/>入關，遂絕粒但飲清水。儳焉三七，說偈而化。遺言：「<g ref="#CB15663">𫎓</g>身香桶，有<lb
+ed="B" n="0172b17"/>桶篐三裂，<ref type="person" target="#A010053">吾</ref>當再來」之識。後其篐二裂，寺僧竟封其塔。</p>
+    <linkGrp>
+        <link targets="#0172b05 #0172b05"/>
+        <ptr target="#A012003" type="person"/>
+        <ptr target="#A007760" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0172b06 #0172b06"/>
+        <ptr target="#A012822" type="person"/>
+        <ptr target="#A011983" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0172b07 #0172b07"/>
+        <ptr target="#A012822" type="person"/>
+        <ptr target="#A012875" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0172b07 #0172b09"/>
+        <ptr target="#A012822" type="person"/>
+        <ptr target="#A012869" type="person"/>
+    </linkGrp>
+</div>

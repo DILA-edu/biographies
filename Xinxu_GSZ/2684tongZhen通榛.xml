@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0425a09shiTongZhen"><lb
+ed="B" n="0425a09"/><anchor n="B.27.0151.0425a09"/><head>清孤嶼江心寺沙門<persName key="A042251">釋通榛</persName>傳</head><lb
+ed="B" n="0425a10"/><p xml:id="pB27p0425a1001"><persName key="A042251">釋通榛</persName>，字<persName key="A042251">茂霞</persName>，別號<persName key="A042251">全愚</persName>，姓姜氏，永嘉人也。家世儒素，代有聞<lb
+ed="B" n="0425a11"/>達。<persName key="A042251">榛</persName>幼而穎悟，五歲失怙，母氏憫其孤貧，嘗戲謂之曰：「<ref type="person" target="#A042251">汝</ref>願棲<lb
+ed="B" n="0425a12"/>空門為苾蒭不耶？」<persName key="A042251">榛</persName>即欣然領諾，知其具有佛性，送入江心寺。<lb
+ed="B" n="0425a13"/>時<persName key="A042250">正庵</persName>禪師方主席，見<ref type="person" target="#A042251">其</ref>行止端詳，審為法器，遂與剃度。及<persName key="A042250">正<lb
+ed="B" n="0425a14"/>庵</persName>寂，因嗣席焉，時年二十二。虔意焚修，晨鐘暮梵，積行不怠。初<lb
+ed="B" n="0425a15"/>西塔荒圯，惄焉傷之，矢願重興。<date from-iso="+1789-01-26" key="j23745052374888" to-iso="+1790-02-13">乾隆五十四年</date>，制府<persName key="A042898">伍</persName>公、中丞<lb
+ed="B" n="0425a16"/><persName key="A042899">琅</persName>公、<persName key="A042900">福</persName>公先後來甌，感其精誠，共捐廉俸，守宰以下同獻金帛，<lb
+ed="B" n="0425a17"/>寶殿更新。<persName key="A042898">伍</persName>公三至江心，嘉其志也。至龍翔、興慶兩剎，均自捨<lb
+ed="B" n="0425a18"/>衣，資興築補葺，不假斗粟尺布之助而事自集，以是人服其勤。<lb
+ed="B" n="0425a19"/>晚卜塔於福昌寺左，寂乃藏焉！<persName key="A042901">陳豐</persName>為之銘，文具《山志》。</p>
+    <linkGrp>
+        <link targets="#0425a13 #0425a13"/>
+        <ptr target="#A042251" type="person"/>
+        <ptr target="#A042250" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0425a15 #0425a16"/>
+        <ptr target="#A042251" type="person"/>
+        <ptr target="#A042898" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0425a15 #0425a16"/>
+        <ptr target="#A042251" type="person"/>
+        <ptr target="#A042899" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0425a15 #0425a16"/>
+        <ptr target="#A042251" type="person"/>
+        <ptr target="#A042900" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0425a17 #0425a17"/>
+        <ptr target="#A042251" type="person"/>
+        <ptr target="#A042898" type="person"/>
+    </linkGrp>
+</div>

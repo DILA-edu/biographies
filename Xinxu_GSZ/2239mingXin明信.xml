@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0174b12shiMingXin"><lb
+ed="B" n="0174b12"/><anchor n="B.27.0151.0174b12"/><head>明燕京吉祥院沙門<persName key="A008309">釋明信</persName>傳</head><lb
+ed="B" n="0174b13"/><p xml:id="pB27p0174b1301"><persName key="A008309">釋明信</persName>，字<persName key="A008309">無極</persName>，姓宋氏，沙河人也。垂髫毿毿，即捨塵凡，禮順德<lb
+ed="B" n="0174b14"/><persName key="A042774">天寧深</persName>為師。稍長以生死為憂，<ref type="date" target="#j22777342278086">年十三</ref>即請<ref type="person" target="#A042774">本師</ref>以行腳事，往<lb
+ed="B" n="0174b15"/>牛山，入大火，聚精勤，刻苦日夜煆煉者，二十餘年。塵勞雖覺蹔<lb
+ed="B" n="0174b16"/>謝，然未有所悟入。因覲歸順德，至西山上棧坪，迥絕人跡，潛居<lb
+ed="B" n="0174b17"/>六載，一食朝昏，諸念頓息。頃之即參諸方，北走京師，登壇受具。<lb
+ed="B" n="0174b18"/>復隱銀山之中峰，避影三載，日以橡栗為食，專注禪觀。時忽心<lb
+ed="B" n="0174b19"/>境皆空，根塵頓脫，豁然開悟，自覺當體無依。時<persName key="A019963">翠峰</persName>據臨濟正<lb
+ed="B" n="0174b20"/>宗，令開法於都門，因求印證。機緣契合，尋即謝去，隱於京西金<pb ed="B" xml:id="B27.0151.0175a" n="0175a"/><lb
+ed="B" n="0175a01"/>山吉祥院以長養。為懷堅持孤硬，澹然若無所寓。衲衣鷇食，二<lb
+ed="B" n="0175a02"/>十餘年。內府太監<persName key="A009631">張暹</persName>南<!-- 《憨山老人夢遊集》卷22：「張公暹輩」(CBETA, X73, no. 1456, p. 622, b16) -->，聞而謁<ref type="person" target="#A008309">之</ref>，捐金重新梵宇，諸方學者<lb
+ed="B" n="0175a03"/><anchor xml:id="beg017501"/><choice><sic resp="CBETA">口</sic><corr resp="PC-MB">日</corr></choice><anchor xml:id="end017501"/>益景從。居無何，念家山寥落，有歸與之歎。杖策西遊祖塔，以<lb
+ed="B" n="0175a04"/>謝度脫。未幾尋歸吉祥，滅影人世。而水雲四來，道風益振。一日<lb
+ed="B" n="0175a05"/>無恙，召眾說偈，危坐而逝，<date when-iso="+1574-03-09" key="j22960192296019">明萬曆二年二月七日</date>也。壽六十有<lb
+ed="B" n="0175a06"/>三，臘三十有奇。弟子奉荼毗禮，收靈骨葬於西嶺之隱寂石洞。<lb
+ed="B" n="0175a07"/><persName key="A001681">憨山</persName>為之碑記。</p>
+    <linkGrp>
+        <link targets="#0174b13 #0174b14"/>
+        <ptr target="#A008309" type="person"/>
+        <ptr target="#A042774" type="person"/>
+        <ptr target="#j22777342278086" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0174b19 #0174b20"/>
+        <ptr target="#A008309" type="person"/>
+        <ptr target="#A019963" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0174b19 #0174b20"/>
+        <ptr target="#A008309" type="person"/>
+        <ptr target="#A019963" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0175a02 #0175a02"/>
+        <ptr target="#A008309" type="person"/>
+        <ptr target="#A009631" type="person"/>
+    </linkGrp>
+</div>

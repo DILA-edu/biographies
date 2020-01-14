@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0420a13shiXingZheng"><lb
+ed="B" n="0420a13"/><anchor n="B.27.0151.0420a13"/><head>清杭州靈隱寺沙門<persName key="A015890">釋性證</persName>傳</head><lb
+ed="B" n="0420a14"/><p xml:id="pB27p0420a1401"><persName key="A015890">釋性證</persName>，字<persName key="A015890">無新</persName>，姓鄧氏，錢江人。早歲從靈隱<persName key="A003563">易庵</persName>薙髮，相依日<lb
+ed="B" n="0420a15"/>久，重其樸誠，以法器待<ref type="person" target="#A015890">之</ref>，密傳衣缽。<persName key="A015890">證</persName>復韜采<!-- 喻潛藏 -->匿光，徧叩老宿，<lb
+ed="B" n="0420a16"/>具聞法要。值靈隱重築廢宇，締構煩艱，工徒千指，仰食缾盋。丹<lb
+ed="B" n="0420a17"/>雘<!-- 紅漆、藻飾 -->既畢，首復宋直指堂<!-- 《武林梵志》卷5：「（萬曆）辛亥（1611）僧性證重建禪堂」(CBETA, B29, no. 161, p. 578, b1) -->。於是飛來峰坊、廻龍橋、密因閣、冷泉、石<lb
+ed="B" n="0420a18"/>門諸勝，皆一時煥新。而<persName key="A001394"><anchor xml:id="beg042002"/><choice><sic resp="CBETA">棲雲</sic><corr resp="PC-MB">雲棲</corr></choice><anchor xml:id="end042002"/></persName><!-- 《武林靈隱寺志．卷6．無新老人行業記》：「是時雲棲介如」(《中國佛寺史志彙刊》，第1輯，第23冊，頁0339) -->、<persName key="A022570">介如</persName>、<persName key="A000352">古心</persName>、<persName key="A001681">憨山</persName>率樂就寺，弘法講<lb
+ed="B" n="0420a19"/>席之盛，甲於東南。晚歲靈鷲隙起，潛叩檀護，盡力保持，幸免摧<lb
+ed="B" n="0420a20"/>剝，改易輪殿，重新<persName key="A017923">韓蘄王</persName>翠亭，歲補九里松。晚猶不倦，更護飛<pb ed="B" xml:id="B27.0151.0420b" n="0420b"/><lb
+ed="B" n="0420b01"/>來竹樹於斫伐之際，存古禪堂於崩敗之餘，改廻龍橋於山洪<lb
+ed="B" n="0420b02"/>未發之日，五易大殿柱，所費不貲。致峨眉老僧，萬里寄語，凡所<lb
+ed="B" n="0420b03"/>建樹，出自實行。嘗對人言：「<ref type="person" target="#A015890">我</ref>來時赤條條，去時豈容一絲自挂？」<lb
+ed="B" n="0420b04"/>故破衲而外，無長物也。生平於持名反念，默自體會，不復以機<lb
+ed="B" n="0420b05"/>鋒自顯。化去之日，徐疊雙趺，有「六十四年打攪常住」之偈，可謂<lb
+ed="B" n="0420b06"/>踐履純篤矣。以<date when-iso="+1695-06-16" key="j23403132340313">康熙乙亥五月五日</date>示寂<!-- 陳繼儒卒於1639，《武林靈隱寺志．卷6．無新老人行業記》：「（崇禎）乙亥（1635）秋初，怪師不至，則先期已於端午日坐逝矣。」(《中國佛寺史志彙刊》，第1輯，第23冊，頁0339)，作康熙，誤也。 -->，塔于北峰之麓。<persName key="A004613">陳繼<lb
+ed="B" n="0420b07"/>儒</persName>為作行業記。</p>
+    <linkGrp>
+        <link targets="#0420a14 #0420a14"/>
+        <ptr target="#A015890" type="person"/>
+        <ptr target="#A003563" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0420a18 #0420a19"/>
+        <ptr target="#A015890" type="person"/>
+        <ptr target="#A001394" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0420a18 #0420a19"/>
+        <ptr target="#A015890" type="person"/>
+        <ptr target="#A022570" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0420a18 #0420a19"/>
+        <ptr target="#A015890" type="person"/>
+        <ptr target="#A000352" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0420a18 #0420a19"/>
+        <ptr target="#A015890" type="person"/>
+        <ptr target="#A001681" type="person"/>
+    </linkGrp>
+</div>

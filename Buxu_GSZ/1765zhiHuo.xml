@@ -13,7 +13,7 @@
         <lb ed="X" n="0462c24"/>隱之所。或慕迫之不已。至逃入海嶼以避之。<date key="j22050072205371" when-iso="1325">春秋五<lb ed="X" n="0463a01"/>十一</date>。國主<persName key="A022236">後醍醐天王</persName>。強起師主<placeName key="PL000000055772">南禪</placeName>。入見引坐。師
         <lb ed="X" n="0463a02"/>言所志求退。王曰。吾心非有他。欲朝夕問道耳。及王
         <lb ed="X" n="0463a03"/>妃薨。強師再入<placeName key="PL000000055772">南禪</placeName>。請宣說大戒。執弟予禮彌謹。賜
-        <lb ed="X" n="0463a04"/>國師之號。王即世。<persName key="A022237">太倉天王</persName>。復從師受戒。願為弟子。
+        <lb ed="X" n="0463a04"/>國師之號。王即世。<persName key="A034493">太倉天王</persName>。復從師受戒。願為弟子。
         <lb ed="X" n="0463a05"/>敷宣之際。有二星降於庭。光如白日。兩宮國母。請師
         <lb ed="X" n="0463a06"/>於<placeName key="PL000000055773">仙洞</placeName>受五戒。廷議重師名德。復強師入<placeName key="PL000000055774">天龍</placeName>。錫師
         <lb ed="X" n="0463a07"/>號<persName key="A001605">正覺心宗普濟</persName>。遺以手書。其略曰。道振三朝。名飛
@@ -94,7 +94,7 @@
     <linkGrp>
         <link targets="#0463a04 #0463a05"/>
         <ptr target="#A001605" type="person"/>        
-        <ptr target="#A022237" type="person"/>
+        <ptr target="#A034493" type="person"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0463a05 #0463a06"/>

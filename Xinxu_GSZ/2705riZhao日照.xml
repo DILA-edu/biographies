@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0436a16shiRiZhao"><lb
+ed="B" n="0436a16"/><anchor n="B.27.0151.0436a16"/><head>清維揚福緣寺沙門<persName key="A042460">釋日照</persName>傳</head><lb
+ed="B" n="0436a17"/><p xml:id="pB27p0436a1701"><persName key="A042460">釋日照</persName>，字<persName key="A042460">信林</persName>，姓孫氏。生而穎異，託迹桑門。<ref type="date" target="#j24095882409941">年十二</ref>依福善庵<lb
+ed="B" n="0436a18"/><persName key="A042979">谷山</persName>薙染，內外經典，銳志研求。<date from-iso="+1894-02-06" key="j24128662413219" to-iso="+1895-01-25">光緒二十年</date>受具於金陵寶華<lb
+ed="B" n="0436a19"/><persName key="A042980">浩淨</persName>，律學精勤，威儀無忒。旋於焦山講筵，諦聽真義。金山宗匠，<lb
+ed="B" n="0436a20"/>參叩玄旨，由是教觀雙明，禪心獨印。復聞<persName key="A014672">通智</persName>法師講《楞嚴》於<pb ed="B" xml:id="B27.0151.0436b" n="0436b"/><lb
+ed="B" n="0436b01"/>維揚萬壽寺，徑往相依。止息十年，忽生惺悟，刺指書《華嚴經》八<lb
+ed="B" n="0436b02"/>十一卷、《法華經》七卷，血痕猶在，悲願益深。更禮阿育王<persName key="A002799">釋迦</persName>舍<lb
+ed="B" n="0436b03"/>利，然指兩度，信心潑潑，了無慟苦。嘗慨念祖庭，棟屋頹敗，力任<lb
+ed="B" n="0436b04"/>修建，煥然改觀。尋徇眾請，主席揚州福緣八載。辛勤重造山門、<lb
+ed="B" n="0436b05"/>河堤、禪堂、經樓、淨室、廊廡七十餘間，將次落成。忽遇狂飇，樓閣<lb
+ed="B" n="0436b06"/>傾覆，忿不欲生，赴水幾沒，以救得甦。復感檀助，劬勞三載，卒復<lb
+ed="B" n="0436b07"/>舊模。以<date when-iso="+1921-10-03" key="j24229662422966">辛酉九月三日</date>示寂，春秋四十有八，僧臘三十有六。<persName key="A042460">照</persName><lb
+ed="B" n="0436b08"/>戒行森嚴，生平無倦，《楞嚴》十卷，晨夕諷誦，寒暑罔間。於禪教蓮<lb
+ed="B" n="0436b09"/>宗，皆得其奧念佛利。生望人甚深，開導法化，如瓶瀉水，傾心造<lb
+ed="B" n="0436b10"/>福，財不私蓄，尤為僧所難云。</p>
+    <linkGrp>
+        <link targets="#0436a17 #0436a18"/>
+        <ptr target="#A042460" type="person"/>
+        <ptr target="#A042979" type="person"/>
+        <ptr target="#j24095882409941" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0436a18 #0436a19"/>
+        <ptr target="#A042460" type="person"/>
+        <ptr target="#A042980" type="person"/>
+        <ptr target="#j24128662413219" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0436a20 #0436b01"/>
+        <ptr target="#A042460" type="person"/>
+        <ptr target="#A014672" type="person"/>
+    </linkGrp>
+</div>

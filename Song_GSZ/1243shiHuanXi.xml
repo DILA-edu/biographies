@@ -4,7 +4,7 @@ ed="T" n="0891c05"/><anchor n="T.50.2061.0891c05"/><head><date from-iso="+0618-0
 ed="T" n="0891c06"/><persName key="A008834">釋歡喜</persName>，不知何許人也。性無羈束，慈忍寬<lb
 ed="T" n="0891c07"/>和，人未甞見其慍色，故號之焉。觀國之光，<lb
 ed="T" n="0891c08"/>至于<placeName key="PL000000042189">京輦</placeName>，貴達下民延之，少見違拒。言語<lb
-ed="T" n="0891c09"/>不常，事迹難測。<persName key="A001671">德宗皇帝</persName>聞而重之。<date key="j20118412012194" from-iso="+0796-02-18" to-iso="+0797-02-05"><name><choice resp="PC-JK-MB"><sic>興</sic><corr>貞</corr></choice>元</name><lb
+ed="T" n="0891c09"/>不常，事迹難測。<persName key="A004215">德宗皇帝</persName>聞而重之。<date key="j20118412012194" from-iso="+0796-02-18" to-iso="+0797-02-05"><name><choice resp="PC-JK-MB"><sic>興</sic><corr>貞</corr></choice>元</name><lb
 ed="T" n="0891c10"/>十二年</date><ptr target="#n743"/>勅<placeName key="PL000000042327">永泰寺</placeName>置戒壇度僧，時<persName key="A008834">喜</persName>與保<lb
 ed="T" n="0891c11"/>唐禪宗，別勅令受戒，緇伍榮之。至<date key="j20120052012005" when-iso="+0796-07-31">其年六<lb
 ed="T" n="0891c12"/>月十九日</date>，卒于<placeName key="PL000000042327">本寺</placeName>焉。有會稽<placeName key="PL000000013295">雲門寺</placeName><persName key="A013873">釋<lb
@@ -20,7 +20,7 @@ ed="T" n="0891c21"/>焉。</p>
     <linkGrp>
         <link targets="#0891c08 #0891c09"/>
         <ptr target="#A008834" type="person"/>
-        <ptr target="#A001671" type="person"/>
+        <ptr target="#A004215" type="person"/>
         <ptr target="#PL000000042189" type="place"/>
     </linkGrp>
     <linkGrp>

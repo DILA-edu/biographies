@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0167a04shiWenXiu"><lb
+ed="B" n="0167a04"/><anchor n="B.27.0151.0167a04"/><head>明虎邱雲巖寺沙門<persName key="A000178">釋文琇</persName>傳<persName type="secondary" key="A042716">無盡慧</persName><persName type="secondary" key="A024967">滅宗起</persName></head><lb
+ed="B" n="0167a05"/><p xml:id="pB27p0167a0501"><persName key="A000178">釋文琇</persName>，字<persName key="A000178">南石</persName>，姓李氏，崑山人。出家邑之紹隆庵，參法要於<persName key="A014441">行<lb
+ed="B" n="0167a06"/>中仁</persName>，居虎邱，得言外旨。有《續傳燈錄》、四會語行世。<persName key="A042716">慧無盡</persName>者，不<lb
+ed="B" n="0167a07"/>知何許人。<date from-iso="+1368-01-31" key="j22207422231852" to-iso="+1398-07-02">洪武間</date>為虎邱藏主<persName key="A000178">文琇</persName>稱<ref type="person" target="#A042716">其</ref>「戒簡冰清，禪誦勤勇」。<lb
+ed="B" n="0167a08"/>刺血書大乘經，攻苦行澹備。行三寶中事，孜孜弗懈。學教觀於<lb
+ed="B" n="0167a09"/><persName key="A015571">古庭</persName>，聽《楞嚴》於<persName key="A042717">融室</persName>。又從行中究《別傳》之旨。及示身火聚灰燼，<lb
+ed="B" n="0167a10"/>出舍利如粟，其行德之顯驗如此。又僧<persName key="A024967">起</persName>字<persName key="A024967">滅宗</persName>。初住天台華<lb
+ed="B" n="0167a11"/>頂山，來主虎邱。專力宗門，不省俗事。臨終，盡出平生文字，火之。</p>
+    <linkGrp>
+        <link targets="#0167a05 #0167a06"/>
+        <ptr target="#A000178" type="person"/>
+        <ptr target="#A014441" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0167a07 #0167a07"/>
+        <ptr target="#A000178" type="person"/>
+        <ptr target="#A042716" type="person"/>
+        <ptr target="#j22207422231852" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0167a08 #0167a09"/>
+        <ptr target="#A015571" type="person"/>
+        <ptr target="#A042716" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0167a09 #0167a09"/>
+        <ptr target="#A042717" type="person"/>
+        <ptr target="#A042716" type="person"/>
+    </linkGrp>
+</div>

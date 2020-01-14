@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0415a11shiLaoZang"><lb
+ed="B" n="0415a11"/><anchor n="B.27.0151.0415a11"/><head>清五臺山清涼寺沙門<persName key="A011019">釋老藏</persName>傳</head><lb
+ed="B" n="0415a12"/><p xml:id="pB27p0415a1201"><persName key="A011019">釋老藏</persName>者，本曰<persName key="A011019">老藏丹貝</persName>，蒙古大喇嘛，行二字略也。初入衛籍<!-- 軍籍 -->，<lb
+ed="B" n="0415a13"/>為趙氏，居京師，禮崇國寺僧為導師。又嘗師土波<!-- 西藏 -->沙門<persName key="A011020">藍建巴</persName>，<lb
+ed="B" n="0415a14"/>始至清涼居中頂及<placeName key="PL000000005392">羅<anchor xml:id="beg_1cd" type="cb-app"/>睺<anchor xml:id="end_1cd"/></placeName>，結念<!-- 念念不忘 -->所依，數歲不去。後復遠涉土波、<lb
+ed="B" n="0415a15"/>蒙古，於其國語言、文字靡不通曉，更自清涼山歸崇國寺。時清<lb
+ed="B" n="0415a16"/>室龍興，<persName key="A006714">世祖</persName>入關，定鼎燕都，褒崇佛法，雅慕高僧。<date from-iso="+1659-01-23" key="j23270202327403" to-iso="+1660-02-10"><anchor xml:id="beg_1ce" type="cb-app"/>己<anchor xml:id="end_1ce"/>亥歲</date>詔眾<lb
+ed="B" n="0415a17"/>推選清涼山住持，僉舉<persName key="A011019">丹貝</persName>。<date from-iso="+1660-02-11" key="j23274042327757" to-iso="+1661-01-29">庚子</date>卓錫茲山。<date from-iso="+1671-02-09" key="j23314202331774" to-iso="+1672-01-29">辛亥</date>受缽蒞眾，重<lb
+ed="B" n="0415a18"/>葺經堂，遠接水雲，廣護人天，不分畛域。<persName key="A006719">聖祖</persName>御宇，鑾輿西狩，遂<lb
+ed="B" n="0415a19"/>幸斯山。至菩薩頂，則金碧煇煌，筍虡璀璨，花臺寶幢，尊嚴峻肅，<lb
+ed="B" n="0415a20"/>異於他處，獎賚有加。既而奉命監修五頂精藍，悉力殫思，恭恪<pb ed="B" xml:id="B27.0151.0415b" n="0415b"/><lb
+ed="B" n="0415b01"/>從事。<date from-iso="+1684-02-15" key="j23361742336527" to-iso="+1685-02-02">甲子</date>復以陳請山顛大殿，改覆碧琉璃瓦。自山入都，跋履<lb
+ed="B" n="0415b02"/>艱辛，遂成勞瘵，偃臥崇國。乃邀恩眷，日遣御醫調治，終莫能瘳。<lb
+ed="B" n="0415b03"/>及其滅也，賜金存恤。闍維，塔於鳳林谷。生平樸質沖澹，器宇疎<lb
+ed="B" n="0415b04"/>朗，玅解文義，兼工書法。其於學也，專事薰修，蓋息心淨行之流。<lb
+ed="B" n="0415b05"/>以<date from-iso="+1684-06-13" key="j23362932336321" to-iso="+1684-07-11">康熙二十三年甲子五月</date>示寂，春秋五十有三，僧臘四十有<lb
+ed="B" n="0415b06"/>四。<date from-iso="+1685-05-03" key="j23366172336705" to-iso="+1685-07-30">乙丑夏</date>其徒<persName key="A042851">丹巴將泐碣山阿</persName>述其行狀，乞翰林院侍讀學<lb
+ed="B" n="0415b07"/>士錢塘<persName key="A012522">高士奇</persName>為之銘，文具《山志》。</p>
+    <linkGrp>
+        <link targets="#0415a13 #0415a13"/>
+        <ptr target="#A011019" type="person"/>
+        <ptr target="#A011020" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0415a16 #0415a17"/>
+        <ptr target="#A011019" type="person"/>
+        <ptr target="#A006714" type="person"/>
+        <ptr target="#j23270202327403" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0415a18 #0415b01"/>
+        <ptr target="#A011019" type="person"/>
+        <ptr target="#A006719" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0415b06 #0415b06"/>
+        <ptr target="#A042851" type="person"/>
+        <ptr target="#A012522" type="person"/>
+        <ptr target="#j23366172336705" type="time"/>
+    </linkGrp>
+</div>

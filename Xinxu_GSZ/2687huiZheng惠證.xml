@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0426a18shiHuiZheng"><lb
+ed="B" n="0426a18"/><anchor n="B.27.0151.0426a18"/><head>清當陽玉泉寺沙門<persName key="A042290">釋惠證</persName>傳<persName type="secondary" key="A042914">寂清</persName></head><lb
+ed="B" n="0426a19"/><p xml:id="pB27p0426a1901"><persName key="A042290">釋惠證</persName>，字<persName key="A042290">達順</persName>，或云一名<persName key="A042290">眼順</persName>。生有殊質，秀拔倫表。髫齡入玉<lb
+ed="B" n="0426a20"/>泉，從<persName key="A042912">真如</persName>出家，依年進具。參<persName key="A042289">靜然顯遠</persName>，頓悟玄旨。<date from-iso="+1788-02-07" key="j23741512374504" to-iso="+1789-01-25">乾隆五十三<pb ed="B" xml:id="B27.0151.0426b" n="0426b"/><lb
+ed="B" n="0426b01"/>年戊申</date>，繼主玉泉。言行兼修，禪講並弘，近遠眾生，多沾惠慈。寺<lb
+ed="B" n="0426b02"/>旁有大士閣，年久廢落，<persName key="A042290">證</persName>懷耿耿，思復舊觀。<date from-iso="+1796-02-09" key="j23770752377428" to-iso="+1797-01-27">嘉慶初元</date>，當陽<persName key="A042913">汪</persName><lb
+ed="B" n="0426b03"/>令知崇佛旨，<persName key="A042290">證</persName>候<ref type="person" target="#A042913">其</ref>來寺，從容語及，慨焉聽許。不數年間，高閣<lb
+ed="B" n="0426b04"/>巍巍，聳出林際。<date from-iso="+1805-01-31" key="j23803532380735" to-iso="+1806-02-17">十年</date>遠安緇白，以清溪法席迎<ref type="person" target="#A042290">之</ref>，大開講席，力<lb
+ed="B" n="0426b05"/>振三學，徒侶雲從，登堂入室，頗不乏人。以<date when-iso="+1811-03-25" key="j23825972382597">嘉慶十六年三月二<lb
+ed="B" n="0426b06"/>日</date>示偈有：「但得本來心，任他塵與客。」遂悠然而寂，塔象王峰下。<lb
+ed="B" n="0426b07"/>清初有<persName key="A042914">寂清</persName>者，字<persName key="A042914">映月</persName>，居宜都佑聖宮。值兵燹之餘，廟宇灰燼。<lb
+ed="B" n="0426b08"/><persName key="A042914">寂清</persName>披荊翦棘，夙夜不遑，重修殿堂，更廣庭廡，輪奐斯新，美不<lb
+ed="B" n="0426b09"/>勝頌。化時僧臘七十有三。</p>
+    <linkGrp>
+        <link targets="#0426a19 #0426a20"/>
+        <ptr target="#A042290" type="person"/>
+        <ptr target="#A042912" type="person"/>
+        <ptr target="#A042289" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0426b02 #0426b03"/>
+        <ptr target="#A042290" type="person"/>
+        <ptr target="#A042913" type="person"/>
+        <ptr target="#j23770752377428" type="time"/>
+    </linkGrp>
+</div>

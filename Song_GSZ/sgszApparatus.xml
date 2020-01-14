@@ -9895,6 +9895,11 @@
 			<lem wit="【大】">間</lem>
 			<rdg resp="PC-JK-MB" wit="【范】【磧】【宮】">閒</rdg>
 		</app>
+		<app from="beg0887sgsz23" ana="appType0">
+			<lem wit="【大】">羡</lem>
+			<rdg resp="PC-JK-MB" wit="【范】【磧】">羡</rdg>
+			<rdg resp="PC-JK-MB" wit="【宮】">羨</rdg>
+		</app>
 		<app from="beg0888sgsz1" ana="appType3a">
 			<lem wit="【大】">禮</lem>
 			<rdg resp="PC-JK-MB" wit="【范】【磧】【宮】">礼</rdg>

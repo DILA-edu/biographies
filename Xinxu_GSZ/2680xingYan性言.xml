@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0423a14shiXingYan"><lb
+ed="B" n="0423a14"/><anchor n="B.27.0151.0423a14"/><head>清姑蘇治平寺沙門<persName key="A042345">釋性言</persName>傳</head><lb
+ed="B" n="0423a15"/><p xml:id="pB27p0423a1501"><persName key="A042345">釋性言</persName>，字<persName key="A042345">理筠</persName>，姓徐氏，平湖人也。母<persName key="A042886">俞氏</persName>善心慈物，雅信釋經，<lb
+ed="B" n="0423a16"/>含苦茹素，祈佛得子。故稟性柔和，穎異過人。童機玅應，靈感獨<lb
+ed="B" n="0423a17"/>先。幼誦儒書，終懷逸思。及二親終養，益驚旅寄，嘗喟然曰：「幻軀<lb
+ed="B" n="0423a18"/>浮業<!-- 《律宗燈譜》卷8：「幻軀浮脆」(CBETA, B22, no. 118, p. 866, b15) -->，四大非真；堅如鐵石，寧不消磨？」乃投德藏寺<persName key="A042887">雨曇</persName>受染。<date from-iso="+1731-02-07" key="j23533322353685" to-iso="+1732-01-26">雍<lb
+ed="B" n="0423a19"/>正九年</date>登寶華山，稟具於<persName key="A010386">文海</persName>，馥<g ref="#CB33452">󸊬</g><!-- 通「郁」 -->戒芬，威儀棣棣，深見器許，<lb
+ed="B" n="0423a20"/>授以院事。及<persName key="A010386">文海</persName>奉詔入都，大起皇壇，弘戒法源，<persName key="A042345">言</persName>輔弼贊助，<pb ed="B" xml:id="B27.0151.0423b" n="0423b"/><lb
+ed="B" n="0423b01"/>厥功甚鉅。隨<persName key="A010386">海</persName>還山，分席天隆，勤劬三載。<date from-iso="+1760-02-17" key="j23639342364287" to-iso="+1761-02-04">乾隆二十五年</date>，江蘇<lb
+ed="B" n="0423b02"/>巡撫<persName key="A042888">陳</persName>公請主治平古剎。時蔓草荒煙，淒清滿目。<persName key="A042345">言</persName>至始為闢<lb
+ed="B" n="0423b03"/>除蕪萊，勝地重輝，廢寢忘餐，不辤勞瘁。<date from-iso="+1762-01-25" key="j23646422365025" to-iso="+1763-02-12">乾隆壬午</date>，<ref type="person" target="#A006727">聖</ref>駕南巡，<date from-iso="+1765-01-21" key="j23657342366117" to-iso="+1766-02-08">乙<lb
+ed="B" n="0423b04"/>酉</date>之歲，再幸江南。前後迎謁，奏對稱旨，御賜聯額，恩施爛然。及<lb
+ed="B" n="0423b05"/><persName key="A010386">文海</persName>謝沒，復來寶華，嗣主法席，經營五祀，祖道增輝。以<date when-iso="+1769-03-16" key="j23672492367249">乾隆<anchor xml:id="beg_1da" type="cb-app"/>己<anchor xml:id="end_1da"/><lb
+ed="B" n="0423b06"/>丑春二月九日</date>示寂，世壽六十有一，僧臘四十有八，坐夏三十<lb
+ed="B" n="0423b07"/>有四。茶毘時金光燭天，雲霞四布，門人收遺骨塔焉！</p>
+    <linkGrp>
+        <link targets="#0423a15 #0423a15"/>
+        <ptr target="#A042345" type="person"/>
+        <ptr target="#A042886" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0423a18 #0423a18"/>
+        <ptr target="#A042345" type="person"/>
+        <ptr target="#A042887" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0423a18 #0423a19"/>
+        <ptr target="#A042345" type="person"/>
+        <ptr target="#A010386" type="person"/>
+        <ptr target="#j23533322353685" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0423a20 #0423a20"/>
+        <ptr target="#A042345" type="person"/>
+        <ptr target="#A010386" type="person"/>
+        <ptr target="#A000212" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0423b01 #0423b02"/>
+        <ptr target="#A042345" type="person"/>
+        <ptr target="#A042888" type="person"/>
+        <ptr target="#j23639342364287" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0423b03 #0423b03"/>
+        <ptr target="#A042345" type="person"/>
+        <ptr target="#A006727" type="person"/>
+        <ptr target="#j23646422365025" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0423b03 #0423b04"/>
+        <ptr target="#A042345" type="person"/>
+        <ptr target="#A006727" type="person"/>
+        <ptr target="#j23657342366117" type="time"/>
+    </linkGrp>
+</div>

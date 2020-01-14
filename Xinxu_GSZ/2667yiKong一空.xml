@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0415b08shiYiKong"><lb
+ed="B" n="0415b08"/><anchor n="B.27.0151.0415b08"/><head>清仙溪城峰禪院沙門<persName key="A016170">釋一空</persName>傳</head><lb
+ed="B" n="0415b09"/><p xml:id="pB27p0415b0901"><persName key="A016170">釋一空</persName>，字<persName key="A016170">朗然</persName>，姓郭氏，莆陽人也。幼失怙恃，依叔氏居，恒持齋<lb
+ed="B" n="0415b10"/>素。<ref type="date" target="#j23135242313878">年十九</ref>叔為謀婚娶，強使肉食，因走入壺山石泉寺，從<persName key="A042852">閒</persName>公<lb
+ed="B" n="0415b11"/>大德剃染。勤苦精能，靡間朝昏。聞<persName key="A042852">閒</persName>公所舉機緣，懷疑不決，常<lb
+ed="B" n="0415b12"/>提父母未生前語。一日歸山，擲石敲門有省，乃發志參方。首造<lb
+ed="B" n="0415b13"/>鼓山，叩<persName key="A011738">雪關</persName>，染指法昧。返莆尋天壺舊址，縛茅而居，率徒力作，<lb
+ed="B" n="0415b14"/>樵薪種荼，以給餔餟，昕夕焚修，不墮厥規。復參黃檗<persName key="A001873">隱元</persName>，為典<lb
+ed="B" n="0415b15"/>庫鑰，傾心恤眾，道譽籍甚。會<persName key="A005212">時學</persName>開法漳之廣嚴，卷裓相從，酬<lb
+ed="B" n="0415b16"/>酢投契，水乳相合，承其屬累。<persName key="A005212">時</persName>移天壽福廬，皆竭力輔贊，法化<lb
+ed="B" n="0415b17"/>大行。莆龜洋禪寺，唐<persName key="A014171">無了</persName>、<persName key="A020283">慧忠</persName>二禪師故剎，久歷刼火，荒殘殊<lb
+ed="B" n="0415b18"/>甚。<persName key="A016170">空</persName>受眾請，率徒躬耕，不憚劬辛。每以向上相提撕<!-- 提攜 -->，不數載，百<lb
+ed="B" n="0415b19"/>廢俱振，祖道重光。晚歲移住仙溪城峰院，兵燹之後，山門寥落，<lb
+ed="B" n="0415b20"/>營求締構，煥然一新，衲子麕至，望風恐後。<date from-iso="+1664-03-27" key="j23289102328939" to-iso="+1664-04-25">甲辰三月</date>方值誕辰，<pb ed="B" xml:id="B27.0151.0416a" n="0416a"/><lb
+ed="B" n="0416a01"/>即告眾曰：「<ref type="person" target="#A016170">吾</ref>今六十有一，臘四十餘。生平向钁頭邊，成辦箇事，<lb
+ed="B" n="0416a02"/>實非草草，今且休矣！」不數日，遂示寂，<date when-iso="+1664-05-02" key="j23289462328946">康熙甲辰四月七日</date>也。<persName key="A016170">空</persName><lb
+ed="B" n="0416a03"/>雖尚貞樸，汰除浮薄，潛鞭密練，不愧古人。居龜洋時，旦坐方丈，<lb
+ed="B" n="0416a04"/>有虎跑伏階前，<persName key="A016170">空</persName>為說三皈依，竟攝尾去。又一日，經行客寮，有<lb
+ed="B" n="0416a05"/>巨蛇長丈餘當道，侍者欲擊之，<persName key="A016170">空</persName>止之曰：「彼以毒來，我以慈受！」<lb
+ed="B" n="0416a06"/>亦為授三皈依，蛇逡巡退，眾皆異之。平昔拈頌機<anchor xml:id="beg_1cf" type="cb-app"/>緣<anchor xml:id="end_1cf"/>，言皆見諦，<lb
+ed="B" n="0416a07"/>吟咏篇什，亦多天真流暢，知其所得深矣！塔于天壺東岡，<persName key="A004072">釋超<lb
+ed="B" n="0416a08"/>弘</persName>作銘。</p>
+    <linkGrp>
+        <link targets="#0415b10 #0415b11"/>
+        <ptr target="#A016170" type="person"/>
+        <ptr target="#A042852" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0415b13 #0415b13"/>
+        <ptr target="#A016170" type="person"/>
+        <ptr target="#A011738" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0415b14 #0415b14"/>
+        <ptr target="#A016170" type="person"/>
+        <ptr target="#A001873" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0415b15 #0415b16"/>
+        <ptr target="#A016170" type="person"/>
+        <ptr target="#A005212" type="person"/>
+    </linkGrp>
+</div>

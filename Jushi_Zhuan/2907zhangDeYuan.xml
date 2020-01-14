@@ -7,13 +7,13 @@
         <ptr target="#A008387" type="person"/>
         <ptr target="#A017918" type="person"/>
         <ptr target="#PL000000023467" type="place"/>
-        </linkGrp>
+    </linkGrp>
     <linkGrp>
         <link targets="#0238a04 #0238a08"/>
         <ptr target="#A008387" type="person"/>
         <ptr target="#A001411" type="person"/>
         <ptr target="unknown" type="place"/>
-        </linkGrp>
+    </linkGrp>
     <linkGrp>
         <link targets="#0238a10 #0238a11"/>
         <ptr target="#A008387" type="person"/>
@@ -27,7 +27,7 @@
         <ptr target="#A017921" type="person"/>
         <ptr target="#A001128" type="person"/>
         <ptr target="unknown" type="place"/>
-        </linkGrp>
+    </linkGrp>
     <linkGrp>
         <link targets="#0238a11 #0238a17"/>
         <ptr target="#A017931" type="person"/>
@@ -42,23 +42,23 @@
         <ptr target="#A001561" type="person"/>
         <ptr target="#A008703" type="person"/>
         <ptr target="unknown" type="place"/>
-        </linkGrp>
+    </linkGrp>
     <linkGrp>
         <link targets="#0238b01 #0238b05"/>
         <ptr target="#A008387" type="person"/>
         <ptr target="#A001561" type="person"/>
         <ptr target="#A008703" type="person"/>
         <ptr target="#PL000000028656" type="place"/>
-        </linkGrp>
+    </linkGrp>
     <linkGrp>
         <link targets="#0238b07 #0238b08"/>
         <ptr target="#A008387" type="person"/>
         <ptr target="#A008703" type="person"/>
         <ptr target="unknown" type="place"/>
-        </linkGrp>
+    </linkGrp>
     <linkGrp>
         <link targets="#0238b08 #0238b08"/>
         <ptr target="#A008387" type="person"/>
         <ptr target="#PL000000020106" type="place"/>
-        </linkGrp>
+    </linkGrp>
  </div>

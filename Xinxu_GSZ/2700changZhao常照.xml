@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0433b13shiChangZhao"><lb
+ed="B" n="0433b13"/><anchor n="B.27.0151.0433b13"/><head>清潤州焦山定慧寺沙門<persName key="A027423">釋常照</persName>傳<persName type="secondary" key="A042201">肇圓</persName></head><lb
+ed="B" n="0433b14"/><p xml:id="pB27p0433b1401"><persName key="A027423">釋常照</persName>，字<persName key="A027423">昌道</persName>，號<persName key="A027423">雲颿</persName>，姓夏氏，海陵人也。根植菩提，生而敏慧。<lb
+ed="B" n="0433b15"/><ref type="date" target="#j24015552401909">九歲</ref>厭腥，領鑒<!-- 見識精闢 -->澄遠。<ref type="date" target="#j24030032403356">年及舞勺</ref><!-- 十三歲 -->，通經史大義，不逐嘻遊。值洪<anchor xml:id="beg043301"/><choice><sic resp="CBETA">揚</sic><corr resp="PC-MB">楊</corr></choice><anchor xml:id="end043301"/><lb
+ed="B" n="0433b16"/>之亂，家人流離，孑焉塊處。有衣紫者奇其俊峭，欲<anchor xml:id="beg043302"/><choice><sic resp="CBETA">臝</sic><corr resp="PC-MB">蠃</corr></choice><anchor xml:id="end043302"/><!-- 螟蛉有子，蜾蠃負之。部分古籍作「臝」 -->負之，以為<lb
+ed="B" n="0433b17"/>其子。<persName key="A027423">照</persName>不屑也，因以計說<!-- 畫策。疑為「計脱」 -->。<ref type="date" target="#j24037402404093">年十五</ref>乃歸依<persName key="A042966">春庭</persName>於觀音庵受薙。<lb
+ed="B" n="0433b18"/>經翻貝葉，口誦如瀉，香動木樨，心清得玅。<ref type="date" target="#j24055722405901">弱冠</ref>受具於焦山<persName key="A014808">大<lb
+ed="B" n="0433b19"/>須</persName>。神秉雋悟，智理雙融，典習律教，中邊俱徹，<persName key="A014808">須</persName>器其量識，授以<lb
+ed="B" n="0433b20"/>衣盋。乃本其誓願，期濟羣惑。辤<ref type="person" target="#A014808">師</ref>行脚，苦志參方，望名藍而戾<pb ed="B" xml:id="B27.0151.0434a" n="0434a"/><lb
+ed="B" n="0434a01"/>止，入虛白而知空。偶息金山，從<persName key="A021379">觀心慧</persName>研窮一乘。復返焦岩，執<lb
+ed="B" n="0434a02"/>事監院，鎧披堅忍，幢樹精進，清課六時，調御四眾。及主丈席，提<lb
+ed="B" n="0434a03"/>倡戒乘，鐘磬凜徹於鷲峰，杖拂謹嚴乎鹿苑，慈雲罨<!-- 覆蓋 -->覆，覺樹虇<lb
+ed="B" n="0434a04"/>蕍<!-- 萌芽 -->，甘露霑濡，慧珠瑩澈。密持功行，殫心梵籍，嘗註《金剛般若經》<lb
+ed="B" n="0434a05"/>若干卷，尚待梓行。二十年間，雖事著述，不墜事功，創建海雲、枯<lb
+ed="B" n="0434a06"/>木諸殿堂，整設僧寮，嚴飾佛像，朝暉燦其雕棟，寶燄見其金身，<lb
+ed="B" n="0434a07"/>吁亦勤矣！<date when-iso="+1907-01-26" key="j24176022417602">清光緒三十二年十二月十三日</date>示寂，僧臘五十有<lb
+ed="B" n="0434a08"/>三，塔於夾山竹林寺右。弟子<persName key="A042201">肇圓</persName>字<persName key="A042201">峰屏</persName>，丹陽束氏子。年十九<lb
+ed="B" n="0434a09"/>感因緣幻化，人事無常，猒塵捨家，投句容寶塔<persName key="A042967">德生</persName>剃度。逾年<lb
+ed="B" n="0434a10"/>受具焦山<persName key="A014808">芥航</persName>，旋參金山、高旻、寶華、天寧諸叢林，得善知識，往<lb
+ed="B" n="0434a11"/>復尋究，默識潛通。數年之間，竟爾直透三關，了明最上。又以道<lb
+ed="B" n="0434a12"/>貴朗澈，事在躬行，遂歸焦山，專禮《華嚴》。夙夜兢兢，寒暑無懈。<persName key="A027423">照</persName><lb
+ed="B" n="0434a13"/>知為龍象，付傳心印。繼主法席，辛勤十載，院宇增修，寺寮嚴肅。<lb
+ed="B" n="0434a14"/>退後示微疾，索浴更衣，安然坐化，塔於夾山西坡。</p>
+    <linkGrp>
+        <link targets="#0433b17 #0433b17"/>
+        <ptr target="#A027423" type="person"/>
+        <ptr target="#A042966" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0433b18 #0433b19"/>
+        <ptr target="#A027423" type="person"/>
+        <ptr target="#A014808" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0434a01 #0434a01"/>
+        <ptr target="#A027423" type="person"/>
+        <ptr target="#A021379" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0434a08 #0434a08"/>
+        <ptr target="#A027423" type="person"/>
+        <ptr target="#A042201" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0434a09 #0434a09"/>
+        <ptr target="#A042967" type="person"/>
+        <ptr target="#A042201" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0434a09 #0434a10"/>
+        <ptr target="#A014808" type="person"/>
+        <ptr target="#A042201" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0434a12 #0434a13"/>
+        <ptr target="#A027423" type="person"/>
+        <ptr target="#A042201" type="person"/>
+    </linkGrp>
+</div>

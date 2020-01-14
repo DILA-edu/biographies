@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="雜識" xml:id="gsz0460b19shiPuXin"><lb
+ed="B" n="0460b19"/><anchor n="B.27.0151.0460b19"/><head>清黃山雲嶺禪院沙門<persName key="A022523">釋普信</persName>傳<persName type="secondary" key="A022524">蒼霞際</persName></head><lb
+ed="B" n="0460b20"/><p xml:id="pB27p0460b2001"><persName key="A022523">釋普信</persName>，字<persName key="A022523">師古</persName>，號<persName key="A022523">梅嶼</persName>，姓鄭氏，歙人也。母夢道人，手《法華經》一<pb ed="B" xml:id="B27.0151.0461a" n="0461a"/><lb
+ed="B" n="0461a01"/>卷來，遂誕<persName key="A022523">信</persName>。幼而善病，禮雲嶺參<persName key="A043019">照哲御</persName>為師。年才十齡，受以<lb
+ed="B" n="0461a02"/>經論，俱能了解，<persName key="A043019">哲</persName>喜其靈慧。未幾，進具於華山<persName key="A001972">見月</persName>。既研律議，<lb
+ed="B" n="0461a03"/>更究文藝，好學深思。每見騷客詞人，虛懷請益，人以是稱<ref type="person" target="#A022523">之</ref>。著<lb
+ed="B" n="0461a04"/>有《聽松閣》詩四卷。郡司馬安丘<persName key="A007750">曹貞吉</persName>為之序，稱為「草際幽蘭，<lb
+ed="B" n="0461a05"/>雞羣野鶴」。今觀其〈除夜詩〉云：「寂寞山居歲月遷，閑敲清磬出孤<lb
+ed="B" n="0461a06"/>煙；嬾傾竹葉歌除夜，喜見梅花放隔年。」又〈草堂吟〉：「草堂在深谷，<lb
+ed="B" n="0461a07"/>久與人世疏；好鳥松間鳴，間雲與之俱。心安無所營，庋閣留踐<lb
+ed="B" n="0461a08"/>書；蓽門有時啟，以待故人車。」嘗植山花數百株，每當春晚，如丹<lb
+ed="B" n="0461a09"/>霞赤城。庵前木蓮一株，花時香聞數里。欲從山徑徧種梅花，坐<lb
+ed="B" n="0461a10"/>臥寒香，以娛晚歲。胸懷灑落，詩思高超，殆罕其儔。<persName key="A022524">蒼霞際</persName>者，亦<lb
+ed="B" n="0461a11"/>雲嶺僧也。禪經之餘，遊心書畫。著有《讀畫樓》詩一卷。中有〈過蘿<lb
+ed="B" n="0461a12"/>青庵〉：「山行不覺遠，忽到白雲窠；逕曲依松轉，泉高上屋過。花薰<lb
+ed="B" n="0461a13"/>人欲醉，鳥學梵相和；何日煙瓢挂，湌松衣薜蘿。」又自題畫《夕陽<lb
+ed="B" n="0461a14"/>紅葉圖》：「山寒木落籬花白，水碧沙明竹葉青；曳杖不知何處去？<lb
+ed="B" n="0461a15"/>夕陽影裏一茅亭。」<persName key="A022524">際</persName>與<persName key="A043020">普職慎為</persName>同輯《雲嶺志》六卷，《聽松閣》、《讀<lb
+ed="B" n="0461a16"/>畫樓》兩集均附刊。<persName key="A022523">信</persName>寂於<date when-iso="+1701-04-12" key="j23424392342439">康熙辛巳三月五日</date>。</p>
+    <linkGrp>
+        <link targets="#0461a01 #0461a01"/>
+        <ptr target="#A022523" type="person"/>
+        <ptr target="#A043019" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0461a02 #0461a02"/>
+        <ptr target="#A022523" type="person"/>
+        <ptr target="#A001972" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0461a04 #0461a04"/>
+        <ptr target="#A022523" type="person"/>
+        <ptr target="#A007750" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0461a15 #0461a15"/>
+        <ptr target="#A022524" type="person"/>
+        <ptr target="#A043020" type="person"/>
+    </linkGrp>
+</div>

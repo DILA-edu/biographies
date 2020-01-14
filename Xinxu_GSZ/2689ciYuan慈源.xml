@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0426b17shiCiYuan"><lb
+ed="B" n="0426b17"/><anchor n="B.27.0151.0426b17"/><head>清新化四願禪寺沙門<persName key="A042265">釋慈源</persName>傳</head><lb
+ed="B" n="0426b18"/><p xml:id="pB27p0426b1801"><persName key="A042265">釋慈源</persName>，字<persName key="A042265">悟道</persName>，亦號<persName key="A042265">守拙</persName>，姓曾氏，新化人。父<persName key="A042916">傳唯</persName>，母<persName key="A042917">張氏</persName>夙抱<lb
+ed="B" n="0426b19"/>悲懷，事佛惟謹。誕<persName key="A042265">源</persName>之夕，祥光爥隅，里人異之。幼侍母食，同甘<lb
+ed="B" n="0426b20"/>蔬菜。母沒，經堂佛像，親絜供奉，不異存日。嘗自陳明水一盂，祝<pb ed="B" xml:id="B27.0151.0427a" n="0427a"/><lb
+ed="B" n="0427a01"/>曰：「此水不腐，<ref type="person" target="#A042265">吾</ref>當歸依。」瞬焉五載，清潔如初。<date from-iso="+1876-01-26" key="j24062802406663" to-iso="+1877-02-12">丙子</date>父喪告終，乃<lb
+ed="B" n="0427a02"/>禮邑中法華菴<persName key="A042918">松華</persName>披剃，旋具戒於<persName key="A042919">福嚴怡</persName>，復依南嶽祝聖<persName key="A004856">默<lb
+ed="B" n="0427a03"/>葊仁</persName>。親炙既久，得力獨多，深造堂奧，遂承心印，稱南宗高足。<date from-iso="+1886-02-04" key="j24099422410295" to-iso="+1887-01-23">丙<lb
+ed="B" n="0427a04"/>戌</date>還新，獨蠲鉅貲，修葺城南承熙寺。寺為宋<persName key="A017009">章惇</persName>平蠻後所剏<lb
+ed="B" n="0427a05"/>建，年湮荒蕪，至是闢為叢林，法席重暉，僧侶雲集。衡之悟真、邵<lb
+ed="B" n="0427a06"/>之尊美，皆禮之首座，參同異焉！<date from-iso="+1894-02-06" key="j24128662413219" to-iso="+1895-01-25">甲午</date>說法邵陽師子峯龍華寺，<lb
+ed="B" n="0427a07"/>集者數百人。<date from-iso="+1896-02-13" key="j24136032413957" to-iso="+1897-02-01">丙申</date>復依<persName key="A004856">仁</persName>於祝聖，日誦《法華》，以為常課。<date from-iso="+1906-01-25" key="j24172362417619" to-iso="+1907-02-12">丙午</date>卓<lb
+ed="B" n="0427a08"/>錫資東錦石峯，舊有古寺曰慧龍，日就隤廢，而山水之勝，甲於<lb
+ed="B" n="0427a09"/>一郡。<persName key="A042265">源</persName>因拓其前址，廓其新式，棟宇有輝，金像赫赩，額曰「四願」，<lb
+ed="B" n="0427a10"/>從所志也。寺中規制，一如叢社，道風翕然，溢於資流。寂於<date when-iso="+1908-08-09" key="j24181632418163">光緒<lb
+ed="B" n="0427a11"/>三十四年七月十三日</date>，年五十七，臘二十八。塔於錦石峯下，衡<lb
+ed="B" n="0427a12"/>山<persName key="A042920">戴鰲</persName>為之銘。</p>
+    <linkGrp>
+        <link targets="#0426b18 #0426b18"/>
+        <ptr target="#A042265" type="person"/>
+        <ptr target="#A042916" type="person"/>
+        <ptr target="#A042917" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0427a01 #0427a02"/>
+        <ptr target="#A042265" type="person"/>
+        <ptr target="#A042918" type="person"/>
+        <ptr target="#j24062802406663" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0427a02 #0427a02"/>
+        <ptr target="#A042265" type="person"/>
+        <ptr target="#A042919" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0427a02 #0427a03"/>
+        <ptr target="#A042265" type="person"/>
+        <ptr target="#A004856" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0427a07 #0427a07"/>
+        <ptr target="#A042265" type="person"/>
+        <ptr target="#A004856" type="person"/>
+        <ptr target="#j24136032413957" type="time"/>
+    </linkGrp>
+</div>

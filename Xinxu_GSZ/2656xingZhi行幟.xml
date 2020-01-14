@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0409b03shiXingZhi"><lb
+ed="B" n="0409b03"/><anchor n="B.27.0151.0409b03"/><head>清四明大梅山保福寺沙門<persName key="A011057">釋行幟</persName>
+傳</head><lb
+ed="B" n="0409b04"/><p xml:id="pB27p0409b0401"><persName key="A011057">釋行幟</persName>，字<persName key="A011057">法幢</persName>，姓林氏，瑞安人也。原名<persName key="A011057">增志</persName>，<date from-iso="+1628-02-05" key="j23157102316063" to-iso="+1629-01-23">明崇禎戊辰</date>進士，<lb
+ed="B" n="0409b05"/>官中允。<date from-iso="+1644-02-08" key="j23215572321911" to-iso="+1645-01-27">甲申</date><persName key="A022645">李自成</persName>犯闕，抗節不屈，酷刑幾斃。<ref type="person" target="#A022645">賊</ref>敗，乃間關<!-- 道途艱險 -->南<lb
+ed="B" n="0409b06"/>旋。及聞大清定鼎燕京，知事不可為，遂薙髮為僧，時年已五十<lb
+ed="B" n="0409b07"/>四。初<!-- 中進士之前 -->讀書興善寺，即契禪衲，館頭陀山密印寺，即唐<persName key="A010119">宿覺</persName>道場<lb
+ed="B" n="0409b08"/>也。古殿將傾，隱懷興復志。日與<persName key="A042249">僧摩</persName>相講習<!-- 僧摩卒於《五燈全書(第34卷-第120卷)》卷120：「于崇禎丁丑（1637）秋。世壽五十有八」(CBETA, X82, no. 1571, p. 721, c9) -->，益知有向上事。及<lb
+ed="B" n="0409b09"/>作令蒲圻，御史<persName key="A042832">黃宗昌</persName>見<persName key="A042249">僧摩</persName>有宗門三關語<!-- 《五燈全書(第34卷-第120卷)》卷120：「宗門三關」(CBETA, X82, no. 1571, p. 721, c7) -->，因問<ref type="person" target="#A011057">之</ref>曰：「儒亦<lb
+ed="B" n="0409b10"/>有三關乎？」曰：「有。不知為不知，是知也者，初關也；吾有知乎哉？無<lb
+ed="B" n="0409b11"/>知也者，二關也；吾無行而不與二三子者，三關也。」<persName key="A042832">宗昌</persName>懌然，結<lb
+ed="B" n="0409b12"/>契彌厚。及改僧服，居呂峰山，更厲切磋，究心生死。嘗具夙願，再<lb
+ed="B" n="0409b13"/>造密印祖庭，卒達所志。事多玄感，詳載〈重興碑記〉。<date from-iso="+1652-02-09" key="j23244802324834" to-iso="+1653-01-28">壬辰</date>曳履過<lb
+ed="B" n="0409b14"/>四明，登雪竇，拜<persName key="A014742">石奇</persName>僧受具足，且付以法焉！<date from-iso="+1655-02-06" key="j23255732325926" to-iso="+1656-01-25">乙未</date>入大梅山訪<lb
+ed="B" n="0409b15"/>漢尉<persName key="A006905">梅子真</persName>蹟，钃穢翦荊，新唐僧<persName key="A010512">法常</persName>舊觀。蓋八百餘年荒庭，<lb
+ed="B" n="0409b16"/>至是乃得。與諸佛子披霜立雪，本分提持，遠近趨蹌<!-- 奔走奉侍 -->，漸成叢林。<lb
+ed="B" n="0409b17"/>苒荏六載，復還東甌。<date from-iso="+1660-11-03" key="j23276702327757" to-iso="+1661-01-29">庚子冬</date>開罏<placeName>密印</placeName>，<date from-iso="+1666-02-04" key="j23295892329942" to-iso="+1667-01-23">丙午</date>應<placeName>括蒼淨覺</placeName>請，以<lb
+ed="B" n="0409b18"/><placeName>密印</placeName>付<persName key="A016495">多子無</persName>。<date from-iso="+1667-07-21" key="j23301212330149" to-iso="+1667-08-18">丁未夏季</date>示微疾，舟還陀峰。<date when-iso="+1667-09-29" key="j23301912330191">八月十二日</date>對眾<lb
+ed="B" n="0409b19"/>說偈曰：「七十五年間打鬨，總無奇特出常倫；而今撒手懸厓去，<lb
+ed="B" n="0409b20"/>一任諸方說幻真。」悠然而逝。著有《語錄》若干卷。</p>
+    <linkGrp>
+        <link targets="#0409b08 #0409b08"/>
+        <ptr target="#A011057" type="person"/>
+        <ptr target="#A042249" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0409b09 #0409b12"/>
+        <ptr target="#A011057" type="person"/>
+        <ptr target="#A042832" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0409b13 #0409b14"/>
+        <ptr target="#A011057" type="person"/>
+        <ptr target="#A014742" type="person"/>
+        <ptr target="#j23244802324834" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0409b17 #0409b18"/>
+        <ptr target="#A011057" type="person"/>
+        <ptr target="#A016495" type="person"/>
+        <ptr target="#j23295892329942" type="time"/>
+    </linkGrp>
+</div>

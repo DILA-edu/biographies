@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0171b17shiYongNing"><lb
+ed="B" n="0171b17"/><anchor n="B.27.0151.0171b17"/><head>明金陵大報恩寺沙門<persName key="A009598">釋永寧</persName>傳</head><lb
+ed="B" n="0171b18"/><p xml:id="pB27p0171b1801"><persName key="A009598">釋永寧</persName>，字<persName key="A009598">西林</persName>，姓郭氏，六合人也。幼出家，禮報恩<persName key="A016717">無瑕玉</persName>為師。<lb
+ed="B" n="0171b19"/>生性耿介，獨自持重，言動不妄，眾所推服。<ref type="date" target="#j22697012270055">年二十</ref>即持《金剛經》，<lb
+ed="B" n="0171b20"/>至老不輟。<persName key="A006689">明武宗</persName>駕幸南都<!-- 正德十四年（1519） -->，駐蹕斯寺。大宗伯慮寺僧無可承<pb ed="B" xml:id="B27.0151.0172a" n="0172a"/><lb
+ed="B" n="0172a01"/>旨者，遴選皆不稱。先是<persName key="A009598">寧</persName>與<persName key="A042770">東林惠遠</persName>素稱莫逆，兩人狀貌魁<lb
+ed="B" n="0172a02"/>偉。<persName key="A042771">喬白巖</persName>為大司馬，久與<persName key="A009598">寧</persName>善。宗伯大喜，即以<persName key="A042770">遠</persName>為僧錄右覺<lb
+ed="B" n="0172a03"/>義，以<persName key="A009598">寧</persName>為報恩寺提點。及<ref type="person" target="#A006689">駕</ref>臨寺，登殿禮佛，百官朝罷，諭作誦<lb
+ed="B" n="0172a04"/>經佛事，命呈疏草。宗伯議須翰林，<persName key="A009598">寧</persName>曰：「佛疏別有體制，須僧當<lb
+ed="B" n="0172a05"/>行可耳！」因舉<persName key="A042770">遠</persName>具疏草，呈<persName key="A006689">武宗</persName>覽之，喜曰：「<ref type="person" target="#A006689">朕</ref>家有此僧耶？」宗伯<lb
+ed="B" n="0172a06"/>即以僧錄印付<persName key="A042770">遠</persName>。<persName key="A009598">寧</persName>隨侍游覽，應對稱旨。自建道場至起蹕，陪<lb
+ed="B" n="0172a07"/>讌七日，竟無一失。宗伯由是益重之。<date from-iso="+1531-01-28" key="j22802732280656" to-iso="+1532-02-15">嘉靖十年</date>，眾舉為住持，綜<lb
+ed="B" n="0172a08"/>理寺事。<date from-iso="+1541-02-06" key="j22839352284288" to-iso="+1542-01-25">二十年</date>遷僧錄右覺義，又五年轉左覺義。先是江南佛<lb
+ed="B" n="0172a09"/>法未大行，<persName key="A009598">寧</persName>居僧秩，切以法門為憂。每謂僧侶見輕於士林者，<lb
+ed="B" n="0172a10"/>以其無學故，取辱名教，玷污法門耳！乃請<persName key="A009611">雲谷</persName>法師住三藏殿，<lb
+ed="B" n="0172a11"/>教諸習禪者，始知有禪宗。數年，<persName key="A009611">雲谷</persName>去隱棲霞，適<persName key="A042772">守愚</persName>師南來，<lb
+ed="B" n="0172a12"/><persName key="A009598">寧</persName>復延致。選僧眾數十人，日開講席，親領聽受，從此始知向佛<lb
+ed="B" n="0172a13"/>法。掌僧錄印二十五年，諸山奉法。惟謹<date when-iso="+1565-02-26" key="j22927212292721">嘉靖四十四年正月十<lb
+ed="B" n="0172a14"/>六日</date>示寂。先數日，持僧錄印，謁禮部大宗伯，請以老辤。大宗伯<lb
+ed="B" n="0172a15"/>慰留不允，<persName key="A009598">寧</persName>歸即封其印。明日示疾，竟不藥，但誦《金剛經》不絕。<lb
+ed="B" n="0172a16"/>十五夜，舉眾圍繞號佛，遂悠然而化。壽八十有三，臘七十有奇，<lb
+ed="B" n="0172a17"/>弟子奉葬於智安寺。<persName key="A001681">憨山釋德清</persName>，再傳徒子也。嘗撫<persName key="A001681">清</persName>囑眾曰：<lb
+ed="B" n="0172a18"/>「我身後寺事無大小，聽<ref type="person" target="#A001681">此兒</ref>主張。」人服其知人。</p>
+    <linkGrp>
+        <link targets="#0171b18 #0171b18"/>
+        <ptr target="#A009598" type="person"/>
+        <ptr target="#A016717" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0171b20 #0171b20"/>
+        <ptr target="#A009598" type="person"/>
+        <ptr target="#A006689" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0172a01 #0172a07"/>
+        <ptr target="#A009598" type="person"/>
+        <ptr target="#A042770" type="person"/>
+        <ptr target="#A006689" type="person"/>
+        <ptr target="#A042771" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0172a10 #0172a11"/>
+        <ptr target="#A009598" type="person"/>
+        <ptr target="#A009611" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0172a11 #0172a13"/>
+        <ptr target="#A009598" type="person"/>
+        <ptr target="#A042772" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0172a17 #0172a18"/>
+        <ptr target="#A009598" type="person"/>
+        <ptr target="#A001681" type="person"/>
+    </linkGrp>
+</div>

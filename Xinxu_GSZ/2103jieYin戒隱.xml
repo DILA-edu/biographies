@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="義解" xml:id="gsz0097b19shiJieYin"><lb
+ed="B" n="0097b19"/><anchor n="B.27.0151.0097b19"/><head>清峽州石塔寺沙門<persName key="A021875">釋戒隱</persName>傳<persName type="secondary" key="A021879">德儀</persName></head><lb
+ed="B" n="0097b20"/><p xml:id="pB27p0097b2001"><persName key="A021875">釋戒隱</persName>，字<persName key="A021875">雪庵</persName>，姓陳氏，江陵人也。幼歲捨白，棲止峽州石塔，依 <pb ed="B" xml:id="B27.0151.0098a" n="0098a"/><lb
+ed="B" n="0098a01"/>年進具。從玉泉<persName key="A000274">無跡老人</persName>肄習毘尼，講演玄旨，追隨左右十八<lb
+ed="B" n="0098a02"/>載。江浙名藍，或為宏經之地，或為說法之場，開示來學，津津不<lb
+ed="B" n="0098a03"/>倦。嘗講《楞嚴》於楊州，眾以《楞嚴》註釋甚多，未能貫串。<persName key="A021875">戒隱</persName>因集<lb
+ed="B" n="0098a04"/>諸家註解合為一集，名曰《貫珠》，金陵寶華山<persName key="A001028">三昧寂</persName>為之序。又<lb
+ed="B" n="0098a05"/><persName key="A021879">德儀</persName>，字<persName key="A021879">鴻衢</persName>，姓王氏。家世儒素。<date from-iso="+1685-02-03" key="j23365282336882" to-iso="+1686-01-23">康熙乙丑</date>忽棄諸生，遁跡禪林，<lb
+ed="B" n="0098a06"/>參藥山<!-- PL000000029503 -->長老有所悟入，年已四十餘矣！其子已附於庠。<persName key="A021879">德儀</persName>晚<lb
+ed="B" n="0098a07"/>歲愛綠蘿溪山水幽秀，訪古剎舊址，結廬以居。註《金剛觀音明<lb
+ed="B" n="0098a08"/>捷解》若干卷，所著語錄多為世傳誦。</p>
+    <linkGrp>
+        <link targets="#0097b20 #0098a01"/>
+        <ptr target="#A021875" type="person"/>
+        <ptr target="#A000274" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0098a03 #0098a04"/>
+        <ptr target="#A021875" type="person"/>
+        <ptr target="#A001028" type="person"/>
+    </linkGrp>
+</div>

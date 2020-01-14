@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0410a01shiHaiFu"><lb
+ed="B" n="0410a01"/><anchor n="B.27.0151.0410a01"/><head>清公安玉泉寺沙門<persName key="A015955">釋海福</persName>傳</head><lb
+ed="B" n="0410a02"/><p xml:id="pB27p0410a0201"><persName key="A015955">釋海福</persName>，字<persName key="A015955">恒河</persName>，姓吳氏，名山人也。少依峨嵋萬佛寺<persName key="A042833">正陽</persName>祝髮。<lb
+ed="B" n="0410a03"/><ref type="date" target="#j23080322308415">年二十二</ref>始南遊，參<persName key="A000274">度門正誨</persName>，付以偈云：「<ref type="person" target="#A000274">老僧</ref>亦愛恒河水，洗<lb
+ed="B" n="0410a04"/>盡凡塵即聖胎。」復至荊受<persName key="A042834">一齋</persName>衣法。<persName key="A042836">惠藩</persName>將修護國寺，欲得人<lb
+ed="B" n="0410a05"/>監之，以<persName key="A015955">海福</persName>操持精嚴，不昧因果，強督其事。功既成，辤返玉泉。<lb
+ed="B" n="0410a06"/>因明季兵火化為榛莽，浸成虎穴，人跡罕至，<persName key="A015955">福</persName>歸即有興築。<persName key="A042836">惠<lb
+ed="B" n="0410a07"/>藩</persName>贈金三百，略助補葺。乃斬茅理樹，引流辟塗，棟楹樑桷，甍瓦<lb
+ed="B" n="0410a08"/>磚石，塈堊赤白，一董新之，無愧前哲。更請於朝，復除寺徭。蓋自<lb
+ed="B" n="0410a09"/>元<persName key="A015521">鍾</persName>而後有造於玉泉者，莫<persName key="A015955">福</persName>若也。以<date when-iso="+1659-03-14" key="j23270702327070">順治十六年二月二十<lb
+ed="B" n="0410a10"/>二日</date>示寂，偈曰：「騎象牽牛西復東，明珠穿破兩頭空；本來面目<lb
+ed="B" n="0410a11"/>尋常處，付與來者好用功。」寂年七十有四，塔於南葊。</p>
+    <linkGrp>
+        <link targets="#0410a02 #0410a02"/>
+        <ptr target="#A015955" type="person"/>
+        <ptr target="#A042833" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0410a03 #0410a04"/>
+        <ptr target="#A015955" type="person"/>
+        <ptr target="#A000274" type="person"/>
+        <ptr target="#j23080322308415" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0410a04 #0410a05"/>
+        <ptr target="#A015955" type="person"/>
+        <ptr target="#A042834" type="person"/>
+        <ptr target="#A042836" type="person"/>
+    </linkGrp>
+</div>

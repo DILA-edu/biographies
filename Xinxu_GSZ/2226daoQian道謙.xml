@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0168a11shiDaoQian"><lb
+ed="B" n="0168a11"/><anchor n="B.27.0151.0168a11"/><head>明金陵靈谷寺沙門<persName key="A003972">釋道謙</persName>傳<persName type="secondary" key="A000616">居頂</persName><persName type="secondary" key="A001101">淨戒</persName></head><lb
+ed="B" n="0168a12"/><p xml:id="pB27p0168a1201"><persName key="A003972">釋道謙</persName>，字<persName key="A003972">巽中</persName>，一號<persName key="A003972">牧庵</persName>，南昌人。生質明敏，幼離塵溷<!-- 混亂 -->，學通內<lb
+ed="B" n="0168a13"/>外，玅徹真如。元季住杭之報國寺，明初詔至京師。<persName key="A000581">泐<roleName>公</roleName></persName>方主天<lb
+ed="B" n="0168a14"/>界，分座演法。尋授左闡教，住靈谷。洪武二十九年十一月，示微<lb
+ed="B" n="0168a15"/>疾，端坐而逝。又<persName key="A000616">居頂</persName>，字<persName key="A000616">元極</persName>，黃巖人。幼學出世法，聰慧過人。得<lb
+ed="B" n="0168a16"/><persName key="A009677">西邱</persName>之正傳，性相雙融，行解兼至。初住四明翠山，次遷婺之雙<lb
+ed="B" n="0168a17"/>林，所至振興。洪武間，選赴京師，召對稱旨，授僧錄，住靈谷說法<lb
+ed="B" n="0168a18"/>傳經，其道大行。<persName key="A000149">成祖</persName>亦屢加恩賚。永樂間，無疾而化。又<persName key="A001101">淨戒定<lb
+ed="B" n="0168a19"/>巖</persName>者，亦字<persName key="A001101">幻居</persName>，吳興人。年十一出家，後至金陵，值<persName key="A001737">覺源曇</persName>住天<lb
+ed="B" n="0168a20"/>界，命居維那。脅不暖席，一日<persName key="A001737">曇</persName>舉桶篐，語問之。擬議，未即荅，<persName key="A001737">曇</persName><pb ed="B" xml:id="B27.0151.0168b" n="0168b"/><lb
+ed="B" n="0168b01"/>厲聲曰：「早遲八刻了也。」言<anchor xml:id="beg016801"/><choice><sic resp="CBETA">卜</sic><corr resp="PC-MB">下</corr></choice><anchor xml:id="end016801"/>大悟。復游東南，名流加敬。<date from-iso="+1396-02-18" key="j22309872231340" to-iso="+1397-02-05">洪武丙<lb
+ed="B" n="0168b02"/>子</date>授左覺義，兼住雞鳴。永樂初敕居靈谷，遷右闡教。<date when-iso="+1418-07-14" key="j22391682239168">永樂戊<anchor xml:id="beg_96" type="cb-app"/>戌<anchor xml:id="end_96"/><lb
+ed="B" n="0168b03"/>六月二日</date>亭午<!-- 正午 -->起坐，索筆書偈而逝。火後有頂骨、牙齒，數珠不<lb
+ed="B" n="0168b04"/>壞。事聞，遣官致祭。宣德四年追諡<persName key="A001101">惠濟禪師</persName>。</p>
+    <linkGrp>
+        <link targets="#0168a13 #0168a14"/>
+        <ptr target="#A003972" type="person"/>
+        <ptr target="#A000581" type="person"/>
+        <ptr target="#A003672" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0168a15 #0168a16"/>
+        <ptr target="#A000616" type="person"/>
+        <ptr target="#A009677" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0168a17 #0168a17"/>
+        <ptr target="#A000616" type="person"/>
+        <ptr target="#A003672" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0168a18 #0168a18"/>
+        <ptr target="#A000616" type="person"/>
+        <ptr target="#A000149" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0168a19 #0168b01"/>
+        <ptr target="#A001101" type="person"/>
+        <ptr target="#A001737" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0168b01 #0168b02"/>
+        <ptr target="#A001101" type="person"/>
+        <ptr target="#A003672" type="person"/>
+        <ptr target="#j22309872231340" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0168b02 #0168b02"/>
+        <ptr target="#A001101" type="person"/>
+        <ptr target="#A000149" type="person"/>
+    </linkGrp>
+</div>

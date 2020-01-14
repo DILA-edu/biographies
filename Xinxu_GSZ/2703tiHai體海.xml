@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0435a20shiTiHai"><lb
+ed="B" n="0435a20"/><anchor n="B.27.0151.0435a20"/><head>清漢陽圓照寺沙門<persName key="A042450">釋體海</persName>傳</head><lb
+ed="B" n="0435b01"/><p xml:id="pB27p0435b0101"><persName key="A042450">釋體海</persName>，字<persName key="A042450">惟清</persName>，姓李氏，孝感人也。生感神奇，器宇不羣，自甘素<lb
+ed="B" n="0435b02"/>茹，遂託空門。同治時受戒于漢陽歸元寺，遍游名藍，歷抵宗匠<lb
+ed="B" n="0435b03"/>如<persName key="A021868">定念</persName>、<persName key="A021379">觀心</persName>、<persName key="A031381">青光</persName>、<persName key="A001925">寶悟</persName>諸老宿，咸許入室。罏鞲所施，機鋒敏捷，<lb
+ed="B" n="0435b04"/>定慧交融。嘗登九華，把茅以棲。已而捨去，浮海詣補陀，還遊兩<lb
+ed="B" n="0435b05"/>浙，掛錫大雄。雖足跡半天下，而無所留滯。後於<persName key="A042976">天甯老人</persName>窮五<lb
+ed="B" n="0435b06"/>家宗旨，得大解脫，隨心自在。<date from-iso="+1881-01-30" key="j24081112408494" to-iso="+1882-02-17">光緒七年</date>旋楚，卜地於漢臯仁里，<lb
+ed="B" n="0435b07"/>得善士信心，為之築基，初名鹿野苑。四海英才，聞風而至，檀越<lb
+ed="B" n="0435b08"/>施予，有感必應。曾不數年，一片荒壞，化為寶坊，事若神功，因更<lb
+ed="B" n="0435b09"/>其稱曰「圓照寺」。俄而歸元緇眾，迎<persName key="A042450">海</persName>首席。一日示眾，有「若識白<lb
+ed="B" n="0435b10"/>祖旨，後面翠微峰」之語，蓋接引初機，顯指實地也。由是道譽遠<lb
+ed="B" n="0435b11"/>流，名聞京國。龍泉主僧，慕其高風，遣使相迓，遂陟首都，闡揚心<lb
+ed="B" n="0435b12"/>印，一音唱演，四眾歸懷，佛日再中，不可言喻。<persName key="A042450">海</persName>知報緣將盡，幻<lb
+ed="B" n="0435b13"/>質匪堅 ，乃重詣五臺，再訪<ref type="place" target="#PL000000018796 #PL000000018801">二林</ref>。<date from-iso="+1889-01-31" key="j24110342411122" to-iso="+1889-04-29">十五年春</date>，言旋漢臯，諸剎交迎，<lb
+ed="B" n="0435b14"/>俱辤不赴。示恙湘館，說偈而逝。偈曰：「說法本無法，傳心本無心；<lb
+ed="B" n="0435b15"/>一切幻化境，見物即見心。」時<date when-iso="+1889-07-21" key="j24112052411205">光緒十五年六月二十四日</date>也，春<lb
+ed="B" n="0435b16"/>秋五十有五。</p>
+    <linkGrp>
+        <link targets="#0435b02 #0435b03"/>
+        <ptr target="#A042450" type="person"/>
+        <ptr target="#A021868" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0435b02 #0435b03"/>
+        <ptr target="#A042450" type="person"/>
+        <ptr target="#A021379" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0435b02 #0435b03"/>
+        <ptr target="#A042450" type="person"/>
+        <ptr target="#A031381" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0435b02 #0435b03"/>
+        <ptr target="#A042450" type="person"/>
+        <ptr target="#A001925" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0435b05 #0435b06"/>
+        <ptr target="#A042450" type="person"/>
+        <ptr target="#A042976" type="person"/>
+    </linkGrp>
+</div>

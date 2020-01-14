@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0168b18shiDeShi"><lb
+ed="B" n="0168b18"/><anchor n="B.27.0151.0168b18"/><head>明燕京潭柘山龍泉寺沙門<persName key="A015651">釋德始</persName>傳</head><lb
+ed="B" n="0168b19"/><p xml:id="pB27p0168b1901"><persName key="A015651">釋德始</persName>，字<persName key="A015651">無初</persName>，日<anchor xml:id="beg016802"/><choice><sic resp="CBETA">木</sic><corr resp="PC-MB">本</corr></choice><anchor xml:id="end016802"/>國信州神氏子。幼性端靜，見羣兒嬉戲，輒<lb
+ed="B" n="0168b20"/>引去。遇僧過門則色喜，父母知其志，遣從近寺<persName key="A022303">一公</persName>祝髮。稍長<pb ed="B" xml:id="B27.0151.0169a" n="0169a"/><lb
+ed="B" n="0169a01"/>詣天寧，探索羣籍。荏苒三冬，悉通大意。已而歎曰：「文字之學，不<lb
+ed="B" n="0169a02"/>能洞了人之性源。」遂捨所學，附海舶抵中土，謁靈隱慧禪師<!-- 參（專案參考資料夾）佐藤秀孝《入明僧無初徳始の活動とその功績 ： 嵩山少林寺に現存する扶桑沙門徳始書筆の塔銘を踏まえて》頁166 -->，深<lb
+ed="B" n="0169a03"/>悟單傳之旨。及東歸，國人景仰尊為禪祖。聞古幽州山川之勝，<lb
+ed="B" n="0169a04"/>結侶來游，因憇慶壽。時<persName key="A001522">獨庵衍</persName>治寺事，與<persName key="A015651">德</persName>有舊，延致丈室與<lb
+ed="B" n="0169a05"/>激揚臨濟宗旨，識者稱之。<persName key="A001522">衍</persName>欲以寺事付<persName key="A015651">德</persName>，<persName key="A015651">德</persName>殊謙讓未遑，乃<lb
+ed="B" n="0169a06"/>禮峨嵋。時<persName key="A009022">獻王</persName>咨問法要，禮遇勤厚。始出世無為<!-- 地名 -->，道望彌崇。明<lb
+ed="B" n="0169a07"/>永樂初，<persName key="A001522">獨庵</persName>進階<anchor xml:id="beg016803"/><choice><sic resp="CBETA">大</sic><corr resp="PC-MB">太</corr></choice><anchor xml:id="end016803"/>子少師，邀之論道。六年春，應董<placeName key="PL000000000391">平坡</placeName>之請，<lb
+ed="B" n="0169a08"/>居再歲，即謝事。十年壬辰，將闢靜室為佚老計。而<ref type="person" target="#A000149">帝</ref>眷方隆，詔<lb
+ed="B" n="0169a09"/>畀龍泉寺事。<persName key="A015651">德</persName>既欽承明旨，早夜孜孜，以繕修為務。凡棟宇蠹<lb
+ed="B" n="0169a10"/>敝者易之，階<anchor xml:id="beg_97" type="cb-app"/>圮<anchor xml:id="end_97"/>頹壞治之，丹堊剝落者新之，比舊有加焉！先是<lb
+ed="B" n="0169a11"/><persName key="A009022">獻王</persName>致鎌金百鎰，為造西方三聖像。金彩莊嚴，曲盡其妙。<persName key="A015651">德</persName>平<lb
+ed="B" n="0169a12"/>昔尤喜卹貧賑乏，薄於奉己，厚於待人，以故四坐道場囊無餘<lb
+ed="B" n="0169a13"/>蓄，褚衾瓦缽，蕭然自怡。臨終端坐而逝。荼毘時獲舍利百餘顆，<lb
+ed="B" n="0169a14"/>晶熒圓潔，觀者歎異。</p>
+    <linkGrp>
+        <link targets="#0168b20 #0168b20"/>
+        <ptr target="#A015651" type="person"/>
+        <ptr target="#A022303" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0169a04 #0169a06"/>
+        <ptr target="#A015651" type="person"/>
+        <ptr target="#A001522" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0169a06 #0169a06"/>
+        <ptr target="#A015651" type="person"/>
+        <ptr target="#A009022" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0169a07 #0169a07"/>
+        <ptr target="#A015651" type="person"/>
+        <ptr target="#A001522" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0169a08 #0169a09"/>
+        <ptr target="#A015651" type="person"/>
+        <ptr target="#A000149" type="person"/>
+    </linkGrp>
+</div>

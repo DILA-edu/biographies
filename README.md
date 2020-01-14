@@ -8,5 +8,5 @@
 * Song_GSZ 宋高僧傳
 * Tang_GSZ 續高僧傳
 * Xinxu_GSZ 新續高僧傳
-* biQiuNi 比丘尼傳
-* chuSanZangJiJi 出三藏記集
+* BiQiuNi 比丘尼傳
+* ChuSanZangJiJi 出三藏記集

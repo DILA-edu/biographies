@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0420b08shiChaoHai"><lb
+ed="B" n="0420b08"/><anchor n="B.27.0151.0420b08"/><head>清仁和艮山崇福寺沙門<persName key="A022509">釋超海</persName>傳</head><lb
+ed="B" n="0420b09"/><p xml:id="pB27p0420b0901"><persName key="A022509">釋超海</persName>，字<persName key="A022509">四航</persName>，福巖僧也。傳臨濟三十三世，福巖與崇福本同<lb
+ed="B" n="0420b10"/>宗派。<date from-iso="+1716-01-24" key="j23478392348222" to-iso="+1717-02-10">康熙丙申</date>，里人<persName key="A042872">吳岐生</persName>、<persName key="A042873">吳道深</persName>親詣石門，<g ref="#CB33480">㪟</g>請至再，<persName key="A022509">海</persName>始<lb
+ed="B" n="0420b11"/>應命，飛錫翩翩，惠然戾止。雖喬木陰濃，新綠可愛，而棟宇傾頹，<lb
+ed="B" n="0420b12"/>規制狹小。<persName key="A022509">海</persName>有道聲，徒侶朋來，累千餘指，室不能容。於是宏構<lb
+ed="B" n="0420b13"/>禪堂，剏大悲閣，重葺殿房，丈室、廚庫以次興修，六載告成。<date from-iso="+1722-07-13" key="j23502012350230" to-iso="+1722-08-11">壬寅<lb
+ed="B" n="0420b14"/>六月</date>，翛然引退，旋主餘杭龍泉。<date from-iso="+1725-02-13" key="j23511472351500" to-iso="+1726-02-01">雍正乙<anchor xml:id="beg_1d7" type="cb-app"/>巳<anchor xml:id="end_1d7"/></date>，士眾同詞，請歸崇福。<lb
+ed="B" n="0420b15"/>以<date when-iso="+1728-05-09" key="j23523282352328">雍正戊申四月朔日</date>示寂，世壽六十有七，塔于院西南清宮<lb
+ed="B" n="0420b16"/>港傍。有《語錄》一卷，為侍者<persName key="A042874">普兢</persName>所編，皆<persName key="A022509">海</persName>主石門福巖、餘杭龍<lb
+ed="B" n="0420b17"/>泉及崇福時法語。<persName key="A022509">海</persName>雖明禪宗，而接眾論道，以淨律為先，可謂<lb
+ed="B" n="0420b18"/>不忘本矣。寺剏於宋，燬於元，建於明永樂，至清初荒廢已甚，佛<lb
+ed="B" n="0420b19"/>像沒於草中，<persName key="A022509">海</persName>為中興云。</p>
+    <linkGrp>
+        <link targets="#0420b10 #0420b10"/>
+        <ptr target="#A022509" type="person"/>
+        <ptr target="#A042872" type="person"/>
+        <ptr target="#A042873" type="person"/>
+        <ptr target="#j23478392348222" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0420b16 #0420b16"/>
+        <ptr target="#A022509" type="person"/>
+        <ptr target="#A042874" type="person"/>
+    </linkGrp>
+</div>

@@ -11,4 +11,9 @@
         <ptr target="#j18029111803264" type="time"/>
         <!--    <link targets="#event"/>     -->
     </linkGrp>
+    <linkGrp>
+        <link targets="#0326b28 #0326b29"/>
+        <ptr n="譯者" target="#A000693" type="person"/>
+        <ptr n="筆受" target="#A000707" type="person"/>
+    </linkGrp>
 </div>

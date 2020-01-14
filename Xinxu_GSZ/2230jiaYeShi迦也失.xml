@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0169a15shiJiaYeShi"><lb
+ed="B" n="0169a15"/><anchor n="B.27.0151.0169a15"/><head>明五臺山顯通寺沙門<persName key="A009943">釋迦也失</persName>傳</head><lb
+ed="B" n="0169a16"/><p xml:id="pB27p0169a1601"><persName key="A009943">釋迦也失</persName>者，天竺迦維衛國人，<persName key="A002799">世尊</persName>之族也。道行非凡，神通難<lb
+ed="B" n="0169a17"/>測。仰<persName key="A002144">曼殊</persName>之蹤，來遊清涼。<date from-iso="+1414-01-31" key="j22375432237926" to-iso="+1415-02-18">明永樂十二年</date>至顯通寺，<date from-iso="+1414-12-21" key="j22378672237896" to-iso="+1415-01-19">冬十一月</date><lb
+ed="B" n="0169a18"/><ref type="person" target="#A000149">明帝</ref>遺太監<persName key="A009956">侯顯</persName>詔至京師，入大內免拜賜坐，於大善殿奏對<lb
+ed="B" n="0169a19"/>稱旨。勅主能仁方丈，制書慰勞，賜予甚厚。<ref type="date" target="#j22379272238280">明年</ref>頒賜金印寶誥，<lb
+ed="B" n="0169a20"/>號曰<persName key="A009943">妙覺圓通慧慈普應輔國顯教灌頂弘善西天佛子大國<pb ed="B" xml:id="B27.0151.0169b" n="0169b"/><lb
+ed="B" n="0169b01"/>師</persName>。無何辤還五臺，一定七日乃起。至於<persName key="A006682">宣</persName>廟尤加欽崇，禮逾常<lb
+ed="B" n="0169b02"/>格。後於<date from-iso="+1431-02-21" key="j22437732244127" to-iso="+1432-02-10">宣德六年</date>辤歸西域。</p>
+    <linkGrp>
+        <link targets="#0169a17 #0169a18"/>
+        <ptr target="#A009943" type="person"/>
+        <ptr target="#A000149" type="person"/>
+        <ptr target="#A009956" type="person"/>
+        <ptr target="#j22378672237896" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0169b01 #0169b02"/>
+        <ptr target="#A009943" type="person"/>
+        <ptr target="#A006682" type="person"/>
+    </linkGrp>
+</div>

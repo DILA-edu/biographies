@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0177b07shiFaZhong"><lb
+ed="B" n="0177b07"/><anchor n="B.27.0151.0177b07"/><head>明廬山雲中寺沙門<persName key="A015831">釋法忠</persName>傳</head><lb
+ed="B" n="0177b08"/><p xml:id="pB27p0177b0801"><persName key="A015831">釋法忠</persName>，字<persName key="A015831">敬堂</persName>，姓曹氏，歙人也。母程氏，生而穎異，幼好端坐，不<lb
+ed="B" n="0177b09"/>隨兒戲。稍長頗厭塵苦，不治家人生產。<ref type="date" target="#j22905202290873">年十九</ref>遊錢塘靈隱寺，<lb
+ed="B" n="0177b10"/>遇雲水僧<persName key="A042780">大機</persName>，即求出家。為染剃，執侍三載。未幾登壇受具，即<lb
+ed="B" n="0177b11"/>依講肆。久之多所參承，然未自信。遂行腳至少林，依<persName key="A015790">大千潤</persName>禪<lb
+ed="B" n="0177b12"/>師，扣單傳之旨。已而走長安，謁<persName key="A009553">徧融</persName>、<persName key="A001697">月心</persName>指示心要，尋歸五臺。<lb
+ed="B" n="0177b13"/>時<persName key="A001681">憨山</persName>、<persName key="A007760">妙峰</persName>同居北臺龍門，<persName key="A015831">忠</persName>訪之於冰雪中，一見心相印契，<lb
+ed="B" n="0177b14"/>留居期年。<date from-iso="+1582-02-03" key="j22989072299261" to-iso="+1583-01-23">萬曆壬午</date>，<persName key="A007760">妙峰</persName>之蘆芽，與<persName key="A015831">忠</persName>同往。遂開叢林，諸所創<lb
+ed="B" n="0177b15"/>立，<persName key="A015831">忠</persName>有力焉！居三載棄去，入伏牛火場調煉三業。南還登匡廬，<lb
+ed="B" n="0177b16"/>愛其幽勝，誅茅於講經臺。居三載，復還五老峰，匿彩<!-- 《憨山老人夢遊集》卷28：「弔影四年」(CBETA, X73, no. 1456, p. 663, c11) -->四年。一日，<lb
+ed="B" n="0177b17"/>登仰天坪，乃匡山絕頂，喜其高勝，遂居之。零丁數禩，漸緝屋宇。<lb
+ed="B" n="0177b18"/>久之，衲子漸集，<persName key="A015831">忠</persName>手植松十餘萬本，冀成叢林。<persName key="A015831">忠</persName>恒坦夷，無緣<lb
+ed="B" n="0177b19"/>飾。御眾不立規矩，凡細務必以身先，至老不倦。隨緣自守，一衲<lb
+ed="B" n="0177b20"/>之外無長物，粒米莖菜必與共之。視眾如一，平等行慈，無論智<pb ed="B" xml:id="B27.0151.0178a" n="0178a"/><lb
+ed="B" n="0178a01"/>愚，浸久默化而不自知，故來者如歸。凡所言論，慨切痛至，無不<lb
+ed="B" n="0178a02"/>心領神會。寂於<date when-iso="+1620-08-18" key="j23129832312983">萬曆庚申秋七月二十一日</date>。先示微疾，臨化端<lb
+ed="B" n="0178a03"/>坐，謂其徒曰：「<ref type="person" target="#A015831">吾</ref>見紅日當空，金蓮遍地，<ref type="person" target="#A015831">吾</ref>其行矣！」言訖默然。壽<lb
+ed="B" n="0178a04"/>八十，臘六十。荼毗收靈骨塔於桃花峰下，<persName key="A001681">憨山</persName>為之銘。</p>
+    <linkGrp>
+        <link targets="#0177b09 #0177b10"/>
+        <ptr target="#A015831" type="person"/>
+        <ptr target="#A042780" type="person"/>
+        <ptr target="#j22905202290873" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0177b11 #0177b11"/>
+        <ptr target="#A015831" type="person"/>
+        <ptr target="#A015790" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0177b12 #0177b12"/>
+        <ptr target="#A015831" type="person"/>
+        <ptr target="#A009553" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0177b12 #0177b12"/>
+        <ptr target="#A015831" type="person"/>
+        <ptr target="#A001697" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0177b13 #0177b13"/>
+        <ptr target="#A015831" type="person"/>
+        <ptr target="#A001681" type="person"/>
+        <ptr target="#A007760" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0177b14 #0177b14"/>
+        <ptr target="#A015831" type="person"/>
+        <ptr target="#A007760" type="person"/>
+        <ptr target="#j22989072299261" type="time"/>
+    </linkGrp>
+</div>

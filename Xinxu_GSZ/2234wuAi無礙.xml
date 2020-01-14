@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0171a01shiWuAi"><lb
+ed="B" n="0171a01"/><anchor n="B.27.0151.0171a01"/><head>明衡山南臺寺沙門<persName key="A021636">釋無礙</persName>傳</head><lb
+ed="B" n="0171a02"/><p xml:id="pB27p0171a0201"><persName key="A021636">釋無礙</persName>者，信陽人也，而遺其姓字，一衲百結如粟穗。<date notBefore-iso="+1488-01-23" key="j22645632266151" notAfter-iso="+1492-05-29">明宏治初</date><!-- 「宏」應作「弘」，避清諱故。 --><lb
+ed="B" n="0171a03"/>來衡嶽，坐天柱峰下獅子巖。日啖苦菜，不穀食者三十年，堅苦<lb
+ed="B" n="0171a04"/>動眾，為建寺居之。明<persName key="A042762">劉陽</persName>有《無礙山房記略》<!-- 《古今圖書集成》196冊35葉 -->云：「南臺者，荒址也。<lb
+ed="B" n="0171a05"/>因<persName key="A021636">無礙</persName>而再闢，乃今開閣依崖壁，穹林幽舍，為南山一勝矣！<persName key="A042765">南<lb
+ed="B" n="0171a06"/>軒</persName>、<persName key="A003586">晦庵</persName>二先生嘗倡和雪中，其詩曰『相望幾蘭若，勝處是南臺。』<lb
+ed="B" n="0171a07"/>斯南臺之勝，<date notBefore-iso="+1165-02-20" key="j21466182149895" notAfter-iso="+1174-02-10">宋乾道間</date>見之矣！<persName key="A021636">無礙</persName>持一缽至天柱峰下獅子<lb
+ed="B" n="0171a08"/>巖，巖中僅容木榻。<persName key="A021636">無礙</persName>坐木榻，啖野菜，不穀食者七年。邑中人<lb
+ed="B" n="0171a09"/>苦之，乃謀所以居之者。<date notBefore-iso="+1488-01-23" key="j22645632270918" notAfter-iso="+1505-06-18">宏治間</date><persName key="A042766">大崖李世卿</persName>《遊衡山記》所稱『有<lb
+ed="B" n="0171a10"/>僧巖居，食生菜，見人嘿嘿者，即<persName key="A021636">無礙</persName>也。野雲孤鶴，飄飄然無與<lb
+ed="B" n="0171a11"/>於斯世者，似<ref type="person" target="#A021636">其人</ref>也。』昔臥山房，千崖冰雪，雪芝挂崖石，乃<persName key="A021636">無礙</persName><lb
+ed="B" n="0171a12"/>赤腳踏懸崖取之饟<ref type="person" target="#A042762">余</ref>。<ref type="person" target="#A042762">余</ref>為賦《雪芝》以答<ref type="person" target="#A021636">之</ref>，倐三十年冰雪如<lb
+ed="B" n="0171a13"/>昨也。茲與諸君對牀上方，乃於斯人至激<ref type="person" target="#A042762">余</ref>衷，<ref type="person" target="#A021636">彼</ref>其所求何堅<lb
+ed="B" n="0171a14"/>苦刻勵也。其徒<persName key="A042767">明通</persName>欲傳<persName key="A021636">無礙</persName>堅苦之行，謂<ref type="person" target="#A042762">余</ref>三度<!-- 《古今圖書集成》196冊35葉：「昔余初至，主無礙；及再至，弔無礙矣；今再至，空山寒塔，其能已於無礙懷耶。」 -->寒臘於茲<lb
+ed="B" n="0171a15"/>山房，當有留於山房者。茲漫識之。」</p>
+    <linkGrp>
+        <link targets="#0171a05 #0171a06"/>
+        <ptr target="#A042765" type="person"/>
+        <ptr target="#A003586" type="person"/>
+        <ptr target="#j21466182149895" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0171a09 #0171a11"/>
+        <ptr target="#A021636" type="person"/>
+        <ptr target="#A042766" type="person"/>
+        <ptr target="#j22645632270918" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0171a11 #0171a14"/>
+        <ptr target="#A021636" type="person"/>
+        <ptr target="#A042762" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0171a14 #0171a15"/>
+        <ptr target="#A021636" type="person"/>
+        <ptr target="#A042762" type="person"/>
+        <ptr target="#A042767" type="person"/>
+    </linkGrp>
+</div>

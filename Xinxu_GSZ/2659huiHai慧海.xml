@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0410b06shiHuiHai"><lb
+ed="B" n="0410b06"/><anchor n="B.27.0151.0410b06"/><head>清荊州天王寺沙門<persName key="A001716">釋慧海</persName>傳</head><lb
+ed="B" n="0410b07"/><p xml:id="pB27p0410b0701"><persName key="A001716">釋慧海</persName>，字<persName key="A001716">水鑑</persName>，別號<persName key="A001716">沙翁</persName>，姓謝氏，興國人也。少無俗氛，常懷逸<lb
+ed="B" n="0410b08"/>志。<ref type="date" target="#j23219122322295">年二十</ref>始披緇，進具後精嚴戒律，遨遊洛北講肄，經論究窮<lb
+ed="B" n="0410b09"/>玅旨，頗能敷說。然以生死事重，語言文字終非上乘，遂看本來<lb
+ed="B" n="0410b10"/>面目，探入幽窅，苦莫能得，沈悶無聊。一朝飯後，劃然廓悟，乃謁<lb
+ed="B" n="0410b11"/><persName key="A001150">徑山容</persName>，復有增長。次<persName key="A001153">金粟琇</persName>、<persName key="A012040">禹門微</persName>、<persName key="A001513">虎嵒忞</persName><!-- 出自《天王水鑑海和尚住金粟語錄》卷2：「復謁金車琇禹門微虎嵒忞諸尊宿」(CBETA, J29, no. B232, p. 317, c25)此三人寺名與人名不符，不知是否另有其人。 -->互相發明。後於吳<lb
+ed="B" n="0410b12"/>興<persName key="A042837">靈山敬</persName>遂稟法焉<!-- 《天王水鑑海和尚住金粟語錄》卷2：「後于吳興稟法靈山敬和尚焉」(CBETA, J29, no. B232, p. 317, c26) -->！<date from-iso="+1658-02-02" key="j23266652327019" to-iso="+1659-01-22">順治戊<anchor xml:id="beg_1c8" type="cb-app"/>戌<anchor xml:id="end_1c8"/></date>飛錫荊南，嘗嘆像教陵夷，古剎<lb
+ed="B" n="0410b13"/>湮滅，慨然以興廢自期。偶因《通志》載有天王寺，不知其誤也。略<lb
+ed="B" n="0410b14"/>致訪求御路，旁有天王社者，<persName key="A001716">慧海</persName>以為即古天王寺舊址。百計<lb
+ed="B" n="0410b15"/>經營，尅日鼎新。其實荊但有《天皇志》載：天王者即皇之偽也。蓋<lb
+ed="B" n="0410b16"/>天王為古代有天下之號，猶天子也。內典稱曰「帝釋」，<persName key="A001716">慧海</persName>以為<lb
+ed="B" n="0410b17"/>天王者，即四大天王之義乎！而《正名錄》且辯之甚晰，茲不具也。<lb
+ed="B" n="0410b18"/><date from-iso="+1662-02-18" key="j23281422328496" to-iso="+1663-02-07">康熙壬寅</date>受儀徵地藏寺請，至則重建殿堂，輪美奐美。復歷主<lb
+ed="B" n="0410b19"/>荊門之鐵佛、鄂渚之黃龍、漢陽之棲賢，二十年中六坐道場。後<lb
+ed="B" n="0410b20"/>寂于天王。著有《語錄》四卷、《寺志》二卷，尤工詩詞，唱和多名流。而<pb ed="B" xml:id="B27.0151.0411a" n="0411a"/><lb
+ed="B" n="0411a01"/>無傳集。</p>
+    <linkGrp>
+        <link targets="#0410b10 #0410b11"/>
+        <ptr target="#A001716" type="person"/>
+        <ptr target="#A001150" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0410b11 #0410b11"/>
+        <ptr target="#A001716" type="person"/>
+        <ptr target="#A001153" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0410b11 #0410b11"/>
+        <ptr target="#A001716" type="person"/>
+        <ptr target="#A012040" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0410b11 #0410b11"/>
+        <ptr target="#A001716" type="person"/>
+        <ptr target="#A001513" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0410b11 #0410b12"/>
+        <ptr target="#A001716" type="person"/>
+        <ptr target="#A042837" type="person"/>
+    </linkGrp>
+</div>

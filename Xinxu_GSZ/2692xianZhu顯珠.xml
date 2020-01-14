@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0429a16shiXianZhu"><lb
+ed="B" n="0429a16"/><anchor n="B.27.0151.0429a16"/><head>清燕京圓廣寺沙門<persName key="A042377">釋顯珠</persName>傳</head><lb
+ed="B" n="0429a17"/><p xml:id="pB27p0429a1701"><persName key="A042377">釋顯珠</persName>，字<persName key="A042377">慶然</persName>，別號<persName key="A042377">竹心</persName>，姓朱氏，昌平人。父<persName key="A042933">德庫</persName>，母<persName key="A042934">牛氏</persName>，家本<lb
+ed="B" n="0429a18"/>寒素，幼依州城東嶽廟<persName key="A042935">永亮</persName>薙髮，受具於潭柘岫雲<persName key="A042376">棟昌</persName>。既精<lb
+ed="B" n="0429a19"/>律儀，泛及經論，止持兼至，性相雙融。嘗言一夕入定，心契法微，<lb
+ed="B" n="0429a20"/>髣髴有象，若<ref type="person" target="#A002799">黃衲瞿曇</ref>趺坐相對，演述上乘。由是諸妄袪釋，五<pb ed="B" xml:id="B27.0151.0429b" n="0429b"/><lb
+ed="B" n="0429b01"/>蘊俱空。又嘗還顧本形，蛻化枯骨，因念眾生，種種苦厄，作如是<lb
+ed="B" n="0429b02"/>觀。偶往菜畦，詢於老圃：「菜有心否？」答以菜本無心。言下有悟，得<lb
+ed="B" n="0429b03"/>大解脫。燕都阜成闉外有圓廣寺，明隆慶萬曆間曾事修葺，閱<lb
+ed="B" n="0429b04"/>歲三百，棟宇傾廢。<persName key="A042377">珠</persName>來其會，慨然有志，誓復招提。廣祈法喜，得<lb
+ed="B" n="0429b05"/>粟萬斛，金銀五百，凡諸布施，靡不具足。已涉願海，終見伽藍。僧<lb
+ed="B" n="0429b06"/>夏方盛，遽爾就寂，<date when-iso="+1908-09-01" key="j24181862418186">光緒三十四年八月六日</date>也。戶部侍郎鐵嶺<lb
+ed="B" n="0429b07"/>楊儒為撰碑銘，刻之石以貽來者。<!-- 楊儒卒於光緒二十八年 --></p>
+    <linkGrp>
+        <link targets="#0429a17 #0429a17"/>
+        <ptr target="#A042377" type="person"/>
+        <ptr target="#A042933" type="person"/>
+        <ptr target="#A042934" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0429a18 #0429a18"/>
+        <ptr target="#A042377" type="person"/>
+        <ptr target="#A042935" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0429a18 #0429a18"/>
+        <ptr target="#A042377" type="person"/>
+        <ptr target="#A042376" type="person"/>
+    </linkGrp>
+</div>

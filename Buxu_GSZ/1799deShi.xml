@@ -5,7 +5,7 @@
         <lb ed="X" n="0477a21"/>兒嬉戲。輒避匿引去。見僧則喜動顏色。從州之<placeName key="PL000000055891">天寧</placeName>
         <lb ed="X" n="0477a22"/>大比丘<persName key="A022303">一公</persName>。祝髮為沙彌。逮長。詣山城諸剎。既進具。
         <lb ed="X" n="0477a23"/>坐探羣書通大意。已而歎曰。昔吾鄉<persName key="A021350">覺阿</persName>上人。慧解
-        <lb ed="X" n="0477a24"/>精絕。善大小乘。一旦捨所學。附商舶抵中土。謁<persName key="A008408"><placeName key="PL000000011596">靈隱</placeName><lb ed="X" n="0477b01"/>遠</persName>禪師得法。東歸國人景仰。尊之為禪祖。予晚生末
+        <lb ed="X" n="0477a24"/>精絕。善大小乘。一旦捨所學。附商舶抵中土。謁<placeName key="PL000000011596">靈隱</placeName><lb ed="X" n="0477b01"/>遠禪師<!-- 參（專案參考資料夾）佐藤秀孝《入明僧無初徳始の活動とその功績 ： 嵩山少林寺に現存する扶桑沙門徳始書筆の塔銘を踏まえて》頁166 -->得法。東歸國人景仰。尊之為禪祖。予晚生末
         <lb ed="X" n="0477b02"/>學。尚何敢高攀逸駕。而望其後塵。然詎可堅守一隅。
         <lb ed="X" n="0477b03"/>而卒無聞耶。因請于其王。得隨國使<persName key="A022304">宣聞溪</persName>。詣　闕
         <lb ed="X" n="0477b04"/>朝貢。館於<placeName key="PL000000009061">天界寺</placeName>。久之。<persName key="A022304">聞溪</persName>得　旨還國。師偕數輩。
@@ -48,7 +48,6 @@
     <linkGrp>
         <link targets="#0477a24 #0477b01"/>
         <ptr target="#A015651" type="person"/>
-        <ptr target="#A008408" type="person"/>
         <ptr target="#PL000000011596" type="place"/>
     </linkGrp>
     <linkGrp>

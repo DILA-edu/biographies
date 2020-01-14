@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0177a07shiZhiRuo"><lb
+ed="B" n="0177a07"/><anchor n="B.27.0151.0177a07"/><head>明會稽華嚴寺沙門<persName key="A011693">釋志若</persName>傳</head><lb
+ed="B" n="0177a08"/><p xml:id="pB27p0177a0801"><persName key="A011693">釋志若</persName>，字<persName key="A011693">耶溪</persName>，姓姚氏，山陰人也。母晏氏，嘗禱於白衣觀音，祈<lb
+ed="B" n="0177a09"/>生佳兒。夢跣足頭陀謂之曰：「吾與汝作獅子兒。」覺而舉<persName key="A011693">若</persName>。性機<lb
+ed="B" n="0177a10"/>穎，幼喜念佛，合掌趺坐，貌如老僧。父早喪，母孀居。<ref type="date" target="#j22912292291612">七歲</ref>母病，日<lb
+ed="B" n="0177a11"/>夜悲泣。母臨終囑曰：「<ref type="person" target="#A011693">汝</ref>宿僧也，無負本願。」言訖而逝。<persName key="A011693">若</persName>以遺命，<lb
+ed="B" n="0177a12"/>尋禮會稽<persName key="A042778">華嚴賢</persName>出家。<ref type="date" target="#j22948912295244">年十七</ref>始薙染，居常切念生死，即之牛<lb
+ed="B" n="0177a13"/>頭山，矢念參究。未幾從<persName key="A000901">荊山</persName>法師聽《法華經》於天台，即隱山中。<lb
+ed="B" n="0177a14"/>憤求向上，單棲六載，偶觸境有省。<ref type="date" target="#j22981682298552">年二十六</ref>聞<persName key="A004672">雪浪恩</persName>開法於<lb
+ed="B" n="0177a15"/>南都，乃瓢笠而往。先從棲霞<persName key="A008316">素菴</persName>受具，遂依<persName key="A004672">雪浪</persName>座下，執業十<lb
+ed="B" n="0177a16"/>有二載。研窮諸經論，深造玄奧。<date from-iso="+1589-02-15" key="j23014762301830" to-iso="+1590-02-04">明萬曆<anchor xml:id="beg_9f" type="cb-app"/>己<anchor xml:id="end_9f"/>丑</date><anchor xml:id="beg017701"/><choice><sic resp="CBETA">攜</sic><corr resp="PC-MB">檇</corr></choice><anchor xml:id="end017701"/><!-- 《憨山老人夢遊集》卷28：「檇李」(CBETA, X73, no. 1456, p. 661, c1) -->李剏慧華庵，沈<lb
+ed="B" n="0177a17"/>司馬、岳水部，延<persName key="A011693">若</persName>居之。<date from-iso="+1590-02-05" key="j23018312302184" to-iso="+1591-01-24">庚寅</date><persName key="A004257">陸<roleName>太宰</roleName>五臺</persName>、<persName key="A007820">管<roleName>僉憲</roleName>東溟</persName>、<persName key="A042779">劉<roleName>柱史</roleName><!-- 即御史 --><lb
+ed="B" n="0177a18"/>子威</persName>請講《楞嚴》於吳門。<date from-iso="+1592-02-13" key="j23025692302922" to-iso="+1593-01-31">壬辰</date>講《法華》於杭之靈隱。<ref type="date" target="#j23029232303306">明年</ref>講《楞嚴》<lb
+ed="B" n="0177a19"/>於淨慈。<date from-iso="+1602-01-23" key="j23062012306584" to-iso="+1603-02-10">壬寅</date>棲息武林飛來峯，北有永福寺故址，廢入民間。潘<lb
+ed="B" n="0177a20"/>太常贖建佛閣，禪堂既成，以<persName key="A011693">若</persName>居之，三吳兩淛皆宗。<persName key="A011693">若</persName>教化隨<pb ed="B" xml:id="B27.0151.0177b" n="0177b"/><lb
+ed="B" n="0177b01"/>在列剎，開演諸經論者三十餘處，坐禪五十餘期，稱一代師匠<lb
+ed="B" n="0177b02"/>云。寂於萬曆丁<anchor xml:id="beg_a0" type="cb-app"/>巳<anchor xml:id="end_a0"/>某月九日，壽六十有四，臘四十有七。先一日<lb
+ed="B" n="0177b03"/>示微疾，手書遺<persName key="A001681">憨山</persName>，囑弟子曰：「<ref type="person" target="#A011693">我</ref>留最後供，必為獻之。」明日索<lb
+ed="B" n="0177b04"/>浴，自起更衣，端坐而逝。生平清節自守，應世<anchor xml:id="beg017702"/><choice><sic resp="CBETA">嚼</sic><corr resp="PC-MB">皭</corr></choice><anchor xml:id="end017702"/>然。三衣之外無<lb
+ed="B" n="0177b05"/>長物，臨化脫然無罣礙。蓋乘夙慧，般若根深，人未易察也。<persName key="A001681">憨山</persName><lb
+ed="B" n="0177b06"/>為擷其芳菲，以詔後來。</p>
+    <linkGrp>
+        <link targets="#0177a12 #0177a12"/>
+        <ptr target="#A011693" type="person"/>
+        <ptr target="#A042778" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0177a13 #0177a13"/>
+        <ptr target="#A011693" type="person"/>
+        <ptr target="#A000901" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0177a14 #0177a15"/>
+        <ptr target="#A011693" type="person"/>
+        <ptr target="#A004672" type="person"/>
+        <ptr target="#j22981682298552" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0177a15 #0177a15"/>
+        <ptr target="#A011693" type="person"/>
+        <ptr target="#A008316" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0177a17 #0177a18"/>
+        <ptr target="#A011693" type="person"/>
+        <ptr target="#A004257" type="person"/>
+        <ptr target="#A007820" type="person"/>
+        <ptr target="#A042779" type="person"/>
+        <ptr target="#j22981682298552" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0177b03 #0177b03"/>
+        <ptr target="#A011693" type="person"/>
+        <ptr target="#A001681" type="person"/>
+    </linkGrp>
+</div>

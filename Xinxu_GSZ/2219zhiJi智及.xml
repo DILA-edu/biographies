@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0160b11shiZhiJi"><lb
+ed="B" n="0160b11"/><anchor n="B.27.0151.0160b11"/><head>明杭州淨慈寺沙門<persName key="A015578">釋智及</persName>傳<persName type="secondary" key="A000062">廣智</persName></head><lb
+ed="B" n="0160b12"/><p xml:id="pB27p0160b1201"><persName key="A015578">釋智及</persName>，字<persName key="A015578">以中</persName>，別號<persName key="A015578">西麓</persName>，自題所居曰愚菴，姓顧氏，吳人也。謁<lb
+ed="B" n="0160b13"/><persName key="A000062">廣智</persName>於龍翔。微露文彩，<persName key="A000062">廣智</persName>大驚。有<persName key="A022272">聚上人</persName>者，呵之曰：「子才俊<lb
+ed="B" n="0160b14"/>爽若此，不思負荷大法，甘作《詩》《騷》奴僕乎？《無盡鐙》偈所謂『黃葉<lb
+ed="B" n="0160b15"/>飄飄』者，何謂也？」<persName key="A015578">智及</persName>噤不能答，即歸海雲。胸中如礙巨石，目不<lb
+ed="B" n="0160b16"/>交睫者踰月。忽見秋葉吹墜於庭，豁然有省。雖喜不自勝，不取<lb
+ed="B" n="0160b17"/>證明，眼恐涉偏執。乃走見<persName key="A001032">徑山</persName>，<persName key="A001032">山</persName>勘之，<persName key="A015578">智及</persName>應機不滯，遂命執<lb
+ed="B" n="0160b18"/>侍。久之，乃掌藏室。<date from-iso="+1342-02-14" key="j22112602211614" to-iso="+1343-02-03">元至正壬午</date>，行院欽其道譽，推主昌國隆教，<lb
+ed="B" n="0160b19"/>轉普慈。未幾，行省左丞相<persName key="A008221">達識</persName>公延主淨慈，復請遷徑山。一日，<lb
+ed="B" n="0160b20"/><persName key="A008221">達識帖睦爾</persName>翩然來游，直趨方丈，便問《淨名》『丈室容三萬二千<pb ed="B" xml:id="B27.0151.0161a" n="0161a"/><lb
+ed="B" n="0161a01"/>獅子座』<!-- 《佛說維摩詰經》卷1〈不思議品 6〉：「維摩詰所說經不思議品第六」(CBETA, T14, no. 474, p. 527, a15) -->，淨慈丈室容多少？」<persName key="A015578">智及</persName>云：「一塵不立。」<ref type="person" target="#A008221">丞相</ref>云：「與麼覿體<lb
+ed="B" n="0161a02"/>相違？」<persName key="A015578">智及</persName>揭簾云：「請<ref type="person" target="#A008221">丞相</ref>鑑。」乃笑謝曰：「作家宗師，不勞再勘。」<date from-iso="+1373-02-01" key="j22225702222953" to-iso="+1374-02-19">明<lb
+ed="B" n="0161a03"/>洪武癸丑</date>，詔有道碩僧十餘人，集天界寺，褎然<!-- 傑出貌 -->居首。以病不能<lb
+ed="B" n="0161a04"/>一對，賜還穹窿山，即海雲所在也。<date from-iso="+1378-09-01" key="j22246082224636" to-iso="+1378-09-29">戊午八月</date>忽示疾，至<date when-iso="+1378-10-03" key="j22246402224640">九月四<lb
+ed="B" n="0161a05"/>日</date>，索筆書偈而逝。荼毗，火燄化成五色，有氣襲人如沈香。遺骨<lb
+ed="B" n="0161a06"/>紺澤，類青琉璃色，設利羅交輟於其上。其徒奉以藏海雲山陰，<lb
+ed="B" n="0161a07"/>又分爪髮歸徑山瘞焉！</p>
+    <linkGrp>
+        <link targets="#0160b13 #0160b15"/>
+        <ptr target="#A015578" type="person"/>
+        <ptr target="#A000062" type="person"/>
+        <ptr target="#A022272" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0160b17 #0160b18"/>
+        <ptr target="#A015578" type="person"/>
+        <ptr target="#A001032" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0160b19 #0161a02"/>
+        <ptr target="#A015578" type="person"/>
+        <ptr target="#A008221" type="person"/>
+    </linkGrp>
+</div>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0429b08shiPuDe"><lb
+ed="B" n="0429b08"/><anchor n="B.27.0151.0429b08"/><head>清燕京潭柘岫雲寺沙門<persName key="A042313">釋普德</persName>傳</head><lb
+ed="B" n="0429b09"/><p xml:id="pB27p0429b0901"><persName key="A042313">釋普德</persName>，字<persName key="A042313">慈雲</persName>，姓傅氏，大興人也。母<persName key="A042937">賈氏</persName>，慈心愛物，茹素奉佛。<lb
+ed="B" n="0429b10"/>生子三，長次皆以痘殤。<persName key="A042313">德</persName>最小，尤鍾愛。及痘發，復瀕于危，乃虔<lb
+ed="B" n="0429b11"/>心禱佛，願度為僧，竟獲安。<ref type="date" target="#j23913082391691">九歲</ref>禮藥王廟<persName key="A042938">奇峰</persName>為師，未入寺而<lb
+ed="B" n="0429b12"/><persName key="A042938">峰</persName>寂，因從同參長者學經典。寺有塾師，教授童蒙，日就正之，兼<lb
+ed="B" n="0429b13"/>誦儒書，頗解文義。<ref type="date" target="#j23949702395323">年十九</ref>始祝髮。<date from-iso="+1845-10-31" key="j23952362395323" to-iso="+1846-01-26">道光二十五年冬</date>登潭柘山，<lb
+ed="B" n="0429b14"/>秉尸羅於<persName key="A042373">西峰</persName>，由是親近善友，棲息禪堂，精研毘尼，舉止威儀，<lb
+ed="B" n="0429b15"/>昕夕無懈。眾以清才目之，後膺維那、充收掌，和輯僧伽，權衡出<lb
+ed="B" n="0429b16"/>入，秋豪<!-- 通「毫」 -->不爽。復擢引禮，至教授羯磨，二十年間，備歷辛勤。尤以<lb
+ed="B" n="0429b17"/>謹慎小心，不昧因果為本，故一生廉介自持，不寶珍翫，不苟財<lb
+ed="B" n="0429b18"/>利。嘗曰：「珍奇異物，人之所欲；遠之則無害仁義道德，人之所尚，<lb
+ed="B" n="0429b19"/>行之則致祥。<ref type="person" target="#A042313">吾</ref>輩身登戒品，當力除貪嗔，勉修梵德，庶報佛恩<lb
+ed="B" n="0429b20"/>耳！」翊教寺<persName key="A042939">海然</persName>，察其功行，知為法門砥柱，以所得敕封<persName key="A001152">闡教禪<pb ed="B" xml:id="B27.0151.0430a" n="0430a"/><lb
+ed="B" n="0430a01"/>師達天理</persName>祖衣卷付<ref type="person" target="#A042313">之</ref>，為賢首宗三十四世，<persName key="A001152">達天</persName>第五傳也。自<lb
+ed="B" n="0430a02"/>得法後，益加策勵。<date from-iso="+1867-02-05" key="j24030032403356" to-iso="+1868-01-24">同治六年</date>，為眾推舉，繼席岫雲，倡導清修，法<lb
+ed="B" n="0430a03"/>侶雲從，食指恆逾二千，法喜之盛，異於曩日。每念梵宇傾圯，風<lb
+ed="B" n="0430a04"/>雨飄搖，遊眾往來，無所棲止。於是先立剎竿，以壯觀瞻；次修齋<lb
+ed="B" n="0430a05"/>堂，以供僧飯。繼而東西諸殿、南樓禪寮、左右廊廡、方丈靜室，上<lb
+ed="B" n="0430a06"/>則舍利塔，大悲殿外則龍潭觀音洞，少師室闕者補之，舊者新<lb
+ed="B" n="0430a07"/>之，金碧輝煌，參天耀日。其他則有黎園奉福寺、城內翊教寺，皆<lb
+ed="B" n="0430a08"/>下院也。并嚴藻繪，蔚為大觀。二者尤以奉福為香火出納，財產<lb
+ed="B" n="0430a09"/>總匯之區。每當秋月春風，游客往來，檀越憇息，得信宿之安，免<lb
+ed="B" n="0430a10"/>奔馳之勞，人多便之。<persName key="A042313">普德</persName>幼性穎異絕倫，雙眸炯炯如曉星，言<lb
+ed="B" n="0430a11"/>笑不苟，素喜事佛，雖在塵俗，常默默端坐如僧伽，識者知為再<lb
+ed="B" n="0430a12"/>來人。事母尤孝，所得<g ref="#CB01321">䞋</g>資，悉以供養，不使年老有所缺乏。既居<lb
+ed="B" n="0430a13"/>丈室，更持平等，六時行道，一意念佛，法眼所照，職事得人，故能<lb
+ed="B" n="0430a14"/>興廢起衰，所作皆辦。</p>
+    <linkGrp>
+        <link targets="#0429b09 #0429b11"/>
+        <ptr target="#A042313" type="person"/>
+        <ptr target="#A042937" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0429b11 #0429b11"/>
+        <ptr target="#A042313" type="person"/>
+        <ptr target="#A042938" type="person"/>
+        <ptr target="#j23913082391691" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0429b13 #0429b14"/>
+        <ptr target="#A042313" type="person"/>
+        <ptr target="#A042373" type="person"/>
+        <ptr target="#j23952362395323" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0429b20 #0430a01"/>
+        <ptr target="#A042313" type="person"/>
+        <ptr target="#A042939" type="person"/>
+    </linkGrp>
+</div>

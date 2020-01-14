@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="護法" xml:id="gsz0276a03shiXianWen"><lb
+ed="B" n="0276a03"/><anchor n="B.27.0151.0276a03"/><head>清金陵毘盧寺沙門<persName key="A022566">釋顯文</persName>傳</head><lb
+ed="B" n="0276a04"/><p xml:id="pB27p0276a0401"><persName key="A022566">釋顯文</persName>，字<persName key="A022566">魁印</persName>，姓楊氏，易人也。幼有慈性，與羣兒嬉戲，見草蟲<lb
+ed="B" n="0276a05"/>躍躍，相誡勿傷，父知其有自<!-- 有其原因 -->。<ref type="date" target="#j24026482403002">年十一</ref>送之永陽高明寺，投<persName key="A042815">覺實</persName><lb
+ed="B" n="0276a06"/>祝髮。<ref type="date" target="#j24059262406279">弱冠</ref>得戒於西域山<persName key="A042816">慈霞</persName>。自是識深力果，每念出家，將求<lb
+ed="B" n="0276a07"/>聞道，何敢自逸。迺遊溫陽紅螺山，晝夜精勤誦《楞嚴》《法華》諸經，<lb
+ed="B" n="0276a08"/>研窮六載，洞悉奧旨。然自以為囿於一隅，見聞憾寡，欲徧名山，<lb
+ed="B" n="0276a09"/>以廓知識。遂造九華翠峯，日趨講座，頓悟性海，受持〈華嚴如來<lb
+ed="B" n="0276a10"/>出現品〉，遊江乘赤山，依<persName key="A042194">法忍</persName>參向上一宗。偶逢石子擊足，忽驚<lb
+ed="B" n="0276a11"/>呼有省。由是深窺堂奧，結習盡除。<date from-iso="+1902-02-08" key="j24157892415877" to-iso="+1902-05-07">壬寅春</date>結茅廬山，旦暮勤修，<lb
+ed="B" n="0276a12"/>脅不著席，幾出死生。<persName key="A042817">劉<roleName>觀察</roleName>思訓</persName>耳其道譽，請主金陵毘廬。斯<lb
+ed="B" n="0276a13"/>時新學方行，倡毀偶像，多假僧堂改為校舍。毘盧殿宇，蚤已佔<lb
+ed="B" n="0276a14"/>去，神像遷移，蒙諸污穢。<persName key="A022566">顯文</persName>至此惄焉傷之，思所以救護，未得<lb
+ed="B" n="0276a15"/>其端。會江南官吏公讌<!-- 宴飲 -->，至寺或詢法要、或契禪機。<persName key="A022566">顯文</persName>為具道：<lb
+ed="B" n="0276a16"/>學徒鴟張<!-- 囂張 -->，佛地弗寧，慘雨淒風，目不忍覩，非賴大德，莫由保持。<lb
+ed="B" n="0276a17"/>諸公皆為動容，合詞以請制府<persName key="A042818">魏<roleName>公</roleName>光燾</persName>，竟如其議，別建學堂，<lb
+ed="B" n="0276a18"/>寺復舊觀，佛龕神貌更極尊嚴。羣侶慶幸，歎其遭逢。而<persName key="A022566">顯文</persName>但<lb
+ed="B" n="0276a19"/>感善緣，愧無酬答，唯是大闡宗風，春夏演講，秋冬勤參，發明心<lb
+ed="B" n="0276a20"/>地。時或弘戒一期，食眾數百人，而寺無蓋藏<!-- 儲藏 -->。前後制府若<persName key="A042819">周<roleName>公</roleName><pb ed="B" xml:id="B27.0151.0276b" n="0276b"/><lb
+ed="B" n="0276b01"/>馥</persName>、<persName key="A042820">端<roleName>公</roleName>方</persName>皆分鹽餘助之，故無竭乏。<date from-iso="+1910-01-11" key="j24186832418712" to-iso="+1910-02-09">宣統初元臘</date>，將終示微疾，<lb
+ed="B" n="0276b02"/>與天台<persName key="A001825">諦閑</persName>論慧命當體無生，俄而復曰：「色相雖圓，闡揚華嚴，<lb
+ed="B" n="0276b03"/>心猶未已。」因問後事如何？乃曰：「心顯身中主，意隱兩家賓；火後<lb
+ed="B" n="0276b04"/>一堆骨，且休認為真。」即說偈曰：「參透人間世事禪，半如雲影半<lb
+ed="B" n="0276b05"/>如煙；有時得遇東風便，直向山頭駕鐵船。」言訖而寂，年五十有<lb
+ed="B" n="0276b06"/>三。有法語一卷，弟子<persName key="A042821">清池</persName>為之記錄，且刊行焉！</p>
+    <linkGrp>
+        <link targets="#0276a05 #0276a06"/>
+        <ptr target="#A022566" type="person"/>
+        <ptr target="#A042815" type="person"/>
+        <ptr target="#j24026482403002" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0276a06 #0276a06"/>
+        <ptr target="#A022566" type="person"/>
+        <ptr target="#A042816" type="person"/>
+        <ptr target="#j24059262406279" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0276a10 #0276a10"/>
+        <ptr target="#A022566" type="person"/>
+        <ptr target="#A042194" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0276a12 #0276a12"/>
+        <ptr target="#A022566" type="person"/>
+        <ptr target="#A042817" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0276a17 #0276a17"/>
+        <ptr target="#A022566" type="person"/>
+        <ptr target="#A042818" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0276a20 #0276b01"/>
+        <ptr target="#A022566" type="person"/>
+        <ptr target="#A042819" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0276a20 #0276b01"/>
+        <ptr target="#A022566" type="person"/>
+        <ptr target="#A042820" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0276b06 #0276b06"/>
+        <ptr target="#A022566" type="person"/>
+        <ptr target="#A042821" type="person"/>
+    </linkGrp>
+</div>

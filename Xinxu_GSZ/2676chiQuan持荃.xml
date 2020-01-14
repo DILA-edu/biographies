@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0420b20shiChiQuan"><lb
+ed="B" n="0420b20"/><anchor n="B.27.0151.0420b20"/><head>清四明阿育王山沙門<persName key="A007237">釋持荃</persName>傳</head><lb
+ed="B" n="0421a01"/><p xml:id="pB27p0421a0101"><persName key="A007237">釋持荃</persName>，字<persName key="A007237">嵩來</persName>，六齡芟染。初依鎮海海雲庵，雖屬沙彌，已露頭<lb
+ed="B" n="0421a02"/>角。年十六為大僧，始參學於育王，<persName key="A009325">秋遠</persName>一見器<ref type="person" target="#A007237">之</ref>，留掌書記。大<lb
+ed="B" n="0421a03"/>藏之外，兼及百家，穎悟貫通，頗窮玅理。迨<persName key="A009325">秋</persName>老謝世，<persName key="A007237">荃</persName>以次相<lb
+ed="B" n="0421a04"/>繼主席。初育王久經殘燬，一望蕭然，舍利殿外僅方丈數楹。<persName key="A007237">荃</persName><lb
+ed="B" n="0421a05"/>苦心焦慮，締構經營，荒煙蔓草間，忽見金碧煇煌，遠近緇白，咸<lb
+ed="B" n="0421a06"/>深讚頌，宗風大闡，學侶雲集。<date from-iso="+1751-01-27" key="j23606262360714" to-iso="+1751-04-25">乾隆十六年春</date>，翠華<!-- 天子車蓋 -->南幸，<persName key="A007237">荃</persName>隨班<lb
+ed="B" n="0421a07"/>奉迓於武林，乃聖眷東顧，稠人廣眾中，獨奇<persName key="A007237">荃</persName>儀表。召至馬前，<lb
+ed="B" n="0421a08"/>垂訊殷殷，酬荅無爽，賞賚有差。回鑾後又賜御書《心經》一卷。<date from-iso="+1756-01-31" key="j23624562362839" to-iso="+1757-02-17">二<lb
+ed="B" n="0421a09"/>十一年</date>再覲<ref type="person" target="#A006727">天</ref>顏，特賜紫衣，他物稱之。<persName key="A007237">荃</persName>自遭際恩榮，益知策<lb
+ed="B" n="0421a10"/>勵，復造承恩堂，以大其賜。精進修持，老而更篤。寂於<date when-iso="+1760-01-07" key="j23638932363893">乾隆<anchor xml:id="beg_1d8" type="cb-app"/>己<anchor xml:id="end_1d8"/>卯<lb
+ed="B" n="0421a11"/>十一月二十日</date>。著有《語錄》一卷，弟子<persName key="A042875">證性</persName>編而刻之。今見傳本。</p>
+    <linkGrp>
+        <link targets="#0421a02 #0421a02"/>
+        <ptr target="#A007237" type="person"/>
+        <ptr target="#A009325" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0421a06 #0421a08"/>
+        <ptr target="#A007237" type="person"/>
+        <ptr target="#A006727" type="person"/>
+        <ptr target="#j23606262360714" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0421a08 #0421a09"/>
+        <ptr target="#A007237" type="person"/>
+        <ptr target="#A006727" type="person"/>
+        <ptr target="#j23624562362839" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0421a11 #0421a11"/>
+        <ptr target="#A007237" type="person"/>
+        <ptr target="#A042875" type="person"/>
+    </linkGrp>
+</div>

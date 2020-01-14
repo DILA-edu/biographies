@@ -8,7 +8,7 @@
         <html>
             <head><title>test</title></head>
             <body>
-                <div><xsl:apply-templates select="/TEI/text/body/div"/></div>
+                <div><xsl:apply-templates select="div"/></div>
             </body>
         </html>
     </xsl:template>

@@ -21,7 +21,7 @@
         <lb ed="X" n="0485b23"/>師曰。眉毛眼上橫。鼻孔大頭垂。又問如何是無字意。
         <lb ed="X" n="0485b24"/>師曰。風行草偃。水到渠成。又問。大地平沉。虗空粉碎。
         <lb ed="X" n="0485c01"/>汝向甚麼處。安身立命。師曰。雲消山嶽露。日出海天
-        <lb ed="X" n="0485c02"/>青。<persName key="A010869">谷</persName>肯之。<date from-iso="1457-02-24" to-iso="1464-03-03" key="j22532732255837">天順</date>改元。還<placeName key="PL000000005250">清涼</placeName>。道聲遠播。<persName key="A022424">代藩</persName>請詣內
+    <lb ed="X" n="0485c02"/>青。<persName key="A010869">谷</persName>肯之。<date from-iso="1457-02-24" to-iso="1464-03-03" key="j22532732255837">天順</date>改元。還<placeName key="PL000000005250">清涼</placeName>。道聲遠播。<persName key="A010036">代藩</persName><!-- 《清涼山志．卷2．普濟寺》：「華嚴谷，亦名『北山寺』。明成化間，澄孤月禪行聞於代王成煉，始建寺，今為代王香火。」(《中國佛寺史志彙刊》，第2輯，第29冊，頁0073)案《明史．卷101》：「隱王仕㙻，戾庶一子，正統十三年（1448）襲封。天順七年（1463）薨。……惠王成鍊，隱嫡一子，成化二年（1466）襲封。弘治二年（1489）薨。」今以成鍊為代王。 -->請詣內
         <lb ed="X" n="0485c03"/>掖問道。感光明炤徹內外。王大悅。因就<placeName key="PL000000005347">華嚴谷</placeName>建寺。
         <lb ed="X" n="0485c04"/>請額曰<placeName key="PL000000005382">普濟</placeName>。奉師開法其中。有清涼語錄。行世。甞作
         <lb ed="X" n="0485c05"/>山居詩云。甘貧林下思悠悠。竹榻橫眠枕石頭。格外
@@ -84,7 +84,7 @@
     <linkGrp>
         <link targets="#0485c02 #0485c04"/>
         <ptr target="#A009354" type="person"/>
-        <ptr target="#A022424" type="person"/>
+        <ptr target="#A010036" type="person"/>
         <ptr target="#PL000000005382" type="place"/>
     </linkGrp>
 </div>
