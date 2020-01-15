@@ -1,18 +1,23 @@
 # -*- coding: utf8 -*-
 '''
 2011.1.7-4.13 Ray Chou
+
+mac
+	conda activate base
+	python validate.py /Library/jing/jing.jar
 '''
+
 from lxml import etree
 import codecs,datetime,glob,os,re,shutil,sys,time
 
 rnc='../Schema/gisSchema.rnc'
 fn_out='validate.txt'
-jing='d:/bin/jing/jing.jar'
 
 def my_mkdir(p):
 	if not os.path.exists(p): os.mkdir(p)
 
 def validate(p):
+	global jing
 	cmd='java -Dorg.apache.xerces.xni.parser.XMLParserConfiguration=org.apache.xerces.parsers.XIncludeParserConfiguration '
 	cmd+='-jar %s' % jing
 	
@@ -40,6 +45,11 @@ def do1dir(dir, sel):
 			if sel=='' or vol.startswith(sel): do1vol(vol)
 
 # main
+if len(sys.argv) > 1:
+	jing = sys.argv[1]
+else: 
+	jing='d:/bin/jing/jing.jar'
+
 if os.path.exists('validate.txt'): os.remove('validate.txt')
 validate('../Tang_GSZ/wrapper-tang.xml')
 validate('../Song_GSZ/wrapper-song.xml')
@@ -48,4 +58,5 @@ validate('../Liang_GSZ/wrapper-liang.xml')
 validate('../Ming_GSZ/wrapper-ming.xml')
 validate('../Mingsengzhuanchao/MSCCwrapper-Mingsengzhuanchao.xml')
 validate('../chuSanZangJiJi/wrapper-chuSanZangJiJi.xml')
-validate(r'D:\git-repos\biographies\Buxu_GSZ\wrapper-buxu.xml')
+validate('../Buxu_GSZ/wrapper-buxu.xml')
+validate('../Xinxu_GSZ/wrapper-xinxu.xml')
