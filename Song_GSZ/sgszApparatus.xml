@@ -5585,7 +5585,7 @@
 			<rdg resp="Taisho" wit="【宋】【元】">惠照</rdg>
 			<rdg resp="PC-JK-MB" wit="【范】【磧】">惠照</rdg>
 		</app>
-		<app from="beg0816sgsz2" ana="appType2b">
+		<app from="beg0816sgsz2" ana="appType3c"><!-- 《金石文字辨異‧去聲‧十七霰》p.23薦、廌互通 -->
 			<lem wit="【大】">薦</lem>
 			<rdg resp="PC-JK-MB" wit="【范】【磧】">廌</rdg>
 		</app>
@@ -8850,10 +8850,10 @@
 			<lem wit="【大】">華</lem>
 			<rdg resp="PC-JK-MB" wit="【范】【磧】【宮】">花</rdg>
 		</app>
-		<app from="beg0872sgsz12" ana="appType1b">
+		<app from="beg0872sgsz12" ana="appType2b">
 			<lem wit="【大】">徙</lem>
 			<rdg resp="PC-JK-MB" wit="【范】【磧】">徒</rdg>
-			<rdg resp="PC-JK-MB" wit="【宮】">徙</rdg>
+			<rdg resp="PC-JK-MB" wit="【宮】">徙</rdg><!-- 四庫亦作「徙」 -->
 		</app>
 		<app from="beg0872sgsz13" ana="appType2b">
 			<lem wit="【大】">音</lem>
@@ -9783,7 +9783,7 @@
 			<lem wit="【大】">禮</lem>
 			<rdg resp="PC-JK-MB" wit="【范】【磧】【宮】">礼</rdg>
 		</app>
-		<app from="beg0886sgsz13" ana="appType2a">
+		<app from="beg0886sgsz13" ana="appType3c"><!-- 《金石文字辨異‧去聲‧十七霰》p.23薦、廌互通 -->
 			<lem wit="【大】">薦</lem>
 			<rdg resp="PC-JK-MB" wit="【范】">薦</rdg>
 			<rdg resp="PC-JK-MB" wit="【磧】【宮】">廌</rdg>
@@ -9954,69 +9954,80 @@
 		<app from="beg0888002" ana="appType0">
 			<lem wit="【大】">歛</lem>
 			<rdg resp="Taisho" wit="【宋】【元】">斂</rdg>
-			<rdg resp="PC-JK-MB" wit="【范】【磧】">斂</rdg>
+			<rdg resp="PC-JK-MB" wit="【范】【磧】【宮】">斂</rdg>
+		</app>
+		<app from="beg0889sgsz2" ana="appType3c">
+			<lem wit="【大】">蘇</lem>
+			<rdg resp="PC-JK-MB" wit="【范】【磧】【宮】">穌</rdg>
 		</app>
 		<app from="beg0889sgsz3" ana="appType0">
 			<lem wit="【大】">間</lem>
-			<rdg resp="PC-JK-MB" wit="【范】【磧】">閒</rdg>
+			<rdg resp="PC-JK-MB" wit="【范】【磧】【宮】">閒</rdg>
 		</app>
 		<app from="beg0889sgsz5" ana="appType3a">
 			<lem wit="【大】">禮</lem>
-			<rdg resp="PC-JK-MB" wit="【范】【磧】">礼</rdg>
+			<rdg resp="PC-JK-MB" wit="【范】【磧】【宮】">礼</rdg>
 		</app>
 		<app from="beg0889001" ana="appType1a">
 			<lem wit="【大】">遭</lem>
 			<rdg resp="Taisho" wit="【宋】【元】">遣</rdg>
-			<rdg resp="PC-JK-MB" wit="【范】【磧】">遣</rdg>
+			<rdg resp="PC-JK-MB" wit="【范】【磧】【宮】">遣</rdg>
 		</app>
 		<app from="beg0889sgsz7" ana="appType1b">
 			<lem wit="【大】">左</lem>
-			<rdg resp="PC-JK-MB" wit="【范】【磧】">在</rdg>
+			<rdg resp="PC-JK-MB" wit="【范】【磧】【宮】">在</rdg>
 		</app>
 		<app from="beg0889sgsz9" ana="appType2b">
 			<lem wit="【大】">椶櫚</lem>
 			<rdg resp="PC-JK-MB" wit="【范】【磧】">𣙺<g ref="#Z1282"/></rdg>
+			<rdg resp="PC-JK-MB" wit="【宮】">椶櫚</rdg>
 		</app>
 		<app from="beg0889002" ana="appType0">
 			<lem wit="【大】">耶</lem>
 			<rdg resp="Taisho" wit="【宋】">邪</rdg>
-			<rdg resp="PC-JK-MB" wit="【范】【磧】">邪</rdg>
+			<rdg resp="PC-JK-MB" wit="【范】【磧】【宮】">邪</rdg>
 		</app>
 		<app from="beg0889sgsz10" ana="appType0">
 			<lem wit="【大】">耶</lem>
 			<rdg resp="Taisho" wit="【宋】">邪</rdg>
-			<rdg resp="PC-JK-MB" wit="【范】【磧】">邪</rdg>
+			<rdg resp="PC-JK-MB" wit="【范】【磧】【宮】">邪</rdg>
 		</app>
 		<app from="beg0889sgsz11" ana="appType1b">
 			<lem wit="【大】">藥</lem>
-			<rdg resp="PC-JK-MB" wit="【范】【磧】">衆</rdg>
+			<rdg resp="PC-JK-MB" wit="【范】【磧】【宮】">衆</rdg>
 		</app>
 		<app from="beg0889sgsz13" ana="appType0">
 			<lem wit="【大】">間</lem>
-			<rdg resp="PC-JK-MB" wit="【范】【磧】">閒</rdg>
+			<rdg resp="PC-JK-MB" wit="【范】【磧】【宮】">閒</rdg>
 		</app>
 		<app from="beg0889sgsz15" ana="appType0">
 			<lem wit="【大】">間</lem>
-			<rdg resp="PC-JK-MB" wit="【范】【磧】">閒</rdg>
+			<rdg resp="PC-JK-MB" wit="【范】【磧】【宮】">閒</rdg>
+		</app>
+		<app from="beg0890sgsz1" ana="appType1b">
+			<lem wit="【大】">樓</lem>
+			<rdg resp="PC-JK-MB" wit="【范】【磧】【宮】">棲</rdg><!--四庫亦作「棲」-->
 		</app>
 		<app from="beg0890001" ana="appType3b">
 			<lem wit="【大】">洛陽</lem>
 			<rdg resp="Taisho" wit="【宋】">洛京</rdg>
 			<rdg resp="PC-JK-MB" wit="【范】【磧】">洛陽</rdg>
+			<rdg resp="PC-JK-MB" wit="【宮】">洛京</rdg>
 		</app>
-		<app from="beg0890sgsz1" ana="appType3a">
+		<app from="beg0890sgsz2" ana="appType3a">
 			<lem wit="【大】">禮</lem>
-			<rdg resp="PC-JK-MB" wit="【范】【磧】">礼</rdg>
+			<rdg resp="PC-JK-MB" wit="【范】【磧】【宮】">礼</rdg>
 		</app>
 		<app from="beg0890002" ana="appType1c">
 			<lem wit="【大】">歟</lem>
 			<rdg resp="Taisho" wit="【宋】">也</rdg>
 			<rdg resp="PC-JK-MB" wit="【范】【磧】">歟</rdg>
+			<rdg resp="PC-JK-MB" wit="【宮】">也</rdg>
 		</app>
-		<app from="beg0890003" ana="appType2a">
+		<app from="beg0890003" ana="appType3c"><!-- 《金石文字辨異‧去聲‧十七霰》p.23薦、廌互通 -->
 			<lem wit="【大】">薦</lem>
 			<rdg resp="PC-JK-MB" wit="【范】">薦</rdg>
-			<rdg resp="PC-JK-MB" wit="【磧】">廌</rdg>
+			<rdg resp="PC-JK-MB" wit="【磧】【宮】">廌</rdg>
 		</app>
 		<app from="beg0890sgsz3" ana="appType2a">
 			<lem wit="【大】">任</lem>
@@ -10467,7 +10478,7 @@
 			<rdg resp="PC-JK-MB" wit="【范】">干</rdg>
 			<rdg resp="PC-JK-MB" wit="【磧】">于</rdg>
 		</app>
-		<app from="beg0898004" ana="appType2a">
+		<app from="beg0898004" ana="appType2a"><!-- 《金石文字辨異‧去聲‧十七霰》p.23薦、廌互通 -->
 			<lem wit="【大】">薦</lem>
 			<rdg resp="Taisho" wit="【宋】【元】">廌</rdg>
 			<rdg resp="PC-JK-MB" wit="【范】">薦</rdg>

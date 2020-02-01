@@ -102,7 +102,7 @@
 <note xml:id="g100" resp="PC-JK-MB">教令輪，指密教。</note>
 <note xml:id="g101" resp="PC-JK-MB">芻靈，用草紮成的人、馬。古時用以殉葬。</note>
 <note xml:id="g102" resp="PC-JK-MB">充窮，悲慼貌。語出《禮記‧檀弓上》：「始死，充充如有窮。」</note>
-<note xml:id="g103" resp="PC-JK-MB">𤛴，音「tāo（ㄊㄠ）」，牛羊不生子。一作「㹇」，音「jiān（ㄐㄧㄢ）」，閹牛也，非。</note>
+<note xml:id="g103" resp="PC-JK-MB">𤛴，<seg type="pronunciation">音「tāo（ㄊㄠ）」，</seg>牛羊不生子。一作「㹇」，<seg type="pronunciation">音「jiān（ㄐㄧㄢ）」，</seg>閹牛也，非。</note>
 <note rend="display:none;" xml:id="g104" resp="PC-JK-MB">薦，同「荐」，頻仍也。《十三經‧左傳‧僖公十三年》：「冬，晉荐饑，使乞糴于秦。」</note>
 <note xml:id="g105" resp="PC-JK-MB">琅函，書匣也；玉曆，曆書也。俱泛指宮廷書籍。</note>
 <note xml:id="g106" resp="PC-JK-MB">大遍知，<name>梵</name>語<seg type="latin">parijñā</seg>，謂盡知一切。詳《佛光‧遍知》頁5616。</note>
@@ -432,7 +432,7 @@
 <note xml:id="g430" resp="PC-JK-MB">鏞，大鐘。</note>
 <note xml:id="g431" resp="PC-JK-MB">鈐鍵，關鍵、門鍵。</note>
 <note xml:id="g432" resp="PC-JK-MB">無漏，<name>梵</name>語<seg type="latin">anāsravaḥ</seg>，謂離一切煩惱。</note>
-<note xml:id="g433" resp="PC-JK-MB">光音天，<name>梵</name>語<seg type="latin">ābhāsvara</seg>。即四界天之一 。在此界中，眾生以光明代替語言。<ref cRef="CBETA, T55, no. 2149, p. 224, a17-22">《大唐內典錄》CBETA, T55, no. 2149, p. 224, a17-22</ref>：「佛生<placeName key="PL000000048207">天竺</placeName>，彼土士族婆羅門者，總稱為『梵』。梵者，清淨也，承胤光音天。其光音天，梵世最下。劫初來此，食地肥者身重不去，因即為人，仍其本名，故稱為<name>梵</name>。語言及書既象於天，是以彼云<name>梵</name>書、<name>梵</name>語。」</note>
+<note xml:id="g433" resp="PC-JK-MB">光音天，<name>梵</name>語<seg type="latin">ābhāsvara</seg>。即四界天之一 。在此界中，眾生以光明代替語言。<ref cRef="CBETA_T55_n2149_p224_a17-p224_a22">《大唐內典錄》CBETA, T55, no. 2149, p. 224, a17-22</ref>：「佛生<placeName key="PL000000048207">天竺</placeName>，彼土士族婆羅門者，總稱為『梵』。梵者，清淨也，承胤光音天。其光音天，梵世最下。劫初來此，食地肥者身重不去，因即為人，仍其本名，故稱為<name>梵</name>。語言及書既象於天，是以彼云<name>梵</name>書、<name>梵</name>語。」</note>
 <note xml:id="g434" resp="PC-JK-MB">海潮音，喻指佛音。《首楞嚴義疏注經》CBETA, T39, no. 1799, p. 845, c22-23<ref cRef="CBETA_T39_n1799_p845_c22-p845_c23">CBETA, T39, no. 1799, p. 845, c22-23</ref>：「佛興慈悲，哀愍<persName key="A003861">阿難</persName>及諸大眾，發海潮音遍告同會。」</note>
 <note xml:id="g435" resp="PC-JK-MB">語出<persName key="A015807">應劭</persName>《風俗通義序》：「周、秦常以歲八月，遣輶軒之使，求異代方言。還奏籍之，藏於秘室。」</note>
 <note xml:id="g436" resp="makita">崇朝，猶終朝，整個早上。語出《詩經‧鄘風‧蝃蝀》：「朝隮于西，崇朝其雨。」</note>
@@ -726,7 +726,7 @@
 <note xml:id="g724" resp="PC-JK-MB">《佛光‧真寂》頁4220：「特指佛陀之涅槃。寂，涅槃之意。二乘之涅槃非為究竟殊勝之涅槃，與之相對，則佛之涅槃乃稱真寂。」</note>
 <note xml:id="g725" resp="makita">膏粱，肥肉與美穀，指精美的食物。糠粃，又作「糠秕」，米糠與秕子，喻煩瑣或無價值的事物。秕子，穀中沒有果實。</note>
 <note xml:id="g726" resp="makita">幺麼，猶言小東西，有貶義。軒冕，借指官位爵祿。《隋書‧卷五十七》：「張四維而臨萬宇，侔<persName key="G000022">三皇</persName>而並<persName key="G000026">五帝</persName>，豈直錙銖周、漢， 么麼魏、晉而已。」</note>
-<note xml:id="g727" resp="makita">夏五，謂文字脫落之處。語出《十三經‧左傳‧桓公十四年》：「夏五，鄭伯使其弟語來盟。」<persName key="A007298">杜預</persName>注：「不書月，闕文。」</note>
+<note xml:id="g727" resp="makita">夏五，謂文字脫落之處。語出《十三經‧左傳‧桓公十四年》：「夏五，<name>鄭</name>伯使其弟語來盟。」<persName key="A007298">杜預</persName>注：「不書月，闕文。」</note>
 <note xml:id="g728" resp="PC-JK-MB">魯魚，謂文字訛誤之處。語出<persName key="A006915">葛洪</persName>《抱朴子‧內篇卷四》：「書三寫，魚成魯，虛成虎。」</note>
 <note xml:id="g729" resp="PC-JK-MB">彝倫攸斁，倫常敗壞也。斁，<seg type="pronunciation">音「dù（ㄉㄨˋ）」，</seg>敗壞。《尚書‧洪範》：「帝乃震怒，不畀洪範九疇，彝倫攸斁。」</note>
 <note xml:id="g730" resp="PC-JK-MB">華望，華宗望族。</note>
@@ -1911,7 +1911,7 @@
 <note xml:id="g1909" resp="PC-JK-MB">爭尋，猶言爭尺丈之地。語出《十三經‧左傳‧成公十二年》：「諸侯貪冒，侵欲不忌，爭尋常以盡其民。」</note>
 <note xml:id="g1910" resp="PC-JK-MB">林薄，草木叢雜的地方。</note>
 <note xml:id="g1911" resp="PC-JK-MB">檀度，六度之一。即檀波羅蜜。施與為可度生死而到涅槃之一行法。詳見《佛學‧檀度》。</note>
-<note xml:id="g1912" resp="PC-JK-MB">三輪，施者、受者、施物三者。詳見《佛光‧三輪相》頁680。三輪頓空，布施之時，能體達施者、受者、施物三者皆悉本空，摧破執著之相。詳見《佛光‧三輪體空》頁681。<ref cRef="CBETA, T05, no. 220, p. 271, a22-24">《大般若波羅蜜多經(第1卷-第200卷)》CBETA, T05, no. 220, p. 271, a22-24</ref>：「與一切有情同共迴向阿耨多羅三藐三菩提，不見施者、受者、施物，三輪清淨而行布施。」</note>
+<note xml:id="g1912" resp="PC-JK-MB">三輪，施者、受者、施物三者。詳見《佛光‧三輪相》頁680。三輪頓空，布施之時，能體達施者、受者、施物三者皆悉本空，摧破執著之相。詳見《佛光‧三輪體空》頁681。<ref cRef="CBETA_T05_n220_p271_a22-p271_a24">《大般若波羅蜜多經(第1卷-第200卷)》CBETA, T05, no. 220, p. 271, a22-24</ref>：「與一切有情同共迴向阿耨多羅三藐三菩提，不見施者、受者、施物，三輪清淨而行布施。」</note>
 <note xml:id="g1913" resp="PC-JK-MB">順益，順於正理，益於自他。<ref cRef="CBETA_T43_n1830_p418_c2">《成唯識論述記》CBETA, T43, no. 1830, p. 418, c2</ref>：「要令此、他二世順益方名為善。」</note>
 <note xml:id="g1914" resp="PC-JK-MB">四事供養，謂供給資養佛、僧等日常生活所需之四事。四事，指衣服、飲食、臥具、醫藥，或指衣服、飲食、湯藥、房舍等。詳見《佛光‧四事供養》頁1701。</note>
 <note xml:id="g1915" resp="PC-JK-MB">藏教，化法四教之一。全稱三藏教，即小乘教之別稱。三藏教者，一修多羅藏，二毘尼藏，三阿毘曇藏。詳見《佛光‧藏教》頁6608。</note>
@@ -2114,7 +2114,7 @@
 <note xml:id="g2111" resp="PC-JK-MB">被，施加。語出《尚書‧堯典第一》：「允恭克讓，光被四表，格于上下。」</note>
 <note xml:id="g2112" resp="PC-JK-MB">釐，治理。</note>
 <note xml:id="g2113" resp="PC-JK-MB">純厖，又作「純庬」、「純龐」，素性敦厚。語出《楚辭‧九章章句第四‧惜往日》：「心純庬而不泄兮。」<seg type="pronunciation">厖，音「máng（ㄇㄤˊ）」。</seg></note>
-<note xml:id="g2114" resp="PC-JK-MB">闡提，<name>梵</name>語<seg type="latin">icchantika</seg>或<seg type="latin">ecchantika 之音譯</seg>。又作「一闡底迦」、「一顛迦」、「一闡提柯」、「一闡提」。指斷絕一切善根、無法成佛者。詳見《佛光‧一闡提》頁85。</note>
+<note xml:id="g2114" resp="PC-JK-MB">闡提，<name>梵</name>語<seg type="latin">icchantika</seg>或<seg type="latin">ecchantika</seg>之音譯。又作「一闡底迦」、「一顛迦」、「一闡提柯」、「一闡提」。指斷絕一切善根、無法成佛者。詳見《佛光‧一闡提》頁85。</note>
 <note xml:id="g2115" resp="PC-JK-MB">無咎，順天應物，沒有罪過。譽，過實之名。語出《易經‧坤卦》：「六四，括囊，无咎无譽。」</note>
 <note xml:id="g2116" resp="PC-JK-MB">倍切，愈加熱切。</note>
 <note xml:id="g2117" resp="PC-JK-MB">羌，古代<placeName key="PL000000000083">中國</placeName>西方少數民族的統稱。</note>
@@ -2189,7 +2189,7 @@
 <note xml:id="g2186" resp="PC-JK-MB">得鳳之毛，喻有俊秀子弟。典出《南史‧卷十九‧謝靈運傳》頁542：「<persName key="A023105">靈運</persName>子<persName>鳳</persName>，坐<persName key="A023105">靈運</persName>徙<placeName key="PL000000023027">嶺南</placeName>，早卒。<persName>鳳</persName>子<persName key="A003027">超宗</persName>，隨父<persName>鳳</persName><placeName key="PL000000023027">嶺南</placeName>，<date notBefore-iso="+0446-02-01" key="j18839901886925" notAfter-iso="+0454-02-14"><name>元嘉</name>末</date>得還。……王母<name>殷</name>淑儀卒，<persName key="A003027">超宗</persName>作誄奏之，帝大嗟賞，謂<persName key="A002651">謝莊</persName>曰：『<persName key="A003027">超宗</persName>殊有<persName>鳳</persName>毛，<persName key="A023105">靈運</persName>復出。』」</note>
 <note xml:id="g2187" resp="PC-JK-MB"><ref cRef="CBETA_T49_n2035_p415_a11-p415_a14">《佛祖統紀》CBETA, T49, no. 2035, p. 415, a11-14</ref>：「<placeName key="PL000000011516">錢唐</placeName>佛僧之盛，蓋甲天下。道德材智之士與妄庸巧偽之人雜處其間，號為難齊。故僧正、副之外，別補都僧正一員。簿書案牒、奔走將迎之勞，專責副、正以下。」</note>
 <note xml:id="g2188" resp="PC-JK-MB">七寶，<name>梵</name>語<seg type="latin">sapta ratnāni</seg>，即七種珍寶：金、銀、琉璃、頗梨、車渠、赤珠、碼瑙。詳見《佛光‧七寶》頁124。</note>
-<note xml:id="g2189" resp="makita">脫，音「tuì（ㄊㄨㄟˋ）」，通「蛻」。形容如蟬、蛇等動物脫去皮殼。</note>
+<note xml:id="g2189" resp="makita">脫，<seg type="pronunciation">音「tuì（ㄊㄨㄟˋ）」，</seg>通「蛻」。形容如蟬、蛇等動物脫去皮殼。</note>
 <note xml:id="g2190" resp="PC-JK-MB">貞珉，又作「貞䃉」，石刻碑銘的美稱。</note>
 <note xml:id="g2191" resp="PC-JK-MB">食輪，食料、施物。<ref cRef="CBETA_T22_n1425_p511_a19-p511_a20">《摩訶僧祇律》CBETA, T22, no. 1425, p. 511, a19-20</ref>：「有二種輪：法輪、食輪，得食輪已乃轉法輪。」</note>
 <note xml:id="g2192" resp="PC-JK-MB">資緣，即修行佛道之助緣，指衣食住等。又作資道之緣。詳見《佛光‧資緣》頁5611。</note>
@@ -2334,12 +2334,13 @@
 <note xml:id="g2331" resp="PC-JK-MB">裁，僅。通「纔」。《戰國策‧燕策一‧張儀為秦破從連橫謂燕王》：「雖大男子，裁如嬰兒。」</note>
 <note xml:id="g2332" resp="PC-JK-MB">厨，通「櫥」。豐厨、祕藏皆指儲存豐富。</note>
 <note xml:id="g2333" resp="PC-JK-MB">薰蕕不同器而藏，薰，香草；蕕，<seg type="pronunciation">音「yóu（ㄧㄡˊ）」，</seg>，臭草。語出《四庫‧孔子家語‧卷二‧致思第八》頁1：「薰蕕不同器而藏，<persName key="A002433">堯</persName><persName key="A002703">桀</persName>不共國而治，以其類異也。」</note>
-<note xml:id="g2334" resp="PC-JK-MB">氣分，猶本質。《四庫‧孔子家語‧卷六‧執轡第二十五》頁7：「<persName key="A010088">子夏</persName>問於<persName key="A002174">孔子</persName>曰『<persName key="A010088">商</persName>聞《易》之生人及萬物鳥獸昆蟲，各有奇偶，氣分不同。』」<persName key="A002174">王肅</persName>注：「《易》主天地以生萬物，言受氣各有分數不齊同。」<ref cRef="CBETA, T41, no. 1821, p. 5, c22-24">《俱舍論記》CBETA, T41, no. 1821, p. 5, c22-24</ref>：「言習氣者，習謂數習，氣謂氣分。有諸煩惱及劣智等數習氣分，故名習氣。」</note>
-<note xml:id="g2335" resp="PC-JK-MB">二嚴，謂智慧、福德二種，皆能莊嚴法身。<ref cRef="CBETA, T12, no. 374, p. 523, a11-13">《大般涅槃經》CBETA, T12, no. 374, p. 523, a11-13</ref>：「二種莊嚴：一者智慧，二者福德。若有菩薩具足如是二莊嚴者，則知佛性，亦復解知名為佛性。」</note>
+<note xml:id="g2334" resp="PC-JK-MB">氣分，猶本質。《四庫‧孔子家語‧卷六‧執轡第二十五》頁7：「<persName key="A010088">子夏</persName>問於<persName key="A002174">孔子</persName>曰『<persName key="A010088">商</persName>聞《易》之生人及萬物鳥獸昆蟲，各有奇偶，氣分不同。』」<persName key="A002174">王肅</persName>注：「《易》主天地以生萬物，言受氣各有分數不齊同。」<ref cRef="CBETA_T41_n1821_p5_c22-p5_c24">《俱舍論記》CBETA, T41, no. 1821, p. 5, c22-24</ref>：「言習氣者，習謂數習，氣謂氣分。有諸煩惱及劣智等數習氣分，故名習氣。」</note>
+<note xml:id="g2335" resp="PC-JK-MB">二嚴，謂智慧、福德二種，皆能莊嚴法身。<ref cRef="CBETA_T12_n374_p523_a11-p523_a13">《大般涅槃經》CBETA, T12, no. 374, p. 523, a11-13</ref>：「二種莊嚴：一者智慧，二者福德。若有菩薩具足如是二莊嚴者，則知佛性，亦復解知名為佛性。」</note>
 <note xml:id="g2336" resp="PC-JK-MB">盡未來際，謂窮盡無限未來之生涯、邊際。與無限同義。參見《佛光‧盡未來際》頁5845。</note>
 <note xml:id="g2337" resp="PC-JK-MB">權方，即方便。</note>
 <note xml:id="g2338" resp="PC-JK-MB">持門，止持與作持的修行。參《佛光‧二持》頁204。</note>
 <note xml:id="g2339" resp="PC-JK-MB">五輪，猶五體。指五智輪，即地、水、火、風、空五大。五大具足眾德，圓輪周遍而無缺，故稱五輪。若以眾生肉身之支分與五大相應，即將自身之五處配於五輪五字：頂（空）、面（風）、胸（火）、臍（水）、膝（地），以便作觀，稱為五輪觀，或稱五輪成身觀。參《佛光‧五輪》頁1199。</note>
 <note xml:id="g2340" resp="PC-JK-MB">檛，<seg type="pronunciation">音「zhuā（ㄓㄨㄚ）」，</seg>擊、敲。</note>
-<note xml:id="g2341" resp="PC-JK-MB">客星，指恆星以外的星體。<ref cRef="CBETA, T39, no. 1785, p. 53, a16-18">《金光明經文句》CBETA, T39, no. 1785, p. 53, a16-18</ref>：「惡星者，別有客星也。亦是五星二十八宿。一方有七，四七二十八也。違其度數，失其分野；若熒惑亂行，麻彗暴出，是客星也。」</note>
+<note xml:id="g2341" resp="PC-JK-MB">客星，指恆星以外的星體。<ref cRef="CBETA_T39_n1785_p53_a16-p53_a18">《金光明經文句》CBETA, T39, no. 1785, p. 53, a16-18</ref>：「惡星者，別有客星也。亦是五星二十八宿。一方有七，四七二十八也。違其度數，失其分野；若熒惑亂行，麻彗暴出，是客星也。」</note>
+<note xml:id="g2342" resp="PC-JK-MB">洞庭，廣闊的庭院。《莊子‧外篇‧天運第十四》：「帝張《咸池》之樂，於洞庭之野。」<persName key="A021444">成玄英</persName>疏：「洞庭之野，天（地）〔池〕之閒，非<placeName key="PL000000008559">太湖</placeName>之<placeName key="PLG00000000019">洞庭</placeName>也。」據此，亦非指<placeName key="PL000000028612">洞庭湖</placeName>。</note>
 </div>

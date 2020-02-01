@@ -1124,30 +1124,30 @@
         <xi:include href="2753faZhi法智.xml"/>
         <xi:include href="2754puXin普信.xml"/>
         <xi:include href="2755duChe讀徹.xml"/>
-        <xi:include href="2756-清大埔南安寺沙門釋幽明傳成鷲.xml"/>
+        <xi:include href="2756youMing幽明.xml"/>
       </div>
       <div type="juan" n="64">
         <anchor n="B.27.0151.0463a11"/>
         <head>新續高僧傳四集卷第六十四</head>
         <lb n="0463a13" ed="B"/><p>雜識篇第十之五(正傳十二人　附見十七人)</p>
-        <xi:include href="2757-清當陽玉泉寺沙門釋道嚴傳道乾_遍見_弘禮_性愷_聖義.xml"/>
-        <xi:include href="2758-清海寧安國寺沙門釋大涵傳.xml"/>
-        <xi:include href="2759-清房山上方山寺沙門釋常岫傳大觀_知幻_達聞.xml"/>
-        <xi:include href="2760-清太平白雀雨花寺沙門釋聖通傳東悟本.xml"/>
-        <xi:include href="2761-清南嶽曉霞峰沙門釋文惺傳大成.xml"/>
-        <xi:include href="2762-清潤州焦山寺沙門釋智先傳德鏡_行載.xml"/>
+        <xi:include href="2757daoYan道嚴.xml"/>
+        <xi:include href="2758daHan大涵.xml"/>
+        <xi:include href="2759changXiu常岫.xml"/>
+        <xi:include href="2760shengTong聖通.xml"/>
+        <xi:include href="2761wenXing文惺.xml"/>
+        <xi:include href="2762zhiXian智先.xml"/>
         <xi:include href="2763jiZhan寂湛.xml"/>
-        <xi:include href="2764-清福州雪峯寺沙門釋海印傳.xml"/>
-        <xi:include href="2765-清杭州淨慈寺沙門釋明幢傳.xml"/>
-        <xi:include href="2766-清杭州雲林寺沙門釋義果傳上志.xml"/>
-        <xi:include href="2767-清棲水大善寺沙門釋篆玉傳.xml"/>
-        <xi:include href="2768-清長沙華林寺沙門釋文楷傳文暢.xml"/>
+        <xi:include href="2764haiYin海印.xml"/>
+        <xi:include href="2765mingChuang明幢.xml"/>
+        <xi:include href="2766yiGuo義果.xml"/>
+        <xi:include href="2767zhuanYu篆玉.xml"/>
+        <xi:include href="2768wenKai文楷.xml"/>
       </div>
       <div type="juan" n="65">
         <anchor n="B.27.0151.0469b11"/>
         <head>新續高僧傳四集卷第六十五</head>
         <lb n="0469b13" ed="B"/><p>雜識篇第十之六(正傳十一人　附見十八人)</p>
-        <xi:include href="2769-清長沙鐵佛寺沙門釋無跡傳.xml"/>
+        <xi:include href="2769wuJi無跡.xml"/>
         <xi:include href="2770-清金陵靈谷寺沙門釋彌垠傳彌澍.xml"/>
         <xi:include href="2771-淨杭州雲林寺沙門釋悟森傳見初品_蓮月_寶林鑑品_高峰_體純潔_研庵謙.xml"/>
         <xi:include href="2772-清丹徒焦山定慧寺沙門釋清恒傳覺鐙_覺銓.xml"/>
