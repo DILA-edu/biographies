@@ -292,5 +292,29 @@
 			<lem wit="喻眛庵輯影本">麗</lem>
 			<rdg wit="CBETA">麗</rdg>
 		</app>
+		<app from="beg047001">
+			<lem wit="喻眛庵輯影本">淨</lem>
+			<rdg wit="CBETA">淨</rdg>
+		</app>
+		<app from="beg047101">
+			<lem wit="喻眛庵輯影本">卌</lem>
+			<rdg wit="CBETA">冊</rdg>
+		</app>
+		<app from="beg047201">
+			<lem wit="喻眛庵輯影本">摛</lem>
+			<rdg wit="CBETA">樆</rdg>
+		</app>
+		<app from="beg047301">
+			<lem wit="喻眛庵輯影本">卷</lem>
+			<rdg wit="CBETA">卷</rdg>
+		</app>
+		<app from="beg047302">
+			<lem wit="喻眛庵輯影本">槁</lem>
+			<rdg wit="CBETA">槁</rdg>
+		</app>
+		<app from="beg047401">
+			<lem wit="喻眛庵輯影本">了</lem>
+			<rdg wit="CBETA">了</rdg>
+		</app>
 	</p>
 </div>

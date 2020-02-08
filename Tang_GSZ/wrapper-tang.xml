@@ -29,6 +29,9 @@
       <creation>The Tang Gaoseng zhuan is dated <date>665 CE</date>.</creation>
     </profileDesc>
     <encodingDesc>
+      <projectDesc>
+        <p xml:lang="en">All line break "\n" in "paragraph" will be removed before zip.</p>
+      </projectDesc>
       <p xml:lang="zh">文本中之人名、地名或日期，若於大正藏中之參校用字較正確，則從參校用字。</p>
       <p xml:lang="en">Wherever we can, within a name or date, identify a mistake in the main text of the Taisho canon and a better reading is available in the apparatus, the character from the apparatus is used.</p>
       <p xml:lang="zh">本數位版本是法鼓佛教學院佛教傳記文學專案的一部分<ref>http://buddhistinformatics.ddbc.edu.tw/biographies/</ref></p>

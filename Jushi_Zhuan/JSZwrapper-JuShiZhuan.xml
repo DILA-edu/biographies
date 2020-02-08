@@ -21,6 +21,11 @@
         <p>Text Base is the CBETA edition of the Chinese Buddhist Canon (Version 2009)</p>
       </sourceDesc>
     </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p xml:lang="en">All line break "\n" in "paragraph" will be removed before zip.</p>
+      </projectDesc>
+    </encodingDesc>
   </teiHeader>
   <text>
     <body>

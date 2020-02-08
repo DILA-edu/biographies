@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="雜識" xml:id="gsz0473b01shiNiXiu"><lb
+ed="B" n="0473b01"/><anchor n="B.27.0151.0473b01"/><head>清金陵靈谷寺沙門<persName key="A042168">釋禰修</persName>傳<persName type="secondary" key="A042182">光蓮</persName></head><lb
+ed="B" n="0473b02"/><p xml:id="pB27p0473b0201"><persName key="A042168">釋禰修</persName>，字<persName key="A042168">德鐙</persName>，姓袁氏，金陵人。披剃天印山東霞寺，受具華山，<lb
+ed="B" n="0473b03"/>繼衣缽於靈谷。慈善成性，悲愍感物。平昔扶持忠義，周恤喪兦，<lb
+ed="B" n="0473b04"/>引為己事，視若固然。當咸豐初年<persName key="A008188">洪秀全</persName>竊據金陵，負隅死守，<lb
+ed="B" n="0473b05"/>官軍於朝陽門外掘長壕困<ref type="person" target="#A008188">之</ref>。日事攻戰，凡陣兦及軍營病沒<lb
+ed="B" n="0473b06"/>者，多厝寺傍。<persName key="A042168">禰修</persName>悉書其姓名於冊，使後有所稽攷。枯骸在野，<lb
+ed="B" n="0473b07"/>拾而葬之。事平，請於<persName key="A007457">曾文正國藩</persName>重建龍神祠。主寺三十餘年，<lb
+ed="B" n="0473b08"/>寇至不去。舊有《寺志》十四卷，深自護持，不敢失墜。<date from-iso="+1875-02-06" key="j24059262406279" to-iso="+1876-01-25">光緒乙亥</date>傳<lb
+ed="B" n="0473b09"/>法<persName key="A042182">光蓮</persName>，靜修一室，人罕得見。寂於<date when-iso="+1880-10-24" key="j24080132408013">庚辰九月二十一日</date>，年六十<lb
+ed="B" n="0473b10"/>六，葬玉帶橋之南。<persName key="A042182">光蓮</persName>字<persName key="A042182">利華</persName>，泰州郃氏子。<ref type="date" target="#j23902162390599">八歲</ref>出家，初事岱<lb
+ed="B" n="0473b11"/>岳寺僧為師，後於華山受具。徧遊天臺、九華、南海。<date when-iso="+1875-06-04" key="j24060442406044">光緒紀元五<lb
+ed="B" n="0473b12"/>月朔</date>，<persName key="A042168">禰修</persName>夜起，見香鑪有光，狀若蓮花。<date when-iso="+1875-06-08" key="j24060482406048">五日</date>而<persName key="A042182">光蓮</persName>至寺。<persName key="A042168">禰修</persName><lb
+ed="B" n="0473b13"/>異之，因授以衣拂。墾荒竹，重造山門及金剛殿，以節省餘資，未<lb
+ed="B" n="0473b14"/>嘗募叩。生平苦志清脩，與物以誠，無疾言厲色，尤好勸人為善。<lb
+ed="B" n="0473b15"/><date when-iso="+1898-03-01" key="j24143502414350">光緒戊<anchor xml:id="beg_219" type="cb-app"/>戌<anchor xml:id="end_219"/>二月九日</date>示寂，年七十四，亦葬玉帶<anchor xml:id="beg047302"/><choice><sic resp="CBETA">槁</sic><corr resp="PC-MB">橋</corr></choice><anchor xml:id="end047302"/><!-- 參0473b10 -->南。</p>
+    <linkGrp>
+        <link targets="#0473b06 #0473b07"/>
+        <ptr target="#A042168" type="person"/>
+        <ptr target="#A007457" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0473b08 #0473b09"/>
+        <ptr target="#A042168" type="person"/>
+        <ptr target="#A042182" type="person"/>
+        <ptr target="#j24059262406279" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0473b11 #0473b13"/>
+        <ptr target="#A042168" type="person"/>
+        <ptr target="#A042182" type="person"/>
+        <ptr target="#j24060482406048" type="time"/>
+    </linkGrp>
+</div>

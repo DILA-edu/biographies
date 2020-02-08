@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="雜識" xml:id="gsz0472b08shiRuHui"><lb
+ed="B" n="0472b08"/><anchor n="B.27.0151.0472b08"/><head>清公安今古寺沙門<persName key="A042253">釋如慧</persName>傳</head><lb
+ed="B" n="0472b09"/><p xml:id="pB27p0472b0901"><persName key="A042253">釋如慧</persName>者，姓姜氏，高陽人，俗稱<persName key="A042253">許老</persName>，蓋其字也。父<persName key="A043080">文章</persName>，母<persName key="A043081">楊氏</persName>。<lb
+ed="B" n="0472b10"/><persName key="A042253">慧</persName>生有善根，性靈獨異。幼齡多疾，蠲除腥味，持心茹素，已逾廿<lb
+ed="B" n="0472b11"/>載。年三十，始削髮從師，託迹公安今古寺，禮<persName key="A042252">俊旃</persName>禪宿，傳臨濟<lb
+ed="B" n="0472b12"/>正宗。梵經咒語，昕夕課誦。爾後出世報慈寺，三乘奧旨，胸次灑<lb
+ed="B" n="0472b13"/>然。力行既深，道心徹悟，山光<!-- 山色 -->悅性，無非靈機，潭影澄空，早已參<lb
+ed="B" n="0472b14"/>透。是以登壇說法，花雨齊飛，贈答揮毫，烟雲並落。即事<anchor xml:id="beg047201"/><choice><sic resp="CBETA">樆</sic><corr resp="PC-MB">摛</corr></choice><anchor xml:id="end047201"/>詞<!-- 鋪陳文詞 -->，便<lb
+ed="B" n="0472b15"/>成韵語，因人作偈，話出迷津。兼術精青鳥<!-- 堪輿 -->、風鑑<!-- 面相 -->，獨神喜譚靈龜，<lb
+ed="B" n="0472b16"/>玅言微中。著有《金繩指迷錄》一卷，文人墨士，多相傳寫，名公巨<lb
+ed="B" n="0472b17"/>子，尤深信仰。嗣法弟子，遂以付梓。荊湘間，猶有傳本云。</p>
+    <linkGrp>
+        <link targets="#0472b09 #0472b09"/>
+        <ptr target="#A042253" type="person"/>
+        <ptr target="#A043080" type="person"/>
+        <ptr target="#A043081" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0472b11 #0472b12"/>
+        <ptr target="#A042253" type="person"/>
+        <ptr target="#A042252" type="person"/>
+    </linkGrp>
+</div>

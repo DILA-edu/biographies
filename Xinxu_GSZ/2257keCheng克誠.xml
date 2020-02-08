@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0187a11shiKeCheng"><lb
+ed="B" n="0187a11"/><anchor n="B.27.0151.0187a11"/><head>清峨湄毘盧院沙門<persName key="A043105">釋克誠</persName>傳<persName type="secondary" key="A009008">貫之</persName><persName type="secondary" key="A009577">性藏</persName><persName type="secondary" key="A021873">實如</persName></head><lb
+ed="B" n="0187a12"/><p xml:id="pB27p0187a1201"><persName key="A043105">釋克誠</persName>，南涪人，順治時明經也。年四十，棄家為僧，居峩眉山毘<lb
+ed="B" n="0187a13"/>盧院，與伏虎寺<persName key="A009008">貫之</persName>相親善。居山三十年，一瓶一缽，他無長物。<lb
+ed="B" n="0187a14"/><persName key="A009008">貫之</persName>犍為人，少出家，從<persName key="A009116">三濟</persName>得法，講經於伏虎寺。重築堂廡，廓<lb
+ed="B" n="0187a15"/>廣寺基。臨終偈云：「年經七十六，自愧無長處；私誓深如海，道心<lb
+ed="B" n="0187a16"/>高似佛；生生任我行，世世人天路；萬物常圍繞，那些隨分足。」<persName key="A009577">性<lb
+ed="B" n="0187a17"/>藏</persName>字<persName key="A009577">紫芝</persName>，渝城人。<ref type="date" target="#j23175402317894">年十五</ref>祝髮，主白水寺三十年。九開禪祗，有<lb
+ed="B" n="0187a18"/>《語錄》數卷。<date from-iso="+1673-02-17" key="j23321592332512" to-iso="+1674-02-05">康熙癸丑</date>撫軍延至江左。<date from-iso="+1675-01-26" key="j23328672333250" to-iso="+1676-02-13">乙卯</date>寂於楊州上方寺。其<lb
+ed="B" n="0187a19"/>別眾偈云：「年光五十七，世緣今已畢；東海石頭枯，大峩如鐵壁。」<lb
+ed="B" n="0187a20"/><persName key="A021873">實如</persName>峩眉人，居伏虎寺，<persName key="A009008">貫之</persName>四傳弟子也，受法於<persName key="A008902">可聞</persName>。著有雜<pb ed="B" xml:id="B27.0151.0187b" n="0187b"/><lb
+ed="B" n="0187b01"/>集若干卷。</p>
+    <linkGrp>
+        <link targets="#0187a12 #0187a13"/>
+        <ptr target="#A043105" type="person"/>
+        <ptr target="#A009008" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0187a14 #0187a14"/>
+        <ptr target="#A009116" type="person"/>
+        <ptr target="#A009008" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0187a20 #0187a20"/>
+        <ptr target="#A021873" type="person"/>
+        <ptr target="#A008902" type="person"/>
+    </linkGrp>
+</div>

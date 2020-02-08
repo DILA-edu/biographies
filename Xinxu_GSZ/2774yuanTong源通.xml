@@ -1,18 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" type="雜識">
-<lb
-ed="B" n=""/><anchor n="B.27.0151"/>
-                    <head>清峩湄臥雲庵沙門釋源通傳<persName type="secondary">六義　涌泉　德輝</persName>
-                    </head>
-                <p xml:id="pB27p0472a1801">釋源通湖南人年二十學道峨湄山絕頂臥雲庵中居恒唯一<lb
-ed="B" n="0472a19"/>蒲團寒暑不易蓋三十餘年研闡釋典華嚴楞嚴諸經尤熟讀<lb
-ed="B" n="0472a20"/>默識了然心目隨舉扣之卷數篇第指說無譌山中衲子多其
-<pb ed="B" xml:id="B27.0151.0472b" n="0472b"/><lb
-ed="B" n="0472b01"/>徒黨道風所扇歸依者眾年八十八無疾而化六義者峩眉人<lb
-ed="B" n="0472b02"/>居萬年寺毘盧殿即廣濬彈琴處恒誦蓮花七軸靈文朝夕不<lb
-ed="B" n="0472b03"/>爽臘踰七十而<g ref="#CB15112">󳬈</g>髮松姿和藹可親人服其德涌泉居龍門院<lb
-ed="B" n="0472b04"/>參悟有年通五經古文善詩畫年八十一笑而逝揚廷瑞題其<lb
-ed="B" n="0472b05"/>所居曰一笑堂德輝者川北名家子中歲棄家居峩眉之息心<lb
-ed="B" n="0472b06"/>所博極梵典著有語錄若干卷及甄奧賦注釋賦為明蜀巡撫<lb
-ed="B" n="0472b07"/>廖大亨作詞句多不可曉德輝為之疏析云</p>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="雜識" xml:id="gsz0472a17shiYuanTong"><lb
+ed="B" n="0472a17"/><anchor n="B.27.0151.0472a17"/><head>清峩湄臥雲庵沙門<persName key="A043075">釋源通</persName>傳<persName type="secondary" key="A043076">六義</persName><persName type="secondary" key="A043077">涌泉</persName><persName type="secondary" key="A043079">德輝</persName></head><lb
+ed="B" n="0472a18"/><p xml:id="pB27p0472a1801"><persName key="A043075">釋源通</persName>，湖南人。年二十學道峨湄山絕頂臥雲庵中。居恒唯一<lb
+ed="B" n="0472a19"/>蒲團，寒暑不易。蓋三十餘年，研闡釋典，《華嚴》、《楞嚴》諸經尤熟讀，<lb
+ed="B" n="0472a20"/>默識了然。心目隨舉，扣之卷數、篇第，指說無譌。山中衲子，多其<pb ed="B" xml:id="B27.0151.0472b" n="0472b"/><lb
+ed="B" n="0472b01"/>徒黨。道風所扇，歸依者眾。年八十八，無疾而化。<persName key="A043076">六義</persName>者，峩眉人。<lb
+ed="B" n="0472b02"/>居萬年寺毘盧殿，即<persName key="A009094">廣濬</persName>彈琴處。恒誦《蓮花》七軸靈文，朝夕不<lb
+ed="B" n="0472b03"/>爽，臘踰七十，而鶴髮松姿。和藹可親，人服其德。<persName key="A043077">涌泉</persName>居龍門院。<lb
+ed="B" n="0472b04"/>參悟有年，通五經古文，善詩畫。年八十一，笑而逝。<persName key="A043078">揚廷瑞</persName>題其<lb
+ed="B" n="0472b05"/>所居曰「一笑堂」。<persName key="A043079">德輝</persName>者，川北名家子。中歲棄家，居峩眉之息心<lb
+ed="B" n="0472b06"/>所。博極梵典，著有《語錄》若干卷及《甄奧賦注釋》。賦為明蜀巡撫<lb
+ed="B" n="0472b07"/><persName key="A009047">廖大亨</persName>作，詞句多不可曉，<persName key="A043079">德輝</persName>為之疏析云。</p>
 </div>

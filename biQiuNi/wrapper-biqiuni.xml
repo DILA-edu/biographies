@@ -29,6 +29,9 @@
       <creation>The Biqiuni zhuan is dated <date>516 CE</date></creation>
     </profileDesc>
     <encodingDesc>
+      <projectDesc>
+        <p xml:lang="en">All line break "\n" in "paragraph" will be removed before zip.</p>
+      </projectDesc>
       <p xml:lang="zh">文本中所使用的新式標點，其主要是參考北京中華書局於2006年出版的《比丘尼傳校註》，校註者為王孺童。</p>
       <p xml:lang="en">The punctuation of this digital edition follows in the main the 2006 edition "Biqiuni zhuan jiaozhu 比丘尼傳校註" Beijing: Zhonghua 中華. Wang Rutong.</p>
       <p xml:lang="zh">本數位版本是法鼓佛教學院佛教傳記文學專案的一部分<ref>http://buddhistinformatics.ddbc.edu.tw/biographies/</ref></p>

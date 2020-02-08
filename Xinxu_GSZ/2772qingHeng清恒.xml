@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="雜識" xml:id="gsz0471b16shiQingHeng"><lb
+ed="B" n="0471b16"/><anchor n="B.27.0151.0471b16"/><head>清丹徒焦山定慧寺沙門<persName key="A014744">釋清恒</persName>傳<persName type="secondary" key="A022457">覺鐙</persName><persName type="secondary" key="A022458">覺銓</persName></head><lb
+ed="B" n="0471b17"/><p xml:id="pB27p0471b1701"><persName key="A014744">釋清恒</persName>，字<persName key="A014744">巨超</persName>，別號<persName key="A014744">借庵</persName>，姓陳氏，海寧人也。幼而聰秀，受讀塾<lb
+ed="B" n="0471b18"/>中，風致楚楚，便異羣兒。稍解文義，探求玄理，玅契禪機，即厭世<lb
+ed="B" n="0471b19"/>味。受具後，得法於焦山<persName key="A020901">澄洮</persName>，繼席定慧。誦課之餘，輒肄及詩古<lb
+ed="B" n="0471b20"/>文辭，涵泳心性。儀徵<persName key="A004870">阮文達</persName>公、元丹徒<persName key="A014746">王<roleName>徵君</roleName>豫</persName>相與莫逆，往<pb ed="B" xml:id="B27.0151.0472a" n="0472a"/><lb
+ed="B" n="0472a01"/>還酬唱，時有所作，多見傳詠，因之士大夫皆樂與<ref type="person" target="#A014744">之</ref>遊。然性甘<lb
+ed="B" n="0472a02"/>澹泊，雖境極清苦，耐寒忍饑，貧衲乞請，絕口不言。有《借庵詩草》<lb
+ed="B" n="0472a03"/>行世，塔於五州山。弟子二：<persName key="A022457">覺鐙</persName>字<persName key="A022457">秋屏</persName>，<persName key="A022458">覺銓</persName>字<persName key="A022458">性源</persName>。並承<persName key="A014744">清</persName>法，<lb
+ed="B" n="0472a04"/>相繼住持，兼工吟詠，各有遺稿。<persName key="A022457">鐙</persName>尤有才能，理得連山東州佚<lb
+ed="B" n="0472a05"/>產，山中香火，至今賴之。</p>
+    <linkGrp>
+        <link targets="#0471b19 #0471b19"/>
+        <ptr target="#A014744" type="person"/>
+        <ptr target="#A020901" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0471b20 #0472a01"/>
+        <ptr target="#A014744" type="person"/>
+        <ptr target="#A004870" type="person"/>
+        <ptr target="#A014746" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0472a03 #0472a04"/>
+        <ptr target="#A014744" type="person"/>
+        <ptr target="#A022457" type="person"/>
+        <ptr target="#A022458" type="person"/>
+    </linkGrp>
+</div>

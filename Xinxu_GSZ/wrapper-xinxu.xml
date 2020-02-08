@@ -38,9 +38,9 @@
     <profileDesc>
       <creation>The Xinxu Gaoseng Zhuan is dated <date>1923 CE</date>. According to the preface Yuqian compiled the biographies 1918-1923 in the Fayuan Temple 法源寺 in Beijing.</creation>
     </profileDesc>
-    <encodingDesc>      
-      <projectDesc>      
-        <p xml:lang="en">This digital version of the Xinxu Gaoseng Zhuan 新續高僧傳 is the first punctuated version of the text and adds nexus point-like markup to identify and compute SNA information. Similar markup exists for other Gaoseng Zhuan collections. For a description of the project and use cases see Marcus BINGENHEIMER, Jen-Jou HUNG, Simon WILES. 2011. "Social Network Visualization from TEI Data." Literary and Linguistic Computing 26(3): 271-278. And Marcus BINGENHEIMER. 2018. “Who was ‘Central’ for Chinese Buddhist History? - A Social Network Approach.” International Journal of Buddhist Thought and Culture. Vol.28-2: 45-67.</p>
+    <encodingDesc>
+      <projectDesc>
+      <p xml:lang="en">This digital version of the Xinxu Gaoseng Zhuan 新續高僧傳 is the first punctuated version of the text and adds nexus point-like markup to identify and compute SNA information. Similar markup exists for other Gaoseng Zhuan collections. For a description of the project and use cases see Marcus BINGENHEIMER, Jen-Jou HUNG, Simon WILES. 2011. "Social Network Visualization from TEI Data." Literary and Linguistic Computing 26(3): 271-278. And Marcus BINGENHEIMER. 2018. “Who was ‘Central’ for Chinese Buddhist History? - A Social Network Approach.” International Journal of Buddhist Thought and Culture. Vol.28-2: 45-67. All line break "\n" in "paragraph" will be removed before zip.</p>
         </projectDesc>
     </encodingDesc>
   </teiHeader>
@@ -420,8 +420,8 @@
         <anchor n="B.27.0151.0186b11"/>
         <head>新續高僧傳四集卷第二十二</head>
         <lb n="0186b13" ed="B"/><p>習禪篇第三之十二(正傳十二人　附見九人)</p>
-        <xi:include href="2257-清峨湄毘盧院沙門釋克誠傳貫之_性藏_實如.xml"/>
-        <xi:include href="2258-清寧鄉大溈密印寺沙門釋正明傳慧山海.xml"/>
+        <xi:include href="2257keCheng克誠.xml"/>
+        <xi:include href="2258zhengMing正明.xml"/>
         <xi:include href="2259tongXian通賢.xml"/>
         <xi:include href="2260tongRong通容.xml"/>
         <xi:include href="2261daoMin道忞.xml"/>
@@ -1148,16 +1148,16 @@
         <head>新續高僧傳四集卷第六十五</head>
         <lb n="0469b13" ed="B"/><p>雜識篇第十之六(正傳十一人　附見十八人)</p>
         <xi:include href="2769wuJi無跡.xml"/>
-        <xi:include href="2770-清金陵靈谷寺沙門釋彌垠傳彌澍.xml"/>
-        <xi:include href="2771-淨杭州雲林寺沙門釋悟森傳見初品_蓮月_寶林鑑品_高峰_體純潔_研庵謙.xml"/>
-        <xi:include href="2772-清丹徒焦山定慧寺沙門釋清恒傳覺鐙_覺銓.xml"/>
-        <xi:include href="2773-清銅梁壽隆寺沙門釋悟賢傳真空_智曇.xml"/>
+        <xi:include href="2770miKen彌垠.xml"/>
+        <xi:include href="2771wuSen悟森.xml"/>
+        <xi:include href="2772qingHeng清恒.xml"/>
+        <xi:include href="2773wuXian悟賢.xml"/>
         <xi:include href="2774yuanTong源通.xml"/>
-        <xi:include href="2775-清公安今古寺沙門釋如慧傳.xml"/>
-        <xi:include href="2776-清當陽玉泉寺沙門釋隆昇傳培潤滋_香山瀠.xml"/>
-        <xi:include href="2777-清金陵靈谷寺沙門釋禰修傳光蓮.xml"/>
-        <xi:include href="2778-清成都昭覺寺沙門釋照常傳.xml"/>
-        <xi:include href="2779-清四明天童寺沙門釋敬安傳精一.xml"/>
+        <xi:include href="2775ruHui如慧.xml"/>
+        <xi:include href="2776longSheng隆昇.xml"/>
+        <xi:include href="2777niXiu禰修.xml"/>
+        <xi:include href="2778zhaoChang照常.xml"/>
+        <xi:include href="2779jingAn敬安.xml"/>
       </div>
     </body>
     <back>
