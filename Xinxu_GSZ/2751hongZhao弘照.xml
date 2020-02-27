@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" type="雜識" xml:id="gsz0459b13shiHongZhao"><lb
-ed="B" n="0459b13"/><anchor n="B.27.0151.0459b13"/><head>清嘉魚西安禪院沙門<persName key="A022527">釋弘照</persName>傳<persName type="secondary" key="A043009">宏琛</persName></head><lb
-ed="B" n="0459b14"/><p xml:id="pB27p0459b1401"><persName key="A022527">釋弘照</persName>，字<persName key="A022527">隱嵐</persName>，參<persName key="A026305">博達</persName>廿餘年，深有證入，付以偈云：「幽絃別操<lb
-ed="B" n="0459b15"/>古佛風，刻羽引商未足同；賴有知音續正響，人天從此得奇逢。」<lb
-ed="B" n="0459b16"/>後主嘉魚西安院。上堂，僧問：「祖意西來是若何？」<persName key="A022527">照</persName>云：「山靈有意<lb
-ed="B" n="0459b17"/>點頑石於峯頭，藥木當機開生面於刦外。是以棲心丘壑，晦跡<lb
-ed="B" n="0459b18"/>雲隈，豈冀驀地從空劈腦，直得通身粉碎。縱使通身有口難言，<lb
-ed="B" n="0459b19"/>通身有手無指，祗得屈<anchor xml:id="beg_20a" type="cb-app"/>己<anchor xml:id="end_20a"/>從仁。」顧視左右曰：「領略是？不領略是？」<lb
-ed="B" n="0459b20"/>良久乃云：「其或未然，聽取一偈，『為續心燈出一頭，青林有毒累<pb ed="B" xml:id="B27.0151.0460a" n="0460a"/><lb
-ed="B" n="0460a01"/>吾儔；傳來消息無多子，浩浩靈源萬古流。』」<persName key="A022527">法照</persName><!-- 弘？ -->詩歌風雅，辯論<lb
-ed="B" n="0460a02"/>超倫。有《曉園吟集》行世。又<persName key="A043009">宏琛</persName>，與<persName key="A022527">照</persName>同參<persName key="A026305">博達</persName>，有寤。<persName key="A026305">達</persName>以偈印<lb
-ed="B" n="0460a03"/>之後，主橫溪。題詠甚富，有《聽月吟集》數卷。</p>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="雜識" xml:id="gsz0459b13shiHongZhao">
+<lb ed="B" n="0459b13"/><anchor n="B.27.0151.0459b13"/><head>清嘉魚西安禪院沙門<persName key="A022527">釋弘照</persName>傳<persName type="secondary" key="A043009">宏琛</persName></head>
+<lb ed="B" n="0459b14"/><p xml:id="pB27p0459b1401"><persName key="A022527">釋弘照</persName>，字<persName key="A022527">隱嵐</persName>，參<persName key="A026305">博達</persName>廿餘年，深有證入，付以偈云：「幽絃別操
+<lb ed="B" n="0459b15"/>古佛風，刻羽引商未足同；賴有知音續正響，人天從此得奇逢。」
+<lb ed="B" n="0459b16"/>後主嘉魚西安院。上堂，僧問：「祖意西來是若何？」<persName key="A022527">照</persName>云：「山靈有意
+<lb ed="B" n="0459b17"/>點頑石於峯頭，藥木當機開生面於刦外。是以棲心丘壑，晦跡
+<lb ed="B" n="0459b18"/>雲隈，豈冀驀地從空劈腦，直得通身粉碎。縱使通身有口難言，
+<lb ed="B" n="0459b19"/>通身有手無指，祗得屈<anchor xml:id="beg_20a" type="cb-app"/>己<anchor xml:id="end_20a"/>從仁。」顧視左右曰：「領略是？不領略是？」
+<lb ed="B" n="0459b20"/>良久乃云：「其或未然，聽取一偈，『為續心燈出一頭，青林有毒累<pb ed="B" xml:id="B27.0151.0460a" n="0460a"/>
+<lb ed="B" n="0460a01"/>吾儔；傳來消息無多子，浩浩靈源萬古流。』」<persName key="A022527">法照</persName><!-- 弘？ -->詩歌風雅，辯論
+<lb ed="B" n="0460a02"/>超倫。有《曉園吟集》行世。又<persName key="A043009">宏琛</persName>，與<persName key="A022527">照</persName>同參<persName key="A026305">博達</persName>，有寤。<persName key="A026305">達</persName>以偈印
+<lb ed="B" n="0460a03"/>之後，主橫溪。題詠甚富，有《聽月吟集》數卷。</p>
     <linkGrp>
         <link targets="#0459b14 #0459b14"/>
         <ptr target="#A022527" type="person"/>

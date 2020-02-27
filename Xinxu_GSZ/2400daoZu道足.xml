@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" type="護法" xml:id="gsz0271b16shiDaoZu"><lb
-ed="B" n="0271b16"/><anchor n="B.27.0151.0271b16"/><head>清雲南雞足山蘭陀寺沙門<persName key="A003892">釋道足</persName>傳</head><lb
-ed="B" n="0271b17"/><p xml:id="pB27p0271b1701"><persName key="A003892">釋道足</persName>，字<persName key="A003892">大藏</persName>，姓韓氏，昆明人也。年十六投雞足祝髮，師事<persName key="A012456">蘭<lb
-ed="B" n="0271b18"/>宗</persName>，受具於<persName key="A012590">野愚</persName>，<persName key="A012590">愚</persName>導之參學。時江淮間法席之盛，無如<persName key="A003688">金粟</persName>、<persName key="A000114">博<lb
-ed="B" n="0271b19"/>山</persName>。乃首謁<persName key="A003688">金粟</persName>，頗邀獎勸。繼歸<persName key="A000114">博山</persName>，勤研數載，遂獲證許。但<persName key="A000114">博<lb
-ed="B" n="0271b20"/>山</persName>道範崇高，法門嚴峻，不輕付授。而身後留六偈，傳六弟子，<persName key="A003892">道<pb ed="B" xml:id="B27.0151.0272a" n="0272a"/><lb
-ed="B" n="0272a01"/>足</persName>其一也。明季中原荒亂，避地百粵，闡化蠻服。時尚書<persName key="A042797">熊文燦</persName><lb
-ed="B" n="0272a02"/>聆其清問，迎之東粵，主七星巖。已而歸滇，復棲雞足。<date from-iso="+1653-01-29" key="j23248352325218" to-iso="+1654-02-16">癸<anchor xml:id="beg_12c" type="cb-app"/>巳<anchor xml:id="end_12c"/></date>，<persName key="A042798">蜀王</persName><lb
-ed="B" n="0272a03"/>入山訪求高行，或貿然應召。<ref type="person" target="#A042798">王</ref>問：「<persName key="A001361">達摩</persName>面壁作麼生？」僧答不稱，<lb
-ed="B" n="0272a04"/>將毀其寺。後聞寺有<persName key="A003892">道足</persName>，我法雙空，欲相證明。召<ref type="person" target="#A003892">之</ref>不赴，枉駕<lb
-ed="B" n="0272a05"/>就<ref type="person" target="#A003892">之</ref>。復舉前問，<persName key="A003892">道足</persName>應聲曰：「待個英雄來觸機。」<ref type="person" target="#A042798">王</ref>即下拜曰：「是<lb
-ed="B" n="0272a06"/><ref type="person" target="#A042798">吾</ref>師也。」法以不滅。清康熙初主昆明白衣庵。<date when-iso="+1670-08-16" key="j23312432331243">庚<anchor xml:id="beg027201"/><choice><sic resp="CBETA">戊</sic><corr resp="PC-MB">戌</corr></choice><anchor xml:id="end027201"/>七月二日</date>示<lb
-ed="B" n="0272a07"/>微疾，與諸弟子訣別，申言明心見性之旨甚悉。雞既鳴，端坐索<lb
-ed="B" n="0272a08"/>茗，再飲而終。龍眠<persName key="A042800">方咸亨</persName>為之序錄，<persName key="A003892">方孝標</persName>銘其塔。</p>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="護法" xml:id="gsz0271b16shiDaoZu">
+<lb ed="B" n="0271b16"/><anchor n="B.27.0151.0271b16"/><head>清雲南雞足山蘭陀寺沙門<persName key="A003892">釋道足</persName>傳</head>
+<lb ed="B" n="0271b17"/><p xml:id="pB27p0271b1701"><persName key="A003892">釋道足</persName>，字<persName key="A003892">大藏</persName>，姓韓氏，昆明人也。年十六投雞足祝髮，師事<persName key="A012456">蘭
+<lb ed="B" n="0271b18"/>宗</persName>，受具於<persName key="A012590">野愚</persName>，<persName key="A012590">愚</persName>導之參學。時江淮間法席之盛，無如<persName key="A003688">金粟</persName>、<persName key="A000114">博
+<lb ed="B" n="0271b19"/>山</persName>。乃首謁<persName key="A003688">金粟</persName>，頗邀獎勸。繼歸<persName key="A000114">博山</persName>，勤研數載，遂獲證許。但<persName key="A000114">博
+<lb ed="B" n="0271b20"/>山</persName>道範崇高，法門嚴峻，不輕付授。而身後留六偈，傳六弟子，<persName key="A003892">道<pb ed="B" xml:id="B27.0151.0272a" n="0272a"/>
+<lb ed="B" n="0272a01"/>足</persName>其一也。明季中原荒亂，避地百粵，闡化蠻服。時尚書<persName key="A042797">熊文燦</persName>
+<lb ed="B" n="0272a02"/>聆其清問，迎之東粵，主七星巖。已而歸滇，復棲雞足。<date from-iso="+1653-01-29" key="j23248352325218" to-iso="+1654-02-16">癸<anchor xml:id="beg_12c" type="cb-app"/>巳<anchor xml:id="end_12c"/></date>，<persName key="A042798">蜀王</persName>
+<lb ed="B" n="0272a03"/>入山訪求高行，或貿然應召。<ref type="person" target="#A042798">王</ref>問：「<persName key="A001361">達摩</persName>面壁作麼生？」僧答不稱，
+<lb ed="B" n="0272a04"/>將毀其寺。後聞寺有<persName key="A003892">道足</persName>，我法雙空，欲相證明。召<ref type="person" target="#A003892">之</ref>不赴，枉駕
+<lb ed="B" n="0272a05"/>就<ref type="person" target="#A003892">之</ref>。復舉前問，<persName key="A003892">道足</persName>應聲曰：「待個英雄來觸機。」<ref type="person" target="#A042798">王</ref>即下拜曰：「是
+<lb ed="B" n="0272a06"/><ref type="person" target="#A042798">吾</ref>師也。」法以不滅。清康熙初主昆明白衣庵。<date when-iso="+1670-08-16" key="j23312432331243">庚<anchor xml:id="beg027201"/><choice><sic resp="CBETA">戊</sic><corr resp="PC-MB">戌</corr></choice><anchor xml:id="end027201"/>七月二日</date>示
+<lb ed="B" n="0272a07"/>微疾，與諸弟子訣別，申言明心見性之旨甚悉。雞既鳴，端坐索
+<lb ed="B" n="0272a08"/>茗，再飲而終。龍眠<persName key="A042800">方咸亨</persName>為之序錄，<persName key="A003892">方孝標</persName>銘其塔。</p>
     <linkGrp>
         <link targets="#0271b17 #0271b18"/>
         <ptr target="#A003892" type="person"/>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0471c21shiMingXue"><lb
+ed="X" n="0471c21"/><anchor n="X.80.1566.0471c21"/><head>南昌府百丈<persName key="A007133">瑞白明雪</persName>禪師</head><p xml:id="pX80p0471c2101">桐城楊氏子。從九華聚<lb
+ed="X" n="0471c22"/>龍菴薙落，往雲樓受具。參<persName key="A005648">雲門</persName>於壽聖。……<lb
+ed="X" n="0472a03"/>……遍謁<persName key="A000114">博山</persName>、<persName key="A013164">黃檗</persName><lb
+ed="X" n="0472a04"/>諸尊宿，歸省<persName key="A005648">雲門</persName>為第二座。……<lb
+ed="X" n="p0472a11"/>……參天童<persName key="A003688">悟</persName>禪師於金粟。……<lb
+ed="X" n="p0472c11"/>……<persName key="A042729">建安王</persName>欽師道望請住百丈。……</p>
+    <linkGrp>
+        <link targets="#0471c22 #0471c22"/>
+        <ptr target="#A007133" type="person"/>
+        <ptr target="#A005648" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0472a03 #0472a04"/>
+        <ptr target="#A007133" type="person"/>
+        <ptr target="#A000114" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0472a03 #0472a04"/>
+        <ptr target="#A007133" type="person"/>
+        <ptr target="#A013164" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0472a11 #0472a11"/>
+        <ptr target="#A007133" type="person"/>
+        <ptr target="#A003688" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0472c11 #0472c11"/>
+        <ptr target="#A007133" type="person"/>
+        <ptr target="#A042729" type="person"/>
+    </linkGrp>
+</div>

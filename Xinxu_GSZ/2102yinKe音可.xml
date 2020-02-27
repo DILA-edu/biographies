@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" type="義解" xml:id="gsz0097b08shiYinKe"><lb
-ed="B" n="0097b08"/><anchor n="B.27.0151.0097b08"/><head>清安徽清涼寺沙門<persName key="A021874">釋音可</persName>傳</head><lb
-ed="B" n="0097b09"/><p xml:id="pB27p0097b0901"><persName key="A021874">釋音可</persName>，字<persName key="A021874">元白</persName>，姓鄧氏，武岡人。年二十謁<persName key="A001993">顓愚衡</persName>，遂祝髮學圓<lb
-ed="B" n="0097b10"/>通法門。參訪<persName key="A000114">博山</persName>、<persName key="A005648">湛然</persName>、<persName key="A001681">憨山</persName>、<persName key="A001408">雪嶠</persName>諸老，後謁<persName key="A003688">天童密</persName>，多所咨叩<lb
-ed="B" n="0097b11"/>榰<!-- 榰，柱氐 -->柱大法。人或忌之，翩然辭去。過江陰，<persName key="A042652">黃子介</persName>請開堂。因溯江<lb
-ed="B" n="0097b12"/>右，恢復泐潭<!-- PL000000019708 -->祖庭，一鼎新之。乃掃遠祖塔，至浮山四眾請弘法<lb
-ed="B" n="0097b13"/>慧山二十餘年，重建佛剎，宗風烜赫。居無何，退休舒城華蓋山。<lb
-ed="B" n="0097b14"/>復應安徽<persName key="A042653">張<roleName>撫軍</roleName></persName>之請<!-- 《古今圖書集成選輯（下）》卷192：「舟經皖張撫軍朝珍延住清凉庵為捐資刊懺復啟廣懺道塲百日」(CBETA, B16, no. 88, p. 637, b3-5) -->，住錫皖城清涼，撰《集圓通廣懺》六十卷，<lb
-ed="B" n="0097b15"/>鏤版行世。一日示微疾，委順而化。塔於灊之天柱，世壽七十六，<lb
-ed="B" n="0097b16"/>僧夏五十六。著《語錄》若干卷，<persName key="A021874">音</persName>嘗棲黃山蓮花峰庵，中有詩曰：<lb
-ed="B" n="0097b17"/>「黃海青蓮開萬仞，天都猶下未為高；予何直到青雲上，樂道三<lb
-ed="B" n="0097b18"/>年此結茅。」其神識超曠，非久住黃山者弗能道也。</p>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="義解" xml:id="gsz0097b08shiYinKe">
+<lb ed="B" n="0097b08"/><anchor n="B.27.0151.0097b08"/><head>清安徽清涼寺沙門<persName key="A021874">釋音可</persName>傳</head>
+<lb ed="B" n="0097b09"/><p xml:id="pB27p0097b0901"><persName key="A021874">釋音可</persName>，字<persName key="A021874">元白</persName>，姓鄧氏，武岡人。年二十謁<persName key="A001993">顓愚衡</persName>，遂祝髮學圓
+<lb ed="B" n="0097b10"/>通法門。參訪<persName key="A000114">博山</persName>、<persName key="A005648">湛然</persName>、<persName key="A001681">憨山</persName>、<persName key="A001408">雪嶠</persName>諸老，後謁<persName key="A003688">天童密</persName>，多所咨叩
+<lb ed="B" n="0097b11"/>榰<!-- 榰，柱氐 -->柱大法。人或忌之，翩然辭去。過江陰，<persName key="A042652">黃子介</persName>請開堂。因溯江
+<lb ed="B" n="0097b12"/>右，恢復泐潭<!-- PL000000019708 -->祖庭，一鼎新之。乃掃遠祖塔，至浮山四眾請弘法
+<lb ed="B" n="0097b13"/>慧山二十餘年，重建佛剎，宗風烜赫。居無何，退休舒城華蓋山。
+<lb ed="B" n="0097b14"/>復應安徽<persName key="A042653">張<roleName>撫軍</roleName></persName>之請<!-- 《古今圖書集成選輯（下）》卷192：「舟經皖張撫軍朝珍延住清凉庵為捐資刊懺復啟廣懺道塲百日」(CBETA, B16, no. 88, p. 637, b3-5) -->，住錫皖城清涼，撰《集圓通廣懺》六十卷，
+<lb ed="B" n="0097b15"/>鏤版行世。一日示微疾，委順而化。塔於灊之天柱，世壽七十六，
+<lb ed="B" n="0097b16"/>僧夏五十六。著《語錄》若干卷，<persName key="A021874">音</persName>嘗棲黃山蓮花峰庵，中有詩曰：
+<lb ed="B" n="0097b17"/>「黃海青蓮開萬仞，天都猶下未為高；予何直到青雲上，樂道三
+<lb ed="B" n="0097b18"/>年此結茅。」其神識超曠，非久住黃山者弗能道也。</p>
     <linkGrp>
         <link targets="#0097b09 #0097b09"/>
         <ptr target="#A021874" type="person"/>

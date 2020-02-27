@@ -1,31 +1,31 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" type="譯經" xml:id="gsz0039a08shiLaoZang"><lb
-ed="B" n="0039a08"/><anchor n="B.27.0151.0039a08"/><head>清五臺清涼山寺沙門釋老藏傳</head><p xml:id="pB27p0039a0901"><lb
-ed="B" n="0039a09"/><persName key="A011005">釋老藏</persName>者——即<persName key="A011005">阿王老藏</persName>，<placeName key="PL000000000404">燕京西山</placeName>之喇嘛也——，姓賈氏。生甫十齡，<lb
-ed="B" n="0039a10"/>父母送之<placeName key="PL000000000289">崇國寺</placeName>為沙彌，年十八始受具。稟性超穎，度越眾流，<lb
-ed="B" n="0039a11"/>已習韋陀<!-- 明論 -->，兼究瑜伽，慧根自覺，真空獨證，於番漢經書一目俱<lb
-ed="B" n="0039a12"/>了。復歷講肆，徧聆奧機，至於三密<!-- 身密、口密、意密 -->、護身<!-- 護身法 -->、壇儀<!-- 設壇儀軌 -->悉練，五部印契，宣
-<lb
-ed="B" n="0039a13"/>導咸推。會大清定鼎，<date from-iso="+1644-02-08" key="j23215572321911" to-iso="+1645-01-27">順治初元</date>應詔入<ref type="place" target="#PL000000000319">都</ref>。<persName key="A011005">藏</persName>與同壇五人攝齋<lb
-ed="B" n="0039a14"/>受戒。有一上<choice><sic resp="CBETA">土</sic><corr resp="CP-MB">士</corr></choice>忽諦視曰：「此中有一五臺主人。」眾皆惘然，莫測<lb
-ed="B" n="0039a15"/>所謂。及<date from-iso="+1659-01-23" key="j23270202327403" to-iso="+1660-02-10"><name>順治</name><anchor xml:id="beg_d" type="cb-app"/>己<anchor xml:id="end_d"/>亥</date>，<persName key="A011005">藏</persName>果以兼通番漢，膺選乘傳，上主五臺，總理<lb
-ed="B" n="0039a16"/>番漢經典，舊時所譯，多所訂正。術士之言，始為有徵。自蒞眾<ref type="place" target="#PL000000005250">茲<lb
-ed="B" n="0039a17"/>山</ref>，乳竇<!-- 泉眼 -->重流，荊條復茂；損食減衣，以施貧乏；禪堂駢集，覺路弘<lb
-ed="B" n="0039a18"/>開；補綴殘典，不憚勤勞。生平不設衣缽，一錫飄然，無所繫念。空<lb
-ed="B" n="0039a19"/>諸所有，即為正觀；平等應緣，解除一切；乘五衍之軾，開八正之<lb
-ed="B" n="0039a20"/>門，拯溺逝川<!-- 逝去的江水(論語) -->，大庇交喪<!-- 參《清涼山新志‧卷七‧塔銘》頁380 -->。內翰<persName key="A011015">繆彤</persName>、中行<!-- 指刑部、戶部 --><persName key="A011017">李嘉猷</persName>道過<placeName key="PL000000005250">臺</placeName>頂，一見<pb ed="B" xml:id="B27.0151.0039b" n="0039b"/><lb
-ed="B" n="0039b01"/>皈<anchor xml:id="beg003903"/><choice><sic resp="CBETA"><g ref="#CB33451">󸊫</g></sic><corr resp="PC-MB">依</corr></choice><anchor xml:id="end003903"/><!-- 據《清涼山新志‧卷七‧塔銘》頁381 -->。玉帶山門，雲天瓶水，遠吟深契，信非偶然。厥後，比歲<!-- 每年 -->赴覲<lb
-ed="B" n="0039b02"/><ref type="place" target="#PL000000000319">闕廷</ref>，欽承<ref type="person" target="#A006714">天</ref>問，玅謕微幾。既協皇情，而譯事鉤稽，尤邀特眷。是<lb
-ed="B" n="0039b03"/>以殊禮異數，寵賚滋多。<date from-iso="+1671-02-09" key="j23314202331774" to-iso="+1672-01-29"><name>康熙</name>辛亥年</date>已七十矣！退居頤養，日以<lb
-ed="B" n="0039b04"/>禪誦課心，長坐不臥。遍繙大藏，專業《華嚴》，以千部為期。嘗以歲<lb
-ed="B" n="0039b05"/>旱，露跣<!-- 赤腳 -->禱祈，甘雨應時而降，萬眾交忭。<date from-iso="+1683-08-22" key="j23359972336084" to-iso="+1683-11-17">癸亥秋</date>，<persName key="A006719">聖祖</persName>幸臨<placeName key="PL000000005250">臺山</placeName>，<lb
-ed="B" n="0039b06"/>御書題賜號為<persName key="A011005">清涼老人</persName>。宸藻流輝，焜燿千古。住山二十八稔，<lb
-ed="B" n="0039b07"/>法雲遠蔭，火宅晨涼；慧日載升，重昏夜曉；宗風方鬯，祖庭用光。<lb
-ed="B" n="0039b08"/>以<date when-iso="+1687-04-20" key="j23373342337334"><name>康熙</name>丁卯三月九日</date>示寂。先期集眾，告以大限，<date when-iso="+1687-04-21" key="j23373352337335">十日</date>將從西<lb
-ed="B" n="0039b09"/>去，勉哉修持，勿令墜失。日至索浴，號佛不絕，端坐而化。春秋八<lb
-ed="B" n="0039b10"/>十有七，僧臘六十有九。<persName key="A006719">聖祖</persName>聞之，賜金營葬，發龕荼毗，塔於<placeName key="PL000000005336">鳳<lb
-ed="B" n="0039b11"/>林谷</placeName>。設食供眾，至者四千餘人。悲聲棲響，感動林壑。戶部左侍<lb
-ed="B" n="0039b12"/>郎<persName key="A011018">蔣弘道</persName>為撰碑銘，勒石山阿。</p>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="譯經" xml:id="gsz0039a08shiLaoZang">
+<lb ed="B" n="0039a08"/><anchor n="B.27.0151.0039a08"/><head>清五臺清涼山寺沙門釋老藏傳</head><p xml:id="pB27p0039a0901">
+<lb ed="B" n="0039a09"/><persName key="A011005">釋老藏</persName>者——即<persName key="A011005">阿王老藏</persName>，<placeName key="PL000000000404">燕京西山</placeName>之喇嘛也——，姓賈氏。生甫十齡，
+<lb ed="B" n="0039a10"/>父母送之<placeName key="PL000000000289">崇國寺</placeName>為沙彌，年十八始受具。稟性超穎，度越眾流，
+<lb ed="B" n="0039a11"/>已習韋陀<!-- 明論 -->，兼究瑜伽，慧根自覺，真空獨證，於番漢經書一目俱
+<lb ed="B" n="0039a12"/>了。復歷講肆，徧聆奧機，至於三密<!-- 身密、口密、意密 -->、護身<!-- 護身法 -->、壇儀<!-- 設壇儀軌 -->悉練，五部印契，宣
+
+<lb ed="B" n="0039a13"/>導咸推。會大清定鼎，<date from-iso="+1644-02-08" key="j23215572321911" to-iso="+1645-01-27">順治初元</date>應詔入<ref type="place" target="#PL000000000319">都</ref>。<persName key="A011005">藏</persName>與同壇五人攝齋
+<lb ed="B" n="0039a14"/>受戒。有一上<choice><sic resp="CBETA">土</sic><corr resp="CP-MB">士</corr></choice>忽諦視曰：「此中有一五臺主人。」眾皆惘然，莫測
+<lb ed="B" n="0039a15"/>所謂。及<date from-iso="+1659-01-23" key="j23270202327403" to-iso="+1660-02-10"><name>順治</name><anchor xml:id="beg_d" type="cb-app"/>己<anchor xml:id="end_d"/>亥</date>，<persName key="A011005">藏</persName>果以兼通番漢，膺選乘傳，上主五臺，總理
+<lb ed="B" n="0039a16"/>番漢經典，舊時所譯，多所訂正。術士之言，始為有徵。自蒞眾<ref type="place" target="#PL000000005250">茲
+<lb ed="B" n="0039a17"/>山</ref>，乳竇<!-- 泉眼 -->重流，荊條復茂；損食減衣，以施貧乏；禪堂駢集，覺路弘
+<lb ed="B" n="0039a18"/>開；補綴殘典，不憚勤勞。生平不設衣缽，一錫飄然，無所繫念。空
+<lb ed="B" n="0039a19"/>諸所有，即為正觀；平等應緣，解除一切；乘五衍之軾，開八正之
+<lb ed="B" n="0039a20"/>門，拯溺逝川<!-- 逝去的江水(論語) -->，大庇交喪<!-- 參《清涼山新志‧卷七‧塔銘》頁380 -->。內翰<persName key="A011015">繆彤</persName>、中行<!-- 指刑部、戶部 --><persName key="A011017">李嘉猷</persName>道過<placeName key="PL000000005250">臺</placeName>頂，一見<pb ed="B" xml:id="B27.0151.0039b" n="0039b"/>
+<lb ed="B" n="0039b01"/>皈<anchor xml:id="beg003903"/><choice><sic resp="CBETA"><g ref="#CB33451">󸊫</g></sic><corr resp="PC-MB">依</corr></choice><anchor xml:id="end003903"/><!-- 據《清涼山新志‧卷七‧塔銘》頁381 -->。玉帶山門，雲天瓶水，遠吟深契，信非偶然。厥後，比歲<!-- 每年 -->赴覲
+<lb ed="B" n="0039b02"/><ref type="place" target="#PL000000000319">闕廷</ref>，欽承<ref type="person" target="#A006714">天</ref>問，玅謕微幾。既協皇情，而譯事鉤稽，尤邀特眷。是
+<lb ed="B" n="0039b03"/>以殊禮異數，寵賚滋多。<date from-iso="+1671-02-09" key="j23314202331774" to-iso="+1672-01-29"><name>康熙</name>辛亥年</date>已七十矣！退居頤養，日以
+<lb ed="B" n="0039b04"/>禪誦課心，長坐不臥。遍繙大藏，專業《華嚴》，以千部為期。嘗以歲
+<lb ed="B" n="0039b05"/>旱，露跣<!-- 赤腳 -->禱祈，甘雨應時而降，萬眾交忭。<date from-iso="+1683-08-22" key="j23359972336084" to-iso="+1683-11-17">癸亥秋</date>，<persName key="A006719">聖祖</persName>幸臨<placeName key="PL000000005250">臺山</placeName>，
+<lb ed="B" n="0039b06"/>御書題賜號為<persName key="A011005">清涼老人</persName>。宸藻流輝，焜燿千古。住山二十八稔，
+<lb ed="B" n="0039b07"/>法雲遠蔭，火宅晨涼；慧日載升，重昏夜曉；宗風方鬯，祖庭用光。
+<lb ed="B" n="0039b08"/>以<date when-iso="+1687-04-20" key="j23373342337334"><name>康熙</name>丁卯三月九日</date>示寂。先期集眾，告以大限，<date when-iso="+1687-04-21" key="j23373352337335">十日</date>將從西
+<lb ed="B" n="0039b09"/>去，勉哉修持，勿令墜失。日至索浴，號佛不絕，端坐而化。春秋八
+<lb ed="B" n="0039b10"/>十有七，僧臘六十有九。<persName key="A006719">聖祖</persName>聞之，賜金營葬，發龕荼毗，塔於<placeName key="PL000000005336">鳳
+<lb ed="B" n="0039b11"/>林谷</placeName>。設食供眾，至者四千餘人。悲聲棲響，感動林壑。戶部左侍
+<lb ed="B" n="0039b12"/>郎<persName key="A011018">蔣弘道</persName>為撰碑銘，勒石山阿。</p>
                 <linkGrp>
                     <link targets="#0039a09 #0039a09"/>
                     <ptr target="#A011005" type="person"/>

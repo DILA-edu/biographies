@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0343a21shiWuJin"><lb
+ed="J" n="0343a21"/><anchor n="J.29.B233.0343a21"/><head>行實</head><p xml:id="pJ29p0343a2101">……<lb
+ed="J" n="0343a24"/>……<ref type="person" target="#A010710">余</ref>乃<lb
+ed="J" n="0343a25"/>嘉興人姓張，父號<persName key="A042725">舜甫</persName>，母<persName key="A042726">賀氏</persName>好善放生，夢睹日輪<lb
+ed="J" n="0343a26"/>乃妊。<ref type="person" target="#A010710">余</ref>生於萬曆壬子十月初九日辰時也。自幼不<lb
+ed="J" n="0343a27"/>樂兒嬉，唯喜近佛僧。外祖<persName key="A042727">賀銘菴</persName>公無嗣繼。……<lb
+ed="J" n="0343b01"/>……話二十三歲，參本<lb
+ed="J" n="0343b02"/>師<persName key="A010708">鴛湖</persName>老人於桐月庵，即蒙垂誨。……<lb
+ed="J" n="0343b05"/>……尋回桐月，遂禮<ref type="person" target="#A010708">老人</ref>之系<persName key="A012040">萬如</persName>和尚剃染，命<lb
+ed="J" n="0343b06"/>掌庫事。……<lb
+ed="J" n="0343b12"/>……戊寅歲，禮<persName key="A003688">密雲</persName>大師，奮志請益。……<lb
+ed="J" n="0343b25"/>……辛巳開堂，<ref type="person" target="#A010710">余</ref>掌書記期畢，隨至建寧。<ref type="person" target="#A012040">尚</ref>入普明<lb
+ed="J" n="0343b26"/>設齋，請<ref type="person" target="#A010708">老人</ref>陞座，旋至曹山料理院事。……<lb
+ed="J" n="0343c01"/>……擬歸禾省親，結茆養病時，<persName key="A010711">一初</persName>法弟同過建<lb
+ed="J" n="0343c02"/>寧，入普明禮別<ref type="person" target="#A010708">老人</ref>。……<lb
+ed="J" n="0343c04"/>……一日<ref type="person" target="#A010708">老人</ref>欠安，命<ref type="person" target="#A010710">余</ref>、<persName key="A010709">衡石</persName>、<persName key="A010711">一初</persName>三弟兄<lb
+ed="J" n="0343c05"/>茶次。……<lb
+ed="J" n="0343c21"/>……癸未春抵武林，謁<persName key="A010693">石<lb
+ed="J" n="0343c22"/>雨</persName>和尚於寶壽具人事。……<lb
+ed="J" n="0343c30"/>……一日過<lb
+ed="J" n="0344a01"/><persName key="A001408">雪嶠</persName>大師千指庵坐次。……</p>
+    <linkGrp>
+        <link targets="#0343a24 #0343a27"/>
+        <ptr target="#A010710" type="person"/>
+        <ptr target="#A042725" type="person"/>
+        <ptr target="#A042726" type="person"/>
+        <ptr target="#A042727" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0343b01 #0343b02"/>
+        <ptr target="#A010710" type="person"/>
+        <ptr target="#A010708" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0343b05 #0343b06"/>
+        <ptr target="#A010710" type="person"/>
+        <ptr target="#A010708" type="person"/>
+        <ptr target="#A012040" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0343b12 #0343b12"/>
+        <ptr target="#A010710" type="person"/>
+        <ptr target="#A003688" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0343b25 #0343b26"/>
+        <ptr target="#A010710" type="person"/>
+        <ptr target="#A010708" type="person"/>
+        <ptr target="#A012040" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0343c01 #0343c02"/>
+        <ptr target="#A010710" type="person"/>
+        <ptr target="#A010708" type="person"/>
+        <ptr target="#A010711" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0343c04 #0343c05"/>
+        <ptr target="#A010710" type="person"/>
+        <ptr target="#A010708" type="person"/>
+        <ptr target="#A010709" type="person"/>
+        <ptr target="#A010711" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0343c21 #0343c22"/>
+        <ptr target="#A010710" type="person"/>
+        <ptr target="#A010693" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0343c30 #0344a01"/>
+        <ptr target="#A010710" type="person"/>
+        <ptr target="#A001408" type="person"/>
+    </linkGrp>
+</div>

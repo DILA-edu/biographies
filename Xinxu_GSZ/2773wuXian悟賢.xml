@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" type="雜識" xml:id="gsz0472a06shiWuXian"><lb
-ed="B" n="0472a06"/><anchor n="B.27.0151.0472a06"/><head>清銅梁壽隆寺沙門<persName key="A042466">釋悟賢</persName>傳<persName type="secondary" key="A021914">真空</persName><persName type="secondary" key="A041733">智曇</persName></head><lb
-ed="B" n="0472a07"/><p xml:id="pB27p0472a0701"><persName key="A042466">釋悟賢</persName>，字<persName key="A042466">愚嶺</persName>，姓周氏，銅梁人也。襁褓多疾，寄養空門。稍長，因<lb
-ed="B" n="0472a08"/>披衲城北壽隆寺。資性穎悟，超卓倫輩，諷誦餘間，兼習文翰，六<lb
-ed="B" n="0472a09"/>寅波崙<!-- ？ -->，皆所棲止。嘗游東南，歷覽名區，禪機既暢，吟詠益工。因<lb
-ed="B" n="0472a10"/>與同里<persName key="A043068">廖先達</persName>、<persName key="A043069">王明誠</persName>、<persName key="A043070">左昌華</persName>、<persName key="A043071">吳乃賡</persName>，合州孝廉<persName key="A043072">張乃孚</persName>、<persName key="A043073">禹湛</persName>，<lb
-ed="B" n="0472a11"/>巴縣<persName key="A043074">龔有融</persName>諸名士結社賦詩，極一時韵事。著有《六寅唱和集》<lb
-ed="B" n="0472a12"/>及自定《詩草》一卷。銅梁雅秀，僧中以<persName key="A042466">愚嶺</persName>為清代首稱云。又<persName key="A021914">真<lb
-ed="B" n="0472a13"/>空</persName>字<persName key="A021914">問渠</persName>，大足彭氏子。為<persName key="A041733">智曇</persName>五傳弟子。好讀經史，手不停披。<lb
-ed="B" n="0472a14"/>工書法，耽吟咏，喜與文人唱和。著有《嶼峒吟》一卷。<persName key="A041733">智曇</persName>自楚來<lb
-ed="B" n="0472a15"/>銅，卓錫計都，每以所餘，造橋修路，利濟行人。<persName key="A021914">真空</persName>師其法，善叩<lb
-ed="B" n="0472a16"/>善施，樂利尤溥。且至性天成，篤於孝友，有古德遺風。</p>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="雜識" xml:id="gsz0472a06shiWuXian">
+<lb ed="B" n="0472a06"/><anchor n="B.27.0151.0472a06"/><head>清銅梁壽隆寺沙門<persName key="A042466">釋悟賢</persName>傳<persName type="secondary" key="A021914">真空</persName><persName type="secondary" key="A041733">智曇</persName></head>
+<lb ed="B" n="0472a07"/><p xml:id="pB27p0472a0701"><persName key="A042466">釋悟賢</persName>，字<persName key="A042466">愚嶺</persName>，姓周氏，銅梁人也。襁褓多疾，寄養空門。稍長，因
+<lb ed="B" n="0472a08"/>披衲城北壽隆寺。資性穎悟，超卓倫輩，諷誦餘間，兼習文翰，六
+<lb ed="B" n="0472a09"/>寅波崙<!-- ？ -->，皆所棲止。嘗游東南，歷覽名區，禪機既暢，吟詠益工。因
+<lb ed="B" n="0472a10"/>與同里<persName key="A043068">廖先達</persName>、<persName key="A043069">王明誠</persName>、<persName key="A043070">左昌華</persName>、<persName key="A043071">吳乃賡</persName>，合州孝廉<persName key="A043072">張乃孚</persName>、<persName key="A043073">禹湛</persName>，
+<lb ed="B" n="0472a11"/>巴縣<persName key="A043074">龔有融</persName>諸名士結社賦詩，極一時韵事。著有《六寅唱和集》
+<lb ed="B" n="0472a12"/>及自定《詩草》一卷。銅梁雅秀，僧中以<persName key="A042466">愚嶺</persName>為清代首稱云。又<persName key="A021914">真
+<lb ed="B" n="0472a13"/>空</persName>字<persName key="A021914">問渠</persName>，大足彭氏子。為<persName key="A041733">智曇</persName>五傳弟子。好讀經史，手不停披。
+<lb ed="B" n="0472a14"/>工書法，耽吟咏，喜與文人唱和。著有《嶼峒吟》一卷。<persName key="A041733">智曇</persName>自楚來
+<lb ed="B" n="0472a15"/>銅，卓錫計都，每以所餘，造橋修路，利濟行人。<persName key="A021914">真空</persName>師其法，善叩
+<lb ed="B" n="0472a16"/>善施，樂利尤溥。且至性天成，篤於孝友，有古德遺風。</p>
     <linkGrp>
         <link targets="#0472a10 #0472a10"/>
         <ptr target="#A042466" type="person"/>

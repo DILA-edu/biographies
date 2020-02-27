@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" type="義解" xml:id="gsz0072b08shiDaoXi"><lb
-ed="B" n="0072b08"/><anchor n="B.27.0151.0072b08"/><head>明錢塘靈隱寺沙門<persName key="A000062">釋大訢</persName>傳<persName type="secondary" key="A015431">了萬</persName><persName type="secondary" key="A008284">晦機</persName><persName type="secondary" key="A018564">東叟</persName></head><lb
-ed="B" n="0072b09"/><p xml:id="pB27p0072b0901"><persName key="A000062">釋大訢</persName>，字<persName key="A000062">笑隱</persName>，姓陳氏，九江人也。初謁開先<persName key="A015431">一山了萬</persName>。<persName key="A015431">萬嘗</persName>經<lb
-ed="B" n="0072b10"/>神祠，見紙灰隨風旋起，脫然忘所證，以白<persName key="A018564">東叟</persName>。<persName key="A018564">叟</persName>詰之無滯，遂<lb
-ed="B" n="0072b11"/>主開先。<persName key="A000062">訢</persName>叩之，未深契也，乃遣參淨慈<persName key="A008284">晦機熙</persName>。<persName key="A008284">熙</persName>器重<ref type="person" target="#A000062">之</ref>，問：「<persName key="A003921">黃<lb
-ed="B" n="0072b12"/>龍</persName>得旨<persName key="A008345">泐潭</persName>，領徒游方。及見<persName key="A001439">慈明</persName><!-- 《釋氏稽古略》卷4：「峯曰。石霜圓手段出諸方。子宜見之。」(CBETA, T49, no. 2037, p. 871, c2-3) -->，氣索<!-- 沮喪 -->汗下，過在何處？」<persName key="A000062">訢</persName>抗聲<lb
-ed="B" n="0072b13"/>云：「千年桃核裏，覓甚舊時仁。」一日又舉<persName key="A001897">百丈</persName>野狐語<!-- T48n2005_p0293a15 -->詰之，曰：「且<lb
-ed="B" n="0072b14"/>道不落因果，便墮野狐身；不昧因果，便脫野狐身。利害甚處？」<persName key="A000062">訢</persName><lb
-ed="B" n="0072b15"/>擬答，<persName key="A008284">機</persName>喝之，生平疑滯，渙然冰釋。<persName key="A000062">訢</persName>博學多通，於《湼槃》、《法華》、《大<lb
-ed="B" n="0072b16"/>品般若》靡不窮究，故三諦圓融，觀法入玅。尤擅詞翰，<persName key="A007555">黃溍</persName>、<persName key="A008211">虞集</persName><lb
-ed="B" n="0072b17"/>品其文奇采爛。然鏗鋐磊落，名重一時。<persName key="A006674">元文宗</persName>、<persName key="A006676">順帝</persName>時屢承恩<lb
-ed="B" n="0072b18"/>顧，命坐咨問，授三品文階，賜賚甚厚，盡用以建閤。<date from-iso="+1344-07-18" key="j22121162212144" to-iso="+1344-08-16">元至正四年<lb
-ed="B" n="0072b19"/>五月</date>，詣御史大夫<persName key="A042579">脫歡</persName>為別，復留書與交游之善者。二十四日<lb
-ed="B" n="0072b20"/>書偈趺逝。</p>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="義解" xml:id="gsz0072b08shiDaoXi">
+<lb ed="B" n="0072b08"/><anchor n="B.27.0151.0072b08"/><head>明錢塘靈隱寺沙門<persName key="A000062">釋大訢</persName>傳<persName type="secondary" key="A015431">了萬</persName><persName type="secondary" key="A008284">晦機</persName><persName type="secondary" key="A018564">東叟</persName></head>
+<lb ed="B" n="0072b09"/><p xml:id="pB27p0072b0901"><persName key="A000062">釋大訢</persName>，字<persName key="A000062">笑隱</persName>，姓陳氏，九江人也。初謁開先<persName key="A015431">一山了萬</persName>。<persName key="A015431">萬嘗</persName>經
+<lb ed="B" n="0072b10"/>神祠，見紙灰隨風旋起，脫然忘所證，以白<persName key="A018564">東叟</persName>。<persName key="A018564">叟</persName>詰之無滯，遂
+<lb ed="B" n="0072b11"/>主開先。<persName key="A000062">訢</persName>叩之，未深契也，乃遣參淨慈<persName key="A008284">晦機熙</persName>。<persName key="A008284">熙</persName>器重<ref type="person" target="#A000062">之</ref>，問：「<persName key="A003921">黃
+<lb ed="B" n="0072b12"/>龍</persName>得旨<persName key="A008345">泐潭</persName>，領徒游方。及見<persName key="A001439">慈明</persName><!-- 《釋氏稽古略》卷4：「峯曰。石霜圓手段出諸方。子宜見之。」(CBETA, T49, no. 2037, p. 871, c2-3) -->，氣索<!-- 沮喪 -->汗下，過在何處？」<persName key="A000062">訢</persName>抗聲
+<lb ed="B" n="0072b13"/>云：「千年桃核裏，覓甚舊時仁。」一日又舉<persName key="A001897">百丈</persName>野狐語<!-- T48n2005_p0293a15 -->詰之，曰：「且
+<lb ed="B" n="0072b14"/>道不落因果，便墮野狐身；不昧因果，便脫野狐身。利害甚處？」<persName key="A000062">訢</persName>
+<lb ed="B" n="0072b15"/>擬答，<persName key="A008284">機</persName>喝之，生平疑滯，渙然冰釋。<persName key="A000062">訢</persName>博學多通，於《湼槃》、《法華》、《大
+<lb ed="B" n="0072b16"/>品般若》靡不窮究，故三諦圓融，觀法入玅。尤擅詞翰，<persName key="A007555">黃溍</persName>、<persName key="A008211">虞集</persName>
+<lb ed="B" n="0072b17"/>品其文奇采爛。然鏗鋐磊落，名重一時。<persName key="A006674">元文宗</persName>、<persName key="A006676">順帝</persName>時屢承恩
+<lb ed="B" n="0072b18"/>顧，命坐咨問，授三品文階，賜賚甚厚，盡用以建閤。<date from-iso="+1344-07-18" key="j22121162212144" to-iso="+1344-08-16">元至正四年
+<lb ed="B" n="0072b19"/>五月</date>，詣御史大夫<persName key="A042579">脫歡</persName>為別，復留書與交游之善者。二十四日
+<lb ed="B" n="0072b20"/>書偈趺逝。</p>
     <linkGrp>
         <link targets="#0072b09 #0072b09"/>
         <ptr target="#A000062" type="person"/>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0630c11shiMingYu"><lb
+ed="X" n="0630c11"/><anchor n="X.84.1583.0630c11"/><head>杭州府愚菴<persName key="A012054">三宜明盂</persName>禪師</head><p xml:id="pX84p0630c1101">錢塘丁氏子。生而有異。……<lb
+ed="X" n="0630c15"/>……年二十三，投<persName key="A015872">真寂印</persName>薙染。喜博聞，<persName key="A015872">印</persName><lb
+ed="X" n="0630c16"/>甞挫抑之。一夕經行，憶〈婆子轉藏因緣〉<!-- 《續燈正統》卷33：「婆子請趙州轉藏經。」(CBETA, X84, no. 1583, p. 591, c14-15) -->，觸香桌有省。<lb
+ed="X" n="0630c17"/>舉似<persName key="A015872">印</persName>。<persName key="A015872">印</persName>曰：「<ref type="person" target="#A012054">汝</ref>悟道耶？」<ref type="person" target="#A012054">師</ref>曰：「道即不悟，捉敗<persName key="A004475">趙州</persName>。」<persName key="A015872">印</persName><lb
+ed="X" n="0630c18"/>曰：「甚處見<persName key="A004475">趙州</persName>？」<ref type="person" target="#A012054">師</ref>乃敘所得。<persName key="A015872">印</persName>曰：「如何是那半藏？」<ref type="person" target="#A012054">師</ref><lb
+ed="X" n="0630c19"/>曰：「此是透法身事。」<persName key="A015872">印</persName>遽劈面一掌，<ref type="person" target="#A012054">師</ref>退。次參<persName key="A005648">雲門</persName>。……<lb
+ed="X" n="0631a05"/><persName key="A005648">門</persName>可之，遂囑累焉！嗣是事徧參。抵黃麻謁<persName key="A013164">無念有</persName>……</p>
+    <linkGrp>
+        <link targets="#0630c15 #0630c19"/>
+        <ptr target="#A012054" type="person"/>
+        <ptr target="#A015872" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0630c19 #0630c19"/>
+        <ptr target="#A012054" type="person"/>
+        <ptr target="#A005648" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0631a05 #0631a05"/>
+        <ptr target="#A012054" type="person"/>
+        <ptr target="#A013164" type="person"/>
+    </linkGrp>
+</div>

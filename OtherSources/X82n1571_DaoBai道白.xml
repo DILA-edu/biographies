@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0392a13shiDaoBai"><lb
+ed="X" n="0392a13"/><anchor n="X.82.1571.0392a13"/><head>紹興雲門<persName key="A016327">雪厂白</persName>禪師</head><p xml:id="pX82p0392a1301">吳江人。十九薙染，潛心教觀。<lb
+ed="X" n="0392a14"/>因詣博山<!-- ？ -->受具，力事參究。再謁<persName key="A003688">天童悟</persName>于育王。……<lb
+ed="X" n="0392a18"/>……值<persName key="A001148">古南門</persName>住棲真，舉<ref type="person" target="#A016327">師</ref>充第一座。……</p>
+    <linkGrp>
+        <link targets="#0392a14 #0392a14"/>
+        <ptr target="#A016327" type="person"/>
+        <ptr target="#A003688" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0392a18 #0392a18"/>
+        <ptr target="#A016327" type="person"/>
+        <ptr target="#A001148" type="person"/>
+    </linkGrp>
+</div>

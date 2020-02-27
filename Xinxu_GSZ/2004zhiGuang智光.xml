@@ -1,29 +1,29 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" type="譯經" xml:id="gsz0038b04shiZhiGuang"><lb
-ed="B" n="0038b04"/><anchor n="B.27.0151.0038b04"/><head>明<placeName key="PL000000008824">金陵鍾山西天寺</placeName>沙門<persName key="A015653">釋智光</persName>傳<persName type="secondary" key="A009965">班的答</persName><persName type="secondary" key="A019689">惠便</persName></head><p xml:id="pB27p0038b0501"><lb
-ed="B" n="0038b05"/><persName key="A015653">釋智光</persName>，字<persName key="A015653">無隱</persName>，<placeName key="PL000000003136">慶雲</placeName>人<!-- 《金陵梵剎志》：山東武定州慶雲人 -->，不詳其氏族<!-- 《補續高僧傳》卷1：「山東武定州王氏子也。父全。母董氏。」(CBETA, X77, no. 1524, p. 372, b19) -->。初出家時，居<placeName key="PL000000000323">燕都</placeName>法雲寺。<lb
-ed="B" n="0038b06"/>志業敏慧，苦心向學，內外典籍，罔不研翫。<date notBefore-iso="+1341-01-26" key="j22108762221593" notAfter-iso="+1370-05-31"><name>元</name><name>至正</name>中</date><persName key="A009965">班的答</persName>自<lb
-ed="B" n="0038b07"/><placeName key="PL000000048207">天竺</placeName>遨遊<placeName key="PL000000006998">上都</placeName>，棲止<placeName>法雲</placeName>。<persName key="A015653">智光</persName>得親儀範，昕夕請益，聆聲通意，<lb
-ed="B" n="0038b08"/>漸達梵音，遂為入室弟子。有<placeName key="PL000000000112">明</placeName>肇剏，定鼎<placeName key="PL000000008891">金陵</placeName>，師弟連翩<!-- 連續不斷 -->望<placeName key="PL000000008891">京</placeName><lb
-ed="B" n="0038b09"/>朝請<!-- 漢律，諸侯春天朝見皇帝叫朝，秋天朝見皇帝叫請。泛稱朝見皇帝。 -->，<persName key="A003672">太祖</persName>嘉其勤勞，召詢便殿<!-- 《補續高僧傳》卷1：「洪武己酉。以道廣無涯。未易津測。繇是銳志參訪。遊五臺。感文殊現相。太祖高皇帝。聞其名。召至鍾山。」(CBETA, X77, no. 1524, p. 372, b22-24) -->。答問之際，見<persName key="A015653">智光</persName>語通梵漢，命<lb
-ed="B" n="0038b10"/>譯<persName key="A009965">班的答</persName>所攜經典，築庵<placeName key="PL000000008734">鍾山</placeName>，給具<!-- 供給具足 -->、供張<!-- 僧尼名冊 -->，頗示優<anchor xml:id="beg_c" type="cb-app"/>崇<anchor xml:id="end_c"/>。<persName key="A015653">智光</persName>乃即<lb
-ed="B" n="0038b11"/>其《四眾弟子菩薩戒》譯為漢文<!-- 《金陵梵剎志》：甲寅奉太祖高皇帝命於鍾山譯其師板的逹四眾弟子菩薩戒 -->。詞簡理明，眾所推服。<date from-iso="+1384-01-31" key="j22265862226674" to-iso="+1384-04-28">甲子春</date>與<lb
-ed="B" n="0038b12"/>其徒<persName key="A019689">惠便</persName>奉使<placeName key="PL000000055436">西域</placeName>，過獨木繩<anchor xml:id="beg003803"/><choice><sic resp="CBETA">，至橋</sic><corr resp="PC-MB">橋，至</corr></choice><anchor xml:id="end003803"/><!-- 《金陵梵剎志》：橋至 --><placeName key="PL000000049191">尼己辣</placeName>、<placeName key="PL000000048207">梵天竺</placeName>諸國，宣傳<lb
-ed="B" n="0038b13"/>聖化，眾皆感慕。已而謁<persName key="A019690">麻曷菩提</persName><!-- Mahā bodhi -->上師，傳<persName>金剛鬘</persName>壇場四十二<lb
-ed="B" n="0038b14"/>會。禮<placeName>地湧浮圖</placeName><!-- 地湧塔，尼己辣鄰國 -->，其國起敬，以為非常人，遂併西番<placeName key="PL000000041890">烏思藏</placeName>相隨<lb
-ed="B" n="0038b15"/>入貢。比還居未久，重渡流沙，更歷<placeName key="PL000000048207">西竺</placeName>復率其眾來朝，<persName key="A000149">太宗</persName>嘉<lb
-ed="B" n="0038b16"/>之，慰勞備至。與論三藏，領會深奧，嗟歎久之！<date from-iso="+1405-02-09" key="j22342652234618" to-iso="+1406-01-28">乙酉</date>，擢僧錄左闡<lb
-ed="B" n="0038b17"/>教。<persName key="A006678">仁宗</persName>嗣位，寵錫封號，賜金印、冠服，并孔雀銷金蓋旛及金銀<lb
-ed="B" n="0038b18"/>器物、几案輿馬之屬，靡不畢具，更廣<placeName key="PL000000000300">能仁寺</placeName>居之。<date from-iso="+1426-02-17" key="j22419432242296" to-iso="+1427-02-05"><name>宣德</name>初元</date>，加<lb
-ed="B" n="0038b19"/>號<persName key="A015653">西天佛子</persName>。<persName key="A015653">智光</persName>于經藏之蘊<!-- 精奧之處 -->，旁達深探，所譯《顯密經義及所<lb
-ed="B" n="0038b20"/>傳心經》、《八支了義真實名經》、《仁王護國經》、《大白繖蓋經》並行于<pb ed="B" xml:id="B27.0151.0039a" n="0039a"/><lb
-ed="B" n="0039a01"/>世。<date when-iso="+1435-07-17" key="j22453802245380"><name>宣德</name>十年六月十三日</date>示寂，其徒請留偈，乃曰：「大乘法門，無<lb
-ed="B" n="0039a02"/>法可說。」眾復懇之，始揚言曰：「空空大覺中，永斷去來蹤；實體全<lb
-ed="B" n="0039a03"/>無相，含虛寂照同。」儼然而化。茶毗骨皆金色，舍利盈掬。弟子進<lb
-ed="B" n="0039a04"/>其遺像，御製贊云：「託生<placeName key="PL000000020234">東齊</placeName>，習法<placeName key="PL000000048207">西竺</placeName>；立志堅剛，秉戒專篤。行<lb
-ed="B" n="0039a05"/>熟毗尼，情徹般若；澄明自然，恬澹瀟洒。事我祖宗，越歷四朝；使<lb
-ed="B" n="0039a06"/>車萬里，有勣有勞。攄瀝精虔，敷陳秘玅；玉音褒揚，日星垂曜。壽<lb
-ed="B" n="0039a07"/>康圓寂，智炳幾先；靈消曠海，月皎中天。」</p>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="譯經" xml:id="gsz0038b04shiZhiGuang">
+<lb ed="B" n="0038b04"/><anchor n="B.27.0151.0038b04"/><head>明<placeName key="PL000000008824">金陵鍾山西天寺</placeName>沙門<persName key="A015653">釋智光</persName>傳<persName type="secondary" key="A009965">班的答</persName><persName type="secondary" key="A019689">惠便</persName></head><p xml:id="pB27p0038b0501">
+<lb ed="B" n="0038b05"/><persName key="A015653">釋智光</persName>，字<persName key="A015653">無隱</persName>，<placeName key="PL000000003136">慶雲</placeName>人<!-- 《金陵梵剎志》：山東武定州慶雲人 -->，不詳其氏族<!-- 《補續高僧傳》卷1：「山東武定州王氏子也。父全。母董氏。」(CBETA, X77, no. 1524, p. 372, b19) -->。初出家時，居<placeName key="PL000000000323">燕都</placeName>法雲寺。
+<lb ed="B" n="0038b06"/>志業敏慧，苦心向學，內外典籍，罔不研翫。<date notBefore-iso="+1341-01-26" key="j22108762221593" notAfter-iso="+1370-05-31"><name>元</name><name>至正</name>中</date><persName key="A009965">班的答</persName>自
+<lb ed="B" n="0038b07"/><placeName key="PL000000048207">天竺</placeName>遨遊<placeName key="PL000000006998">上都</placeName>，棲止<placeName>法雲</placeName>。<persName key="A015653">智光</persName>得親儀範，昕夕請益，聆聲通意，
+<lb ed="B" n="0038b08"/>漸達梵音，遂為入室弟子。有<placeName key="PL000000000112">明</placeName>肇剏，定鼎<placeName key="PL000000008891">金陵</placeName>，師弟連翩<!-- 連續不斷 -->望<placeName key="PL000000008891">京</placeName>
+<lb ed="B" n="0038b09"/>朝請<!-- 漢律，諸侯春天朝見皇帝叫朝，秋天朝見皇帝叫請。泛稱朝見皇帝。 -->，<persName key="A003672">太祖</persName>嘉其勤勞，召詢便殿<!-- 《補續高僧傳》卷1：「洪武己酉。以道廣無涯。未易津測。繇是銳志參訪。遊五臺。感文殊現相。太祖高皇帝。聞其名。召至鍾山。」(CBETA, X77, no. 1524, p. 372, b22-24) -->。答問之際，見<persName key="A015653">智光</persName>語通梵漢，命
+<lb ed="B" n="0038b10"/>譯<persName key="A009965">班的答</persName>所攜經典，築庵<placeName key="PL000000008734">鍾山</placeName>，給具<!-- 供給具足 -->、供張<!-- 僧尼名冊 -->，頗示優<anchor xml:id="beg_c" type="cb-app"/>崇<anchor xml:id="end_c"/>。<persName key="A015653">智光</persName>乃即
+<lb ed="B" n="0038b11"/>其《四眾弟子菩薩戒》譯為漢文<!-- 《金陵梵剎志》：甲寅奉太祖高皇帝命於鍾山譯其師板的逹四眾弟子菩薩戒 -->。詞簡理明，眾所推服。<date from-iso="+1384-01-31" key="j22265862226674" to-iso="+1384-04-28">甲子春</date>與
+<lb ed="B" n="0038b12"/>其徒<persName key="A019689">惠便</persName>奉使<placeName key="PL000000055436">西域</placeName>，過獨木繩<anchor xml:id="beg003803"/><choice><sic resp="CBETA">，至橋</sic><corr resp="PC-MB">橋，至</corr></choice><anchor xml:id="end003803"/><!-- 《金陵梵剎志》：橋至 --><placeName key="PL000000049191">尼己辣</placeName>、<placeName key="PL000000048207">梵天竺</placeName>諸國，宣傳
+<lb ed="B" n="0038b13"/>聖化，眾皆感慕。已而謁<persName key="A019690">麻曷菩提</persName><!-- Mahā bodhi -->上師，傳<persName>金剛鬘</persName>壇場四十二
+<lb ed="B" n="0038b14"/>會。禮<placeName>地湧浮圖</placeName><!-- 地湧塔，尼己辣鄰國 -->，其國起敬，以為非常人，遂併西番<placeName key="PL000000041890">烏思藏</placeName>相隨
+<lb ed="B" n="0038b15"/>入貢。比還居未久，重渡流沙，更歷<placeName key="PL000000048207">西竺</placeName>復率其眾來朝，<persName key="A000149">太宗</persName>嘉
+<lb ed="B" n="0038b16"/>之，慰勞備至。與論三藏，領會深奧，嗟歎久之！<date from-iso="+1405-02-09" key="j22342652234618" to-iso="+1406-01-28">乙酉</date>，擢僧錄左闡
+<lb ed="B" n="0038b17"/>教。<persName key="A006678">仁宗</persName>嗣位，寵錫封號，賜金印、冠服，并孔雀銷金蓋旛及金銀
+<lb ed="B" n="0038b18"/>器物、几案輿馬之屬，靡不畢具，更廣<placeName key="PL000000000300">能仁寺</placeName>居之。<date from-iso="+1426-02-17" key="j22419432242296" to-iso="+1427-02-05"><name>宣德</name>初元</date>，加
+<lb ed="B" n="0038b19"/>號<persName key="A015653">西天佛子</persName>。<persName key="A015653">智光</persName>于經藏之蘊<!-- 精奧之處 -->，旁達深探，所譯《顯密經義及所
+<lb ed="B" n="0038b20"/>傳心經》、《八支了義真實名經》、《仁王護國經》、《大白繖蓋經》並行于<pb ed="B" xml:id="B27.0151.0039a" n="0039a"/>
+<lb ed="B" n="0039a01"/>世。<date when-iso="+1435-07-17" key="j22453802245380"><name>宣德</name>十年六月十三日</date>示寂，其徒請留偈，乃曰：「大乘法門，無
+<lb ed="B" n="0039a02"/>法可說。」眾復懇之，始揚言曰：「空空大覺中，永斷去來蹤；實體全
+<lb ed="B" n="0039a03"/>無相，含虛寂照同。」儼然而化。茶毗骨皆金色，舍利盈掬。弟子進
+<lb ed="B" n="0039a04"/>其遺像，御製贊云：「託生<placeName key="PL000000020234">東齊</placeName>，習法<placeName key="PL000000048207">西竺</placeName>；立志堅剛，秉戒專篤。行
+<lb ed="B" n="0039a05"/>熟毗尼，情徹般若；澄明自然，恬澹瀟洒。事我祖宗，越歷四朝；使
+<lb ed="B" n="0039a06"/>車萬里，有勣有勞。攄瀝精虔，敷陳秘玅；玉音褒揚，日星垂曜。壽
+<lb ed="B" n="0039a07"/>康圓寂，智炳幾先；靈消曠海，月皎中天。」</p>
                 <linkGrp>
                     <link targets="#0038b04 #0038b04"/>
                     <ptr target="#A015653" type="person"/>

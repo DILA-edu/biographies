@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" type="雜識" xml:id="gsz0456b16shiYuanYu"><lb
-ed="B" n="0456b16"/><anchor n="B.27.0151.0456b16"/><head>清泰山普照寺沙門<persName key="A018989">釋元玉</persName>傳<persName type="secondary" key="A026552">佛藏正</persName></head><lb
-ed="B" n="0456b17"/><p xml:id="pB27p0456b1701"><persName key="A018989">釋元玉</persName>，字<persName key="A018989">祖珍</persName>，號<persName key="A018989">古翁</persName>，廣陵崇川<!-- 《禪門逸書續編》冊8p.36 塔銘作江南通州。此處應脫「人」。 -->。得法金粟<persName key="A016456">天岸</persName>，居泰山普照<lb
-ed="B" n="0456b18"/>寺。聚經典數千卷，澄思密探。寺前一石，題曰「界塵石」。名流往訪<!-- 《禪門逸書續編》冊8p.37 塔銘記載康熙來訪。 -->，<lb
-ed="B" n="0456b19"/>咸比之<persName key="A001204">遠</persName>公蓮社，有《石堂集》、《金臺隨筆》諸刻。<persName key="A026552">佛藏正</persName>禪師者，江<lb
-ed="B" n="0456b20"/>南望族，履<!-- 居 -->豐處順，顧<!-- 乃、反而 -->棄之若遺；誓死入山，終能解脫，得大自在。<pb ed="B" xml:id="B27.0151.0457a" n="0457a"/><lb
-ed="B" n="0457a01"/><date from-iso="+1677-07-30" key="j23337832333870" to-iso="+1677-10-25">康熙丁<anchor xml:id="beg_207" type="cb-app"/>巳<anchor xml:id="end_207"/>秋</date>緇素敦請，繼席古中盤。初有<persName key="A001010">大愽</persName>禪師，道隆望重，<lb
-ed="B" n="0457a02"/>中興斯寺，<persName key="A026552">正</persName>從<ref type="person" target="#A001010">之</ref>修，省得其法要，奮厥孤標，苦志枯守不下山<lb
-ed="B" n="0457a03"/>者有年。<date from-iso="+1678-10-16" key="j23342262334254" to-iso="+1678-11-13">戊午九月</date>，<ref type="person" target="#A006719">翠華</ref><!-- 天子車蓋 -->臨幸，入丈室取<persName key="A026552">正</persName>所著語錄、偈頌閱之。<lb
-ed="B" n="0457a04"/>欣然命筆題額，且賜之詩，詩曰：「中盤遙望蓮華峯，日映山林氣<lb
-ed="B" n="0457a05"/>色重；老衲吟詩渾半偈，翠輿臨發又從容。」<date when-iso="+1679-02-10" key="j23343432334343">是年除夕</date>重書前詩，<lb
-ed="B" n="0457a06"/>命御前大臣<persName key="A042994">薩畢漢</persName>齎之至寺，<persName key="A026552">正</persName>復以偈讚之云：「御筆題詩第<lb
-ed="B" n="0457a07"/>一峯，翠華<!-- 天子車蓋 -->初駐靄重重；盤山草木承恩澤，野衲欣逢識聖容。」蓋<lb
-ed="B" n="0457a08"/>自彩筆<!-- 文筆富麗 -->倡酬，三聚雲臻，一乘雷震，而祖庭道法，丕宏厥緒矣！</p>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="雜識" xml:id="gsz0456b16shiYuanYu">
+<lb ed="B" n="0456b16"/><anchor n="B.27.0151.0456b16"/><head>清泰山普照寺沙門<persName key="A018989">釋元玉</persName>傳<persName type="secondary" key="A026552">佛藏正</persName></head>
+<lb ed="B" n="0456b17"/><p xml:id="pB27p0456b1701"><persName key="A018989">釋元玉</persName>，字<persName key="A018989">祖珍</persName>，號<persName key="A018989">古翁</persName>，廣陵崇川<!-- 《禪門逸書續編》冊8p.36 塔銘作江南通州。此處應脫「人」。 -->。得法金粟<persName key="A016456">天岸</persName>，居泰山普照
+<lb ed="B" n="0456b18"/>寺。聚經典數千卷，澄思密探。寺前一石，題曰「界塵石」。名流往訪<!-- 《禪門逸書續編》冊8p.37 塔銘記載康熙來訪。 -->，
+<lb ed="B" n="0456b19"/>咸比之<persName key="A001204">遠</persName>公蓮社，有《石堂集》、《金臺隨筆》諸刻。<persName key="A026552">佛藏正</persName>禪師者，江
+<lb ed="B" n="0456b20"/>南望族，履<!-- 居 -->豐處順，顧<!-- 乃、反而 -->棄之若遺；誓死入山，終能解脫，得大自在。<pb ed="B" xml:id="B27.0151.0457a" n="0457a"/>
+<lb ed="B" n="0457a01"/><date from-iso="+1677-07-30" key="j23337832333870" to-iso="+1677-10-25">康熙丁<anchor xml:id="beg_207" type="cb-app"/>巳<anchor xml:id="end_207"/>秋</date>緇素敦請，繼席古中盤。初有<persName key="A001010">大愽</persName>禪師，道隆望重，
+<lb ed="B" n="0457a02"/>中興斯寺，<persName key="A026552">正</persName>從<ref type="person" target="#A001010">之</ref>修，省得其法要，奮厥孤標，苦志枯守不下山
+<lb ed="B" n="0457a03"/>者有年。<date from-iso="+1678-10-16" key="j23342262334254" to-iso="+1678-11-13">戊午九月</date>，<ref type="person" target="#A006719">翠華</ref><!-- 天子車蓋 -->臨幸，入丈室取<persName key="A026552">正</persName>所著語錄、偈頌閱之。
+<lb ed="B" n="0457a04"/>欣然命筆題額，且賜之詩，詩曰：「中盤遙望蓮華峯，日映山林氣
+<lb ed="B" n="0457a05"/>色重；老衲吟詩渾半偈，翠輿臨發又從容。」<date when-iso="+1679-02-10" key="j23343432334343">是年除夕</date>重書前詩，
+<lb ed="B" n="0457a06"/>命御前大臣<persName key="A042994">薩畢漢</persName>齎之至寺，<persName key="A026552">正</persName>復以偈讚之云：「御筆題詩第
+<lb ed="B" n="0457a07"/>一峯，翠華<!-- 天子車蓋 -->初駐靄重重；盤山草木承恩澤，野衲欣逢識聖容。」蓋
+<lb ed="B" n="0457a08"/>自彩筆<!-- 文筆富麗 -->倡酬，三聚雲臻，一乘雷震，而祖庭道法，丕宏厥緒矣！</p>
     <linkGrp>
         <link targets="#0456b17 #0456b17"/>
         <ptr target="#A018989" type="person"/>

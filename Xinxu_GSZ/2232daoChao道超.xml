@@ -1,25 +1,25 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0169b11shiDaoChao"><lb
-ed="B" n="0169b11"/><anchor n="B.27.0151.0169b11"/><head>明泉州開元寺沙門<persName key="A042275">釋道超</persName>傳<persName type="secondary" key="A042759">秋鑑</persName><persName type="secondary" key="A009164">祖淵</persName><persName type="secondary" key="A010860">月溪</persName><persName type="secondary" key="A042761">絕塵</persName><persName type="secondary" key="A009565">無際</persName><persName type="secondary" key="A042274">澤忠</persName></head><lb
-ed="B" n="0169b12"/><p xml:id="pB27p0169b1201"><persName key="A042275">釋道超</persName>，字<persName key="A042275">雲外</persName>，姓李氏，安平人也。生有夙根，幼懷高志。當辤親<lb
-ed="B" n="0169b13"/>入山日，家人為具牲醴餞別。<persName key="A042275">超</persName>蹙然曰：「既欲出塵，當除腥穢。如<lb
-ed="B" n="0169b14"/>此俗習，尚不能遠，何論他耶？」或為譬解<!-- 勸解 -->強之，竟不食。禮開元<persName key="A042759">秋<lb
-ed="B" n="0169b15"/>鑑</persName>為師。<ref type="date" target="#j22470512247405">年二十</ref>入京師，依大功德寺<persName key="A009164">祖淵</persName>職藏三載，心迹皎然。<lb
-ed="B" n="0169b16"/>後游東浦，參<persName key="A009565">無際</persName>、<persName key="A010860">月溪</persName>，二老授以無字公案。染疾還山，狀甚沈<lb
-ed="B" n="0169b17"/>瘵。禱於<persName key="A002803">觀世音</persName>，夜夢白衣，授赤丸使吞之，驚寤而嘻。是日果有<lb
-ed="B" n="0169b18"/>老人負囊至，療之而愈。一日看《黃蘗語錄》，殊有會心，憾無明眼<lb
-ed="B" n="0169b19"/>提撕<!-- 教導、提攜 -->。莫由省覺，復又自念：「<persName key="A002799">如來</persName>六年苦行，方得成道。」迺思辟穀<!-- 不食穀物 -->，<lb
-ed="B" n="0169b20"/>唯<anchor xml:id="beg016901"/><choice><sic resp="CBETA">欽</sic><corr resp="PC-MB">飲</corr></choice><anchor xml:id="end016901"/>水樂饑，一意參窮。歷十八日，而身心輕瑩，如有悟入。時太<pb ed="B" xml:id="B27.0151.0170a" n="0170a"/><lb
-ed="B" n="0170a01"/>守<persName key="A042760">熊</persName>公以開元日壞，命<persName key="A042275">超</persName>掌院事。竄匿山谷，求之再四，始為一<lb
-ed="B" n="0170a02"/>出。及<persName key="A042760">熊</persName>卒，乃復辤去。參<persName key="A042761">絕塵</persName>於秀林。<persName key="A042761">塵</persName>問佛祖關要，<persName key="A042275">超</persName>即事酬<lb
-ed="B" n="0170a03"/>答，辯若瀉流，<persName key="A042761">塵</persName>印可之。猶自以為未也，乃謁<persName key="A042274">澤忠</persName>於棲真，機緣<lb
-ed="B" n="0170a04"/>符契，方得無疑。自爾歸來，息影山阿，獨處兀坐，千日為期。<date from-iso="+1462-02-08" key="j22550832255437" to-iso="+1463-01-28">明天<lb
-ed="B" n="0170a05"/>順壬午</date>開元缺席，推選未當，久懸不決。聞於郡丞孔公，孔命使<lb
-ed="B" n="0170a06"/>持簡，請<persName key="A042275">超</persName>蒞止，<persName key="A042275">超</persName>益深遯。至<date from-iso="+1474-01-27" key="j22594542259837" to-iso="+1475-02-14">成化甲午</date>，翻然歸院，為眾說戒。已<lb
-ed="B" n="0170a07"/>而度夏天立巖中。忽焉示疾，臨終書偈曰：「天地之數五十有五，<lb
-ed="B" n="0170a08"/>邈焉中立超佛越祖，本無生滅何用指注，擊碎虛空何處不遇，<lb
-ed="B" n="0170a09"/>要行便行著甚分付。」擲筆坐化，時<date when-iso="+1475-06-30" key="j22599732259973">成化十一年五月十八日</date>也。<lb
-ed="B" n="0170a10"/>荼毗，窆靈骨舊塔。有《雲外語錄》一卷。</p>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0169b11shiDaoChao">
+<lb ed="B" n="0169b11"/><anchor n="B.27.0151.0169b11"/><head>明泉州開元寺沙門<persName key="A042275">釋道超</persName>傳<persName type="secondary" key="A042759">秋鑑</persName><persName type="secondary" key="A009164">祖淵</persName><persName type="secondary" key="A010860">月溪</persName><persName type="secondary" key="A042761">絕塵</persName><persName type="secondary" key="A009565">無際</persName><persName type="secondary" key="A042274">澤忠</persName></head>
+<lb ed="B" n="0169b12"/><p xml:id="pB27p0169b1201"><persName key="A042275">釋道超</persName>，字<persName key="A042275">雲外</persName>，姓李氏，安平人也。生有夙根，幼懷高志。當辤親
+<lb ed="B" n="0169b13"/>入山日，家人為具牲醴餞別。<persName key="A042275">超</persName>蹙然曰：「既欲出塵，當除腥穢。如
+<lb ed="B" n="0169b14"/>此俗習，尚不能遠，何論他耶？」或為譬解<!-- 勸解 -->強之，竟不食。禮開元<persName key="A042759">秋
+<lb ed="B" n="0169b15"/>鑑</persName>為師。<ref type="date" target="#j22470512247405">年二十</ref>入京師，依大功德寺<persName key="A009164">祖淵</persName>職藏三載，心迹皎然。
+<lb ed="B" n="0169b16"/>後游東浦，參<persName key="A009565">無際</persName>、<persName key="A010860">月溪</persName>，二老授以無字公案。染疾還山，狀甚沈
+<lb ed="B" n="0169b17"/>瘵。禱於<persName key="A002803">觀世音</persName>，夜夢白衣，授赤丸使吞之，驚寤而嘻。是日果有
+<lb ed="B" n="0169b18"/>老人負囊至，療之而愈。一日看《黃蘗語錄》，殊有會心，憾無明眼
+<lb ed="B" n="0169b19"/>提撕<!-- 教導、提攜 -->。莫由省覺，復又自念：「<persName key="A002799">如來</persName>六年苦行，方得成道。」迺思辟穀<!-- 不食穀物 -->，
+<lb ed="B" n="0169b20"/>唯<anchor xml:id="beg016901"/><choice><sic resp="CBETA">欽</sic><corr resp="PC-MB">飲</corr></choice><anchor xml:id="end016901"/>水樂饑，一意參窮。歷十八日，而身心輕瑩，如有悟入。時太<pb ed="B" xml:id="B27.0151.0170a" n="0170a"/>
+<lb ed="B" n="0170a01"/>守<persName key="A042760">熊</persName>公以開元日壞，命<persName key="A042275">超</persName>掌院事。竄匿山谷，求之再四，始為一
+<lb ed="B" n="0170a02"/>出。及<persName key="A042760">熊</persName>卒，乃復辤去。參<persName key="A042761">絕塵</persName>於秀林。<persName key="A042761">塵</persName>問佛祖關要，<persName key="A042275">超</persName>即事酬
+<lb ed="B" n="0170a03"/>答，辯若瀉流，<persName key="A042761">塵</persName>印可之。猶自以為未也，乃謁<persName key="A042274">澤忠</persName>於棲真，機緣
+<lb ed="B" n="0170a04"/>符契，方得無疑。自爾歸來，息影山阿，獨處兀坐，千日為期。<date from-iso="+1462-02-08" key="j22550832255437" to-iso="+1463-01-28">明天
+<lb ed="B" n="0170a05"/>順壬午</date>開元缺席，推選未當，久懸不決。聞於郡丞孔公，孔命使
+<lb ed="B" n="0170a06"/>持簡，請<persName key="A042275">超</persName>蒞止，<persName key="A042275">超</persName>益深遯。至<date from-iso="+1474-01-27" key="j22594542259837" to-iso="+1475-02-14">成化甲午</date>，翻然歸院，為眾說戒。已
+<lb ed="B" n="0170a07"/>而度夏天立巖中。忽焉示疾，臨終書偈曰：「天地之數五十有五，
+<lb ed="B" n="0170a08"/>邈焉中立超佛越祖，本無生滅何用指注，擊碎虛空何處不遇，
+<lb ed="B" n="0170a09"/>要行便行著甚分付。」擲筆坐化，時<date when-iso="+1475-06-30" key="j22599732259973">成化十一年五月十八日</date>也。
+<lb ed="B" n="0170a10"/>荼毗，窆靈骨舊塔。有《雲外語錄》一卷。</p>
     <linkGrp>
         <link targets="#0169b14 #0169b14"/>
         <ptr target="#A042275" type="person"/>

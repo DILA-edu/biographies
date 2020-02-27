@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0073c01shiMingYu"><lb
+ed="J" n="0073c01"/><anchor n="J.27.B189.0073c01"/><head>雲門顯聖<persName key="A012054">愚菴盂</persName>禪師塔銘</head><lb
+ed="J" n="0073c02"/><p xml:id="pJ27p0073c0201">敕賜太白山天童弘法禪寺弘覺禪師<persName key="A001513">道忞</persName>譔……<lb
+ed="J" n="0073c13"/>……按師錢唐丁氏子，諱<persName key="A012054">明盂</persName>，字<persName key="A012054">三宜</persName>，晚築室<lb
+ed="J" n="0073c14"/>西湖，自以為愚，復號<persName key="A012054">愚菴</persName>。……<lb
+ed="J" n="0073c16"/>……年<lb
+ed="J" n="0073c17"/>十四矢志離塵，入雲棲從<persName key="A001394">蓮</persName>大師受五戒。直中元建<lb
+ed="J" n="0073c18"/>會，為命今名。……<lb
+ed="J" n="0073c25"/>……獨於<persName key="A015872">真寂聞</persName><lb
+ed="J" n="0073c26"/>大師尤服膺焉！年二十投真寂脫白……<lb
+ed="J" n="0074a02"/>……一<lb
+ed="J" n="0074a03"/>時法社尊宿如<persName key="A001681">憨山</persName>、<persName key="A001408">雪嶠</persName>、<persName key="A010707">南明</persName>輩與<ref type="person" target="#A012054">師</ref>語，未嘗不擊<lb
+ed="J" n="0074a04"/>節稱善。<persName key="A015872">聞</persName>大師直以為佩觿<!-- 指童子 -->長傲，屢挫抑之。……<lb
+ed="J" n="0074a09"/>……既而聞<persName key="A005648">顯聖</persName>宗風大<!-- 疑有脫一字 -->，<lb
+ed="J" n="0074a10"/>四海雲從，忽動再參之想。會<persName key="A015872">聞</persName>亦遠出金陵，乃截江<lb
+ed="J" n="0074a11"/>過雲門參<persName key="A005648">湛然澄</persName>和尚於顯聖。蓋<ref type="person" target="#A012054">師</ref>未披緇時，<persName key="A005648">澄</persName>遊<lb
+ed="J" n="0074a12"/>省會，曾一參禮，蒙誨諄切，內銘於心。……<lb
+ed="J" n="0074b02"/>……抵黃麻<lb
+ed="J" n="0074b03"/>參<persName key="A013164">無念有</persName>禪師。<persName key="A013164">有</persName>見<ref type="person" target="#A012054">師</ref>來詬罵不已。……<lb
+ed="J" n="0074b08"/>……時師痁病連年，<lb
+ed="J" n="0074b09"/>衣惟骨見，自號<persName key="A012054">白骨道人</persName>。遠近趨參，即傳為白骨會<lb
+ed="J" n="0074b10"/>云。……<lb
+ed="J" n="0074b15"/>……未幾應<persName key="A004190">屺瞻葛<roleName>太常</roleName></persName>之請，出住龍門。<lb
+ed="J" n="0074b16"/>龍門嶺紆市遠，寺無恒產，仰給山君<!-- 山神 -->。師芒鞋短褐，日<lb
+ed="J" n="0074b17"/>負薪而鬻於諸學子，不廢提持。居一載因事去，為<persName key="A027477">季<lb
+ed="J" n="0074b18"/>超祁仲子</persName>迎還會稽，奉<ref type="person" target="#A012054">師</ref>化鹿山中。……<lb
+ed="J" n="0074b30"/>……三載後于諸法姪中舉<persName key="A016049">唯岑<lb
+ed="J" n="0074c01"/>嶾</persName>公代主其席，<ref type="person" target="#A012054">師</ref>則撾鼓退，即還西湖舊隱，所謂愚<lb
+ed="J" n="0074c02"/>菴者是也。……<lb
+ed="J" n="0074c21"/>……屬門人<persName key="A016471">範為則</persName>主顯聖，乃即前岡建塔，歸窆全<lb
+ed="J" n="0074c22"/>身焉。……<lb
+ed="J" n="0075a09"/>……<ref type="person" target="#A012054">師</ref>沒之明年，弟子<persName key="A016471">範為<lb
+ed="J" n="0075a10"/>則</persName>、<persName key="A001106">挺俍亭</persName>各以<ref type="person" target="#A012054">師</ref>狀謁銘，乃取二公之狀與<ref type="person" target="#A001513">予</ref>生平<lb
+ed="J" n="0075a11"/>所見知於<ref type="person" target="#A012054">師</ref>者，論次為銘曰。</p>
+    <linkGrp>
+        <link targets="#0073c17 #0073c18"/>
+        <ptr target="#A012054" type="person"/>
+        <ptr target="#A001394" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0073c25 #0073c26"/>
+        <ptr target="#A012054" type="person"/>
+        <ptr target="#A015872" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0074a03 #0074a04"/>
+        <ptr target="#A012054" type="person"/>
+        <ptr target="#A001681" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0074a03 #0074a04"/>
+        <ptr target="#A012054" type="person"/>
+        <ptr target="#A001408" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0074a03 #0074a04"/>
+        <ptr target="#A012054" type="person"/>
+        <ptr target="#A010707" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0074a09 #0074a12"/>
+        <ptr target="#A012054" type="person"/>
+        <ptr target="#A005648" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0074b02 #0074b03"/>
+        <ptr target="#A012054" type="person"/>
+        <ptr target="#A013164" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0074b15 #0074b15"/>
+        <ptr target="#A012054" type="person"/>
+        <ptr target="#A004190" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0074b17 #0074b18"/>
+        <ptr target="#A012054" type="person"/>
+        <ptr target="#A027477" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0074b30 #0074c01"/>
+        <ptr target="#A012054" type="person"/>
+        <ptr target="#A016049" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0074c21 #0074c22"/>
+        <ptr target="#A012054" type="person"/>
+        <ptr target="#A016471" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0075a09 #0075a11"/>
+        <ptr target="#A001106" type="person"/>
+        <ptr target="#A016471" type="person"/>
+        <ptr target="#A001513" type="person"/>
+    </linkGrp>
+</div>

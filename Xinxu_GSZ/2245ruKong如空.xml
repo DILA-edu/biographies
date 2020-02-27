@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0178b09shiRuKong"><lb
-ed="B" n="0178b09"/><anchor n="B.27.0151.0178b09"/><head>明臨安東天目昭明寺沙門<persName key="A010706">釋如空</persName>傳<persName type="secondary" key="A020555">曉本</persName><persName type="secondary" key="A007841">性沖</persName></head><lb
-ed="B" n="0178b10"/><p xml:id="pB27p0178b1001"><persName key="A010706">釋如空</persName>，字<persName key="A010706">無趣</persName>，姓施氏，秀水人。幼性端凝，長企清潔，自號<persName key="A010706">靜齋</persName>。<lb
-ed="B" n="0178b11"/>留心內典，博覽經論，志慕禪學，同友<persName key="A001560">法舟</persName>參訪八年。乃至東山<lb
-ed="B" n="0178b12"/>謁<persName key="A020555">野翁曉本</persName>，授以「一歸何處」䛡，夜聞雞鳴有省。復叩決之，<persName key="A020555">曉本</persName><lb
-ed="B" n="0178b13"/>印可，<persName key="A010706">如空</persName>始落髮受戒，便付衣法。偈曰：「非法非非法，非性非非<lb
-ed="B" n="0178b14"/>性，非心非非心，付<ref type="person" target="#A010706">汝</ref>心法竟。」<persName key="A020555">曉本</persName>，浙人，初習教觀，後登東峰。於<lb
-ed="B" n="0178b15"/>念佛是誰，體究有得，恍然於西來大意。乃歎曰：「有水皆含月，無<lb
-ed="B" n="0178b16"/>山不帶雲。」禪者宗之。<persName key="A010706">如空</persName>得法後，即住敬長。<date when-iso="+1580-09-24" key="j22984102298410">萬曆庚辰八月六<lb
-ed="B" n="0178b17"/>日</date>辤世，有偈：「生來死去空華，死去生來一夢；皮囊付與丙丁，白<lb
-ed="B" n="0178b18"/>骨斷橋隨眾；呵呵明月清風，今弄壽九十歲。」弟子<persName key="A007841">性冲</persName>，字<persName key="A007841">無幻</persName>，<lb
-ed="B" n="0178b19"/>為編《語錄》行世。後住徑山，亦自有《語錄》。</p>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0178b09shiRuKong">
+<lb ed="B" n="0178b09"/><anchor n="B.27.0151.0178b09"/><head>明臨安東天目昭明寺沙門<persName key="A010706">釋如空</persName>傳<persName type="secondary" key="A020555">曉本</persName><persName type="secondary" key="A007841">性沖</persName></head>
+<lb ed="B" n="0178b10"/><p xml:id="pB27p0178b1001"><persName key="A010706">釋如空</persName>，字<persName key="A010706">無趣</persName>，姓施氏，秀水人。幼性端凝，長企清潔，自號<persName key="A010706">靜齋</persName>。
+<lb ed="B" n="0178b11"/>留心內典，博覽經論，志慕禪學，同友<persName key="A001560">法舟</persName>參訪八年。乃至東山
+<lb ed="B" n="0178b12"/>謁<persName key="A020555">野翁曉本</persName>，授以「一歸何處」䛡，夜聞雞鳴有省。復叩決之，<persName key="A020555">曉本</persName>
+<lb ed="B" n="0178b13"/>印可，<persName key="A010706">如空</persName>始落髮受戒，便付衣法。偈曰：「非法非非法，非性非非
+<lb ed="B" n="0178b14"/>性，非心非非心，付<ref type="person" target="#A010706">汝</ref>心法竟。」<persName key="A020555">曉本</persName>，浙人，初習教觀，後登東峰。於
+<lb ed="B" n="0178b15"/>念佛是誰，體究有得，恍然於西來大意。乃歎曰：「有水皆含月，無
+<lb ed="B" n="0178b16"/>山不帶雲。」禪者宗之。<persName key="A010706">如空</persName>得法後，即住敬長。<date when-iso="+1580-09-24" key="j22984102298410">萬曆庚辰八月六
+<lb ed="B" n="0178b17"/>日</date>辤世，有偈：「生來死去空華，死去生來一夢；皮囊付與丙丁，白
+<lb ed="B" n="0178b18"/>骨斷橋隨眾；呵呵明月清風，今弄壽九十歲。」弟子<persName key="A007841">性冲</persName>，字<persName key="A007841">無幻</persName>，
+<lb ed="B" n="0178b19"/>為編《語錄》行世。後住徑山，亦自有《語錄》。</p>
     <linkGrp>
         <link targets="#0178b11 #0178b11"/>
         <ptr target="#A010706" type="person"/>

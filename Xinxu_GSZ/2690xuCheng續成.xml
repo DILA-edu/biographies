@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0427a13shiXuCheng"><lb
-ed="B" n="0427a13"/><anchor n="B.27.0151.0427a13"/><head>清長沙定湘王廟沙門<persName key="A042448">釋續成</persName>傳</head><lb
-ed="B" n="0427a14"/><p xml:id="pB27p0427a1401"><persName key="A042448">釋續成</persName>，字<persName key="A042448">覺道</persName>，姓徐氏，善化人也。家世力農，澹懷樸素，幼而祝<lb
-ed="B" n="0427a15"/>髮，入邑中城隍廟為沙彌。性明敏，主僧<persName key="A042921">如靜</persName>教之經論，便能了<lb
-ed="B" n="0427a16"/>解，知為法器，久之竟付衣盋。當咸同間，粵寇竊發，<persName key="A007457">曾國藩</persName>治兵<lb
-ed="B" n="0427a17"/>衡湘。一時豪雋，浮湘上下，多與成為方外交。及亂定，安輯<!-- 安撫 -->撫卹，<lb
-ed="B" n="0427a18"/>諸善舉<persName key="A042448">成</persName>率隱與有力<!-- ？ -->，而尤以興復祖庭為志職。初上林寺被<lb
-ed="B" n="0427a19"/>摧毀，改為印卷局，而省會遂無叢林。<persName key="A042448">成</persName>慨然動念，請於巡撫<persName key="A042922">王<lb
-ed="B" n="0427a20"/>文韶</persName>，卒<anchor xml:id="beg042701"/><choice><sic resp="CBETA">甲</sic><corr resp="PC-MB">申</corr></choice><anchor xml:id="end042701"/>所願，講席復啟，祖道重光。開福寺舊為叢席，寺田為<pb ed="B" xml:id="B27.0151.0427b" n="0427b"/><lb
-ed="B" n="0427b01"/>田戶所奪，日形衰削。田戶隸<persName key="A007457">曾國藩</persName>部下，積功至總兵，主僧無<lb
-ed="B" n="0427b02"/>可如何。<persName key="A042448">成</persName>乃倡捐巨貲，贖歸侵田，立石以警來者。麓山寺田，亦<lb
-ed="B" n="0427b03"/>為人侵據，<persName key="A042448">成</persName>亦殫力清還，見義勇為，不辤勞勩。谷山<!-- ？ -->住持改傳<lb
-ed="B" n="0427b04"/>法為薙度，法門訟之。<persName key="A042448">成</persName>為曉譬，谷山退院，其訟遂息。<persName key="A042448">成</persName>廣顙方<lb
-ed="B" n="0427b05"/>頤，謙下洽眾，鄉夫村童望而展敬。以<date from-iso="+1884-02-27" key="j24092342409262" to-iso="+1884-03-26">光緒甲申仲春</date>示寂，壽六<lb
-ed="B" n="0427b06"/>十一，臘五十四，塔桐溪寺南。</p>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0427a13shiXuCheng">
+<lb ed="B" n="0427a13"/><anchor n="B.27.0151.0427a13"/><head>清長沙定湘王廟沙門<persName key="A042448">釋續成</persName>傳</head>
+<lb ed="B" n="0427a14"/><p xml:id="pB27p0427a1401"><persName key="A042448">釋續成</persName>，字<persName key="A042448">覺道</persName>，姓徐氏，善化人也。家世力農，澹懷樸素，幼而祝
+<lb ed="B" n="0427a15"/>髮，入邑中城隍廟為沙彌。性明敏，主僧<persName key="A042921">如靜</persName>教之經論，便能了
+<lb ed="B" n="0427a16"/>解，知為法器，久之竟付衣盋。當咸同間，粵寇竊發，<persName key="A007457">曾國藩</persName>治兵
+<lb ed="B" n="0427a17"/>衡湘。一時豪雋，浮湘上下，多與成為方外交。及亂定，安輯<!-- 安撫 -->撫卹，
+<lb ed="B" n="0427a18"/>諸善舉<persName key="A042448">成</persName>率隱與有力<!-- ？ -->，而尤以興復祖庭為志職。初上林寺被
+<lb ed="B" n="0427a19"/>摧毀，改為印卷局，而省會遂無叢林。<persName key="A042448">成</persName>慨然動念，請於巡撫<persName key="A042922">王
+<lb ed="B" n="0427a20"/>文韶</persName>，卒<anchor xml:id="beg042701"/><choice><sic resp="CBETA">甲</sic><corr resp="PC-MB">申</corr></choice><anchor xml:id="end042701"/>所願，講席復啟，祖道重光。開福寺舊為叢席，寺田為<pb ed="B" xml:id="B27.0151.0427b" n="0427b"/>
+<lb ed="B" n="0427b01"/>田戶所奪，日形衰削。田戶隸<persName key="A007457">曾國藩</persName>部下，積功至總兵，主僧無
+<lb ed="B" n="0427b02"/>可如何。<persName key="A042448">成</persName>乃倡捐巨貲，贖歸侵田，立石以警來者。麓山寺田，亦
+<lb ed="B" n="0427b03"/>為人侵據，<persName key="A042448">成</persName>亦殫力清還，見義勇為，不辤勞勩。谷山<!-- ？ -->住持改傳
+<lb ed="B" n="0427b04"/>法為薙度，法門訟之。<persName key="A042448">成</persName>為曉譬，谷山退院，其訟遂息。<persName key="A042448">成</persName>廣顙方
+<lb ed="B" n="0427b05"/>頤，謙下洽眾，鄉夫村童望而展敬。以<date from-iso="+1884-02-27" key="j24092342409262" to-iso="+1884-03-26">光緒甲申仲春</date>示寂，壽六
+<lb ed="B" n="0427b06"/>十一，臘五十四，塔桐溪寺南。</p>
     <linkGrp>
         <link targets="#0427a15 #0427a16"/>
         <ptr target="#A042448" type="person"/>

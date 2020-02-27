@@ -1,26 +1,26 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" type="護法" xml:id="gsz0273b02shiXiuMin"><lb
-ed="B" n="0273b02"/><anchor n="B.27.0151.0273b02"/><head>清丹徒焦山自然庵沙門<persName key="A042229">釋修敏</persName>傳</head><lb
-ed="B" n="0273b03"/><p xml:id="pB27p0273b0301"><persName key="A042229">釋修敏</persName>，字<persName key="A042229">定峯</persName>，一字<persName key="A042229">耐庵</persName>，姓任氏，丹徒人也。方九齡祝髮於自<lb
-ed="B" n="0273b04"/>然庵，禮<persName key="A042228">玉衡平心</persName>為師。地擅江山之勝，游客登臨，日不暇給。積<lb
-ed="B" n="0273b05"/>累既鉅，幾無可支。及<persName key="A042229">敏</persName>繼席，清檢舊逋<!-- 拖欠 -->，虧金三千。遂一意撙節，<lb
-ed="B" n="0273b06"/>卒償所負。更以餘貲，重新宇舍。臨江右岸建觀音閣，為文人燕<lb
-ed="B" n="0273b07"/>息之所。又以定慧殿棟年久荒殘，金像露坐，慨然以中興為<anchor xml:id="beg_130" type="cb-app"/>己<anchor xml:id="end_130"/><lb
-ed="B" n="0273b08"/>任。<date from-iso="+1850-05-12" key="j23968902396977" to-iso="+1850-08-07">道光庚<anchor xml:id="beg_131" type="cb-app"/>戌<anchor xml:id="end_131"/>夏</date>南州<persName key="A042802">彭<roleName>都轉</roleName>玉雯</persName>，避地養疴，假居寺寮。<persName key="A042229">敏</persName>偶從<lb
-ed="B" n="0273b09"/>譚論，得申其請兩江制府<persName key="A042801">陸<roleName>公</roleName>立夫</persName>輸三千金，踰月而輪奐蔚<lb
-ed="B" n="0273b10"/>然，更廓舊式。<date from-iso="+1860-01-23" key="j24004332400816" to-iso="+1861-02-09">咸豐庚申</date>英吉利至天津議和，開五口商岸，於鎮<lb
-ed="B" n="0273b11"/>江設領事稅務。時潤城猶因髮寇戒嚴，不得設關建署，乃移焦<lb
-ed="B" n="0273b12"/>山。稅務司者已踞松寥閣，麾其主僧出。領事<!-- 可能是英國領事阿利國（阿禮國） -->至自然庵，麾<persName key="A042229">敏</persName>曰：<lb
-ed="B" n="0273b13"/>「去去。」<persName key="A042229">敏</persName>若不聞也者，因復語之曰：「<ref type="person" target="#A042229">爾</ref>不解邪？」<persName key="A042229">敏</persName>曰：「解則解矣，屬<lb
-ed="B" n="0273b14"/>有所思耳！<ref type="person" target="#A042229">吾</ref>意中西雖別，國禮無異。今日可奪<ref type="person" target="#A042229">吾</ref>庵者，他日亦<lb
-ed="B" n="0273b15"/>為人奪。何必自君始邪？」領事默然，後欲去佛像，亦為<persName key="A042229">敏</persName>所折服。<lb
-ed="B" n="0273b16"/>領事知不可奪，立約租為賓主焉！然西人性樂山水，尤喜高曠。<lb
-ed="B" n="0273b17"/>自海門溯江而上，焦山屹立中流，形若砥柱，南屏象阜，北帶沙<lb
-ed="B" n="0273b18"/>州，波譎雲詭，旦夕數變。屢欲購地築室，以為游息。終以<persName key="A042229">敏</persName>一言<lb
-ed="B" n="0273b19"/>而寢其事，故西人雖久寓山中，不得置一椽者，<persName key="A042229">敏</persName>之力也。平昔<lb
-ed="B" n="0273b20"/>虔心焚修，寺規整肅，中外欽<ref type="person" target="#A042229">之</ref>。以<date when-iso="+1864-06-01" key="j24020242402024">同治甲子四月二十七日</date>示<pb ed="B" xml:id="B27.0151.0274a" n="0274a"/><lb
-ed="B" n="0274a01"/>寂，塔於城東萬壽寺。雲山<persName key="A042807">陳任賜</persName>為之傳，<persName key="A022813">楊葆光</persName>竝記其與英<lb
-ed="B" n="0274a02"/>人問答，詳具山志。</p>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="護法" xml:id="gsz0273b02shiXiuMin">
+<lb ed="B" n="0273b02"/><anchor n="B.27.0151.0273b02"/><head>清丹徒焦山自然庵沙門<persName key="A042229">釋修敏</persName>傳</head>
+<lb ed="B" n="0273b03"/><p xml:id="pB27p0273b0301"><persName key="A042229">釋修敏</persName>，字<persName key="A042229">定峯</persName>，一字<persName key="A042229">耐庵</persName>，姓任氏，丹徒人也。方九齡祝髮於自
+<lb ed="B" n="0273b04"/>然庵，禮<persName key="A042228">玉衡平心</persName>為師。地擅江山之勝，游客登臨，日不暇給。積
+<lb ed="B" n="0273b05"/>累既鉅，幾無可支。及<persName key="A042229">敏</persName>繼席，清檢舊逋<!-- 拖欠 -->，虧金三千。遂一意撙節，
+<lb ed="B" n="0273b06"/>卒償所負。更以餘貲，重新宇舍。臨江右岸建觀音閣，為文人燕
+<lb ed="B" n="0273b07"/>息之所。又以定慧殿棟年久荒殘，金像露坐，慨然以中興為<anchor xml:id="beg_130" type="cb-app"/>己<anchor xml:id="end_130"/>
+<lb ed="B" n="0273b08"/>任。<date from-iso="+1850-05-12" key="j23968902396977" to-iso="+1850-08-07">道光庚<anchor xml:id="beg_131" type="cb-app"/>戌<anchor xml:id="end_131"/>夏</date>南州<persName key="A042802">彭<roleName>都轉</roleName>玉雯</persName>，避地養疴，假居寺寮。<persName key="A042229">敏</persName>偶從
+<lb ed="B" n="0273b09"/>譚論，得申其請兩江制府<persName key="A042801">陸<roleName>公</roleName>立夫</persName>輸三千金，踰月而輪奐蔚
+<lb ed="B" n="0273b10"/>然，更廓舊式。<date from-iso="+1860-01-23" key="j24004332400816" to-iso="+1861-02-09">咸豐庚申</date>英吉利至天津議和，開五口商岸，於鎮
+<lb ed="B" n="0273b11"/>江設領事稅務。時潤城猶因髮寇戒嚴，不得設關建署，乃移焦
+<lb ed="B" n="0273b12"/>山。稅務司者已踞松寥閣，麾其主僧出。領事<!-- 可能是英國領事阿利國（阿禮國） -->至自然庵，麾<persName key="A042229">敏</persName>曰：
+<lb ed="B" n="0273b13"/>「去去。」<persName key="A042229">敏</persName>若不聞也者，因復語之曰：「<ref type="person" target="#A042229">爾</ref>不解邪？」<persName key="A042229">敏</persName>曰：「解則解矣，屬
+<lb ed="B" n="0273b14"/>有所思耳！<ref type="person" target="#A042229">吾</ref>意中西雖別，國禮無異。今日可奪<ref type="person" target="#A042229">吾</ref>庵者，他日亦
+<lb ed="B" n="0273b15"/>為人奪。何必自君始邪？」領事默然，後欲去佛像，亦為<persName key="A042229">敏</persName>所折服。
+<lb ed="B" n="0273b16"/>領事知不可奪，立約租為賓主焉！然西人性樂山水，尤喜高曠。
+<lb ed="B" n="0273b17"/>自海門溯江而上，焦山屹立中流，形若砥柱，南屏象阜，北帶沙
+<lb ed="B" n="0273b18"/>州，波譎雲詭，旦夕數變。屢欲購地築室，以為游息。終以<persName key="A042229">敏</persName>一言
+<lb ed="B" n="0273b19"/>而寢其事，故西人雖久寓山中，不得置一椽者，<persName key="A042229">敏</persName>之力也。平昔
+<lb ed="B" n="0273b20"/>虔心焚修，寺規整肅，中外欽<ref type="person" target="#A042229">之</ref>。以<date when-iso="+1864-06-01" key="j24020242402024">同治甲子四月二十七日</date>示<pb ed="B" xml:id="B27.0151.0274a" n="0274a"/>
+<lb ed="B" n="0274a01"/>寂，塔於城東萬壽寺。雲山<persName key="A042807">陳任賜</persName>為之傳，<persName key="A022813">楊葆光</persName>竝記其與英
+<lb ed="B" n="0274a02"/>人問答，詳具山志。</p>
     <linkGrp>
         <link targets="#0273b03 #0273b04"/>
         <ptr target="#A042229" type="person"/>

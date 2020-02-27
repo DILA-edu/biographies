@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" type="雜識" xml:id="gsz0464b07shiDaHan"><lb
-ed="B" n="0464b07"/><anchor n="B.27.0151.0464b07"/><head>清海寧安國寺沙門<persName key="A021761">釋大涵</persName>傳</head><lb
-ed="B" n="0464b08"/><p xml:id="pB27p0464b0801"><persName key="A021761">釋大涵</persName>，字<persName key="A021761">雁黃</persName>，姓潘氏，吳江人也。九歲出家，習誦梵典，聰穎過<lb
-ed="B" n="0464b09"/>人，能通大義。既長入靈巖，從師<persName key="A000241">繼起</persName>游南嶽，禪理文心<!-- 文章、文思 -->，俱極超<lb
-ed="B" n="0464b10"/>妙，有名於時。俗僧忌之，謀折其足。乃夜遁，走大雪中，饑則搏雪<lb
-ed="B" n="0464b11"/>食之，自號<persName key="A021761">齧雪子</persName>。後住雁蕩山，又入黃山，因字<persName key="A021761">雁黃</persName>。其在黃山，<lb
-ed="B" n="0464b12"/>聞伐木聲丁丁，靜中有悟。盜擊<ref type="person" target="#A021761">之</ref>不死，後居海寧安國寺。<persName key="A043030">陳<roleName>中<lb
-ed="B" n="0464b13"/>丞</roleName>元龍</persName>撫粵西，招之游羅浮。歸至肇慶鼎湖山，示微疾，說偈而<lb
-ed="B" n="0464b14"/>化，塔在桂林棲霞寺傍。著有《黃山草》、《西湖草》、《補陀南參集》、《彈指<lb
-ed="B" n="0464b15"/>集》、《桂羅壯遊集》、《鹽官剩草》，皆已刻。<persName key="A043030">陳元龍</persName>為之塔誌，見於別乘。</p>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="雜識" xml:id="gsz0464b07shiDaHan">
+<lb ed="B" n="0464b07"/><anchor n="B.27.0151.0464b07"/><head>清海寧安國寺沙門<persName key="A021761">釋大涵</persName>傳</head>
+<lb ed="B" n="0464b08"/><p xml:id="pB27p0464b0801"><persName key="A021761">釋大涵</persName>，字<persName key="A021761">雁黃</persName>，姓潘氏，吳江人也。九歲出家，習誦梵典，聰穎過
+<lb ed="B" n="0464b09"/>人，能通大義。既長入靈巖，從師<persName key="A000241">繼起</persName>游南嶽，禪理文心<!-- 文章、文思 -->，俱極超
+<lb ed="B" n="0464b10"/>妙，有名於時。俗僧忌之，謀折其足。乃夜遁，走大雪中，饑則搏雪
+<lb ed="B" n="0464b11"/>食之，自號<persName key="A021761">齧雪子</persName>。後住雁蕩山，又入黃山，因字<persName key="A021761">雁黃</persName>。其在黃山，
+<lb ed="B" n="0464b12"/>聞伐木聲丁丁，靜中有悟。盜擊<ref type="person" target="#A021761">之</ref>不死，後居海寧安國寺。<persName key="A043030">陳<roleName>中
+<lb ed="B" n="0464b13"/>丞</roleName>元龍</persName>撫粵西，招之游羅浮。歸至肇慶鼎湖山，示微疾，說偈而
+<lb ed="B" n="0464b14"/>化，塔在桂林棲霞寺傍。著有《黃山草》、《西湖草》、《補陀南參集》、《彈指
+<lb ed="B" n="0464b15"/>集》、《桂羅壯遊集》、《鹽官剩草》，皆已刻。<persName key="A043030">陳元龍</persName>為之塔誌，見於別乘。</p>
     <linkGrp>
         <link targets="#0464b09 #0464b09"/>
         <ptr target="#A021761" type="person"/>

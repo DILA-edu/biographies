@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0189a11shiZhengYan">
+<lb ed="B" n="0189a11"/><anchor n="B.27.0151.0189a11"/><head>清錢塘淨慈寺沙門<persName key="A016063">釋正嵒</persName>傳<persName type="secondary" key="A016507">方孝</persName></head>
+<lb ed="B" n="0189a12"/><p xml:id="pB27p0189a1201"><persName key="A016063">釋正嵒</persName>，字<persName key="A016063">豁堂</persName>，亦號<persName key="A016063">隨山</persName>，姓郭氏，仁和人。夙秉異姿，不近<anchor xml:id="beg018905"/><choice><sic resp="CBETA">莙</sic><corr resp="PC-MB">蔒</corr></choice><anchor xml:id="end018905"/><!-- 通「葷」 -->膩。
+<lb ed="B" n="0189a13"/>長無俗緣，息絕塵念，落髮稟戒，三德同具。絜<anchor xml:id="beg_af" type="cb-app"/>己<anchor xml:id="end_af"/>親師，積功劬學，
+<lb ed="B" n="0189a14"/>博通世典，綜貫三乘，匯眾派以同流，悟大化之無盡，力崇正法，
+<lb ed="B" n="0189a15"/>見推耆宿。參<persName key="A003668">三峰</persName>於淨慈，略呈所見。<persName key="A003668">三峰</persName>曰：「依識解，為超生死
+<lb ed="B" n="0189a16"/>根，猶北適南轅。<ref type="person" target="#A003668">我</ref>無此逐日長進之禪。」<!-- 《五燈全書(第34卷-第120卷)》卷82：「藏訶曰。此皆依識解卜度。正為生死根本。以是求禪。猶北適而南轅也。師當下竦然。請益。藏彈指一下曰。我者裏。無逐日長進底禪。」(CBETA, X82, no. 1571, p. 449, c22-p. 450, a1) -->自是頂伽脫盡，睛翳消
+<lb ed="B" n="0189a17"/>除，自甘澹泊，智刊情亡。一生蕭散，不接權貴，蘆花泛月，響震魚
+<lb ed="B" n="0189a18"/>龍，屐齒登山，春歸奚錦。迨廢宗之詿誤，致法席之零丁，運屬明
+<lb ed="B" n="0189a19"/>夷<!-- 賢人遭厄之卦 -->，咎來<anchor xml:id="beg018907"/><choice><sic resp="CBETA">元</sic><corr resp="PC-MB">无</corr></choice><anchor xml:id="end018907"/><!-- 《勅建淨慈寺志．卷12．馮溥：嵒禪師塔銘》：「明屬明夷，毒歸無妄」(《中國佛寺史志彙刊》，第1輯，第18冊，頁0868) -->妄。從容就逮，振錫圜門<!-- 獄門 -->，勸化無方，感悟羇囚，道幽益
+<lb ed="B" n="0189a20"/>顯。化火宅之凶燄，來徒役之皈依，鬼神呵護，頓見吉祥，天龍迴<pb ed="B" xml:id="B27.0151.0189b" n="0189b"/>
+<lb ed="B" n="0189b01"/>翔，永圍法座，紳衿崇仰，檀越追蹤，頻來問訊之書，更滿入山之
+<lb ed="B" n="0189b02"/>屨。<persName key="A016063">嵒</persName>迺睹白雲以高臥，侶浮鷗而賦詩，一任蘧廬之化，永矢物
+<lb ed="B" n="0189b03"/>外之情。方擇地以終休意，泊然而委順。以<date when-iso="+1670-09-03" key="j23312612331261">康熙庚戌七月二十
+<lb ed="B" n="0189b04"/>日</date>示寂，壽七十四，臘五十五。所著《語錄》、拈頌、啟疏、詩偈、雜著若
+<lb ed="B" n="0189b05"/>干卷，得法弟子十有五人，建塔於慧日峰左，名曰「宏濟」。<ref type="date" target="#j23314202331774">越明年</ref>，
+<lb ed="B" n="0189b06"/>其徒<persName key="A041000">戒青</persName>為之行狀，乞<persName key="A043106">馮溥</persName>銘焉。文詞華麗，見於《寺志》。<persName key="A016507">方孝</persName>字
+<lb ed="B" n="0189b07"/><persName key="A016507">舜瞿</persName>，姓王氏，江都人也。投白雲院<persName key="A043107">雪石</persName>薙染，受具於天寧<persName key="A043108">永禮</persName>。
+<lb ed="B" n="0189b08"/>參<persName key="A016063">豁堂</persName>得悟，遂受記莂。<date from-iso="+1672-01-30" key="j23317752332158" to-iso="+1673-02-16">康熙十一年</date>繼席淨慈，住寺三十年。建
+<lb ed="B" n="0189b09"/>堂築室，以拾趿而升，一望山半無闕焉！寂於<date when-iso="+1700-11-06" key="j23422822342282">康熙三十九年九
+<lb ed="B" n="0189b10"/>月二十六日</date>，壽七十六，臘五十四。<persName key="A043109">毛奇齡</persName>為之〈塔誌〉並見《寺志》。</p>
+    <linkGrp>
+        <link targets="#0189a15 #0189a16"/>
+        <ptr target="#A016063" type="person"/>
+        <ptr target="#A003668" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0189b05 #0189b06"/>
+        <ptr target="#A016063" type="person"/>
+        <ptr target="#A041000" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0189b06 #0189b06"/>
+        <ptr target="#A043106" type="person"/>
+        <ptr target="#A041000" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0189b06 #0189b07"/>
+        <ptr target="#A016507" type="person"/>
+        <ptr target="#A043107" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0189b07 #0189b07"/>
+        <ptr target="#A016507" type="person"/>
+        <ptr target="#A043108" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0189b08 #0189b08"/>
+        <ptr target="#A016507" type="person"/>
+        <ptr target="#A016063" type="person"/>
+    </linkGrp>
+</div>

@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" type="義解" xml:id="gsz0075a03shiYongGu"><lb
-ed="B" n="0075a03"/><anchor n="B.27.0151.0075a03"/><head>明杭州上天竺沙門<persName key="A042306">釋永顧</persName>傳<persName type="secondary" key="A022512">如蘭</persName></head><lb
-ed="B" n="0075a04"/><p xml:id="pB27p0075a0401"><persName key="A042306">釋永顧</persName>，字<persName key="A042306">本源</persName>，號<persName key="A042306">性庵</persName>，鄞人也。十歲喪母，能執喪禮如成人。服<lb
-ed="B" n="0075a05"/>釋出家，從四明都綱<persName key="A042585">竹菴</persName>得度，篤意釋典，㫄通文藝。既而謁南<lb
-ed="B" n="0075a06"/>京僧錄<persName key="A042305">唯菴實</persName>，命和本宗。偈有云：「三十世生一念有，五千經旨<lb
-ed="B" n="0075a07"/>片言該。」<persName key="A042305">唯菴</persName>尤加器重，為書狀，侍者轉懺首。會杭之梵天闕席，<lb
-ed="B" n="0075a08"/><persName key="A042305">唯菴</persName>命<persName key="A042306">永顧</persName>主之，凡七載。刺血書《妙法華》、《阿彌陀經》，僧錄<persName key="A042584">心田<lb
-ed="B" n="0075a09"/><choice><sic resp="CBETA">䨙</sic><corr resp="PC-MB">霔</corr></choice></persName><!-- 《杭州上天竺講寺志．卷4．性菴法師》：「僧錄心田霔」(《中國佛寺史志彙刊》，第1輯，第26冊，頁0115) -->延為大報恩寺都講，闡揚《法華》奧旨，聽者川湧，若<persName key="A042583">陸<roleName>參政</roleName>友<lb
-ed="B" n="0075a10"/>諒</persName>、中書<persName key="A042586">姜孟圭</persName>咸執弟子禮。後詢駙馬都尉<persName key="A022559">沐<roleName>公</roleName></persName>、冢宰<!-- 吏部尚書 --><persName key="A042587">黃<roleName>公</roleName></persName>、宗<lb
-ed="B" n="0075a11"/>伯<!-- 禮部尚書 -->王公、杜公、太常鄭公請主上天竺。至則啟滯覺迷，舉廢興墜，<lb
-ed="B" n="0075a12"/>為之一新凡十年。有都<choice><sic resp="CBETA">剛</sic><corr resp="PC-MB">綱</corr></choice><!-- 《杭州上天竺講寺志．卷4．性菴法師》：「有都綱之命」(《中國佛寺史志彙刊》，第1輯，第26冊，頁0115) -->之命，表率九邑，勤劬十稔，無少瑕纇。<lb
-ed="B" n="0075a13"/>所著有《講貫結偈》、《朝野賡歌》、《山居倡和》、《缶音》等集。又<persName key="A022512">如蘭</persName>，字<persName key="A022512">古<lb
-ed="B" n="0075a14"/>春</persName>，富春人。淹通經論，餘及詩文，所著曰《支離叟集》。<persName key="A042588">忠肅于<roleName>公</roleName></persName>彌<lb
-ed="B" n="0075a15"/>月<!-- 甫七嵗，僧蘭古春見而竒之曰此他日救時宰相也。《四庫．忠肅集．附録》 -->時，召戚友為湯餅會。<persName key="A022512">蘭</persName>至，摩<ref type="person" target="#A042588">其</ref>頂曰：「<ref type="person" target="#A042588">此兒</ref>他日救時宰相也。」<lb
-ed="B" n="0075a16"/>後果如其言。</p>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="義解" xml:id="gsz0075a03shiYongGu">
+<lb ed="B" n="0075a03"/><anchor n="B.27.0151.0075a03"/><head>明杭州上天竺沙門<persName key="A042306">釋永顧</persName>傳<persName type="secondary" key="A022512">如蘭</persName></head>
+<lb ed="B" n="0075a04"/><p xml:id="pB27p0075a0401"><persName key="A042306">釋永顧</persName>，字<persName key="A042306">本源</persName>，號<persName key="A042306">性庵</persName>，鄞人也。十歲喪母，能執喪禮如成人。服
+<lb ed="B" n="0075a05"/>釋出家，從四明都綱<persName key="A042585">竹菴</persName>得度，篤意釋典，㫄通文藝。既而謁南
+<lb ed="B" n="0075a06"/>京僧錄<persName key="A042305">唯菴實</persName>，命和本宗。偈有云：「三十世生一念有，五千經旨
+<lb ed="B" n="0075a07"/>片言該。」<persName key="A042305">唯菴</persName>尤加器重，為書狀，侍者轉懺首。會杭之梵天闕席，
+<lb ed="B" n="0075a08"/><persName key="A042305">唯菴</persName>命<persName key="A042306">永顧</persName>主之，凡七載。刺血書《妙法華》、《阿彌陀經》，僧錄<persName key="A042584">心田
+<lb ed="B" n="0075a09"/><choice><sic resp="CBETA">䨙</sic><corr resp="PC-MB">霔</corr></choice></persName><!-- 《杭州上天竺講寺志．卷4．性菴法師》：「僧錄心田霔」(《中國佛寺史志彙刊》，第1輯，第26冊，頁0115) -->延為大報恩寺都講，闡揚《法華》奧旨，聽者川湧，若<persName key="A042583">陸<roleName>參政</roleName>友
+<lb ed="B" n="0075a10"/>諒</persName>、中書<persName key="A042586">姜孟圭</persName>咸執弟子禮。後詢駙馬都尉<persName key="A022559">沐<roleName>公</roleName></persName>、冢宰<!-- 吏部尚書 --><persName key="A042587">黃<roleName>公</roleName></persName>、宗
+<lb ed="B" n="0075a11"/>伯<!-- 禮部尚書 -->王公、杜公、太常鄭公請主上天竺。至則啟滯覺迷，舉廢興墜，
+<lb ed="B" n="0075a12"/>為之一新凡十年。有都<choice><sic resp="CBETA">剛</sic><corr resp="PC-MB">綱</corr></choice><!-- 《杭州上天竺講寺志．卷4．性菴法師》：「有都綱之命」(《中國佛寺史志彙刊》，第1輯，第26冊，頁0115) -->之命，表率九邑，勤劬十稔，無少瑕纇。
+<lb ed="B" n="0075a13"/>所著有《講貫結偈》、《朝野賡歌》、《山居倡和》、《缶音》等集。又<persName key="A022512">如蘭</persName>，字<persName key="A022512">古
+<lb ed="B" n="0075a14"/>春</persName>，富春人。淹通經論，餘及詩文，所著曰《支離叟集》。<persName key="A042588">忠肅于<roleName>公</roleName></persName>彌
+<lb ed="B" n="0075a15"/>月<!-- 甫七嵗，僧蘭古春見而竒之曰此他日救時宰相也。《四庫．忠肅集．附録》 -->時，召戚友為湯餅會。<persName key="A022512">蘭</persName>至，摩<ref type="person" target="#A042588">其</ref>頂曰：「<ref type="person" target="#A042588">此兒</ref>他日救時宰相也。」
+<lb ed="B" n="0075a16"/>後果如其言。</p>
     <linkGrp>
         <link targets="#0075a05 #0075a05"/>
         <ptr target="#A042306" type="person"/>

@@ -160,6 +160,70 @@
 			<lem wit="喻眛庵輯影本">在</lem>
 			<rdg wit="CBETA">在</rdg>
 		</app>
+		<app from="beg018905">
+			<lem wit="喻眛庵輯影本">莙</lem>
+			<rdg wit="CBETA">莙</rdg>
+		</app>
+		<app from="beg018907">
+			<lem wit="喻眛庵輯影本">元</lem>
+			<rdg wit="CBETA">元</rdg>
+		</app>
+		<app from="beg019101">
+			<lem wit="喻眛庵輯影本">刁</lem>
+			<rdg wit="CBETA">刁</rdg>
+		</app>
+		<app from="beg019201">
+			<lem wit="喻眛庵輯影本">宇</lem>
+			<rdg wit="CBETA">宇</rdg>
+		</app>
+		<app from="beg019301">
+			<lem wit="喻眛庵輯影本">微</lem>
+			<rdg wit="CBETA">微</rdg>
+		</app>
+		<app from="beg019401">
+			<lem wit="喻眛庵輯影本">凝</lem>
+			<rdg wit="CBETA">凝</rdg>
+		</app>
+		<app from="beg019403">
+			<lem wit="喻眛庵輯影本">洎</lem>
+			<rdg wit="CBETA">洎</rdg>
+		</app>
+		<app from="beg019405">
+			<lem wit="喻眛庵輯影本">迷</lem>
+			<rdg wit="CBETA">迷</rdg>
+		</app>
+		<app from="beg019407">
+			<lem wit="喻眛庵輯影本">坦</lem>
+			<rdg wit="CBETA">坦</rdg>
+		</app>
+		<app from="beg019408">
+			<lem wit="喻眛庵輯影本">適</lem>
+			<rdg wit="CBETA">適</rdg>
+		</app>
+		<app from="beg019410">
+			<lem wit="喻眛庵輯影本">言</lem>
+			<rdg wit="CBETA">言</rdg>
+		</app>
+		<app from="beg019501">
+			<lem wit="喻眛庵輯影本">莙</lem>
+			<rdg wit="CBETA">莙</rdg>
+		</app>
+		<app from="beg_b9">
+			<lem wit="喻眛庵輯影本">谿</lem>
+			<rdg wit="CBETA">豁</rdg>
+		</app>
+		<app from="beg_bc">
+			<lem wit="喻眛庵輯影本">昆</lem>
+			<rdg wit="CBETA">毘</rdg>
+		</app>
+		<app from="beg019701">
+			<lem wit="喻眛庵輯影本">戍</lem>
+			<rdg wit="CBETA">戍</rdg>
+		</app>
+		<app from="beg019801">
+			<lem wit="喻眛庵輯影本">丙</lem>
+			<rdg wit="CBETA">丙</rdg>
+		</app>
 		<app from="beg020901">
 			<lem wit="喻眛庵輯影本">自</lem>
 			<rdg wit="CBETA">目</rdg>
@@ -193,6 +257,10 @@
 			<rdg wit="CBETA">湻</rdg>
 		</app>
 		<app from="beg027601">
+			<lem wit="喻眛庵輯影本">莙</lem>
+			<rdg wit="CBETA">莙</rdg>
+		</app>
+		<app from="beg027603">
 			<lem wit="喻眛庵輯影本">三</lem>
 			<rdg wit="CBETA">二</rdg>
 		</app>

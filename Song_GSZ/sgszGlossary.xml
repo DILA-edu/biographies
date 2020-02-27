@@ -1100,10 +1100,10 @@
 <note xml:id="g1098" resp="PC-JK-MB">曳婁，猶穿戴，衣裳在身行必曳之。語出《詩經‧唐風‧山有樞》：「子有衣裳，弗曳弗婁。」</note>
 <note xml:id="g1099" resp="PC-JK-MB">起居，問安。</note>
 <note xml:id="g1100" resp="PC-JK-MB">江湖，指<placeName key="PL000000008364">吳越</placeName>一帶。《史記‧卷二十七‧天官書》：「斗，江湖。……<placeName key="PL000000008360">越</placeName>之亡，熒惑守斗。」<persName key="A022449">張守節</persName>《正義》：「南斗為<placeName key="PL000000008364">吳越</placeName>之分野。」</note>
-<note xml:id="g1101" resp="PC-JK-MB">羅縠，音「luó hú（ㄌㄨㄛˊ ㄏㄨˊ）」，薄帛也。<ref cRef="CBETA_C56_n1163_p970_c19">《一切經音義》CBETA, C56, no. 1163, p. 970, c19</ref>：「似羅而疏，似紗而密者也。有懞縠、霧縠，言細如霧也。」</note>
+<note xml:id="g1101" resp="PC-JK-MB">羅縠，<seg type="pronunciation">音「luó hú（ㄌㄨㄛˊ ㄏㄨˊ）」，</seg>薄帛。<ref cRef="CBETA_C56_n1163_p970_c19">《一切經音義》CBETA, C56, no. 1163, p. 970, c19</ref>：「似羅而疏，似紗而密者也。有懞縠、霧縠，言細如霧也。」</note>
 <note xml:id="g1102" resp="PC-JK-MB">射侯，即射箭靶也。<persName key="A003075">劉勰</persName>《文心雕龍‧議對第二十四》：「言中理準，譬射侯中的。」</note>
 <note xml:id="g1103" resp="PC-JK-MB">載，且、又。語出《詩經‧鄘風‧載馳》：「載馳載驅，歸唁<persName key="A022450">衞侯</persName>。」</note>
-<note rend="display:none;" xml:id="g1104" resp="makita">晻曖，音「ăn ài （ㄢˇ ㄞˋ）」，昏暗貌。《晉書‧卷三十一》：「日晻曖而無光兮，氣懰慄以洌清。」</note>
+<note rend="display:none;" xml:id="g1104" resp="makita">晻曖，<seg type="pronunciation">音「ăn ài （ㄢˇ ㄞˋ）」，</seg>昏暗貌。《晉書‧卷三十一》：「日晻曖而無光兮，氣懰慄以洌清。」</note>
 <note xml:id="g1105" resp="PC-JK-MB">外臣，猶朝臣。與內侍相對而言。</note>
 <note xml:id="g1106" resp="PC-JK-MB">摩尼，<name>梵</name>語<seg type="latin">maṇi</seg>，為珠玉之總稱。詳見《佛光‧摩尼》頁6067。</note>
 <note xml:id="g1107" resp="makita">分陰，比喻極短的時刻。</note>
@@ -1953,11 +1953,11 @@
 <note xml:id="g1951" resp="PC-JK-MB">靳固，吝惜固守。<seg type="pronunciation">靳，音「jìn（ㄐㄧㄣˋ）」。</seg></note>
 <note xml:id="g1952" resp="PC-JK-MB">徽典，美好的典常。語出《尚書‧虞書‧舜典》：「慎徽五典。」</note>
 <note xml:id="g1953" resp="PC-JK-MB">標遇，猶恃才傲物。</note>
-<note xml:id="g1954" resp="PC-JK-MB">直道，猶正道。指確當的道理、準則。 《禮記·雜記》：「其餘則直道而行之是也。」</note>
+<note xml:id="g1954" resp="PC-JK-MB">直道，猶正道。指確當的道理、準則。 《禮記‧雜記》：「其餘則直道而行之是也。」</note>
 <note xml:id="g1955" resp="PC-JK-MB">健羨，貪得無厭的慾望。語出《史記‧卷一百三十‧太史公自序》：「至於大道之要，去健羨，絀聰明，釋此而任術。」</note>
 <note xml:id="g1956" resp="PC-JK-MB">淳和，純樸溫和。</note>
 <note xml:id="g1957" resp="PC-JK-MB">一倍，猶完全。</note>
-<note xml:id="g1958" resp="PC-JK-MB">泉貨，貨幣。</note>
+<note xml:id="g1958" resp="PC-JK-MB"></note>
 <note xml:id="g1959" resp="PC-JK-MB">減口，即限食。<ref cRef="CBETA_T40_n1804_p128_b15">《四分律刪繁補闕行事鈔》CBETA, T40, no. 1804, p. 128, b15</ref>：「佛長夜中常嘆最後限食（謂末後減口食）。」</note>
 <note xml:id="g1960" resp="PC-JK-MB">解脫身，<name>梵</name>語<seg type="latin">vimukti-skandha</seg>，指佛身，佛身已解脫煩惱障，故稱解脫身。</note>
 <note xml:id="g1961" resp="PC-JK-MB">旋，逐漸。</note>
@@ -2343,6 +2343,12 @@
 <note xml:id="g2340" resp="PC-JK-MB">檛，<seg type="pronunciation">音「zhuā（ㄓㄨㄚ）」，</seg>擊、敲。</note>
 <note xml:id="g2341" resp="PC-JK-MB">客星，指恆星以外的星體。<ref cRef="CBETA_T39_n1785_p53_a16-p53_a18">《金光明經文句》CBETA, T39, no. 1785, p. 53, a16-18</ref>：「惡星者，別有客星也。亦是五星二十八宿。一方有七，四七二十八也。違其度數，失其分野；若熒惑亂行，麻彗暴出，是客星也。」</note>
 <note xml:id="g2342" resp="PC-JK-MB">洞庭，廣闊的庭院。《莊子‧外篇‧天運第十四》：「帝張《咸池》之樂，於洞庭之野。」<persName key="A021444">成玄英</persName>疏：「洞庭之野，天（地）〔池〕之閒，非<placeName key="PL000000008559">太湖</placeName>之<placeName key="PLG00000000019">洞庭</placeName>也。」據此，亦非指<placeName key="PL000000028612">洞庭湖</placeName>。</note>
-<note xml:id="g2343" resp="PC-JK-MB">颼飀，<seg type="pronunciation">音「sōu liú（ㄙㄡ ㄌㄧㄡˊ）」，</seg>風聲。<persName key="A013570">左思</persName>《文選‧卷五‧吳都賦》：「䬀瀏颼飀，鳴條律暢。」<persName key="A017616">李善</persName>注：「風聲也。」</note>
+<note xml:id="g2343" resp="PC-JK-MB">颼飀，<seg type="pronunciation">音「sōu liú（ㄙㄡ ㄌㄧㄡˊ）」，</seg>風聲。<persName key="A013570">左思</persName>《文選‧卷五‧吳都賦》：「䬀瀏颼飀，鳴條律暢。」<persName>張銑</persName>注：「䬀瀏颼飀，風聲也。」</note>
 <note xml:id="g2344" resp="PC-JK-MB">驀，跨越、越過。</note>
+<note xml:id="g2345" resp="PC-JK-MB">鞠，通「鞫」，窮盡、窮困。《詩經‧小雅‧節南山之什‧小弁》：「踧踧周道，鞫為茂草。」</note>
+<note xml:id="g2346" resp="PC-JK-MB">心戒，制止心念邪非之戒也。是為大乘戒之通義。然小乘戒中南山四分律宗之意，於制戒立深防與分限之二者；而分限即心戒也。又指達磨一心戒，係將一切戒法歸結攝入於一己之心上而觀之戒法觀。見《佛學‧心戒》、《佛光‧心戒》頁1401。</note>
+<note xml:id="g2347" resp="PC-JK-MB">天堂，指天眾所住之宮殿。又作天宮。與「地獄」對稱。即善人死後，依其善業所至受福樂之處所。見《佛光‧天堂》頁1357。</note>
+<note xml:id="g2348" resp="PC-JK-MB">三毒，指貪、瞋、癡。</note>
+<note xml:id="g2349" resp="PC-JK-MB">不聽，猶不許。</note>
+<note xml:id="g2350" resp="PC-JK-MB">間然，猶比肩。《論語‧泰伯第八》：「<persName key="A002761">禹</persName><ref type="person" target="#A002174">吾</ref>無間然矣！」<persName key="A019599">孔安國</persName>曰：「<persName key="A002174">孔子</persName>推<persName key="A002761">禹</persName>功德之盛，言已不能復間厠其間也。」<persName>皇侃</persName>疏：「間，猶非覸也。」</note>
 </div>

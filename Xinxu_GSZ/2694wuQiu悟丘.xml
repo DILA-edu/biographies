@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0430a15shiWuQiu"><lb
-ed="B" n="0430a15"/><anchor n="B.27.0151.0430a15"/><head>清沔陽甘露寺沙門<persName key="A042440">釋悟丘</persName>傳<persName type="secondary" key="A042940">昌珩</persName></head><lb
-ed="B" n="0430a16"/><p xml:id="pB27p0430a1601"><persName key="A042440">釋悟丘</persName>，字<persName key="A042440">開梅</persName>，姓徐氏，沔陽人也。壯歲出家，行苦頭陀，游徧名<lb
-ed="B" n="0430a17"/>山。道出金陵，總督<persName key="A042801">陸</persName>公企慕碩範，延<ref type="person" target="#A042440">之</ref>府中，諮問法旨。淹留<!-- 逗留 -->近<lb
-ed="B" n="0430a18"/>旬，始得辤去。給傳護送，餽遺甚豐，<persName key="A042440">悟</persName>婉<anchor xml:id="beg_1e6" type="cb-app"/>卻<anchor xml:id="end_1e6"/>之。躡屩五臺，因至燕<lb
-ed="B" n="0430a19"/>都。提督<persName key="A017907">向</persName>公想望尤殷，聞芳躅匪遙，已擁篲除道，執弟子禮，入<lb
-ed="B" n="0430a20"/>室請益，備極崇敬。名公巨子，嚮其風聲，多相造謁。<persName key="A042440">悟</persName>不樂塵嚻，<pb ed="B" xml:id="B27.0151.0430b" n="0430b"/><lb
-ed="B" n="0430b01"/>復辤之而歸。沔陽有廢廟曰「水府」，蓋六府<!-- 金木水火土穀 -->之一，天子之監設於<lb
-ed="B" n="0430b02"/>諸侯者，雲夢大澤不以封，當有王官職司水虞<!-- 漁師，古官名 -->，後世祀之，因名<lb
-ed="B" n="0430b03"/>「水府」。年湮禮失，淪為僧居，又頹敗焉！<persName key="A042440">悟</persName>倡修之，以待游侶。更闢<lb
-ed="B" n="0430b04"/>廣長社，為十方叢林，侁侁<!-- 眾多貌 -->學子，皆得所止。咸豐間至仙桃鎮，喜<lb
-ed="B" n="0430b05"/>其地望為川陸通衢，水雲流行，築基剏甘露寺。會粵亂方殷，匪<lb
-ed="B" n="0430b06"/>盜蠭<!-- 通「蜂」 -->起，斯寺落成，即罹兵燹。乃<persName key="A042440">悟</persName>志不渝，剔除餘燼，復構美材，<lb
-ed="B" n="0430b07"/>深慈弘願，感召人天。卒遂厥初，殿閣重新，禪客奔赴。<date from-iso="+1862-01-30" key="j24011712401554" to-iso="+1863-02-17">同治初年</date>，<lb
-ed="B" n="0430b08"/>湘軍屢捷，江漢載清；又以<placeName>新堤</placeName>巨鎮，重湖<!-- 洞庭湖 -->孔道，殊無梵宇，不便<lb
-ed="B" n="0430b09"/>游僧，更剏萬佛寺，使湖湘衲子，發足參訪，中途煩勞，得所止憇。<lb
-ed="B" n="0430b10"/><persName key="A042440">悟</persName>戒德貞堅，性尤耿介，不屑干請<!-- 請託 -->。每有興舉，信施麕集，如期而<lb
-ed="B" n="0430b11"/>至，精誠所格，有自來矣！同時有<persName key="A042940">昌珩</persName>，字<persName key="A042940">慧山</persName>者，荊門朱<anchor xml:id="beg043001"/><choice><sic resp="CBETA">子</sic><corr resp="PC-MB">氏</corr></choice><anchor xml:id="end043001"/><!-- 《玉泉寺志．卷2．[慧山禪師]》：「荊門朱氏子」(《中國佛寺史志彙刊》，第3輯，第17冊，頁0213) -->子也。<lb
-ed="B" n="0430b12"/><ref type="date" target="#j23814452381827">九歲</ref>出家，棲于玉泉，受具于荊州東山寺。遠叩名宿，深有契合，<lb
-ed="B" n="0430b13"/>接席東山，三弘宗法。慨念寺古，風霜飄蝕，院宇頺敝，金像剝落，<lb
-ed="B" n="0430b14"/>乃事修葺。首毘盧殿，次藏經樓。且重造門外石礄，嚴飾佛相，足<lb
-ed="B" n="0430b15"/>資觀感。以<date when-iso="+1853-05-25" key="j23979992397999">咸豐癸丑四月十八日</date>示寂，塔于旗鼓山麓。<persName key="A042941">周柳溪</persName><lb
-ed="B" n="0430b16"/>為之銘，春秋五十四，僧臘三十五。</p>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0430a15shiWuQiu">
+<lb ed="B" n="0430a15"/><anchor n="B.27.0151.0430a15"/><head>清沔陽甘露寺沙門<persName key="A042440">釋悟丘</persName>傳<persName type="secondary" key="A042940">昌珩</persName></head>
+<lb ed="B" n="0430a16"/><p xml:id="pB27p0430a1601"><persName key="A042440">釋悟丘</persName>，字<persName key="A042440">開梅</persName>，姓徐氏，沔陽人也。壯歲出家，行苦頭陀，游徧名
+<lb ed="B" n="0430a17"/>山。道出金陵，總督<persName key="A042801">陸</persName>公企慕碩範，延<ref type="person" target="#A042440">之</ref>府中，諮問法旨。淹留<!-- 逗留 -->近
+<lb ed="B" n="0430a18"/>旬，始得辤去。給傳護送，餽遺甚豐，<persName key="A042440">悟</persName>婉<anchor xml:id="beg_1e6" type="cb-app"/>卻<anchor xml:id="end_1e6"/>之。躡屩五臺，因至燕
+<lb ed="B" n="0430a19"/>都。提督<persName key="A017907">向</persName>公想望尤殷，聞芳躅匪遙，已擁篲除道，執弟子禮，入
+<lb ed="B" n="0430a20"/>室請益，備極崇敬。名公巨子，嚮其風聲，多相造謁。<persName key="A042440">悟</persName>不樂塵嚻，<pb ed="B" xml:id="B27.0151.0430b" n="0430b"/>
+<lb ed="B" n="0430b01"/>復辤之而歸。沔陽有廢廟曰「水府」，蓋六府<!-- 金木水火土穀 -->之一，天子之監設於
+<lb ed="B" n="0430b02"/>諸侯者，雲夢大澤不以封，當有王官職司水虞<!-- 漁師，古官名 -->，後世祀之，因名
+<lb ed="B" n="0430b03"/>「水府」。年湮禮失，淪為僧居，又頹敗焉！<persName key="A042440">悟</persName>倡修之，以待游侶。更闢
+<lb ed="B" n="0430b04"/>廣長社，為十方叢林，侁侁<!-- 眾多貌 -->學子，皆得所止。咸豐間至仙桃鎮，喜
+<lb ed="B" n="0430b05"/>其地望為川陸通衢，水雲流行，築基剏甘露寺。會粵亂方殷，匪
+<lb ed="B" n="0430b06"/>盜蠭<!-- 通「蜂」 -->起，斯寺落成，即罹兵燹。乃<persName key="A042440">悟</persName>志不渝，剔除餘燼，復構美材，
+<lb ed="B" n="0430b07"/>深慈弘願，感召人天。卒遂厥初，殿閣重新，禪客奔赴。<date from-iso="+1862-01-30" key="j24011712401554" to-iso="+1863-02-17">同治初年</date>，
+<lb ed="B" n="0430b08"/>湘軍屢捷，江漢載清；又以<placeName>新堤</placeName>巨鎮，重湖<!-- 洞庭湖 -->孔道，殊無梵宇，不便
+<lb ed="B" n="0430b09"/>游僧，更剏萬佛寺，使湖湘衲子，發足參訪，中途煩勞，得所止憇。
+<lb ed="B" n="0430b10"/><persName key="A042440">悟</persName>戒德貞堅，性尤耿介，不屑干請<!-- 請託 -->。每有興舉，信施麕集，如期而
+<lb ed="B" n="0430b11"/>至，精誠所格，有自來矣！同時有<persName key="A042940">昌珩</persName>，字<persName key="A042940">慧山</persName>者，荊門朱<anchor xml:id="beg043001"/><choice><sic resp="CBETA">子</sic><corr resp="PC-MB">氏</corr></choice><anchor xml:id="end043001"/><!-- 《玉泉寺志．卷2．[慧山禪師]》：「荊門朱氏子」(《中國佛寺史志彙刊》，第3輯，第17冊，頁0213) -->子也。
+<lb ed="B" n="0430b12"/><ref type="date" target="#j23814452381827">九歲</ref>出家，棲于玉泉，受具于荊州東山寺。遠叩名宿，深有契合，
+<lb ed="B" n="0430b13"/>接席東山，三弘宗法。慨念寺古，風霜飄蝕，院宇頺敝，金像剝落，
+<lb ed="B" n="0430b14"/>乃事修葺。首毘盧殿，次藏經樓。且重造門外石礄，嚴飾佛相，足
+<lb ed="B" n="0430b15"/>資觀感。以<date when-iso="+1853-05-25" key="j23979992397999">咸豐癸丑四月十八日</date>示寂，塔于旗鼓山麓。<persName key="A042941">周柳溪</persName>
+<lb ed="B" n="0430b16"/>為之銘，春秋五十四，僧臘三十五。</p>
     <linkGrp>
         <link targets="#0430a17 #0430a18"/>
         <ptr target="#A042440" type="person"/>

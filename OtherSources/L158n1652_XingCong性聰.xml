@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0315b01shiXingYuan"><lb
+ed="L" n="0315b01"/><anchor n="L.158.1652.0315b01"/><head><persName key="A000644">明覺聰</persName>禪師塔銘(并序)</head><p xml:id="pL158p0315b0101">……<lb
+ed="L" n="0316a02"/>……詣支提山<persName key="A042719">本輝</persName><lb
+ed="L" n="0316a03"/>法主，習教數年。乃知經論之學，非究竟法<lb
+ed="L" n="0316a04"/>也。辭去，<ref type="person" target="#A042719">主</ref>曰：「<ref type="person" target="#A000644">汝</ref>要成龍，須歸大海。」……<lb
+ed="L" n="0316a07"/>……見<persName key="A000135">永覺</persName>大師，教從萬法歸一<lb
+ed="L" n="0316a08"/>做工夫，迄一年如蚊子咬鐵牛，直無下嘴<lb
+ed="L" n="0316a09"/>處。叅紹興東山<persName key="A015974">爾密</persName>和尚，驀然有省。晚詣<lb
+ed="L" n="0316a10"/>方丈，白其所得，<persName key="A015974">密</persName>頷之。……<lb
+ed="L" n="0316a13"/>……為法通<lb
+ed="L" n="0316a14"/><persName key="A015983">古淵</persName>和尚首座。<persName key="A015983">古</persName>問：「<persName key="A004980">興化</persName>打<persName key="A020435">克賓</persName>意旨如<lb
+ed="L" n="0316a15"/>何？」<ref type="person" target="#A000644">師</ref>云：「嚴父出孝子。」……<lb
+ed="L" n="0316b02"/>……至杭州聞<persName key="A000392">百癡</persName>和尚<lb
+ed="L" n="0316b03"/>住黃岡太平寺，道邁諸方，特往見。……<lb
+ed="L" n="0316b07"/>……一日呈<lb
+ed="L" n="0316b08"/>《十牛頌》會<persName key="A000392">百</persName>和尚意退隱天台，叅<persName key="A012053">林野</persName>和<lb
+ed="L" n="0316b09"/>尚，問答頗確，命職維那。因飯中咬着砂，大<lb
+ed="L" n="0316b10"/>徹洞山雪峰淘米公案。其膺頓釋作偈有<lb
+ed="L" n="0316b11"/>「無端彈破牙，猢猻沒尾巴」之句。呈方丈，<persName key="A012053">林</persName><lb
+ed="L" n="0316b12"/>深肯之。後<persName key="A000392">百</persName>和尚住瓶窑長慶，復往瞻依。……<lb
+ed="L" n="0317a14"/>道法傳聞<lb
+ed="L" n="0317a15"/><ref type="person" target="#A006714">帝</ref>庭矣！先是丁酉秋<ref type="person" target="#A000644">師</ref>感異夢，遲明<lb
+ed="L" n="0317b01"/><persName key="A006714">世祖皇帝</persName>駕幸南海子，道出寺前，止輦命近<lb
+ed="L" n="0317b02"/>侍延<ref type="person" target="#A000644">師</ref>出。<ref type="person" target="#A000644">師</ref>云：「山僧踈野愚昧，曷以仰瞻<lb
+ed="L" n="0317b03"/>天表？」近侍云：<lb
+ed="L" n="0317b04"/>「<ref type="person" target="#A006714">皇上</ref>為國為民，深重佛法，向<ref type="person" target="#A000644">和尚</ref>久矣！」<ref type="person" target="#A000644">師</ref>即<lb
+ed="L" n="0317b05"/>便衲出，山門傍立。<lb
+ed="L" n="0317b06"/><ref type="person" target="#A006714">上</ref>出輦，顧視久之，頗有怡色，命歸方丈。暨回<lb
+ed="L" n="0317b07"/>輿，即命近侍，問<ref type="person" target="#A000644">師</ref>俗家址藉？幾嵗出家？年若<lb
+ed="L" n="0317b08"/>干歲？何緣掛錫海會？<ref type="person" target="#A000644">師</ref>具書委悉回<lb
+ed="L" n="0317b09"/>旨。連遣官致問者三。次日駕幸海會寺方丈，<lb
+ed="L" n="0317b10"/><ref type="person" target="#A000644">師</ref>立門左，<lb
+ed="L" n="0317b11"/><ref type="person" target="#A006714">上</ref>喜逾時而去。……<lb
+ed="L" n="0318b03"/><ref type="person" target="#A006714">上</ref>又問南方尊宿，<ref type="person" target="#A000644">師</ref>單名奏起，復有<persName key="A001153">大覺</persName>、<persName key="A001513">弘<lb
+ed="L" n="0318b04"/>覺</persName>之封。……</p>
+    <linkGrp>
+        <link targets="#0316a02 #0316a04"/>
+        <ptr target="#A000644" type="person"/>
+        <ptr target="#A042719" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0316a07 #0316a09"/>
+        <ptr target="#A000644" type="person"/>
+        <ptr target="#A000135" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0316a09 #0316a10"/>
+        <ptr target="#A000644" type="person"/>
+        <ptr target="#A015974" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0316a14 #0316a15"/>
+        <ptr target="#A000644" type="person"/>
+        <ptr target="#A015983" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0316b02 #0316b03"/>
+        <ptr target="#A000644" type="person"/>
+        <ptr target="#A000392" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0316b07 #0316b12"/>
+        <ptr target="#A000644" type="person"/>
+        <ptr target="#A012053" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0317a14 #0317b11"/>
+        <ptr target="#A000644" type="person"/>
+        <ptr target="#A006714" type="person"/>
+    </linkGrp>
+</div>

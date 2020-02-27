@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" type="義解" xml:id="gsz0096a11shiDaoLong"><lb
-ed="B" n="0096a11"/><anchor n="B.27.0151.0096a11"/><head>清宜都青林寺沙門釋道隆傳<persName type="secondary">敏樹</persName></head><lb
-ed="B" n="0096a12"/><p xml:id="pB27p0096a1201"><persName key="A026305">釋道隆</persName>，字<persName key="A026305">博達</persName>，一字<persName key="A026305">克文</persName>，姓沈氏，枝江人也。少習儒修，介然自<lb
-ed="B" n="0096a13"/>守。壯值世變，親屬流離，逃入禪林，<anchor xml:id="beg009601"/><choice><sic resp="CBETA">記</sic><corr resp="PC-MB">寄</corr></choice><anchor xml:id="end009601"/>迹空門。初至武定，<persName key="A042494">師子高<lb
-ed="B" n="0096a14"/>庵</persName>為之披祝，具足於曲靖東山寺。知止後棲夔萬慈雲，<persName key="A010077">敏樹</persName>勤<lb
-ed="B" n="0096a15"/>求法要。將及廿載，盡得所傳。<persName key="A010077">敏樹</persName>名<persName key="A010077">印相</persName>，得法於<persName key="A009652">破山明</persName>。嘗付<lb
-ed="B" n="0096a16"/>以偈曰：「堪笑<persName key="A003629">陳蒲鞋</persName>，記濟為大樹<!-- 《萬松老人評唱天童覺和尚拈古請益錄》卷1：「穿臨濟為大樹」(CBETA, X67, no. 1307, p. 468, b21) -->；蓋蔭天下人，其根深於土；土<lb
-ed="B" n="0096a17"/>因地道殊，則產人亦異；斯人叩我前，取我授懸記；口占<!-- 口述。《破山禪師語錄》卷19：「信口而號之」(CBETA, J26, no. B177, p. 87, b23) -->而號之，<lb
-ed="B" n="0096a18"/><persName key="A010077">敏樹</persName>亦如是。」<persName key="A010077">敏樹</persName>主慈雲數十年，從化者眾，<persName key="A026305">道隆</persName>尤錚錚者。清<lb
-ed="B" n="0096a19"/>初定鼎燕京，中原略定，<date from-iso="+1659-01-23" key="j23270202327403" to-iso="+1660-02-10"><anchor xml:id="beg_41" type="cb-app"/>己<anchor xml:id="end_41"/>亥之歲</date>始歸三楚。受宜都之請，重興<lb
-ed="B" n="0096a20"/>廢剎，力振青林。更請龍藏，以饟學者。四方緇侶，聞風而集。退居<pb ed="B" xml:id="B27.0151.0096b" n="0096b"/><lb
-ed="B" n="0096b01"/>紫陵，預知時至，安禪順化。著有《芝秀集》六卷，《芒屩集》六卷行世。</p>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="義解" xml:id="gsz0096a11shiDaoLong">
+<lb ed="B" n="0096a11"/><anchor n="B.27.0151.0096a11"/><head>清宜都青林寺沙門釋道隆傳<persName type="secondary">敏樹</persName></head>
+<lb ed="B" n="0096a12"/><p xml:id="pB27p0096a1201"><persName key="A026305">釋道隆</persName>，字<persName key="A026305">博達</persName>，一字<persName key="A026305">克文</persName>，姓沈氏，枝江人也。少習儒修，介然自
+<lb ed="B" n="0096a13"/>守。壯值世變，親屬流離，逃入禪林，<anchor xml:id="beg009601"/><choice><sic resp="CBETA">記</sic><corr resp="PC-MB">寄</corr></choice><anchor xml:id="end009601"/>迹空門。初至武定，<persName key="A042494">師子高
+<lb ed="B" n="0096a14"/>庵</persName>為之披祝，具足於曲靖東山寺。知止後棲夔萬慈雲，<persName key="A010077">敏樹</persName>勤
+<lb ed="B" n="0096a15"/>求法要。將及廿載，盡得所傳。<persName key="A010077">敏樹</persName>名<persName key="A010077">印相</persName>，得法於<persName key="A009652">破山明</persName>。嘗付
+<lb ed="B" n="0096a16"/>以偈曰：「堪笑<persName key="A003629">陳蒲鞋</persName>，記濟為大樹<!-- 《萬松老人評唱天童覺和尚拈古請益錄》卷1：「穿臨濟為大樹」(CBETA, X67, no. 1307, p. 468, b21) -->；蓋蔭天下人，其根深於土；土
+<lb ed="B" n="0096a17"/>因地道殊，則產人亦異；斯人叩我前，取我授懸記；口占<!-- 口述。《破山禪師語錄》卷19：「信口而號之」(CBETA, J26, no. B177, p. 87, b23) -->而號之，
+<lb ed="B" n="0096a18"/><persName key="A010077">敏樹</persName>亦如是。」<persName key="A010077">敏樹</persName>主慈雲數十年，從化者眾，<persName key="A026305">道隆</persName>尤錚錚者。清
+<lb ed="B" n="0096a19"/>初定鼎燕京，中原略定，<date from-iso="+1659-01-23" key="j23270202327403" to-iso="+1660-02-10"><anchor xml:id="beg_41" type="cb-app"/>己<anchor xml:id="end_41"/>亥之歲</date>始歸三楚。受宜都之請，重興
+<lb ed="B" n="0096a20"/>廢剎，力振青林。更請龍藏，以饟學者。四方緇侶，聞風而集。退居<pb ed="B" xml:id="B27.0151.0096b" n="0096b"/>
+<lb ed="B" n="0096b01"/>紫陵，預知時至，安禪順化。著有《芝秀集》六卷，《芒屩集》六卷行世。</p>
     <linkGrp>
         <link targets="#0096a13 #0096a14"/>
         <ptr target="#A026305" type="person"/>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0389a01shiMiaoYong"><lb
+ed="J" n="0389a01"/><anchor n="J.27.B196.0389a01"/><head>建寧普明<persName key="A010708">鴛湖</persName>禪師行狀</head><p xml:id="pJ27p0389a0101">……<lb
+ed="J" n="0389a03"/>……年十二投興善<lb
+ed="J" n="0389a04"/>寺，禮<persName key="A042724">濟舟</persName>為師。十七薙髮，每念生死無由脫離，往謁<lb
+ed="J" n="0389a05"/>車溪<persName key="A007841">無幻</persName>老人，請益參究之要。即上徑山侍<persName key="A010707">南明</persName>大<lb
+ed="J" n="0389a06"/>師。……<lb
+ed="J" n="0389a17"/>……辛巳冬<lb
+ed="J" n="0389a18"/><persName key="A010693">石雨</persName>和尚，領諸檀懇為開法，師不得已而陞座示眾。<lb
+ed="J" n="0389a19"/>舉揚南大師未了公案，閩中緇素咸仰尊之。廉憲<!-- 廉訪使 --><persName key="A037498">闇<lb
+ed="J" n="0389a20"/>齋黃<roleName>公</roleName></persName>作別，問臨行一句，乞<ref type="person" target="#A010708">師</ref>指示。<ref type="person" target="#A010708">師</ref>云：「三千里外，<lb
+ed="J" n="0389a21"/>逢人不得錯舉。」……</p>
+    <linkGrp>
+        <link targets="#0389a03 #0389a04"/>
+        <ptr target="#A010708" type="person"/>
+        <ptr target="#A042724" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0389a04 #0389a05"/>
+        <ptr target="#A010708" type="person"/>
+        <ptr target="#A007841" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0389a05 #0389a06"/>
+        <ptr target="#A010708" type="person"/>
+        <ptr target="#A010707" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0389a17 #0389a19"/>
+        <ptr target="#A010708" type="person"/>
+        <ptr target="#A010693" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0389a19 #0389a21"/>
+        <ptr target="#A010708" type="person"/>
+        <ptr target="#A037498" type="person"/>
+    </linkGrp>
+</div>

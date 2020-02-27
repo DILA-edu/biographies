@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" type="義解" xml:id="gsz0076a03shiJinXuan"><lb
-ed="B" n="0076a03"/><anchor n="B.27.0151.0076a03"/><head>明雲南雞足山大覺寺沙門<persName key="A013025">釋盡玄</persName>傳<persName type="secondary" key="A012139">幻空</persName></head><lb
-ed="B" n="0076a04"/><p xml:id="pB27p0076a0401"><persName key="A013025">釋盡玄</persName>，字<persName key="A013025">如如</persName>，姓張氏，澂江人也。幼從塾師，頗通文義。因讀《楞<lb
-ed="B" n="0076a05"/>嚴》、《維摩》諸經，即作超塵之想。後從雞足禮<persName key="A012139">幻空</persName>祝髮，矢志參究，<lb
-ed="B" n="0076a06"/>了明宗旨。有問法者，隨機而道，應荅如響。所著《三教直指》、《金剛<lb
-ed="B" n="0076a07"/>定衡》、《性學正宗》諸書行世，剏建拈花寺云。<persName key="A012139">幻空</persName>本北直人，入滇<lb
-ed="B" n="0076a08"/>憇雞足大覺寺，後居迦葉殿、羅漢崖。戒行孤潔，諸方敬仰。更剏<lb
-ed="B" n="0076a09"/>碧雲寺，參窮法旨，四十餘年，大為了悟，語辯如流。時直指<!-- 直指使者， --><persName key="A012929">姜思<lb
-ed="B" n="0076a10"/>睿</persName>企慕高望，入山叩訪。見像縣壁間，身在龕中。因云：「和尚和尚，<lb
-ed="B" n="0076a11"/>業障業障，既在龕中，復在紙上。此則為真，彼則為妄；速道速道，<lb
-ed="B" n="0076a12"/>免喫吾棒。」空應聲曰：「業障業障，豈在和尚，放浪室中，威嚴堂上。<lb
-ed="B" n="0076a13"/>真也非真，妄也非妄，如是此說，請收尊棒。」<persName key="A012929">姜</persName>改容禮之，為建寺<lb
-ed="B" n="0076a14"/>勒碣。</p>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="義解" xml:id="gsz0076a03shiJinXuan">
+<lb ed="B" n="0076a03"/><anchor n="B.27.0151.0076a03"/><head>明雲南雞足山大覺寺沙門<persName key="A013025">釋盡玄</persName>傳<persName type="secondary" key="A012139">幻空</persName></head>
+<lb ed="B" n="0076a04"/><p xml:id="pB27p0076a0401"><persName key="A013025">釋盡玄</persName>，字<persName key="A013025">如如</persName>，姓張氏，澂江人也。幼從塾師，頗通文義。因讀《楞
+<lb ed="B" n="0076a05"/>嚴》、《維摩》諸經，即作超塵之想。後從雞足禮<persName key="A012139">幻空</persName>祝髮，矢志參究，
+<lb ed="B" n="0076a06"/>了明宗旨。有問法者，隨機而道，應荅如響。所著《三教直指》、《金剛
+<lb ed="B" n="0076a07"/>定衡》、《性學正宗》諸書行世，剏建拈花寺云。<persName key="A012139">幻空</persName>本北直人，入滇
+<lb ed="B" n="0076a08"/>憇雞足大覺寺，後居迦葉殿、羅漢崖。戒行孤潔，諸方敬仰。更剏
+<lb ed="B" n="0076a09"/>碧雲寺，參窮法旨，四十餘年，大為了悟，語辯如流。時直指<!-- 直指使者， --><persName key="A012929">姜思
+<lb ed="B" n="0076a10"/>睿</persName>企慕高望，入山叩訪。見像縣壁間，身在龕中。因云：「和尚和尚，
+<lb ed="B" n="0076a11"/>業障業障，既在龕中，復在紙上。此則為真，彼則為妄；速道速道，
+<lb ed="B" n="0076a12"/>免喫吾棒。」空應聲曰：「業障業障，豈在和尚，放浪室中，威嚴堂上。
+<lb ed="B" n="0076a13"/>真也非真，妄也非妄，如是此說，請收尊棒。」<persName key="A012929">姜</persName>改容禮之，為建寺
+<lb ed="B" n="0076a14"/>勒碣。</p>
     <linkGrp>
         <link targets="#0076a05 #0076a06"/>
         <ptr target="#A013025" type="person"/>

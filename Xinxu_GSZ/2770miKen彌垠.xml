@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" type="雜識" xml:id="gsz0470b05shiMiKen"><lb
-ed="B" n="0470b05"/><anchor n="B.27.0151.0470b05"/><head>清金陵靈谷寺沙門<persName key="A042122">釋彌垠</persName>
-傳<persName type="secondary" key="A042123">彌澍</persName></head><lb
-ed="B" n="0470b06"/><p xml:id="pB27p0470b0601"><persName key="A042122">釋彌垠</persName>，字<persName key="A042122">福溪</persName>，吳人。博通經史，事親以孝。<persName key="A043060">盧雅雨</persName>都轉深器重<lb
-ed="B" n="0470b07"/><ref type="person" target="#A042122">之</ref>，延<ref type="person" target="#A042122">之</ref>幕中。觀內典有省，厭俗出家。於牛首山祖堂寺得法<persName key="A042082">祇<lb
-ed="B" n="0470b08"/>園</persName>，繼主靈谷三載。<date from-iso="+1784-01-22" key="j23726742372791" to-iso="+1784-05-18">乾隆甲辰春</date>，<persName key="A006727">高宗</persName>駐蹕寺中，賜《無量壽經》石<lb
-ed="B" n="0470b09"/>刻、娑羅樹如意。寂於靈谷，著有《語錄》、詩集。又<persName key="A042123">彌澍</persName>字<persName key="A042123">滄洪</persName>，德化<lb
-ed="B" n="0470b10"/>人。生有佛緣，幼而聰慧，嘗遊古寺，恍如舊居。祝髮故里，受具華<lb
-ed="B" n="0470b11"/>山，亦參<persName key="A042082">祇園</persName>，嗣<ref type="person" target="#A042082">其</ref>法，為<persName key="A042122">彌垠</persName>同門弟也。初居九江龍池寺，已振<lb
-ed="B" n="0470b12"/>宗風。<date from-iso="+1794-07-27" key="j23765132376601" to-iso="+1794-10-23">乾隆甲寅夏</date>繼席鍾山。篤志清修，不酬俗事。時<persName key="A043061">陳東甫</persName>方<lb
-ed="B" n="0470b13"/>伯慕其雅度，延之入署。<persName key="A042123">澍</persName>辭以偈云：「十年塵夢悟華胥，曾奪驪<lb
-ed="B" n="0470b14"/>龍頷下珠；自入山來皆雪意，更於何處覓紅鑪？好風吹入白雲<lb
-ed="B" n="0470b15"/>關，有約來朝暫出山；不是在山雲懶出，出山那及在山間。」其高<lb
-ed="B" n="0470b16"/>尚如此。主靈谷五載，<date from-iso="+1799-02-05" key="j23781672378255" to-iso="+1799-05-04">嘉慶<anchor xml:id="beg_217" type="cb-app"/>己<anchor xml:id="end_217"/>未春</date>，偶因微疾而寂，年五十八。著<lb
-ed="B" n="0470b17"/>有《語錄》、詩偈。</p>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="雜識" xml:id="gsz0470b05shiMiKen">
+<lb ed="B" n="0470b05"/><anchor n="B.27.0151.0470b05"/><head>清金陵靈谷寺沙門<persName key="A042122">釋彌垠</persName>
+傳<persName type="secondary" key="A042123">彌澍</persName></head>
+<lb ed="B" n="0470b06"/><p xml:id="pB27p0470b0601"><persName key="A042122">釋彌垠</persName>，字<persName key="A042122">福溪</persName>，吳人。博通經史，事親以孝。<persName key="A043060">盧雅雨</persName>都轉深器重
+<lb ed="B" n="0470b07"/><ref type="person" target="#A042122">之</ref>，延<ref type="person" target="#A042122">之</ref>幕中。觀內典有省，厭俗出家。於牛首山祖堂寺得法<persName key="A042082">祇
+<lb ed="B" n="0470b08"/>園</persName>，繼主靈谷三載。<date from-iso="+1784-01-22" key="j23726742372791" to-iso="+1784-05-18">乾隆甲辰春</date>，<persName key="A006727">高宗</persName>駐蹕寺中，賜《無量壽經》石
+<lb ed="B" n="0470b09"/>刻、娑羅樹如意。寂於靈谷，著有《語錄》、詩集。又<persName key="A042123">彌澍</persName>字<persName key="A042123">滄洪</persName>，德化
+<lb ed="B" n="0470b10"/>人。生有佛緣，幼而聰慧，嘗遊古寺，恍如舊居。祝髮故里，受具華
+<lb ed="B" n="0470b11"/>山，亦參<persName key="A042082">祇園</persName>，嗣<ref type="person" target="#A042082">其</ref>法，為<persName key="A042122">彌垠</persName>同門弟也。初居九江龍池寺，已振
+<lb ed="B" n="0470b12"/>宗風。<date from-iso="+1794-07-27" key="j23765132376601" to-iso="+1794-10-23">乾隆甲寅夏</date>繼席鍾山。篤志清修，不酬俗事。時<persName key="A043061">陳東甫</persName>方
+<lb ed="B" n="0470b13"/>伯慕其雅度，延之入署。<persName key="A042123">澍</persName>辭以偈云：「十年塵夢悟華胥，曾奪驪
+<lb ed="B" n="0470b14"/>龍頷下珠；自入山來皆雪意，更於何處覓紅鑪？好風吹入白雲
+<lb ed="B" n="0470b15"/>關，有約來朝暫出山；不是在山雲懶出，出山那及在山間。」其高
+<lb ed="B" n="0470b16"/>尚如此。主靈谷五載，<date from-iso="+1799-02-05" key="j23781672378255" to-iso="+1799-05-04">嘉慶<anchor xml:id="beg_217" type="cb-app"/>己<anchor xml:id="end_217"/>未春</date>，偶因微疾而寂，年五十八。著
+<lb ed="B" n="0470b17"/>有《語錄》、詩偈。</p>
     <linkGrp>
         <link targets="#0470b06 #0470b07"/>
         <ptr target="#A042122" type="person"/>

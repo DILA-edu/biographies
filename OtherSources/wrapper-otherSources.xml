@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="zh-Hant">其他資料</title>
+          <title xml:lang="en">Other sources for nexus points</title>
+        </title>       
+        <respStmt><resp>Encoding, Markup</resp><name>Chang, Po-Yung張伯雍</name></respStmt>
+        <principal>Marcus Bingenheimer</principal>
+      </titleStmt>      
+      <publicationStmt>    
+        <publisher>Dharma Drum 法鼓山</publisher>
+        <pubPlace>Jinshan, Taiwan 臺灣新北市金山區</pubPlace>  
+        <availability status="free"><p>This electronic text is distributed by Dharma Drum 法鼓山 under a <ref target="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share-Alike Licence Version 3.0</ref>.</p>
+        </availability>
+        <date>2019-</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Text Base is the CBETA edition of the Chinese Buddhist Canon (Version 2019)</p>
+      </sourceDesc>
+    </fileDesc>    
+    
+  </teiHeader>
+  <text>
+    <body>
+      <!-- Numbering in filenames  -->
+      <xi:include href="X79n1562_GuangZhen廣真.xml"/>
+      <xi:include href="X80n1566_MingXue明雪.xml"/>
+      <xi:include href="X82n1571_DaYin大音.xml"/>
+      <xi:include href="X82n1571_DaoBai道白.xml"/>
+      <xi:include href="X82n1571_XingJing行靜.xml"/>
+      <xi:include href="X84n1583_MingYu明盂.xml"/>
+      <xi:include href="X85n1590_RuXiang如相.xml"/>
+      <xi:include href="X86n1596_HongChu弘儲.xml"/>
+      <xi:include href="X87n1626_XingYuan行元.xml"/>
+      <xi:include href="L158n1652_XingCong性聰.xml"/>
+      <xi:include href="J26nB182_TongWei通微.xml"/>
+      <xi:include href="J26nB186_TongQi通奇.xml"/>
+      <xi:include href="J27nB189_MingYu明盂.xml"/>
+      <xi:include href="J27nB196_MiaoYong妙用.xml"/>
+      <xi:include href="J29nB233_WuJin悟進.xml"/>
+      <xi:include href="J29nB237_CheLiao徹了.xml"/>
+      <xi:include href="J36nB364_XingWen行聞.xml"/>
+      <xi:include href="J36nB369_JingFan淨範.xml"/>
+      <xi:include href="J37nB384_XingXi行喜.xml"/>
+      <xi:include href="J38nB414_ZhenZai真在.xml"/>
+      <xi:include href="J38nB415_ZhenXiong真雄.xml"/>
+      <xi:include href="J38nB417_JiNeng機能.xml"/>
+      <xi:include href="J38nB422_LinWo林我.xml"/>
+      <xi:include href="J39nB457_BenZhen本真.xml"/>
+    </body>
+  </text>
+</TEI>

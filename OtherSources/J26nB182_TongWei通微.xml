@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0440c11shiTongWei"><lb
+ed="J" n="0440c11"/><anchor n="J.26.B182.0440c11"/><head>荊溪<persName key="A012040">龍池</persName>老和尚列傳</head><lb
+ed="J" n="0440c12"/><p xml:id="pJ26p0440c1201">檇李<persName key="A020627">嚴大參</persName>呂嘉祐仝校正<lb
+ed="J" n="0440c13"/><lb
+ed="J" n="0440c14"/>師浙之禾郡秀水張氏子也，諱<persName key="A012040">通微</persName>，號<persName key="A012040">萬如</persName>。……<lb
+ed="J" n="0440c16"/>……年十九投郡南興善寺禮<persName key="A042751">涵初</persName>公脫白，後參方<lb
+ed="J" n="0440c17"/>受具戒。……<lb
+ed="J" n="0440c19"/>……往參<persName key="A005648">湛然澄</persName>和尚，問無夢無想話。……<lb
+ed="J" n="0440c22"/>……是時<lb
+ed="J" n="0440c23"/><persName key="A003688">密雲</persName>師翁住鹽官金粟寺，<ref type="person" target="#A012040">師</ref>造其室。……<lb
+ed="J" n="0441a04"/>……有居士<persName key="A042752">黃清伯</persName>者，與<ref type="person" target="#A012040">師</ref>道契日深，遂鳩資買民<lb
+ed="J" n="0441a05"/>屋，易名桐月菴，遷<ref type="person" target="#A012040">師</ref>居之。……<lb
+ed="J" n="0441a09"/>……居三載，四方耆宿咸來咨決於<ref type="person" target="#A012040">師</ref>。<ref type="person" target="#A012040">師</ref>每<lb
+ed="J" n="0441a10"/>卻席以待。如杭郡司李<persName key="A003794">端伯黃<roleName>公</roleName></persName>，臨禾必問道於<ref type="person" target="#A012040">師</ref>，<lb
+ed="J" n="0441a11"/>機緣載語錄中。……<lb
+ed="J" n="0441a12"/>……崇<lb
+ed="J" n="0441a13"/>禎乙亥冬<persName key="A003688">天童</persName>老人七十大慶，<ref type="person" target="#A012040">師</ref>懷香拜祝……<lb
+ed="J" n="0441a25"/>……歲丁丑<persName key="A037498">履素黃<roleName>公</roleName>承昊</persName><lb
+ed="J" n="0441a26"/>致書迎<ref type="person" target="#A012040">師</ref>歸舊隱，<ref type="person" target="#A003688">翁</ref>遂授<ref type="person" target="#A012040">師</ref>大法之囑。因山主<persName key="A037498">履素</persName><lb
+ed="J" n="0441a27"/>別號<persName key="A037498">如如居士</persName>，故欣然書如如菴匾額。是以改桐月<lb
+ed="J" n="0441a28"/>為如如菴也。……<lb
+ed="J" n="0441b08"/>其間其骨塔遺頹，<persName key="A000273">幻</persName>祖在日，囑遷共一塔焉！有憑虛<lb
+ed="J" n="0441b09"/>閣、避暑窟尚在，餘廢莫知其代，迄神廟間林壑寥落。<lb
+ed="J" n="0441b10"/>于時有毘陵<persName key="A042753">唐<roleName>太常</roleName>凝菴</persName>公者居京師，問道於<persName key="A000273">幻</persName>祖<lb
+ed="J" n="0441b11"/>機契，執弟子禮。遂延祖南來，卜居于此，即今下龍池<lb
+ed="J" n="0441b12"/>是也。……</p>
+    <linkGrp>
+        <link targets="#0440c14 #0440c16"/>
+        <ptr target="#A012040" type="person"/>
+        <ptr target="#A042751" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0440c19 #0440c19"/>
+        <ptr target="#A012040" type="person"/>
+        <ptr target="#A005648" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0440c22 #0440c23"/>
+        <ptr target="#A012040" type="person"/>
+        <ptr target="#A003688" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0441a04 #0441a05"/>
+        <ptr target="#A012040" type="person"/>
+        <ptr target="#A042752" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0441a10 #0441a11"/>
+        <ptr target="#A012040" type="person"/>
+        <ptr target="#A003794" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0441a13 #0441a13"/>
+        <ptr target="#A012040" type="person"/>
+        <ptr target="#A003688" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0441a25 #0441a28"/>
+        <ptr target="#A012040" type="person"/>
+        <ptr target="#A003688" type="person"/>
+        <ptr target="#A037498" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0441b08 #0441b12"/>
+        <ptr target="#A000273" type="person"/>
+        <ptr target="#A042753" type="person"/>
+    </linkGrp>
+</div>

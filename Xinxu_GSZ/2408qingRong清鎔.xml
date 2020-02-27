@@ -1,25 +1,25 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" type="護法" xml:id="gsz0276b07shiQingRong"><lb
-ed="B" n="0276b07"/><anchor n="B.27.0151.0276b07"/><head>清常州天寧寺沙門<persName key="A019707">釋清鎔</persName>傳</head><lb
-ed="B" n="0276b08"/><p xml:id="pB27p0276b0801"><persName key="A019707">釋清鎔</persName>，字<persName key="A019707">冶開</persName>，姓許氏，江都人。生含素性，不食莙羶。<ref type="date" target="#j24011712401554">年十一</ref>出<lb
-ed="B" n="0276b09"/>家，初習經偈，了明詞義，氣宇灑落。其師祖<persName key="A042822">蓮庵</persName>知非凡器，遇之<lb
-ed="B" n="0276b10"/>獨厚。<persName key="A019707">鎔</persName>亦感其恩德，情諠懇至。後結茅終南，一夕定中若有告<lb
-ed="B" n="0276b11"/>者曰：「爾<persName key="A042822">蓮</persName>祖憊矣！」驚<g ref="#CB24336">𧦝</g>而省，貿然下山，行四十八日始達維揚。<lb
-ed="B" n="0276b12"/>入寺，其舊侶謂之曰：「<ref type="person" target="#A019707">汝</ref>歸耶！<ref type="person" target="#A042822">師祖</ref>疾亟，日夜呼<ref type="person" target="#A019707">汝</ref>名也。」其時有<lb
-ed="B" n="0276b13"/>先<persName key="A019707">開</persName>行者，後<persName key="A019707">開</persName><anchor xml:id="beg027601"/><choice><sic resp="CBETA">二</sic><corr resp="PC-MB">三</corr></choice><anchor xml:id="end027601"/>日乃至，問何行之速？中途胡不遇？<persName key="A019707">開</persName>亦惘然，<lb
-ed="B" n="0276b14"/>莫識所以。但覺聞神語，即發腳專志覲<persName key="A042822">蓮</persName>，念念不捨，雖行四十<lb
-ed="B" n="0276b15"/>餘日，猶旦暮耳！<persName key="A042822">蓮</persName>見<persName key="A019707">鎔</persName>還甚喜，而病尋愈。<persName key="A019707">鎔</persName>少時詣常之天寧，<lb
-ed="B" n="0276b16"/>信宿而去。踰歲再至，入禪堂有悟，庵留五載，欲切參究，不滯聲<lb
-ed="B" n="0276b17"/>聞。飄然遠舉，汛覽名山。<ref type="date" target="#j24110342411388">年三十八</ref>復來天寧，再易寒暑，遂繼主<lb
-ed="B" n="0276b18"/>席。自是造殿修塔，應念而成。勤劬九秋，因病告退。而皈依日眾，<lb
-ed="B" n="0276b19"/>隨意宣示，一切平等，終日無倦。後住杭之靈隱，特起大殿，使人<lb
-ed="B" n="0276b20"/>敬仰。復於上海玉佛寺剏念佛堂，以弘蓮化。會時事改革，學風<pb ed="B" xml:id="B27.0151.0277a" n="0277a"/><lb
-ed="B" n="0277a01"/>披靡，屢攘寺產以闢校舍。常州天寧昔號完富，尤為人所窺伺。<lb
-ed="B" n="0277a02"/>乃善意所孚，鴞聲丕變，卒保無事，神之佑也，<persName key="A019707">鎔</persName>之誠也。<date from-iso="+1919-02-01" key="j24219912422374" to-iso="+1920-02-19"><anchor xml:id="beg027701"/><choice><sic resp="CBETA">已</sic><corr resp="PC-MB">己</corr></choice><anchor xml:id="end027701"/>未</date>北<lb
-ed="B" n="0277a03"/>方苦潦，<persName key="A019707">開</persName>沿塗託盋，籌訾濟賑，全活無算。<ref type="date" target="#j24223252422690">明年</ref>苦旱，<persName key="A019707">開</persName>復募金，<lb
-ed="B" n="0277a04"/>一再濟之，勞不告疲。人或勞之，則曰：「此本分事，何足道。」以<date when-iso="+1923-01-06" key="j24234262423426">壬<anchor xml:id="beg_135" type="cb-app"/>戌<anchor xml:id="end_135"/><lb
-ed="B" n="0277a05"/>十一月二十日</date>示寂，年七十一，臘六十。弟子<persName key="A042823">顯澈</persName>裒其事實、年<lb
-ed="B" n="0277a06"/>譜，<persName key="A042824">莊蘊寬</persName>為之傳，文諠斐然，見重當世。</p>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="護法" xml:id="gsz0276b07shiQingRong">
+<lb ed="B" n="0276b07"/><anchor n="B.27.0151.0276b07"/><head>清常州天寧寺沙門<persName key="A019707">釋清鎔</persName>傳</head>
+<lb ed="B" n="0276b08"/><p xml:id="pB27p0276b0801"><persName key="A019707">釋清鎔</persName>，字<persName key="A019707">冶開</persName>，姓許氏，江都人。生含素性，不食<anchor xml:id="beg027601"/><choice><sic resp="CBETA">莙</sic><corr resp="PC-MB">蔒</corr></choice><anchor xml:id="end027601"/><!-- 通「葷」 -->羶。<ref type="date" target="#j24011712401554">年十一</ref>出
+<lb ed="B" n="0276b09"/>家，初習經偈，了明詞義，氣宇灑落。其師祖<persName key="A042822">蓮庵</persName>知非凡器，遇之
+<lb ed="B" n="0276b10"/>獨厚。<persName key="A019707">鎔</persName>亦感其恩德，情諠懇至。後結茅終南，一夕定中若有告
+<lb ed="B" n="0276b11"/>者曰：「爾<persName key="A042822">蓮</persName>祖憊矣！」驚<g ref="#CB24336">𧦝</g>而省，貿然下山，行四十八日始達維揚。
+<lb ed="B" n="0276b12"/>入寺，其舊侶謂之曰：「<ref type="person" target="#A019707">汝</ref>歸耶！<ref type="person" target="#A042822">師祖</ref>疾亟，日夜呼<ref type="person" target="#A019707">汝</ref>名也。」其時有
+<lb ed="B" n="0276b13"/>先<persName key="A019707">開</persName>行者，後<persName key="A019707">開</persName><anchor xml:id="beg027603"/><choice><sic resp="CBETA">二</sic><corr resp="PC-MB">三</corr></choice><anchor xml:id="end027603"/>日乃至，問何行之速？中途胡不遇？<persName key="A019707">開</persName>亦惘然，
+<lb ed="B" n="0276b14"/>莫識所以。但覺聞神語，即發腳專志覲<persName key="A042822">蓮</persName>，念念不捨，雖行四十
+<lb ed="B" n="0276b15"/>餘日，猶旦暮耳！<persName key="A042822">蓮</persName>見<persName key="A019707">鎔</persName>還甚喜，而病尋愈。<persName key="A019707">鎔</persName>少時詣常之天寧，
+<lb ed="B" n="0276b16"/>信宿而去。踰歲再至，入禪堂有悟，庵留五載，欲切參究，不滯聲
+<lb ed="B" n="0276b17"/>聞。飄然遠舉，汛覽名山。<ref type="date" target="#j24110342411388">年三十八</ref>復來天寧，再易寒暑，遂繼主
+<lb ed="B" n="0276b18"/>席。自是造殿修塔，應念而成。勤劬九秋，因病告退。而皈依日眾，
+<lb ed="B" n="0276b19"/>隨意宣示，一切平等，終日無倦。後住杭之靈隱，特起大殿，使人
+<lb ed="B" n="0276b20"/>敬仰。復於上海玉佛寺剏念佛堂，以弘蓮化。會時事改革，學風<pb ed="B" xml:id="B27.0151.0277a" n="0277a"/>
+<lb ed="B" n="0277a01"/>披靡，屢攘寺產以闢校舍。常州天寧昔號完富，尤為人所窺伺。
+<lb ed="B" n="0277a02"/>乃善意所孚，鴞聲丕變，卒保無事，神之佑也，<persName key="A019707">鎔</persName>之誠也。<date from-iso="+1919-02-01" key="j24219912422374" to-iso="+1920-02-19"><anchor xml:id="beg027701"/><choice><sic resp="CBETA">已</sic><corr resp="PC-MB">己</corr></choice><anchor xml:id="end027701"/>未</date>北
+<lb ed="B" n="0277a03"/>方苦潦，<persName key="A019707">開</persName>沿塗託盋，籌訾濟賑，全活無算。<ref type="date" target="#j24223252422690">明年</ref>苦旱，<persName key="A019707">開</persName>復募金，
+<lb ed="B" n="0277a04"/>一再濟之，勞不告疲。人或勞之，則曰：「此本分事，何足道。」以<date when-iso="+1923-01-06" key="j24234262423426">壬<anchor xml:id="beg_135" type="cb-app"/>戌<anchor xml:id="end_135"/>
+<lb ed="B" n="0277a05"/>十一月二十日</date>示寂，年七十一，臘六十。弟子<persName key="A042823">顯澈</persName>裒其事實、年
+<lb ed="B" n="0277a06"/>譜，<persName key="A042824">莊蘊寬</persName>為之傳，文諠斐然，見重當世。</p>
     <linkGrp>
         <link targets="#0276b09 #0276b15"/>
         <ptr target="#A019707" type="person"/>

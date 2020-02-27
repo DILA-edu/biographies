@@ -1,26 +1,26 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" type="護法" xml:id="gsz0274b10shiHuaShan"><lb
-ed="B" n="0274b10"/><anchor n="B.27.0151.0274b10"/><head>清樂清白鶴寺沙門<persName key="A022565">釋華山</persName>傳</head><lb
-ed="B" n="0274b11"/><p xml:id="pB27p0274b1101"><persName key="A022565">釋華山</persName>，字<persName key="A022565">雲泉</persName>，姓陳氏，樂清人也。生有奇資，氣宇清峻。<ref type="date" target="#j24066642407017">十歲</ref>出<lb
-ed="B" n="0274b12"/>家於雙獅山淨濟寺，禮<persName key="A042810">允參</persName>度為沙彌。初習教乘，敏慧天鍾。<date from-iso="+1885-02-15" key="j24095882409941" to-iso="+1886-02-03">光<lb
-ed="B" n="0274b13"/>緒十一年</date>聽<persName key="A042811">大海</persName>講《彌陀疏鈔》，輒能依所聞義，對眾敷演，時年<lb
-ed="B" n="0274b14"/>近志學，人多驚歎。後得戒于明因寺<persName key="A042457">寶祥</persName>，遂游學明州廣利寺，<lb
-ed="B" n="0274b15"/>從<persName key="A000432">曉柔</persName>、<persName key="A042812">妙智</persName>二師習天台，於弘綱要旨，了然解悟。梵唄之暇，兼<lb
-ed="B" n="0274b16"/>嗜文學，吟詠山水，自適性情，尤善繪事。中歲徧游名勝，歷躡講<lb
-ed="B" n="0274b17"/>筵，所至之域，靡然從風，道譽日隆。顧操行刻厲，不欲以辯慧自<lb
-ed="B" n="0274b18"/>見。嘗閉關于淨濟寺，忽焉三載，又結茅天台深處，不入塵市者<lb
-ed="B" n="0274b19"/>幾易寒暑。<date from-iso="+1906-01-25" key="j24172362417324" to-iso="+1906-04-23">三十二年春</date>講《妙法華經》於臺南五峯流慶寺。已而<lb
-ed="B" n="0274b20"/>言旋東甌，復奄關於法華寺。會世變方棘，學風日壞，僧綱不振。<pb ed="B" xml:id="B27.0151.0275a" n="0275a"/><lb
-ed="B" n="0275a01"/>州縣競立新學，往往假佛寺為校，提僧產充之。而緇林騷然，始<lb
-ed="B" n="0275a02"/>謀自保。<persName key="A022565">山</persName>方厭棄牙慧，研窮玄理，博極中外哲學羣書——宗教典<lb
-ed="B" n="0275a03"/>籍、天文、格致、唯物、唯心諸學說——靡弗貫通會。彼萬殊融入佛乘，<lb
-ed="B" n="0275a04"/>故發論錚錚，羣相折服。始得請於學部行省，自設僧學，立佛教<lb
-ed="B" n="0275a05"/>會。前所侵借，率多歸返，<persName key="A022565">山</persName>啟之也。<date from-iso="+1910-02-10" key="j24187132418800" to-iso="+1910-05-08">宣統二年春</date>講經于靈隱，未<lb
-ed="B" n="0275a06"/>幾為<persName key="A001825">諦閑</persName>要任佛學編輯。而浙西當湖寶塔寺，本<persName key="A022565">山</persName>提倡淨宗<lb
-ed="B" n="0275a07"/>者，又請講《彌陀疏鈔》，法雨繽紛，席不暇暖。後因興復鄉寺，重修<lb
-ed="B" n="0275a08"/>白鶴，改為叢林。不數年果於荒煙中，化為寶坊。佛光道聲，與東<lb
-ed="B" n="0275a09"/>南諸名剎相暉映。而<persName key="A022565">山</persName>竟超然善去，功修俱圓。蓋寂於<date when-iso="+1918-10-24" key="j24218912421891">戊午九<lb
-ed="B" n="0275a10"/>月二十日</date>也。著有《卍雲詩稿》一卷，為當代詞家所稱賞云。</p>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="護法" xml:id="gsz0274b10shiHuaShan">
+<lb ed="B" n="0274b10"/><anchor n="B.27.0151.0274b10"/><head>清樂清白鶴寺沙門<persName key="A022565">釋華山</persName>傳</head>
+<lb ed="B" n="0274b11"/><p xml:id="pB27p0274b1101"><persName key="A022565">釋華山</persName>，字<persName key="A022565">雲泉</persName>，姓陳氏，樂清人也。生有奇資，氣宇清峻。<ref type="date" target="#j24066642407017">十歲</ref>出
+<lb ed="B" n="0274b12"/>家於雙獅山淨濟寺，禮<persName key="A042810">允參</persName>度為沙彌。初習教乘，敏慧天鍾。<date from-iso="+1885-02-15" key="j24095882409941" to-iso="+1886-02-03">光
+<lb ed="B" n="0274b13"/>緒十一年</date>聽<persName key="A042811">大海</persName>講《彌陀疏鈔》，輒能依所聞義，對眾敷演，時年
+<lb ed="B" n="0274b14"/>近志學，人多驚歎。後得戒于明因寺<persName key="A042457">寶祥</persName>，遂游學明州廣利寺，
+<lb ed="B" n="0274b15"/>從<persName key="A000432">曉柔</persName>、<persName key="A042812">妙智</persName>二師習天台，於弘綱要旨，了然解悟。梵唄之暇，兼
+<lb ed="B" n="0274b16"/>嗜文學，吟詠山水，自適性情，尤善繪事。中歲徧游名勝，歷躡講
+<lb ed="B" n="0274b17"/>筵，所至之域，靡然從風，道譽日隆。顧操行刻厲，不欲以辯慧自
+<lb ed="B" n="0274b18"/>見。嘗閉關于淨濟寺，忽焉三載，又結茅天台深處，不入塵市者
+<lb ed="B" n="0274b19"/>幾易寒暑。<date from-iso="+1906-01-25" key="j24172362417324" to-iso="+1906-04-23">三十二年春</date>講《妙法華經》於臺南五峯流慶寺。已而
+<lb ed="B" n="0274b20"/>言旋東甌，復奄關於法華寺。會世變方棘，學風日壞，僧綱不振。<pb ed="B" xml:id="B27.0151.0275a" n="0275a"/>
+<lb ed="B" n="0275a01"/>州縣競立新學，往往假佛寺為校，提僧產充之。而緇林騷然，始
+<lb ed="B" n="0275a02"/>謀自保。<persName key="A022565">山</persName>方厭棄牙慧，研窮玄理，博極中外哲學羣書——宗教典
+<lb ed="B" n="0275a03"/>籍、天文、格致、唯物、唯心諸學說——靡弗貫通會。彼萬殊融入佛乘，
+<lb ed="B" n="0275a04"/>故發論錚錚，羣相折服。始得請於學部行省，自設僧學，立佛教
+<lb ed="B" n="0275a05"/>會。前所侵借，率多歸返，<persName key="A022565">山</persName>啟之也。<date from-iso="+1910-02-10" key="j24187132418800" to-iso="+1910-05-08">宣統二年春</date>講經于靈隱，未
+<lb ed="B" n="0275a06"/>幾為<persName key="A001825">諦閑</persName>要任佛學編輯。而浙西當湖寶塔寺，本<persName key="A022565">山</persName>提倡淨宗
+<lb ed="B" n="0275a07"/>者，又請講《彌陀疏鈔》，法雨繽紛，席不暇暖。後因興復鄉寺，重修
+<lb ed="B" n="0275a08"/>白鶴，改為叢林。不數年果於荒煙中，化為寶坊。佛光道聲，與東
+<lb ed="B" n="0275a09"/>南諸名剎相暉映。而<persName key="A022565">山</persName>竟超然善去，功修俱圓。蓋寂於<date when-iso="+1918-10-24" key="j24218912421891">戊午九
+<lb ed="B" n="0275a10"/>月二十日</date>也。著有《卍雲詩稿》一卷，為當代詞家所稱賞云。</p>
     <linkGrp>
         <link targets="#0274b11 #0274b12"/>
         <ptr target="#A022565" type="person"/>

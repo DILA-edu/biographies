@@ -1,44 +1,44 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0416b10shiHongLi"><lb
-ed="B" n="0416b10"/><anchor n="B.27.0151.0416b10"/><head>清杭州靈隱寺沙門<persName key="A016082">釋弘禮</persName>傳<persName type="secondary" key="A004077">戒顯</persName><persName type="secondary" key="A026581">濟玹</persName></head><lb
-ed="B" n="0416b11"/><p xml:id="pB27p0416b1101"><persName key="A016082">釋弘禮</persName><!-- 參《五燈全書》X82n1571_p0329b03 -->，字<persName key="A016082">具德</persName>，姓<name>張</name>氏，<placeName key="PL000000013252">紹興</placeName>人。初為鍛工，好與黃冠游。有<placeName>紫陽<lb
-ed="B" n="0416b12"/>洞</placeName><persName key="A042486">蘇<roleName>道者</roleName></persName>教以息養方本<!-- 醫方書籍 -->、《天台小止觀》，與《首楞嚴》合，因讀是經<lb
-ed="B" n="0416b13"/>而發正信。投<placeName>普陀寶華庵</placeName><persName key="A042487">仲雅</persName>祝髮。既受具，乃參<placeName key="PL000000010129">三峰</placeName><persName key="A003668">漢月藏</persName><lb
-ed="B" n="0416b14"/>禪師，因承記莂，授以臨濟正宗。是宗在<date notBefore-iso="+1368-01-31" key="j22207422245965" notAfter-iso="+1437-02-21"><name>明</name>初</date>法運中微，<persName key="A003668">漢月</persName>初<lb
-ed="B" n="0416b15"/>從折竹洞悟，徹盡法淵，後乃得源流於<persName key="A003688">金粟悟</persName>。而其始終加護<lb
-ed="B" n="0416b16"/>者，則在綱宗<!-- 參X65n1283_p0327a01 -->。綱宗者，全提五家宗旨；而於臨濟則從一句中分<lb
-ed="B" n="0416b17"/><anchor xml:id="beg041601"/><choice><sic resp="CBETA">寶</sic><corr resp="PC-MB">賓</corr></choice><anchor xml:id="end041601"/>主、玄要、照用<!-- 《宗範》卷2：「若臨濟家人法照用賓主四喝三玄要。」(CBETA, X65, no. 1283, p. 327, a6-7) -->。堂奧森嚴，使學者不滯鑑覺，洞抉佛祖心髓。<persName key="A016082">弘<lb
-ed="B" n="0416b18"/>禮</persName>聞之，亟往參叩。時<persName key="A003668">漢</persName>開法<placeName key="PL000000011823">安隱</placeName>，以本來面目示之，苦求未得。<lb
-ed="B" n="0416b19"/>偶窺鏡見影，被同侶一推，猛然有省。由是精進，服勤左右，歷<placeName key="PL000000010129">三<lb
-ed="B" n="0416b20"/>峰</placeName>、<placeName key="PL000000010085">鄧尉</placeName>者，十有七載。徹悟宗旨，遂承衣拂。<persName key="A003668">三峰</persName>既歿，同參<persName key="A016073">潭吉<pb ed="B" xml:id="B27.0151.0417a" n="0417a"/><lb
-ed="B" n="0417a01"/>忍</persName>著《五宗救》，<persName key="A016082">弘禮</persName>贊助居多。書成而闡揚綱宗，<persName key="A003668">三峰</persName>道法始曉<lb
-ed="B" n="0417a02"/>然於天下。雖當時辨難<persName key="A003668">三峰</persName>者，持論不無異同，是書一出，淆譌<lb
-ed="B" n="0417a03"/>立判矣！<persName key="A016073">潭</persName>又告寂，<persName key="A016082">弘禮</persName>歸隱<placeName key="PL000000013282">雲門</placeName>。御史<persName key="A042488">念臺劉<roleName>公</roleName></persName>請主<placeName key="PL000000013295">廣孝寺</placeName><lb
-ed="B" n="0417a04"/>陶鍊學人，名動諸方。繼遷<placeName key="PL000000011823">安隱</placeName>、<placeName>顯寧</placeName>。復應<placeName key="PL000000000150">江</placeName>北請說法<placeName key="PL000000011188">泰興</placeName>之<lb
-ed="B" n="0417a05"/><placeName key="PL000000011176">慶雲</placeName>、<placeName key="PL000000010920">秦郵</placeName>之<placeName key="PL000000010901">地藏</placeName>、<placeName key="PL000000010787">維揚</placeName>之<placeName key="PL000000010767">天寧</placeName>。嗣居<placeName key="PL000000011800">佛日</placeName>、<placeName key="PL000000011596">靈隱</placeName>、<placeName>會稽華嚴</placeName>、<placeName key="PL000000011848">徑山</placeName>，<lb
-ed="B" n="0417a06"/>先後十坐道場，開大法門，雷震海內。在<placeName key="PL000000010767">天寧</placeName>日，湖海浩歸，衲侶<lb
-ed="B" n="0417a07"/>犇奏，所謂「五千衲子下<placeName key="PL000000010787">揚州</placeName>」者，紀其實也。<placeName key="PL000000011596">靈隱</placeName>方興巨工，事同<lb
-ed="B" n="0417a08"/>開剏。大殿火，重新之，施者坌集。購大木於深山，人力罕致。一夕<lb
-ed="B" n="0417a09"/>雷雨，暴洪汛漲，浮湧畢達。缺一石礎，感神示夢，因之募得。故功<lb
-ed="B" n="0417a10"/>成鉅麗，甲於天下。又以其餘葺<placeName key="PL000000011305">浙</placeName>之<placeName key="PL000000013295">廣孝</placeName>、<placeName key="PL000000011823">安隱</placeName>、<placeName key="PL000000011631">法相</placeName>、<placeName key="PL000000012232">靈峰</placeName>諸寺。<lb
-ed="B" n="0417a11"/>而<placeName key="PL000000011848">徑山</placeName>頻以興復請，乃以<placeName key="PL000000011596">靈隱</placeName>付其徒<persName key="A004077">晦山</persName>，而自往<placeName key="PL000000011848">徑山</placeName>將興<lb
-ed="B" n="0417a12"/>法席。為弟子<persName key="A016179">巨渤</persName>封塔，再至<placeName key="PL000000010767">天寧</placeName>。臨行機語，皆似息機投老<!-- 臨老、告老 -->者。<lb
-ed="B" n="0417a13"/>既至七日，刻晷<!-- 指時光短暫 -->為筵，熱香禮佛。五鼓易衣，端然坐逝，時<date when-iso="+1667-12-04" key="j23302572330257"><name>康熙</name>丁<lb
-ed="B" n="0417a14"/>未十月十九日</date>也。壽六十八，僧臘四十七，塔於<placeName key="PL000000011596">靈隱慧日軒</placeName>。<persName key="A009981">吳<lb
-ed="B" n="0417a15"/>梅村<roleName>祭酒</roleName>偉業</persName>為之銘。著有《弘宗說》、《正訛說》二書。弟子<persName key="A004077">晦山戒<lb
-ed="B" n="0417a16"/>顯</persName>，<placeName key="PL000000010279">太倉</placeName><name>王</name>氏子。弱齡游泮<!-- 經州縣考取為生員者，就讀於學宮。 -->，有聲<!-- 著稱 -->庠序。<date from-iso="+1644-02-08" key="j23215572321911" to-iso="+1645-01-27">甲申</date>之難，作文告廟，入<placeName key="PL000000008891">金<lb
-ed="B" n="0417a17"/>陵</placeName>禮<persName key="A001028">三昧</persName>祝法受具，參<persName key="A001513">天童</persName>、<persName key="A001408">雪橋</persName>。遇<placeName key="PL000000011596">靈隱</placeName><persName key="A016082">弘禮</persName>於<placeName key="PL000000011524">皋亭</placeName>，大悟。<persName key="A016082">雲<lb
-ed="B" n="0417a18"/>門</persName>拄杖諙<!-- 通「譮」，悟、怒聲。 -->，遂得法。初隱<placeName key="PL000000018775">廬山</placeName>，開法<placeName key="PL000000018914">雲居</placeName>，歷主<placeName>東湖薦福</placeName>、<placeName key="PL000000028114">黃梅四<lb
-ed="B" n="0417a19"/>祖</placeName>、<placeName>臨皋安國</placeName>、<placeName key="PL000000027389">武昌寒溪</placeName>、<placeName key="PL000000027950">荊州護國</placeName>、<placeName key="PL000000019973">撫州疏山</placeName>。化行<placeName key="PL000000055646">江</placeName><placeName key="PL000000026395">楚</placeName>，道望大<lb
-ed="B" n="0417a20"/>著。所至興建，不後其師。<date from-iso="+1667-01-24" key="j23299432330326" to-iso="+1668-02-11"><name>康熙</name>丁未</date>繼席<placeName key="PL000000011596">靈隱</placeName>，著有《禪門鍛鍊說》<pb ed="B" xml:id="B27.0151.0417b" n="0417b"/><lb
-ed="B" n="0417b01"/>十三篇、《現果錄》、《佛法本草》及語錄詩文集若干卷。又<persName key="A026581">五嶽濟玹</persName><lb
-ed="B" n="0417b02"/>者，古<placeName key="PL000000013249">越</placeName><name>吳</name>氏子，亦<persName key="A016082">弘禮</persName>弟子。生時人聞空中音樂，三歲誦《心經》<lb
-ed="B" n="0417b03"/>如宿記。成童出家，依<placeName key="PL000000011549">石屋</placeName>。年十七遊方，登講肆，詞如瓶瀉。受具<lb
-ed="B" n="0417b04"/><persName key="A001513">天童</persName>，密參西來大意，便有入處。歸<placeName>越沙溪</placeName>，將盥，觸翻水盆，得大<lb
-ed="B" n="0417b05"/>灑脫。出而遍叩，謁<persName key="A016082">弘禮</persName>於<placeName>顯寧</placeName>，遂授以法。其倡化諸剎，皆<persName key="A026581">玹</persName>佐<lb
-ed="B" n="0417b06"/>揚之力為多。出世<placeName key="PL000000011823">安隱</placeName>，遇火，重興之。道譽流聞，相率敦請。如<placeName key="PL000000012915">福<lb
-ed="B" n="0417b07"/>善</placeName>、<placeName>夕照</placeName>、<placeName>隆平</placeName>諸剎，先後戾止，津梁不倦。及<placeName key="PL000000011596">靈隱</placeName>虛席，遂補其處。<lb
-ed="B" n="0417b08"/>振緒飭綱，紹芳先哲。<persName key="A042489">和碩康親王</persName>慕其高範敬禮有加焉！</p>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0416b10shiHongLi">
+<lb ed="B" n="0416b10"/><anchor n="B.27.0151.0416b10"/><head>清杭州靈隱寺沙門<persName key="A016082">釋弘禮</persName>傳<persName type="secondary" key="A004077">戒顯</persName><persName type="secondary" key="A026581">濟玹</persName></head>
+<lb ed="B" n="0416b11"/><p xml:id="pB27p0416b1101"><persName key="A016082">釋弘禮</persName><!-- 參《五燈全書》X82n1571_p0329b03 -->，字<persName key="A016082">具德</persName>，姓<name>張</name>氏，<placeName key="PL000000013252">紹興</placeName>人。初為鍛工，好與黃冠游。有<placeName>紫陽
+<lb ed="B" n="0416b12"/>洞</placeName><persName key="A042486">蘇<roleName>道者</roleName></persName>教以息養方本<!-- 醫方書籍 -->、《天台小止觀》，與《首楞嚴》合，因讀是經
+<lb ed="B" n="0416b13"/>而發正信。投<placeName>普陀寶華庵</placeName><persName key="A042487">仲雅</persName>祝髮。既受具，乃參<placeName key="PL000000010129">三峰</placeName><persName key="A003668">漢月藏</persName>
+<lb ed="B" n="0416b14"/>禪師，因承記莂，授以臨濟正宗。是宗在<date notBefore-iso="+1368-01-31" key="j22207422245965" notAfter-iso="+1437-02-21"><name>明</name>初</date>法運中微，<persName key="A003668">漢月</persName>初
+<lb ed="B" n="0416b15"/>從折竹洞悟，徹盡法淵，後乃得源流於<persName key="A003688">金粟悟</persName>。而其始終加護
+<lb ed="B" n="0416b16"/>者，則在綱宗<!-- 參X65n1283_p0327a01 -->。綱宗者，全提五家宗旨；而於臨濟則從一句中分
+<lb ed="B" n="0416b17"/><anchor xml:id="beg041601"/><choice><sic resp="CBETA">寶</sic><corr resp="PC-MB">賓</corr></choice><anchor xml:id="end041601"/>主、玄要、照用<!-- 《宗範》卷2：「若臨濟家人法照用賓主四喝三玄要。」(CBETA, X65, no. 1283, p. 327, a6-7) -->。堂奧森嚴，使學者不滯鑑覺，洞抉佛祖心髓。<persName key="A016082">弘
+<lb ed="B" n="0416b18"/>禮</persName>聞之，亟往參叩。時<persName key="A003668">漢</persName>開法<placeName key="PL000000011823">安隱</placeName>，以本來面目示之，苦求未得。
+<lb ed="B" n="0416b19"/>偶窺鏡見影，被同侶一推，猛然有省。由是精進，服勤左右，歷<placeName key="PL000000010129">三
+<lb ed="B" n="0416b20"/>峰</placeName>、<placeName key="PL000000010085">鄧尉</placeName>者，十有七載。徹悟宗旨，遂承衣拂。<persName key="A003668">三峰</persName>既歿，同參<persName key="A016073">潭吉<pb ed="B" xml:id="B27.0151.0417a" n="0417a"/>
+<lb ed="B" n="0417a01"/>忍</persName>著《五宗救》，<persName key="A016082">弘禮</persName>贊助居多。書成而闡揚綱宗，<persName key="A003668">三峰</persName>道法始曉
+<lb ed="B" n="0417a02"/>然於天下。雖當時辨難<persName key="A003668">三峰</persName>者，持論不無異同，是書一出，淆譌
+<lb ed="B" n="0417a03"/>立判矣！<persName key="A016073">潭</persName>又告寂，<persName key="A016082">弘禮</persName>歸隱<placeName key="PL000000013282">雲門</placeName>。御史<persName key="A042488">念臺劉<roleName>公</roleName></persName>請主<placeName key="PL000000013295">廣孝寺</placeName>
+<lb ed="B" n="0417a04"/>陶鍊學人，名動諸方。繼遷<placeName key="PL000000011823">安隱</placeName>、<placeName>顯寧</placeName>。復應<placeName key="PL000000000150">江</placeName>北請說法<placeName key="PL000000011188">泰興</placeName>之
+<lb ed="B" n="0417a05"/><placeName key="PL000000011176">慶雲</placeName>、<placeName key="PL000000010920">秦郵</placeName>之<placeName key="PL000000010901">地藏</placeName>、<placeName key="PL000000010787">維揚</placeName>之<placeName key="PL000000010767">天寧</placeName>。嗣居<placeName key="PL000000011800">佛日</placeName>、<placeName key="PL000000011596">靈隱</placeName>、<placeName>會稽華嚴</placeName>、<placeName key="PL000000011848">徑山</placeName>，
+<lb ed="B" n="0417a06"/>先後十坐道場，開大法門，雷震海內。在<placeName key="PL000000010767">天寧</placeName>日，湖海浩歸，衲侶
+<lb ed="B" n="0417a07"/>犇奏，所謂「五千衲子下<placeName key="PL000000010787">揚州</placeName>」者，紀其實也。<placeName key="PL000000011596">靈隱</placeName>方興巨工，事同
+<lb ed="B" n="0417a08"/>開剏。大殿火，重新之，施者坌集。購大木於深山，人力罕致。一夕
+<lb ed="B" n="0417a09"/>雷雨，暴洪汛漲，浮湧畢達。缺一石礎，感神示夢，因之募得。故功
+<lb ed="B" n="0417a10"/>成鉅麗，甲於天下。又以其餘葺<placeName key="PL000000011305">浙</placeName>之<placeName key="PL000000013295">廣孝</placeName>、<placeName key="PL000000011823">安隱</placeName>、<placeName key="PL000000011631">法相</placeName>、<placeName key="PL000000012232">靈峰</placeName>諸寺。
+<lb ed="B" n="0417a11"/>而<placeName key="PL000000011848">徑山</placeName>頻以興復請，乃以<placeName key="PL000000011596">靈隱</placeName>付其徒<persName key="A004077">晦山</persName>，而自往<placeName key="PL000000011848">徑山</placeName>將興
+<lb ed="B" n="0417a12"/>法席。為弟子<persName key="A016179">巨渤</persName>封塔，再至<placeName key="PL000000010767">天寧</placeName>。臨行機語，皆似息機投老<!-- 臨老、告老 -->者。
+<lb ed="B" n="0417a13"/>既至七日，刻晷<!-- 指時光短暫 -->為筵，熱香禮佛。五鼓易衣，端然坐逝，時<date when-iso="+1667-12-04" key="j23302572330257"><name>康熙</name>丁
+<lb ed="B" n="0417a14"/>未十月十九日</date>也。壽六十八，僧臘四十七，塔於<placeName key="PL000000011596">靈隱慧日軒</placeName>。<persName key="A009981">吳
+<lb ed="B" n="0417a15"/>梅村<roleName>祭酒</roleName>偉業</persName>為之銘。著有《弘宗說》、《正訛說》二書。弟子<persName key="A004077">晦山戒
+<lb ed="B" n="0417a16"/>顯</persName>，<placeName key="PL000000010279">太倉</placeName><name>王</name>氏子。弱齡游泮<!-- 經州縣考取為生員者，就讀於學宮。 -->，有聲<!-- 著稱 -->庠序。<date from-iso="+1644-02-08" key="j23215572321911" to-iso="+1645-01-27">甲申</date>之難，作文告廟，入<placeName key="PL000000008891">金
+<lb ed="B" n="0417a17"/>陵</placeName>禮<persName key="A001028">三昧</persName>祝法受具，參<persName key="A001513">天童</persName>、<persName key="A001408">雪橋</persName>。遇<placeName key="PL000000011596">靈隱</placeName><persName key="A016082">弘禮</persName>於<placeName key="PL000000011524">皋亭</placeName>，大悟。<persName key="A016082">雲
+<lb ed="B" n="0417a18"/>門</persName>拄杖諙<!-- 通「譮」，悟、怒聲。 -->，遂得法。初隱<placeName key="PL000000018775">廬山</placeName>，開法<placeName key="PL000000018914">雲居</placeName>，歷主<placeName>東湖薦福</placeName>、<placeName key="PL000000028114">黃梅四
+<lb ed="B" n="0417a19"/>祖</placeName>、<placeName>臨皋安國</placeName>、<placeName key="PL000000027389">武昌寒溪</placeName>、<placeName key="PL000000027950">荊州護國</placeName>、<placeName key="PL000000019973">撫州疏山</placeName>。化行<placeName key="PL000000055646">江</placeName><placeName key="PL000000026395">楚</placeName>，道望大
+<lb ed="B" n="0417a20"/>著。所至興建，不後其師。<date from-iso="+1667-01-24" key="j23299432330326" to-iso="+1668-02-11"><name>康熙</name>丁未</date>繼席<placeName key="PL000000011596">靈隱</placeName>，著有《禪門鍛鍊說》<pb ed="B" xml:id="B27.0151.0417b" n="0417b"/>
+<lb ed="B" n="0417b01"/>十三篇、《現果錄》、《佛法本草》及語錄詩文集若干卷。又<persName key="A026581">五嶽濟玹</persName>
+<lb ed="B" n="0417b02"/>者，古<placeName key="PL000000013249">越</placeName><name>吳</name>氏子，亦<persName key="A016082">弘禮</persName>弟子。生時人聞空中音樂，三歲誦《心經》
+<lb ed="B" n="0417b03"/>如宿記。成童出家，依<placeName key="PL000000011549">石屋</placeName>。年十七遊方，登講肆，詞如瓶瀉。受具
+<lb ed="B" n="0417b04"/><persName key="A001513">天童</persName>，密參西來大意，便有入處。歸<placeName>越沙溪</placeName>，將盥，觸翻水盆，得大
+<lb ed="B" n="0417b05"/>灑脫。出而遍叩，謁<persName key="A016082">弘禮</persName>於<placeName>顯寧</placeName>，遂授以法。其倡化諸剎，皆<persName key="A026581">玹</persName>佐
+<lb ed="B" n="0417b06"/>揚之力為多。出世<placeName key="PL000000011823">安隱</placeName>，遇火，重興之。道譽流聞，相率敦請。如<placeName key="PL000000012915">福
+<lb ed="B" n="0417b07"/>善</placeName>、<placeName>夕照</placeName>、<placeName>隆平</placeName>諸剎，先後戾止，津梁不倦。及<placeName key="PL000000011596">靈隱</placeName>虛席，遂補其處。
+<lb ed="B" n="0417b08"/>振緒飭綱，紹芳先哲。<persName key="A042489">和碩康親王</persName>慕其高範敬禮有加焉！</p>
     <linkGrp>
         <link targets="#0416b11 #0416b11"/>
         <ptr target="#A016082" type="person"/>

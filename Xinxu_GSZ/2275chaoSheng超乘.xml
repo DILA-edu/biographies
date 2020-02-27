@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0197b19shiXingHong">
+<lb ed="B" n="0197b19"/><anchor n="B.27.0151.0197b19"/><head>清公安觀音寺沙門<persName key="A021791">釋超乘</persName>傳</head>
+<lb ed="B" n="0197b20"/><p xml:id="pB27p0197b2001"><persName key="A021791">釋起乘</persName>，字<persName key="A021791">天鐘</persName>，姓繆氏，南陽人也。父曰<persName key="A043141">以政</persName><date from-iso="+1640-01-23" key="j23200802320463" to-iso="+1641-02-09">明崇禎庚辰</date>進士，<pb ed="B" xml:id="B27.0151.0198a" n="0198a"/>
+<lb ed="B" n="0198a01"/>母<persName key="A043142">冉氏</persName>，信心佛果，檀施無恡。夢遊香巖寺，有老僧乞屋。許之，方
+<lb ed="B" n="0198a02"/>驚而誕<persName key="A021791">乘</persName>。<date from-iso="+1647-02-05" key="j23226502323003" to-iso="+1648-01-24">清順治丁亥</date>隨宦來楚。<date from-iso="+1654-02-17" key="j23252192325572" to-iso="+1655-02-05">甲午</date>失怙，以蔭入國學。<date from-iso="+1657-02-13" key="j23263112326664" to-iso="+1658-02-01">丁酉</date>
+<lb ed="B" n="0198a03"/>選定海縣，蒞任一載。因海寇猖獗，失地而歸，迥翔燕都，鬱抑無
+<lb ed="B" n="0198a04"/>聊。時上西山，一縱心目，因與叢社知識辯析儒佛，頗窮玄理，已
+<lb ed="B" n="0198a05"/>有離世之感。以母老子幼，復還鄉里，終苦塵嚻。更攜二僕，遊南
+<lb ed="B" n="0198a06"/>嶽、過紫荊峰至大隱龍山慈雲謁<persName key="A043143">杲日</persName>。<persName key="A043143">杲</persName>曰：「君子樂游山耶？水
+<lb ed="B" n="0198a07"/>耶？」<persName key="A021791">乘</persName>曰：「二途俱不涉。」<persName key="A043143">杲</persName>云：「截斷兩頭，向父母未生前道將一句。」
+<lb ed="B" n="0198a08"/><persName key="A021791">乘</persName>乃嘿然數日，即哀懇薙髮，隨眾習勤，朝夕無倦。<persName key="A043143">杲</persName>以法門柱
+<lb ed="B" n="0198a09"/>石期<ref type="person" target="#A021791">之</ref>，迺詔參學遠方。於是徑至湘潭，泛舟江漢。<date from-iso="+1670-01-21" key="j23310362331419" to-iso="+1671-02-08">庚<anchor xml:id="beg_be" type="cb-app"/>戌<anchor xml:id="end_be"/></date>謁蔣山
+<lb ed="B" n="0198a10"/><persName key="A026488">介庵</persName>。一日晚參，大雨，<persName key="A026488">介</persName>曰：「好雨滴滴不落在別處，且道落在何
+<lb ed="B" n="0198a11"/>處？」<persName key="A021791">乘</persName>曰：「一點也瞞學人不得。」因呈偈曰：「自歎從前錯用心，東飄
+<lb ed="B" n="0198a12"/>西逐作遊人；今朝勘破間家具，雲散長空月色清。」<persName key="A026488">介</persName>肎<!-- 通「肯」 --><ref type="person" target="#A021791">之</ref>。已而
+<lb ed="B" n="0198a13"/>入浙，至南澗謁<persName key="A004105">天竺</persName>。<persName key="A004105">竺</persName>見便問：「是聖是凡？」<persName key="A021791">乘</persName>舉拳示<ref type="person" target="#A004105">之</ref>。<persName key="A004105">竺</persName>云：「是
+<lb ed="B" n="0198a14"/>何面目？」<persName key="A021791">乘</persName>云：「一鼻兩眼。」乃留度夏。遂歷覽靈隱、顯聖、雲門、天台
+<lb ed="B" n="0198a15"/>諸勝，至平陽<persName key="A043144">天箬</persName><!-- 天嶽？ -->留居一載，微示付屬之意。<persName key="A021791">乘</persName>乃辭之入都。還
+<lb ed="B" n="0198a16"/>踐五臺、汾陽、少林、風穴，習靜於石門。見諸方付授淆濫，不再言
+<lb ed="B" n="0198a17"/>禪，前所留稿，投之一炬，但持念誦，為自了計。<date from-iso="+1684-02-15" key="j23361742336527" to-iso="+1685-02-02">康熙二十三年</date>聞
+<lb ed="B" n="0198a18"/><persName key="A043143">杲</persName>寂，回山奠<ref type="person" target="#A043143">之</ref>。<ref type="date" target="#j23365282336882">踰年</ref>至荊州龍山，遙望松枝兩處，雲巒秀聳，心
+<lb ed="B" n="0198a19"/>焉嚮之。<date from-iso="+1688-02-02" key="j23376222337975" to-iso="+1689-01-20"><anchor xml:id="beg019801"/><choice><sic resp="CBETA">丙</sic><corr resp="PC-MB">戊</corr></choice><anchor xml:id="end019801"/>辰秋</date><!-- 丙辰為康熙十五年，時序不符。後文開竺雲精舍在丁卯，雲錫在西來寺又更晚。 -->渡江覓憇居之地，過西來寺禮<persName key="A021802">雲錫</persName>。會<persName key="A021802">雲</persName>與眾
+<lb ed="B" n="0198a20"/>論《楞嚴》，每以言挑之，不露一詞。一夕，<persName key="A021802">雲</persName>舉《楞嚴》「見見之時，見非<pb ed="B" xml:id="B27.0151.0198b" n="0198b"/>
+<lb ed="B" n="0198b01"/>是見；見猶離見，見不能及」，有僧舉問：「古德擎拳<!-- 拱手 -->，云還見麼？」<persName key="A021791">乘</persName>不
+<lb ed="B" n="0198b02"/>覺答云：「頭上安頭。」<persName key="A021802">雲</persName>曰：「似則似是，則未是。」<persName key="A021791">乘</persName>云：「疑則再參。」復頌
+<lb ed="B" n="0198b03"/>曰：「春至園林花自開，幾人識得解拈來；堪笑<persName key="A002799">瞿曇</persName>藏不住，機前
+<lb ed="B" n="0198b04"/>繞弄嘴頭乖。」<persName key="A021802">雲</persName>首肎<!-- 通「肯」 --><ref type="person" target="#A021791">之</ref>，付以偈云：「四七二三<g ref="#CB33499">𠪱</g>代傳，重興臨濟
+<lb ed="B" n="0198b05"/>遍山川；<ref type="person" target="#A021802">老僧</ref>付<ref type="person" target="#A021791">汝</ref>全擔荷，大闡洪宗<!-- 洪州宗 -->鼻祖禪。」又囑云：「識汝<persName key="A021791">天鐘</persName>，
+<lb ed="B" n="0198b06"/>圓音最洪，透徹三界，剎海盡融，龍象聞聲，雲集聖凡，逐響皈崇。
+<lb ed="B" n="0198b07"/>亦任興揚祖道，處處流通。」<date from-iso="+1687-02-12" key="j23372672337354" to-iso="+1687-05-10">丁卯春</date>同遊南嶽，過天龍山，拓基開
+<lb ed="B" n="0198b08"/>作叢林曰竺雲精舍。<date from-iso="+1690-05-09" key="j23384492338536" to-iso="+1690-08-04">庚午夏</date>主報恩寺，<date from-iso="+1692-02-17" key="j23390982339451" to-iso="+1693-02-04">壬申</date>辭歸雙林靜室，時
+<lb ed="B" n="0198b09"/><persName key="A021802">雲錫</persName>已寂。<date from-iso="+1694-01-25" key="j23398062340189" to-iso="+1695-02-12">甲<anchor xml:id="beg_bf" type="cb-app"/>戌<anchor xml:id="end_bf"/></date>，<persName key="A021791">乘</persName>為<persName key="A021802">雲</persName>徧刻《語錄》入藏。以<date when-iso="+1704-02-10" key="j23434732343473">康熙四十三年正月
+<lb ed="B" n="0198b10"/>六日</date>示寂。塔於沙市寶塔觀音寺，著有《語錄》三卷。</p>
+    <linkGrp>
+        <link targets="#0197b20 #0198a02"/>
+        <ptr target="#A021791" type="person"/>
+        <ptr target="#A043141" type="person"/>
+        <ptr target="#A043142" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0198a02 #0198a02"/>
+        <ptr target="#A021791" type="person"/>
+        <ptr target="#A043141" type="person"/>
+        <ptr target="#A043142" type="person"/>
+        <ptr target="#j23226502323003" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0198a06 #0198a09"/>
+        <ptr target="#A021791" type="person"/>
+        <ptr target="#A043143" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0198a09 #0198a10"/>
+        <ptr target="#A021791" type="person"/>
+        <ptr target="#A026488" type="person"/>
+        <ptr target="#j23310362331419" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0198a13 #0198a14"/>
+        <ptr target="#A021791" type="person"/>
+        <ptr target="#A004105" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0198a15 #0198a15"/>
+        <ptr target="#A021791" type="person"/>
+        <ptr target="#A043144" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0198a19 #0198b07"/>
+        <ptr target="#A021791" type="person"/>
+        <ptr target="#A021802" type="person"/>
+        <ptr target="#j23376222337975" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0198b07 #0198b08"/>
+        <ptr target="#A021791" type="person"/>
+        <ptr target="#A021802" type="person"/>
+        <ptr target="#j23372672337354" type="time"/>
+    </linkGrp>
+</div>

@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" type="義解" xml:id="gsz0064b13shiZuNi"><lb
-ed="B" n="0064b13"/><anchor n="B.27.0151.0064b13"/><head>明嘉定淨信寺沙門<persName key="A008200">釋祖儞</persName>傳<persName type="secondary" key="A008206">石室瑛</persName><persName type="secondary" key="A008204">竹屋淨</persName></head><lb
-ed="B" n="0064b14"/><p xml:id="pB27p0064b1401"><persName key="A008200">釋祖儞</persName>，字<persName key="A008200">日章</persName>，<persName key="A008200">儞</persName>或作<persName key="A008200">偁</persName>，<persName key="A008200">章</persName>亦作<persName key="A008200">彰</persName>，別號<persName key="A008200">用拙</persName>，常熟張氏子也。<lb
-ed="B" n="0064b15"/>祝髮後東游四明，時<persName key="A007930">我庵無</persName>住延慶、<persName key="A008206">石室瑛</persName>居育王，皆侍以忘<lb
-ed="B" n="0064b16"/>年。後嗣法於<persName key="A008204">竹屋淨</persName>法師。出世永定教寺，繼遷崑山廣孝、嘉定<lb
-ed="B" n="0064b17"/>淨信，而主教吳下垂五十年。洪武初預選高行，有旨就天界寺<lb
-ed="B" n="0064b18"/>說法。<ref type="person" target="#A003672">上</ref>數召入禁中奏對，稱允，加賜<persName key="A008200">慈忍法師</persName>之號。後賜歸故<lb
-ed="B" n="0064b19"/>里終焉！</p>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="義解" xml:id="gsz0064b13shiZuNi">
+<lb ed="B" n="0064b13"/><anchor n="B.27.0151.0064b13"/><head>明嘉定淨信寺沙門<persName key="A008200">釋祖儞</persName>傳<persName type="secondary" key="A008206">石室瑛</persName><persName type="secondary" key="A008204">竹屋淨</persName></head>
+<lb ed="B" n="0064b14"/><p xml:id="pB27p0064b1401"><persName key="A008200">釋祖儞</persName>，字<persName key="A008200">日章</persName>，<persName key="A008200">儞</persName>或作<persName key="A008200">偁</persName>，<persName key="A008200">章</persName>亦作<persName key="A008200">彰</persName>，別號<persName key="A008200">用拙</persName>，常熟張氏子也。
+<lb ed="B" n="0064b15"/>祝髮後東游四明，時<persName key="A007930">我庵無</persName>住延慶、<persName key="A008206">石室瑛</persName>居育王，皆侍以忘
+<lb ed="B" n="0064b16"/>年。後嗣法於<persName key="A008204">竹屋淨</persName>法師。出世永定教寺，繼遷崑山廣孝、嘉定
+<lb ed="B" n="0064b17"/>淨信，而主教吳下垂五十年。洪武初預選高行，有旨就天界寺
+<lb ed="B" n="0064b18"/>說法。<ref type="person" target="#A003672">上</ref>數召入禁中奏對，稱允，加賜<persName key="A008200">慈忍法師</persName>之號。後賜歸故
+<lb ed="B" n="0064b19"/>里終焉！</p>
     <linkGrp>
         <link targets="#0064b15 #0064b16"/>
         <ptr target="#A008200" type="person"/>

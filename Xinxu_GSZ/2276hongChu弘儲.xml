@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0198b11shiHongChu"><lb
-ed="B" n="0198b11"/><anchor n="B.27.0151.0198b11"/><head>清虎邱雲巖寺沙門釋弘儲傳<persName type="secondary">本琇</persName></head><lb
-ed="B" n="0198b12"/><p xml:id="pB27p0198b1201"><persName key="A000241">釋弘儲</persName><!-- 參《南嶽單傳記》X86n1596_p0040b24 -->，字<persName key="A000241">繼起</persName>，亦號<persName key="A000241">退翁</persName>，姓<name>李</name>氏，<placeName key="PL000000010291">通</placeName>人也。母<persName key="A042484">高<roleName>氏</roleName></persName>夢梵僧授金<lb
-ed="B" n="0198b13"/>環而生，小字<persName key="A000241">金</persName>。<ref type="date" target="#j23084162308769">四歲</ref>撫於祖母<persName key="A042485">孫氏</persName>。終日兀坐私語，語不可解。<lb
-ed="B" n="0198b14"/>剃染後行腳參方，得法於<persName key="A003668">三峯藏</persName>。博通內外，心地光明，提正法<lb
-ed="B" n="0198b15"/>印，十坐道場。息影<placeName key="PL000000010068">靈巖</placeName>，有終焉之志。<placeName key="PL000000009918">吳</placeName>人以<placeName key="PL000000009973">虎邱</placeName>虛席，強起應<lb
-ed="B" n="0198b16"/>之，升坐說法，四眾圍繞。有《虎邱語錄》一卷，<persName key="A001834">錢<roleName>公</roleName>謙益</persName>為之序。具<!-- 陳述、完備 --><lb
-ed="B" n="0198b17"/>文集，居半載謝去。後寂於<placeName key="PL000000010026">堯峰</placeName>，<date when-iso="+1672-11-16" key="j23320662332066"><name>康熙</name>壬子九月二十七日</date>也。荼<lb
-ed="B" n="0198b18"/>毘，龕頂生光，漸變五色。光中有聲，大如雷。頓成妙景，若琉璃世<lb
-ed="B" n="0198b19"/>界。弟子<persName key="A026593">南潛</persName>撰《化琉璃記》。<persName key="A021792">本琇</persName>字<persName key="A021792">節巖</persName>，西<placeName key="PL000000034728">蜀</placeName>人。天性機敏，幼達<lb
-ed="B" n="0198b20"/>宗理。契<persName key="A003688">天童</persName>法，九遷大剎，道播<placeName key="PL000000055646">江</placeName><placeName key="PL000000011304">淛</placeName>，著有《全會法錄》。<date from-iso="+1703-02-16" key="j23431142343467" to-iso="+1704-02-04"><name>康熙</name>癸未</date><pb ed="B" xml:id="B27.0151.0199a" n="0199a"/><lb
-ed="B" n="0199a01"/>住<placeName key="PL000000009973">虎邱</placeName>，<persName key="A006719">聖祖</persName>臨幸，垂詢道要，深邀獎許，御製詩賜之。</p>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0198b11shiHongChu">
+<lb ed="B" n="0198b11"/><anchor n="B.27.0151.0198b11"/><head>清虎邱雲巖寺沙門<persName key="A000241">釋弘儲</persName>傳<persName type="secondary" key="A021792">本琇</persName></head>
+<lb ed="B" n="0198b12"/><p xml:id="pB27p0198b1201"><persName key="A000241">釋弘儲</persName><!-- 參《南嶽單傳記》X86n1596_p0040b24 -->，字<persName key="A000241">繼起</persName>，亦號<persName key="A000241">退翁</persName>，姓<name>李</name>氏，<placeName key="PL000000010291">通</placeName>人也。母<persName key="A042484">高<roleName>氏</roleName></persName>夢梵僧授金
+<lb ed="B" n="0198b13"/>環而生，小字<persName key="A000241">金</persName>。<ref type="date" target="#j23084162308769">四歲</ref>撫於祖母<persName key="A042485">孫氏</persName>。終日兀坐私語，語不可解。
+<lb ed="B" n="0198b14"/>剃染後行腳參方，得法於<persName key="A003668">三峯藏</persName>。博通內外，心地光明，提正法
+<lb ed="B" n="0198b15"/>印，十坐道場。息影<placeName key="PL000000010068">靈巖</placeName>，有終焉之志。<placeName key="PL000000009918">吳</placeName>人以<placeName key="PL000000009973">虎邱</placeName>虛席，強起應
+<lb ed="B" n="0198b16"/>之，升坐說法，四眾圍繞。有《虎邱語錄》一卷，<persName key="A001834">錢<roleName>公</roleName>謙益</persName>為之序。具<!-- 陳述、完備 -->
+<lb ed="B" n="0198b17"/>文集，居半載謝去。後寂於<placeName key="PL000000010026">堯峰</placeName>，<date when-iso="+1672-11-16" key="j23320662332066"><name>康熙</name>壬子九月二十七日</date>也。荼
+<lb ed="B" n="0198b18"/>毘，龕頂生光，漸變五色。光中有聲，大如雷。頓成妙景，若琉璃世
+<lb ed="B" n="0198b19"/>界。弟子<persName key="A026593">南潛</persName>撰《化琉璃記》。<persName key="A021792">本琇</persName>字<persName key="A021792">節巖</persName>，西<placeName key="PL000000034728">蜀</placeName>人。天性機敏，幼達
+<lb ed="B" n="0198b20"/>宗理。契<persName key="A003688">天童</persName>法，九遷大剎，道播<placeName key="PL000000055646">江</placeName><placeName key="PL000000011304">淛</placeName>，著有《全會法錄》。<date from-iso="+1703-02-16" key="j23431142343467" to-iso="+1704-02-04"><name>康熙</name>癸未</date><pb ed="B" xml:id="B27.0151.0199a" n="0199a"/>
+<lb ed="B" n="0199a01"/>住<placeName key="PL000000009973">虎邱</placeName>，<persName key="A006719">聖祖</persName>臨幸，垂詢道要，深邀獎許，御製詩賜之。</p>
     <linkGrp>
         <link targets="#0198b12 #0198b12"/>
         <ptr target="#A000241" type="person"/>

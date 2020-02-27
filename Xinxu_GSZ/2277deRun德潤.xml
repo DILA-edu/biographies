@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0199a02shiHongChu">
+<lb ed="B" n="0199a02"/><anchor n="B.27.0151.0199a02"/><head>清昆明勝因寺沙門<persName key="A016450">釋德潤</persName>傳</head>
+<lb ed="B" n="0199a03"/><p xml:id="pB27p0199a0301"><persName key="A016450">釋德潤</persName>，字<persName key="A016450">香谷</persName>，姓俞氏，新添人也。以<date when-iso="+1619-03-06" key="j23124522312452">明萬曆<anchor xml:id="beg_c0" type="cb-app"/>己<anchor xml:id="end_c0"/>未正月二十一
+<lb ed="B" n="0199a04"/>日</date>生。生時有僧到門口唱偈云：「元正三七，眉橫鼻直，日月同明，
+<lb ed="B" n="0199a05"/>川流不息。」其父問之，不答而去。因記之以占其異。稍長，習文藝
+<lb ed="B" n="0199a06"/>頗不後人，獨喜近僧侶譚內典。嘗與<persName key="A043145">寶華</persName>上人相契。後其父宦
+<lb ed="B" n="0199a07"/>滇，隨之任所。每歎世路崎嶇，超然名利。<date from-iso="+1657-02-13" key="j23263112326664" to-iso="+1658-02-01">丁酉</date>抵騰越，入雲峯山，
+<lb ed="B" n="0199a08"/>從<persName key="A043146">心安</persName>剃度，精勤罔懈。後謁<persName key="A043147">阿山</persName>，示以「無蹤跡」三字，研窮晨夕，
+<lb ed="B" n="0199a09"/>因行頭陀行，建剎接眾，聚食千指。常坐門外誦咒，祈求香供，依
+<lb ed="B" n="0199a10"/>蒲連翩，而集眾賴以贍。經行四十餘日，夜聞鐘聲，靜中一驚，汗
+<lb ed="B" n="0199a11"/>流浹背。覺「無蹤跡」三字，悠悠窅窅<!-- 通「冥」 -->，渾然無間，身心俱空矣！<date from-iso="+1660-02-11" key="j23274042327757" to-iso="+1661-01-29">庚子
+<lb ed="B" n="0199a12"/>歲</date>荒，斗米數金；加以大疫，<persName key="A016450">潤</persName>惻然憫之，更募賑饑，率徙掩骼，不
+<lb ed="B" n="0199a13"/>可億計。郡縣欽崇，為額其寺曰普濟，由是道風遠鬯。復叩諸方，
+<lb ed="B" n="0199a14"/>親承妙諦。後謁<persName key="A016348">半生</persName>老人於昆明五華寺，機緣有契，授以拂偈。
+<lb ed="B" n="0199a15"/><date from-iso="+1660-02-11" key="j23274042327491" to-iso="+1660-05-08">庚子春</date>初，率眾為<persName key="A009652">破</persName>老人拈香祝壽，亦正月二十一日，與<anchor xml:id="beg_c1" type="cb-app"/>己<anchor xml:id="end_c1"/>生
+<lb ed="B" n="0199a16"/>辰月日相同。忽悟前僧遺偈「日月同明」者，信有因也。<date from-iso="+1672-11-19" key="j23320692332158" to-iso="+1673-02-16">壬子冬</date>，<persName key="A043148">崔
+<lb ed="B" n="0199a17"/><roleName>方伯</roleName>之英</persName>延主常樂。歲久荒廢，<persName key="A043149">張<roleName>公</roleName>國忠</persName>、<persName key="A043150">何<roleName>公</roleName>拱極</persName>感<persName key="A016450">潤</persName>精誠，
+<lb ed="B" n="0199a18"/>施拾<!-- 給？ -->鉅資，重修殿宇，新建廓廡。<date from-iso="+1682-10-30" key="j23357012335789" to-iso="+1683-01-26">壬<anchor xml:id="beg_c2" type="cb-app"/>戌<anchor xml:id="end_c2"/>冬</date>主昆明勝因，<date from-iso="+1683-10-20" key="j23360562336084" to-iso="+1683-11-17">癸亥九月</date>
+<lb ed="B" n="0199a19"/>鎮安將軍<persName key="A043151">馬</persName>公遣使相迓，謂常樂重經修飾，大功告成，畢乃願
+<lb ed="B" n="0199a20"/>力，率眾歸來，當所欣許，即翩然還止。然<persName key="A016450">潤</persName><anchor xml:id="beg_c3" type="cb-app"/>已<anchor xml:id="end_c3"/>先期走柬<!-- 送信 -->，謝諸檀<pb ed="B" xml:id="B27.0151.0199b" n="0199b"/>
+<lb ed="B" n="0199b01"/>樾及遠近二眾。故復院一日，即示疾遄化。口吐白氣，悠然而逝，
+<lb ed="B" n="0199b02"/>壽六十五。</p>
+    <linkGrp>
+        <link targets="#0199a06 #0199a06"/>
+        <ptr target="#A016450" type="person"/>
+        <ptr target="#A043145" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0199a07 #0199a08"/>
+        <ptr target="#A016450" type="person"/>
+        <ptr target="#A043146" type="person"/>
+        <ptr target="#j23263112326664" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0199a08 #0199a08"/>
+        <ptr target="#A016450" type="person"/>
+        <ptr target="#A043147" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0199a14 #0199a14"/>
+        <ptr target="#A016450" type="person"/>
+        <ptr target="#A016348" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0199a15 #0199a15"/>
+        <ptr target="#A016450" type="person"/>
+        <ptr target="#A009652" type="person"/>
+        <ptr target="#j23274042327491" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0199a16 #0199a17"/>
+        <ptr target="#A016450" type="person"/>
+        <ptr target="#A043148" type="person"/>
+        <ptr target="#j23320692332158" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0199a17 #0199a17"/>
+        <ptr target="#A016450" type="person"/>
+        <ptr target="#A043149" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0199a17 #0199a17"/>
+        <ptr target="#A016450" type="person"/>
+        <ptr target="#A043150" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0199a18 #0199a20"/>
+        <ptr target="#A016450" type="person"/>
+        <ptr target="#A043151" type="person"/>
+        <ptr target="#j23360562336084" type="time"/>
+    </linkGrp>
+</div>

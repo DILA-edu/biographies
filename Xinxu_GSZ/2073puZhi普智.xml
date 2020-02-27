@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" type="義解" xml:id="gsz0074b08shiPuZhi"><lb
-ed="B" n="0074b08"/><anchor n="B.27.0151.0074b08"/><head>明杭州龍井寺沙門<persName key="A008229">釋普智</persName>傳</head><lb
-ed="B" n="0074b09"/><p xml:id="pB27p0074b0901"><persName key="A008229">釋普智</persName>，字<persName key="A008229">無礙</persName>，別號<persName key="A008229">一枝叟</persName>，臨平褚氏子。出家於錢塘龍井寺，<lb
-ed="B" n="0074b10"/>依<persName key="A008216">東溟日</persName>授天台性具之學。優於講說，歷四道場，風教遠施。晚<lb
-ed="B" n="0074b11"/>歲演法於松江延慶寺，因以終焉！專脩淨業，寒暑不輟。永樂戊<lb
-ed="B" n="0074b12"/>子正月二日微疾，會眾端坐，面西念佛而逝。嘗集註《阿彌陀經》<lb
-ed="B" n="0074b13"/>一卷。</p>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="義解" xml:id="gsz0074b08shiPuZhi">
+<lb ed="B" n="0074b08"/><anchor n="B.27.0151.0074b08"/><head>明杭州龍井寺沙門<persName key="A008229">釋普智</persName>傳</head>
+<lb ed="B" n="0074b09"/><p xml:id="pB27p0074b0901"><persName key="A008229">釋普智</persName>，字<persName key="A008229">無礙</persName>，別號<persName key="A008229">一枝叟</persName>，臨平褚氏子。出家於錢塘龍井寺，
+<lb ed="B" n="0074b10"/>依<persName key="A008216">東溟日</persName>授天台性具之學。優於講說，歷四道場，風教遠施。晚
+<lb ed="B" n="0074b11"/>歲演法於松江延慶寺，因以終焉！專脩淨業，寒暑不輟。永樂戊
+<lb ed="B" n="0074b12"/>子正月二日微疾，會眾端坐，面西念佛而逝。嘗集註《阿彌陀經》
+<lb ed="B" n="0074b13"/>一卷。</p>
     <linkGrp>
         <link targets="#0074b09 #0074b09"/>
         <ptr target="#A008229" type="person"/>

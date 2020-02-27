@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0450b05shiCheLiao"><lb
+ed="J" n="0450b05"/><anchor n="J.29.B237.0450b05"/><head>行實</head><lb
+ed="J" n="0450b06"/><p xml:id="pJ29p0450b0601">……<lb
+ed="J" n="0450b09"/>……蜀重慶江津毛氏子，母姓陶，因夢僧送桃令噉，<lb
+ed="J" n="0450b10"/>感而有娠。於甲寅七月廿日未時生，乳名<persName key="A016401">應僧</persName>，寄名<lb
+ed="J" n="0450b11"/>於寶山。<ref type="person" target="#A016401">師</ref>從幼喜親雲水，……<lb
+ed="J" n="0450b25"/>……遂往重<lb
+ed="J" n="0450b26"/>慶謁<persName key="A026165">破雪</persName>和尚。……<lb
+ed="J" n="0450b28"/>……遂辭，參<persName key="A042754">歸源</persName>大師<lb
+ed="J" n="0450b29"/>改參萬法歸一，一歸何處？三年心如木石，行不知行，<lb
+ed="J" n="0450b30"/>坐不知坐，至一切迎賓待客渾無異念，總在一歸何<lb
+ed="J" n="0450c01"/>處上著到。……<lb
+ed="J" n="0450c06"/>……上別峰依<persName key="A026165">破雪</persName>和尚。……<lb
+ed="J" n="0450c08"/>……<persName key="A026165">雪</persName>師示寂後，依<persName key="A026222">靈<lb
+ed="J" n="0450c09"/>筏</persName>和尚……<lb
+ed="J" n="0450c12"/>……丙戌菊月辭<persName key="A026222">筏</persName>抵<lb
+ed="J" n="0450c13"/>婺川，參<persName key="A004939">象崖</persName>和尚……<lb
+ed="J" n="0450c30"/>……己丑臘參<ref type="person" target="#A001157">本師</ref>，迎於旅亭。……<lb
+ed="J" n="0451a15"/>……辛卯夏歸覲<persName key="A013755">大冶</persName>兄<!-- 況？ -->……</p>
+    <linkGrp>
+        <link targets="#0450b25 #0450b26"/>
+        <ptr target="#A016401" type="person"/>
+        <ptr target="#A026165" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0450b28 #0450c01"/>
+        <ptr target="#A016401" type="person"/>
+        <ptr target="#A042754" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0450c08 #0450c09"/>
+        <ptr target="#A016401" type="person"/>
+        <ptr target="#A026222" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0450c13 #0450c13"/>
+        <ptr target="#A016401" type="person"/>
+        <ptr target="#A004939" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0450c30 #0450c30"/>
+        <ptr target="#A016401" type="person"/>
+        <ptr target="#A001157" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0451a15 #0451a15"/>
+        <ptr target="#A016401" type="person"/>
+        <ptr target="#A013755" type="person"/>
+    </linkGrp>
+</div>

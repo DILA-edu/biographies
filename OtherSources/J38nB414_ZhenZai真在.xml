@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0436b21shiZhenZai"><lb
+ed="J" n="0436b21"/><anchor n="J.38.B414.0436b21"/><head>行狀</head><lb
+ed="J" n="0436b22"/><p xml:id="pJ38p0436b2201">師諱<persName key="A000945">真在</persName>，號<persName key="A000945">山鐸</persName>，別字<persName key="A000945">筠庵</persName>，江州德化縣桑落李氏<lb
+ed="J" n="0436b23"/>子也。……<lb
+ed="J" n="0436b25"/>……南朝廷設七省經略宣<lb
+ed="J" n="0436b26"/>春<persName key="A042734">袁<roleName>公</roleName>繼咸</persName>開府於九江，招募天下勇健，乃授<ref type="person" target="#A000945">師</ref>為<lb
+ed="J" n="0436b27"/>千人長。……<lb
+ed="J" n="0436b28"/>……遍謁<lb
+ed="J" n="0436b29"/>匡廬無敢剃落，東林耆宿<persName key="A042735">自真</persName>為之染薙師。既為僧<lb
+ed="J" n="0436b30"/>俾之執爨數月，朝夕柴水為務，而神通玅用略現於<lb
+ed="J" n="0436c01"/>此矣！崇禎甲申渡江北，住梅川之半雲庵。<ref type="person" target="#A042736">予</ref>住黃牛<lb
+ed="J" n="0436c02"/>院之竹塢，相隔不三里許，始與<ref type="person" target="#A042736">予</ref>家伯叔兄弟交，<ref type="person" target="#A000945">師</ref><lb
+ed="J" n="0436c03"/>年二十有四也。丁亥神鼎<persName key="A010037">雲外澤</persName>禪師住蘄州大潛<lb
+ed="J" n="0436c04"/>山，<ref type="person" target="#A000945">師</ref>與<ref type="person" target="#A010037">之</ref>俱，冬遂納具足戒。……<lb
+ed="J" n="0436c06"/>……己<lb
+ed="J" n="0436c07"/>丑春與<ref type="person" target="#A042736">予</ref>同造黃山，省先君<persName key="A042737">山雲未嘯</persName>和尚。冬參天<lb
+ed="J" n="0436c08"/>寧<persName key="A042738">恒證</persName>尊宿，雖有塗毒之惠，終不自肯。……<lb
+ed="J" n="0436c13"/>……辛丑<lb
+ed="J" n="0436c14"/><ref type="person" target="#A000945">師</ref>歸，東林登、<persName key="A004077">雲居顯</persName>公留居堂中，詰以<persName key="A003868">德山</persName>托缽因<lb
+ed="J" n="0436c15"/>緣，……<lb
+ed="J" n="0436c21"/>……惟善權<persName key="A016277">百愚</persName>一見稱賞，則曰：「臨<lb
+ed="J" n="0436c22"/>濟一宗，當出<ref type="person" target="#A000945">汝</ref>邊。」古南<persName key="A001148">牧雲</persName>和尚閱<ref type="person" target="#A000945">師</ref>《頌臨濟三頓<lb
+ed="J" n="0436c23"/>棒》大有過人處，恨其不能挽也。聞金明<persName key="A010710">介</persName>老人有古<lb
+ed="J" n="0436c24"/>人風，特造其室。一見如有夙契，遂折節焉！……<lb
+ed="J" n="0437a09"/>……乙<lb
+ed="J" n="0437a10"/>巳春，赴陽和<persName key="A042739">曹秋嶽</persName>先生之行，道經浠川華桂，為緇<lb
+ed="J" n="0437a11"/>素所迎，遂開法於茲寺，……<lb
+ed="J" n="0437a15"/>……<ref type="person" target="#A000945">師</ref>喟然歎曰：「昔<lb
+ed="J" n="0437a16"/>彼祖作《嚴統》亦猶是也。故<persName key="A010710">金明</persName>本師有指迷二說。彼<lb
+ed="J" n="0437a17"/>復假刺士以盡吾師。幸佛祖有靈，將入室而彼機已<lb
+ed="J" n="0437a18"/>露此實賴<persName key="A016267">主峰</persName>法兄之力也，今無怪乎彼也，但此抑<lb
+ed="J" n="0437a19"/>不足與論也。」……<lb
+ed="J" n="0437c05"/>……與嘉興<persName key="A042740">吳佩遠</persName>交而患難<lb
+ed="J" n="0437c06"/>不捨。……<lb
+ed="J" n="0437c17"/>康熙二十年歲在辛酉孟冬月楚黃廣濟受菩薩戒<lb
+ed="J" n="0437c18"/>　沖山學人<persName key="A042736">常照舒遂吉禾成</persName>頓首拜撰 </p>
+    <linkGrp>
+        <link targets="#0436b26 #0436b27"/>
+        <ptr target="#A000945" type="person"/>
+        <ptr target="#A042734" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0436b28 #0436b29"/>
+        <ptr target="#A000945" type="person"/>
+        <ptr target="#A042735" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0436c01 #0436c02"/>
+        <ptr target="#A000945" type="person"/>
+        <ptr target="#A042736" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0436c03 #0436c04"/>
+        <ptr target="#A000945" type="person"/>
+        <ptr target="#A042736" type="person"/>
+        <ptr target="#A010037" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0436c06 #0436c07"/>
+        <ptr target="#A000945" type="person"/>
+        <ptr target="#A042736" type="person"/>
+        <ptr target="#A042737" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0436c07 #0436c08"/>
+        <ptr target="#A000945" type="person"/>
+        <ptr target="#A042738" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0436c13 #0436c15"/>
+        <ptr target="#A000945" type="person"/>
+        <ptr target="#A004077" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0436c21 #0436c22"/>
+        <ptr target="#A000945" type="person"/>
+        <ptr target="#A016277" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0436c22 #0436c23"/>
+        <ptr target="#A000945" type="person"/>
+        <ptr target="#A001148" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0436c23 #0436c24"/>
+        <ptr target="#A000945" type="person"/>
+        <ptr target="#A010710" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0437a09 #0437a11"/>
+        <ptr target="#A000945" type="person"/>
+        <ptr target="#A042739" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0437a15 #0437a19"/>
+        <ptr target="#A000945" type="person"/>
+        <ptr target="#A016267" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0437c05 #0437c06"/>
+        <ptr target="#A000945" type="person"/>
+        <ptr target="#A042740" type="person"/>
+    </linkGrp>
+</div>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0655a24shiGuangZhen"><lb
+ed="X" n="0655a24"/><anchor n="X.79.1562.0655a24"/><head>忠州聚雲<persName key="A001662">吹萬真</persName>大師傳</head><lb
+ed="X" n="0655c12"/><p xml:id="pX79p0655c1201">……東吳有居士<persName key="A020602">劉墨仙</persName>，久游<persName key="A003668">玄墓</persName>之門。持《聖恩<lb
+ed="X" n="0655c13"/>問道錄》訪<ref type="person" target="#A001662">師</ref>。……<lb
+ed="X" n="0655c15"/><persName key="A020602">仙</persName>禮拜，玄墓<persName key="A003668">漢<lb
+ed="X" n="0655c16"/>月藏</persName>禪師書至。<ref type="person" target="#A001662">師</ref>以為千里同風，即撾鼓陞堂，說妙法語，語見《聚雲全錄》。命維那對眾宣讀<ref type="person" target="#A003668">其</ref>書。……<lb
+ed="X" n="0656a22"/>康熙丙寅冬，<ref type="person" target="#A000400">余</ref>為<persName key="A001513">天童</persName>封龕佛事<lb
+ed="X" n="0656a23"/>經四明，過壽昌禪林訪舊。遇<ref type="person" target="#A001662">師</ref>之玄孫<persName key="A000635">統<roleName>公</roleName>別菴</persName>禪<lb
+ed="X" n="0656a24"/>師，始悉<persName key="A001662">真</persName>師三代全錄，不得不為之傳，補入《僧寶》。否<lb
+ed="X" n="0656a25"/>則闕典之責，其在<ref type="person" target="#A000400">余</ref>乎。</p>
+    <linkGrp>
+        <link targets="#0655c12 #0655c16"/>
+        <ptr target="#A001662" type="person"/>
+        <ptr target="#A020602" type="person"/>
+        <ptr target="#A003668" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0656a22 #0656a25"/>
+        <ptr target="#A000400" type="person"/>
+        <ptr target="#A000635" type="person"/>
+    </linkGrp>
+</div>

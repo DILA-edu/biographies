@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0195a02shiTongHe">
+<lb ed="B" n="0195a02"/><anchor n="B.27.0151.0195a02"/><head>清雲南水目山寶華寺沙門<persName key="A012324">釋通荷</persName>
+傳</head>
+<lb ed="B" n="0195a03"/><p xml:id="pB27p0195a0301"><persName key="A012324">釋通荷</persName>，字<persName key="A012324">擔當</persName>，原名<persName key="A012324">普荷</persName>，自題<persName key="A012324">橛庵草</persName>云，前名<persName key="A012324">普荷</persName>。從戒師<persName key="A000854">無
+<lb ed="B" n="0195a04"/>住</persName>遵戒而不嗣法，今名<persName key="A012324">通荷</persName>，從先師<persName key="A005648">雲門</persName>嗣法而遵正眼。<persName key="A012324">荷</persName>本
+<lb ed="B" n="0195a05"/>諸生，姓唐名<persName key="A012324">泰</persName>，字<persName key="A012324">大來</persName>，雲南晉寧人。以明經謁選，不赴，避遊吳
+<lb ed="B" n="0195a06"/>越。環觀山水，寄心空寂，故歸滇禮<persName key="A000854">無住</persName>祝髮，復參<persName key="A005648">雲門</persName>，湛然多
+<lb ed="B" n="0195a07"/>所啟悟，竟授傳衣。復往來雞足、點蒼、水目、寶臺間，隨地吟賞，發
+<lb ed="B" n="0195a08"/>諸禪悅。視斤斤<!-- 喻小 -->自喜者，殊不為意。<date from-iso="+1673-11-09" key="j23324242332512" to-iso="+1674-02-05">康熙癸丑冬</date>示疾，趺坐書偈
+<lb ed="B" n="0195a09"/>日：「天也破，地也破，認著擔當便錯過，舌頭已斷誰敢坐。」以示二
+<lb ed="B" n="0195a10"/>眾，寂然順化。壽八十有一。所著有《翛園》、《橛庵草》二集及《拈花頌》
+<lb ed="B" n="0195a11"/>百韻。</p>
+    <linkGrp>
+        <link targets="#0195a03 #0195a04"/>
+        <ptr target="#A012324" type="person"/>
+        <ptr target="#A000854" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0195a04 #0195a04"/>
+        <ptr target="#A012324" type="person"/>
+        <ptr target="#A005648" type="person"/>
+    </linkGrp>
+</div>

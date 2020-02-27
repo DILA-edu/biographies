@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0334a07shiXingYuan"><lb
+ed="X" n="0334a07"/><anchor n="X.87.1626.0334a07"/><head><persName key="A000392">釋行元</persName></head><p xml:id="pX87p0334a0701">……<lb
+ed="X" n="0334a10"/>大明崇禎甲戌春，往黃檗參<persName key="A001150">費隱</persName>和<lb
+ed="X" n="0334a11"/>尚。凡有所問，被痛棒打出。未幾證入玄奧，命掌記室。……<lb
+ed="X" n="0334a14"/>……戊子夏初，海鹽護法<persName key="A000922">徐覲周</persName>等，以金粟虗席，集<lb
+ed="X" n="0334a15"/>眾卜請。<ref type="person" target="#A000392">師</ref>恬然自若，繼席六載。……</p>
+    <linkGrp>
+        <link targets="#0334a10 #0334a11"/>
+        <ptr target="#A000392" type="person"/>
+        <ptr target="#A001150" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0334a14 #0334a15"/>
+        <ptr target="#A000392" type="person"/>
+        <ptr target="#A000922" type="person"/>
+    </linkGrp>
+</div>

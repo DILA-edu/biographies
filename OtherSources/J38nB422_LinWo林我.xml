@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0583c21shiLinWo"><lb
+ed="J" n="0583c21"/><anchor n="J.38.B422.0583c21"/><head><persName key="A016352">林我</persName>禪師行實</head><lb
+ed="J" n="0583c22"/><p xml:id="pJ38p0583c2201">……<lb
+ed="J" n="0583c28"/>……遂就本境萬緣寺禮<persName key="A042755">大慈</persName>師披剃。年<lb
+ed="J" n="0583c29"/>十四值母卒，孤苦任緣。至十六同友過城都，聞桂谿<lb
+ed="J" n="0583c30"/>庄聽講《法華》，歷講五載，始入大隋參<persName key="A042756">寶池</persName>和尚圓具<lb
+ed="J" n="0584a01"/>戒。次參<persName key="A016304">昭覺惟一</persName>和尚、聖塔離旨和尚、<persName key="A026222">大雲靈筏</persName>和<lb
+ed="J" n="0584a02"/>尚、<persName key="A004353">蠶司無漏</persName>和尚、<persName key="A015893">大菴鑑隋</persName>和尚、鹿池嶽川和尚、<persName key="A026164">雪<lb
+ed="J" n="0584a03"/>門含璞</persName>和尚，不過隨眾請益，於衣線下事竟未迥脫。<lb
+ed="J" n="0584a04"/>崇禎十七年，蜀中大亂，屠戮之慘不忍見聞。時與同<lb
+ed="J" n="0584a05"/>參<persName key="A042757">若蓮</persName>等過新都，適牧主鞏署龍安府事謁見，力勉<lb
+ed="J" n="0584a06"/>過秦，給路引盤費，始得入秦，住南安、貴清、天水、清涼，<lb
+ed="J" n="0584a07"/>歷終南一帶，山居十餘載。戊申夏聞<persName key="A010007">風穴雲峨</persName>和尚<lb
+ed="J" n="0584a08"/>應長安大興善寺請，遂束裝參見。入室問答機緣，詳<lb
+ed="J" n="0584a09"/>載《風穴錄》中，命補知藏職。一日殿前經行次，同寮<persName key="A042758">西<lb
+ed="J" n="0584a10"/>來</persName>上座見<persName key="A010007">雲峨</persName>和尚對聯有喝佛罵祖之句尋問山<lb
+ed="J" n="0584a11"/>僧……<lb
+ed="J" n="0584a16"/>……夏<lb
+ed="J" n="0584a17"/>末<persName key="A010007">峨</persName>和尚回風穴命守方丈<persName key="A040819">雪兆</persName>兄監理院事。秋初<lb
+ed="J" n="0584a18"/>先老人<persName key="A026317">易菴</persName>和尚自雙桂拽杖來秦，寓興善。<persName key="A040819">雪</persName>兄輩<lb
+ed="J" n="0584a19"/>堅留過冬。己酉春<ref type="person" target="#A026317">老人</ref>欲南行，出源流拂子，抑逼受<lb
+ed="J" n="0584a20"/>法，山僧抱病力辭。侍者收回，暗藏枕後而去。……</p>
+    <linkGrp>
+        <link targets="#0583c28 #0583c28"/>
+        <ptr target="#A016352" type="person"/>
+        <ptr target="#A042755" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0583c30 #0583c30"/>
+        <ptr target="#A016352" type="person"/>
+        <ptr target="#A042756" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0584a01 #0584a03"/>
+        <ptr target="#A016352" type="person"/>
+        <ptr target="#A016304" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0584a01 #0584a03"/>
+        <ptr target="#A016352" type="person"/>
+        <ptr target="#A026222" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0584a01 #0584a03"/>
+        <ptr target="#A016352" type="person"/>
+        <ptr target="#A004353" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0584a01 #0584a03"/>
+        <ptr target="#A016352" type="person"/>
+        <ptr target="#A015893" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0584a01 #0584a03"/>
+        <ptr target="#A016352" type="person"/>
+        <ptr target="#A026164" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0584a04 #0584a05"/>
+        <ptr target="#A016352" type="person"/>
+        <ptr target="#A042757" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0584a07 #0584a08"/>
+        <ptr target="#A016352" type="person"/>
+        <ptr target="#A010007" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0584a09 #0584a10"/>
+        <ptr target="#A016352" type="person"/>
+        <ptr target="#A010007" type="person"/>
+        <ptr target="#A042758" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0584a17 #0584a17"/>
+        <ptr target="#A016352" type="person"/>
+        <ptr target="#A010007" type="person"/>
+        <ptr target="#A040819" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0584a18 #0584a19"/>
+        <ptr target="#A016352" type="person"/>
+        <ptr target="#A026317" type="person"/>
+        <ptr target="#A040819" type="person"/>
+    </linkGrp>
+</div>

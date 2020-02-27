@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" type="雜識" xml:id="gsz0466b18shiZhiXian"><lb
-ed="B" n="0466b18"/><anchor n="B.27.0151.0466b18"/><head>清潤州焦山寺沙門<persName key="A014525">釋智先</persName>傳<persName type="secondary" key="A014523">德鏡</persName><persName type="secondary" key="A020898">行載</persName></head><lb
-ed="B" n="0466b19"/><p xml:id="pB27p0466b1901"><persName key="A014525">釋智先</persName>，字<persName key="A014525">古樵</persName>，原名<persName key="A014525">興上</persName>，姓張氏，儀徵人。年十一投焦山<persName key="A043042">元孚</persName><lb
-ed="B" n="0466b20"/>出家，參<persName key="A015934">問石乘</persName>無得。一日登山，失足傾仆，遂翻然有省。博綜內<pb ed="B" xml:id="B27.0151.0467a" n="0467a"/><lb
-ed="B" n="0467a01"/>典，兼善文翰。住焦巖四十年，從事興復，始終不倦。鳩工庀材，百<lb
-ed="B" n="0467a02"/>廢具舉，四方之眾，至者如歸。嘗寫大士像，刻石自為之贊。纂《山<lb
-ed="B" n="0467a03"/>志》，未削稾而卒。弟子<persName key="A014523">德鏡</persName>，字<persName key="A014523">鑑堂</persName>，姓劉氏，山陽人。<persName key="A014525">智先</persName>創藏閣，<lb
-ed="B" n="0467a04"/>功未竟，<persName key="A014523">德鏡</persName>嗣<ref type="person" target="#A014525">之</ref>，以繼述為<anchor xml:id="beg_210" type="cb-app"/>己<anchor xml:id="end_210"/>任，悉臻完善。<ref type="person" target="#A014523">其</ref>徒<persName key="A020898">行載</persName>，字<persName key="A020898">碩庵</persName>，<lb
-ed="B" n="0467a05"/>姓段氏，泰州人。與江都<persName key="A043043">謝家樹</persName>、山陰<persName key="A043044">潘寧</persName>同輯《焦山志》，就<persName key="A014525">智先</persName><lb
-ed="B" n="0467a06"/>初藁而續成之。<persName key="A020898">載</persName>幼時出家於清淨庵，有橋在庵東半里。<persName key="A020898">載</persName>常<lb
-ed="B" n="0467a07"/>至橋下取柴，十數年未嘗過橋，其天性恬靜如此。</p>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="雜識" xml:id="gsz0466b18shiZhiXian">
+<lb ed="B" n="0466b18"/><anchor n="B.27.0151.0466b18"/><head>清潤州焦山寺沙門<persName key="A014525">釋智先</persName>傳<persName type="secondary" key="A014523">德鏡</persName><persName type="secondary" key="A020898">行載</persName></head>
+<lb ed="B" n="0466b19"/><p xml:id="pB27p0466b1901"><persName key="A014525">釋智先</persName>，字<persName key="A014525">古樵</persName>，原名<persName key="A014525">興上</persName>，姓張氏，儀徵人。年十一投焦山<persName key="A043042">元孚</persName>
+<lb ed="B" n="0466b20"/>出家，參<persName key="A015934">問石乘</persName>無得。一日登山，失足傾仆，遂翻然有省。博綜內<pb ed="B" xml:id="B27.0151.0467a" n="0467a"/>
+<lb ed="B" n="0467a01"/>典，兼善文翰。住焦巖四十年，從事興復，始終不倦。鳩工庀材，百
+<lb ed="B" n="0467a02"/>廢具舉，四方之眾，至者如歸。嘗寫大士像，刻石自為之贊。纂《山
+<lb ed="B" n="0467a03"/>志》，未削稾而卒。弟子<persName key="A014523">德鏡</persName>，字<persName key="A014523">鑑堂</persName>，姓劉氏，山陽人。<persName key="A014525">智先</persName>創藏閣，
+<lb ed="B" n="0467a04"/>功未竟，<persName key="A014523">德鏡</persName>嗣<ref type="person" target="#A014525">之</ref>，以繼述為<anchor xml:id="beg_210" type="cb-app"/>己<anchor xml:id="end_210"/>任，悉臻完善。<ref type="person" target="#A014523">其</ref>徒<persName key="A020898">行載</persName>，字<persName key="A020898">碩庵</persName>，
+<lb ed="B" n="0467a05"/>姓段氏，泰州人。與江都<persName key="A043043">謝家樹</persName>、山陰<persName key="A043044">潘寧</persName>同輯《焦山志》，就<persName key="A014525">智先</persName>
+<lb ed="B" n="0467a06"/>初藁而續成之。<persName key="A020898">載</persName>幼時出家於清淨庵，有橋在庵東半里。<persName key="A020898">載</persName>常
+<lb ed="B" n="0467a07"/>至橋下取柴，十數年未嘗過橋，其天性恬靜如此。</p>
     <linkGrp>
         <link targets="#0466b19 #0466b20"/>
         <ptr target="#A014525" type="person"/>

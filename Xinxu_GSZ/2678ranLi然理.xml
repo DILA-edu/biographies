@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0422a19shiRanLi"><lb
-ed="B" n="0422a19"/><anchor n="B.27.0151.0422a19"/><head>清虞山福興寺沙門<persName key="A042332">釋然理</persName>
-傳</head><lb
-ed="B" n="0422a20"/><p xml:id="pB27p0422a2001"><persName key="A042332">釋然理</persName>，字<persName key="A042332">智宏</persName>，姓趙氏，本宋宗室，藩守蓉城，世居江陰。父<persName key="A042876">子祥</persName>，<pb ed="B" xml:id="B27.0151.0422b" n="0422b"/><lb
-ed="B" n="0422b01"/>母<persName key="A042877">裘氏</persName>。<persName key="A042332">理</persName>生有夙緣，幼而頴異，依近邑廣福寺<persName key="A042878">大乘</persName>為度師。<ref type="date" target="#j23453002345653">年<lb
-ed="B" n="0422b02"/>二十五</ref>秉戒於寶華<persName key="A042321">閔緣</persName>，鑽研律蔀，精進不已。後至姑蘇入真<lb
-ed="B" n="0422b03"/>諦<persName key="A042879">利咸</persName>室，分主婁東海寧，大施法雨，化導彌多。<date from-iso="+1723-02-05" key="j23504082350762" to-iso="+1724-01-25">雍正元年</date>應虞<lb
-ed="B" n="0422b04"/>山福興之請，時殿堂圯廢，廊廡蕭然，榛草蔓延，香煙斷絕。千年<lb
-ed="B" n="0422b05"/>古剎，代有高僧，荒蕪若此，心焉傷之。遂立弘誓，殫志修復。而歲<lb
-ed="B" n="0422b06"/>值凶歉，一粥難支。又前者棄產負糧，追呼日迫，幸檀越不遠，化<lb
-ed="B" n="0422b07"/>施相應。陶太史<!-- 陶彝？ -->、<persName key="A023971">汪<roleName>宮贊</roleName></persName>皆力為護持，虞山趙氏同出江陰，亦竭<lb
-ed="B" n="0422b08"/>貲相濟。二十年中，頹者葺之，廢者興之。昔日榛莽，煥焉改觀。<date from-iso="+1744-11-04" key="j23583512358439" to-iso="+1745-01-31">甲<lb
-ed="B" n="0422b09"/>子冬</date>年<anchor xml:id="beg_1d9" type="cb-app"/>已<anchor xml:id="end_1d9"/>六十，門人方思為壽，<persName key="A042332">理</persName>力止之，謂四相皆空，何有壽<lb
-ed="B" n="0422b10"/>者？士林聞之，益加敬仰。<date from-iso="+1746-01-22" key="j23587952359177" to-iso="+1747-02-08">乾隆十一年丙寅</date>，以院事付其徒<persName key="A042880">至善</persName>，<lb
-ed="B" n="0422b11"/>乃退居於破山西偏。一鑪一經，翛然自遠。不知所終。</p>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0422a19shiRanLi">
+<lb ed="B" n="0422a19"/><anchor n="B.27.0151.0422a19"/><head>清虞山福興寺沙門<persName key="A042332">釋然理</persName>
+傳</head>
+<lb ed="B" n="0422a20"/><p xml:id="pB27p0422a2001"><persName key="A042332">釋然理</persName>，字<persName key="A042332">智宏</persName>，姓趙氏，本宋宗室，藩守蓉城，世居江陰。父<persName key="A042876">子祥</persName>，<pb ed="B" xml:id="B27.0151.0422b" n="0422b"/>
+<lb ed="B" n="0422b01"/>母<persName key="A042877">裘氏</persName>。<persName key="A042332">理</persName>生有夙緣，幼而頴異，依近邑廣福寺<persName key="A042878">大乘</persName>為度師。<ref type="date" target="#j23453002345653">年
+<lb ed="B" n="0422b02"/>二十五</ref>秉戒於寶華<persName key="A042321">閔緣</persName>，鑽研律蔀，精進不已。後至姑蘇入真
+<lb ed="B" n="0422b03"/>諦<persName key="A042879">利咸</persName>室，分主婁東海寧，大施法雨，化導彌多。<date from-iso="+1723-02-05" key="j23504082350762" to-iso="+1724-01-25">雍正元年</date>應虞
+<lb ed="B" n="0422b04"/>山福興之請，時殿堂圯廢，廊廡蕭然，榛草蔓延，香煙斷絕。千年
+<lb ed="B" n="0422b05"/>古剎，代有高僧，荒蕪若此，心焉傷之。遂立弘誓，殫志修復。而歲
+<lb ed="B" n="0422b06"/>值凶歉，一粥難支。又前者棄產負糧，追呼日迫，幸檀越不遠，化
+<lb ed="B" n="0422b07"/>施相應。陶太史<!-- 陶彝？ -->、<persName key="A023971">汪<roleName>宮贊</roleName></persName>皆力為護持，虞山趙氏同出江陰，亦竭
+<lb ed="B" n="0422b08"/>貲相濟。二十年中，頹者葺之，廢者興之。昔日榛莽，煥焉改觀。<date from-iso="+1744-11-04" key="j23583512358439" to-iso="+1745-01-31">甲
+<lb ed="B" n="0422b09"/>子冬</date>年<anchor xml:id="beg_1d9" type="cb-app"/>已<anchor xml:id="end_1d9"/>六十，門人方思為壽，<persName key="A042332">理</persName>力止之，謂四相皆空，何有壽
+<lb ed="B" n="0422b10"/>者？士林聞之，益加敬仰。<date from-iso="+1746-01-22" key="j23587952359177" to-iso="+1747-02-08">乾隆十一年丙寅</date>，以院事付其徒<persName key="A042880">至善</persName>，
+<lb ed="B" n="0422b11"/>乃退居於破山西偏。一鑪一經，翛然自遠。不知所終。</p>
     <linkGrp>
         <link targets="#0422a20 #0422b01"/>
         <ptr target="#A042332" type="person"/>

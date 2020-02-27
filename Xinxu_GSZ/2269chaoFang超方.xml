@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0194a11shiChaoFang">
+<lb ed="B" n="0194a11"/><anchor n="B.27.0151.0194a11"/><head>清燕京柏林寺沙門<persName key="A021801">釋超方</persName>傳</head>
+<lb ed="B" n="0194a12"/><p xml:id="pB27p0194a1201"><persName key="A021801">釋超方</persName>，字<persName key="A021801">獨超</persName>，姓沈氏，武進人。母氏<persName key="A043133">徐</persName>懷素履絜，義訓惟謹，故
+<lb ed="B" n="0194a13"/><persName key="A021801">超</persName>方生而岐<anchor xml:id="beg019401"/><choice><sic resp="CBETA">凝</sic><corr resp="PC-MB">嶷</corr></choice><anchor xml:id="end019401"/>，舉止端詳，居恆趺坐，不異老僧。<ref type="date" target="#j23284972328850">年二十</ref>從大蓮
+<lb ed="B" n="0194a14"/><persName key="A043134">克閑</persName>芟染，圓具華山<!-- 寶華山 --><persName key="A001972">見月</persName>。後入資福參<persName key="A004078">靈機</persName>，憤志大事，胸次了
+<lb ed="B" n="0194a15"/>然。猶以未盡閫奧，繼往徑山，坐枯木禪三年。時<persName key="A004105">天笠</persName>在鎮江竹
+<lb ed="B" n="0194a16"/>林，以書招<ref type="person" target="#A021801">之</ref>。<persName key="A004105">笠</persName>有大名，慎許可，獨見<persName key="A021801">超方</persName>如合水乳，便受付屬，
+<lb ed="B" n="0194a17"/>為臨濟三十三世。出主金壇東禪、武陵南澗、臨安東天目、山陰
+<lb ed="B" n="0194a18"/>寶壽。<date from-iso="+1699-01-31" key="j23416382342021" to-iso="+1700-02-18">康熙三十八年</date>詔住京都柏林，逾年辭歸，賜金經、衣缽。<persName key="A000212">世
+<lb ed="B" n="0194a19"/>宗</persName>方在藩邸，分府城東，企<ref type="person" target="#A021801">其</ref>清玅，嘗與往還，譚論法要，甚相契
+<lb ed="B" n="0194a20"/>合。歸後六年，以<date when-iso="+1711-01-26" key="j23460152346015">康熙庚寅嘉平月八日</date>示寂，壽六十八，臘四十<pb ed="B" xml:id="B27.0151.0194b" n="0194b"/>
+<lb ed="B" n="0194b01"/>八。<persName key="A000212">憲</persName>廟聞之，不勝嗟悼。<date from-iso="+1711-02-17" key="j23460372346391" to-iso="+1712-02-06">明年辛卯</date>遣官建塔，且鐫銘焉！篆額書
+<lb ed="B" n="0194b02"/>丹，皆出宸翰，文具《山志》<!-- 《武林理安寺志．卷5．傳臨濟正宗第三十三代．第十次住持獨超方禪師》(《中國佛寺史志彙刊》，第1輯，第21冊，頁0243) -->，靈骨藏於山陰寶壽山。<persName key="A021801">超方</persName>高顙深目，
+<lb ed="B" n="0194b03"/>虎視鶴行，平居寡言笑，鉗錘森嚴，不以辭色假人。諸方老宿，見
+<lb ed="B" n="0194b04"/>者莫不悚慄。歷數大剎，四方衲子，雲蒸輻輳。所著《語錄》一卷，<persName key="A000212">憲</persName>
+<lb ed="B" n="0194b05"/>廟為之序，其略曰：「原夫道昉鷲山，法開鹿野。伽林書貝，義學於
+<lb ed="B" n="0194b06"/>是敷條；師座拈花，禪宗為之發穎。然而自周及漢，大乘僅顯夫
+<lb ed="B" n="0194b07"/>新頭<!-- 《武林理安寺志．卷7．世宗憲皇帝御製語錄序》：「大乘僅顯於新頭」(《中國佛寺史志彙刊》，第1輯，第21冊，頁0404) -->；由魏迄梁，妙諦未傳於震旦。自海州遙<anchor xml:id="beg019403"/><choice><sic resp="CBETA">洎</sic><corr resp="PC-MB">泊</corr></choice><anchor xml:id="end019403"/><!-- 《武林理安寺志．卷7．世宗憲皇帝御製語錄序》：「海州遙泊」(《中國佛寺史志彙刊》，第1輯，第21冊，頁0404) -->，嵩室弘開，揭淨
+<lb ed="B" n="0194b08"/>體之光明，示無心之元寂。於是智鐙續耀，朗月連輝。法信六傳
+<lb ed="B" n="0194b09"/>至<persName key="A003627">臨濟</persName><!-- 《武林理安寺志．卷7．世宗憲皇帝御製語錄序》：「法信六傳至靈照」(《中國佛寺史志彙刊》，第1輯，第21冊，頁0404) -->，而門庭益廣，派流千別。惟滹沱之瓶缽堪珍，自唐以來，
+<lb ed="B" n="0194b10"/>於今轉盛。獨<persName key="A021801">超方</persName>禪師者，幼鍾福慧，長涉文華。厭世網之沈迷，
+<lb ed="B" n="0194b11"/>慷慨別父；緣夙因之深厚，勇決尋師。珠毓<!-- 通「育」 -->難生席設，何嘗著脇
+<lb ed="B" n="0194b12"/>牆遮？<persName key="A003881">慧可</persName>雪來，都至埋腰。恒因苦以悟空，遂離塵而證道。高提
+<lb ed="B" n="0194b13"/>祖印，明湖之草木增榮；遠振宗風，赤縣之人天引領。共迎桑宿，
+<lb ed="B" n="0194b14"/>來主柏林。暮鼓朝鐘，數百眾之軍持翕集；擎拳豎拂，三千界之
+<lb ed="B" n="0194b15"/>道信爭來。變定水於迷津，回岐途為覺路。積成公案，錄自支那。
+<lb ed="B" n="0194b16"/>現教外之圓通，脫人間之撰<anchor xml:id="beg019405"/><choice><sic resp="CBETA">迷</sic><corr resp="PC-MB">述</corr></choice><anchor xml:id="end019405"/><!-- 《武林理安寺志．卷7．世宗憲皇帝御製語錄序》：「人間之撰述」(《中國佛寺史志彙刊》，第1輯，第21冊，頁0405) -->。精求弁簡，顧屬制文。<ref type="person" target="#A000212">余</ref>忝列藩
+<lb ed="B" n="0194b17"/>維，沃叨<ref type="person" target="#A006719">宸</ref>眷。拱薇<anchor xml:id="beg019407"/><choice><sic resp="CBETA">坦</sic><corr resp="PC-MB">垣</corr></choice><anchor xml:id="end019407"/>以北陌，<anchor xml:id="beg019408"/><choice><sic resp="CBETA">適</sic><corr resp="PC-MB">邇</corr></choice><anchor xml:id="end019408"/>蘭若為南鄰。數以《詩》《禮》之餘間，
+<lb ed="B" n="0194b18"/>來與菩提之勝會。恒河比貌，警語頻承；吾岫聞經，梵音罕譜。潛
+<lb ed="B" n="0194b19"/>符冥冥，頗量測以靡涯；崇委殷殷，欲遷<anchor xml:id="beg019410"/><choice><sic resp="CBETA">言</sic><corr resp="PC-MB">延</corr></choice><anchor xml:id="end019410"/><!-- 《武林理安寺志．卷7．世宗憲皇帝御製語錄序》：「欲遷延而不得」(《中國佛寺史志彙刊》，第1輯，第21冊，頁0405) -->而不得。懵箇中之賓
+<lb ed="B" n="0194b20"/>主，贅門外之言詮。玉帶鎮山，何妨一笑？金棲在望，佇喻三禪。」又<pb ed="B" xml:id="B27.0151.0195a" n="0195a"/>
+<lb ed="B" n="0195a01"/>著《淨土格言》一卷，並行於世。</p>
+    <linkGrp>
+        <link targets="#0194a12 #0194a12"/>
+        <ptr target="#A021801" type="person"/>
+        <ptr target="#A043133" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0194a13 #0194a14"/>
+        <ptr target="#A021801" type="person"/>
+        <ptr target="#A043134" type="person"/>
+        <ptr target="#j23284972328850" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0194a14 #0194a14"/>
+        <ptr target="#A021801" type="person"/>
+        <ptr target="#A001972" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0194a14 #0194a14"/>
+        <ptr target="#A021801" type="person"/>
+        <ptr target="#A004078" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0194a15 #0194a17"/>
+        <ptr target="#A021801" type="person"/>
+        <ptr target="#A004105" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0194a15 #0194a17"/>
+        <ptr target="#A021801" type="person"/>
+        <ptr target="#A004105" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0194a18 #0194a18"/>
+        <ptr target="#A021801" type="person"/>
+        <ptr target="#A006719" type="person"/>
+        <ptr target="#j23416382342021" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0194a18 #0194a19"/>
+        <ptr target="#A021801" type="person"/>
+        <ptr target="#A000212" type="person"/>
+    </linkGrp>
+</div>

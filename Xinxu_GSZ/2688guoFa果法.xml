@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0426b10shiGuoFa"><lb
-ed="B" n="0426b10"/><anchor n="B.27.0151.0426b10"/><head>清衡陽太和菴沙門<persName key="A042463">釋果法</persName>傳<persName type="secondary" key="A042915">清和澄</persName></head><lb
-ed="B" n="0426b11"/><p xml:id="pB27p0426b1101"><persName key="A042463">釋果法</persName>，字<persName key="A042463">名則</persName>，姓徐氏，贛人也。幼罹寇亂，轉徙衡中，依太和<persName key="A042462">慧<lb
-ed="B" n="0426b12"/>明</persName>出家。精持律儀，謹言慎行，目不邪視，務力勤嗇，刻意苦行，辛<lb
-ed="B" n="0426b13"/>劬三十年，重葺殿堂，式廓舊模。視<persName key="A042463">法</persName>初來時院宇頹敝，香廚無<lb
-ed="B" n="0426b14"/>一日之積，不啻倍蓰。後因碧巖開西禪叢席，且欲捐其田租百<lb
-ed="B" n="0426b15"/>石，以助勝緣。再傳弟子<persName key="A042915">清和澄</persName>，稟承懿範，贊襄尤多。時出餘貲，<lb
-ed="B" n="0426b16"/>修道設亭，以利行者。西禪之捐，卒成其手。</p>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0426b10shiGuoFa">
+<lb ed="B" n="0426b10"/><anchor n="B.27.0151.0426b10"/><head>清衡陽太和菴沙門<persName key="A042463">釋果法</persName>傳<persName type="secondary" key="A042915">清和澄</persName></head>
+<lb ed="B" n="0426b11"/><p xml:id="pB27p0426b1101"><persName key="A042463">釋果法</persName>，字<persName key="A042463">名則</persName>，姓徐氏，贛人也。幼罹寇亂，轉徙衡中，依太和<persName key="A042462">慧
+<lb ed="B" n="0426b12"/>明</persName>出家。精持律儀，謹言慎行，目不邪視，務力勤嗇，刻意苦行，辛
+<lb ed="B" n="0426b13"/>劬三十年，重葺殿堂，式廓舊模。視<persName key="A042463">法</persName>初來時院宇頹敝，香廚無
+<lb ed="B" n="0426b14"/>一日之積，不啻倍蓰。後因碧巖開西禪叢席，且欲捐其田租百
+<lb ed="B" n="0426b15"/>石，以助勝緣。再傳弟子<persName key="A042915">清和澄</persName>，稟承懿範，贊襄尤多。時出餘貲，
+<lb ed="B" n="0426b16"/>修道設亭，以利行者。西禪之捐，卒成其手。</p>
     <linkGrp>
         <link targets="#0426b11 #0426b12"/>
         <ptr target="#A042463" type="person"/>

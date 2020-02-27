@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0656b01shiTongQi"><lb
+ed="J" n="0656b01"/><anchor n="J.26.B186.0656b01"/><head>天童<persName key="A012053">林野奇</persName>和尚行狀</head><p xml:id="pJ26p0656b0101">……<lb
+ed="J" n="0656b22"/>至庚午春聞<persName key="A003688">悟</persName>過當湖，遣護關者求開示。<persName key="A003688">悟</persName>云：「教<ref type="person" target="#A012053">他</ref><lb
+ed="J" n="0656b23"/>關中莫妄想。」……<lb
+ed="J" n="0657a01"/>……未幾<persName key="A003688">悟</persName>因事出山，<ref type="person" target="#A012053">師</ref>隨至嘉禾，寓<persName key="A037498">黃闇齋</persName>觀<lb
+ed="J" n="0657a02"/>察素園中受付囑焉！……<lb
+ed="J" n="0657a04"/>……<persName key="A004667">顧<lb
+ed="J" n="0657a05"/>瑞屏</persName>宗伯同寧紹兩郡當道縉紳，再三敦請，<persName key="A003688">悟</persName>和尚<lb
+ed="J" n="0657a06"/>復返天童。冬期立<ref type="person" target="#A012053">師</ref>為西堂。……<lb
+ed="J" n="0657a10"/>……<persName key="A042720">孫<lb
+ed="J" n="0657a11"/><roleName>司馬</roleName>碩膚</persName>諸檀護堅請開法，風雨晦明歷諸艱。……<lb
+ed="J" n="0657a14"/>……平素書問<lb
+ed="J" n="0657a15"/>訶禁，弢藏天台。惟<persName key="A042721">陳木叔</persName>司馬為所雅重，乙酉春有<lb
+ed="J" n="0657a16"/>詩贈「嶺外遊雲來又去，忘年拙衲定荒嶺」之句。丙戌<lb
+ed="J" n="0657a17"/>秋<persName key="A042721">陳</persName>以絕命詩十二章，手書告別<ref type="person" target="#A012053">師</ref>。……<lb
+ed="J" n="0657a21"/>……丁亥冬至嘉<lb
+ed="J" n="0657a22"/>禾黃觀察闇齋、<persName key="A001004">高<roleName>水部</roleName>寓公</persName>、汪進士曾城諸縉紳檀<lb
+ed="J" n="0657a23"/>護請住東塔寺安期，旋為<persName key="A042722">錢<roleName>閣學</roleName>塞菴</persName>公暨諸緇白<lb
+ed="J" n="0657a24"/>請住棲真古剎。……<lb
+ed="J" n="0657b15"/>……<persName key="A014742">雪竇</persName>和尚問病而<lb
+ed="J" n="0657b16"/>至，必欲<ref type="person" target="#A012053">師</ref>歸方丈。<ref type="person" target="#A012053">師</ref>從容而返。築塔無基，堪輿擬以<lb
+ed="J" n="0657b17"/>新菴定穴。<ref type="person" target="#A012053">師</ref>聞之，斷不許可。……</p>
+    <linkGrp>
+        <link targets="#0656b22 #0656b23"/>
+        <ptr target="#A012053" type="person"/>
+        <ptr target="#A003688" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0657a01 #0657a02"/>
+        <ptr target="#A012053" type="person"/>
+        <ptr target="#A003688" type="person"/>
+        <ptr target="#A037498" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0657a04 #0657a05"/>
+        <ptr target="#A012053" type="person"/>
+        <ptr target="#A003688" type="person"/>
+        <ptr target="#A004667" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0657a10 #0657a11"/>
+        <ptr target="#A012053" type="person"/>
+        <ptr target="#A042720" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0657a15 #0657a17"/>
+        <ptr target="#A012053" type="person"/>
+        <ptr target="#A042721" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0657a21 #0657a23"/>
+        <ptr target="#A012053" type="person"/>
+        <ptr target="#A001004" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0657a23 #0657a24"/>
+        <ptr target="#A012053" type="person"/>
+        <ptr target="#A042722" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0657b15 #0657b17"/>
+        <ptr target="#A012053" type="person"/>
+        <ptr target="#A014742" type="person"/>
+    </linkGrp>
+</div>

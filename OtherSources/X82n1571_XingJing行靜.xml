@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0422a14shiXingJing"><lb
+ed="X" n="0422a14"/><anchor n="X.82.1571.0422a14"/><head>姑蘇虎丘香嚴<persName key="A016379">道安靜</persName>禪師</head><p xml:id="pX82p0422a1401">浙東餘姚鄭氏子，原名<lb
+ed="X" n="0422a15"/><persName key="A016379">錫隆</persName>，字<persName key="A016379">六冶</persName>。……<lb
+ed="X" n="0422a23"/>……二十一歲，受業於<persName key="A042744">管霞標</persName>之門，誨以<lb
+ed="X" n="0422a24"/><persName key="A008362">袁了凡</persName>功過<!-- 功過格 -->等書。喜甚，依而行之。後見<persName key="A042745">石浪沈求如</persName><lb
+ed="X" n="0422b01"/>諮決心疑，方識參禪一路。……<lb
+ed="X" n="0422b07"/>……自此參<lb
+ed="X" n="0422b08"/>扣<persName key="A003688">天童悟</persName>，多所請益。……<lb
+ed="X" n="0422b20"/>……即詣<persName key="A042745">石浪</persName>，盤桓究竟。……<lb
+ed="X" n="0422b24"/>入太陽山，禮<persName key="A018267">妙行</persName>尊宿，為剃度。<ref type="person" target="#A016379">師</ref>即以法海嗣席。因<lb
+ed="X" n="0422c01"/><persName key="A018267">妙</persName>逝，<ref type="person" target="#A016379">師</ref>為料理塔事竣。徧歷叢林，博訪知識。後參<persName key="A012053">天<lb
+ed="X" n="0422c02"/>童奇</persName>。……</p>
+    <linkGrp>
+        <link targets="#0422a23 #0422a24"/>
+        <ptr target="#A016379" type="person"/>
+        <ptr target="#A042744" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0422a24 #0422b01"/>
+        <ptr target="#A016379" type="person"/>
+        <ptr target="#A042745" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0422b07 #0422b08"/>
+        <ptr target="#A016379" type="person"/>
+        <ptr target="#A003688" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0422b24 #0422c01"/>
+        <ptr target="#A016379" type="person"/>
+        <ptr target="#A018267" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0422c01 #0422c02"/>
+        <ptr target="#A016379" type="person"/>
+        <ptr target="#A012053" type="person"/>
+    </linkGrp>
+</div>

@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" type="雜識" xml:id="gsz0468a07shiYiGuo"><lb
-ed="B" n="0468a07"/><anchor n="B.27.0151.0468a07"/><head>清杭州雲林寺沙門<persName key="A021893">釋義果</persName>傳<persName type="secondary" key="A022522">上志</persName></head><lb
-ed="B" n="0468a08"/><p xml:id="pB27p0468a0801"><persName key="A021893">釋義果</persName>，字<persName key="A021893">巨濤</persName>，姓章氏，丹徒人。<ref type="date" target="#j23420222342375">年十一</ref>父母命出家於焦山。及<lb
-ed="B" n="0468a09"/>長薙染，操行清苦，自名<persName key="A021893">薅草行人</persName>，<persName key="A043052">陳<roleName>太守</roleName>滄州</persName>甚器重<ref type="person" target="#A021893">之</ref>。受具<lb
-ed="B" n="0468a10"/>於燕京西山潭柘寺<persName key="A042361">德彰</persName>，後至杭侍雲林<persName key="A016537">諦暉</persName>執勤九載，略無<lb
-ed="B" n="0468a11"/>倦容。命參「不是」話，久之，入堂便問：「不是心，不是佛，不是物，是何？」<lb
-ed="B" n="0468a12"/>語未竟，<persName key="A016537">暉</persName>迎擊一篦。因有省，即呈偈云：「一擊敲開海底天，塵塵<lb
-ed="B" n="0468a13"/>剎剎盡歸源；當場拈出無私句，鐵馬嘶風躍九淵。」<persName key="A016537">暉</persName>頷之，旋受<lb
-ed="B" n="0468a14"/>付屬。<date notBefore-iso="+1723-02-05" key="j23504082355162" notAfter-iso="+1736-02-11">雍正時</date>繼席雲林，未幾入長安，於法門多所保護。<date from-iso="+1738-02-19" key="j23559012356254" to-iso="+1739-02-07">乾隆戊<lb
-ed="B" n="0468a15"/>午</date>復主院事，道望益崇。<persName key="A043053">汪</persName>光祿感其精懇，捨貲建築，廢墜一新。<lb
-ed="B" n="0468a16"/>寂於<date from-iso="+1758-07-05" key="j23633422363371" to-iso="+1758-08-03">乾隆二十三年六月</date>，壽六十四，有《語錄》及《薅艸行人詩集》，<lb
-ed="B" n="0468a17"/><persName key="A043054">沈廷瑞</persName>為之序。又<persName key="A022522">聞竹上志</persName>者，秀水人。亦得衣缽於<persName key="A016537">諦暉</persName>。主禾<lb
-ed="B" n="0468a18"/>中天寧二載，尋接雲林席。<date from-iso="+1732-08-20" key="j23538922353981" to-iso="+1732-11-17">雍正十年秋</date>饑，寺僧絕糧，<persName key="A022522">志</persName>為眾持<lb
-ed="B" n="0468a19"/>缽，朝夕市廛，卒賴以濟。而心身俱瘁，示疾徂化，年六十五，臘四<lb
-ed="B" n="0468a20"/>十九。有《忍菴賸語果》，亦留心文學，增修《雲林寺志》八卷，錢塘舉<pb ed="B" xml:id="B27.0151.0468b" n="0468b"/><lb
-ed="B" n="0468b01"/>人<persName key="A010967">厲鴞</persName>為之纂集焉！</p>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="雜識" xml:id="gsz0468a07shiYiGuo">
+<lb ed="B" n="0468a07"/><anchor n="B.27.0151.0468a07"/><head>清杭州雲林寺沙門<persName key="A021893">釋義果</persName>傳<persName type="secondary" key="A022522">上志</persName></head>
+<lb ed="B" n="0468a08"/><p xml:id="pB27p0468a0801"><persName key="A021893">釋義果</persName>，字<persName key="A021893">巨濤</persName>，姓章氏，丹徒人。<ref type="date" target="#j23420222342375">年十一</ref>父母命出家於焦山。及
+<lb ed="B" n="0468a09"/>長薙染，操行清苦，自名<persName key="A021893">薅草行人</persName>，<persName key="A043052">陳<roleName>太守</roleName>滄州</persName>甚器重<ref type="person" target="#A021893">之</ref>。受具
+<lb ed="B" n="0468a10"/>於燕京西山潭柘寺<persName key="A042361">德彰</persName>，後至杭侍雲林<persName key="A016537">諦暉</persName>執勤九載，略無
+<lb ed="B" n="0468a11"/>倦容。命參「不是」話，久之，入堂便問：「不是心，不是佛，不是物，是何？」
+<lb ed="B" n="0468a12"/>語未竟，<persName key="A016537">暉</persName>迎擊一篦。因有省，即呈偈云：「一擊敲開海底天，塵塵
+<lb ed="B" n="0468a13"/>剎剎盡歸源；當場拈出無私句，鐵馬嘶風躍九淵。」<persName key="A016537">暉</persName>頷之，旋受
+<lb ed="B" n="0468a14"/>付屬。<date notBefore-iso="+1723-02-05" key="j23504082355162" notAfter-iso="+1736-02-11">雍正時</date>繼席雲林，未幾入長安，於法門多所保護。<date from-iso="+1738-02-19" key="j23559012356254" to-iso="+1739-02-07">乾隆戊
+<lb ed="B" n="0468a15"/>午</date>復主院事，道望益崇。<persName key="A043053">汪</persName>光祿感其精懇，捨貲建築，廢墜一新。
+<lb ed="B" n="0468a16"/>寂於<date from-iso="+1758-07-05" key="j23633422363371" to-iso="+1758-08-03">乾隆二十三年六月</date>，壽六十四，有《語錄》及《薅艸行人詩集》，
+<lb ed="B" n="0468a17"/><persName key="A043054">沈廷瑞</persName>為之序。又<persName key="A022522">聞竹上志</persName>者，秀水人。亦得衣缽於<persName key="A016537">諦暉</persName>。主禾
+<lb ed="B" n="0468a18"/>中天寧二載，尋接雲林席。<date from-iso="+1732-08-20" key="j23538922353981" to-iso="+1732-11-17">雍正十年秋</date>饑，寺僧絕糧，<persName key="A022522">志</persName>為眾持
+<lb ed="B" n="0468a19"/>缽，朝夕市廛，卒賴以濟。而心身俱瘁，示疾徂化，年六十五，臘四
+<lb ed="B" n="0468a20"/>十九。有《忍菴賸語果》，亦留心文學，增修《雲林寺志》八卷，錢塘舉<pb ed="B" xml:id="B27.0151.0468b" n="0468b"/>
+<lb ed="B" n="0468b01"/>人<persName key="A010967">厲鴞</persName>為之纂集焉！</p>
     <linkGrp>
         <link targets="#0468a09 #0468a09"/>
         <ptr target="#A021893" type="person"/>

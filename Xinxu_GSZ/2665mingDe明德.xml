@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0414a11shiMingDe"><lb
-ed="B" n="0414a11"/><anchor n="B.27.0151.0414a11"/><head>衡陽東山智勝寺沙門<persName key="A016162">釋明德</persName>傳</head><lb
-ed="B" n="0414a12"/><p xml:id="pB27p0414a1201"><persName key="A016162">釋明德</persName>，字<persName key="A016162">本無</persName>，亦號<persName key="A016162">明憨</persName>，姑蘇人。幼歲捨身於練川西隱寺，初<lb
-ed="B" n="0414a13"/>為沙彌，便眈禪味。及長得戒於龍興<persName key="A042850">美元</persName>長老。會明季兵燹四<lb
-ed="B" n="0414a14"/>起，避地南來，禮拜衡嶽。更尋幽僻，卓錫於穿崖洞煙竹村。村外<lb
-ed="B" n="0414a15"/>東山高千仞，常見紫氣飛騰其巔。有石窟、石岩、石穴，虧蔽日月，<lb
-ed="B" n="0414a16"/>遮護風雨。開闢以來，莫知年歲，相傳為謝氏地。<persName key="A016162">德</persName>趺其巔，數日<lb
-ed="B" n="0414a17"/>不起，土人感之，竟訪其山主，乞得片地築廬而居。山故多虎豹，<lb
-ed="B" n="0414a18"/>薪采者苦之。自<persName key="A016162">德</persName>戾止，虎亦馴化，雖與人遇，略不加害。寂於<date from-iso="+1693-02-05" key="j23394522339805" to-iso="+1694-01-24">康<lb
-ed="B" n="0414a19"/>熙癸酉</date>，壽九十餘，塔於山陽。</p>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0414a11shiMingDe">
+<lb ed="B" n="0414a11"/><anchor n="B.27.0151.0414a11"/><head>衡陽東山智勝寺沙門<persName key="A016162">釋明德</persName>傳</head>
+<lb ed="B" n="0414a12"/><p xml:id="pB27p0414a1201"><persName key="A016162">釋明德</persName>，字<persName key="A016162">本無</persName>，亦號<persName key="A016162">明憨</persName>，姑蘇人。幼歲捨身於練川西隱寺，初
+<lb ed="B" n="0414a13"/>為沙彌，便眈禪味。及長得戒於龍興<persName key="A042850">美元</persName>長老。會明季兵燹四
+<lb ed="B" n="0414a14"/>起，避地南來，禮拜衡嶽。更尋幽僻，卓錫於穿崖洞煙竹村。村外
+<lb ed="B" n="0414a15"/>東山高千仞，常見紫氣飛騰其巔。有石窟、石岩、石穴，虧蔽日月，
+<lb ed="B" n="0414a16"/>遮護風雨。開闢以來，莫知年歲，相傳為謝氏地。<persName key="A016162">德</persName>趺其巔，數日
+<lb ed="B" n="0414a17"/>不起，土人感之，竟訪其山主，乞得片地築廬而居。山故多虎豹，
+<lb ed="B" n="0414a18"/>薪采者苦之。自<persName key="A016162">德</persName>戾止，虎亦馴化，雖與人遇，略不加害。寂於<date from-iso="+1693-02-05" key="j23394522339805" to-iso="+1694-01-24">康
+<lb ed="B" n="0414a19"/>熙癸酉</date>，壽九十餘，塔於山陽。</p>
     <linkGrp>
         <link targets="#0414a13 #0414a13"/>
         <ptr target="#A016162" type="person"/>

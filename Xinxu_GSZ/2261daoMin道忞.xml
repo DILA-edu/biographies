@@ -1,25 +1,25 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0411a02shiDaoMin"><lb
-ed="B" n="0188b11"/><anchor n="B.27.0151"/><head>清四明天童寺沙門釋道忞傳</head><lb
-ed="B" n="0188b12"/><p xml:id="pB27p0188b1201"><persName key="A001513">釋道忞</persName>，字<persName key="A001513">木陳</persName>，號<persName key="A001513">夢隱</persName>，<placeName key="PL000000030772">潮陽</placeName><name>林</name>氏子也。薙染於<placeName key="PL000000018959">匡廬開先</placeName><persName key="A042483">若昧<lb
-ed="B" n="0188b13"/>明</persName>，受戒具於<persName key="A001681">憨山</persName>。<date notBefore-iso="+1644-02-08" key="j23215572328141" notAfter-iso="+1662-02-17"><name>清</name><name>順治</name>時</date>賜號<persName key="A001513">弘覺禪師</persName>，更寺名曰<placeName>弘法</placeName>，錫<lb
-ed="B" n="0188b14"/>以勅印，賚予甚盛。勅曰<!-- 參L155n1643_p0078a04 -->：「<ref type="person" target="#A006714">朕</ref>惟<persName key="A002799">佛</persName>會拈華，妙心傳於<persName key="A002188">迦葉</persName>；禪行面<lb
-ed="B" n="0188b15"/>壁，宗旨付於<persName key="A003881">神光</persName>。六葉既敷<!-- 指至慧能 -->，千華競秀。蔭法雲於真際<!-- 宇宙本體，成佛的境界。 -->，火宅晨<lb
-ed="B" n="0188b16"/>涼；耀慧日於康衢<!-- 四通八達的道路 -->，重昏夜曉<!-- 以上20字出於王屮《頭陀寺碑文》。另參X80n1565_p0340a14 -->。以至眴目<!-- 眨眼 -->揚眉，擎拳舉指，皆合宗<lb
-ed="B" n="0188b17"/>門之妙諦，得教外之靈機，誠非他學可知，亦豈意生<!-- 謂菩薩。言能變化生死，隨意往生。參王屮《頭陀寺碑文》B33n0192_p0365b01 -->所度。眷言<!-- 回顧貌，緬懷 --><lb
-ed="B" n="0188b18"/>道行，冀覿高蹤，實悟真如，必先玄覺。咨爾禪僧<persName key="A001513">道忞</persName>，嗣法<persName key="A003688">天童</persName>，<lb
-ed="B" n="0188b19"/>傳宗臨濟，克證無生之旨，機自玄明；允通向上之關，悟稱真諦。<lb
-ed="B" n="0188b20"/>嘗稽載籍，祈會性真，間覽玄文，深嘉妙義。故時於聽政之暇，詢<pb ed="B" xml:id="B27.0151.0189a" n="0189a"/><lb
-ed="B" n="0189a01"/>爾以法道之微。乃名言之不緐<!-- 通「繁」 -->，克隨機而得解；玄關幽鍵，感即<lb
-ed="B" n="0189a02"/>能通遙源。濬波<!-- 很深的水流。參王屮《頭陀寺碑文》B33n0192_p0365b05 -->酌之不竭，傳一鐙<!-- 通「燈」 -->於種智。了萬法於真空，廣量<lb
-ed="B" n="0189a03"/>出於凡心。元明<!-- 又作本明。謂本覺之體清淨光明。 -->踰於宿學，引之於有；高謝<!-- 推辭 -->四流<!-- 欲流、有流、見流、無明流 -->，推之於無。俯弘<lb
-ed="B" n="0189a04"/>六度，信乎凡之可以證聖，<!-- 脫「洵哉」L155n1643_p0078b05 -->惟覺足以悟迷。非同測海窺天，固已<lb
-ed="B" n="0189a05"/>登堂入室，堪主法門之席，允稱禪眾之尊。是用封爾為<persName key="A001513">弘覺禪<lb
-ed="B" n="0189a06"/>師</persName>，錫之勅印。於戲！慈<anchor xml:id="beg018901"/><choice><sic resp="CBETA">周</sic><corr resp="PC-MB">舟</corr></choice><anchor xml:id="end018901"/>萬有，大身徧於十方；利濟四生<!-- 卵生、胎生、濕生、化生 -->，本覺超<lb
-ed="B" n="0189a07"/>乎三世。俾舉代咸登仁壽之域，<anchor xml:id="beg018903"/><choice><sic resp="CBETA">在</sic><corr resp="PC-MB">枉</corr></choice><anchor xml:id="end018903"/><!-- 參L155n1643_p0078b10 -->隨方<!-- 謂隨風俗民情之需 -->而啟般若之門。其益懋<lb
-ed="B" n="0189a08"/>爾勤修，庶弘開夫正梵。式承嘉命，丕闡宗風。欽哉！」以<date from-iso="+1674-07-04" key="j23326612332689" to-iso="+1674-08-01"><name>康熙</name>甲寅<lb
-ed="B" n="0189a09"/>六月</date>示寂，壽七十又九。荼毘頂骨五采，齒無損痕，塔於<placeName>平陽黃<lb
-ed="B" n="0189a10"/>龍峰</placeName>下。所著有紀年、專譜、語錄、詩文集及《北遊錄》。</p>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0411a02shiDaoMin">
+<lb ed="B" n="0188b11"/><anchor n="B.27.0151"/><head>清四明天童寺沙門<persName key="A001513">釋道忞</persName>傳</head>
+<lb ed="B" n="0188b12"/><p xml:id="pB27p0188b1201"><persName key="A001513">釋道忞</persName>，字<persName key="A001513">木陳</persName>，號<persName key="A001513">夢隱</persName>，<placeName key="PL000000030772">潮陽</placeName><name>林</name>氏子也。薙染於<placeName key="PL000000018959">匡廬開先</placeName><persName key="A042483">若昧
+<lb ed="B" n="0188b13"/>明</persName>，受戒具於<persName key="A001681">憨山</persName>。<date notBefore-iso="+1644-02-08" key="j23215572328141" notAfter-iso="+1662-02-17"><name>清</name><name>順治</name>時</date>賜號<persName key="A001513">弘覺禪師</persName>，更寺名曰<placeName>弘法</placeName>，錫
+<lb ed="B" n="0188b14"/>以勅印，賚予甚盛。勅曰<!-- 參L155n1643_p0078a04 -->：「<ref type="person" target="#A006714">朕</ref>惟<persName key="A002799">佛</persName>會拈華，妙心傳於<persName key="A002188">迦葉</persName>；禪行面
+<lb ed="B" n="0188b15"/>壁，宗旨付於<persName key="A003881">神光</persName>。六葉既敷<!-- 指至慧能 -->，千華競秀。蔭法雲於真際<!-- 宇宙本體，成佛的境界。 -->，火宅晨
+<lb ed="B" n="0188b16"/>涼；耀慧日於康衢<!-- 四通八達的道路 -->，重昏夜曉<!-- 以上20字出於王屮《頭陀寺碑文》。另參X80n1565_p0340a14 -->。以至眴目<!-- 眨眼 -->揚眉，擎拳舉指，皆合宗
+<lb ed="B" n="0188b17"/>門之妙諦，得教外之靈機，誠非他學可知，亦豈意生<!-- 謂菩薩。言能變化生死，隨意往生。參王屮《頭陀寺碑文》B33n0192_p0365b01 -->所度。眷言<!-- 回顧貌，緬懷 -->
+<lb ed="B" n="0188b18"/>道行，冀覿高蹤，實悟真如，必先玄覺。咨爾禪僧<persName key="A001513">道忞</persName>，嗣法<persName key="A003688">天童</persName>，
+<lb ed="B" n="0188b19"/>傳宗臨濟，克證無生之旨，機自玄明；允通向上之關，悟稱真諦。
+<lb ed="B" n="0188b20"/>嘗稽載籍，祈會性真，間覽玄文，深嘉妙義。故時於聽政之暇，詢<pb ed="B" xml:id="B27.0151.0189a" n="0189a"/>
+<lb ed="B" n="0189a01"/>爾以法道之微。乃名言之不緐<!-- 通「繁」 -->，克隨機而得解；玄關幽鍵，感即
+<lb ed="B" n="0189a02"/>能通遙源。濬波<!-- 很深的水流。參王屮《頭陀寺碑文》B33n0192_p0365b05 -->酌之不竭，傳一鐙<!-- 通「燈」 -->於種智。了萬法於真空，廣量
+<lb ed="B" n="0189a03"/>出於凡心。元明<!-- 又作本明。謂本覺之體清淨光明。 -->踰於宿學，引之於有；高謝<!-- 推辭 -->四流<!-- 欲流、有流、見流、無明流 -->，推之於無。俯弘
+<lb ed="B" n="0189a04"/>六度，信乎凡之可以證聖，<!-- 脫「洵哉」L155n1643_p0078b05 -->惟覺足以悟迷。非同測海窺天，固已
+<lb ed="B" n="0189a05"/>登堂入室，堪主法門之席，允稱禪眾之尊。是用封爾為<persName key="A001513">弘覺禪
+<lb ed="B" n="0189a06"/>師</persName>，錫之勅印。於戲！慈<anchor xml:id="beg018901"/><choice><sic resp="CBETA">周</sic><corr resp="PC-MB">舟</corr></choice><anchor xml:id="end018901"/>萬有，大身徧於十方；利濟四生<!-- 卵生、胎生、濕生、化生 -->，本覺超
+<lb ed="B" n="0189a07"/>乎三世。俾舉代咸登仁壽之域，<anchor xml:id="beg018903"/><choice><sic resp="CBETA">在</sic><corr resp="PC-MB">枉</corr></choice><anchor xml:id="end018903"/><!-- 參L155n1643_p0078b10 -->隨方<!-- 謂隨風俗民情之需 -->而啟般若之門。其益懋
+<lb ed="B" n="0189a08"/>爾勤修，庶弘開夫正梵。式承嘉命，丕闡宗風。欽哉！」以<date from-iso="+1674-07-04" key="j23326612332689" to-iso="+1674-08-01"><name>康熙</name>甲寅
+<lb ed="B" n="0189a09"/>六月</date>示寂，壽七十又九。荼毘頂骨五采，齒無損痕，塔於<placeName>平陽黃
+<lb ed="B" n="0189a10"/>龍峰</placeName>下。所著有紀年、專譜、語錄、詩文集及《北遊錄》。</p>
     <linkGrp>
         <link targets="#0188b12 #0188b12"/>
         <ptr target="#A001513" type="person"/>

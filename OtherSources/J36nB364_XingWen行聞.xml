@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0811c01shiXingWen"><lb
+ed="J" n="0811c01"/><anchor n="J.36.B364.0811c01"/><head>臨濟三十二世香林寺<persName key="A016279">佛古聞</persName>禪師塔銘</head><lb
+ed="J" n="0811c02"/><p xml:id="pJ36p0811c0201">……<lb
+ed="J" n="0811c14"/>……五歲忽腋下生毒，肺腑皆見，父母憂駭，卜<lb
+ed="J" n="0811c15"/>之，謂當離俗。乃送入青蓮寺，依<persName key="A009143">印宗錫</persName>禪師出家。……<lb
+ed="J" n="0811c21"/>……癸未夏，<persName key="A012053">通玄林野<lb
+ed="J" n="0811c22"/>奇</persName>和尚出天台，寓盛澤，<ref type="person" target="#A016279">師</ref>往參見。……<lb
+ed="J" n="0812a04"/>……<ref type="person" target="#A042731">余</ref>同年友<lb
+ed="J" n="0812a05"/><persName key="A042730">其章胡<roleName>給諫</roleName></persName>敬信之，願為外護門人，錄師第一會說<lb
+ed="J" n="0812a06"/>法語付剞劂氏。……<lb
+ed="J" n="0812a10"/>……婁江州牧<lb
+ed="J" n="0812a11"/>白公復迎<ref type="person" target="#A016279">師</ref>歸古唐，時遭饑饉，締搆維艱。我<lb
+ed="J" n="0812a12"/><persName key="A006714">世祖章皇帝</persName>究心宗乘，問及<persName key="A012053">林野奇</persName>和尚語錄，<ref type="person" target="#A016279">師</ref>因齎<lb
+ed="J" n="0812a13"/>入　都門，進呈<lb
+ed="J" n="0812a14"/>御覽。<lb
+ed="J" n="0812a15"/><ref type="person" target="#A006714">上</ref>覽畢，歎曰：「本色說法，真古人家風也。」<ref type="person" target="#A016279">師</ref>暫憩隆安寺，<lb
+ed="J" n="0812a16"/><ref type="person" target="#A006714">聖駕</ref>不時臨幸。一日方丈<persName key="A010705">山曉晢</persName>禪師陪<lb
+ed="J" n="0812a17"/><ref type="person" target="#A006714">上</ref>至禪室，<ref type="person" target="#A016279">師</ref>跏趺禪定，不起於座。<lb
+ed="J" n="0812a18"/><ref type="person" target="#A006714">上</ref>注視之，歎曰：「貌古神清。」遂問<persName key="A010705">曉</persName>此僧向住何處？<persName key="A010705">曉</persName>對<lb
+ed="J" n="0812a19"/>曰：「太倉州古唐香雲。」<lb
+ed="J" n="0812a20"/><ref type="person" target="#A006714">上</ref>曰：「香雲不如香林好。」遂　賜今寺額焉！……<lb
+ed="J" n="0812a25"/>……一日忽賦詩一章，贈檀越<lb
+ed="J" n="0812a26"/><persName key="A042732">賈義吾</persName>，微示厭世之意，時丙午年十一月二十一日<lb
+ed="J" n="0812a27"/>也。次日同門<persName key="A026571">法曇</persName>禪師來訪，作家相見，各出手眼，歡<lb
+ed="J" n="0812a28"/>敘而別。……<lb
+ed="J" n="0812b03"/>……因迎龕南歸，建窣堵波於寺之東岡。其南<lb
+ed="J" n="0812b04"/>北舟車之費，皆<persName key="A042732">義吾</persName>為之經畫，不負師最後贈詩之<lb
+ed="J" n="0812b05"/>意也。<ref type="person" target="#A016279">師</ref>為人恬澹質朴，立言制行，無非本色風規。<ref type="person" target="#A042731">予</ref><lb
+ed="J" n="0812b06"/>與<ref type="person" target="#A016279">師</ref>初邂逅於放生池上，後往來日久，契誼最深。今<lb
+ed="J" n="0812b07"/><ref type="person" target="#A042731">予</ref>忝得記莂於<persName key="A001513">弘覺</persName>老人，與<ref type="person" target="#A016279">師</ref>稱法門雁行，心期方<lb
+ed="J" n="0812b08"/>遠，而喪我良朋，不得不愾焉永歎也。其受業弟子<persName key="A042733">德<lb
+ed="J" n="0812b09"/>涵尚</persName>公述師行業頗詳，請<ref type="person" target="#A042731">予</ref>撰塔上之銘。……<lb
+ed="J" n="0812c03"/>淮南法弟<persName key="A042731">龔鼎孳</persName>頓首拜撰。</p>
+    <linkGrp>
+        <link targets="#0811c15 #0811c15"/>
+        <ptr target="#A016279" type="person"/>
+        <ptr target="#A009143" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0811c21 #0811c22"/>
+        <ptr target="#A016279" type="person"/>
+        <ptr target="#A012053" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0812a04 #0812a04"/>
+        <ptr target="#A016279" type="person"/>
+        <ptr target="#A042730" type="person"/>
+        <ptr target="#A042731" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0812a11 #0812a20"/>
+        <ptr target="#A016279" type="person"/>
+        <ptr target="#A006714" type="person"/>
+        <ptr target="#A010705" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0812a25 #0812a27"/>
+        <ptr target="#A016279" type="person"/>
+        <ptr target="#A042732" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0812a27 #0812a28"/>
+        <ptr target="#A016279" type="person"/>
+        <ptr target="#A026571" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0812b05 #0812b06"/>
+        <ptr target="#A016279" type="person"/>
+        <ptr target="#A042731" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0812b07 #0812b07"/>
+        <ptr target="#A001513" type="person"/>
+        <ptr target="#A042731" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0812b08 #0812b09"/>
+        <ptr target="#A016279" type="person"/>
+        <ptr target="#A042733" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0812b09 #0812c03"/>
+        <ptr target="#A042733" type="person"/>
+        <ptr target="#A042731" type="person"/>
+    </linkGrp>
+</div>

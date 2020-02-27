@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" type="譯經" xml:id="gsz0039b13shiKeTu"><lb
-ed="B" n="0039b13"/><anchor n="B.27.0151.0039b13"/><head>清蒙古多倫泊彙宗寺沙門釋克圖傳</head><p xml:id="pB27p0039b1401"><lb
-ed="B" n="0039b14"/><persName key="A011005">釋克圖</persName>者，<persName key="A011005">章嘉呼土克圖</persName>也。<placeName key="PL000000041548">西藏</placeName>人，生有異徵，不迷本性。相傳<lb
-ed="B" n="0039b15"/>為<persName key="A011027">達賴</persName>弟<!-- 弟，通「第」。 -->二世呼畢勒罕轉生，種種異徵，眾所欽企。幼育于寺，<lb
-ed="B" n="0039b16"/>乃居弟五世<persName key="A011029">達賴</persName>弟子。<date notBefore-iso="+1662-02-18" key="j23281422350361" notAfter-iso="+1722-12-20"><name>清</name><name>康熙</name>時</date>寰宇載寧<!-- 太平 -->，重譯來朝，<persName key="A006719">聖祖</persName>晚<lb
-ed="B" n="0039b17"/>歲，頗眈禪理，屢諮法典，歎為玄識。特錫<persName key="A011005">灌頂普慧廣慈</persName>之號，命<lb
-ed="B" n="0039b18"/>主<placeName key="PL000000007007">蒙古多倫泊彙宗寺</placeName>。<persName key="A011005">克圖</persName>博貫宗教，梵行精純，謕誼<!-- 謕，轉相誘。誼，通「義」。 -->圓玅。<placeName key="PL000000041548">西<lb
-ed="B" n="0039b19"/>藏</placeName>、<placeName key="PL000000049420">蒙古</placeName>諸王尤相崇信，多所歸依。<persName key="A000212">世宗</persName>在藩邸時，傾心仰慕。及<lb
-ed="B" n="0039b20"/>總萬機，廣搜禪集，取其語列入御選，歎為真再來人，古今希有。<pb ed="B" xml:id="B27.0151.0040a" n="0040a"/><lb
-ed="B" n="0040a01"/>為造<placeName key="PL000000007008">善因寺</placeName>居之，恩禮有加。<persName key="A006727">純</persName>廟登極，膺詔入<placeName key="PL000000000319">京</placeName>，飜譯大藏中<lb
-ed="B" n="0040a02"/>一切呪語，以滿文、漢字、梵書三體竝列，使讀者瞭然，不限方域。<lb
-ed="B" n="0040a03"/>刊入藏經，用廣流傳。嘗言<ref type="place" target="#PL000000041548">其國</ref>有<persName key="A011031">狼達爾瑪漢</persName>者，滅法毀教。其<lb
-ed="B" n="0040a04"/>後補綴未全，而經已佚。因假《楞嚴》善本，四譯而歸之。又佐<persName key="A011033">莊親<lb
-ed="B" n="0040a05"/>王</persName>修《同文韵統》。晚年病目，與人講論，能以手數經卷篇目而指<lb
-ed="B" n="0040a06"/>其文，往往不爽，羣相驚歎！非記誦嫻熟，未易臻此。以<date from-iso="+1776-02-19" key="j23697802370134" to-iso="+1777-02-07"><name>乾隆</name>四十<lb
-ed="B" n="0040a07"/>一年</date>寂于<placeName key="PL000000000319">京師</placeName>。</p>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="譯經" xml:id="gsz0039b13shiKeTu">
+<lb ed="B" n="0039b13"/><anchor n="B.27.0151.0039b13"/><head>清蒙古多倫泊彙宗寺沙門釋克圖傳</head><p xml:id="pB27p0039b1401">
+<lb ed="B" n="0039b14"/><persName key="A011005">釋克圖</persName>者，<persName key="A011005">章嘉呼土克圖</persName>也。<placeName key="PL000000041548">西藏</placeName>人，生有異徵，不迷本性。相傳
+<lb ed="B" n="0039b15"/>為<persName key="A011027">達賴</persName>弟<!-- 弟，通「第」。 -->二世呼畢勒罕轉生，種種異徵，眾所欽企。幼育于寺，
+<lb ed="B" n="0039b16"/>乃居弟五世<persName key="A011029">達賴</persName>弟子。<date notBefore-iso="+1662-02-18" key="j23281422350361" notAfter-iso="+1722-12-20"><name>清</name><name>康熙</name>時</date>寰宇載寧<!-- 太平 -->，重譯來朝，<persName key="A006719">聖祖</persName>晚
+<lb ed="B" n="0039b17"/>歲，頗眈禪理，屢諮法典，歎為玄識。特錫<persName key="A011005">灌頂普慧廣慈</persName>之號，命
+<lb ed="B" n="0039b18"/>主<placeName key="PL000000007007">蒙古多倫泊彙宗寺</placeName>。<persName key="A011005">克圖</persName>博貫宗教，梵行精純，謕誼<!-- 謕，轉相誘。誼，通「義」。 -->圓玅。<placeName key="PL000000041548">西
+<lb ed="B" n="0039b19"/>藏</placeName>、<placeName key="PL000000049420">蒙古</placeName>諸王尤相崇信，多所歸依。<persName key="A000212">世宗</persName>在藩邸時，傾心仰慕。及
+<lb ed="B" n="0039b20"/>總萬機，廣搜禪集，取其語列入御選，歎為真再來人，古今希有。<pb ed="B" xml:id="B27.0151.0040a" n="0040a"/>
+<lb ed="B" n="0040a01"/>為造<placeName key="PL000000007008">善因寺</placeName>居之，恩禮有加。<persName key="A006727">純</persName>廟登極，膺詔入<placeName key="PL000000000319">京</placeName>，飜譯大藏中
+<lb ed="B" n="0040a02"/>一切呪語，以滿文、漢字、梵書三體竝列，使讀者瞭然，不限方域。
+<lb ed="B" n="0040a03"/>刊入藏經，用廣流傳。嘗言<ref type="place" target="#PL000000041548">其國</ref>有<persName key="A011031">狼達爾瑪漢</persName>者，滅法毀教。其
+<lb ed="B" n="0040a04"/>後補綴未全，而經已佚。因假《楞嚴》善本，四譯而歸之。又佐<persName key="A011033">莊親
+<lb ed="B" n="0040a05"/>王</persName>修《同文韵統》。晚年病目，與人講論，能以手數經卷篇目而指
+<lb ed="B" n="0040a06"/>其文，往往不爽，羣相驚歎！非記誦嫻熟，未易臻此。以<date from-iso="+1776-02-19" key="j23697802370134" to-iso="+1777-02-07"><name>乾隆</name>四十
+<lb ed="B" n="0040a07"/>一年</date>寂于<placeName key="PL000000000319">京師</placeName>。</p>
     <linkGrp>
         <link targets="#0039b14 #0039b14"/>
         <ptr target="#A011005" type="person"/>

@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" type="雜識" xml:id="gsz0458a10shiZhaoZhuo"><lb
-ed="B" n="0458a10"/><anchor n="B.27.0151.0458a10"/><head>清福州雪峯寺沙門<persName key="A016598">釋照拙</persName>傳</head><lb
-ed="B" n="0458a11"/><p xml:id="pB27p0458a1101"><persName key="A016598">釋照拙</persName>，字<persName key="A016598">道余</persName>，姓方氏，莆田人也。父<persName key="A042999">漢卿</persName>，儒修甚勤；母<persName key="A043000">陳氏</persName>感<lb
-ed="B" n="0458a12"/>奇香滿室而娠。<date when-iso="+1633-10-11" key="j23177852317785">崇禎癸酉重九日</date>生兒，香氣如前，鄰居異之。<ref type="date" target="#j23215572321634">年<lb
-ed="B" n="0458a13"/>十二</ref>怙恃俱失，從聖壽寺<persName key="A043001">竹叟</persName>薙染。誦習十載，往福爐依<persName key="A005212">時學</persName><lb
-ed="B" n="0458a14"/>受具足戒。<persName key="A043001">竹叟</persName>既沒，仍參<persName key="A005212">福爐</persName>問「不是心，不是佛，不是物」。良久，<lb
-ed="B" n="0458a15"/>領悟大旨，作禮而退，益加策勵。會<persName key="A004072">如幻</persName>移錫芙蓉，邂逅之間，便<lb
-ed="B" n="0458a16"/>承激揚，有如鍼芥，遂依座下。久之復辤去，參<persName key="A003968">虛白</persName>於黃檗，機鋒<lb
-ed="B" n="0458a17"/>酬酢，證合無異。及<persName key="A004072">如幻</persName>應武榮<persName key="A003873">雪峯</persName>之請，馳書招<ref type="person" target="#A016598">之</ref>，隨至雪峰，<lb
-ed="B" n="0458a18"/>兢兢自守。<date when-iso="+1678-10-24" key="j23342342334234">戊午重九日</date>，<persName key="A004072">如幻</persName>付以衣拂，使之繼席雪峰。後<persName key="A004072">如幻</persName><lb
-ed="B" n="0458a19"/>寂，為輯其《語錄》，序而刊之。寺左六和樓，改建方丈，久未就，<persName key="A016598">拙</persName>集<lb
-ed="B" n="0458a20"/>檀信經營乃成。以<date when-iso="+1704-05-27" key="j23435802343580">康熙甲申年四月二十四日</date>示寂，壽七十二，<pb ed="B" xml:id="B27.0151.0458b" n="0458b"/><lb
-ed="B" n="0458b01"/>臘五十，塔於寺右。<persName key="A016598">拙</persName>賦性恬澹，言笑不苟，住山四十餘年甘淡<lb
-ed="B" n="0458b02"/>泊，以法道自持，高風峻節，足為典型。著有《雪峰語錄》、《雪峰詩集》<lb
-ed="B" n="0458b03"/>二卷，及《毬堂草》一卷。</p>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="雜識" xml:id="gsz0458a10shiZhaoZhuo">
+<lb ed="B" n="0458a10"/><anchor n="B.27.0151.0458a10"/><head>清福州雪峯寺沙門<persName key="A016598">釋照拙</persName>傳</head>
+<lb ed="B" n="0458a11"/><p xml:id="pB27p0458a1101"><persName key="A016598">釋照拙</persName>，字<persName key="A016598">道余</persName>，姓方氏，莆田人也。父<persName key="A042999">漢卿</persName>，儒修甚勤；母<persName key="A043000">陳氏</persName>感
+<lb ed="B" n="0458a12"/>奇香滿室而娠。<date when-iso="+1633-10-11" key="j23177852317785">崇禎癸酉重九日</date>生兒，香氣如前，鄰居異之。<ref type="date" target="#j23215572321634">年
+<lb ed="B" n="0458a13"/>十二</ref>怙恃俱失，從聖壽寺<persName key="A043001">竹叟</persName>薙染。誦習十載，往福爐依<persName key="A005212">時學</persName>
+<lb ed="B" n="0458a14"/>受具足戒。<persName key="A043001">竹叟</persName>既沒，仍參<persName key="A005212">福爐</persName>問「不是心，不是佛，不是物」。良久，
+<lb ed="B" n="0458a15"/>領悟大旨，作禮而退，益加策勵。會<persName key="A004072">如幻</persName>移錫芙蓉，邂逅之間，便
+<lb ed="B" n="0458a16"/>承激揚，有如鍼芥，遂依座下。久之復辤去，參<persName key="A003968">虛白</persName>於黃檗，機鋒
+<lb ed="B" n="0458a17"/>酬酢，證合無異。及<persName key="A004072">如幻</persName>應武榮<persName key="A003873">雪峯</persName>之請，馳書招<ref type="person" target="#A016598">之</ref>，隨至雪峰，
+<lb ed="B" n="0458a18"/>兢兢自守。<date when-iso="+1678-10-24" key="j23342342334234">戊午重九日</date>，<persName key="A004072">如幻</persName>付以衣拂，使之繼席雪峰。後<persName key="A004072">如幻</persName>
+<lb ed="B" n="0458a19"/>寂，為輯其《語錄》，序而刊之。寺左六和樓，改建方丈，久未就，<persName key="A016598">拙</persName>集
+<lb ed="B" n="0458a20"/>檀信經營乃成。以<date when-iso="+1704-05-27" key="j23435802343580">康熙甲申年四月二十四日</date>示寂，壽七十二，<pb ed="B" xml:id="B27.0151.0458b" n="0458b"/>
+<lb ed="B" n="0458b01"/>臘五十，塔於寺右。<persName key="A016598">拙</persName>賦性恬澹，言笑不苟，住山四十餘年甘淡
+<lb ed="B" n="0458b02"/>泊，以法道自持，高風峻節，足為典型。著有《雪峰語錄》、《雪峰詩集》
+<lb ed="B" n="0458b03"/>二卷，及《毬堂草》一卷。</p>
     <linkGrp>
         <link targets="#0458a11 #0458a12"/>
         <ptr target="#A016598" type="person"/>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0190b10shiBenZhou">
+<lb ed="B" n="0190b10"/><anchor n="B.27.0151.0190b10"/><head>清四明天童寺沙門<persName key="A014498">釋本畫</persName>傳</head>
+<lb ed="B" n="0190b11"/><p xml:id="pB27p0190b1101"><persName key="A014498">釋本畫</persName>，字<persName key="A014498">天嶽</persName>，別號<persName key="A014498">寒泉子</persName>，姓蕭氏，蘄春人。幼性聰慧，年方四
+<lb ed="B" n="0190b12"/>周，聽塾師誦書，隨聲咿唔，曰：「<ref type="person" target="#A014498">我</ref>亦能誦。」試之果然，因令從讀。日
+<lb ed="B" n="0190b13"/>數百言，穎異邁儔。稍長，隨父避寇匡盧，恍若舊遊。白父出家，就
+<lb ed="B" n="0190b14"/>大林<persName key="A043119">慧</persName>剃染。銳志苦學，偶爾嬰疾，乃禮誦習禪，以資靜攝。因閱
+<lb ed="B" n="0190b15"/>《鐙錄》「藏身處滅蹤迹，沒蹤迹處莫藏身」<!-- 《嘉泰普燈錄》卷9：「直須藏身處無蹤跡。無蹤跡處莫藏身。」(CBETA, X79, no. 1559, p. 345, b16-17) -->，懷疑不已。一日曉起，宿
+<lb ed="B" n="0190b16"/>鳥飛鳴有省。時往參<persName key="A001408">雪嶠信</persName>於開先，問：「某也墜地二十年，未知
+<lb ed="B" n="0190b17"/>墜地事。」機語契合，從茲服膺<!-- 《天童寺志．卷3．天嶽晝禪師》：「時往參雪嶠信于開先，問某甲落地二十年，未知落地事，信乃驀地一掌；師擬議，又一掌，師于是服膺。」(《中國佛寺史志彙刊》，第1輯，第13冊，頁0285) -->。後依<persName key="A001513">山翁忞</persName>於布木臺，會天童<persName key="A003688">密
+<lb ed="B" n="0190b18"/>雲</persName>示寂，相隨過四明，迺於龕前受具足戒。明年<persName key="A001513">忞</persName>繼席，<persName key="A014498">畫</persName>嘗於
+<lb ed="B" n="0190b19"/>侍立次問：「<persName key="A000475">大慧</persName>謂參禪，貴得命根斷。若命根未斷時如何？」<persName key="A001513">忞</persName>喝
+<lb ed="B" n="0190b20"/>曰：「<ref type="person" target="#A014498">汝</ref>識何為命根？」乃豁然而悟。後再參<persName key="A001408">信</persName>於雲門，書「雲門大樹」<pb ed="B" xml:id="B27.0151.0191a" n="0191a"/>
+<lb ed="B" n="0191a01"/>授<ref type="person" target="#A014498">之</ref>。又參<persName key="A013268">箬菴問</persName>於夾山、<persName key="A001153">玉林琇</persName>於大雄，皆器重<ref type="person" target="#A014498">之</ref>。<persName key="A001513">忞</persName>住台州
+<lb ed="B" n="0191a02"/>廣潤時，招<persName key="A014498">畫</persName>至，<persName key="A001513">忞</persName>即升座告眾，授以衣拂。後結茅於黃石嵒，三
+<lb ed="B" n="0191a03"/>年移牧石菴，首開法於龍門，遷海會，歷杭之佛曰、清流，越之平
+<lb ed="B" n="0191a04"/>陽嘗再至焉，為日最久。<date from-iso="+1696-02-03" key="j23405452340899" to-iso="+1697-01-22">康熙丙子</date>延居天童，年已七十六矣！<persName key="A006719">聖
+<lb ed="B" n="0191a05"/>祖</persName>南巡，賜宸翰、石硯諸物至山。<persName key="A014498">畫</persName>對使賦詩，恭謝盛典。<date from-iso="+1703-11-09" key="j23433802343467" to-iso="+1704-02-04">癸未冬</date>
+<lb ed="B" n="0191a06"/>營壽藏於東谷。<date from-iso="+1705-01-25" key="j23438232343910" to-iso="+1705-04-22">乙酉春</date>搆歸來菴退休，命弟子<persName key="A043120">偉載乘</persName>主院事。
+<lb ed="B" n="0191a07"/><ref type="date" target="#j23441182344206">是冬</ref>書偈云：「辭世向誰辭？西方太遠哉。不如遺蛻葬山阿，日聽
+<lb ed="B" n="0191a08"/>長松響天籟。」伏枕數日，吉祥而逝。壽八十五，臘七十三。有《六會
+<lb ed="B" n="0191a09"/>語錄》及《牧石吟》詩卷，《直木堂》、《晚雲樓》諸集</p>
+    <linkGrp>
+        <link targets="#0190b13 #0190b14"/>
+        <ptr target="#A014498" type="person"/>
+        <ptr target="#A043119" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0190b16 #0190b17"/>
+        <ptr target="#A014498" type="person"/>
+        <ptr target="#A001408" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0190b17 #0190b20"/>
+        <ptr target="#A014498" type="person"/>
+        <ptr target="#A001513" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0190b20 #0191a01"/>
+        <ptr target="#A014498" type="person"/>
+        <ptr target="#A001408" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0191a01 #0191a01"/>
+        <ptr target="#A014498" type="person"/>
+        <ptr target="#A013268" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0191a01 #0191a01"/>
+        <ptr target="#A014498" type="person"/>
+        <ptr target="#A001153" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0191a04 #0191a05"/>
+        <ptr target="#A014498" type="person"/>
+        <ptr target="#A006719" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0191a06 #0191a06"/>
+        <ptr target="#A014498" type="person"/>
+        <ptr target="#A043120" type="person"/>
+        <ptr target="#j23438232343910" type="time"/>
+    </linkGrp>
+</div>

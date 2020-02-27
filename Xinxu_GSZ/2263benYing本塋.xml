@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0189b11shiBenYing">
+<lb ed="B" n="0189b11"/><anchor n="B.27.0151.0189b11"/><head>清孤嶼江心寺沙門<persName key="A016614">釋本塋</persName>傳</head>
+<lb ed="B" n="0189b12"/><p xml:id="pB27p0189b1201"><persName key="A016614">釋本瑩</persName>，字<persName key="A016614">大雲</persName>，姓王氏，重慶人。幼清警絕俗，<ref type="date" target="#j23248352325218">年十九</ref>依蓮城<persName key="A043110">鎮
+<lb ed="B" n="0189b13"/>國</persName>師剃度已，受具戒於德山<persName key="A010703">嵩</persName>。<ref type="date" target="#j23252192325572">踰年</ref>往參<persName key="A009652">破山</persName>，隨命給侍。值<persName key="A009652">山</persName>
+<lb ed="B" n="0189b14"/>遷化，門徒散處，<persName key="A016614">瑩</persName>慕江南之勝，乃出三峽、度瀟湘、<g ref="#CB33499">𠪱</g>金陵、<g ref="#CB05334">㴑</g><!-- 同「溯」 -->錢
+<lb ed="B" n="0189b15"/>塘，所至叢林耆宿，靡不參請。康熙初，海宇載寧，佛法復興，<persName key="A001513">宏覺</persName>
+<lb ed="B" n="0189b16"/>國師提唱平陽。<date from-iso="+1670-01-21" key="j23310362331153" to-iso="+1670-05-18">庚<anchor xml:id="beg_b0" type="cb-app"/>戌<anchor xml:id="end_b0"/>春</date>，<persName key="A016614">瑩</persName>走謁<ref type="person" target="#A001513">之</ref>，一見契合，執役五載，遂授衣
+<lb ed="B" n="0189b17"/>拂。已而聞雁山奇秀，欲住誅茅，偶因失道，迴憇江心。顧瞻<persName key="A002799">釋迦</persName>
+<lb ed="B" n="0189b18"/>古像，恍若再來，私謂：「此地為<persName key="A006941">真歇了</persName>祖道場。荒蕪五百餘載，儻
+<lb ed="B" n="0189b19"/>再立剎竿，<ref type="person" target="#A016614">吾</ref>願畢矣。」寺有住持曰<persName key="A000115">元奇</persName>，一見契若水乳，走懇當
+<lb ed="B" n="0189b20"/>道<!-- 《江心志．卷9．江心[[大]]雲禪師塔銘》：「走懇總戎陳公郡伯王公及紳衿士庶」(《中國佛寺志叢刊》，第4輯，第92冊，頁0510) -->，請主院事。時變亂初平，物力維艱，堂廡傾圯，從事修飾，所費<pb ed="B" xml:id="B27.0151.0190a" n="0190a"/>
+<lb ed="B" n="0190a01"/>實緐<!-- 同「繁」 -->，但把茅覆頂。道以人傳，徒事鋪張，亦為物礙。乃塗泥編竹，
+<lb ed="B" n="0190a02"/>斗室蕭然，敗衲破罌，吟咏自得。客至清談竟日，夜則焚香趺坐
+<lb ed="B" n="0190a03"/>而已。<date from-iso="+1683-11-18" key="j23360852336173" to-iso="+1684-02-14">癸<anchor xml:id="beg_b1" type="cb-app"/><choice><sic resp="CBETA">巳</sic><corr resp="PC-MB">亥</corr></choice><anchor xml:id="end_b1"/>冬</date><!-- 《江心志．卷9．江心[[大]]雲禪師塔銘》：「癸亥冬」(《中國佛寺志叢刊》，第4輯，第92冊，頁0510) -->返杭之東園。東園者，<persName key="A016614">瑩</persName>舊隱處也。居園三年，忽告
+<lb ed="B" n="0190a04"/>眾曰：「<persName key="A016614">我</persName>西歸矣！」眾驚問故，<persName key="A016614">瑩</persName>莞爾曰：「緣盡則行，何常之有？」說偈
+<lb ed="B" n="0190a05"/>而逝。偈曰：「五十一年惺惺寂寂，日面月面山青水碧。」<date when-iso="+1685-02-28" key="j23365532336553">乙丑正月
+<lb ed="B" n="0190a06"/>二十六日</date>也，年五十有一，臘三十有二。荼毘收舍利無算。弟子
+<lb ed="B" n="0190a07"/><date when-iso="+1685-03-05" key="j23365582336558">元日</date>迎靈骨，塔於永嘉蓮花峰下。<persName key="A043111">周天錫</persName>為之銘文，具《山志》。</p>
+    <linkGrp>
+        <link targets="#0189b12 #0189b13"/>
+        <ptr target="#A016614" type="person"/>
+        <ptr target="#A043110" type="person"/>
+        <ptr target="#j23248352325218" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0189b13 #0189b13"/>
+        <ptr target="#A016614" type="person"/>
+        <ptr target="#A010703" type="person"/>
+        <ptr target="#j23248352325218" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0189b13 #0189b13"/>
+        <ptr target="#A016614" type="person"/>
+        <ptr target="#A009652" type="person"/>
+        <ptr target="#j23252192325572" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0189b15 #0189b16"/>
+        <ptr target="#A016614" type="person"/>
+        <ptr target="#A001513" type="person"/>
+        <ptr target="#j23310362331153" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0189b19 #0189b20"/>
+        <ptr target="#A016614" type="person"/>
+        <ptr target="#A000115" type="person"/>
+    </linkGrp>
+</div>

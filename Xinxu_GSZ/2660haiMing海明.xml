@@ -1,40 +1,40 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0411a02shiHaiMing"><lb
-ed="B" n="0411a02"/><anchor n="B.27.0151.0411a02"/><head>清四川雙桂福國禪院沙門<persName key="A009652">釋海明</persName>傳</head><lb
-ed="B" n="0411a03"/><p xml:id="pB27p0411a0301"><persName key="A009652">釋海明</persName>，字<persName key="A009652">破山</persName>，人稱曰<persName key="A009652">萬峰老人</persName>，姓<name>蹇</name>氏。世居<placeName key="PL000000034100">渝城</placeName>，後徙<placeName key="PL000000036968">大竹</placeName>，<lb
-ed="B" n="0411a04"/>遂為<placeName key="PL000000036968">大竹</placeName>人<!-- 《破山禪師語錄》卷20：「萬曆丁酉歲生蜀北果州之大竹」(CBETA, J26, no. B177, p. 92, b3) -->。生含聰睿，質挺奇標，識者謂其狀類<persName key="A000490">黃檗</persName>。<ref type="date" target="#j20373612037725">年十九</ref><lb
-ed="B" n="0411a05"/>祝髮於<placeName>大持庵</placeName>，以<persName key="A023017">融光<roleName>尊宿</roleName></persName>為師<!-- 《破山禪師語錄》卷20：「十九歲詣本郡佛恩寺大持老宿脫白。」(CBETA, J26, no. B177, p. 92, b4-5) -->。偶聽<persName key="A024945">慧然<roleName>法師</roleName></persName>講《楞嚴經》至<lb
-ed="B" n="0411a06"/>「一切眾生皆由不知常住真心性淨明體，用諸妄想，此想不真<lb
-ed="B" n="0411a07"/>故有輪轉。」<!-- 《大佛頂如來密因修證了義諸菩薩萬行首楞嚴經》卷1：「，一切眾生從無始來生死相續，皆由不知常住真心性淨明體，用諸妄想，此想不真故有輪轉。」(CBETA, T19, no. 945, p. 106, c27-29) -->終日疑悶，乃讀古人語錄、頌古，無可入處。遂孤身出<lb
-ed="B" n="0411a08"/><placeName key="PL000000034728">蜀</placeName>，見數耆宿，莫能取決。俄棲<placeName key="PL000000023022">楚</placeName>之<placeName key="PL000000028111">破頭山</placeName>，經行萬丈懸崖，自誓<lb
-ed="B" n="0411a09"/>刻期取證，限以七日。日盡晌午，忽見銀色世界，一平如掌。信步<lb
-ed="B" n="0411a10"/>舉足，不覺墜岩。左足已傷，尚不自知。胸中塊磊，渙爾解釋，但叫<lb
-ed="B" n="0411a11"/>「屈屈」<!-- 《破山禪師語錄》卷20：「天明高聲叫云。屈。屈。」(CBETA, J26, no. B177, p. 92, b10-11) -->。自此出<ref type="place" target="#PL000000028111">山</ref>南行，見<persName key="A001681">憨山</persName>、<persName key="A000114">博山</persName>、<persName key="A019145">雙髻</persName>、<persName key="A001408">雪橋</persName>諸宿<!-- 《續指月錄》卷19：「徧參憨山清。博山來。雲門澄諸老。」(CBETA, X84, no. 1579, p. 133, b11-12) -->，微有啟悟。再<lb
-ed="B" n="0411a12"/>謁<persName key="A005648">湛然</persName>頓圓大戒<!-- 指「圓頓戒」。《破山禪師語錄》卷20：「後於座下頓圓大戒。補維那職。」(CBETA, J26, no. B177, p. 95, a5-6) -->。聞<placeName key="PL000000012278">天童</placeName><persName key="A003688">密雲悟</persName>，赴<placeName key="PL000000012794">金粟</placeName>徑往造請。機語契合，<lb
-ed="B" n="0411a13"/>竟付以源流一紙，信金一緘，祗受而返，息止<placeName key="PL000000056198">苕溪</placeName>。<date from-iso="+1629-11-15" key="j23163592316447" to-iso="+1630-02-11"><name>崇禎</name><anchor xml:id="beg_1c9" type="cb-app"/>己<anchor xml:id="end_1c9"/><anchor xml:id="beg_1ca" type="cb-app"/>巳<anchor xml:id="end_1ca"/>冬</date>，<lb
-ed="B" n="0411a14"/><placeName key="PL000000012739">嘉禾</placeName>紳耆嚮其道風，請主<placeName key="PL000000012695">東塔</placeName>。遐邇學者，歸之如雲。<date from-iso="+1632-02-20" key="j23171862317274" to-iso="+1632-05-18">壬申春</date><persName key="A027086">張<lb
-ed="B" n="0411a15"/><roleName>金吾</roleName>振宇</persName>、<persName key="A031256">馮<roleName>銓部</roleName>伯井</persName>皆<placeName key="PL000000034728">蜀</placeName>人，請<persName key="A009652">明</persName>還<placeName key="PL000000034728">蜀</placeName>，闡化鄉里。而<persName key="A009652">明</persName>亦動<lb
-ed="B" n="0411a16"/>峨鷲瓦屋之思，辤<persName key="A003688">密</persName>西邁，卓錫<placeName key="PL000000010056">萬峰</placeName>古剎<!-- 《破山禪師語錄》卷20：「萬有馮銓部郎中伯井，延師於梁山萬峰卓錫焉。」(CBETA, J26, no. B177, p. 92, c30-p. 93, a1) -->。既而<placeName>中慶</placeName>、<placeName>佛恩</placeName>、<placeName>白兔</placeName><lb
-ed="B" n="0411a17"/>已振威音，<placeName>鳳山</placeName>棲靈，<placeName>祥符</placeName>、<placeName>無際</placeName>並撒布衣<!-- 《揞黑豆集》卷6：「歷主岊岳大峩、萬峯、中慶、鳳山、樓臺、祥符、無際、蟠龍、佛恩、雙桂十剎。」(CBETA, X85, no. 1592, p. 340, a9-10) -->。感紳薦之歸依，受藩<lb
-ed="B" n="0411a18"/>王之隆養，二十年間九坐道場。<persName key="A037518">譚梁生</persName>司業所云「花開<anchor xml:id="beg041101"/><choice><sic resp="CBETA">攜</sic><corr resp="PC-MB">檇</corr></choice><anchor xml:id="end041101"/>李，果<lb
-ed="B" n="0411a19"/>熟蠶叢」者<!-- 《破山禪師語錄》卷20：「花開檇李，果熟蠶叢」(CBETA, J26, no. B177, p. 100, c18) -->，信不虛也。<date from-iso="+1644-02-08" key="j23215572321911" to-iso="+1645-01-27"><name>明</name>季<name>甲申</name></date>之變，刀兵橫起，殺人盈野。有<persName key="A031345">李<lb
-ed="B" n="0411a20"/><roleName>將軍</roleName>立陽</persName>者，殘忍尤甚，人呼<persName key="A031345">李鷂子</persName>，嘗請<persName key="A009652">明</persName>至營中。<persName key="A009652">明</persName>思導以<pb ed="B" xml:id="B27.0151.0411b" n="0411b"/><lb
-ed="B" n="0411b01"/>慈念，化其殺機。<persName key="A031345">陽</persName>遂強之食肉，<persName key="A009652">明</persName>曰：「<ref type="person" target="#A031345">公</ref>不嗜殺人，<ref type="person" target="#A009652">僧</ref>何惜一口？」<lb
-ed="B" n="0411b02"/><persName key="A031345">陽</persName>曰：「<ref type="person" target="#A031345">弟子</ref>不殺人，願<ref type="person" target="#A009652">師</ref>常肉食然。」每於暴怒之下，多所全活。時<lb
-ed="B" n="0411b03"/>以<persName key="A009449">曹山</persName>酒<!-- 參《萬松老人評唱天童覺和尚頌古從容庵錄》卷5：「第七十三則曹山孝滿」(CBETA, T48, no. 2004, p. 273, a9) -->、<persName>誌公</persName>鴿<!-- 《梵網經直解》卷2：「誌公食鴿。一日從口盡吐活鴿。齊飛而去。」(CBETA, X38, no. 697, p. 847, b21-22) -->比之，尤有足多者。<date from-iso="+1653-01-29" key="j23248352325218" to-iso="+1654-02-16"><name>清</name><name>順治</name>癸<anchor xml:id="beg_1cb" type="cb-app"/>巳<anchor xml:id="end_1cb"/></date>，<placeName key="PL000000034728">蜀</placeName>難漸平，乃<lb
-ed="B" n="0411b04"/>回<placeName key="PL000000034328">梁山</placeName>依<placeName key="PL000000049342">金城寨</placeName>去寨半里有舊紳別墅，尚餘老桂二株，葺而<lb
-ed="B" n="0411b05"/>居之，顏<!-- 堂上的匾額 -->其堂「雙桂」，院曰「福國」。未幾，四眾歸之，遂成叢林。山門佛<lb
-ed="B" n="0411b06"/>殿，一時聿新 。<date from-iso="+1664-01-28" key="j23288512329234" to-iso="+1665-02-14"><name>康熙</name>甲辰</date>總制<persName key="A031359">李凱</persName>，既定<placeName key="PL000000034564">巫山</placeName>，道通<placeName key="PL000000034728">川</placeName><placeName key="PL000000026395">楚</placeName>，以母喪<lb
-ed="B" n="0411b07"/>故，再使延請<persName key="A009652">明</persName>。不得已杖錫<placeName key="PL000000034099">巴渝</placeName>，盤桓九旬，相得甚歡。及其別<lb
-ed="B" n="0411b08"/>也，<persName key="A031359">李<roleName>公</roleName></persName>亨<!-- 通「享」 -->之牢醴<!-- 祭祀用的牲品和美酒 -->。<persName key="A009652">明</persName>喟然嘆曰：「昔遇惡魔而踰閑，今逢善友而<lb
-ed="B" n="0411b09"/>昭戒，從茲不近酒肉矣！」遂辤而歸。<date from-iso="+1666-02-04" key="j23295892329677" to-iso="+1666-05-03">丙午春</date>，年已七十餘，道俗稱<lb
-ed="B" n="0411b10"/>慶，來者萬指。方祝無量，無何示疾垣化。時<date when-iso="+1666-04-13" key="j23296572329657"><name>康熙</name>五年三月十日</date><lb
-ed="B" n="0411b11"/>也。壽七十四，臘五十九，塔于<placeName>梁山艮龍山</placeName>麓，別眾偈云：「初開劫<lb
-ed="B" n="0411b12"/>運九開爐，七十年來志不渝；每見駒隙難度尾，常聞老蚌易生<lb
-ed="B" n="0411b13"/>珠。」得法弟子八十餘人，可謂英靈並集。已而或疑其濫？不知<placeName key="PL000000000112">明</placeName><lb
-ed="B" n="0411b14"/>際鼎革，狂禪滿地，過於峻拒，恐將折而趨邪，故以傳法為衛法<lb
-ed="B" n="0411b15"/>也。<persName key="A009652">明</persName>著述最富，其傳者《破山語錄》、《山居詩》、《雙桂草》諸集 ，幾盈尺<lb
-ed="B" n="0411b16"/>已！付梓云。</p>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0411a02shiHaiMing">
+<lb ed="B" n="0411a02"/><anchor n="B.27.0151.0411a02"/><head>清四川雙桂福國禪院沙門<persName key="A009652">釋海明</persName>傳</head>
+<lb ed="B" n="0411a03"/><p xml:id="pB27p0411a0301"><persName key="A009652">釋海明</persName>，字<persName key="A009652">破山</persName>，人稱曰<persName key="A009652">萬峰老人</persName>，姓<name>蹇</name>氏。世居<placeName key="PL000000034100">渝城</placeName>，後徙<placeName key="PL000000036968">大竹</placeName>，
+<lb ed="B" n="0411a04"/>遂為<placeName key="PL000000036968">大竹</placeName>人<!-- 《破山禪師語錄》卷20：「萬曆丁酉歲生蜀北果州之大竹」(CBETA, J26, no. B177, p. 92, b3) -->。生含聰睿，質挺奇標，識者謂其狀類<persName key="A000490">黃檗</persName>。<ref type="date" target="#j20373612037725">年十九</ref>
+<lb ed="B" n="0411a05"/>祝髮於<placeName>大持庵</placeName>，以<persName key="A023017">融光<roleName>尊宿</roleName></persName>為師<!-- 《破山禪師語錄》卷20：「十九歲詣本郡佛恩寺大持老宿脫白。」(CBETA, J26, no. B177, p. 92, b4-5) -->。偶聽<persName key="A024945">慧然<roleName>法師</roleName></persName>講《楞嚴經》至
+<lb ed="B" n="0411a06"/>「一切眾生皆由不知常住真心性淨明體，用諸妄想，此想不真
+<lb ed="B" n="0411a07"/>故有輪轉。」<!-- 《大佛頂如來密因修證了義諸菩薩萬行首楞嚴經》卷1：「，一切眾生從無始來生死相續，皆由不知常住真心性淨明體，用諸妄想，此想不真故有輪轉。」(CBETA, T19, no. 945, p. 106, c27-29) -->終日疑悶，乃讀古人語錄、頌古，無可入處。遂孤身出
+<lb ed="B" n="0411a08"/><placeName key="PL000000034728">蜀</placeName>，見數耆宿，莫能取決。俄棲<placeName key="PL000000023022">楚</placeName>之<placeName key="PL000000028111">破頭山</placeName>，經行萬丈懸崖，自誓
+<lb ed="B" n="0411a09"/>刻期取證，限以七日。日盡晌午，忽見銀色世界，一平如掌。信步
+<lb ed="B" n="0411a10"/>舉足，不覺墜岩。左足已傷，尚不自知。胸中塊磊，渙爾解釋，但叫
+<lb ed="B" n="0411a11"/>「屈屈」<!-- 《破山禪師語錄》卷20：「天明高聲叫云。屈。屈。」(CBETA, J26, no. B177, p. 92, b10-11) -->。自此出<ref type="place" target="#PL000000028111">山</ref>南行，見<persName key="A001681">憨山</persName>、<persName key="A000114">博山</persName>、<persName key="A019145">雙髻</persName>、<persName key="A001408">雪橋</persName>諸宿<!-- 《續指月錄》卷19：「徧參憨山清。博山來。雲門澄諸老。」(CBETA, X84, no. 1579, p. 133, b11-12) -->，微有啟悟。再
+<lb ed="B" n="0411a12"/>謁<persName key="A005648">湛然</persName>頓圓大戒<!-- 指「圓頓戒」。《破山禪師語錄》卷20：「後於座下頓圓大戒。補維那職。」(CBETA, J26, no. B177, p. 95, a5-6) -->。聞<placeName key="PL000000012278">天童</placeName><persName key="A003688">密雲悟</persName>，赴<placeName key="PL000000012794">金粟</placeName>徑往造請。機語契合，
+<lb ed="B" n="0411a13"/>竟付以源流一紙，信金一緘，祗受而返，息止<placeName key="PL000000056198">苕溪</placeName>。<date from-iso="+1629-11-15" key="j23163592316447" to-iso="+1630-02-11"><name>崇禎</name><anchor xml:id="beg_1c9" type="cb-app"/>己<anchor xml:id="end_1c9"/><anchor xml:id="beg_1ca" type="cb-app"/>巳<anchor xml:id="end_1ca"/>冬</date>，
+<lb ed="B" n="0411a14"/><placeName key="PL000000012739">嘉禾</placeName>紳耆嚮其道風，請主<placeName key="PL000000012695">東塔</placeName>。遐邇學者，歸之如雲。<date from-iso="+1632-02-20" key="j23171862317274" to-iso="+1632-05-18">壬申春</date><persName key="A027086">張
+<lb ed="B" n="0411a15"/><roleName>金吾</roleName>振宇</persName>、<persName key="A031256">馮<roleName>銓部</roleName>伯井</persName>皆<placeName key="PL000000034728">蜀</placeName>人，請<persName key="A009652">明</persName>還<placeName key="PL000000034728">蜀</placeName>，闡化鄉里。而<persName key="A009652">明</persName>亦動
+<lb ed="B" n="0411a16"/>峨鷲瓦屋之思，辤<persName key="A003688">密</persName>西邁，卓錫<placeName key="PL000000010056">萬峰</placeName>古剎<!-- 《破山禪師語錄》卷20：「萬有馮銓部郎中伯井，延師於梁山萬峰卓錫焉。」(CBETA, J26, no. B177, p. 92, c30-p. 93, a1) -->。既而<placeName>中慶</placeName>、<placeName>佛恩</placeName>、<placeName>白兔</placeName>
+<lb ed="B" n="0411a17"/>已振威音，<placeName>鳳山</placeName>棲靈，<placeName>祥符</placeName>、<placeName>無際</placeName>並撒布衣<!-- 《揞黑豆集》卷6：「歷主岊岳大峩、萬峯、中慶、鳳山、樓臺、祥符、無際、蟠龍、佛恩、雙桂十剎。」(CBETA, X85, no. 1592, p. 340, a9-10) -->。感紳薦之歸依，受藩
+<lb ed="B" n="0411a18"/>王之隆養，二十年間九坐道場。<persName key="A037518">譚梁生</persName>司業所云「花開<anchor xml:id="beg041101"/><choice><sic resp="CBETA">攜</sic><corr resp="PC-MB">檇</corr></choice><anchor xml:id="end041101"/>李，果
+<lb ed="B" n="0411a19"/>熟蠶叢」者<!-- 《破山禪師語錄》卷20：「花開檇李，果熟蠶叢」(CBETA, J26, no. B177, p. 100, c18) -->，信不虛也。<date from-iso="+1644-02-08" key="j23215572321911" to-iso="+1645-01-27"><name>明</name>季<name>甲申</name></date>之變，刀兵橫起，殺人盈野。有<persName key="A031345">李
+<lb ed="B" n="0411a20"/><roleName>將軍</roleName>立陽</persName>者，殘忍尤甚，人呼<persName key="A031345">李鷂子</persName>，嘗請<persName key="A009652">明</persName>至營中。<persName key="A009652">明</persName>思導以<pb ed="B" xml:id="B27.0151.0411b" n="0411b"/>
+<lb ed="B" n="0411b01"/>慈念，化其殺機。<persName key="A031345">陽</persName>遂強之食肉，<persName key="A009652">明</persName>曰：「<ref type="person" target="#A031345">公</ref>不嗜殺人，<ref type="person" target="#A009652">僧</ref>何惜一口？」
+<lb ed="B" n="0411b02"/><persName key="A031345">陽</persName>曰：「<ref type="person" target="#A031345">弟子</ref>不殺人，願<ref type="person" target="#A009652">師</ref>常肉食然。」每於暴怒之下，多所全活。時
+<lb ed="B" n="0411b03"/>以<persName key="A009449">曹山</persName>酒<!-- 參《萬松老人評唱天童覺和尚頌古從容庵錄》卷5：「第七十三則曹山孝滿」(CBETA, T48, no. 2004, p. 273, a9) -->、<persName>誌公</persName>鴿<!-- 《梵網經直解》卷2：「誌公食鴿。一日從口盡吐活鴿。齊飛而去。」(CBETA, X38, no. 697, p. 847, b21-22) -->比之，尤有足多者。<date from-iso="+1653-01-29" key="j23248352325218" to-iso="+1654-02-16"><name>清</name><name>順治</name>癸<anchor xml:id="beg_1cb" type="cb-app"/>巳<anchor xml:id="end_1cb"/></date>，<placeName key="PL000000034728">蜀</placeName>難漸平，乃
+<lb ed="B" n="0411b04"/>回<placeName key="PL000000034328">梁山</placeName>依<placeName key="PL000000049342">金城寨</placeName>去寨半里有舊紳別墅，尚餘老桂二株，葺而
+<lb ed="B" n="0411b05"/>居之，顏<!-- 堂上的匾額 -->其堂「雙桂」，院曰「福國」。未幾，四眾歸之，遂成叢林。山門佛
+<lb ed="B" n="0411b06"/>殿，一時聿新 。<date from-iso="+1664-01-28" key="j23288512329234" to-iso="+1665-02-14"><name>康熙</name>甲辰</date>總制<persName key="A031359">李凱</persName>，既定<placeName key="PL000000034564">巫山</placeName>，道通<placeName key="PL000000034728">川</placeName><placeName key="PL000000026395">楚</placeName>，以母喪
+<lb ed="B" n="0411b07"/>故，再使延請<persName key="A009652">明</persName>。不得已杖錫<placeName key="PL000000034099">巴渝</placeName>，盤桓九旬，相得甚歡。及其別
+<lb ed="B" n="0411b08"/>也，<persName key="A031359">李<roleName>公</roleName></persName>亨<!-- 通「享」 -->之牢醴<!-- 祭祀用的牲品和美酒 -->。<persName key="A009652">明</persName>喟然嘆曰：「昔遇惡魔而踰閑，今逢善友而
+<lb ed="B" n="0411b09"/>昭戒，從茲不近酒肉矣！」遂辤而歸。<date from-iso="+1666-02-04" key="j23295892329677" to-iso="+1666-05-03">丙午春</date>，年已七十餘，道俗稱
+<lb ed="B" n="0411b10"/>慶，來者萬指。方祝無量，無何示疾垣化。時<date when-iso="+1666-04-13" key="j23296572329657"><name>康熙</name>五年三月十日</date>
+<lb ed="B" n="0411b11"/>也。壽七十四，臘五十九，塔于<placeName>梁山艮龍山</placeName>麓，別眾偈云：「初開劫
+<lb ed="B" n="0411b12"/>運九開爐，七十年來志不渝；每見駒隙難度尾，常聞老蚌易生
+<lb ed="B" n="0411b13"/>珠。」得法弟子八十餘人，可謂英靈並集。已而或疑其濫？不知<placeName key="PL000000000112">明</placeName>
+<lb ed="B" n="0411b14"/>際鼎革，狂禪滿地，過於峻拒，恐將折而趨邪，故以傳法為衛法
+<lb ed="B" n="0411b15"/>也。<persName key="A009652">明</persName>著述最富，其傳者《破山語錄》、《山居詩》、《雙桂草》諸集 ，幾盈尺
+<lb ed="B" n="0411b16"/>已！付梓云。</p>
     <linkGrp>
         <link targets="#0411a03 #0411a04"/>
         <ptr target="#A009652" type="person"/>

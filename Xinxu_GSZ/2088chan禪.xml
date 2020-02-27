@@ -1,23 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" type="義解" xml:id="gsz0083a18shiChan"><lb
-ed="B" n="0083a18"/><anchor n="B.27.0151.0083a18"/><head>明雲南雞足山放光寺沙門<persName key="A001861">釋禪</persName>傳</head><lb
-ed="B" n="0083a19"/><p xml:id="pB27p0083a1901"><persName key="A001861">釋禪</persName>，字<persName key="A001861">本無</persName>，姓張氏，昆明人。幼孤失學，放鶩不羈。稍長乃知自<lb
-ed="B" n="0083a20"/>艾<!-- 悔過自責 -->，從師授讀。而天姿明敏，了解文義。偶游昆明，見池中青蓮浮<pb ed="B" xml:id="B27.0151.0083b" n="0083b"/><lb
-ed="B" n="0083b01"/>於水面，童冠數人皆弗之覩，始歎異焉！<ref type="date" target="#j23036612304014">年十九</ref>禮通海秀山<persName key="A042412">妙<lb
-ed="B" n="0083b02"/>空</persName>祝髮，稟具於<persName key="A042602">大方</persName>，得法於<persName key="A012124">所庵</persName>。後棲雞足研窮經藏二十餘<lb
-ed="B" n="0083b03"/>載，見道精深，默維心得。及<persName key="A012124">所庵</persName>主席傳衣，挈本偕往同註《肇論》，<lb
-ed="B" n="0083b04"/>口述筆授，議論飇舉，一字未要，當仁不讓。唯大事未明，中懷鬱<lb
-ed="B" n="0083b05"/>結。一日託盋洱海城中，忽聞諺語有「枕上思量千條路」者<!-- 雲南史．卷8．滇釋紀：101：「張豆腐、李豆腐，枕上思量千條路，起來依舊賣豆腐」 -->，胸中<lb
-ed="B" n="0083b06"/>豁然冰釋。<date from-iso="+1617-02-06" key="j23116942312047" to-iso="+1618-01-25">明萬歷丁<anchor xml:id="beg_2c" type="cb-app"/>巳<anchor xml:id="end_2c"/></date><persName key="A011522">沐公</persName>增題建悉檀寺，延之開山。工師求<lb
-ed="B" n="0083b07"/>材，歎無大木。山前龍潭，古木參天，人莫敢近。每有樵採，則雷電<lb
-ed="B" n="0083b08"/>大作。<persName key="A001861">禪</persName>至，作法持咒，述為文詞，以告山靈，躬操斤斧，率諸匠作。<lb
-ed="B" n="0083b09"/>棟梁長材，一時取足，神怪俱息，林谷幽靜。<persName key="A011522">沐公</persName>奏請大內藏經，<lb
-ed="B" n="0083b10"/>時<persName key="A006692">光宗</persName>御極，企<persName key="A001861">禪</persName>道風，亦加敬仰，特旨頒賜，授秩為僧錄左善<lb
-ed="B" n="0083b11"/>世，兼錫紫衣。所著有《楞嚴懺法》、《風響集》、《禪林佛事》、《因明論》，隨解<lb
-ed="B" n="0083b12"/>標釋。及《老子玄覽》，詩文偈頌若干卷。寂於崇禎壬申秋三日<!-- 雲南史．卷8．滇釋紀：102：「三月」 -->，前<lb
-ed="B" n="0083b13"/>簡約舊知，二眾雲集，殷殷<g ref="#CB12594">䛡</g>故。已而示疾，焚香拈偈曰：「蓋天匝<lb
-ed="B" n="0083b14"/>地本齊平，萬象森羅極有情；只在當人高著眼，波騰鼎沸見無<lb
-ed="B" n="0083b15"/>生。」語畢而化。</p>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="義解" xml:id="gsz0083a18shiChan">
+<lb ed="B" n="0083a18"/><anchor n="B.27.0151.0083a18"/><head>明雲南雞足山放光寺沙門<persName key="A001861">釋禪</persName>傳</head>
+<lb ed="B" n="0083a19"/><p xml:id="pB27p0083a1901"><persName key="A001861">釋禪</persName>，字<persName key="A001861">本無</persName>，姓張氏，昆明人。幼孤失學，放鶩不羈。稍長乃知自
+<lb ed="B" n="0083a20"/>艾<!-- 悔過自責 -->，從師授讀。而天姿明敏，了解文義。偶游昆明，見池中青蓮浮<pb ed="B" xml:id="B27.0151.0083b" n="0083b"/>
+<lb ed="B" n="0083b01"/>於水面，童冠數人皆弗之覩，始歎異焉！<ref type="date" target="#j23036612304014">年十九</ref>禮通海秀山<persName key="A042412">妙
+<lb ed="B" n="0083b02"/>空</persName>祝髮，稟具於<persName key="A042602">大方</persName>，得法於<persName key="A012124">所庵</persName>。後棲雞足研窮經藏二十餘
+<lb ed="B" n="0083b03"/>載，見道精深，默維心得。及<persName key="A012124">所庵</persName>主席傳衣，挈本偕往同註《肇論》，
+<lb ed="B" n="0083b04"/>口述筆授，議論飇舉，一字未要，當仁不讓。唯大事未明，中懷鬱
+<lb ed="B" n="0083b05"/>結。一日託盋洱海城中，忽聞諺語有「枕上思量千條路」者<!-- 雲南史．卷8．滇釋紀：101：「張豆腐、李豆腐，枕上思量千條路，起來依舊賣豆腐」 -->，胸中
+<lb ed="B" n="0083b06"/>豁然冰釋。<date from-iso="+1617-02-06" key="j23116942312047" to-iso="+1618-01-25">明萬歷丁<anchor xml:id="beg_2c" type="cb-app"/>巳<anchor xml:id="end_2c"/></date><persName key="A011522">沐公</persName>增題建悉檀寺，延之開山。工師求
+<lb ed="B" n="0083b07"/>材，歎無大木。山前龍潭，古木參天，人莫敢近。每有樵採，則雷電
+<lb ed="B" n="0083b08"/>大作。<persName key="A001861">禪</persName>至，作法持咒，述為文詞，以告山靈，躬操斤斧，率諸匠作。
+<lb ed="B" n="0083b09"/>棟梁長材，一時取足，神怪俱息，林谷幽靜。<persName key="A011522">沐公</persName>奏請大內藏經，
+<lb ed="B" n="0083b10"/>時<persName key="A006692">光宗</persName>御極，企<persName key="A001861">禪</persName>道風，亦加敬仰，特旨頒賜，授秩為僧錄左善
+<lb ed="B" n="0083b11"/>世，兼錫紫衣。所著有《楞嚴懺法》、《風響集》、《禪林佛事》、《因明論》，隨解
+<lb ed="B" n="0083b12"/>標釋。及《老子玄覽》，詩文偈頌若干卷。寂於崇禎壬申秋三日<!-- 雲南史．卷8．滇釋紀：102：「三月」 -->，前
+<lb ed="B" n="0083b13"/>簡約舊知，二眾雲集，殷殷<g ref="#CB12594">䛡</g>故。已而示疾，焚香拈偈曰：「蓋天匝
+<lb ed="B" n="0083b14"/>地本齊平，萬象森羅極有情；只在當人高著眼，波騰鼎沸見無
+<lb ed="B" n="0083b15"/>生。」語畢而化。</p>
     <linkGrp>
         <link targets="#0083b01 #0083b01"/>
         <ptr target="#A001861" type="person"/>

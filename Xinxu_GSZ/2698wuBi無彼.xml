@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0432b16shiWuBi"><lb
-ed="B" n="0432b16"/><anchor n="B.27.0151.0432b16"/><head>清東安麒麟寺沙門<persName key="A042446">釋無彼</persName>傳</head><lb
-ed="B" n="0432b17"/><p xml:id="pB27p0432b1701"><persName key="A042446">釋無彼</persName>，字<persName key="A042446">高岸</persName>，姓陳氏，清泉人也。身幹雄偉，胸懷磊落，有古豪<lb
-ed="B" n="0432b18"/>士風，曾以軍功授藍翎千總。髮逆<!-- 太平天國 -->平定，還鄉省親。聞衡陽羅漢<lb
-ed="B" n="0432b19"/>寺<persName key="A042960">法空成</persName>說法有省，乃歎曰：「世相無常，榮名非寶。<ref type="person" target="#A042446">吾</ref>當於茲披<lb
-ed="B" n="0432b20"/>精進鎧，除煩惱賊矣！」<persName key="A042960">成</persName>因為剃染，命從<persName key="A042961">東林</persName>律師圓具。後佐<persName key="A042263">恒<pb ed="B" xml:id="B27.0151.0433a" n="0433a"/><lb
-ed="B" n="0433a01"/>志</persName>開法岐山紫雲。<persName key="A042446">無彼</persName>持律精苦，常以杜多行自勵。聞九疑巖<lb
-ed="B" n="0433a02"/>谷幽邃，攜杖孤往，道過東安麒麟觀，因留習定。士民嚮其梵行，<lb
-ed="B" n="0433a03"/>爭營淨宇，衲子從者如雲，遂成叢林。晚年專修淨業，入太華山<lb
-ed="B" n="0433a04"/>縛茅以居，而檀施所集輪奐斯。崇戒定薰修，蛇虎馴伏，其慈心<lb
-ed="B" n="0433a05"/>密行，感物若是。未幾邑人迎還麒麟閣，開闡毘尼，四眾從<ref type="person" target="#A042446">之</ref>乞<lb
-ed="B" n="0433a06"/>戒者凡百有七十餘人。寂於<date from-iso="+1896-01-11" key="j24135702413570">光緒二十一年十一月二十七日</date>，<lb
-ed="B" n="0433a07"/>世壽七十有七，僧臘三十有五。弟子遵其遺命，奉龕歸太華建<lb
-ed="B" n="0433a08"/>塔。<persName key="A004827">釋敬安</persName>狀其道行，以昭來許。</p>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0432b16shiWuBi">
+<lb ed="B" n="0432b16"/><anchor n="B.27.0151.0432b16"/><head>清東安麒麟寺沙門<persName key="A042446">釋無彼</persName>傳</head>
+<lb ed="B" n="0432b17"/><p xml:id="pB27p0432b1701"><persName key="A042446">釋無彼</persName>，字<persName key="A042446">高岸</persName>，姓陳氏，清泉人也。身幹雄偉，胸懷磊落，有古豪
+<lb ed="B" n="0432b18"/>士風，曾以軍功授藍翎千總。髮逆<!-- 太平天國 -->平定，還鄉省親。聞衡陽羅漢
+<lb ed="B" n="0432b19"/>寺<persName key="A042960">法空成</persName>說法有省，乃歎曰：「世相無常，榮名非寶。<ref type="person" target="#A042446">吾</ref>當於茲披
+<lb ed="B" n="0432b20"/>精進鎧，除煩惱賊矣！」<persName key="A042960">成</persName>因為剃染，命從<persName key="A042961">東林</persName>律師圓具。後佐<persName key="A042263">恒<pb ed="B" xml:id="B27.0151.0433a" n="0433a"/>
+<lb ed="B" n="0433a01"/>志</persName>開法岐山紫雲。<persName key="A042446">無彼</persName>持律精苦，常以杜多行自勵。聞九疑巖
+<lb ed="B" n="0433a02"/>谷幽邃，攜杖孤往，道過東安麒麟觀，因留習定。士民嚮其梵行，
+<lb ed="B" n="0433a03"/>爭營淨宇，衲子從者如雲，遂成叢林。晚年專修淨業，入太華山
+<lb ed="B" n="0433a04"/>縛茅以居，而檀施所集輪奐斯。崇戒定薰修，蛇虎馴伏，其慈心
+<lb ed="B" n="0433a05"/>密行，感物若是。未幾邑人迎還麒麟閣，開闡毘尼，四眾從<ref type="person" target="#A042446">之</ref>乞
+<lb ed="B" n="0433a06"/>戒者凡百有七十餘人。寂於<date from-iso="+1896-01-11" key="j24135702413570">光緒二十一年十一月二十七日</date>，
+<lb ed="B" n="0433a07"/>世壽七十有七，僧臘三十有五。弟子遵其遺命，奉龕歸太華建
+<lb ed="B" n="0433a08"/>塔。<persName key="A004827">釋敬安</persName>狀其道行，以昭來許。</p>
     <linkGrp>
         <link targets="#0432b18 #0432b20"/>
         <ptr target="#A042446" type="person"/>

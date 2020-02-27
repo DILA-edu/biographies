@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0199b03shiBenXiang">
+<lb ed="B" n="0199b03"/><anchor n="B.27.0151.0199b03"/><head>清蜀北給孤寺沙門<persName key="A016348">釋本襄</persName>傳<persName type="secondary" key="A016419">懶石</persName><persName type="secondary" key="A016491">福慧</persName></head>
+<lb ed="B" n="0199b04"/><p xml:id="pB27p0199b0401"><persName key="A016348">釋本襄</persName>，字<persName key="A016348">半生</persName>，姓張氏，閬人也。幼而孱弱，長復多病。父母許度
+<lb ed="B" n="0199b05"/>為僧，其病尋瘥。<ref type="date" target="#j23160642316447">年十二</ref>捨入給孤寺。一夕，聞人言：「今日已過，再
+<lb ed="B" n="0199b06"/>無今日。」不覺悲感交集，悟世無常。<ref type="date" target="#j23186342318987">年十九</ref>從<persName key="A043152">應時</persName>法師受具，聽
+<lb ed="B" n="0199b07"/>講《般若心經》至「無眼耳鼻舌身意<!-- T08n0251_p0848c11 -->」處，疑不能明。夜分入室，請問
+<lb ed="B" n="0199b08"/>其旨。<persName key="A043152">應</persName>曰：「既無眼耳鼻舌身意，還有口麼？要<ref type="person" target="#A016348">汝</ref>自信自悟始得。」
+<lb ed="B" n="0199b09"/>由是舉步忘形，胸中如結。會明季喪亂，寇譟蜀境，避入秦中。因
+<lb ed="B" n="0199b10"/>至徽州，訪素尋玄。偶聞漢中<persName key="A001157">丈雪</persName>門庭孤峻，<date from-iso="+1649-02-11" key="j23233872323741" to-iso="+1650-01-31">歲在<anchor xml:id="beg_c4" type="cb-app"/>己<anchor xml:id="end_c4"/>丑</date>，逕往參
+<lb ed="B" n="0199b11"/><ref type="person" target="#A001157">之</ref>。夜行護法堂前，撞倒磬架，碎磬作聲，疑情廊然。乃呈偈曰：「驀
+<lb ed="B" n="0199b12"/>直行將去，虛空撞腳跟；磬破原是鐵，冤家聚頭生。」<persName key="A001157">丈</persName>肎<!-- 通「肯」 --><ref type="person" target="#A016348">之</ref>，因授
+<lb ed="B" n="0199b13"/>杖拂，付以偈曰：「龜毛拂有騰龍勢，兔角杖支南斗雲；山水悉歸
+<lb ed="B" n="0199b14"/>布袋裏，昆明池上日方昕。」<date from-iso="+1664-01-28" key="j23288512329234" to-iso="+1665-02-14">康熙甲辰</date>復自蜀入滇。<date from-iso="+1670-01-21" key="j23310362331419" to-iso="+1671-02-08">庚<anchor xml:id="beg_c5" type="cb-app"/>戌<anchor xml:id="end_c5"/></date>重修青
+<lb ed="B" n="0199b15"/>門，大弘佛法。<date when-iso="+1670-05-27" key="j23311622331162">四月九日</date>示疾，乃集眾曰：「<ref type="person" target="#A016348">我</ref>有一偈，當問汝等：生
+<lb ed="B" n="0199b16"/>亦何苦？寂亦何樂？苦樂兩忘，是甚活潑。」眾無語。<persName key="A016348">襄</persName>一喝，垂手而
+<lb ed="B" n="0199b17"/>逝。茶毘得堅固子，為人分供，頂骨復見五彩。塔於笻竹之巔。<persName key="A016348">襄</persName>
+<lb ed="B" n="0199b18"/>凡九坐道場，五剎結制。壽五十九，僧臘四十。<persName key="A016419">懶石聆</persName>禪者，姓張
+<lb ed="B" n="0199b19"/>氏，蜀人，亦得法於<persName key="A001157">丈雪</persName>者也。母<persName key="A043153">趙氏</persName>，夜夢吞月，覺而生子。幼歲
+<lb ed="B" n="0199b20"/>剃染，受戒於<persName key="A004939">象崖</persName>。復參<persName key="A009652">破山</persName>。後於<persName key="A001157">丈雪</persName>道旨契合，遂授記莂。康<pb ed="B" xml:id="B27.0151.0200a" n="0200a"/>
+<lb ed="B" n="0200a01"/>熙初至滇，主商山斗光寺。闡法數年，復歸蜀授法自覺云。<persName key="A016491">福慧
+<lb ed="B" n="0200a02"/>野竹</persName>者，亦蜀之長壽人。得法<persName key="A016480">磚鏡</persName>，本天童正派。康熙初至滇，閎
+<lb ed="B" n="0200a03"/>法於昆明嵩山寺。眾數千指，士庶皈依恐後，諸方宗仰，極一時
+<lb ed="B" n="0200a04"/>法會之盛。</p>
+    <linkGrp>
+        <link targets="#0199b06 #0199b08"/>
+        <ptr target="#A016348" type="person"/>
+        <ptr target="#A043152" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0199b10 #0199b11"/>
+        <ptr target="#A016348" type="person"/>
+        <ptr target="#A001157" type="person"/>
+        <ptr target="#j23233872323741" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0199b18 #0199b19"/>
+        <ptr target="#A016419" type="person"/>
+        <ptr target="#A001157" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0199b19 #0199b19"/>
+        <ptr target="#A016419" type="person"/>
+        <ptr target="#A043153" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0199b20 #0199b20"/>
+        <ptr target="#A016419" type="person"/>
+        <ptr target="#A004939" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0199b20 #0199b20"/>
+        <ptr target="#A016419" type="person"/>
+        <ptr target="#A009652" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0199b20 #0199b20"/>
+        <ptr target="#A016419" type="person"/>
+        <ptr target="#A001157" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0200a01 #0200a01"/>
+        <ptr target="#A016491" type="person"/>
+        <ptr target="#A016480" type="person"/>
+    </linkGrp>
+</div>

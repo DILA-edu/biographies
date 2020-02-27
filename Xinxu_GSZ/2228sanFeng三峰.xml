@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0168b11shiSanFeng"><lb
-ed="B" n="0168b11"/><anchor n="B.27.0151.0168b11"/><head>明金陵靈谷寺沙門<persName key="A003668">釋三峯</persName>傳</head><lb
-ed="B" n="0168b12"/><p xml:id="pB27p0168b1201"><persName key="A003668">釋三峯</persName>，字<persName key="A003668">於密</persName>，亦號<persName key="A003668">漢月</persName>，梁溪蘇氏子也。<ref type="date" target="#j23007372301091">年十五</ref>出家，<ref type="date" target="#j23043992304753">越十年</ref><lb
-ed="B" n="0168b13"/>受具戒於靈谷<persName key="A000352">古心</persName>。時<persName key="A000352">古心</persName>參禪說戒，遶座數百人。見<persName key="A003668">峯</persName>來，大<lb
-ed="B" n="0168b14"/>喜曰：「<ref type="person" target="#A003668">此子</ref>乃法中王。豈但我座前子乎！」居一年辤去，<persName key="A000352">古心</persName>親送<lb
-ed="B" n="0168b15"/>之，曰：「靈谷有靈，<ref type="person" target="#A003668">汝</ref>當再至。」<persName key="A003668">峯</persName>回顧者三，乃往三峰。後參<persName key="A003688">天童</persName>，為<lb
-ed="B" n="0168b16"/>首座。<ref type="date" target="#j23098632310245">年四十</ref>受<persName key="A003688">天童</persName>衣拂。法弟子遍江淛，自此靈谷宗派，皆承<lb
-ed="B" n="0168b17"/><persName key="A003668">三峯</persName>矣！</p>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0168b11shiSanFeng">
+<lb ed="B" n="0168b11"/><anchor n="B.27.0151.0168b11"/><head>明金陵靈谷寺沙門<persName key="A003668">釋三峯</persName>傳</head>
+<lb ed="B" n="0168b12"/><p xml:id="pB27p0168b1201"><persName key="A003668">釋三峯</persName>，字<persName key="A003668">於密</persName>，亦號<persName key="A003668">漢月</persName>，梁溪蘇氏子也。<ref type="date" target="#j23007372301091">年十五</ref>出家，<ref type="date" target="#j23043992304753">越十年</ref>
+<lb ed="B" n="0168b13"/>受具戒於靈谷<persName key="A000352">古心</persName>。時<persName key="A000352">古心</persName>參禪說戒，遶座數百人。見<persName key="A003668">峯</persName>來，大
+<lb ed="B" n="0168b14"/>喜曰：「<ref type="person" target="#A003668">此子</ref>乃法中王。豈但我座前子乎！」居一年辤去，<persName key="A000352">古心</persName>親送
+<lb ed="B" n="0168b15"/>之，曰：「靈谷有靈，<ref type="person" target="#A003668">汝</ref>當再至。」<persName key="A003668">峯</persName>回顧者三，乃往三峰。後參<persName key="A003688">天童</persName>，為
+<lb ed="B" n="0168b16"/>首座。<ref type="date" target="#j23098632310245">年四十</ref>受<persName key="A003688">天童</persName>衣拂。法弟子遍江淛，自此靈谷宗派，皆承
+<lb ed="B" n="0168b17"/><persName key="A003668">三峯</persName>矣！</p>
     <linkGrp>
         <link targets="#0168b12 #0168b13"/>
         <ptr target="#A003668" type="person"/>

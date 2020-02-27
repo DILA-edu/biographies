@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0168b05shiNengYi"><lb
-ed="B" n="0168b05"/><anchor n="B.27.0151.0168b05"/><head>明金陵靈谷寺沙門<persName key="A015643">釋能義</persName>
-傳</head><lb
-ed="B" n="0168b06"/><p xml:id="pB27p0168b0601"><persName key="A015643">釋能義</persName>，字<persName key="A015643">無言</persName>，四明人。本世家子，素志清苦，不事華麗。旁無長<lb
-ed="B" n="0168b07"/>物，以一缽自隨。居鍾山閒房，非行誼高潔者，不與之接。日惟禪<lb
-ed="B" n="0168b08"/>定為事，暇則與學侶演說經藏要義。<persName key="A000149">成祖</persName>雅重之，召對無虛。月<lb
-ed="B" n="0168b09"/>每入大內，即命講說《楞嚴》大義。居靈谷，授僧錄。以奉詔北來，卒<lb
-ed="B" n="0168b10"/>於慶壽僧舍。</p>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0168b05shiNengYi">
+<lb ed="B" n="0168b05"/><anchor n="B.27.0151.0168b05"/><head>明金陵靈谷寺沙門<persName key="A015643">釋能義</persName>
+傳</head>
+<lb ed="B" n="0168b06"/><p xml:id="pB27p0168b0601"><persName key="A015643">釋能義</persName>，字<persName key="A015643">無言</persName>，四明人。本世家子，素志清苦，不事華麗。旁無長
+<lb ed="B" n="0168b07"/>物，以一缽自隨。居鍾山閒房，非行誼高潔者，不與之接。日惟禪
+<lb ed="B" n="0168b08"/>定為事，暇則與學侶演說經藏要義。<persName key="A000149">成祖</persName>雅重之，召對無虛。月
+<lb ed="B" n="0168b09"/>每入大內，即命講說《楞嚴》大義。居靈谷，授僧錄。以奉詔北來，卒
+<lb ed="B" n="0168b10"/>於慶壽僧舍。</p>
     <linkGrp>
         <link targets="#0168b08 #0168b08"/>
         <ptr target="#A015643" type="person"/>

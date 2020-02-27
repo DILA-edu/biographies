@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" type="義解" xml:id="gsz0071a12shiPuRen"><lb
-ed="B" n="0071a12"/><anchor n="B.27.0151.0071a12"/><head>明婺州智者寺沙門<persName key="A015579">釋普仁</persName>傳<persName type="secondary" key="A015621">德祥</persName></head><lb
-ed="B" n="0071a13"/><p xml:id="pB27p0071a1301"><persName key="A015579">釋普仁</persName>，字<persName key="A015579">德隱</persName>姓趙氏，蘭溪人也。性孤峭，年十歲便有出塵之<lb
-ed="B" n="0071a14"/>想，依金華寶石演法院<persName key="A042577">月公</persName>祝髮。及受具乃慨然求道，危坐達<lb
-ed="B" n="0071a15"/>旦，期息妄緣。時隣院智者住山<persName key="A020041">了然義</persName>道價甚高，<persName key="A015579">仁</persName>入室，問答<lb
-ed="B" n="0071a16"/>機鋒，遞相奮觸。久之應部使者之請，出主金華西峯淨土。元季<lb
-ed="B" n="0071a17"/>喪亂，天下紛擾，<persName key="A015579">仁</persName>遂引退。<date from-iso="+1358-11-10" key="j22173732217460" to-iso="+1359-02-05">戊<anchor xml:id="beg_22" type="cb-app"/>戌<anchor xml:id="end_22"/>冬</date>有明兵至婺州，<persName key="A003672">太祖</persName>臨幸智<lb
-ed="B" n="0071a18"/>者寺，見其虛席，特詔<persName key="A015579">仁</persName>主之，坐夏十五<!-- 《護法錄》卷2：「一坐十五夏」(CBETA, J21, no. B110, p. 626, c21) -->。處之連雲、韶之南華、杭<lb
-ed="B" n="0071a19"/>之中竺檄幣交至，皆辭不赴。<date from-iso="+1374-08-16" key="j22231312223219" to-iso="+1374-11-12">洪武甲寅之秋</date>，使者三至，請主淨<lb
-ed="B" n="0071a20"/>慈，始強起應之。開法之日，聽者千人，莫不挹深飲醕<!-- 《護法錄》卷2：「挹深飲醲」(CBETA, J21, no. B110, p. 626, c30-p. 627, a1) -->，歎咏而去。<pb ed="B" xml:id="B27.0151.0071b" n="0071b"/><lb
-ed="B" n="0071b01"/>以<date when-iso="+1375-09-11" key="j22235222223522">乙卯八月八日</date>端坐而寂。臘五十，年六十四。著有《三會語》若<lb
-ed="B" n="0071b02"/>干卷，《山居詩》百首。同時<persName key="A015621">止庵德祥</persName>，洪武初亦主淨慈，與<persName key="A015579">仁</persName>均以<lb
-ed="B" n="0071b03"/>悟宗闡教為事。未幾被徵為僧錄右善世，後遷徑山主席二十<lb
-ed="B" n="0071b04"/>五年。<date when-iso="+1394-11-14" key="j22305262230526">甲<anchor xml:id="beg_23" type="cb-app"/>戌<anchor xml:id="end_23"/>十月十三日</date>倚座而寂，壽六十三。所著有《桐嶼集》。為<lb
-ed="B" n="0071b05"/>詩刻苦，逼近<persName key="A018517">郊</persName>、<persName key="A005203">島</persName>，尤善書法，時人重之。</p>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="義解" xml:id="gsz0071a12shiPuRen">
+<lb ed="B" n="0071a12"/><anchor n="B.27.0151.0071a12"/><head>明婺州智者寺沙門<persName key="A015579">釋普仁</persName>傳<persName type="secondary" key="A015621">德祥</persName></head>
+<lb ed="B" n="0071a13"/><p xml:id="pB27p0071a1301"><persName key="A015579">釋普仁</persName>，字<persName key="A015579">德隱</persName>姓趙氏，蘭溪人也。性孤峭，年十歲便有出塵之
+<lb ed="B" n="0071a14"/>想，依金華寶石演法院<persName key="A042577">月公</persName>祝髮。及受具乃慨然求道，危坐達
+<lb ed="B" n="0071a15"/>旦，期息妄緣。時隣院智者住山<persName key="A020041">了然義</persName>道價甚高，<persName key="A015579">仁</persName>入室，問答
+<lb ed="B" n="0071a16"/>機鋒，遞相奮觸。久之應部使者之請，出主金華西峯淨土。元季
+<lb ed="B" n="0071a17"/>喪亂，天下紛擾，<persName key="A015579">仁</persName>遂引退。<date from-iso="+1358-11-10" key="j22173732217460" to-iso="+1359-02-05">戊<anchor xml:id="beg_22" type="cb-app"/>戌<anchor xml:id="end_22"/>冬</date>有明兵至婺州，<persName key="A003672">太祖</persName>臨幸智
+<lb ed="B" n="0071a18"/>者寺，見其虛席，特詔<persName key="A015579">仁</persName>主之，坐夏十五<!-- 《護法錄》卷2：「一坐十五夏」(CBETA, J21, no. B110, p. 626, c21) -->。處之連雲、韶之南華、杭
+<lb ed="B" n="0071a19"/>之中竺檄幣交至，皆辭不赴。<date from-iso="+1374-08-16" key="j22231312223219" to-iso="+1374-11-12">洪武甲寅之秋</date>，使者三至，請主淨
+<lb ed="B" n="0071a20"/>慈，始強起應之。開法之日，聽者千人，莫不挹深飲醕<!-- 《護法錄》卷2：「挹深飲醲」(CBETA, J21, no. B110, p. 626, c30-p. 627, a1) -->，歎咏而去。<pb ed="B" xml:id="B27.0151.0071b" n="0071b"/>
+<lb ed="B" n="0071b01"/>以<date when-iso="+1375-09-11" key="j22235222223522">乙卯八月八日</date>端坐而寂。臘五十，年六十四。著有《三會語》若
+<lb ed="B" n="0071b02"/>干卷，《山居詩》百首。同時<persName key="A015621">止庵德祥</persName>，洪武初亦主淨慈，與<persName key="A015579">仁</persName>均以
+<lb ed="B" n="0071b03"/>悟宗闡教為事。未幾被徵為僧錄右善世，後遷徑山主席二十
+<lb ed="B" n="0071b04"/>五年。<date when-iso="+1394-11-14" key="j22305262230526">甲<anchor xml:id="beg_23" type="cb-app"/>戌<anchor xml:id="end_23"/>十月十三日</date>倚座而寂，壽六十三。所著有《桐嶼集》。為
+<lb ed="B" n="0071b05"/>詩刻苦，逼近<persName key="A018517">郊</persName>、<persName key="A005203">島</persName>，尤善書法，時人重之。</p>
     <linkGrp>
         <link targets="#0071a14 #0071a14"/>
         <ptr target="#A015579" type="person"/>

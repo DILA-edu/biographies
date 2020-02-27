@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0195a12shiBenShi">
+<lb ed="B" n="0195a12"/><anchor n="B.27.0151.0195a12"/><head>清永豐禪院沙門<persName key="A016174">釋本實</persName>傳<persName type="secondary" key="A043135">洪中</persName><persName type="secondary" key="A021366">海航</persName></head>
+<lb ed="B" n="0195a13"/><p xml:id="pB27p0195a1301"><persName key="A016174">釋本實</persName>，字<persName key="A016174">性空</persName>，姓戴氏，尋甸人也。生而岐嶷，穎異過人。幼孤依
+<lb ed="B" n="0195a14"/>母撫育，少習《詩》《書》，志軼塵儕。及長，禮<persName key="A008244">古林</persName>薙髮。誓持《法華》，跪誦
+<lb ed="B" n="0195a15"/>十載，乃從<persName key="A012567">和雅</persName>受具。嘗閱《楞嚴》而疑之，因參鐘靈<persName key="A042270">梵</persName>公，示以「萬
+<lb ed="B" n="0195a16"/>法歸一」語，力究數載。一夕，夢為虎吞，覺而五內清涼殊勝。曩日，
+<lb ed="B" n="0195a17"/>偶以習定問<persName key="A042270">梵</persName>，<persName key="A042270">梵</persName>曰：「性本至空，何定可習？」言下有省。因以為字。
+<lb ed="B" n="0195a18"/>乃作偈曰：「絕心、絕境、絕情、識絕到無時，更有誰雙手拓開波底
+<lb ed="B" n="0195a19"/>月？大光明藏本如如。」後掩關刺血，書《華嚴》二部。時<persName key="A024509">定北王艾</persName>公
+<lb ed="B" n="0195a20"/>企其高德，延主永豐。名公巨子，嚮往日眾。常趺坐山石、林麓、幽<pb ed="B" xml:id="B27.0151.0195b" n="0195b"/>
+<lb ed="B" n="0195b01"/>勝，自酣禪悅。忽有巨蛇，蟠踞石上。<persName key="A016174">實</persName>至熟視之曰：「汝踞吾石，吾
+<lb ed="B" n="0195b02"/>坐汝身。」遂就蛇坐之。蛇頫<!-- 同「俯」 -->首委蛇，徐徐循去。傍僧問曰：「具何神
+<lb ed="B" n="0195b03"/>通？蛇不敢縛。」<persName key="A016174">實</persName>曰：「若有神通，早被他縛<anchor xml:id="beg_b8" type="cb-app"/>卻<anchor xml:id="end_b8"/>矣！」因注目直視問傍
+<lb ed="B" n="0195b04"/>僧曰：「會麼？」僧不能荅。<persName key="A016174">實</persName>曰：「神通也。」不識僧禮而退。<date from-iso="+1672-11-19" key="j23320692332158" to-iso="+1673-02-16">康熙壬子冬</date>，
+<lb ed="B" n="0195b05"/>忽謂眾曰：「<ref type="person" target="#A016174">吾</ref>明日去矣！」書偈，默然而逝。壽六十九，臘五十，塔於
+<lb ed="B" n="0195b06"/>永豐之陽。又<persName key="A043135">洪中</persName>字<persName key="A043135">惟敬</persName>，黔普安趙氏子。避亂遊滇，入騰越依
+<lb ed="B" n="0195b07"/><persName key="A042793">大藏</persName>祝髮。亦嚴持《法華》，生死為念。居數載，忽行腳至鐘靈，誅茅
+<lb ed="B" n="0195b08"/>構庵，晨夕提究。一日，聞磐聲大悟，乃曰：「始知今日通身是佛，不
+<lb ed="B" n="0195b09"/>假修持。」漸感檀施，成大法場。<date from-iso="+1668-05-11" key="j23304162330504" to-iso="+1668-08-07">康熙戊申夏</date>微疾，召眾付授，端坐
+<lb ed="B" n="0195b10"/>而化。闍維有異香。<persName key="A021366">海航濟舟</persName>者，曲靖孔氏子。幼惡<anchor xml:id="beg019501"/><choice><sic resp="CBETA">莙</sic><corr resp="PC-MB">蔒</corr></choice><anchor xml:id="end019501"/><!-- 通「葷」 -->羶，二十得
+<lb ed="B" n="0195b11"/>度。戒行高潔，宗律兼弘。住覺照庵，遐邇欽之。<date when-iso="+1676-09-11" key="j23334612333461">康熙十五年丙辰
+<lb ed="B" n="0195b12"/>八月四日</date>，集眾示偈云：「虛空非大，我身非小；要知面目，明月皎
+<lb ed="B" n="0195b13"/>皎。」<!-- 《雲南史．卷8．滇釋紀》p110後有：「寂然而逝」 --></p>
+    <linkGrp>
+        <link targets="#0195a14 #0195a14"/>
+        <ptr target="#A016174" type="person"/>
+        <ptr target="#A008244" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0195a15 #0195a15"/>
+        <ptr target="#A016174" type="person"/>
+        <ptr target="#A012567" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0195a15 #0195a17"/>
+        <ptr target="#A016174" type="person"/>
+        <ptr target="#A042270" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0195a19 #0195a20"/>
+        <ptr target="#A016174" type="person"/>
+        <ptr target="#A024509" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0195b06 #0195b07"/>
+        <ptr target="#A043135" type="person"/>
+        <ptr target="#A042793" type="person"/>
+    </linkGrp>
+</div>

@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" type="雜識" xml:id="gsz0457b18shiZhiPu"><lb
-ed="B" n="0457b18"/><anchor n="B.27.0151.0457b18"/><head>清磐山青溝禪院沙門<persName key="A021480">釋智朴</persName>傳</head><lb
-ed="B" n="0457b19"/><p xml:id="pB27p0457b1901"><persName key="A021480">釋智朴</persName>，字<persName key="A021480">拙庵</persName>，徐州人。早歲參方，嘗謁南華，憇佛日峰，住五老，<lb
-ed="B" n="0457b20"/>東、西二林間，最後得法青龍<persName key="A016277">百愚</persName>，為洞宗三十世。<date from-iso="+1671-02-09" key="j23314202331774" to-iso="+1672-01-29">康熙辛亥</date>始<pb ed="B" xml:id="B27.0151.0458a" n="0458a"/><lb
-ed="B" n="0458a01"/>艐<!-- 同「屆」 -->磐谷，構葊青溝之中盤，漸成巨剎。禪餘更耽藝文，詩有佳句，<lb
-ed="B" n="0458a02"/>為世所稱。<date from-iso="+1687-01-14" key="j23372382337266" to-iso="+1687-02-11">丙寅季冬</date><persName key="A006719">聖祖</persName>駕幸青溝，<persName key="A021480">朴</persName>口占應制，詩曰：「冷靜峰<lb
-ed="B" n="0458a03"/>頭雲水香，六龍車駕幸山堂；百年勝覯唯今日，塊雨條風祝我<lb
-ed="B" n="0458a04"/>皇。」既愜<ref type="person" target="#A006719">聖</ref>賞，遂承宸翰。舊無《山志》，<persName key="A021480">朴</persName>思剏之，搜集遺聞，傍及碑<lb
-ed="B" n="0458a05"/>碣，都十有四卷。體例嚴潔，九載乃成。後得<persName key="A012199">王阮亭</persName>、<persName key="A009421">朱竹垞</persName>諸賢<lb
-ed="B" n="0458a06"/>為之參訂，益臻完善。但<persName key="A021480">朴</persName>所著書甚富，曰《谷響集》，曰《電光錄》，曰<lb
-ed="B" n="0458a07"/>《雲鶴集》，曰《盤谷集》，曰《存誠錄》，曰《遊臺集》，曰《辛壬蔓草》。其寺後人<lb
-ed="B" n="0458a08"/>亦稱盤谷寺，沒葬寺東。同治時，寺已荒落。薊州<persName key="A042998">李江</persName>過而傷之，<lb
-ed="B" n="0458a09"/>為立石，題曰「清詩僧智朴之墓」。</p>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="雜識" xml:id="gsz0457b18shiZhiPu">
+<lb ed="B" n="0457b18"/><anchor n="B.27.0151.0457b18"/><head>清磐山青溝禪院沙門<persName key="A021480">釋智朴</persName>傳</head>
+<lb ed="B" n="0457b19"/><p xml:id="pB27p0457b1901"><persName key="A021480">釋智朴</persName>，字<persName key="A021480">拙庵</persName>，徐州人。早歲參方，嘗謁南華，憇佛日峰，住五老，
+<lb ed="B" n="0457b20"/>東、西二林間，最後得法青龍<persName key="A016277">百愚</persName>，為洞宗三十世。<date from-iso="+1671-02-09" key="j23314202331774" to-iso="+1672-01-29">康熙辛亥</date>始<pb ed="B" xml:id="B27.0151.0458a" n="0458a"/>
+<lb ed="B" n="0458a01"/>艐<!-- 同「屆」 -->磐谷，構葊青溝之中盤，漸成巨剎。禪餘更耽藝文，詩有佳句，
+<lb ed="B" n="0458a02"/>為世所稱。<date from-iso="+1687-01-14" key="j23372382337266" to-iso="+1687-02-11">丙寅季冬</date><persName key="A006719">聖祖</persName>駕幸青溝，<persName key="A021480">朴</persName>口占應制，詩曰：「冷靜峰
+<lb ed="B" n="0458a03"/>頭雲水香，六龍車駕幸山堂；百年勝覯唯今日，塊雨條風祝我
+<lb ed="B" n="0458a04"/>皇。」既愜<ref type="person" target="#A006719">聖</ref>賞，遂承宸翰。舊無《山志》，<persName key="A021480">朴</persName>思剏之，搜集遺聞，傍及碑
+<lb ed="B" n="0458a05"/>碣，都十有四卷。體例嚴潔，九載乃成。後得<persName key="A012199">王阮亭</persName>、<persName key="A009421">朱竹垞</persName>諸賢
+<lb ed="B" n="0458a06"/>為之參訂，益臻完善。但<persName key="A021480">朴</persName>所著書甚富，曰《谷響集》，曰《電光錄》，曰
+<lb ed="B" n="0458a07"/>《雲鶴集》，曰《盤谷集》，曰《存誠錄》，曰《遊臺集》，曰《辛壬蔓草》。其寺後人
+<lb ed="B" n="0458a08"/>亦稱盤谷寺，沒葬寺東。同治時，寺已荒落。薊州<persName key="A042998">李江</persName>過而傷之，
+<lb ed="B" n="0458a09"/>為立石，題曰「清詩僧智朴之墓」。</p>
     <linkGrp>
         <link targets="#0457b20 #0457b20"/>
         <ptr target="#A021480" type="person"/>

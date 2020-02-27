@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0493c21shiJiNeng"><lb
+ed="J" n="0493c21"/><anchor n="J.38.B417.0493c21"/><head>行略</head><lb
+ed="J" n="0493c22"/><p xml:id="pJ38p0493c2201">師諱<persName key="A016434">機能</persName>，字<persName key="A016434">天則</persName>，別號<persName key="A016434">淨善</persName>，姓康氏。上世有功於國，<lb
+ed="J" n="0493c23"/>襲軍籍，居蘄州。四世祖遷於黃岡，遂稱黃人也。父<persName key="A042741">際<lb
+ed="J" n="0493c24"/>明</persName>，母<persName key="A042742">劉氏</persName>於萬曆戊午九月廿六日午時誕<ref type="person" target="#A016434">師</ref>時，有<lb
+ed="J" n="0493c25"/>甘露降異瑞於庭，父遂以名之。……<lb
+ed="J" n="0494a06"/>……時南浙禪宗日著，爰一錫遍參，到龍池謁<persName key="A012040">萬<lb
+ed="J" n="0494a07"/>如</persName>禪師。……<lb
+ed="J" n="0494a14"/>……到安隱<persName key="A015986">紫蓋</persName>會下，命<ref type="person" target="#A016434">師</ref><lb
+ed="J" n="0494a15"/>入堂結制。……<lb
+ed="J" n="0494a18"/>……後造天童雲門諸剎，無有可其意者其最<lb
+ed="J" n="0494a19"/>後到道場<persName key="A001513">木陳</persName>禪師座下，深得奧旨。……<lb
+ed="J" n="0494a22"/>迨康熙乙巳秋，<persName key="A000945">山鐸</persName>老人開法華桂，<ref type="person" target="#A016434">師</ref>往謁……<lb
+ed="J" n="0494b03"/>……己酉夏<persName key="A001806">石</persName>和尚走義水，訪二祖高原山，<lb
+ed="J" n="0494b04"/>始過其廬。與<ref type="person" target="#A016434">師</ref>一言相契，贈有「義水天荒破，語崎優<lb
+ed="J" n="0494b05"/>缽開」之句。明春<persName key="A042743">旦</persName>大師相佐高原著書，取道語崎。見<lb
+ed="J" n="0494b06"/><ref type="person" target="#A016434">師</ref>行解超卓，亦有「不是鰲山是義水，同餐桂乳石橋<lb
+ed="J" n="0494b07"/>香」之語贈之。<ref type="person" target="#A016434">師</ref>自此與<persName key="A001806">石源</persName>、<persName key="A042743">旦谷</persName>二公並名叢林。……</p>
+    <linkGrp>
+        <link targets="#0493c22 #0493c25"/>
+        <ptr target="#A016434" type="person"/>
+        <ptr target="#A042741" type="person"/>
+        <ptr target="#A042742" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0494a06 #0494a06"/>
+        <ptr target="#A016434" type="person"/>
+        <ptr target="#A012040" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0494a14 #0494a15"/>
+        <ptr target="#A016434" type="person"/>
+        <ptr target="#A015986" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0494a18 #0494a19"/>
+        <ptr target="#A016434" type="person"/>
+        <ptr target="#A001513" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0494a22 #0494a22"/>
+        <ptr target="#A016434" type="person"/>
+        <ptr target="#A000945" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0494b03 #0494b05"/>
+        <ptr target="#A016434" type="person"/>
+        <ptr target="#A001806" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0494b05 #0494b07"/>
+        <ptr target="#A016434" type="person"/>
+        <ptr target="#A042743" type="person"/>
+    </linkGrp>
+</div>

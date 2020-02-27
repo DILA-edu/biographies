@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0441b01shiZhenXiong"><lb
+ed="J" n="0441b01"/><anchor n="J.38.B415.0441b01"/><head>大悲<persName key="A000957">玅雲</persName>禪師傳</head><lb
+ed="J" n="0441b02"/><p xml:id="pJ38p0441b0201">苕程司訓鴛水逸民同門弟<persName key="A020640">真性羅開驎</persName>撰……<lb
+ed="J" n="0441b05"/>……<ref type="person" target="#A000957">師</ref>諱<persName key="A000957">真雄</persName>，字<persName key="A000957">玅雲</persName>，原藉浙之金華，徐姓，父<persName key="A042728">仲芳</persName>任<lb
+ed="J" n="0441b06"/>登州都閫，以官為家，遂為山左人。<ref type="person" target="#A000957">師</ref>自幼喜悅三寶，<lb
+ed="J" n="0441b07"/>俄逢鼎革，<ref type="person" target="#A042728">父</ref>棄官入空門，<ref type="person" target="#A000957">師</ref>亦隨<ref type="person" target="#A042728">父</ref>驅烏受具戒。首<lb
+ed="J" n="0441b08"/>參<persName key="A016082">具德</persName>和尚究竹篦話。一日至北高峰，仰見新月。忽<lb
+ed="J" n="0441b09"/>若大地平沈，遂爾疑團撲落。復飽歷煙水，若<persName key="A001513">木陳</persName>、<persName key="A001150">費<lb
+ed="J" n="0441b10"/>隱</persName>、<persName key="A013268">箬菴</persName>、<persName key="A012052">浮石</persName>、<persName key="A001153">玉林</persName>、<persName key="A001148">牧雲</persName>諸尊宿無不刮目相看，爭欲<lb
+ed="J" n="0441b11"/>網羅異寶。然<ref type="person" target="#A000957">師</ref>少可其意。最後抵禾城金明，一見本<lb
+ed="J" n="0441b12"/>師<persName key="A010710">介</persName>老人心中大愜，曰：「是誠<ref type="person" target="#A000957">吾</ref>師也。」……<lb
+ed="J" n="0441b20"/>……<ref type="person" target="#A000957">師</ref>與<persName key="A016267">主峰</persName>兄侍<ref type="person" target="#A010710">老人</ref>圍爐<lb
+ed="J" n="0441b21"/>次，<ref type="person" target="#A010710">老人</ref>曰……<lb
+ed="J" n="0441c17"/>……<persName key="A041892">舜日<lb
+ed="J" n="0441c18"/>杲</persName>公贈言云：「誰言我叔成癡癖？華頂風清熟解躋。」……<lb
+ed="J" n="0441c24"/>……<ref type="person" target="#A000957">師</ref>自壬子離金明至庚午冬仲從東魯<lb
+ed="J" n="0441c25"/>來禾，屈指十有九稔矣！<ref type="person" target="#A020640">余</ref>迎笑謂曰：「<ref type="person" target="#A000957">兄</ref>大作佛事而<lb
+ed="J" n="0441c26"/>榮旋祖庭，古云遊子悲故鄉，此其時歟。」……</p>
+    <linkGrp>
+        <link targets="#0441b05 #0441b07"/>
+        <ptr target="#A000957" type="person"/>
+        <ptr target="#A042728" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0441b07 #0441b08"/>
+        <ptr target="#A000957" type="person"/>
+        <ptr target="#A016082" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0441b07 #0441b08"/>
+        <ptr target="#A000957" type="person"/>
+        <ptr target="#A016082" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0441b09 #0441b11"/>
+        <ptr target="#A000957" type="person"/>
+        <ptr target="#A001513" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0441b09 #0441b11"/>
+        <ptr target="#A000957" type="person"/>
+        <ptr target="#A001150" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0441b09 #0441b11"/>
+        <ptr target="#A000957" type="person"/>
+        <ptr target="#A013268" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0441b09 #0441b11"/>
+        <ptr target="#A000957" type="person"/>
+        <ptr target="#A012052" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0441b09 #0441b11"/>
+        <ptr target="#A000957" type="person"/>
+        <ptr target="#A001153" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0441b09 #0441b11"/>
+        <ptr target="#A000957" type="person"/>
+        <ptr target="#A001148" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0441b11 #0441b12"/>
+        <ptr target="#A000957" type="person"/>
+        <ptr target="#A010710" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0441b20 #0441b21"/>
+        <ptr target="#A000957" type="person"/>
+        <ptr target="#A010710" type="person"/>
+        <ptr target="#A016267" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0441c17 #0441c18"/>
+        <ptr target="#A000957" type="person"/>
+        <ptr target="#A041892" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0441c24 #0441c26"/>
+        <ptr target="#A000957" type="person"/>
+        <ptr target="#A020640" type="person"/>
+    </linkGrp>
+</div>

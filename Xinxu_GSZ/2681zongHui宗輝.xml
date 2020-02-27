@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0423b08shiZongHui"><lb
-ed="B" n="0423b08"/><anchor n="B.27.0151.0423b08"/><head>清鎮海瑞巖寺沙門<persName key="A009893">釋宗輝</persName>
-傳</head><lb
-ed="B" n="0423b09"/><p xml:id="pB27p0423b0901"><persName key="A009893">釋宗輝</persName>，<anchor xml:id="beg042302"/><choice><sic resp="CBETA">宇</sic><corr resp="PC-MB">字</corr></choice><anchor xml:id="end042302"/><persName key="A009893">淨月</persName>，<date from-iso="+1738-02-19" key="j23559012356254" to-iso="+1739-02-07">清乾隆戊午</date>重建總持寺鐘樓，積精竭力，不日<lb
-ed="B" n="0423b10"/>告成。復修大殿，墻垣、廊廡煥然一新。<persName key="A009893">輝</persName>初得法於育王<persName key="A009325">秋遠碧</persName><lb
-ed="B" n="0423b11"/>公，傳臨濟宗三十四世，後住靈芝領院事，歷有年所。剏立法堂，<lb
-ed="B" n="0423b12"/>增置寺產。是冬開法靈芝，普慶禪院止作兼持。未幾，移錫瑞巖。<lb
-ed="B" n="0423b13"/>寺值殘荒，<persName key="A009893">輝</persName>一入院，百廢具舉，叢林為之改觀。平生願力弘深，<lb
-ed="B" n="0423b14"/>常懷利濟，得瑜伽三昧，廣興法施；一衲之外，他無長物；衣缽之<lb
-ed="B" n="0423b15"/>貲，悉以修葺橋梁，平治道路，郵亭破院，尤盡心焉！<date from-iso="+1755-02-11" key="j23621022362190" to-iso="+1755-05-10">乙亥春</date>復住<lb
-ed="B" n="0423b16"/>鎮海普慶，於<date when-iso="+1755-02-19" key="j23621102362110">正月九日</date>掩關自閟，三載乃出。即呈偈曰：「入此禪<lb
-ed="B" n="0423b17"/>關一剎那，竟忘三載疾如梭；尋空到得無空際，放下空空便出<lb
-ed="B" n="0423b18"/>窩。」<date from-iso="+1759-01-29" key="j23635502363933" to-iso="+1760-02-16">乾隆二十四年</date>復為育王<persName key="A007237">嵩</persName>公及鄞鎮諸檀護所請，卓錫阿<lb
-ed="B" n="0423b19"/>育王山廣利禪寺。<persName key="A009893">輝</persName>晚年喜為韵語，天資敏捷，揮豪立就。其臨<lb
-ed="B" n="0423b20"/>機說法，具正知見，真足津梁末世。所著《芝峰語錄》一編，<persName key="A009455">謝誾祚</persName><pb ed="B" xml:id="B27.0151.0424a" n="0424a"/><lb
-ed="B" n="0424a01"/>為之序，謂其能於叩募之暇，閉關之餘，了明心性，悟四大皆空<lb
-ed="B" n="0424a02"/>之理，成六塵不染之身。而其登堂說法，復能指示玄詮<!-- 奧義 -->，令當下<lb
-ed="B" n="0424a03"/>機鋒，人人猛省。益信古人所傳：頑石點頭，花雨諸天，為不虛也。</p>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0423b08shiZongHui">
+<lb ed="B" n="0423b08"/><anchor n="B.27.0151.0423b08"/><head>清鎮海瑞巖寺沙門<persName key="A009893">釋宗輝</persName>
+傳</head>
+<lb ed="B" n="0423b09"/><p xml:id="pB27p0423b0901"><persName key="A009893">釋宗輝</persName>，<anchor xml:id="beg042302"/><choice><sic resp="CBETA">宇</sic><corr resp="PC-MB">字</corr></choice><anchor xml:id="end042302"/><persName key="A009893">淨月</persName>，<date from-iso="+1738-02-19" key="j23559012356254" to-iso="+1739-02-07">清乾隆戊午</date>重建總持寺鐘樓，積精竭力，不日
+<lb ed="B" n="0423b10"/>告成。復修大殿，墻垣、廊廡煥然一新。<persName key="A009893">輝</persName>初得法於育王<persName key="A009325">秋遠碧</persName>
+<lb ed="B" n="0423b11"/>公，傳臨濟宗三十四世，後住靈芝領院事，歷有年所。剏立法堂，
+<lb ed="B" n="0423b12"/>增置寺產。是冬開法靈芝，普慶禪院止作兼持。未幾，移錫瑞巖。
+<lb ed="B" n="0423b13"/>寺值殘荒，<persName key="A009893">輝</persName>一入院，百廢具舉，叢林為之改觀。平生願力弘深，
+<lb ed="B" n="0423b14"/>常懷利濟，得瑜伽三昧，廣興法施；一衲之外，他無長物；衣缽之
+<lb ed="B" n="0423b15"/>貲，悉以修葺橋梁，平治道路，郵亭破院，尤盡心焉！<date from-iso="+1755-02-11" key="j23621022362190" to-iso="+1755-05-10">乙亥春</date>復住
+<lb ed="B" n="0423b16"/>鎮海普慶，於<date when-iso="+1755-02-19" key="j23621102362110">正月九日</date>掩關自閟，三載乃出。即呈偈曰：「入此禪
+<lb ed="B" n="0423b17"/>關一剎那，竟忘三載疾如梭；尋空到得無空際，放下空空便出
+<lb ed="B" n="0423b18"/>窩。」<date from-iso="+1759-01-29" key="j23635502363933" to-iso="+1760-02-16">乾隆二十四年</date>復為育王<persName key="A007237">嵩</persName>公及鄞鎮諸檀護所請，卓錫阿
+<lb ed="B" n="0423b19"/>育王山廣利禪寺。<persName key="A009893">輝</persName>晚年喜為韵語，天資敏捷，揮豪立就。其臨
+<lb ed="B" n="0423b20"/>機說法，具正知見，真足津梁末世。所著《芝峰語錄》一編，<persName key="A009455">謝誾祚</persName><pb ed="B" xml:id="B27.0151.0424a" n="0424a"/>
+<lb ed="B" n="0424a01"/>為之序，謂其能於叩募之暇，閉關之餘，了明心性，悟四大皆空
+<lb ed="B" n="0424a02"/>之理，成六塵不染之身。而其登堂說法，復能指示玄詮<!-- 奧義 -->，令當下
+<lb ed="B" n="0424a03"/>機鋒，人人猛省。益信古人所傳：頑石點頭，花雨諸天，為不虛也。</p>
     <linkGrp>
         <link targets="#0423b10 #0423b10"/>
         <ptr target="#A009893" type="person"/>

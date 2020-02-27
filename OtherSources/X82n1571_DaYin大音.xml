@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="gsz0689c20shiDaYin"><lb
+ed="X" n="0689c20"/><anchor n="X.82.1571.0689c20"/><head>湖州弁山龍華<persName key="A016039">久默大音</persName>禪師</head><p xml:id="pX82p0689c2001">淛西石門姚氏子。……<lb
+ed="X" n="0689c22"/>廿四薙染，首謁<persName key="A005648">雲門澄</persName>。……<lb
+ed="X" n="0689c24"/>……謁<persName key="A010693">寶<lb
+ed="X" n="0690a01"/>壽方</persName>。發憤力究，廢寢食，目幾損。因僧問托鉢因緣，<persName key="A010693">方</persName><lb
+ed="X" n="0690a02"/>作擎鉢勢，遶禪牀曰：「哪哪。」<ref type="person" target="#A016039">師</ref>驀地打徹。後聞<persName key="A007133">弁山雪</persName><lb
+ed="X" n="0690a03"/>剏龍華，特禮覲，盤桓信宿。<persName key="A007133">雪</persName>印之。</p>
+    <linkGrp>
+        <link targets="#0689c22 #0689c22"/>
+        <ptr target="#A016039" type="person"/>
+        <ptr target="#A005648" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0689c24 #0690a02"/>
+        <ptr target="#A016039" type="person"/>
+        <ptr target="#A010693" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0690a02 #0690a03"/>
+        <ptr target="#A016039" type="person"/>
+        <ptr target="#A007133" type="person"/>
+    </linkGrp>
+</div>

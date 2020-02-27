@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" type="雜識" xml:id="gsz0467b16shiMingChuang"><lb
-ed="B" n="0467b16"/><anchor n="B.27.0151.0467b16"/><head>清杭州淨慈寺沙門<persName key="A042234">釋明幢</persName>傳</head><lb
-ed="B" n="0467b17"/><p xml:id="pB27p0467b1701"><persName key="A042234">釋明幢</persName>，字<persName key="A042234">果樹</persName>，蕪湖人也，而忘其姓氏。幼從薙染，<date from-iso="+1722-02-16" key="j23500542350407" to-iso="+1723-02-04">康熙季年</date>始<lb
-ed="B" n="0467b18"/>遊京邑，參禮五臺。還至燕山，略事棲息，譚言玄玅，詞意藹然，名<lb
-ed="B" n="0467b19"/>動公卿。<date from-iso="+1728-02-10" key="j23522392352592" to-iso="+1729-01-28">雍正六年</date>以<persName key="A011033">莊親王</persName>教居德勝庵。<date from-iso="+1732-01-27" key="j23536862354069" to-iso="+1733-02-13">十年</date>於武英殿行走，<lb
-ed="B" n="0467b20"/>奉旨閱視藏經。<date from-iso="+1734-02-04" key="j23544252354453" to-iso="+1734-03-04">十二年正月</date>又以<persName key="A011033">莊親王</persName>手教，命住法源寺。<date when-iso="+1734-05-10" key="j23545202354520">四<pb ed="B" xml:id="B27.0151.0468a" n="0468a"/><lb
-ed="B" n="0468a01"/>月八日</date>皇戒壇畢，引見，命留內庭。<date from-iso="+1734-10-27" key="j23546902354718" to-iso="+1734-11-24">十月</date><persName key="A000212">世宗</persName>恩賜紫衣四襲，并<lb
-ed="B" n="0468a02"/>特賜<persName key="A000282">永明</persName>禪師像三<g ref="#CB00950">󰎶</g><!-- 同「幀」 -->及罏、硯、如意、缽、杖、紅磁盤、《語錄》、法書、緞<lb
-ed="B" n="0468a03"/>袍、四時法服。<date from-iso="+1734-12-25" key="j23547492354778" to-iso="+1735-01-23">十二月</date>奉恩命出住浙江淨慈寺。<date when-iso="+1735-03-04" key="j23548182354818">十三年二月十<lb
-ed="B" n="0468a04"/>日</date><persName key="A019488">永覺</persName>禪師南下，<persName key="A042234">幢</persName>隨之行。時杭州織造長白<persName key="A043051">隆</persName>公奉旨送<persName key="A042234">幢</persName><lb
-ed="B" n="0468a05"/>入院。至則重飭寺規，親釐百務，幾復舊觀。而六時宏唱，益暢宗<lb
-ed="B" n="0468a06"/>風，江南鐘版之盛，道俗參學之眾，自此始也。</p>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="雜識" xml:id="gsz0467b16shiMingChuang">
+<lb ed="B" n="0467b16"/><anchor n="B.27.0151.0467b16"/><head>清杭州淨慈寺沙門<persName key="A042234">釋明幢</persName>傳</head>
+<lb ed="B" n="0467b17"/><p xml:id="pB27p0467b1701"><persName key="A042234">釋明幢</persName>，字<persName key="A042234">果樹</persName>，蕪湖人也，而忘其姓氏。幼從薙染，<date from-iso="+1722-02-16" key="j23500542350407" to-iso="+1723-02-04">康熙季年</date>始
+<lb ed="B" n="0467b18"/>遊京邑，參禮五臺。還至燕山，略事棲息，譚言玄玅，詞意藹然，名
+<lb ed="B" n="0467b19"/>動公卿。<date from-iso="+1728-02-10" key="j23522392352592" to-iso="+1729-01-28">雍正六年</date>以<persName key="A011033">莊親王</persName>教居德勝庵。<date from-iso="+1732-01-27" key="j23536862354069" to-iso="+1733-02-13">十年</date>於武英殿行走，
+<lb ed="B" n="0467b20"/>奉旨閱視藏經。<date from-iso="+1734-02-04" key="j23544252354453" to-iso="+1734-03-04">十二年正月</date>又以<persName key="A011033">莊親王</persName>手教，命住法源寺。<date when-iso="+1734-05-10" key="j23545202354520">四<pb ed="B" xml:id="B27.0151.0468a" n="0468a"/>
+<lb ed="B" n="0468a01"/>月八日</date>皇戒壇畢，引見，命留內庭。<date from-iso="+1734-10-27" key="j23546902354718" to-iso="+1734-11-24">十月</date><persName key="A000212">世宗</persName>恩賜紫衣四襲，并
+<lb ed="B" n="0468a02"/>特賜<persName key="A000282">永明</persName>禪師像三<g ref="#CB00950">󰎶</g><!-- 同「幀」 -->及罏、硯、如意、缽、杖、紅磁盤、《語錄》、法書、緞
+<lb ed="B" n="0468a03"/>袍、四時法服。<date from-iso="+1734-12-25" key="j23547492354778" to-iso="+1735-01-23">十二月</date>奉恩命出住浙江淨慈寺。<date when-iso="+1735-03-04" key="j23548182354818">十三年二月十
+<lb ed="B" n="0468a04"/>日</date><persName key="A019488">永覺</persName>禪師南下，<persName key="A042234">幢</persName>隨之行。時杭州織造長白<persName key="A043051">隆</persName>公奉旨送<persName key="A042234">幢</persName>
+<lb ed="B" n="0468a05"/>入院。至則重飭寺規，親釐百務，幾復舊觀。而六時宏唱，益暢宗
+<lb ed="B" n="0468a06"/>風，江南鐘版之盛，道俗參學之眾，自此始也。</p>
     <linkGrp>
         <link targets="#0467b19 #0467b19"/>
         <ptr target="#A042234" type="person"/>
