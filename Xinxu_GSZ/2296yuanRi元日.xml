@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0213b10shiYuanRi">
+<lb ed="B" n="0213b10"/><anchor n="B.27.0151.0213b10"/><head>清燕京西山普覺寺沙門<persName key="A021884">釋元日</persName>傳</head>
+<lb ed="B" n="0213b11"/><p xml:id="pB27p0213b1101"><persName key="A021884">釋元日</persName>，字<persName key="A021884">青巖</persName>，姓丁氏，鹽城人。幼從永寧寺<persName key="A043192">嚴深忍</persName>得度，年十
+<lb ed="B" n="0213b12"/>九受具於金陵寶華定庵<persName key="A001679">基</persName>。<date from-iso="+1699-01-31" key="j23416382342021" to-iso="+1700-02-18"><anchor xml:id="beg_db" type="cb-app"/>己<anchor xml:id="end_db"/>卯</date>參虎邱<persName key="A021792">節巖琇</persName>。<persName key="A021792">琇</persName>曰：「并<anchor xml:id="beg_dc" type="cb-app"/>卻<anchor xml:id="end_dc"/>咽
+<lb ed="B" n="0213b13"/>喉道一句。」<persName key="A021884">日</persName>曰：「學人沒氣力。」復詰問，擬議間，即棒出，<persName key="A021884">日</persName>因有省。
+<lb ed="B" n="0213b14"/><date from-iso="+1700-02-19" key="j23420222342375" to-iso="+1701-02-07">庚辰</date>叩天童<persName key="A014498">天岳晝</persName>，以一念不生是如何？<persName key="A014498">晝</persName>曰：「何處得此消息？」
+<lb ed="B" n="0213b15"/><persName key="A021884">日</persName>喝，<persName key="A014498">晝</persName>棒之。<date from-iso="+1703-02-16" key="j23431142343202" to-iso="+1703-03-16">癸未春</date>游天台，養道臥雲庵，飛怪石折腳鐺邊，悟
+<lb ed="B" n="0213b16"/>心境一如之旨，然終不自肎<!-- 通「肯」 -->。<date from-iso="+1705-04-23" key="j23439112344028" to-iso="+1705-08-18">乙酉夏</date>復參靈隱<persName key="A016537">諦暉輅</persName>，亦有啟
+<lb ed="B" n="0213b17"/>發。<date from-iso="+1712-10-30" key="j23466582346745" to-iso="+1713-01-25">壬辰冬</date>參松江雲蜂<persName key="A005251">薪傳瀾</persName>，師資深契，洞徹法源，遂以衣缽
+<lb ed="B" n="0213b18"/>付<ref type="person" target="#A021884">之</ref>。<date from-iso="+1715-02-04" key="j23474852347838" to-iso="+1716-01-23">康熙五十四年</date>始出主山陽之東林，<date from-iso="+1719-11-12" key="j23492272349314" to-iso="+1720-02-07">五十八年<anchor xml:id="beg_dd" type="cb-app"/>己<anchor xml:id="end_dd"/>亥冬</date>復
+<lb ed="B" n="0213b19"/>唱道於天長毘尼。<date from-iso="+1734-02-04" key="j23544252354778" to-iso="+1735-01-23">雍正十二年</date>召見，賜紫及寶盂、玉如意，命至
+<lb ed="B" n="0213b20"/>天童。<date from-iso="+1736-02-12" key="j23551632355516" to-iso="+1737-01-30">乾隆元年</date>建報恩道場，命<persName key="A021884">日</persName>監理，遂開法於西山普覺寺。<pb ed="B" xml:id="B27.0151.0214a" n="0214a"/>
+<lb ed="B" n="0214a01"/>單提<!-- 單傳？ -->向上，以本色鉗鎚為事。一時僧侶雲集，禪規律範，事理彰
+<lb ed="B" n="0214a02"/>然。而<persName key="A043193">和碩怡親王</persName>、<persName key="A043194">寧郡王</persName>信嚮誠篤，執禮甚恭。<persName key="A021884">日</persName>處盈恒虛，在
+<lb ed="B" n="0214a03"/>豐崇儉，深得古尊宿應緣之道。年六十餘，著有《語錄》數卷。</p>
+    <linkGrp>
+        <link targets="#0213b11 #0213b11"/>
+        <ptr target="#A021884" type="person"/>
+        <ptr target="#A043192" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0213b11 #0213b12"/>
+        <ptr target="#A021884" type="person"/>
+        <ptr target="#A001679" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0213b12 #0213b13"/>
+        <ptr target="#A021884" type="person"/>
+        <ptr target="#A021792" type="person"/>
+        <ptr target="#j23416382342021" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0213b14 #0213b15"/>
+        <ptr target="#A021884" type="person"/>
+        <ptr target="#A014498" type="person"/>
+        <ptr target="#j23420222342375" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0213b16 #0213b17"/>
+        <ptr target="#A021884" type="person"/>
+        <ptr target="#A016537" type="person"/>
+        <ptr target="#j23439112344028" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0213b17 #0213b18"/>
+        <ptr target="#A021884" type="person"/>
+        <ptr target="#A005251" type="person"/>
+        <ptr target="#j23466582346745" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0213b19 #0213b20"/>
+        <ptr target="#A021884" type="person"/>
+        <ptr target="#A000212" type="person"/>
+        <ptr target="#j23544252354778" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0213b20 #0213b20"/>
+        <ptr target="#A021884" type="person"/>
+        <ptr target="#A006727" type="person"/>
+        <ptr target="#j23551632355516" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0214a02 #0214a02"/>
+        <ptr target="#A021884" type="person"/>
+        <ptr target="#A043193" type="person"/>
+        <ptr target="#A043194" type="person"/>
+    </linkGrp>
+</div>

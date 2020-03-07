@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0200b05shiChaoDing">
+<lb ed="B" n="0200b05"/><anchor n="B.27.0151.0200b05"/><head>清怡山棲雲寺沙門<persName key="A040374">釋超定</persName>傳</head>
+<lb ed="B" n="0200b06"/><p xml:id="pB27p0200b0601"><persName key="A040374">釋超定</persName>，字<persName key="A040374">體真</persName>，姓林氏，南安人。其母娠時，常依外家。外祖晚見
+<lb ed="B" n="0200b07"/>一僧求借宿，俄失所在。而內室舉子，呱呱有聲，家人駭異，知有
+<lb ed="B" n="0200b08"/>自來。襁褓而孤，育於<persName key="A043160">鄭氏</persName>。年十六，翁媼並逝，悲幻質之無常，歎
+<lb ed="B" n="0200b09"/>深恩之罔極，伶俜<!-- 孤單貌 -->哀慕，屢叩空門。時<persName key="A016724">本寂</persName>尊宿方住龍潯，旋駕
+<lb ed="B" n="0200b10"/>雲棲，道望甚高。<persName key="A040374">定</persName>乃直造丈室，一言開導，即便皈依，薙染服勤，
+<lb ed="B" n="0200b11"/>志期證悟。及承<persName key="A016724">寂</persName>命，繼主青黎禪室，慧風廣扇，雲水<!--指僧道-->奔趨，因以
+<lb ed="B" n="0200b12"/>物色高賢，虛懷諸益。而龍象駢臻，精廬窄隘，乃於附郭平山，大
+<lb ed="B" n="0200b13"/>興禪剎，四事益給，至者如歸。雖接待綦緐<!-- 同「繁」 -->，而研經彌切，刺血書
+<lb ed="B" n="0200b14"/>《華嚴》大部至〈現相品〉，發明心地。又聞客僧，舉「天地同根，萬物一
+<lb ed="B" n="0200b15"/>體」語，從此豁然，前後際繼。會雪峰<persName key="A003873">亘</persName>從黃檗解夏，直造平山，加
+<lb ed="B" n="0200b16"/>意勘驗；舉古德法語，往復推尋，皆箭鋒的的，函蓋相承，<persName key="A003873">亘</persName>深為
+<lb ed="B" n="0200b17"/>助喜。及<persName key="A003873">雪峯</persName>居漳之南山，始受屬主西平禪院。明季流寇蠭起，
+<lb ed="B" n="0200b18"/>中原鼎沸，乃策杖孤征，隨緣放曠。朅<!-- 去 -->至劍浦，栖託法雲，主僧<persName key="A043161">匯
+<lb ed="B" n="0200b19"/>谷</persName>，一睹光儀，如瞻相好。因請駐錫，施以鉗鎚，正擊旁敲，一期方
+<lb ed="B" n="0200b20"/>便，眾多省發。檀護四眾，復請開堂，曇花瑞現，大地春迴，毒鼓聲<pb ed="B" xml:id="B27.0151.0201a" n="0201a"/>
+<lb ed="B" n="0201a01"/>轟，群魔膽裂。於是玄風彌播，道譽光昭。永安之西華，大科、大田
+<lb ed="B" n="0201a02"/>及廣湖諸剎，企慕殷勤，咸垂慈顧，主其法席。逮及晚年，沙中耆
+<lb ed="B" n="0201a03"/>舊，請住棲雲。乃携節翩翩，來作怡山主人。毳衲瞻風，苾蒭倒屣，
+<lb ed="B" n="0201a04"/>莫不飫以法喜，慰所懷來。以殿宇荒涼，僅蔽風雨，乃發誠懇，撙
+<lb ed="B" n="0201a05"/>節餘資，從事建築。十載之間，寶坊輪奐，百具鼎新。而報緣已盡，
+<lb ed="B" n="0201a06"/>示疾遷化。跡其生平，入道精猛，見地超卓，慈忱弘願，實罕其儔。
+<lb ed="B" n="0201a07"/>弟子奉其全龕，塔於怡山，壽七十有九，為臨濟三十三世。自撰
+<lb ed="B" n="0201a08"/>行述，信為實錄。<persName key="A004072">如幻</persName>更摭懿美，作為碑記，勒石山左，昭示來者。</p>
+    <linkGrp>
+        <link targets="#0200b08 #0200b08"/>
+        <ptr target="#A040374" type="person"/>
+        <ptr target="#A043160" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0200b09 #0200b11"/>
+        <ptr target="#A040374" type="person"/>
+        <ptr target="#A016724" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0200b15 #0200b17"/>
+        <ptr target="#A040374" type="person"/>
+        <ptr target="#A003873" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0200b18 #0200b19"/>
+        <ptr target="#A040374" type="person"/>
+        <ptr target="#A043161" type="person"/>
+    </linkGrp>
+</div>

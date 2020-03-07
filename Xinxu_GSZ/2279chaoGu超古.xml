@@ -1,26 +1,50 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪">
-
-<lb ed="B" n=""/><anchor n="B.27.0151"/>
-                    <head>清燕京海會寺沙門釋超古傳</head>
-                <p xml:id="pB27p0200a0601">釋超古字溟波姓郭氏武清人也父曰文選曾披緇於邑中天
-<lb ed="B" n="0200a07"/>仙廟家人以繼嗣故迫令還俗聚王氏先子七超古最幼時文
-<lb ed="B" n="0200a08"/>選患病昏迷見冥王責以為僧不終減算一紀左右曰子可代
-<lb ed="B" n="0200a09"/>父遂檢籍惟幼子有宿根宜令出家可代汝文選唯唯始甦對
-<lb ed="B" n="0200a10"/>親戚具說其事咸相嗟異而王氏不從謂此兒才三歲未免予
-<lb ed="B" n="0200a11"/>懷不忍捨也俄而文選復昏去王氏不得已虔禱許之故超古
-<lb ed="B" n="0200a12"/>七歲即捨入天仙廟禮智庵得度廟僧雜居無異俗人超古頗
-<lb ed="B" n="0200a13"/>厭惡之年十八痛念生死莫可咨決乃發願跪誦華嚴足不踰
-<lb ed="B" n="0200a14"/>閫者三載年二十有五偶與同侶抱璞參訪要玅勉以遊方因
-<lb ed="B" n="0200a15"/>於北京愍忠寺圓具時大博結制天津如來庵水雲環集超古
-<lb ed="B" n="0200a16"/>往從之刻苦參研嘗問本來面目如何博舉拳示之超古曰舍
-<lb ed="B" n="0200a17"/>此還有否博即以拳擊之從茲疑情頓發隨至楊村報成寺上
-<lb ed="B" n="0200a18"/>堂云堂中有一病漢當出一身白汗超古聞之工夫彌切頓忘
-<lb ed="B" n="0200a19"/>人我相目不交睫者四晝夜因託屨有省往白博博問如何是
-<lb ed="B" n="0200a20"/>你本來面目超古云六六三十六博云不是更道超古云九九
-<pb ed="B" xml:id="B27.0151.0200b" n="0200b"/>
-<lb ed="B" n="0200b01"/>八十一博擊一掌云此是九九八十一還是六六三十六超古
-<lb ed="B" n="0200b02"/>一喝便出自是當機不讓復侍博三載得大休息始蒙即可遂
-<lb ed="B" n="0200b03"/>於燕都西山雲居寺靜修十年清多羅惠王與李德雲居士請
-<lb ed="B" n="0200b04"/>開法於海會後更開建西域寺著有語錄數卷</p>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0200a05shiChaoGu">
+<lb ed="B" n="0200a05"/><anchor n="B.27.0151.0200a05"/><head>清燕京海會寺沙門<persName key="A021788">釋超古</persName>傳</head>
+<lb ed="B" n="0200a06"/><p xml:id="pB27p0200a0601"><persName key="A021788">釋超古</persName>，字<persName key="A021788">溟波</persName>，姓郭氏，武清人也。父曰<persName key="A043154">文選</persName>，曾披緇於邑中天
+<lb ed="B" n="0200a07"/>仙廟。家人以繼嗣，故迫令還俗。<anchor xml:id="beg020001"/><choice><sic resp="CBETA">聚</sic><corr resp="PC-MB">妻</corr></choice><anchor xml:id="end020001"/><!-- 應是 --><persName key="A043155">王氏</persName>，先子七，<persName key="A021788">超古</persName>最幼。時<persName key="A043154">文
+<lb ed="B" n="0200a08"/>選</persName>患病昏迷，見<persName key="A005076">冥王</persName>責以為僧不終，減算一紀。左右曰：「子可代
+<lb ed="B" n="0200a09"/>父。」遂檢籍：「惟<ref type="person" target="#A021788">幼子</ref>有宿根，宜令出家，可代<ref type="person" target="#A043154">汝</ref>。」<persName key="A043154">文選</persName>唯唯始甦，對
+<lb ed="B" n="0200a10"/>親戚具說其事，咸相嗟異。而<persName key="A043155">王氏</persName>不從，謂：「<ref type="person" target="#A021788">此兒</ref>才三歲，未免<ref type="person" target="#A043155">予</ref>
+<lb ed="B" n="0200a11"/>懷，不忍捨也。」俄而<persName key="A043154">文選</persName>復昏去，<persName key="A043155">王氏</persName>不得已，虔禱許之。故<persName key="A021788">超古</persName>
+<lb ed="B" n="0200a12"/>七歲即捨入天仙廟，禮<persName key="A043156">智庵</persName>得度。廟僧雜居，無異俗人，<persName key="A021788">超古</persName>頗
+<lb ed="B" n="0200a13"/>厭惡之。年十八，痛念生死，莫可咨決，乃發願跪誦《華嚴》，足不踰
+<lb ed="B" n="0200a14"/>閫者三載。年二十有五，偶與同侶<persName key="A043157">抱璞</persName>參訪要玅，勉以遊方，因
+<lb ed="B" n="0200a15"/>於北京愍忠寺圓具。時<persName key="A001010">大博</persName>結制天津如來庵，水雲<!--即「雲水」，指僧道-->環集，<persName key="A021788">超古</persName>
+<lb ed="B" n="0200a16"/>往從<ref type="person" target="#A001010">之</ref>，刻苦參研。嘗問：「本來面目如何？」<persName key="A001010">博</persName>舉拳示<ref type="person" target="#A021788">之</ref>。<persName key="A021788">超古</persName>曰：「舍
+<lb ed="B" n="0200a17"/>此還有否？」<persName key="A001010">博</persName>即以拳擊<ref type="person" target="#A021788">之</ref>，從茲疑情頓發。隨至楊村報成寺，上
+<lb ed="B" n="0200a18"/>堂云：「堂中有一病漢，當出一身白汗。」<persName key="A021788">超古</persName>聞之，工夫彌切，頓忘
+<lb ed="B" n="0200a19"/>人我相，目不交睫者四晝夜。因託<!-- 脫？假借？ -->屨有省，往白<persName key="A001010">博</persName>，<persName key="A001010">博</persName>問：「如何是
+<lb ed="B" n="0200a20"/><ref type="person" target="#A021788">你</ref>本來面目？」<persName key="A021788">超古</persName>云：「六六三十六。」<!-- 卦爻？ --><persName key="A001010">博</persName>云：「不是更道。」<persName key="A021788">超古</persName>云：「九九<pb ed="B" xml:id="B27.0151.0200b" n="0200b"/>
+<lb ed="B" n="0200b01"/>八十一。」<persName key="A001010">博</persName>擊一掌云：「此是九九八十一？還是六六三十六？」<persName key="A021788">超古</persName>
+<lb ed="B" n="0200b02"/>一喝便出：「自是當機不讓。」復侍<persName key="A001010">博</persName>三載，得大休息，始蒙即可。遂
+<lb ed="B" n="0200b03"/>於燕都西山雲居寺，靜修十年。清<persName key="A043158">多羅惠王</persName>與<persName key="A043159">李德雲</persName>居士請
+<lb ed="B" n="0200b04"/>開法於海會，後更開建西域寺。著有《語錄》數卷。</p>
+    <linkGrp>
+        <link targets="#0200a06 #0200a11"/>
+        <ptr target="#A021788" type="person"/>
+        <ptr target="#A043154" type="person"/>
+        <ptr target="#A043155" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0200a12 #0200a12"/>
+        <ptr target="#A021788" type="person"/>
+        <ptr target="#A043156" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0200a14 #0200a14"/>
+        <ptr target="#A021788" type="person"/>
+        <ptr target="#A043157" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0200a15 #0200b02"/>
+        <ptr target="#A021788" type="person"/>
+        <ptr target="#A001010" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0200b03 #0200b04"/>
+        <ptr target="#A021788" type="person"/>
+        <ptr target="#A043158" type="person"/>
+        <ptr target="#A043159" type="person"/>
+    </linkGrp>
 </div>

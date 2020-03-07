@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0203a11shiXingYu">
+<lb ed="B" n="0203a11"/><anchor n="B.27.0151.0203a11"/><head>清杭州理安寺沙門<persName key="A016212">釋行昱</persName>傳</head>
+<lb ed="B" n="0203a12"/><p xml:id="pB27p0203a1201"><persName key="A016212">釋行昱</persName>，字<persName key="A016212">曉庵</persName>，號曰<persName key="A016212">無隱</persName>，姓葉氏，龍游人。寄跡吳門，三歲失怙，
+<lb ed="B" n="0203a13"/>母<persName key="A043166">程氏</persName>訓養成立。自幼純篤，情殷報母。力持疏食，偶見殺生，閉
+<lb ed="B" n="0203a14"/>目馳去。一日讀《六祖壇經》，知有宗門事，遂參<persName key="A003688">密雲</persName>於金粟。及冠
+<lb ed="B" n="0203a15"/>將昏<!-- 通「婚」。《武林理安寺志．卷5．傳臨濟正宗第三十二代．第二次住持曉菴昱禪師》：「及冠，母逼就婚」(《中國佛寺史志彙刊》，第1輯，第21冊，頁0227) -->，遯入磬山，求<persName key="A001410">天隱</persName>剃度，開示<g ref="#CB15665">諄</g>切。而親屬追尋，忍淚別去，
+<lb ed="B" n="0203a16"/>遠走天台。至蓮花峰，禮<persName key="A043167">肇心</persName>老宿芟染，即圓具於天童。聞<persName key="A013268">通問</persName>
+<lb ed="B" n="0203a17"/>開法南澗，投誠參考。每入室，痛棒厲喝，不假詞色，身心自覺純
+<lb ed="B" n="0203a18"/>一。嘗因激發，立五大誓，以：大事未明，不出山、不語、不臥、不加衣、
+<lb ed="B" n="0203a19"/>不看書。自夏徂秋，力行不倦。一夕，月下獨坐，忽內外洞徹，皎如
+<lb ed="B" n="0203a20"/>冰盤。向所疑處，澄淨無滓。遂出山省母，又勸還俗。復潛渡江，參<pb ed="B" xml:id="B27.0151.0203b" n="0203b"/>
+<lb ed="B" n="0203b01"/><persName key="A014742">石奇</persName>於昭陽。未幾，以母老，復返吳門，持缽奉養。母終，更上<ref type="person" target="#A013268">南澗</ref>，
+<lb ed="B" n="0203b02"/>研究古今差別，得大自在，尋付衣拂。無何，<persName key="A013268">通問</persName>遷竹林，分座說
+<lb ed="B" n="0203b03"/>法。萬指鏗鏘，屢以南澗院事屬付，苦辭不已。<date from-iso="+1649-05-11" key="j23234762323564" to-iso="+1649-08-07"><anchor xml:id="beg_c7" type="cb-app"/>己<anchor xml:id="end_c7"/>丑夏</date>將命攝方
+<lb ed="B" n="0203b04"/>丈，<persName key="A016212">昱</persName>即宵遁。涉桐廬，訪<persName key="A003629">陳尊宿</persName>遺蹟；過<persName key="A010678">疎山</persName>，謁影堂<!-- 《武林理安寺志．卷5．傳臨濟正宗第三十二代．第二次住持曉菴昱禪師》：「過疎山，謁矮師叔影堂。」(《中國佛寺史志彙刊》，第1輯，第21冊，頁0229) -->。因回瀏陽，
+<lb ed="B" n="0203b05"/>叩<persName key="A001571">爾瞻</persName>於石霜。旋應武功山<persName key="A043168">靈溪</persName>之請，遂開法焉！<date from-iso="+1654-05-16" key="j23253072325394" to-iso="+1654-08-11">甲午夏</date>領眾
+<lb ed="B" n="0203b06"/>東還，繼席南澗。提綱絜要，規令森然。<persName key="A013268">通</persName>喜得人，致書<persName key="A018502">金</persName>少保，稱
+<lb ed="B" n="0203b07"/>「<persName key="A016212">曉菴</persName>首坐，侍衲二十年。悟境不異高峯斷崖，而德業深厚」，其推
+<lb ed="B" n="0203b08"/>許如此。<ref type="date" target="#j23255732325926">明年</ref><persName key="A013268">通</persName>寂，窣堵告成，拂衣竟去。復入瀏陽，結茅山中，作
+<lb ed="B" n="0203b09"/>投老計。江楚衲侶，聞風趨附。不踰年，遂成叢席。苒苒廿載，影不
+<lb ed="B" n="0203b10"/>出山。唯不忘所自，梓<ref type="person" target="#A013268">其師</ref>手輯《續燈》，集貲鏤版，<anchor xml:id="beg020301"/><choice><sic resp="CBETA">昇</sic><corr resp="PC-MB">舁</corr></choice><anchor xml:id="end020301"/>之入藏。<date when-iso="+1685-05-31" key="j23366452336645">康熙
+<lb ed="B" n="0203b11"/>乙丑夏四月二十九日</date>，奄忽坐化，壽七十有九，臘五十。所著有
+<lb ed="B" n="0203b12"/>《三會錄》、《黃曇拈頌》若干卷，皆編刻盛行於世。</p>
+    <linkGrp>
+        <link targets="#0203a13 #0203a13"/>
+        <ptr target="#A016212" type="person"/>
+        <ptr target="#A043166" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0203a14 #0203a14"/>
+        <ptr target="#A016212" type="person"/>
+        <ptr target="#A003688" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0203a15 #0203a15"/>
+        <ptr target="#A016212" type="person"/>
+        <ptr target="#A001410" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0203a16 #0203a16"/>
+        <ptr target="#A016212" type="person"/>
+        <ptr target="#A043167" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0203a16 #0203a17"/>
+        <ptr target="#A016212" type="person"/>
+        <ptr target="#A013268" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0203a20 #0203b01"/>
+        <ptr target="#A016212" type="person"/>
+        <ptr target="#A014742" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0203b05 #0203b05"/>
+        <ptr target="#A016212" type="person"/>
+        <ptr target="#A001571" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0203b05 #0203b05"/>
+        <ptr target="#A016212" type="person"/>
+        <ptr target="#A043168" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0203b06 #0203b07"/>
+        <ptr target="#A013268" type="person"/>
+        <ptr target="#A018502" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0203b06 #0203b07"/>
+        <ptr target="#A013268" type="person"/>
+        <ptr target="#A018502" type="person"/>
+    </linkGrp>
+</div>

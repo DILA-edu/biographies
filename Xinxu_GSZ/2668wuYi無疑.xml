@@ -15,9 +15,9 @@
 <lb ed="B" n="0416b01"/>誠不可思議。同安有甘露遺址，檀越陳公慕其道誼，延之鼎新。
 <lb ed="B" n="0416b02"/>又嘗住輪山圓通寺，重修大殿，足壯觀瞻。一時雲水，至者如歸。
 <lb ed="B" n="0416b03"/>俄而示疾，數日淹化。<persName key="A042855">行勉</persName>者，浯海蔡氏子。年二十薙髮於寶月
-<lb ed="B" n="0416b04"/>庵<!-- 師無疑 -->。因讀《石室語錄》有省，遂造青林參<persName key="A026501">重眉</persName>，服勞數載。值世顛連<!-- 困苦 -->，
+<lb ed="B" n="0416b04"/>庵<!-- 師無疑 -->。因讀《石室語錄》有省，遂造青林參<persName key="A016288">重眉</persName>，服勞數載。值世顛連<!-- 困苦 -->，
 <lb ed="B" n="0416b05"/>人罹非命，乃隨<ref type="person" target="#A042853">其師</ref>，躬掩埋之，役戮力為多。又募砌石尾城，通
-<lb ed="B" n="0416b06"/>溪石路數里，以便跋涉。<persName key="A026501">重眉</persName>主漳之隆壽，復依為化士，遂付以
+<lb ed="B" n="0416b06"/>溪石路數里，以便跋涉。<persName key="A016288">重眉</persName>主漳之隆壽，復依為化士，遂付以
 <lb ed="B" n="0416b07"/>偈。山居四十年，所居亦數易，俱以力耕悟道。晚隱溫陵金粟，刻
 <lb ed="B" n="0416b08"/>苦不懈，無改於初。及將入滅，寢疾於示現庵，沐浴更衣而化，亦
 <lb ed="B" n="0416b09"/>塔於甘露。</p>
@@ -45,7 +45,7 @@
     <linkGrp>
         <link targets="#0416b04 #0416b04"/>
         <ptr target="#A042855" type="person"/>
-        <ptr target="#A026501" type="person"/>
+        <ptr target="#A016288" type="person"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0416b05 #0416b05"/>
@@ -55,6 +55,6 @@
     <linkGrp>
         <link targets="#0416b06 #0416b07"/>
         <ptr target="#A042855" type="person"/>
-        <ptr target="#A026501" type="person"/>
+        <ptr target="#A016288" type="person"/>
     </linkGrp>
 </div>

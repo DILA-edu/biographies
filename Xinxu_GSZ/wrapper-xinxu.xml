@@ -448,33 +448,33 @@
         <xi:include href="2277deRun德潤.xml"/><!--清昆明勝因寺沙門釋德潤傳-->
         <xi:include href="2278benXiang本襄.xml"/><!--清蜀北給孤寺沙門釋本襄傳懶石_福慧-->
         <xi:include href="2279chaoGu超古.xml"/><!--清燕京海會寺沙門釋超古傳-->
-        <xi:include href="2280-清怡山棲雲寺沙門釋超定傳.xml"/><!--清怡山棲雲寺沙門釋超定傳-->
+        <xi:include href="2280chaoDing超定.xml"/><!--清怡山棲雲寺沙門釋超定傳-->
         <xi:include href="2281chaoKuang超况.xml"/><!--清青林龍安寺沙門釋超况傳-->
-        <xi:include href="2282-清漳州馴虎巖沙門釋超頂傳.xml"/><!--清漳州馴虎巖沙門釋超頂傳-->
+        <xi:include href="2282chaoDing超頂.xml"/><!--清漳州馴虎巖沙門釋超頂傳-->
       </div>
       <div type="juan" n="24">
         <anchor n="B.27.0151.0202b11"/>
         <head>新續高僧傳四集卷第二十四</head>
         <lb n="0202b13" ed="B"/><p>習禪篇第三之十四(正傳十人　附見十一人)</p>
-        <xi:include href="2283-清杭州理安寺沙門釋行昱傳.xml"/><!--清杭州理安寺沙門釋行昱傳-->
-        <xi:include href="2284-清四川雙桂福國院沙門釋印水傳.xml"/><!--清四川雙桂福國院沙門釋印水傳-->
-        <xi:include href="2285-清杭州理安寺沙門釋行悅傳行洸.xml"/><!--清杭州理安寺沙門釋行悅傳行洸-->
-        <xi:include href="2286-清湘陰神鼎山沙門釋行澤傳懋功_修木_玄劍.xml"/><!--清湘陰神鼎山沙門釋行澤傳懋功_修木_玄劍-->
+        <xi:include href="2283xingYu行昱.xml"/><!--清杭州理安寺沙門釋行昱傳-->
+        <xi:include href="2284yinShui印水.xml"/><!--清四川雙桂福國院沙門釋印水傳-->
+        <xi:include href="2285xingYue行悅.xml"/><!--清杭州理安寺沙門釋行悅傳行洸-->
+        <xi:include href="2286xingZe行澤.xml"/><!--清湘陰神鼎山沙門釋行澤傳懋功_修木_玄劍-->
         <xi:include href="2287xingZhen行珍.xml"/><!--清杭州理安寺沙門釋行珍傳斯瑞-->
-        <xi:include href="2288-清長沙嶽麓萬壽寺沙門釋智檀傳操雪筠.xml"/><!--清長沙嶽麓萬壽寺沙門釋智檀傳操雪筠-->
-        <xi:include href="2289-清衡陽萬壽寺沙門釋行泰傳.xml"/><!--清衡陽萬壽寺沙門釋行泰傳-->
+        <xi:include href="2288zhiTan智檀.xml"/><!--清長沙嶽麓萬壽寺沙門釋智檀傳操雪筠-->
+        <xi:include href="2289xingTai行泰.xml"/><!--清衡陽萬壽寺沙門釋行泰傳-->
         <xi:include href="2290tongZui通醉.xml"/><!--清成都昭覺寺沙門釋通醉傳溪聲圓_佛冕綱-->
-        <xi:include href="2291-清杭州理安寺沙門釋超格傳超徹.xml"/><!--清杭州理安寺沙門釋超格傳超徹-->
+        <xi:include href="2291chaoGe超格.xml"/><!--清杭州理安寺沙門釋超格傳超徹-->
         <xi:include href="2292yuanZhi原志.xml"/><!--清杭州雲林寺沙門釋原志傳慧輅_智廣-->
       </div>
       <div type="juan" n="25">
         <anchor n="B.27.0151.0211b11"/>
         <head>新續高僧傳四集卷第二十五</head>
         <lb n="0211b13" ed="B"/><p>習禪篇第三之十五(正傳十三人　附見九人)</p>
-        <xi:include href="2293-清杭州理安寺沙門釋性音傳.xml"/><!--清杭州理安寺沙門釋性音傳-->
+        <xi:include href="2293xingYin性音.xml"/><!--清杭州理安寺沙門釋性音傳-->
         <xi:include href="2294shiChe實徹.xml"/><!--清潤州金山江天寺沙門釋實徹傳際雲-->
-        <xi:include href="2295-清杭州理安寺沙門釋明鼎傳.xml"/><!--清杭州理安寺沙門釋明鼎傳-->
-        <xi:include href="2296-清燕京西山普覺寺沙門釋元日傳.xml"/><!--清燕京西山普覺寺沙門釋元日傳-->
+        <xi:include href="2295mingDing明鼎.xml"/><!--清杭州理安寺沙門釋明鼎傳-->
+        <xi:include href="2296yuanRi元日.xml"/><!--清燕京西山普覺寺沙門釋元日傳-->
         <xi:include href="2297-清杭州雲林寺沙門釋德元傳德琳.xml"/><!--清杭州雲林寺沙門釋德元傳德琳-->
         <xi:include href="2298-清四川雙桂福國院沙門釋真旻傳.xml"/><!--清四川雙桂福國院沙門釋真旻傳-->
         <xi:include href="2299-清杭州理安寺沙門釋明義傳實勝.xml"/><!--清杭州理安寺沙門釋明義傳實勝-->

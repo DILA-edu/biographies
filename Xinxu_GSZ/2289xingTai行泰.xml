@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0208a10shiXingTai">
+<lb ed="B" n="0208a10"/><anchor n="B.27.0151.0208a10"/><head>清衡陽萬壽寺沙門<persName key="A021840">釋行泰</persName>傳</head>
+<lb ed="B" n="0208a11"/><p xml:id="pB27p0208a1101"><persName key="A021840">釋行泰</persName>，字<persName key="A021840">杏堂</persName>。初出家，依止南嶽<persName key="A043181">優曇林</persName>，得法於衡陽萬壽寺
+<lb ed="B" n="0208a12"/><persName key="A042284">若劍司</persName>，亦傳曹洞三十二世者也。<date from-iso="+1679-02-11" key="j23343442334431" to-iso="+1679-05-09">康熙<anchor xml:id="beg_d2" type="cb-app"/>己<anchor xml:id="end_d2"/>未春</date><persName key="A042284">萬壽老人</persName>命居
+<lb ed="B" n="0208a13"/>潭州谷山寶林禪寺，且應長沙諸孝廉之請，<date when-iso="+1679-02-11" key="j23343802334380">二月八日</date>入院。上
+<lb ed="B" n="0208a14"/>堂示眾，以三玄三要，復指西來意云：「但道<g ref="#CB00589">㵎</g>上櫻桃少婦面，徑
+<lb ed="B" n="0208a15"/>邊椶樹夜叉頭，與先谷山是同是別？」眾憚其鋒，莫敢究詰。<persName key="A021840">泰</persName>禪
+<lb ed="B" n="0208a16"/>機超玅，而文義斐然，有《破院歌》初住谷山作也，其詞曰：「破落僧，
+<lb ed="B" n="0208a17"/>破落院，破破落落真風見。生涯只在嶺頭雲，活計從來山一片。
+<lb ed="B" n="0208a18"/>聽猿嗁，聞虎嘯，正是山家真個妙。半邊砂罐煮清泉，野客同湌
+<lb ed="B" n="0208a19"/>歡共笑。松逸清范湖渺，人情淡若秋雲皎，舜蹠雞鳴總一心；英
+<lb ed="B" n="0208a20"/>雄幾識春光，老楊岐屋<persName key="A010199">懶殘</persName>巖，今古無人得共排。惟有<persName key="A021840">杏堂</persName>風<pb ed="B" xml:id="B27.0151.0208b" n="0208b"/>
+<lb ed="B" n="0208b01"/>味別，松根盤石獨安懷也。無煩也無惱，萬事拈來都靠倒，狼煙
+<lb ed="B" n="0208b02"/>消盡任遨遊。<persName key="A003195">子房</persName>韵入青霄嶂，丹已成，火已到，跨鶴凌雲無影
+<lb ed="B" n="0208b03"/>向。我自生來性逸舒，一間破屋幽情放。」因此復得檀助，重葺寶
+<lb ed="B" n="0208b04"/>寧。後圭峰以木鐸於嶽麓說戒，請<persName key="A021840">泰</persName>羯磨，主僧<persName key="A022519">阿諾</persName>延之上堂
+<lb ed="B" n="0208b05"/>謂：「以水合水，以鏡照鏡，猶是兒孫邊事，更有向上一著，且道如
+<lb ed="B" n="0208b06"/>何是向上？」以杖一卓曰：「一堂風冷澹，千古意分明。」<date from-iso="+1692-11-08" key="j23393632339451" to-iso="+1693-02-04">壬申冬</date>開法
+<lb ed="B" n="0208b07"/>長沙興化，上續<persName key="A007133">弁山雪</persName>為五世，次紹<persName key="A010055">雲巖瑩</persName>為四傳。著有《語錄》、
+<lb ed="B" n="0208b08"/>頌偈八卷。</p>
+    <linkGrp>
+        <link targets="#0208a11 #0208a11"/>
+        <ptr target="#A021840" type="person"/>
+        <ptr target="#A043181" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0208a11 #0208a12"/>
+        <ptr target="#A021840" type="person"/>
+        <ptr target="#A042284" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0208b04 #0208b06"/>
+        <ptr target="#A021840" type="person"/>
+        <ptr target="#A022519" type="person"/>
+    </linkGrp>
+</div>

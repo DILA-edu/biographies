@@ -1,35 +1,63 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪">
-
-<lb ed="B" n=""/><anchor n="B.27.0151"/>
-                    <head>清青林龍安寺沙門釋超况傳</head>
-                <p xml:id="pB27p0201a1001">釋超况字重眉姓蔡氏同安用里人也夙根神穎髫齡就塾雖
-<lb ed="B" n="0201a11"/>抱儒經已具佛性因投龍池巖禮惟雲為師勤習淨行弗憚寒
-<lb ed="B" n="0201a12"/>暑年二十一始從披剃掩關三載拜誦華嚴致誠百萬又閱藏
-<lb ed="B" n="0201a13"/>教中有云能三日不食七日不食者俱力行之但日夜思諦終
-<lb ed="B" n="0201a14"/>非究竟有禪客自金粟至具道費隱棒喝接人最直捷法門况
-<lb ed="B" n="0201a15"/>聞之喜曰吾固疑有是可効春蠶作繭徒自縛乎即破關而出
-<lb ed="B" n="0201a16"/>日夕咨參未有入處適雪峰亘從羅山至龍池與之盤桓一日
-<lb ed="B" n="0201a17"/>問曰如何是第一義况擬議峰便掌云這鈍置阿師况云請師
-<lb ed="B" n="0201a18"/>道峰纔啟脣况遽以手掩之峰乃笑云向汝道了也况亦爽然
-<lb ed="B" n="0201a19"/>有省然胸臆猶滯偶過戲場於人叢中見其舉首向上鼻孔一
-<lb ed="B" n="0201a20"/>一俱見脣上覺礙滯之胸渙爾解釋遂作偈曰二十年來被孰
-<pb ed="B" xml:id="B27.0151.0201b" n="0201b"/>
-<lb ed="B" n="0201b01"/>瞞剛纔放下便平安早知鼻孔在脣上總不者中覓易難乃詣
-<lb ed="B" n="0201b02"/>黃檗隱元處隨眾參請不露鋒鋩明年出嶺叩金粟費隱亦默
-<lb ed="B" n="0201b03"/>契之時值嚴冬潛穎眾中自居樵汲手足凍<g ref="#CB17407">󴏿</g>亦不暇恤嘗有
-<lb ed="B" n="0201b04"/>偈曰牯牛無貫四方周放去收來得自由蹏角雖然未顯露分
-<lb ed="B" n="0201b05"/>明觸處便昂頭時年二十八始受具明年春還閩途中作偈有
-<lb ed="B" n="0201b06"/>今朝踏破芒鞵底赤腳迢迢入閩山之句歸則仍就龍池鍵關
-<lb ed="B" n="0201b07"/>三稔後值雪峯出主芙蓉一日問薰風自南來殿閣生微涼汝
-<lb ed="B" n="0201b08"/>作麼生况但云仲夏酷煩幸自珍重雪峯默許之未幾受峯付
-<lb ed="B" n="0201b09"/>屬即旋泉南居清溪貴湖龍安寺為唐清豁禪師退隱舊址編
-<lb ed="B" n="0201b10"/>茅為屋翛然自得雪峯至泉昭慶况充首座立僧秉拂發揮宗
-<lb ed="B" n="0201b11"/>乘旨趣亹亹傾動四來繼席南山千指圍繞三冬學足啟迪尤
-<lb ed="B" n="0201b12"/>多閔司馬子奇請住隆壽兵燹之餘寺宇凋殘而近寺兵眾雜
-<lb ed="B" n="0201b13"/>處尤難調攝况躬率行道接以等慈莫不傾服叢席改觀歷十
-<lb ed="B" n="0201b14"/>數載忽爾辭退請還舊山留之不得無何世局變更郡城內外
-<lb ed="B" n="0201b15"/>幾頻危殆人始知其先見云以康熙十四年乙卯三月二十六
-<lb ed="B" n="0201b16"/>日示寂壽六十有六臘三十有四塔於青林之麓釋超弘為之
-<lb ed="B" n="0201b17"/>誌銘稱其知鑒瑩朗而器量舍弘人莫窺其涯際時以為知言</p>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0201a09shiChaoKuang">
+<lb ed="B" n="0201a09"/><anchor n="B.27.0151.0201a09"/><head>清青林龍安寺沙門<persName key="A016288">釋超况</persName>傳</head>
+<lb ed="B" n="0201a10"/><p xml:id="pB27p0201a1001"><persName key="A016288">釋超况</persName>，字<persName key="A016288">重眉</persName>，姓蔡氏，同安<anchor xml:id="beg020101"/><choice><sic resp="CBETA">用</sic><corr resp="PC-MB">甪</corr></choice><anchor xml:id="end020101"/>里人也。夙根神穎，髫齡就塾，雖
+<lb ed="B" n="0201a11"/>抱儒經，已具佛性。因投龍池巖禮<persName key="A026501">惟雲</persName>為師，勤習淨行，弗憚寒
+<lb ed="B" n="0201a12"/>暑。<ref type="date" target="#j23164482316801">年二十一</ref>始從披剃，掩關三載，拜誦《華嚴》，致誠百萬。又閱藏
+<lb ed="B" n="0201a13"/>教中有云能三日不食、七日不食者，俱力行之。但日夜思諦，終
+<lb ed="B" n="0201a14"/>非究竟。有禪客自金粟至，具道<persName key="A001150">費隱</persName>棒喝接人，最直捷法門。<persName key="A016288">况</persName>
+<lb ed="B" n="0201a15"/>聞之，喜曰：「<ref type="person" target="#A016288">吾</ref>固疑有是，可効春蠶作繭，徒自縛乎？」即破關而出，
+<lb ed="B" n="0201a16"/>日夕咨參，未有入處。適雪峰<persName key="A003873">亘</persName>從羅山至龍池，與<ref type="person" target="#A016288">之</ref>盤桓。一日
+<lb ed="B" n="0201a17"/>問曰：「如何是第一義？」<persName key="A016288">况</persName>擬議，<persName key="A003873">峰</persName>便掌云：「這鈍置阿師。」<persName key="A016288">况</persName>云：「請師
+<lb ed="B" n="0201a18"/>道。」<persName key="A003873">峰</persName>纔啟脣，<persName key="A016288">况</persName>遽以手掩之，<persName key="A003873">峰</persName>乃笑云：「向<ref type="person" target="#A016288">汝</ref>道了也。」<persName key="A016288">况</persName>亦爽然
+<lb ed="B" n="0201a19"/>有省。然胸臆猶滯，偶過戲場，於人叢中見其舉首向上，鼻孔一
+<lb ed="B" n="0201a20"/>一俱見脣上，覺礙滯之胸，渙爾解釋。遂作偈曰：「二十年來被孰<pb ed="B" xml:id="B27.0151.0201b" n="0201b"/>
+<lb ed="B" n="0201b01"/>瞞，剛纔放下便平安；早知鼻孔在脣上，總不者中覓易難。」乃詣
+<lb ed="B" n="0201b02"/>黃檗<persName key="A001873">隱元</persName>處，隨眾參請，不露鋒鋩。明年出嶺，叩金粟<persName key="A001150">費隱</persName>，亦默
+<lb ed="B" n="0201b03"/>契之。時值嚴冬，潛穎眾中，自居樵汲，手足凍<g ref="#CB17407">[唆-口+芻]</g>，亦不暇恤。嘗有
+<lb ed="B" n="0201b04"/>偈曰：「牯牛無貫四方周，放去收來得自由；蹏角雖然未顯露，分
+<lb ed="B" n="0201b05"/>明觸處便昂頭。」時<ref type="date" target="#j23189882319371">年二十八</ref>，始受具。明年春，還閩途中，作偈有
+<lb ed="B" n="0201b06"/>「今朝踏破芒鞵底，赤腳迢迢入閩山」之句。歸則仍就龍池，鍵關
+<lb ed="B" n="0201b07"/>三稔。後值<persName key="A003873">雪峯</persName>出主芙蓉。一日問：「薰風自南來，殿閣生微涼。<ref type="person" target="#A016288">汝</ref>
+<lb ed="B" n="0201b08"/>作麼生？」<persName key="A016288">况</persName>但云：「仲夏酷煩，幸自珍重。」<persName key="A003873">雪峯</persName>默許之。未幾，受<persName key="A003873">峯</persName>付
+<lb ed="B" n="0201b09"/>屬，即旋泉南，居清溪貴湖龍安寺，為唐<!-- 後唐 --><persName key="A003651">清豁</persName>禪師退隱舊址。編
+<lb ed="B" n="0201b10"/>茅為屋，翛然自得。<persName key="A003873">雪峯</persName>至泉昭慶，<persName key="A016288">况</persName>充首座，立僧秉拂，發揮宗
+<lb ed="B" n="0201b11"/>乘，旨趣亹亹，傾動四來，繼席南山，千指圍繞，三冬學足，啟迪尤
+<lb ed="B" n="0201b12"/>多。<persName key="A043162">閔<roleName>司馬</roleName>子奇</persName>請住隆壽。兵燹之餘，寺宇凋殘，而近寺兵眾雜
+<lb ed="B" n="0201b13"/>處，尤難調攝。<persName key="A016288">况</persName>躬率行道，接以等慈，莫不傾服，叢席改觀。歷十
+<lb ed="B" n="0201b14"/>數載，忽爾辭退，請還舊山，留<ref type="person" target="#A016288">之</ref>不得。無何，世局變更，郡城內外
+<lb ed="B" n="0201b15"/>幾頻危殆，人始知其先見云。以<date when-iso="+1675-04-20" key="j23329512332951">康熙十四年乙卯三月二十六
+<lb ed="B" n="0201b16"/>日</date>示寂。壽六十有六，臘三十有四，塔於青林之麓。<persName key="A004072">釋超弘</persName>為之
+<lb ed="B" n="0201b17"/>誌銘，稱其「知鑒瑩朗，而器量舍弘，人莫窺其涯際」，時以為知言。</p>
+    <linkGrp>
+        <link targets="#0201a11 #0201a11"/>
+        <ptr target="#A016288" type="person"/>
+        <ptr target="#A026501" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0201a16 #0201a19"/>
+        <ptr target="#A016288" type="person"/>
+        <ptr target="#A003873" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0201b02 #0201b02"/>
+        <ptr target="#A016288" type="person"/>
+        <ptr target="#A001873" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0201b02 #0201b05"/>
+        <ptr target="#A016288" type="person"/>
+        <ptr target="#A001873" type="person"/>
+        <ptr target="#j23189882319371" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0201b07 #0201b12"/>
+        <ptr target="#A016288" type="person"/>
+        <ptr target="#A003873" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0201b12 #0201b12"/>
+        <ptr target="#A016288" type="person"/>
+        <ptr target="#A043162" type="person"/>
+    </linkGrp>
 </div>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0212a11shiXingYin">
+<lb ed="B" n="0212a11"/><anchor n="B.27.0151.0212a11"/><head>清杭州理安寺沙門<persName key="A000632">釋性音</persName>傳</head>
+<lb ed="B" n="0212a12"/><p xml:id="pB27p0212a1201"><persName key="A000632">釋性音</persName>，字<persName key="A000632">迦陵</persName>，別號<persName key="A000632">吹餘</persName>，姓李氏，瀋陽人。母氏<persName key="A043185">許</persName>，夢日輪墮懷，
+<lb ed="B" n="0212a13"/>感而生<persName key="A000632">音</persName>，面如圓月。童時就學，初受章句，於性命之說，即能詰
+<lb ed="B" n="0212a14"/>問。及長，不樂世緣，長懷高行，禁於父兄，不伸厥志。<ref type="date" target="#j23398062340189">年二十四</ref>，始
+<lb ed="B" n="0212a15"/>投高陽毘盧<persName key="A043186">真一</persName>求薙髮，尋受具戒。<persName key="A043186">真一</persName>示以「本來面目」䛡，默
+<lb ed="B" n="0212a16"/>參有省，辤<persName key="A043186">一</persName>南遊。時濟、洞尊宿，法席相望，<persName key="A000632">音</persName>皆謁叩，多未能契。
+<lb ed="B" n="0212a17"/>及見<persName key="A016621">夢菴</persName>於理安，便入記室。<persName key="A016621">安</persName>每有垂問，橫機不讓，竟授衣拂。
+<lb ed="B" n="0212a18"/>已而辤去，道經六安，愛雪峯山水之勝，頗欲棲止。<date from-iso="+1707-02-03" key="j23445622344915" to-iso="+1708-01-22">康熙丁亥</date>，<persName key="A016621">夢
+<lb ed="B" n="0212a19"/>菴</persName>主柏林，寓書招之<ref type="person" target="#A000632">之</ref>入京分座，臨眾勘驗，真切簡要，莫不推服。
+<lb ed="B" n="0212a20"/><date from-iso="+1708-05-20" key="j23450342345121" to-iso="+1708-08-15">戊子夏</date><persName key="A016621">夢庵</persName>寂，諸山耆舊請<persName key="A000632">音</persName>繼席，乃遯之西山。緇素復以大<pb ed="B" xml:id="B27.0151.0212b" n="0212b"/>
+<lb ed="B" n="0212b01"/>千佛寺敦逼出世，據座提唱，廣眾翹仰，為法為人，勦知刊見。於
+<lb ed="B" n="0212b02"/>是方來英俊，奔趨恐後，座前環繞三千餘指，禪風斯鬯。殷勤六
+<lb ed="B" n="0212b03"/>載，得益如林。未幾攜錫，補處柏林。纔及三稔，而杭之理安，虛席
+<lb ed="B" n="0212b04"/>以待，又往應之。方欲避酬答，憩山阿，江右<persName key="A043187">許<roleName>方伯</roleName>兆麟</persName>以廬山
+<lb ed="B" n="0212b05"/>歸宗，請為棲息之地，忻然赴之。未逾年，而有京都大覺之命。<date from-iso="+1723-02-05" key="j23504082350496" to-iso="+1723-05-04">雍
+<lb ed="B" n="0212b06"/>正元春</date>忽謝院事，飄然而南，一瓢一笠，山棲水宿，居無定止。四
+<lb ed="B" n="0212b07"/>方徵書交至，<anchor xml:id="beg_da" type="cb-app"/>卻<anchor xml:id="end_da"/>之弗顧。<date from-iso="+1726-07-29" key="j23516782351765" to-iso="+1726-10-24">四年秋</date>復還歸宗，獨居靜室涼風。<date from-iso="+1726-09-26" key="j23517372351765" to-iso="+1726-10-24">九月</date>
+<lb ed="B" n="0212b08"/>偶示微疾，舉<persName key="A010678">疏山</persName>造塔事<!-- B25n0144_p0484a07 -->，遂段作頌有「此處埋老僧不得，羊腸
+<lb ed="B" n="0212b09"/>鳥道自庚辛」之語，為後來遷塔燕都西山大覺先兆。以<date when-iso="+1726-10-24" key="j23517652351765">雍正四
+<lb ed="B" n="0212b10"/>年九月二十九日</date>示寂，<persName key="A043188">禮親王</persName>彙其事蹟奏聞，敕贈<persName key="A000632">圓通妙智
+<lb ed="B" n="0212b11"/>大覺禪師</persName>。著有十會《語錄》二十卷，《語要》、《指要》各一卷，外集《宗鑑
+<lb ed="B" n="0212b12"/>法林》七十二卷，《是名正句》八卷，《宗統一絲》十二卷，《雜毒海》八卷。</p>
+    <linkGrp>
+        <link targets="#0212a12 #0212a13"/>
+        <ptr target="#A000632" type="person"/>
+        <ptr target="#A043185" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0212a14 #0212a15"/>
+        <ptr target="#A000632" type="person"/>
+        <ptr target="#A043186" type="person"/>
+        <ptr target="#j23398062340189" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0212a17 #0212a17"/>
+        <ptr target="#A000632" type="person"/>
+        <ptr target="#A016621" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0212a18 #0212a19"/>
+        <ptr target="#A000632" type="person"/>
+        <ptr target="#A016621" type="person"/>
+        <ptr target="#j23445622344915" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0212b04 #0212b05"/>
+        <ptr target="#A000632" type="person"/>
+        <ptr target="#A043187" type="person"/>
+    </linkGrp>
+</div>

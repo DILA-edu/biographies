@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0210b05shiYuanZhi">
-<lb ed="B" n="0210b05"/><anchor n="B.27.0151.0210b05"/><head>清杭州雲林寺沙門釋原志傳<persName type="secondary">慧輅　智廣</persName></head>
+<lb ed="B" n="0210b05"/><anchor n="B.27.0151.0210b05"/><head>清杭州雲林寺沙門<persName key="A016549">釋原志</persName>傳<persName type="secondary" key="A016537">慧輅</persName><persName type="secondary" key="A021872">智廣</persName></head>
 <lb ed="B" n="0210b06"/><p xml:id="pB27p0210b0601"><persName key="A016549">釋原志</persName>，字<persName key="A016549">碩揆</persName>，姓孫氏，鹽城人也。七歲聞塾師講〈大學〉致知格
 <lb ed="B" n="0210b07"/>物義，乃曰：「此<persName key="A004489">曾子</persName>教人誠意方法。不明則疑，疑則誠意；去疑得
 <lb ed="B" n="0210b08"/>明，非誠意不能。」塾師大驚。<date from-iso="+1647-02-05" key="j23226502323003" to-iso="+1648-01-24">順治丁亥</date>其父<persName key="A042502">玉庭</persName>為人所害，卒手
@@ -26,7 +26,7 @@
 <lb ed="B" n="0211a08"/>圯壞。乃告於介眾，背負柝杵，夏雨冬霜，剝膚灌頂，皆所不避。於
 <lb ed="B" n="0211a09"/>是舊者新之，闕者補之，卒底於成。以<date when-iso="+1697-08-31" key="j23411202341120">康熙丁丑七月十五日</date>示
 <lb ed="B" n="0211a10"/>寂，臨終偈<anchor xml:id="beg021103"/><choice><sic resp="CBETA">日</sic><corr resp="PC-MB">曰</corr></choice><anchor xml:id="end021103"/>：「昨欲行時月不圓，今遲一日月嬋娟；從今要見三
-<lb ed="B" n="0211a11"/>峰面，劈破乾坤作兩邊。」壽七十，臘四十九，塔靈隱。有《八會語錄》、
+<lb ed="B" n="0211a11"/>峰面，劈破乾坤作兩邊。」壽七十，臘四十九，塔靈隱。有八會《語錄》、
 <lb ed="B" n="0211a12"/>雜著、尺牘、詩偈若干卷，皆梓行。詩<anchor xml:id="beg021105"/><choice><sic resp="CBETA">日</sic><corr resp="PC-MB">曰</corr></choice><anchor xml:id="end021105"/>《借巢集》，自吐胸臆，論者謂
 <lb ed="B" n="0211a13"/>在<persName key="A004127">寒山</persName><persName key="A008986">栯堂</persName>間。<persName key="A016537">慧輅</persName>，字<persName key="A016537">諦暉</persName>，金田沈氏子也。六歲而孤，家毀於
 <lb ed="B" n="0211a14"/>役。母沒出家，遊學至靈隱，禮<persName key="A016082">具德</persName>於直指堂下。見題額，憬然曰：

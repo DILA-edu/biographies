@@ -224,6 +224,34 @@
 			<lem wit="喻眛庵輯影本">丙</lem>
 			<rdg wit="CBETA">丙</rdg>
 		</app>
+		<app from="beg020001">
+			<lem wit="喻眛庵輯影本">聚</lem>
+			<rdg wit="CBETA">聚</rdg>
+		</app>
+		<app from="beg020101">
+			<lem wit="喻眛庵輯影本">甪</lem>
+			<rdg wit="CBETA">用</rdg>
+		</app>
+		<app from="beg020301">
+			<lem wit="喻眛庵輯影本">舁</lem>
+			<rdg wit="CBETA">昇</rdg>
+		</app>
+		<app from="beg020403">
+			<lem wit="喻眛庵輯影本">凡</lem>
+			<rdg wit="CBETA">几</rdg>
+		</app>
+		<app from="beg020501">
+			<lem wit="喻眛庵輯影本">𢹝</lem>
+			<rdg wit="CBETA">擩</rdg>
+		</app>
+		<app from="beg020701">
+			<lem wit="喻眛庵輯影本">失</lem>
+			<rdg wit="CBETA">失</rdg>
+		</app>
+		<app from="beg020703">
+			<lem wit="喻眛庵輯影本">康熙</lem>
+			<rdg wit="CBETA">康熙</rdg>
+		</app>
 		<app from="beg020901">
 			<lem wit="喻眛庵輯影本">自</lem>
 			<rdg wit="CBETA">目</rdg>

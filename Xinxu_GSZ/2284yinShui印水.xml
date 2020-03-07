@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0203b13shiYinShui">
+<lb ed="B" n="0203b13"/><anchor n="B.27.0151.0203b13"/><head>清四川雙桂福國院沙門<persName key="A016521">釋印水</persName>傳</head>
+<lb ed="B" n="0203b14"/><p xml:id="pB27p0203b1401"><persName key="A016521">釋印水</persName>，字<persName key="A016521">雲橋</persName>，姓趙氏，化城人。夙禀靈根，生而穎異。幼罹灾患，
+<lb ed="B" n="0203b15"/>特然自立。成童薙髮，應緣尋師。而性峻不群，然每見遊僧，輒起
+<lb ed="B" n="0203b16"/>敬心。甲申之變，中原鼎沸，寇盜蠭生，被驅入營，逐流漂泊一十
+<lb ed="B" n="0203b17"/>三載。<date from-iso="+1648-01-25" key="j23230042323386" to-iso="+1649-02-10">戊子</date>隨營之楚，寓<g ref="#CB33442">󸊢</g>歸山，受具於<persName key="A043169">常樂</persName>律主，時年二十三
+<lb ed="B" n="0203b18"/>矣。<date from-iso="+1651-01-21" key="j23240962324479" to-iso="+1652-02-08">辛卯</date>返蜀，謁<persName key="A009652">破山明</persName>於開中鳳城。問訊之餘，舉拳擊掌，頓發
+<lb ed="B" n="0203b19"/>疑情。<date from-iso="+1654-02-17" key="j23252192325572" to-iso="+1655-02-05">甲午</date>坐夏七日，寢食俱廢，偶承瓦盞，墮地有聲，觸碎疑團，
+<lb ed="B" n="0203b20"/>身心愉快，欲求印證。而峽道未通，思<persName key="A009652">明</persName>至切。<date from-iso="+1661-07-26" key="j23279352328053" to-iso="+1661-11-21">辛丑秋</date>川亂初平，<pb ed="B" xml:id="B27.0151.0204a" n="0204a"/>
+<lb ed="B" n="0204a01"/>疾趨雙桂。一日入室，<persName key="A009652">明</persName>問：「行不出戶，坐不當堂。」<persName key="A016521">水</persName>云：「明月堂前
+<lb ed="B" n="0204a02"/>掛，松竹引清風。」<persName key="A009652">明</persName>曰：「未是。」<persName key="A016521">水</persName>再擬議，即驀然一棒，<persName key="A016521">水</persName>一喝而退。
+<lb ed="B" n="0204a03"/>他日為<persName key="A016521">水</persName>更號<persName key="A016521">雲橋</persName>，書偈於扇賜<ref type="person" target="#A016521">之</ref>，云：「欲向高梁未得來，而今
+<lb ed="B" n="0204a04"/>夢明醒難開；急將一句活頭語，痛為吾賢莫亂猜。」<ref type="date" target="#j23280542328141">是冬</ref>拔充教
+<lb ed="B" n="0204a05"/>授。<date from-iso="+1664-01-28" key="j23288512328939" to-iso="+1664-04-25">甲辰春</date>重示偈，云：「曾聞古德輔叢林，逆順機緣無二心；自此
+<lb ed="B" n="0204a06"/>任教肝膽碎，終身相繼意深深。」命監院事，未幾即付法卷。<date from-iso="+1666-02-04" key="j23295892329942" to-iso="+1667-01-23">丙午</date>
+<lb ed="B" n="0204a07"/><persName key="A009652">明</persName>寂，為校刻《語錄》，全稿三十一卷。<date from-iso="+1669-02-01" key="j23306822330769" to-iso="+1669-04-29"><anchor xml:id="beg_c8" type="cb-app"/>己<anchor xml:id="end_c8"/>酉春</date>繼主雙桂，設千日禪
+<lb ed="B" n="0204a08"/>期，請於官吏給寺四界印照，蠲免雜征，刊石立碑，垂之來世。<date from-iso="+1675-04-25" key="j23329562333073" to-iso="+1675-08-20">乙
+<lb ed="B" n="0204a09"/>卯夏</date>，書〈退院語〉一篇，卜居香水庵削牘<!-- 撰述 -->，啟諸同門，承茲仔肩，卒
+<lb ed="B" n="0204a10"/>鮮應者。<date from-iso="+1683-01-27" key="j23357902336173" to-iso="+1684-02-14">癸亥</date>為臺諫<!-- 給事中？ --><persName key="A043170">黃公</persName>所請，復理院事，衲子如歸。時雙桂舊
+<lb ed="B" n="0204a11"/>棟，悉為蟻蛀，風雨搖撼，其勢甚危。乃鳩工庀材，次第興革，四載
+<lb ed="B" n="0204a12"/>落成。而<persName key="A016521">水</persName>亦老矣！以<date when-iso="+1693-06-20" key="j23395872339587">康熙三十二年癸酉五月十七日</date>示寂，壽
+<lb ed="B" n="0204a13"/>六十八，臘四十六，塔於雙桂山左。有《語錄》十卷，《雜詩》三卷。</p>
+    <linkGrp>
+        <link targets="#0203b17 #0203b17"/>
+        <ptr target="#A016521" type="person"/>
+        <ptr target="#A043169" type="person"/>
+        <ptr target="#j23230042323386" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0203b18 #0203b18"/>
+        <ptr target="#A016521" type="person"/>
+        <ptr target="#A009652" type="person"/>
+        <ptr target="#j23240962324479" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0203b20 #0204a01"/>
+        <ptr target="#A016521" type="person"/>
+        <ptr target="#A009652" type="person"/>
+        <ptr target="#j23279352328053" type="time"/>
+    </linkGrp>
+</div>

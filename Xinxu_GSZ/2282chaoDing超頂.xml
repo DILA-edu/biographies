@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0201b18shiChaoDing">
+<lb ed="B" n="0201b18"/><anchor n="B.27.0151.0201b18"/><head>清漳州馴虎巖沙門<persName key="A040375">釋超頂</persName>傳</head>
+<lb ed="B" n="0201b19"/><p xml:id="pB27p0201b1901"><persName key="A040375">釋超頂</persName>，字<persName key="A040375">逸然</persName>，姓謝氏，晉江人也。幼而清慧，知慕佛法。垂髫時，
+<lb ed="B" n="0201b20"/>有清質禪德住泉中小庵，<persName key="A040375">頂</persName>從之遊，昕夕隨其焚修。<date from-iso="+1644-02-08" key="j23215572321911" to-iso="+1645-01-27">崇禎甲申</date><pb ed="B" xml:id="B27.0151.0202a" n="0202a"/>
+<lb ed="B" n="0202a01"/>始落髮於馴虎巖。年二十，尋棲仙亭，辛勤力作，暇則禮誦，訖無
+<lb ed="B" n="0202a02"/>虛晷。經數歲，歎曰：「出家為生死，豈宜繫此。」時雪峰<persName key="A003873">亘</persName>住南山報
+<lb ed="B" n="0202a03"/>劬，卷裓從<ref type="person" target="#A003873">之</ref>。一見相契，潛鞭默練，靡間朝昏。一夕誦次，嗒然若
+<lb ed="B" n="0202a04"/>失，前後際斷，自覺愉快。入陳所見，<persName key="A003873">亘</persName>頷之。自是酬對，無爽玄旨。
+<lb ed="B" n="0202a05"/><persName key="A003873">亘</persName>嘗與客譚，問：「無須鎖子，誰人開得？」客茫然。因傳令堂眾下語。
+<lb ed="B" n="0202a06"/>或云：「不費纖毫力。」或云：「開也。」<persName key="A040375">頂</persName>則曰：「用開作麼。」<persName key="A003873">亘</persName>深喜其語，因
+<lb ed="B" n="0202a07"/>謂客曰：「非<persName key="A040375">超頂</persName>不能為此語。」訊之果然，乃益加策勵，期臻閫奧。
+<lb ed="B" n="0202a08"/><persName key="A003873">亘</persName>主泉之昭慶、延福，福之雪峯、慶城，<persName key="A040375">頂</persName>皆隨侍左右，助揚法化，
+<lb ed="B" n="0202a09"/>精勤不懈。屢欲屬累，每遜謝不逮。<date from-iso="+1659-08-18" key="j23272272327314" to-iso="+1659-11-13">順治<anchor xml:id="beg_c6" type="cb-app"/>己<anchor xml:id="end_c6"/>亥秋</date>，<persName key="A003873">亘</persName>居慶城，將滅
+<lb ed="B" n="0202a10"/>度，遺命付<persName key="A040375">頂</persName>衣拂。時隱仙遊東山巖，耕鋤自給，茹草飲泉，怡然
+<lb ed="B" n="0202a11"/>樂之。馴虎<persName key="A043163">衍如</persName>老宿，<persName key="A040375">頂</persName>師祖也，以亂後零落，命為住持。<persName key="A040375">頂</persName>率先
+<lb ed="B" n="0202a12"/>勞役，行古德規範。三載之間，頹綱漸振。<date from-iso="+1666-08-01" key="j23297672329854" to-iso="+1666-10-27">丙午秋</date>與南山<persName key="A004074">怡石</persName>偕
+<lb ed="B" n="0202a13"/>往雪峰，為<persName key="A003873">亘</persName>師築塔。勞頓灰土，感疾數日，遽爾奄化。時<date from-iso="+1666-02-04" key="j23295892329942" to-iso="+1667-01-23">康熙五
+<lb ed="B" n="0202a14"/>年</date>也。<persName key="A040375">頂</persName>神穎通慧，梵行精白，獨處巖谷，堅苦枯澹，而道望蔚然。
+<lb ed="B" n="0202a15"/>弟子<persName key="A043164">明經</persName>、<persName key="A043165">如修</persName>以<date from-iso="+1667-11-16" key="j23302392330326" to-iso="+1668-02-11">丁未年冬</date>奉遺骸，窆於東山後岡。<persName key="A004072">釋超弘</persName>作
+<lb ed="B" n="0202a16"/>銘云。</p>
+    <linkGrp>
+        <link targets="#0202a02 #0202a09"/>
+        <ptr target="#A040375" type="person"/>
+        <ptr target="#A003873" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0202a11 #0202a12"/>
+        <ptr target="#A040375" type="person"/>
+        <ptr target="#A043163" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0202a12 #0202a13"/>
+        <ptr target="#A040375" type="person"/>
+        <ptr target="#A004074" type="person"/>
+        <ptr target="#j23297672329854" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0202a15 #0202a16"/>
+        <ptr target="#A040375" type="person"/>
+        <ptr target="#A043164" type="person"/>
+        <ptr target="#A043165" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0202a15 #0202a16"/>
+        <ptr target="#A043164" type="person"/>
+        <ptr target="#A043165" type="person"/>
+        <ptr target="#A004072" type="person"/>
+        <ptr target="#j23302392330326" type="time"/>
+    </linkGrp>
+</div>
