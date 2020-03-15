@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0218a11shiZiGuang">
+<lb ed="B" n="0218a11"/><anchor n="B.27.0151.0218a11"/><head>清西蜀廣行寺沙門<persName key="A026340">釋自光</persName>傳</head>
+<lb ed="B" n="0218a12"/><p xml:id="pB27p0218a1201"><persName key="A026340">釋自光</persName>，字<persName key="A026340">際月</persName>，常寧人也。幼性恬淡，志在山水，超然塵表。<ref type="date" target="#j23405452340899">年十
+<lb ed="B" n="0218a13"/>八</ref>就縣中七佛庵得度，時<date from-iso="+1679-02-11" key="j23343442334697" to-iso="+1680-01-30">康熙己未歲</date>也<!-- 後文乾隆45年102歲，應生於1679年。18歲應為1696，康熙35年(丙子)。 -->。受具後參遊至蜀，初
+<lb ed="B" n="0218a14"/>憇蓉城，復依昭覺<persName key="A026338">潛</persName>。<persName key="A026338">潛</persName>示以晴空雲跡，水曲風痕，無中覓有，虛
+<lb ed="B" n="0218a15"/>裏尋空，總括萬象，為唯一之密機，了性之玄猷。<persName key="A026340">光</persName>聞聲即悟，獲
+<lb ed="B" n="0218a16"/>授心印。於是勵行祖道，警發末學，仰厥風徽，莫不悅懌。及年登
+<lb ed="B" n="0218a17"/>大耋，精勌神疲，退隱彭縣廣行寺，更錫化成院，寂於<date from-iso="+1780-02-05" key="j23712272371580" to-iso="+1781-01-23">乾隆四十
+<lb ed="B" n="0218a18"/>五年庚子</date>，壽百有二歲。先夕夜半，晏坐丈室，召諸弟子問曰：「今
+<lb ed="B" n="0218a19"/>月何在？」曰：「在天心。」「古月何在？」眾莫能對。<persName key="A026340">光</persName>莞爾，命筆偈曰：「宇宙
+<lb ed="B" n="0218a20"/>原無壞，幻質本非堅；夜沈星畔月，依舊照山川。」擲管垂目而寂。<pb ed="B" xml:id="B27.0151.0218b" n="0218b"/>
+<lb ed="B" n="0218b01"/>弟子<persName key="A042101">道魁</persName>為銘其塔，塔在化成院北。</p>
+    <linkGrp>
+        <link targets="#0218a14 #0218a14"/>
+        <ptr target="#A026340" type="person"/>
+        <ptr target="#A026338" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0218b01 #0218b01"/>
+        <ptr target="#A026340" type="person"/>
+        <ptr target="#A042101" type="person"/>
+    </linkGrp>
+</div>

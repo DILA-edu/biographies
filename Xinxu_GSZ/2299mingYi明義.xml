@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0215a20shiMingYi">
+<lb ed="B" n="0215a20"/><anchor n="B.27.0151.0215a20"/><head>清杭州理安寺沙門<persName key="A021898">釋明<anchor xml:id="beg021501"/><choice><sic resp="CBETA">義</sic><corr resp="PC-MB">羲</corr></choice><anchor xml:id="end021501"/></persName>傳<persName type="secondary" key="A026659">實勝</persName></head>
+<lb ed="B" n="0215b01"/><p xml:id="pB27p0215b0101"><persName key="A021898">釋明<anchor xml:id="beg021502"/><choice><sic resp="CBETA">義</sic><corr resp="PC-MB">羲</corr></choice><anchor xml:id="end021502"/></persName>，字<persName key="A021898">佛日</persName>，號<persName key="A021898">煦園</persName>，姓陳氏，洪都人。幼禮繩金塔寺普照堂
+<lb ed="B" n="0215b02"/><persName key="A043200">毓明</persName>為師。<ref type="date" target="#j23423762342729">年十九</ref>依翠巖<persName key="A043201">鞭雷</persName>受戒。承示機要，參究兩載，殊無
+<lb ed="B" n="0215b03"/>所得。聞江浙宗風甚盛，棹舟南下，徧訪知識，始抵餘杭。值<persName key="A019787">越鑑</persName>
+<lb ed="B" n="0215b04"/>唱道之初，命充紀錄。一日上堂，僧問：「<persName key="A008370">元沙</persName>不肎<!-- 通「肯」，參T47n2000_p0996a17 -->，<persName key="A005134">靈雲</persName>意旨如何？」
+<lb ed="B" n="0215b05"/><persName key="A019787">鑑</persName>曰：「君子千里同風。」<persName key="A021898"><anchor xml:id="beg021503"/><choice><sic resp="CBETA">義</sic><corr resp="PC-MB">羲</corr></choice><anchor xml:id="end021503"/></persName>聞之，如貧得寶，竊歎發明古人用處如
+<lb ed="B" n="0215b06"/>揭日也。相依數月，竟書南澗流源，并衣拂授之。無何<persName key="A043200">毓</persName>與<persName key="A019787">鑑</persName>相
+<lb ed="B" n="0215b07"/>繼謝去，<persName key="A021898"><anchor xml:id="beg021504"/><choice><sic resp="CBETA">義</sic><corr resp="PC-MB">羲</corr></choice><anchor xml:id="end021504"/></persName>念正法陵遲，典型凋喪，不有振起後學，何從鑽仰弘
+<lb ed="B" n="0215b08"/>法之志？自是而堅，遊五臺、抵燕山，遭際<persName key="A000212">憲</persName>廟培隆祖道，<persName key="A011033">愛月</persName>居
+<lb ed="B" n="0215b09"/>士訪尋高詣，以備顧問。柏林<persName key="A018934">調梅</persName>以<persName key="A021898"><anchor xml:id="beg021505"/><choice><sic resp="CBETA">義</sic><corr resp="PC-MB">羲</corr></choice><anchor xml:id="end021505"/></persName>名入告，留止歲餘，出主
+<lb ed="B" n="0215b10"/>江右雲居五載。及<persName key="A018934">調梅</persName>移錫萬壽，招<ref type="person" target="#A021898">之</ref>入京，舉為座元。時修《檀
+<lb ed="B" n="0215b11"/>柘山志》幾成，而理安之<anchor xml:id="beg021506"/><choice><sic resp="CBETA">啟</sic><corr resp="PC-MB">請</corr></choice><anchor xml:id="end021506"/><!-- 《武林理安寺志．卷5．傳臨濟正宗第三十四代．第二十四次住持佛日羲禪師》：「理安祖山之請至」(《中國佛寺史志彙刊》，第1輯，第21冊，頁0276) -->至。<persName key="A021898"><anchor xml:id="beg021507"/><choice><sic resp="CBETA">義</sic><corr resp="PC-MB">羲</corr></choice><anchor xml:id="end021507"/></persName>居祖席，兢兢十載，謹守舊規，不
+<lb ed="B" n="0215b12"/>敢失墜。而性復嚴潔，有<persName key="A003921">黃龍</persName>、<persName key="A007526">真淨</persName>之風，人或望崖而退。<date from-iso="+1751-01-27" key="j23606262360714" to-iso="+1751-04-25">乾隆辛
+<lb ed="B" n="0215b13"/>未春</date><ref type="person" target="#A006727">翠華</ref><!-- 天子車蓋 -->臨幸，應對稱旨，賜額曰「樹最勝幢」，御書「心經塔」及采
+<lb ed="B" n="0215b14"/>帛數種。是歲饑，寺眾匱食，憂以成疾。<date when-iso="+1752-09-24" key="j23612322361232">乾隆十七年壬申八月十
+<lb ed="B" n="0215b15"/>七日</date>示寂。壽七十，臘五十一，塔於蓮花峯之陽。著有《語錄》八卷，
+<lb ed="B" n="0215b16"/>《外集》八卷，並見刊本。又<persName key="A026659">實勝</persName>字<persName key="A026659">法南</persName>，號<persName key="A026659">竹菴</persName>，益陽鄧氏子。幼入
+<lb ed="B" n="0215b17"/>鄉塾，善病，禮同縣華嚴<persName key="A043202">悟宗</persName>薙染。侍學六載，苦無所入，并力農
+<lb ed="B" n="0215b18"/>田。<ref type="date" target="#j23467462347129">年二十四</ref>詣德山<persName key="A043203">半瞿</persName>受具。<ref type="date" target="#j23471302347484">明年</ref>參石塘<persName key="A043204">吼天</persName>，示「萬法歸一」
+<lb ed="B" n="0215b19"/>語，猛力精究。復走江浙，再上湘南，叩衡嶽祝聖<persName key="A009415">曉堂</persName>。已而詣吉
+<lb ed="B" n="0215b20"/>安龍鬚山<persName key="A043205">陶谷</persName>。<date from-iso="+1720-04-08" key="j23493752349403" to-iso="+1720-05-06">庚子三月</date>至博山，<date from-iso="+1720-05-07" key="j23494042349433" to-iso="+1720-06-05">四月</date>至杭遊淨慈、靈隱，至理<pb ed="B" xml:id="B27.0151.0216a" n="0216a"/>
+<lb ed="B" n="0216a01"/>安為<persName key="A018934">退翁</persName>所賞。凡遇勞苦，身任不辤。<date from-iso="+1722-02-16" key="j23500542350407" to-iso="+1723-02-04">壬寅</date>隨至京，比還，受記莂。
+<lb ed="B" n="0216a02"/>未幾，開法東安瑞徵。<date from-iso="+1730-02-17" key="j23529772353331" to-iso="+1731-02-06">庚<anchor xml:id="beg_e0" type="cb-app"/>戌<anchor xml:id="end_e0"/></date>修建堂殿、像飾、鐘鼓，靡不具新。<date from-iso="+1733-02-14" key="j23540702354424" to-iso="+1734-02-03">癸丑</date>
+<lb ed="B" n="0216a03"/>召見，天機契合，命主理安。<date from-iso="+1734-02-04" key="j23544252354778" to-iso="+1735-01-23">甲寅</date>受虞山普仁<!-- 虞山普仁院 -->之請。<date from-iso="+1735-01-24" key="j23547792355162" to-iso="+1736-02-11">乙卯</date>入京命
+<lb ed="B" n="0216a04"/>住慧福。<date from-iso="+1736-02-12" key="j23551632355516" to-iso="+1737-01-30">乾隆元年</date>詔主竹林，<date from-iso="+1742-02-05" key="j23573482357702" to-iso="+1743-01-25">七年壬戌</date>移主磬山。<date from-iso="+1747-02-09" key="j23591782359532" to-iso="+1748-01-29">丁卯</date>復歸益
+<lb ed="B" n="0216a05"/>陽，趨拜親墓，叩<persName key="A043202">悟宗</persName>，相違三十年，俱不相識，唯挽手泣下而已。
+<lb ed="B" n="0216a06"/>以<date when-iso="+1752-04-01" key="j23610562361056">乾隆十七年壬申二月十七日</date>示寂。偈云：「南北支離三十年，
+<lb ed="B" n="0216a07"/>七花八裂得人嫌；今朝自唱還鄉曲，珍重時人莫浪傳。」壽六十
+<lb ed="B" n="0216a08"/>三，臘三十九，塔於<persName key="A018934">退翁</persName>之右。</p>
+    <linkGrp>
+        <link targets="#0215b01 #0215b02"/>
+        <ptr target="#A021898" type="person"/>
+        <ptr target="#A043200" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0215b02 #0215b02"/>
+        <ptr target="#A021898" type="person"/>
+        <ptr target="#A043201" type="person"/>
+        <ptr target="#j23423762342729" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0215b03 #0215b06"/>
+        <ptr target="#A021898" type="person"/>
+        <ptr target="#A019787" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0215b03 #0215b06"/>
+        <ptr target="#A021898" type="person"/>
+        <ptr target="#A019787" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0215b08 #0215b09"/>
+        <ptr target="#A000212" type="person"/>
+        <ptr target="#A011033" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0215b08 #0215b09"/>
+        <ptr target="#A021898" type="person"/>
+        <ptr target="#A011033" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0215b09 #0215b10"/>
+        <ptr target="#A021898" type="person"/>
+        <ptr target="#A018934" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0215b10 #0215b10"/>
+        <ptr target="#A021898" type="person"/>
+        <ptr target="#A000212" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0215b12 #0215b14"/>
+        <ptr target="#A021898" type="person"/>
+        <ptr target="#A006727" type="person"/>
+        <ptr target="#j23606262360714" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0215b16 #0215b17"/>
+        <ptr target="#A026659" type="person"/>
+        <ptr target="#A043202" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0215b18 #0215b18"/>
+        <ptr target="#A026659" type="person"/>
+        <ptr target="#A043203" type="person"/>
+        <ptr target="#j23467462347129" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0215b18 #0215b19"/>
+        <ptr target="#A026659" type="person"/>
+        <ptr target="#A043204" type="person"/>
+        <ptr target="#j23471302347484" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0215b19 #0215b19"/>
+        <ptr target="#A026659" type="person"/>
+        <ptr target="#A009415" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0215b19 #0215b20"/>
+        <ptr target="#A026659" type="person"/>
+        <ptr target="#A043205" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0215b20 #0216a01"/>
+        <ptr target="#A026659" type="person"/>
+        <ptr target="#A018934" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0216a02 #0216a03"/>
+        <ptr target="#A026659" type="person"/>
+        <ptr target="#A000212" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0216a04 #0216a04"/>
+        <ptr target="#A026659" type="person"/>
+        <ptr target="#A006727" type="person"/>
+        <ptr target="#j23551632355516" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0216a04 #0216a05"/>
+        <ptr target="#A026659" type="person"/>
+        <ptr target="#A043202" type="person"/>
+        <ptr target="#j23591782359532" type="time"/>
+    </linkGrp>
+</div>

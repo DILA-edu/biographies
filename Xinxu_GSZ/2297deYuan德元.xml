@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0214a04shiDeYuan">
+<lb ed="B" n="0214a04"/><anchor n="B.27.0151.0214a04"/><head>清杭州雲林寺沙門<persName key="A021891">釋德元</persName>傳<persName type="secondary" key="A021894">德琳</persName></head>
+<lb ed="B" n="0214a05"/><p xml:id="pB27p0214a0501"><persName key="A021891">釋德元</persName>，字<persName key="A021891">在瞻</persName>，號<persName key="A021891">耐亭</persName>，姓丁氏，吳興人。生而端靜，風采不凡。總
+<lb ed="B" n="0214a06"/>角即禮龐山妙智寺<persName key="A043196">西嵐</persName>禪宿為驅烏。入塾肄藝，倣書<!-- 摹字 -->屬句<!-- 撰寫文章 -->，恆
+<lb ed="B" n="0214a07"/>度越餘子，一時名流為之刮目。<ref type="date" target="#j23562552356609">年二十</ref>受具於覺海寺，歸而嚴
+<lb ed="B" n="0214a08"/>淨毘尼，暇則游神典籍，杜門宴寂。即有叩戶者，樞不為轉也。既
+<lb ed="B" n="0214a09"/>而憬悟<!-- 醒悟 -->：文字非究竟法，大事不可不明。乃杖笠出遊，參<persName key="A021893">巨濤</persName>於
+<lb ed="B" n="0214a10"/>雲林，一見器<ref type="person" target="#A021891">之</ref>，留侍巾瓶。妙密鉗椎，精求累載，將有所得。及聞
+<lb ed="B" n="0214a11"/>「萬法歸一」語，恍然契悟，遂獲印可。<date from-iso="+1750-02-07" key="j23602722360625" to-iso="+1751-01-26">乾隆庚午</date>，出主華亭船子道
+<lb ed="B" n="0214a12"/>場，學徒輻湊，檀護歸崇。乃於隨機化物之餘，復營土木，鼎新殿
+<lb ed="B" n="0214a13"/>宇，西林舊面，忽焉改觀。唱導三載，幾欲化成。會<persName key="A021893">巨濤</persName>浸<!-- 漸 -->倦，寄聲
+<lb ed="B" n="0214a14"/><g ref="#CB24336">𧦝</g>助，遄<!-- 急 -->返鷲峰。過雁流雲，曾無繫戀。<date from-iso="+1753-02-03" key="j23613642361717" to-iso="+1754-01-22">乾隆十八年</date>，繼主法席。<persName key="A006727">純</persName>
+<lb ed="B" n="0214a15"/>廟南巡，翩然戾止。<persName key="A021891">德元</persName>仰承<ref type="person" target="#A006727">天</ref>問，答語雍容，上協皇情，寵錫紫
+<lb ed="B" n="0214a16"/>衣及香金，諸方榮之。無何，維摩善病<!-- 彼嘗稱病，但云其病是「以眾生病，是故我病」 -->，欲息勞肩，因謝院事。唯以
+<lb ed="B" n="0214a17"/>泉聲林影，時助吟詠，以永禪悅。雖有詩稿、《語錄》，多未付梓。寂於
+<lb ed="B" n="0214a18"/><date when-iso="+1760-10-23" key="j23641832364183">乾隆庚辰九月十五日</date>，塔天聖院左，蓮峰下。<persName key="A021894">德琳</persName>字<persName key="A021894">玉山</persName>，吳江
+<lb ed="B" n="0214a19"/>人，亦受法於<persName key="A021893">巨濤</persName>。<date from-iso="+1763-02-13" key="j23650262365379" to-iso="+1764-02-01">乾隆二十八年</date>雲林虛席，為<anchor xml:id="beg021401"/><choice><sic resp="CBETA">淅</sic><corr resp="PC-MB">浙</corr></choice><anchor xml:id="end021401"/>撫<persName key="A043197">熊學鵬</persName>所
+<lb ed="B" n="0214a20"/>延引，入室據座，大唱道聲，力挽頹綱。<date from-iso="+1765-01-21" key="j23657342366117" to-iso="+1766-02-08">三十年</date>車駕重臨，<ref type="person" target="#A042674">太后</ref>鑾<pb ed="B" xml:id="B27.0151.0214b" n="0214b"/>
+<lb ed="B" n="0214b01"/>輿亦復隨至，累承渥賞。時<persName key="A021894">琳</persName>兼主法喜寺，香金石佛，亦得分賜。
+<lb ed="B" n="0214b02"/>已而辤退，掩關習靜，沈沈闇室，寂寂蒲團，若將終焉。<date from-iso="+1772-05-03" key="j23683932368480" to-iso="+1772-07-29">三十七年
+<lb ed="B" n="0214b03"/>夏</date>為兩眾要請，更住雲林。上堂云：「絲綸收拾未多時，今日無端
+<lb ed="B" n="0214b04"/>一竿持；應向煙波深處裏，金鱗衝出莫來遲。」有《玉山語錄》。壽六
+<lb ed="B" n="0214b05"/>十餘，塔於雲林山麓。</p>
+    <linkGrp>
+        <link targets="#0214a05 #0214a06"/>
+        <ptr target="#A021891" type="person"/>
+        <ptr target="#A043196" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0214a09 #0214a09"/>
+        <ptr target="#A021891" type="person"/>
+        <ptr target="#A021893" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0214a14 #0214a16"/>
+        <ptr target="#A021891" type="person"/>
+        <ptr target="#A006727" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0214a18 #0214a19"/>
+        <ptr target="#A021894" type="person"/>
+        <ptr target="#A021893" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0214a19 #0214a20"/>
+        <ptr target="#A021894" type="person"/>
+        <ptr target="#A043197" type="person"/>
+        <ptr target="#j23650262365379" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0214a20 #0214b01"/>
+        <ptr target="#A021894" type="person"/>
+        <ptr target="#A006727" type="person"/>
+        <ptr target="#A042674" type="person"/>
+        <ptr target="#j23657342366117" type="time"/>
+    </linkGrp>
+</div>

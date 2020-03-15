@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0216a09shiTongShou">
+<lb ed="B" n="0216a09"/><anchor n="B.27.0151.0216a09"/><head>清烏程陽山梵音院沙門<persName key="A010045">釋通授</persName>傳</head>
+<lb ed="B" n="0216a10"/><p xml:id="pB27p0216a1001"><persName key="A010045">釋通授</persName>，字<persName key="A010045">印中</persName>，號<persName key="A010045">松際</persName>，姓嚴氏，烏程人。<ref type="date" target="#j23069392307322">年十二</ref>喪母，稍長閱《盂
+<lb ed="B" n="0216a11"/>蘭盆經》因慨曰：「先慈雖無重業，奈泉路茫茫，何痛！」念者久之，後
+<lb ed="B" n="0216a12"/>見<persName key="A001394">雲棲</persName>一筆句詞，瞿然曰：「吾志決矣！」是夜即投道場山<persName key="A043207">慧如慈</persName>
+<lb ed="B" n="0216a13"/>脫白。<persName key="A043207">慈</persName>修苦行久，一方敬信；然所訓誨，<persName key="A010045">授</persName>頗不合。偶徘徊巖石
+<lb ed="B" n="0216a14"/>間，有老僧至自天臺，藉草而坐，與<persName key="A010045">授</persName>語，大器之，謂曰：「<ref type="person" target="#A010045">子</ref>英年高
+<lb ed="B" n="0216a15"/>志，幸忽向醋甕中淹殺。」<persName key="A010045">授</persName>承激發，遂起參尋之志。望庵作禮，遙
+<lb ed="B" n="0216a16"/>謝<persName key="A043207">慈</persName>公而去。至武塘謁一關主，主令看「誰」字。一日途中，正疑此
+<lb ed="B" n="0216a17"/>事，忽聞牧童相調曰：「騎牛去覓牛。」<persName key="A010045">授</persName>聆之，覺有入處。因念：行腳
+<lb ed="B" n="0216a18"/>終歲塵征，徒形勞痡。嘗聞弁山有黃龍洞，徐探得之，日坐其中
+<lb ed="B" n="0216a19"/>久之跡漸露，遠近兢觀，棄去。之武林，受具於<persName key="A043208">龍門秀峰</persName>。<persName key="A043208">峰</persName>令見
+<lb ed="B" n="0216a20"/><persName key="A014595">抱璞</persName>，乃往叩<ref type="person" target="#A014595">之</ref>。<persName key="A014595">璞</persName>曰：「<ref type="person" target="#A010045">汝</ref>但休得一分心，便是學得一分佛法。」<persName key="A010045">授</persName><pb ed="B" xml:id="B27.0151.0216b" n="0216b"/>
+<lb ed="B" n="0216b01"/>云曰：「古人道『莫執忘形與死心，此個難醫病』，轉深又作麼生？」<persName key="A014595">璞</persName>曰：
+<lb ed="B" n="0216b02"/>「休去<!-- 離開 -->。」<persName key="A010045">授</persName>返烏程，擬尋靜室，夜夢至一山，茂林修竹，青嶂四圍，有
+<lb ed="B" n="0216b03"/>人招之曰：「陽山也。可居，盍居諸？」明日以問人，有居士曰：「此去五
+<lb ed="B" n="0216b04"/>十餘里有陽山，然虎狼出沒之地耳！」<persName key="A010045">授</persName>曰：「盍往觀之。」居士欣肰<!-- 通「然」 -->，
+<lb ed="B" n="0216b05"/>與之偕行。及登山四顧，宛如夢境，喜曰：「<ref type="person" target="#A010045">吾</ref>得活埋地矣！」就樹趺
+<lb ed="B" n="0216b06"/>坐，值雨雪連綿，經旬斷火，鄉人以為此僧凍餒死矣！雪霽攜餱<!-- 乾糧 -->
+<lb ed="B" n="0216b07"/>往視，見<persName key="A010045">授</persName>怡然枯坐，大奇之，相與捨貲，具材構庵以居。後得法
+<lb ed="B" n="0216b08"/>於<persName key="A010037">神鼎雲外</persName><!-- 應該是天隱圓脩，神鼎雲外是通授弟子。 -->。除夕上堂云：「年窮月窮，日窮時窮，山窮水窮寺僧
+<lb ed="B" n="0216b09"/>窮；窮堂頭說窮法，窮學者解窮義，直得事窮理窮旨亦窮。一窮
+<lb ed="B" n="0216b10"/>窮到無窮處，萬象回春瑞氣濃。所以道『窮則變，變則通明』，明再
+<lb ed="B" n="0216b11"/>向枝頭看，新歲梅花舊歲同。」著有《語錄》若干卷。</p>
+    <linkGrp>
+        <link targets="#0216a12 #0216a13"/>
+        <ptr target="#A010045" type="person"/>
+        <ptr target="#A043207" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0216a19 #0216a19"/>
+        <ptr target="#A010045" type="person"/>
+        <ptr target="#A043208" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0216a20 #0216b02"/>
+        <ptr target="#A010045" type="person"/>
+        <ptr target="#A014595" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0216b07 #0216b08"/>
+        <ptr target="#A010045" type="person"/>
+        <ptr target="#A010037" type="person"/>
+    </linkGrp>
+</div>

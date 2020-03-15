@@ -272,6 +272,54 @@
 			<lem wit="喻眛庵輯影本">曰</lem>
 			<rdg wit="CBETA">日</rdg>
 		</app>
+		<app from="beg021401">
+			<lem wit="喻眛庵輯影本">淅</lem>
+			<rdg wit="CBETA">淅</rdg>
+		</app>
+		<app from="beg021501">
+			<lem wit="喻眛庵輯影本">羲</lem>
+			<rdg wit="CBETA">義</rdg>
+		</app>
+		<app from="beg021502">
+			<lem wit="喻眛庵輯影本">羲</lem>
+			<rdg wit="CBETA">義</rdg>
+		</app>
+		<app from="beg021503">
+			<lem wit="喻眛庵輯影本">羲</lem>
+			<rdg wit="CBETA">義</rdg>
+		</app>
+		<app from="beg021504">
+			<lem wit="喻眛庵輯影本">羲</lem>
+			<rdg wit="CBETA">義</rdg>
+		</app>
+		<app from="beg021505">
+			<lem wit="喻眛庵輯影本">羲</lem>
+			<rdg wit="CBETA">義</rdg>
+		</app>
+		<app from="beg021506">
+			<lem wit="喻眛庵輯影本">啟</lem>
+			<rdg wit="CBETA">啟</rdg>
+		</app>
+		<app from="beg021507">
+			<lem wit="喻眛庵輯影本">羲</lem>
+			<rdg wit="CBETA">義</rdg>
+		</app>
+		<app from="beg_e1">
+			<lem wit="喻眛庵輯影本">趺</lem>
+			<rdg wit="CBETA">跌</rdg>
+		</app>
+		<app from="beg021703">
+			<lem wit="喻眛庵輯影本">卯</lem>
+			<rdg wit="CBETA">卯</rdg>
+		</app>
+		<app from="beg021801">
+			<lem wit="喻眛庵輯影本">土</lem>
+			<rdg wit="CBETA">土</rdg>
+		</app>
+		<app from="beg021901">
+			<lem wit="喻眛庵輯影本">人</lem>
+			<rdg wit="CBETA">人</rdg>
+		</app>
 		<app from="beg027201">
 			<lem wit="喻眛庵輯影本">戊</lem>
 			<rdg wit="CBETA">戊</rdg>
