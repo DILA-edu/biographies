@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0223a19shiXiuYe">
+<lb ed="B" n="0223a19"/><anchor n="B.27.0151.0223a19"/><head>清安陸西來寺沙門<persName key="A016398">釋秀野</persName>傳<persName type="secondary" key="A043245">裕如</persName><persName type="secondary" key="A019620">純備</persName></head>
+<lb ed="B" n="0223a20"/><p xml:id="pB27p0223a2001"><persName key="A016398">釋秀野</persName>，未知何許人。初出家時，受具於<persName key="A003688">天童</persName>，後參百丈。得衣拂<pb ed="B" xml:id="B27.0151.0223b" n="0223b"/>
+<lb ed="B" n="0223b01"/>於<persName key="A016286">智</persName>老，為奇然正派，蓋傳臨濟者也。躡屩名藍，熠燿佛鐙，上至
+<lb ed="B" n="0223b02"/>王公，下逮士庶，逖聽道聲，罔不崇仰。江庵淨土，皆譚玄之地；普
+<lb ed="B" n="0223b03"/>門廣濟，亦說法之場。主安陸西來二十餘年，提闡上乘，入室者
+<lb ed="B" n="0223b04"/>多。嘗東遊江浙大小百餘城，每啟講筵，環而聽者，水赴雲從，堂
+<lb ed="B" n="0223b05"/>除<!-- 堂下臺階 -->充塞，幾不能容。年登七十，安禪而化。門人<persName key="A019495">最正</persName>錄遺語十卷，
+<lb ed="B" n="0223b06"/>武昌太守<persName key="A043244">劉餘霖</persName>為之序。又<persName key="A043245">裕如</persName>禪師，道履孤危，戒香馥郁，傳
+<lb ed="B" n="0223b07"/>德山衣缽，棲公安報本寺數十年。壽近古稀，無疾而化。<persName key="A021791">天鐘</persName>有
+<lb ed="B" n="0223b08"/>偈讚之曰：「霜葉飄飄萬木枯，哲人云逝至堪吁；含生智眼方昏
+<lb ed="B" n="0223b09"/>濁，業海誰携出險途。」又黃牛峽孚濟寺<persName key="A019620">純備德</persName>者，得法於<persName key="A026304">天圓</persName>，
+<lb ed="B" n="0223b10"/>亦傳臨濟。煆煉向上，著有《語錄》，<persName key="A026305">博達道隆</persName>為之序。</p>
+    <linkGrp>
+        <link targets="#0223a20 #0223a20"/>
+        <ptr target="#A016398" type="person"/>
+        <ptr target="#A003688" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0223b01 #0223b01"/>
+        <ptr target="#A016398" type="person"/>
+        <ptr target="#A016286" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0223b05 #0223b05"/>
+        <ptr target="#A016398" type="person"/>
+        <ptr target="#A019495" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0223b05 #0223b06"/>
+        <ptr target="#A043244" type="person"/>
+        <ptr target="#A019495" type="person"/>
+    </linkGrp>
+</div>

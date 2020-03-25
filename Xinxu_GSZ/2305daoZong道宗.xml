@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0220a08shiDaoZong">
+<lb ed="B" n="0220a08"/><anchor n="B.27.0151.0220a08"/><head>清天台國清寺沙門<persName key="A031257">釋道宗</persName>傳<persName type="secondary" key="A042149">妙祥瑞</persName><persName type="secondary" key="A043222">淨鑒</persName><persName type="secondary" key="A042166">文定靜</persName></head>
+<lb ed="B" n="0220a09"/><p xml:id="pB27p0220a0901"><persName key="A031257">釋道宗</persName>，字<persName key="A031257">耀冶</persName>，姓胥氏，寶應人也。幼失怙恃，愮愮<!-- 憂懼而無處訴冤 -->無告，復多痰
+<lb ed="B" n="0220a10"/>疾，癙<!-- 因憂悶而產生之疾病 -->憂以痒<!-- 病 -->。聞村庵梵唄，圓音遙觸，心性俱清，遂思軼俗。年十
+<lb ed="B" n="0220a11"/>九依寶蓮庵<persName key="A043221">恒鑑</persName>薙染。泥室三載，爇香兩臂，持誦《法華》，昕夕無
+<lb ed="B" n="0220a12"/>間。已而出侍高旻<persName key="A001569">寶林</persName>，隨入天台，誅茅華頂。<date from-iso="+1784-01-22" key="j23726742373057" to-iso="+1785-02-08">乾隆四十九年</date>繼
+<lb ed="B" n="0220a13"/>席國清。十有三稔，退居吳江橫塘之東，諸方禪子，叩關不已。乃
+<lb ed="B" n="0220a14"/>剏建陽山，重敷講筵，四眾景仰，樂道不倦。<date from-iso="+1808-01-28" key="j23814452381533" to-iso="+1808-04-25">嘉慶十三年春</date>中歸
+<lb ed="B" n="0220a15"/>自天台，偶示微瘽<!-- 因勞苦而生病 -->，語其徒曰：「<ref type="person" target="#A031257">吾</ref>於甲子日子時去矣！」因書偈曰：
+<lb ed="B" n="0220a16"/>「三喚三應<anchor xml:id="beg_e5" type="cb-app"/>卻<anchor xml:id="end_e5"/>似渠，是<persName key="A002144">文殊</persName>兮非<persName key="A002144">文殊</persName>；從今省識本來面，始覺塵
+<lb ed="B" n="0220a17"/>埃半點無。」有《語錄》數卷。同時有<persName key="A042149">妙祥瑞</persName>者，臨海金氏子，亦參<persName key="A001569">寶
+<lb ed="B" n="0220a18"/>林</persName>有悟，首眾國清三載。<date from-iso="+1782-02-12" key="j23719652372053" to-iso="+1782-05-11">乾隆四十七年春三月</date>示疾，返妙峰庵
+<lb ed="B" n="0220a19"/>長坐不臥，與眾含笑作別，端坐而化。有《語錄》一卷，附刊《寶林集》。
+<lb ed="B" n="0220a20"/>後宗弟子<persName key="A042166">通靜</persName>字<persName key="A042166">文定</persName>，別號<persName key="A042166">葦渡</persName>，寧海韓氏子。少依治平寺染<pb ed="B" xml:id="B27.0151.0220b" n="0220b"/>
+<lb ed="B" n="0220b01"/>削，<ref type="date" target="#j23719652371994">年二十</ref>始進具，遂造維揚高旻謁<persName key="A001569">寶林</persName>，有所證入。後參宗授
+<lb ed="B" n="0220b02"/>玄旨，為入室真子，遂付衣拂。主席國清三載，退隱四明，掩關十
+<lb ed="B" n="0220b03"/>年，再住國清，閱歲十六。門庭殿宇，煥然改觀。<date from-iso="+1825-08-14" key="j23878532387940" to-iso="+1825-11-09">道光五年秋</date>示疾，
+<lb ed="B" n="0220b04"/><date when-iso="+1825-12-10" key="j23879712387971">冬十一月朔</date>集眾訓勉，乃示偈曰：「來無所來，去無所去；東土不
+<lb ed="B" n="0220b05"/>留，西方不住；只在此山中，雲深不知處。」安坐而逝。又<persName key="A043222">淨鑒</persName>號<persName key="A043222">月
+<lb ed="B" n="0220b06"/>舟</persName>，年二十受具。參訪名山，勤行禪觀，精持密語，世緣所入，隨取
+<lb ed="B" n="0220b07"/>隨捨。時值國清中興，百度待理，劬勞尤甚。<date when-iso="+1825-10-12" key="j23879122387912">道光十九年九月朔</date>
+<lb ed="B" n="0220b08"/>示疾，預自諏吉曰：「<ref type="person" target="#A043222">吾</ref>於<date when-iso="+1825-10-15" key="j23879152387915">四日</date>寅時入龕，<anchor xml:id="beg_e6" type="cb-app"/>巳<anchor xml:id="end_e6"/>時入壙。」至期香沐肅
+<lb ed="B" n="0220b09"/>衣，端坐說偈而化，年七十有九。時<persName key="A043223">無用</persName>禪師以偈讚<ref type="person" target="#A043222">之</ref>，猶能首
+<lb ed="B" n="0220b10"/>肎<!-- 通「肯」 -->，而氣息微矣！</p>
+    <linkGrp>
+        <link targets="#0220a10 #0220a11"/>
+        <ptr target="#A031257" type="person"/>
+        <ptr target="#A043221" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0220a12 #0220a12"/>
+        <ptr target="#A031257" type="person"/>
+        <ptr target="#A001569" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0220a17 #0220a18"/>
+        <ptr target="#A042149" type="person"/>
+        <ptr target="#A001569" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0220a20 #0220b02"/>
+        <ptr target="#A042166" type="person"/>
+        <ptr target="#A001569" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0220b08 #0220b10"/>
+        <ptr target="#A043222" type="person"/>
+        <ptr target="#A043223" type="person"/>
+        <ptr target="#j23879152387915" type="time"/>
+    </linkGrp>
+</div>

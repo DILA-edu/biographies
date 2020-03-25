@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0237b11shiXingPu">
+<lb ed="B" n="0237b11"/><anchor n="B.27.0151.0237b11"/><head>清江寧古林寺沙門<persName key="A042317">釋性璞</persName>傳<persName type="secondary" key="A043259">隱微理</persName></head>
+<lb ed="B" n="0237b12"/><p xml:id="pB27p0237b1201"><persName key="A042317">釋性璞</persName>，字<persName key="A042317">印含</persName>，姓王氏，吳人也。與<persName key="A043259">隱微理</persName>為同母兄弟，友愛天
+<lb ed="B" n="0237b13"/>成，志趣不歧。<ref type="person" target="#A043259">兄</ref>性好佛，遇有道場，嘗切觀摩，<persName key="A042317">璞</persName>必相隨及肩恐
+<lb ed="B" n="0237b14"/>後。由是研《心經咒》，參訪名宿，互為探討，動則與偕。居恒相謂曰：
+<lb ed="B" n="0237b15"/>「安得名師而歸依之。」<date from-iso="+1615-01-29" key="j23109552311338" to-iso="+1616-02-16">明萬歷四十三年乙卯</date><persName key="A043260">古馨</persName>至蘇，應香餘
+<lb ed="B" n="0237b16"/>說戒之請。夜夢二蠭，率小蠭無數，飛投於懷。詰旦見<persName key="A042317">璞</persName>兄弟懷
+<lb ed="B" n="0237b17"/>香求具，適符其兆。<persName key="A043260">古</persName>祖感念，因留意焉！遂同至古林，終日與<ref type="person" target="#A043259">兄</ref>
+<lb ed="B" n="0237b18"/>瞑息對坐，各有會心。<persName key="A043259">理</persName>依<persName key="A043260">古</persName>祖智慧聿啟，德性堅定，命代說《般
+<lb ed="B" n="0237b19"/>若》，頗開覺悟。因以紫衣、法物、著述諸書付<ref type="person" target="#A043259">之</ref>。及<persName key="A043259">理</persName>示疾，以席遜
+<lb ed="B" n="0237b20"/><persName key="A042317">璞</persName>，辭之再四。<persName key="A043259">理</persName>曰：「<persName key="A043261">祁奚</persName>舉<persName key="A043262">午</persName>不避親，<persName key="A003883">趙祖</persName>讓<ref type="person" target="#A001640">弟</ref>不私子。<ref type="person" target="#A043259">我</ref>觀四<pb ed="B" xml:id="B27.0151.0238a" n="0238a"/>
+<lb ed="B" n="0238a01"/>眾，誰可與言？且既出世，志在弘法，更無他望，又何所嫌？<ref type="person" target="#A042317">汝</ref>其勿
+<lb ed="B" n="0238a02"/>辭。」<date from-iso="+1637-01-26" key="j23189882319371" to-iso="+1638-02-13">崇禎十年</date>，召見賜紫。清室初興，入主中夏，定鼎燕京，<persName key="A006714">世祖</persName>萬
+<lb ed="B" n="0238a03"/>機之暇，尋味釋典，雅慕高僧。企<persName key="A042317">璞</persName>道望，詔入京師，參訪要玅。時
+<lb ed="B" n="0238a04"/>契帝心，賜紫還山。際遇兩朝，恩禮有加，人或榮之，<persName key="A042317">璞</persName>獨傷焉！以
+<lb ed="B" n="0238a05"/><date when-iso="+1646-12-18" key="j23226012322601">清順治三年十一月十二日</date>示寂，壽七十有八，臘四十有四，塔
+<lb ed="B" n="0238a06"/>於天隆玉環山後。當<persName key="A043260">古</persName>祖香餘說法之時，年<anchor xml:id="beg_100" type="cb-app"/>已<anchor xml:id="end_100"/>垂暮，而<persName key="A042317">璞</persName>年最
+<lb ed="B" n="0238a07"/>少，嘗語人曰：「<persName key="A002174">孔</persName>門學者，聰明才辯，不為不多；而一貫之傳，乃在
+<lb ed="B" n="0238a08"/>後進<persName key="A004489">曾子</persName>。<ref type="person" target="#A043260">吾</ref>道其在<persName key="A042317">璞</persName>乎！」後接席十年，恪守<ref type="person" target="#A043260">祖</ref>訓，大弘律學。四
+<lb ed="B" n="0238a09"/>方景仰，卒如其言。</p>
+    <linkGrp>
+        <link targets="#0237b12 #0237b12"/>
+        <ptr target="#A042317" type="person"/>
+        <ptr target="#A043259" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0237b15 #0237b17"/>
+        <ptr target="#A042317" type="person"/>
+        <ptr target="#A043259" type="person"/>
+        <ptr target="#A043260" type="person"/>
+        <ptr target="#j23109552311338" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0237b18 #0237b19"/>
+        <ptr target="#A043259" type="person"/>
+        <ptr target="#A043260" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0237b19 #0238a02"/>
+        <ptr target="#A043259" type="person"/>
+        <ptr target="#A042317" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0237b20 #0237b20"/>
+        <ptr target="#A043261" type="person"/>
+        <ptr target="#A043262" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0237b20 #0237b20"/>
+        <ptr target="#A003883" type="person"/>
+        <ptr target="#A001640" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0238a02 #0238a02"/>
+        <ptr target="#A042317" type="person"/>
+        <ptr target="#A006696" type="person"/>
+        <ptr target="#j23189882319371" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0238a02 #0238a04"/>
+        <ptr target="#A042317" type="person"/>
+        <ptr target="#A006714" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0238a07 #0238a08"/>
+        <ptr target="#A002174" type="person"/>
+        <ptr target="#A004489" type="person"/>
+    </linkGrp>
+</div>

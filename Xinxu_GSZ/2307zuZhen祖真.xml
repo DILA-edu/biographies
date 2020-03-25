@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0222a04shiZuZhen">
+<lb ed="B" n="0222a04"/><anchor n="B.27.0151.0222a04"/><head>清雲南水目山寶華寺沙門<persName key="A042272">釋祖真</persName>傳<persName type="secondary" key="A043231">續果</persName></head>
+<lb ed="B" n="0222a05"/><p xml:id="pB27p0222a0501"><persName key="A042272">釋祖真</persName>，字<persName key="A042272">容光</persName>，系出尹氏。其母夢白蓮入口，寤而生。五歲隨母
+<lb ed="B" n="0222a06"/>入圓通寺，見佛像森嚴，問何因而得？母告以：為僧修行可成正
+<lb ed="B" n="0222a07"/>覺。<persName key="A042272">真</persName>即請曰：「<ref type="person" target="#A042272">兒</ref>願作僧成佛。」母甚異<ref type="person" target="#A042272">之</ref>。年十九入水目山落髮，
+<lb ed="B" n="0222a08"/>徧參<persName key="A043227">廣印</persName>禪師、<persName key="A043228">懸岩頭陀</persName>、<persName key="A043229">金山</persName>長老、<persName key="A043230">淮峰</persName>和尚，得其法要，歸居
+<lb ed="B" n="0222a09"/>水目。會歲大旱，<persName key="A042272">真</persName>築九龍臺禱雨，誦咒方始，甘霖立霈，田禾萎
+<lb ed="B" n="0222a10"/>者復起，枯者復榮，民賴以生。<date from-iso="+1846-01-27" key="j23953242395412" to-iso="+1846-04-25">道光丙午春</date>，忽告其徒曰：「<ref type="person" target="#A042272">吾</ref>將歸
+<lb ed="B" n="0222a11"/>矣！」如期坐化，塔於水目。<persName key="A043231">續果</persName>者，鶴慶北山丁氏子。五歲出家，祝
+<lb ed="B" n="0222a12"/>髮興福寺，乘戒俱圓。<date from-iso="+1856-02-06" key="j23989862399340" to-iso="+1857-01-25">咸豐丙辰歲</date>示寂，年已九十三矣！先夕謂
+<lb ed="B" n="0222a13"/>其徒曰：「大難將至，吾寺為賊踞，且為賊毀矣！宜先避之。」寂未踰
+<lb ed="B" n="0222a14"/>月，<persName key="A043232">杜文秀</persName>陷大理、滇西俱郡縣，鶴慶亦為所佔。</p>
+    <linkGrp>
+        <link targets="#0222a08 #0222a08"/>
+        <ptr target="#A042272" type="person"/>
+        <ptr target="#A043227" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0222a08 #0222a08"/>
+        <ptr target="#A042272" type="person"/>
+        <ptr target="#A043228" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0222a08 #0222a08"/>
+        <ptr target="#A042272" type="person"/>
+        <ptr target="#A043229" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0222a08 #0222a08"/>
+        <ptr target="#A042272" type="person"/>
+        <ptr target="#A043230" type="person"/>
+    </linkGrp>
+</div>

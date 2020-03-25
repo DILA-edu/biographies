@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0224a13shiLangMing">
+<lb ed="B" n="0224a13"/><anchor n="B.27.0151.0224a13"/><head>清荊州如來庵沙門<persName key="A007966">釋朗明</persName>傳<persName type="secondary" key="A007968">月明</persName><persName type="secondary" key="A007967">永明</persName><persName type="secondary" key="A007969">玅明</persName></head>
+<lb ed="B" n="0224a14"/><p xml:id="pB27p0224a1401"><persName key="A007966">釋朗明</persName>者，沔陽人。早歲離俗，超然塵表，具戒於歸元寺<persName key="A043243">真一</persName>。既
+<lb ed="B" n="0224a15"/>窮律論，更求奧旨。參金山、天童、甯常，亦歷年所。值粵寇蜂起，竊
+<lb ed="B" n="0224a16"/>據金陵，乃孑身南旋。沔陽有廣長社，舊為叢林，時漸廢弛。<persName key="A007966">朗明</persName>
+<lb ed="B" n="0224a17"/>還里，毅然興之，遊侶復至。後居荊州如來庵，與戒凡輩激揚向
+<lb ed="B" n="0224a18"/>上，勤修罔懈。<date from-iso="+1875-02-06" key="j24059262406279" to-iso="+1876-01-25">光緒初</date>，年踰八十，集眾諷佛，合掌而化。<persName key="A007966">朗</persName>律身甚
+<lb ed="B" n="0224a19"/>嚴，言行不苟，道俗敬憚。<persName key="A007968">月明</persName>、<persName key="A007967">永明</persName>亦倡道於沔，與<persName key="A007966">朗明</persName>同門，又
+<lb ed="B" n="0224a20"/>偕至荊州，宏宣法化。後皆歸寂沔陽。<persName key="A007969">玅明</persName>亦沔陽人，少習舉子<pb ed="B" xml:id="B27.0151.0224b" n="0224b"/>
+<lb ed="B" n="0224b01"/>業，妻以縊死，乃感無常，懺悔求度。受戒於荊州<persName key="A043246">水月林</persName>，亦至金
+<lb ed="B" n="0224b02"/>山，發明心性。以文學贍優，名人達士，多相往還，結社論禪，聲譽
+<lb ed="B" n="0224b03"/>遠播。然不樂見官長，常州觀察三謁三拒，觀察怫然，直斥其名，
+<lb ed="B" n="0224b04"/><persName key="A007969">妙</persName>殊不為意。時人以是高<ref type="person" target="#A007969">之</ref>。晚歲還鄉，居廣長社方丈。復棲荊
+<lb ed="B" n="0224b05"/>州如來庵，更受龍山之請。光緒中與眾言別，安禪而化，藏於龍
+<lb ed="B" n="0224b06"/>山。人稱楚北<persName key="G000006">四明</persName>，與江南<persName key="G000005">四寶</persName>皆禪中之錚錚者。</p>
+    <linkGrp>
+        <link targets="#0224a14 #0224a14"/>
+        <ptr target="#A007966" type="person"/>
+        <ptr target="#A043243" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0224a19 #0224a19"/>
+        <ptr target="#A007966" type="person"/>
+        <ptr target="#A007968" type="person"/>
+        <ptr target="#A007967" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0224b01 #0224b01"/>
+        <ptr target="#A007969" type="person"/>
+        <ptr target="#A043246" type="person"/>
+    </linkGrp>
+</div>

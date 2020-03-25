@@ -320,6 +320,14 @@
 			<lem wit="喻眛庵輯影本">人</lem>
 			<rdg wit="CBETA">人</rdg>
 		</app>
+		<app from="beg_ef">
+			<lem wit="喻眛庵輯影本">跌</lem>
+			<rdg wit="CBETA">趺</rdg>
+		</app>
+		<app from="beg022401">
+			<lem wit="喻眛庵輯影本">母</lem>
+			<rdg wit="CBETA">母</rdg>
+		</app>
 		<app from="beg027201">
 			<lem wit="喻眛庵輯影本">戊</lem>
 			<rdg wit="CBETA">戊</rdg>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0223a05shiBuEr">
+<lb ed="B" n="0223a05"/><anchor n="B.27.0151.0223a05"/><head>清金陵天寧寺沙門<persName key="A043241">釋不二</persName>傳<persName type="secondary" key="A043242">焦山長老</persName></head>
+<lb ed="B" n="0223a06"/><p xml:id="pB27p0223a0601"><persName key="A043241">釋不二</persName>者，不詳所出，或曰鄂渚人，天寧西堂僧也。出家後得戒
+<lb ed="B" n="0223a07"/>於歸元寺，參金山、天寧發明心地，職居班首。提獎後進，不遺餘
+<lb ed="B" n="0223a08"/>力，多所成就。咸豐間年逾七十，獨處靜室，專習禪定，兼究大乘。
+<lb ed="B" n="0223a09"/>一日閱經，見樓上司香，往來頻數，招而問之曰：「碌碌者何為也？」
+<lb ed="B" n="0223a10"/>曰：「今日大寒，略事灑掃，將迎新春。」<persName key="A043241">不二</persName>聞之，若有所思。忽笑謂
+<lb ed="B" n="0223a11"/>之曰：「明年大寒，<ref type="person" target="#A043241">我</ref>將去矣！爾為<ref type="person" target="#A043241">我</ref>記之。」司香應諾，因書其語於
+<lb ed="B" n="0223a12"/>樓上壁間，久亦忘之。踰年，大寒節至，司香者登樓，見壁上字，隱
+<lb ed="B" n="0223a13"/>隱可辨，遂憶前事。逕造西堂，見<persName key="A043241">不二</persName>方檢《華嚴》，曰：「<ref type="person" target="#A043241">師</ref>自看經，今
+<lb ed="B" n="0223a14"/>日大寒節矣！」<persName key="A043241">不二</persName>曰：「幸去歲有約，非爾來，幾忘之。」乃沐浴更衣
+<lb ed="B" n="0223a15"/>曰：「幸為<ref type="person" target="#A043241">我</ref>白眾，<ref type="person" target="#A043241">吾</ref>不待矣！」及眾至，已<anchor xml:id="beg_ef" type="cb-app"/>趺<anchor xml:id="end_ef"/>坐而寂。火化得舍利如
+<lb ed="B" n="0223a16"/>菽。又<persName key="A043242">焦山長老</persName>者，歸元<persName key="A043243">真一</persName>之師也。嘗遊終南，荏苒十載。言旋
+<lb ed="B" n="0223a17"/>江南，道出漢水，偶示微恙，止於夏口。遣召<persName key="A043243">真一</persName>曰：「<ref type="person" target="#A043242">吾</ref>命在旦夕，
+<lb ed="B" n="0223a18"/>末後大事，煩<ref type="person" target="#A043242">汝</ref>結束。」舁至歸元，即從脫化，返葬焦山。</p>
+    <linkGrp>
+        <link targets="#0223a16 #0223a16"/>
+        <ptr target="#A043242" type="person"/>
+        <ptr target="#A043243" type="person"/>
+    </linkGrp>
+</div>

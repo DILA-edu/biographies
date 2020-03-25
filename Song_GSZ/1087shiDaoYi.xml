@@ -15,7 +15,7 @@ ed="T" n="0844a03"/>安</placeName>。<date from-iso="+0766-02-18" key="j2000884
 ed="T" n="0844a04"/>帝</persName><ptr target="#n2693"/>，蒙勅置<placeName key="PL000000005372">金閣寺</placeName><ptr target="#n2694"/>，宣十節度<ptr type="glossary" target="#g1777"/>助緣<ptr target="#n1896"/>。遂召<lb
 ed="T" n="0844a05"/>蓋造都料，一僧名<persName key="A012790">純陀</persName>，為度土木<ptr target="#n2695"/>，造<placeName key="PL000000005372">金閣</placeName><lb
 ed="T" n="0844a06"/>一寺<ptr target="#n2696"/>。<persName key="A012790">陀</persName>元是<placeName key="PL000000048273"><placeName>西域</placeName><placeName>那爛陀寺</placeName><placeName>喜鵲院</placeName></placeName>僧。<ref type="place" target="#PL000000005372">寺</ref>成<lb
-ed="T" n="0844a07"/>後，勅賜<persName key="A000095">不空<roleName>三藏</roleName></persName>焉。<persName key="A010378">義</persName>不測其終。</p>
+ed="T" n="0844a07"/>後，勅賜<persName key="A000095">不空</persName>「三藏」焉<ptr target="#n3543"/>。<persName key="A010378">義</persName>不測其終。</p>
     <linkGrp>
         <link targets="#0843c22 #0843c22"/>
         <ptr target="#A010378" type="person"/>

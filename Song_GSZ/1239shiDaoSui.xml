@@ -1,53 +1,54 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="雜科聲德" xml:id="gsz0891a07shiDaoSui">
-<lb ed="T" n="0891a07"/><anchor n="T.50.2061.0891a07"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>天台山國清寺<persName key="A001563">道邃</persName>傳</head><p>
-<lb ed="T" n="0891a08"/><persName key="A001563">釋道邃</persName>，不知何許人也。幽識遠晤，執志有
-<lb ed="T" n="0891a09"/>恒，懸解<ptr rend="display:none;" type="glossary" target="#g1343"/>真宗，不由邪術。末傳隋<persName key="A001301">智者</persName>教
-<lb ed="T" n="0891a10"/>道，素得玄微<ptr type="glossary" target="#g773"/>，<persName key="A001307">荊溪</persName>之門，<anchor xml:id="beg0891sgsz2"/><choice resp="PC-JK-MB"><sic>沓</sic><corr>杳</corr></choice><anchor xml:id="end0891sgsz2"/>難窺望。<date key="j20011912005747" notAfter-iso="+0779-06-13" notBefore-iso="+0766-12-22"><name>大曆</name>中</date>
-<lb ed="T" n="0891a11"/><persName key="A001307">湛然師</persName>委付《止觀輔行記》，得以敷揚，若神
+<lb ed="T" n="0891a07"/><anchor n="T.50.2061.0891a07"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000014664">天台山國清寺</placeName><persName key="A001563">道邃</persName>傳</head><p>
+<lb ed="T" n="0891a08"/><persName key="A001563">釋道邃</persName>，不知何許人也<ptr target="#n3544"/>。幽識遠晤，執志有
+<lb ed="T" n="0891a09"/>恒，懸解<ptr rend="display:none;" type="glossary" target="#g1343"/>真宗，不由邪術。末傳<date from-iso="+0581-03-06" key="j19333311946884" to-iso="+0618-04-15"><name>隋</name></date><persName key="A001301">智者</persName>教
+<lb ed="T" n="0891a10"/>道，素得玄微<ptr type="glossary" target="#g773"/>。<persName key="A001307">荊溪</persName>之門，<anchor xml:id="beg0891sgsz2"/><choice resp="PC-JK-MB"><sic>沓</sic><corr>杳</corr></choice><anchor xml:id="end0891sgsz2"/>難窺望。<date key="j20011912005993" notAfter-iso="+0780-02-14" notBefore-iso="+0766-12-22"><name>大曆</name>中</date><ptr target="#n3546"/>
+<lb ed="T" n="0891a11"/><persName key="A001307">湛然<roleName>師</roleName></persName>委付《止觀輔行記》<ptr target="#n3302"/>，得以敷揚，若神
 <lb ed="T" n="0891a12"/>驥之可以致遠也。于時同門<persName key="A009613">元浩</persName>逈知畏服，
-<lb ed="T" n="0891a13"/>不能爭長矣。<date key="j20151182015139" notAfter-iso="+0805-02-28" notBefore-iso="+0805-02-07"><name>貞元</name>二十一年</date>，<placeName key="PL000000048414">日本國</placeName>沙門
-<lb ed="T" n="0891a14"/><persName key="A001177">最澄</persName>者，亦<placeName key="PL000000055413">東夷</placeName>卉服中，剛決明敏僧也。泛溟
-<lb ed="T" n="0891a15"/>涬，達<placeName key="PL000000000197">江東</placeName>，慕<placeName key="PL000000014411">天台</placeName>之法門，求<persName key="A001301">顗師</persName>之禪決。
-<lb ed="T" n="0891a16"/>屬<persName key="A001563">邃</persName>講訓，委曲指教，<persName key="A001177">澄</persName>得旨矣。乃盡繕寫
-<lb ed="T" n="0891a17"/>一行教法東歸。慮其或問從何而聞，得誰
+<lb ed="T" n="0891a13"/>不能爭長矣<ptr target="#n3545"/>。<date from-iso="+0805-02-07" key="j20151182015472" to-iso="+0806-01-27"><name>貞元</name>二十一年</date>，<placeName key="PL000000048414">日本國</placeName>沙門
+<lb ed="T" n="0891a14"/><persName key="A001177">最澄</persName>者，亦東夷卉服<ptr type="glossary" target="#g2022"/>中，剛決明敏僧也。泛溟
+<lb ed="T" n="0891a15"/>涬<ptr type="glossary" target="#g2362"/>，達<placeName key="PL000000000197">江東</placeName>，慕<placeName key="PL000000014411">天台</placeName>之法門，求<persName key="A001301">顗<roleName>師</roleName></persName>之禪決。
+<lb ed="T" n="0891a16"/>屬<persName key="A001563">邃</persName>講訓，委曲指教，<persName key="A001177">澄</persName>得旨矣<ptr target="#n3552"/>。乃盡繕寫
+<lb ed="T" n="0891a17"/>一行教法東歸<ptr target="#n3551"/>。慮其或問從何而聞，得誰
 <lb ed="T" n="0891a18"/>所印？俾防疑誤，乃造邦伯作援證焉。時
-<lb ed="T" n="0891a19"/><placeName key="PL000000014901">台州</placeName>刺史<persName key="A013862">陸淳</persName>判云：「<persName key="A001177">最澄</persName>闍梨，形雖異域，性
-<lb ed="T" n="0891a20"/>實同源，特稟生知，觸類玄解。遠傳<placeName key="PL000000014411">天台</placeName>教
-<lb ed="T" n="0891a21"/>旨，又遇龍象<persName key="A001563">邃公</persName>，總萬行於一心，了殊塗
+<lb ed="T" n="0891a19"/><placeName key="PL000000014901">台州</placeName>刺史<persName key="A013862">陸淳</persName>判云<ptr target="#n3547"/>：「<persName key="A001177">最澄</persName>闍梨，形雖異域，性
+<lb ed="T" n="0891a20"/>實同源，特稟生知，觸類玄解<ptr target="#n3548"/>。遠傳<placeName key="PL000000014411">天台</placeName>教
+<lb ed="T" n="0891a21"/>旨<ptr target="#n3549"/>，又遇龍象<persName key="A001563">邃<roleName>公</roleName></persName>，總萬行於一心，了殊塗
 <lb ed="T" n="0891a22"/>於三觀，親承祕密，理絕名言。猶慮他方學
-<lb ed="T" n="0891a23"/>徒未能信受，所請印記，安可不任為憑
-<lb ed="T" n="0891a24"/>云。」<persName key="A001177">澄</persName>泛海到國，齎教法指一山為<placeName key="PL000000014411">天台</placeName>，
-<lb ed="T" n="0891a25"/>號一寺為<placeName key="PL000000014664">國清</placeName>，風行電照，斯教大行。倭僧
-<lb ed="T" n="0891a26"/>遙尊<persName key="A001563">邃</persName>為祖師。後終于<placeName key="PL000000014664">住寺</placeName>焉。</p>
+<lb ed="T" n="0891a23"/>徒未能信受，所請印記<ptr target="#n3550"/>，安可不任為憑
+<lb ed="T" n="0891a24"/>云。」<persName key="A001177">澄</persName>泛海到國，齎教法指一山為<placeName key="PL000000057106">天台</placeName>，
+<lb ed="T" n="0891a25"/>號一寺為<placeName key="PL000000059874">國清</placeName>，風行電照，斯教大行。倭僧
+<lb ed="T" n="0891a26"/>遙尊<persName key="A001563">邃</persName>為祖師。後終于<ref type="place" target="#PL000000014664">住寺</ref>焉。</p>
     <linkGrp>
-        <link targets="#0891a10 #0891a11"/>
+        <link targets="#0891a10 #0891a13"/>
         <ptr target="#A001563" type="person"/>
         <ptr target="#A001307" type="person"/>
-        <ptr target="#j20011912005747" type="time"/>
+        <ptr target="#A009613" type="person"/>
+        <ptr target="#j20011912005993" type="time"/>
     </linkGrp>
     <linkGrp>
-        <link targets="#0891a12 #0891a13"/>
-        <ptr target="#A001563" type="person"/>
-        <ptr target="#A009613" type="person"/>
+        <link targets="#0891a13 #0891a13"/>
+        <ptr target="#A001177" type="person"/>
+        <ptr target="#PL000000048414" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0891a13 #0891a16"/>
         <ptr target="#A001563" type="person"/>
         <ptr target="#A001177" type="person"/>
         <ptr target="#PL000000014411" type="place"/>
-        <ptr target="#j20151182015139" type="time"/>
+        <ptr target="#j20151182015472" type="time"/>
     </linkGrp>
     <linkGrp>
-        <link targets="#0891a13 #0891a18"/>
-        <ptr target="#A001177" type="person"/>
-        <ptr target="#PL000000048414" type="place"/>
-    </linkGrp>
-    <linkGrp>
-        <link targets="#0891a13 #0891a23"/>
+        <link targets="#0891a19 #0891a23"/>
         <ptr target="#A013862" type="person"/>
         <ptr target="#A001177" type="person"/>
         <ptr target="#PL000000014901" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0891a24 #0891a25"/>
+        <ptr target="#A001177" type="person"/>
+        <ptr target="#PL000000059874" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0891a26 #0891a26"/>

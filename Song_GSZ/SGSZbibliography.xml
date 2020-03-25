@@ -1399,6 +1399,12 @@
                     <edition>收於民國佛教期刊《民國佛教期刊文獻集成．卷167》p.251-270；大乘出版社出版，現代佛教學術叢刊第65冊頁257-308</edition>
                     <abbr>小野玄妙 1927</abbr>
                 </bibl>
+                <bibl ana="book">
+                  <author><hi>Nakano</hi>, Tatsue 中野達慧 (Ed.)</author>
+                    <title>日本大藏經</title>
+                    <edition>日本，日本大藏經編纂會<date>1914-1921</date></edition>
+                    <abbr>日藏</abbr>
+                </bibl>
             </listBibl>
         </body>
     </text>
