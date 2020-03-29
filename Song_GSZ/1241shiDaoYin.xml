@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="雜科聲德" xml:id="gsz0891b06shiDaoYin">
-<lb ed="T" n="0891b06"/><anchor n="T.50.2061.0891b06"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>寧州南山二聖院<persName key="A013867">道隱</persName>傳</head><p>
-<lb ed="T" n="0891b07"/><persName key="A013867">釋道隱</persName>，姓王氏，<placeName key="PL000000045839">彭原</placeName>人也。風宇高峙，情性宏
-<lb ed="T" n="0891b08"/>淡。少脫塵勞，誓從沖漠。既循師範，因願遊
-<lb ed="T" n="0891b09"/>方，得<persName key="A005612">荷澤師</persName>頓明心要。迨旋鄉<anchor xml:id="beg0891sgsz3"/>土<anchor xml:id="end0891sgsz3"/>，道聲洋
-<lb ed="T" n="0891b10"/>洋，慕其法者，若登<placeName key="PL000000043552">華陰</placeName>之市也。匪召員
-<lb ed="T" n="0891b11"/>臻，檀施<ptr type="glossary" target="#g237"/>豐洽，欝成精舍焉。以<date key="j20053142005343" notAfter-iso="+0778-05-05" notBefore-iso="+0778-04-06"><name>大曆</name>十三年
-<lb ed="T" n="0891b12"/>三月</date>晦囑累四部從，於中夜趺坐而終，春
+<lb ed="T" n="0891b06"/><anchor n="T.50.2061.0891b06"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000049313">寧州南山二聖院</placeName><persName key="A013867">道隱</persName>傳</head><p>
+<lb ed="T" n="0891b07"/><persName key="A013867">釋道隱</persName>，姓<name>王</name>氏，<placeName key="PL000000045839">彭原</placeName>人也。風宇高峙，情性宏
+<lb ed="T" n="0891b08"/>淡。少脫塵勞，誓從沖漠<ptr type="glossary" target="#g2363"/>。既循師範，因願遊
+<lb ed="T" n="0891b09"/>方，得<persName key="A005612">荷澤<roleName>師</roleName></persName>頓明心要。迨旋鄉<anchor xml:id="beg0891sgsz3"/>土<anchor xml:id="end0891sgsz3"/>，道聲洋
+<lb ed="T" n="0891b10"/>洋，慕其法者，若登<placeName key="PL000000043555">華陰</placeName>之市也<ptr target="#n3554"/>。匪召員
+<lb ed="T" n="0891b11"/>臻，檀施<ptr type="glossary" target="#g237"/>豐洽，欝成精舍焉。以<date when-iso="+0778-05-05" key="j20053432005343"><name>大曆</name>十三年
+<lb ed="T" n="0891b12"/>三月晦</date>囑累四部<ptr type="glossary" target="#g98"/>從，於中夜趺坐而終，春
 <lb ed="T" n="0891b13"/>秋七十二，法臘三十五。弟子<persName key="A013868">辯真</persName>建塔緘藏
-<lb ed="T" n="0891b14"/>焉。今師、資二座全身不朽矣。議者以為得道
-<lb ed="T" n="0891b15"/>真正，其器亦然，譬猶鍊丹之鼎，藥成鼎亦化
-<lb ed="T" n="0891b16"/>金矣。在華嚴有諸菩薩成就如虛空忍，
-<lb ed="T" n="0891b17"/>得無來身，以無去故。得不生身，以不滅
-<lb ed="T" n="0891b18"/>故。得不聚身，以無散壞故。其<persName key="A013867">隱師</persName>之謂
+<lb ed="T" n="0891b14"/>焉。今<ref type="person" target="#A013867">師</ref>、<ref type="person" target="#A013868">資</ref>二座全身不朽矣。議者以為得道
+<lb ed="T" n="0891b15"/>真正<ptr target="#n3555"/>，其器<ptr type="glossary" target="#g2045"/>亦然，譬猶鍊丹之鼎，藥成鼎亦化
+<lb ed="T" n="0891b16"/>金矣。在《華嚴》有：「諸菩薩成就如虛空忍<ptr type="glossary" target="#g2364"/>，
+<lb ed="T" n="0891b17"/>得無來身，以無去故；得不生身，以不滅
+<lb ed="T" n="0891b18"/>故；得不聚身，以無散壞故<ptr target="#n3556"/>。」其<persName key="A013867">隱<roleName>師</roleName></persName>之謂
 <lb ed="T" n="0891b19"/>歟！</p>
     <linkGrp>
-        <link targets="#0891b07 #0891b08"/>
+        <link targets="#0891b07 #0891b07"/>
         <ptr target="#A013867" type="person"/>
         <ptr target="#PL000000045839" type="place"/>
     </linkGrp>
@@ -25,8 +25,10 @@
         <ptr target="#A005612" type="person"/>
     </linkGrp>
     <linkGrp>
-        <link targets="#0891b13 #0891b13"/>
+        <link targets="#0891b11 #0891b14"/>
         <ptr target="#A013867" type="person"/>
         <ptr target="#A013868" type="person"/>
+        <ptr target="#PL000000049313" type="place"/>
+        <ptr target="#j20053432005343" type="time"/>
     </linkGrp>
 </div>

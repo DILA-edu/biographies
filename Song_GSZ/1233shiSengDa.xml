@@ -2,7 +2,7 @@
 <div xmlns="http://www.tei-c.org/ns/1.0" type="雜科聲德" xml:id="gsz0889b22shiSengDa">
 <lb ed="T" n="0889b22"/><anchor n="T.50.2061.0889b22"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000013294">越州妙喜寺</placeName><persName key="A013839">僧達</persName>傳</head><p>
 <lb ed="T" n="0889b23"/><persName key="A013839">釋僧達</persName>，姓<name>王</name>氏，<placeName key="PL000000013240">會稽</placeName>人也。稚齒英奇，不參
-<lb ed="T" n="0889b24"/>戲弄，於<placeName key="PL000000013294">龜山 妙喜道場</placeName>出俗——<ref type="place" target="#PL000000013294">其寺</ref><date notBefore-iso="+0502-05-02" key="j19045331909604" notAfter-iso="+0516-03-20"><placeName key="PL000000000138">南梁</placeName>初</date>
+<lb ed="T" n="0889b24"/>戲弄，於<placeName key="PL000000013294"><placeName>龜山</placeName><placeName>妙喜道場</placeName></placeName>出俗——<ref type="place" target="#PL000000013294">其寺</ref><date notBefore-iso="+0502-05-02" key="j19045331909604" notAfter-iso="+0516-03-20"><placeName key="PL000000000138">南梁</placeName>初</date>
 <lb ed="T" n="0889b25"/>建。後樂遊方，見<placeName key="PL000000028124">黃梅</placeName><persName key="A000237">忍<roleName>禪師</roleName></persName>，若枯苗得雨，
 <lb ed="T" n="0889b26"/>隨順修禪，罔有休懈。遇<persName key="A009251">印宗<roleName>禪師</roleName></persName><!-- 《新修科分六學僧傳》卷5：「曹溪見印宗禪師」(CBETA, X77, no. 1522, p. 104, c23) -->，重磨心
 <lb ed="T" n="0889b27"/>鑑。<placeName key="PL000000025908">光州</placeName>見<persName key="A008876">道岸<roleName>律師</roleName></persName>，更勵律儀。四眾<ptr type="glossary" target="#g98"/>依歸，
