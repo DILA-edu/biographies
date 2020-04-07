@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0242b04shiZhenXian">
+<lb ed="B" n="0242b04"/><anchor n="B.27.0151.0242b04"/><head>清淮安聞思寺沙門<persName key="A042323">釋真賢</persName>傳</head>
+<lb ed="B" n="0242b05"/><p xml:id="pB27p0242b0501"><persName key="A042323">釋真賢</persName>，字<persName key="A042323">獨愚</persName>，泗州人，寶華<persName key="A001972">見月</persName>弟子也。賦性簡約，敦崇實行，
+<lb ed="B" n="0242b06"/>外內典籍，靡不博覽。尤精於教觀，深得《楞嚴》之旨。自稟具千華，
+<lb ed="B" n="0242b07"/>究心三學，凡所傳集，貫澈精微。故分座演法，稱為律匠。有行僧
+<lb ed="B" n="0242b08"/><persName key="A043283">藍盂</persName>者，建齋僧館於楚州古枚里。謀之漕督<persName key="A043285">帥</persName>中丞，擴張舊址，
+<lb ed="B" n="0242b09"/>聿宏戒法，請<persName key="A042323">賢</persName>住持。<persName key="A043285">帥</persName>公欣然允許，改僧齋為大悲院，仍施饍
+<lb ed="B" n="0242b10"/>僧田地，豁免差役。<persName key="A042323">賢</persName>既戾止，初闡教乘，遂建戒幢。大淮南北，律
+<lb ed="B" n="0242b11"/>學昌明，自<persName key="A042323">賢</persName>始也。然經營伊始，不過數楹，饑饉之餘，艱窘莫支。
+<lb ed="B" n="0242b12"/><persName key="A042323">賢</persName>殫心造築，精誠感發，檀護頻來施捨，相繼卒立叢林，殿堂廊
+<lb ed="B" n="0242b13"/>廡，罔不完備。又念止作二持，末法津梁，律門向導，必入大<anchor xml:id="beg024203"/><choice><sic resp="CBETA">歲</sic><corr resp="PC-MB">藏</corr></choice><anchor xml:id="end024203"/><!-- 《律宗燈譜》卷3：「必入大藏」(CBETA, B22, no. 118, p. 743, b7) -->，庶
+<lb ed="B" n="0242b14"/>不負著述苦心。並晰鏡磚疑議<!-- 南嶽鏡磚 -->，因發憤往京師留居，待時將達
+<lb ed="B" n="0242b15"/>所志，而積勞成病。終不服藥，謂幻化空體，聚散不常，何勞人事？
+<lb ed="B" n="0242b16"/>唯棲心淨土，超然善化。弟子<persName key="A043284">徧知正</persName>奉靈骨歸，世壽、僧臘，殊無
+<lb ed="B" n="0242b17"/>可攷。</p>
+    <linkGrp>
+        <link targets="#0242b05 #0242b05"/>
+        <ptr target="#A042323" type="person"/>
+        <ptr target="#A001972" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0242b07 #0242b09"/>
+        <ptr target="#A042323" type="person"/>
+        <ptr target="#A043283" type="person"/>
+        <ptr target="#A043285" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0242b16 #0242b16"/>
+        <ptr target="#A042323" type="person"/>
+        <ptr target="#A043284" type="person"/>
+    </linkGrp>
+</div>

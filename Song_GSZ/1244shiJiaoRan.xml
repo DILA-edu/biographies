@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="雜科聲德" xml:id="gsz0891c22shiJiaoRan">
-<lb ed="T" n="0891c22"/><anchor n="T.50.2061.0891c22"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><anchor xml:id="beg0891003"/>湖州<anchor xml:id="end0891003"/>杼山<persName key="A008833">皎然</persName>傳（<persName key="A013883">福琳</persName>）</head><p>
+<lb ed="T" n="0891c22"/><anchor n="T.50.2061.0891c22"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000012967"><anchor xml:id="beg0891003"/>湖州<anchor xml:id="end0891003"/>杼山</placeName><persName key="A008833">皎然</persName>傳（<persName key="A013883">福琳</persName>）</head><p>
 <lb ed="T" n="0891c23"/><persName key="A008833">釋皎然</persName>，<anchor xml:id="beg0891004"/><choice resp="PC-JK-MB"><sic>名</sic><corr>字</corr></choice><anchor xml:id="end0891004"/><persName key="A008833">晝</persName><ptr target="#n251"/>，姓<name>謝</name>氏，<placeName key="PL000000013106">長城</placeName>人，<persName key="A001869">康樂侯</persName>十世
 <lb ed="T" n="0891c24"/>孫也。幼負異才，性與道合，初脫羈絆，漸加
-<lb ed="T" n="0891c25"/>削染。登戒于<placeName key="PL000000011596">靈隱</placeName>戒壇<persName key="A010894">守直律師</persName>邊，聽毘尼
+<lb ed="T" n="0891c25"/>削染。登戒于<placeName key="PL000000011596">靈隱</placeName>戒壇<persName key="A010894">守直<roleName>律師</roleName></persName>邊，聽毘尼<ptr type="glossary" target="#g900"/>
 <lb ed="T" n="0891c26"/>道，特所留心。於篇什中，吟詠情性，所謂造
 <lb ed="T" n="0891c27"/>其微矣。文章俊麗，當時號為釋門偉器哉。
 <lb ed="T" n="0891c28"/>後博訪名山，法席罕不登聽者。然其兼攻

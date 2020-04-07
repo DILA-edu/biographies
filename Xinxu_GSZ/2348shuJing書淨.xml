@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0242b18shiShuJing">
+<lb ed="B" n="0242b18"/><anchor n="B.27.0151.0242b18"/><head>清姑蘇真諦寺沙門<persName key="A042324">釋書淨</persName>傳</head>
+<lb ed="B" n="0242b19"/><p xml:id="pB27p0242b1901"><persName key="A042324">釋書淨</persName>，字<persName key="A042324">碧天</persName>，姓陸氏，江陰人也。生有異質，藐焉始孩，便厭羶
+<lb ed="B" n="0242b20"/>腥，近之則啼。稍長能誦佛號，見僧輒拜，不待教使。<ref type="date" target="#j23266652327019">十三</ref>喪父，矢<pb ed="B" xml:id="B27.0151.0243a" n="0243a"/>
+<lb ed="B" n="0243a01"/>願出塵，禮<persName key="A043286">藥雨</persName>為師。沉靜好學，詣<persName key="A001972">見月</persName>受具，隨侍巾拂，服勤有
+<lb ed="B" n="0243a02"/>年。精研律藏，兼究經論，造詣日深，遂付信衣，陟居要職。吳門<persName key="A043287">程
+<lb ed="B" n="0243a03"/>勉卿</persName>者，善士也，病垂死，<g ref="#CB03231">㝱</g>華山僧，飲之藥而愈。因偕其友<persName key="A012519">陸德
+<lb ed="B" n="0243a04"/>敷</persName>入山訪之。遇<persName key="A042324">淨</persName>視之，儼然<g ref="#CB03231">㝱</g>中僧也。請於<persName key="A001972">見月</persName>，分化吳下。以
+<lb ed="B" n="0243a05"/>年少辭，後堅請之，始至居城西之積善庵<!-- 《律宗燈譜》卷3：「公以師年少遣首座葉庵應之居城西之積善庵尋去」(CBETA, B22, no. 118, p. 742, a3-4) -->。時敗壁頹垣，韲粥不
+<lb ed="B" n="0243a06"/>繼，<persName key="A042324">淨</persName>處之恬如，曾不芥帶。唯精持律儀，嚴攝一眾，羯磨布薩，規
+<lb ed="B" n="0243a07"/>條肅然，人知信仰，檀護寖多。由是經之營之，剏造戒壇、殿閣、廓
+<lb ed="B" n="0243a08"/>廡，數年之間，遂成巨剎。<persName key="A042324">淨</persName>廣顙深目，大頤方口，目光炯炯，音如
+<lb ed="B" n="0243a09"/>弘鐘，望之有威；而性情和易，處事必誠，接物以慈；新徒稟戒，知
+<lb ed="B" n="0243a10"/>愚同誨。雖累千指，肅然一室，威儀有則，不敢苟簡。學子一涉其
+<lb ed="B" n="0243a11"/>庭，依依不忍去，其感人之深如此。大清之初，佛法昌明，<persName key="A006719">聖祖</persName>御
+<lb ed="B" n="0243a12"/>極，頗重名僧，嘉<persName key="A042324">淨</persName>清德，頒賜御書金經，建閣藏焉！<date from-iso="+1703-02-16" key="j23431142343467" to-iso="+1704-02-04">康熙四十二
+<lb ed="B" n="0243a13"/>年</date>大駕南巡，面承褒語。復賜《心經》三冊，御書「衍真諦」三字錫之。
+<lb ed="B" n="0243a14"/>因改寺名，額以真諦，用昭異數。以<date from-iso="+1705-10-18" key="j23440892344117" to-iso="+1705-11-15">康熙四十四年乙酉秋九月</date>
+<lb ed="B" n="0243a15"/>示疾，書偈別眾，瞑然坐化。壽六十，臘四十有二。弟子<persName key="A043288">湛中</persName>奉塔
+<lb ed="B" n="0243a16"/>供焉！</p>
+    <linkGrp>
+        <link targets="#0242b20 #0243a01"/>
+        <ptr target="#A042324" type="person"/>
+        <ptr target="#A043286" type="person"/>
+        <ptr target="#j23266652327019" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0243a01 #0243a01"/>
+        <ptr target="#A042324" type="person"/>
+        <ptr target="#A001972" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0243a02 #0243a05"/>
+        <ptr target="#A042324" type="person"/>
+        <ptr target="#A001972" type="person"/>
+        <ptr target="#A043287" type="person"/>
+        <ptr target="#A012519" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0243a11 #0243a12"/>
+        <ptr target="#A042324" type="person"/>
+        <ptr target="#A006719" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0243a15 #0243a16"/>
+        <ptr target="#A042324" type="person"/>
+        <ptr target="#A043288" type="person"/>
+    </linkGrp>
+</div>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0244b10shiTongMing">
+<lb ed="B" n="0244b10"/><anchor n="B.27.0151.0244b10"/><head>清金陵慈應院沙門<persName key="A042328">釋通明</persName>傳</head>
+<lb ed="B" n="0244b11"/><p xml:id="pB27p0244b1101"><persName key="A042328">釋通明</persName>，字<persName key="A042328">眼聞</persName>，姓李氏，滁州人也。生有異性，方在襁褓，偶哺肉
+<lb ed="B" n="0244b12"/>羹，即便吐棄；更以蔬食，接受如常，家人怪之。年甫弱冠，泊然自
+<lb ed="B" n="0244b13"/>處，有志離塵。<date from-iso="+1680-01-31" key="j23346982335081" to-iso="+1681-02-17">康熙庚申</date>，從牛首山宏覺寺<persName key="A043295">以忠</persName>祝落。湛心內典，
+<lb ed="B" n="0244b14"/>力求徹悟。遂登華山，稟戒於<persName key="A001679">定庵</persName>。彌復精勤，始受律義；隨乞便
+<lb ed="B" n="0244b15"/>講，辨析文理，折衷指歸，懃懃苦學，多歷年所。一日讀《雲棲法彙》
+<lb ed="B" n="0244b16"/>至「凡心未盡，聖果未圓<!-- J33nB277_p0163c25 -->」處，即痛念生死，更自磨礪，行般舟行，三
+<lb ed="B" n="0244b17"/>易寒暑，其志不墜。<persName key="A001679">定庵</persName>嘉其誠懇，閎斯願力，命主慈應法席。<persName key="A042328">明</persName>
+<lb ed="B" n="0244b18"/>稟祜居醕<!-- 稟祜，承襲福份；居醇，稟性純一。 -->，含章<!-- 含章，包含美質。 -->縱哲，篋虵能翦，心猿久制。譬圓珠之朗潔，若春
+<lb ed="B" n="0244b19"/>雲之靄和；是以風徽遠鬯，緇素歸心，愛畏兼深，尊為律虎。寂於
+<lb ed="B" n="0244b20"/><date from-iso="+1720-02-08" key="j23493152349669" to-iso="+1721-01-27">康熙五十九年</date>，壽六十，臘三十有九，塔於慈應山前。</p>
+    <linkGrp>
+        <link targets="#0244b13 #0244b13"/>
+        <ptr target="#A042328" type="person"/>
+        <ptr target="#A043295" type="person"/>
+        <ptr target="#j23346982335081" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0244b14 #0244b14"/>
+        <ptr target="#A042328" type="person"/>
+        <ptr target="#A001679" type="person"/>
+    </linkGrp>
+</div>

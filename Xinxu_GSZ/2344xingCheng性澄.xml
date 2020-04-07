@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0241a12shiXingCheng">
+<lb ed="B" n="0241a12"/><anchor n="B.27.0151.0241a12"/><head>清宿遷極樂庵沙門<persName key="A016413">釋性澄</persName>傳</head>
+<lb ed="B" n="0241a13"/><p xml:id="pB27p0241a1301"><persName key="A016413">釋性澄</persName>，字<persName key="A016413">湛一</persName>，姓胡氏，裳邑人也。幼事章句，頗厭緐<!-- 同「繁」 -->文，抗志高
+<lb ed="B" n="0241a14"/>邁，願從淨息。年近弱冠，就本邑普照寺<persName key="A043275">了塵</persName>落髮，挾錫南遊，參
+<lb ed="B" n="0241a15"/>學淮安，受具戒於<persName key="A015968">嵩乳</persName>。復從<persName key="A043276">正觀</persName>法主，習賢首教。棲止袁浦慈
+<lb ed="B" n="0241a16"/>雲庵中，澹茹數年，刺血書《華嚴》《報恩經》。嗣參<persName key="A001153">玉林</persName>諸耆宿，最後
+<lb ed="B" n="0241a17"/>登千華覲<persName key="A001972">見月</persName>，精習戒律。忽焉三載，止作二持，服膺罔懈。<date from-iso="+1654-02-17" key="j23252192325572" to-iso="+1655-02-05">甲午</date>
+<lb ed="B" n="0241a18"/>受宿遷<persName key="A043277">智恒</persName>請，主極樂院事。以法度人，歷歲傳牃，遠侶雲集，道
+<lb ed="B" n="0241a19"/>流景附，檀施日富。鳩工庀材，從事修建，大淮以北，千里之內，極
+<lb ed="B" n="0241a20"/>樂遂為一大叢林。<date from-iso="+1661-01-30" key="j23277582328141" to-iso="+1662-02-17">辛丑歲</date>淮陰紳耆，敦求宏法，<persName key="A016413">澄</persName>至重興圓明<pb ed="B" xml:id="B27.0151.0241b" n="0241b"/>
+<lb ed="B" n="0241b01"/>古寺，勝會無遮。復徇邳、徐、兩淮名剎，請修大悲懺法。每感瑞異，
+<lb ed="B" n="0241b02"/>深息恬退還山。後雖年衰，猶精進不輟，行般舟三昧，不坐不臥，
+<lb ed="B" n="0241b03"/>三月而息。又念四方行腳，去極樂北，無息肩處，乃於峒峿五花
+<lb ed="B" n="0241b04"/>頂建全潮庵。山下道旁，並設茶座，以利來者。<date from-iso="+1684-02-15" key="j23361742336527" to-iso="+1685-02-02">康熙甲子</date>得腹疾，
+<lb ed="B" n="0241b05"/>至<date when-iso="+1684-12-06" key="j23364692336469">十一月朔日</date>，呼湯沐浴更衣，命侍者集眾曰：「<ref type="person" target="#A016413">吾</ref>今日當與眾
+<lb ed="B" n="0241b06"/>別。」端坐號佛，悠然而逝。春秋六十九，坐夏三十二，塔於全潮庵
+<lb ed="B" n="0241b07"/>院。所著《大悲淨土懺法瑜伽燄口作觀節次儀文》若干卷。先後
+<lb ed="B" n="0241b08"/>演戒三十餘壇，感應奇異，恐涉驚疑，不復筆之簡冊云。</p>
+    <linkGrp>
+        <link targets="#0241a13 #0241a14"/>
+        <ptr target="#A016413" type="person"/>
+        <ptr target="#A043275" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0241a15 #0241a15"/>
+        <ptr target="#A016413" type="person"/>
+        <ptr target="#A015968" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0241a15 #0241a15"/>
+        <ptr target="#A016413" type="person"/>
+        <ptr target="#A043276" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0241a16 #0241a16"/>
+        <ptr target="#A016413" type="person"/>
+        <ptr target="#A001153" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0241a17 #0241a17"/>
+        <ptr target="#A016413" type="person"/>
+        <ptr target="#A001972" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0241a17 #0241a18"/>
+        <ptr target="#A016413" type="person"/>
+        <ptr target="#A043277" type="person"/>
+        <ptr target="#j23252192325572" type="time"/>
+    </linkGrp>
+</div>

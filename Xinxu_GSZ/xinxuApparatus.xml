@@ -332,6 +332,18 @@
 			<lem wit="喻眛庵輯影本">禱</lem>
 			<rdg wit="CBETA">儔</rdg>
 		</app>
+		<app from="beg024201">
+			<lem wit="喻眛庵輯影本">乂</lem>
+			<rdg wit="CBETA">又</rdg>
+		</app>
+		<app from="beg024203">
+			<lem wit="喻眛庵輯影本">歲</lem>
+			<rdg wit="CBETA">歲</rdg>
+		</app>
+		<app from="beg024301">
+			<lem wit="喻眛庵輯影本">傳</lem>
+			<rdg wit="CBETA">傳</rdg>
+		</app>
 		<app from="beg027201">
 			<lem wit="喻眛庵輯影本">戊</lem>
 			<rdg wit="CBETA">戊</rdg>

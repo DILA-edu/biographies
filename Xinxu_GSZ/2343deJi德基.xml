@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0240b10shiDeJi">
+<lb ed="B" n="0240b10"/><anchor n="B.27.0151.0240b10"/><head>清江寧寶華山隆昌寺沙門<persName key="A001679">釋德基</persName>傳</head>
+<lb ed="B" n="0240b11"/><p xml:id="pB27p0240b1101"><persName key="A001679">釋德基</persName>，字<persName key="A001679">定庵</persName>，姓林氏，休寧人也。父<persName key="A043272">之泰</persName>，母<persName key="A043273">姜氏</persName>，誕生之辰，瑞
+<lb ed="B" n="0240b12"/>雯滿室，吉祥止止。稍長，性見慈善，雅信佛旨，芳潔自喜，不近酒
+<lb ed="B" n="0240b13"/>肉，讀書穎悟，數過不忘。嘗聞老衲讀《金剛經》至「如露如電<!-- T08n0235_p0752b29 -->」，頓發
+<lb ed="B" n="0240b14"/>出世之心。以親老弟幼，不忍遽違，力事生理，承歡菽水。及<ref type="person" target="#A043272">父</ref>沒
+<lb ed="B" n="0240b15"/>弟長，能委家計，乃拜辭<ref type="person" target="#A043273">慈幃</ref>，徑下姑蘇，訪吳中有道知識。得寶
+<lb ed="B" n="0240b16"/>林寺<persName key="A043274">竹懷</persName>，往求鬀度，給侍左右。將及一期，聞金陵華山<persName key="A001972">見月</persName>演
+<lb ed="B" n="0240b17"/>戒，因緣啟白，得受具足。然陸沈下版，未露圭角，專志研精，諸大
+<lb ed="B" n="0240b18"/>律部，俱臻玄奧。凡十五年得闍黎、成拙稱許，拔居教授，整飭規
+<lb ed="B" n="0240b19"/>約，上下敬服。<persName key="A001972">見月</persName>化後，即受傳衣，履席二載，聲譽旁流。<date from-iso="+1674-08-02" key="j23326902332777" to-iso="+1674-10-28">甲寅秋</date>
+<lb ed="B" n="0240b20"/>江南苦旱，入冬山下饑民就食山頭，為設粥賑之。恐糧少不濟，<pb ed="B" xml:id="B27.0151.0241a" n="0241a"/>
+<lb ed="B" n="0241a01"/>率眾渡江，由儀真至維揚，沿塗託缽。郡邑善信，素仰德望，樂施
+<lb ed="B" n="0241a02"/>不絕。山上荒黎，卒賴周濟，至麥熟始散。<date from-iso="+1683-11-18" key="j23360852336173" to-iso="+1684-02-14">癸亥冬</date>，徇兩浙紳耆所
+<lb ed="B" n="0241a03"/>請，至武林昭慶說戒一期。香花塞路，道俗嗟歎，善因福果，世所
+<lb ed="B" n="0241a04"/>希有。所著《毘尼關要》十六卷、《羯磨會釋》十四卷、《比丘尼律本會
+<lb ed="B" n="0241a05"/>義》十二卷，摭其箐華，發抒底蘊，誠便後學。<date when-iso="+1701-01-09" key="j23423462342346">庚辰季冬朔</date>示微疾，
+<lb ed="B" n="0241a06"/>集大眾誡之曰：「凡我出家，止為生死，不可不真實修行；既知修
+<lb ed="B" n="0241a07"/>行，必當嚴持戒律；若不持戒而欲超脫生死，如緣木求魚，捨舟
+<lb ed="B" n="0241a08"/>渡海，豈可得哉？<ref type="person" target="#A001679">吾</ref>早晚行矣！願共勉之。」至<date when-iso="+1701-01-16" key="j23423532342353">八日</date>沐浴更衣，號佛
+<lb ed="B" n="0241a09"/>而逝，塔於龍山之陽。壽六十有七，臘四十八，坐夏四十四。弟子
+<lb ed="B" n="0241a10"/>三十八人，一時錚錚，足嗣法響。其《毗尼關要》十六卷，<date from-iso="+1737-01-31" key="j23555172355900" to-iso="+1738-02-18">清乾隆二
+<lb ed="B" n="0241a11"/>年</date>，<persName key="A010386">釋福聚</persName>奏請入藏。</p>
+    <linkGrp>
+        <link targets="#0240b11 #0240b12"/>
+        <ptr target="#A001679" type="person"/>
+        <ptr target="#A043272" type="person"/>
+        <ptr target="#A043273" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0240b15 #0240b16"/>
+        <ptr target="#A001679" type="person"/>
+        <ptr target="#A043274" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0240b16 #0240b19"/>
+        <ptr target="#A001679" type="person"/>
+        <ptr target="#A001972" type="person"/>
+    </linkGrp>
+</div>

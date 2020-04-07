@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0244a16shiChaoYue">
+<lb ed="B" n="0244a16"/><anchor n="B.27.0151.0244a16"/><head>清燕京潭柘山岫雲寺沙門<persName key="A042362">釋超越</persName>傳</head>
+<lb ed="B" n="0244a17"/><p xml:id="pB27p0244a1701"><persName key="A042362">釋超越</persName>，字<persName key="A042362">止安</persName>，姓王氏，大興人也。夙抱清懷，雅欲離俗，年逾三
+<lb ed="B" n="0244a18"/>十，始越塵嚻。勝福寺<persName key="A043293">海雲</persName>為之祝髮，受圓具於戒臺寺<persName key="A043294">道光</persName>。動
+<lb ed="B" n="0244a19"/>靜尊嚴，德性堅定，日有恒課，不牽外緣。入夜焚香趺坐，淨修自
+<lb ed="B" n="0244a20"/>攝其心。<date from-iso="+1694-01-25" key="j23398062340189" to-iso="+1695-02-12">康熙三十三年</date>，寺燬於火，賜帑重修。將建棟時，有一木<pb ed="B" xml:id="B27.0151.0244b" n="0244b"/>
+<lb ed="B" n="0244b01"/>初擬置左，眾欲右之，舁不能升。<persName key="A042362">超</persName>祝之曰：「我右汝也。」不數人舁
+<lb ed="B" n="0244b02"/>之以去。住持<persName key="A016613">照福</persName>見其誠感木石，知有自來。嘗於<persName key="A006719">聖祖</persName>游幸時
+<lb ed="B" n="0244b03"/>從容奏對，稱<persName key="A042362">超</persName>品度比之仙露明珠，<ref type="person" target="#A006719">帝</ref>亦為之嘉賞。<date from-iso="+1699-01-31" key="j23416382342021" to-iso="+1700-02-18">己卯</date><persName key="A016613">照福</persName>
+<lb ed="B" n="0244b04"/>寂後，奉命繼席。<ref type="date" target="#j23420222342375">明年</ref>與諸山長老赴暢春園，將覲<ref type="person" target="#A006719">天</ref>顏，適虎圈
+<lb ed="B" n="0244b05"/>有虎怒唬，威勢獰獰，眾莫敢近。<persName key="A042362">超</persName>突前曰：「汝由性暴，故墮虎身。
+<lb ed="B" n="0244b06"/>今猶不改性，必終迷。汝伏，<ref type="person" target="#A042362">吾</ref>為汝說三皈，可得解脫耳！」虎遂馴
+<lb ed="B" n="0244b07"/>服，說畢帖然曳尾而去。生平奇跡，此類甚多，恐涉怪誕，不以語
+<lb ed="B" n="0244b08"/>人。寂於<date when-iso="+1702-09-24" key="j23429692342969">康熙四十一年八月三日</date>，春秋六十有一，僧臘二十七，
+<lb ed="B" n="0244b09"/>塔於寺左。<persName key="A042362">超</persName>精行戒律，日益嚴密，有北方律虎之目<!-- 《律宗燈譜》卷4：「有北方律虎之稱」(CBETA, B22, no. 118, p. 754, a12-13) -->。</p>
+    <linkGrp>
+        <link targets="#0244a17 #0244a18"/>
+        <ptr target="#A042362" type="person"/>
+        <ptr target="#A043293" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0244a18 #0244a18"/>
+        <ptr target="#A042362" type="person"/>
+        <ptr target="#A043294" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0244a20 #0244b02"/>
+        <ptr target="#A042362" type="person"/>
+        <ptr target="#A016613" type="person"/>
+        <ptr target="#j23398062340189" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0244b02 #0244b04"/>
+        <ptr target="#A006719" type="person"/>
+        <ptr target="#A016613" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0244b04 #0244b07"/>
+        <ptr target="#A042362" type="person"/>
+        <ptr target="#A006719" type="person"/>
+        <ptr target="#j23420222342375" type="time"/>
+    </linkGrp>
+</div>

@@ -23,7 +23,7 @@
 <lb ed="B" n="0240a01"/><ref type="person" target="#A001972">之</ref>使上，授經命講，眾皆跪聽，汗流而覺。及是所見，髣然前<g ref="#CB03231">㝱</g>。距
 <lb ed="B" n="0240a02"/>金陵七十里，有寶華山，為<persName key="A002296">誌公</persName>道場，年遠頹廢，郡人迎<persName key="A001028">三昧</persName>主
 <lb ed="B" n="0240a03"/>之。<persName key="A001972">體</persName>筦院務，庀材鳩工，樓殿寮閣，雕飾莊巖，大江南北，罕與倫
-<lb ed="B" n="0240a04"/>比。<date from-iso="+1645-01-28" key="j23219122322295" to-iso="+1646-02-15">乙酉</date><persName key="A001028">三昧</persName>示寂，即受衣鉢，總持三學，以十事誓，眾人頗難之，
+<lb ed="B" n="0240a04"/>比。<date from-iso="+1645-01-28" key="j23219122322295" to-iso="+1646-02-15">乙酉</date><persName key="A001028">三昧</persName>示寂，即受衣鉢，總持三學，以十事誓<!-- 《寶華山志．卷7．見月大律師塔銘》：「一、杜絕房頭誓不剃度，二、不受單資養老，三、不發化主，四、不私設廚庫，五、香儀悉歸常住，六、戒期不納攢單，七、各寮不得私備飲食，八、不行弔賀，九、一切作務同眾，十、同界共住必遵律制。」(《中國佛寺史志彙刊》，第1輯，第41冊，頁0295 ~ 頁0296) -->，眾人頗難之，
 <lb ed="B" n="0240a05"/>久而悅服。蓋憫時習便安止作，真教久成絕響，故結界立規，率
 <lb ed="B" n="0240a06"/>先躬行，是制必遵，非法必革。尋復安居之法，門人日進。清室初
 <lb ed="B" n="0240a07"/>興，山寇時發，入寺橫強。<persName key="A001972">體</persName>誘致渠魁十人，設食供畢，忽厲聲以
@@ -31,14 +31,43 @@
 <lb ed="B" n="0240a09"/>於大將軍者，謂華山通賊，緹騎麕集，執至軍前，劒戟如林，眾僧
 <lb ed="B" n="0240a10"/>惴惴，莫敢仰視。<persName key="A001972">體</persName>獨整威儀，緩步升階，合掌而立，具陳華山為
 <lb ed="B" n="0240a11"/>江南孔道，不能禁賊往來，並前日留食、解散之故。三問三答，詞
-<lb ed="B" n="0240a12"/>氣從容，顏色不變。巴厫二將軍與陳中丞異之悉解眾僧之縛
-<lb ed="B" n="0240a13"/>又欲殺監院孫內監房頭克修三人體爭之曰罪在寺主願伏
-<lb ed="B" n="0240a14"/>斧鑕勿累他人將軍益奇之並釋不殺還其田里給帖護持寺
-<lb ed="B" n="0240a15"/>乃復安壬子江南荐饑導輸賑粥五十餘日全活無算每振錫
-<lb ed="B" n="0240a16"/>出山四方風動遐邇緇素奔禮恐後戒徒千四百人堂食三萬
-<lb ed="B" n="0240a17"/>指法席之盛世所希有戊午歲除示微疾己未春正月既望力
-<lb ed="B" n="0240a18"/>疾起視誡弟子曰勿進湯藥更七日行矣至期端趺而化壽七
-<lb ed="B" n="0240a19"/>十有九臘四十八茶毘得五色舍利所著大乘玄義止持會集
-<lb ed="B" n="0240a20"/>作持續釋黑白布薩傳戒正範及僧行軌則諸書其毗尼止持<pb ed="B" xml:id="B27.0151.0240b" n="0240b"/>
-<lb ed="B" n="0240b01"/>十六卷毗尼作持十五卷清乾隆時釋福聚奏請入藏</p>
+<lb ed="B" n="0240a12"/>氣從容，顏色不變。<persName key="A043270">巴</persName><!-- 巴山？ -->、<persName key="A043271">厫</persName>二將軍與<persName key="A043269">陳</persName>中丞<!-- 陳極新順治四年方任江南右布政使，《毗尼日用切要香乳記》繫於：「順治三年」(CBETA, X60, no. 1116, p. 182, b10) -->異<ref type="person" target="#A001972">之</ref>，悉解眾僧之縛。
+<lb ed="B" n="0240a13"/>又欲殺監院、孫內監、房頭克修三人。<persName key="A001972">體</persName>爭之曰：「罪在<ref type="person" target="#A001972">寺主</ref>，願伏
+<lb ed="B" n="0240a14"/>斧鑕勿累他人。」將軍益<ref type="person" target="#A001972">之</ref>之，並釋不殺，還其田里，給帖護持，寺
+<lb ed="B" n="0240a15"/>乃復安。<date from-iso="+1672-01-30" key="j23317752332158" to-iso="+1673-02-16">壬子</date>江南荐饑，導輸賑粥，五十餘日，全活無算。每振錫
+<lb ed="B" n="0240a16"/>出山，四方風動，遐邇緇素，奔禮恐後，戒徒千四百人，堂食三萬
+<lb ed="B" n="0240a17"/>指，法席之盛，世所希有。<date from-iso="+1678-01-23" key="j23339602334343" to-iso="+1679-02-10">戊午歲</date>除示微疾，<date when-iso="+1679-02-26" key="j23343592334359">己未春正月既望</date>，力
+<lb ed="B" n="0240a18"/>疾起視，誡弟子曰：「勿進湯藥，更七日行矣。」至期端趺而化，壽七
+<lb ed="B" n="0240a19"/>十有九，臘四十八，茶毘得五色舍利。所著《大乘玄義》、《止持會集》
+<lb ed="B" n="0240a20"/>《作持續釋》、《黑白布薩》、《傳戒正範》及《僧行軌則》諸書，其《毗尼止持》<pb ed="B" xml:id="B27.0151.0240b" n="0240b"/>
+<lb ed="B" n="0240b01"/>十六卷，《毗尼作持》十五卷，<date from-iso="+1736-02-12" key="j23551632377074" to-iso="+1796-02-08">清乾隆時</date><persName key="A010386">釋福聚</persName>奏請入藏。</p>
+    <linkGrp>
+        <link targets="#0239b02 #0239b04"/>
+        <ptr target="#A001972" type="person"/>
+        <ptr target="#A043267" type="person"/>
+        <ptr target="#A043268" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0239b09 #0239b09"/>
+        <ptr target="#A001972" type="person"/>
+        <ptr target="#A013483" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0239b14 #0239b19"/>
+        <ptr target="#A001972" type="person"/>
+        <ptr target="#A001028" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0240a04 #0240a04"/>
+        <ptr target="#A001972" type="person"/>
+        <ptr target="#A001028" type="person"/>
+        <ptr target="#j23219122322295" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0240a12 #0240a15"/>
+        <ptr target="#A001972" type="person"/>
+        <ptr target="#A043270" type="person"/>
+        <ptr target="#A043271" type="person"/>
+        <ptr target="#A043269" type="person"/>
+    </linkGrp>
 </div>

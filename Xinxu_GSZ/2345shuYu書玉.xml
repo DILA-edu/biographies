@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0241b09shiShuYu">
+<lb ed="B" n="0241b09"/><anchor n="B.27.0151.0241b09"/><head>清杭州昭慶寺沙門<persName key="A000935">釋書玉</persName>傳</head>
+<lb ed="B" n="0241b10"/><p xml:id="pB27p0241b1001"><persName key="A000935">釋書玉</persName>，字<persName key="A000935">宜潔</persName>，姓唐氏，武進人也。母<g ref="#CB03231">㝱</g>月入懷，感之而生。幼時
+<lb ed="B" n="0241b11"/>嬉戲，便陳盂盋。長習舉業，頗通儒術。一日聽鄰寺僧誦大乘《行
+<lb ed="B" n="0241b12"/>願品經》<!-- T10n0293_p0661a06 -->，質問義趣，豁然領解。遂發願辭家，詣京江嘉山，從<persName key="A043278">自謙</persName>
+<lb ed="B" n="0241b13"/><g ref="#CB06794">𩮜</g>度。服勤既久，赴金陵華山，受具於<persName key="A001972">見月</persName>，供侍巾瓶，兼究律部。
+<lb ed="B" n="0241b14"/><date from-iso="+1683-01-27" key="j23357902336173" to-iso="+1684-02-14">康熙癸亥</date>，與<persName key="A001679">定庵</persName>偕赴昭慶，臨壇演戒。<persName key="A001679">定庵</persName>還山，<persName key="A000935">玉</persName>遂駐錫茲
+<lb ed="B" n="0241b15"/>剎。昭慶寺者，唐<persName key="A001519">道宣</persName>之所創立也。寺有戒壇，宋<persName key="A000138">允堪</persName>之所開始
+<lb ed="B" n="0241b16"/>也，屢遭兵燹，遺址猶存。明季三昧，自華山來倡道，新徒四眾景
+<lb ed="B" n="0241b17"/>從。既而嗣音寞落，壇久塵封，<persName key="A000935">玉</persName>至而法輪重扶，躬履誠慤<!-- 恭謹 -->，寒必
+<lb ed="B" n="0241b18"/>露頂，午不加餐。每歲春冬兩期弘戒，四方緇白，聞風翕集。主持
+<lb ed="B" n="0241b19"/>三十八載，戒具者萬餘人。<date from-iso="+1700-02-19" key="j23420222342375" to-iso="+1701-02-07">庚辰之歲</date>，寺燼於火，次弟建造，輪奐
+<lb ed="B" n="0241b20"/>更新然。自<date from-iso="+1712-02-07" key="j23463922346745" to-iso="+1713-01-25">壬辰</date>訖於<date from-iso="+1719-02-19" key="j23489612349314" to-iso="+1720-02-07">己亥</date>，八年之中，不遣一僧募化，而鶴俸<!-- 幕府的官俸 -->清<pb ed="B" xml:id="B27.0151.0242a" n="0242a"/>
+<lb ed="B" n="0242a01"/>分，鳳釵蠲助，紛紜輻湊，曾無匱竭，願力所致，卒竟斯業。殿宇門
+<lb ed="B" n="0242a02"/>垣、山寮園房、塔院神像，靡不光輝。成功之日，廷頒龍藏供諸名
+<lb ed="B" n="0242a03"/>勝，照耀湖山，福貺神庥<!-- 神靈庇護 -->，交驩備致。以<date when-iso="+1722-01-01" key="j23500082350008">康熙辛丑十一月十四日</date>
+<lb ed="B" n="0242a04"/>示疾，說偈坐定而化。壽七十七，臘五十六，著有《梵網初津羯磨
+<lb ed="B" n="0242a05"/>儀式》、《沙彌述義香乳記》二部，《僧授戒蘭盆合釋懺悔文解》、《發願
+<lb ed="B" n="0242a06"/>文解》、《賓主序解》諸書。門人為之建塔寺院南屏，<persName key="A006117">隆樹</persName>贊曰：「儒之
+<lb ed="B" n="0242a07"/>所貴，明德中庸；釋之所重，三學為宗；世邈人遙，孰執厥中；乃有
+<lb ed="B" n="0242a08"/>人焉，玉器雪融；萬行圓修，三寶兼宏；善德光明，高逾玄穹；垂教
+<lb ed="B" n="0242a09"/>千古，罔知其終；昊天不弔，頹厥天峯；瞻仰道跡，浩淼難窮；令我
+<lb ed="B" n="0242a10"/>懷想，碧水蒼松。」</p>
+    <linkGrp>
+        <link targets="#0241b12 #0241b13"/>
+        <ptr target="#A000935" type="person"/>
+        <ptr target="#A043278" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0241b13 #0241b13"/>
+        <ptr target="#A000935" type="person"/>
+        <ptr target="#A001972" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0241b14 #0241b14"/>
+        <ptr target="#A000935" type="person"/>
+        <ptr target="#A001679" type="person"/>
+        <ptr target="#j23357902336173" type="time"/>
+    </linkGrp>
+</div>

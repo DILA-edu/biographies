@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0243b11shiZhenYi">
+<lb ed="B" n="0243b11"/><anchor n="B.27.0151.0243b11"/><head>清金陵寶華山慧居寺沙門<persName key="A042325">釋真義</persName>傳</head>
+<lb ed="B" n="0243b12"/><p xml:id="pB27p0243b1201"><persName key="A042325">釋真義</persName>，字<persName key="A042325">松隱</persName>，姓曹氏，江都人也。母<persName key="A043290">戴氏</persName>感異兆，有白衣授青
+<lb ed="B" n="0243b13"/>蓮一枝，垂花合跗，驚而舉子，故生有夙慧。幼而聰穎，稍長就<anchor xml:id="beg024301"/><choice><sic resp="CBETA">傳</sic><corr resp="PC-MB">傅</corr></choice><anchor xml:id="end024301"/>，
+<lb ed="B" n="0243b14"/>知求大義，不屑章句，塾師驚異焉！年近弱冠，頗厭世俗，父母愛
+<lb ed="B" n="0243b15"/>憐，不忍捨去。因念前<g ref="#CB03231">㝱</g>，當證蓮臺，遂爾聽許，送投子寺禮<persName key="A043291">靜生</persName>
+<lb ed="B" n="0243b16"/>祝髮。一見教典，如溫故簡。每謂：佛法不出三學，慧由定生，定從
+<lb ed="B" n="0243b17"/>戒始。乃渡江登華山，乞具足於<persName key="A001679">定庵</persName>。一期之中，威儀動靜，謹肅
+<lb ed="B" n="0243b18"/>端嚴，精究律門，終歲靡懈。<persName key="A001679">定庵</persName>深相契許，知非凡器，拔為序首。
+<lb ed="B" n="0243b19"/>董率後進，善誘多方，莫不感佩。嘗言：「天台剏教，其預設律宗制
+<lb ed="B" n="0243b20"/>度，悉與西方未來之經印合。教非律不能精嚴也，舍戒律而譚<pb ed="B" xml:id="B27.0151.0244a" n="0244a"/>
+<lb ed="B" n="0244a01"/>宗教，如匠氏之廢繩墨，安能善其事乎？」聞者歎服。每欲兼靈鷲
+<lb ed="B" n="0244a02"/>三宗，擴充心境，遂下吳門，渡錢塘、登天台，徧參有道，多相契重。
+<lb ed="B" n="0244a03"/>旋入京師，<persName key="A043292">王<roleName>公</roleName>天寶</persName>，仰其聲譽，延居延壽蘭若，正席方丈。乃願
+<lb ed="B" n="0244a04"/>行頭陀行，一時歸禮者傾國而來。明年宏法給孤寺，鱗附蟻聚，
+<lb ed="B" n="0244a05"/>室無所容。未幾，<persName key="A001679">定庵</persName>速之還山，竟付衣缽。戒壇累啟，四方雲集，
+<lb ed="B" n="0244a06"/>抗席敷陳，花雨繽紛。圓音遠鬯，上達天聰，<date from-iso="+1703-03-17" key="j23431432343172" to-iso="+1703-04-15">康熙癸未仲春</date>，<ref type="person" target="#A006719">聖</ref>駕
+<lb ed="B" n="0244a07"/>南巡，徵赴行在，勅賜「慧居寺」額，御書《心經》、《金剛經》，祗受而歸，闢
+<lb ed="B" n="0244a08"/>閣珍儲。<date from-iso="+1707-02-03" key="j23445622344649" to-iso="+1707-05-01">丁亥春</date>，翠華<!-- 天子車蓋 -->南巡，幸臨斯山，垂詢創建始末。應對詳盡，
+<lb ed="B" n="0244a09"/><ref type="person" target="#A006719">天</ref>顏有喜，為書「蓮界雲香」、「精持梵戒」二額賜之。又書「湧香林」三
+<lb ed="B" n="0244a10"/>字於方丈，以示優異。說者謂：蓮香天語與母兆暗合，斯為驗矣！
+<lb ed="B" n="0244a11"/><date from-iso="+1707-05-02" key="j23446502344678" to-iso="+1707-05-30">初夏</date>回鑾，渡江迎候，復賜金箑<!-- 扇 -->、彩筆、淵鑒法帖諸物，寵錫優隆，
+<lb ed="B" n="0244a12"/>遐邇嗟咨。一日示微疾，集眾曰：「七日後<ref type="person" target="#A042325">吾</ref>當別矣！」至期沐浴更
+<lb ed="B" n="0244a13"/>衣，危坐而逝。春秋四十九，臘三十八，坐夏二十五，塔於龍山一
+<lb ed="B" n="0244a14"/>葉庵左。<persName key="A042325">義</persName>道貌魁梧，法音清遠，頂如霽月，髮若旋螺；不厲而嚴，
+<lb ed="B" n="0244a15"/>語無輕發，接物以誠，渭涇弗爽，人多敬之云。</p>
+    <linkGrp>
+        <link targets="#0243b12 #0243b13"/>
+        <ptr target="#A042325" type="person"/>
+        <ptr target="#A043290" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0243b15 #0243b16"/>
+        <ptr target="#A042325" type="person"/>
+        <ptr target="#A043291" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0243b17 #0243b17"/>
+        <ptr target="#A042325" type="person"/>
+        <ptr target="#A001679" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0244a03 #0244a03"/>
+        <ptr target="#A042325" type="person"/>
+        <ptr target="#A043292" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0244a06 #0244a08"/>
+        <ptr target="#A042325" type="person"/>
+        <ptr target="#A006719" type="person"/>
+        <ptr target="#j23431432343172" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0244a08 #0244a10"/>
+        <ptr target="#A042325" type="person"/>
+        <ptr target="#A006719" type="person"/>
+        <ptr target="#j23445622344649" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0244a11 #0244a10"/>
+        <ptr target="#A042325" type="person"/>
+        <ptr target="#A006719" type="person"/>
+        <ptr target="#j23446502344678" type="time"/>
+    </linkGrp>
+</div>

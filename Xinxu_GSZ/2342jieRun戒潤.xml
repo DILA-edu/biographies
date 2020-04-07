@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0240b02shiJieRun">
+<lb ed="B" n="0240b02"/><anchor n="B.27.0151.0240b02"/><head>清晉陵天寧寺沙門<persName key="A022505">釋戒潤</persName>傳</head>
+<lb ed="B" n="0240b03"/><p xml:id="pB27p0240b0301"><persName key="A022505">釋戒潤</persName>，字<persName key="A022505">香雪</persName>，姓陳氏，夷陵人也。家世珪璋，心慕空門，深知情
+<lb ed="B" n="0240b04"/>幻，玅達真常。乃棄俗榮，薙髮披緇，近圓於<persName key="A001028">三昧</persName>。稟具清修，遂<g ref="#CB33499">𠪱</g>
+<lb ed="B" n="0240b05"/>講肆；就正名宿，精通經律，致功淨土；尤善文詞，揮豪成韵，見重
+<lb ed="B" n="0240b06"/>時賢。輔化千華，頗淹年載。繼復卓錫毘陵天寧律院，四眾禮請
+<lb ed="B" n="0240b07"/>臨壇演戒。時有祥雲五色，覆其法座，緇素咸瞻，以為奇瑞。大清
+<lb ed="B" n="0240b08"/>受命，頗崇釋典，<persName key="A022505">潤</persName>遭際景運，敷化江南，受法弟子不可稱計。道
+<lb ed="B" n="0240b09"/>緣既終，建塔寺院，春秋五十有七，臘二十餘。著有《楞嚴貫珠集》。</p>
+    <linkGrp>
+        <link targets="#0240b04 #0240b04"/>
+        <ptr target="#A022505" type="person"/>
+        <ptr target="#A001028" type="person"/>
+    </linkGrp>
+</div>

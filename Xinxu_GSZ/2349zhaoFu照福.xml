@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0243a17shiZhaoFu">
+<lb ed="B" n="0243a17"/><anchor n="B.27.0151.0243a17"/><head>清燕京潭柘山岫雲寺沙門<persName key="A016613">釋照福</persName>傳</head>
+<lb ed="B" n="0243a18"/><p xml:id="pB27p0243a1801"><persName key="A016613">釋照福</persName>，字<persName key="A016613">振寰</persName>，姓孟氏，大興人也。生有殊性，獨坐寡言，方在齔
+<lb ed="B" n="0243a19"/>齡，便親法乳。初依延禧寺<persName key="A043289">名馳</persName><g ref="#CB06794">𩮜</g>染，受具於廣濟寺<persName key="A016312">萬鍾</persName>。精進
+<lb ed="B" n="0243a20"/>潛修，足不踰閫者十有五年。究求律學，儕輩欽止，爭師事之。<persName key="A016312">萬<pb ed="B" xml:id="B27.0151.0243b" n="0243b"/>
+<lb ed="B" n="0243b01"/>鍾</persName>寂後，寺眾同詞請<persName key="A016613">福</persName>繼席。獨懷恬退，譽望日高，從學益眾。<date from-iso="+1686-01-24" key="j23368832336971" to-iso="+1686-04-22">康
+<lb ed="B" n="0243b02"/>熙二十五年丙寅春</date>，<persName key="A006719">聖祖</persName>恩命住持潭柘岫雲寺。大駕幸臨，復
+<lb ed="B" n="0243b03"/>奉溫語，獎許有加。自是法侶景從，雲合霧集，檀施湊輻，不可億
+<lb ed="B" n="0243b04"/>算，遂興建造，擴廣殿庭。一時輪奐，崖壑交輝，為西山諸剎之冠。
+<lb ed="B" n="0243b05"/><date from-iso="+1698-08-06" key="j23414602341548" to-iso="+1698-11-02">戊寅秋</date>示微疾，<persName key="A006719">聖祖</persName>聞之，命內務府選醫護視。以<date when-iso="+1699-06-03" key="j23417612341761"><anchor xml:id="beg_107" type="cb-app"/>己<anchor xml:id="end_107"/>卯五月六
+<lb ed="B" n="0243b06"/>日</date>，索湯沐浴，返席而化。春秋六十六，臘三十二，塔於寺前。營葬
+<lb ed="B" n="0243b07"/>之日，特賜內帑并龍旗、御杖，以示殊異。<date from-iso="+1702-04-27" key="j23428192342848" to-iso="+1702-05-26">康熙四十一年四月</date>，<ref type="person" target="#A006719">聖</ref>
+<lb ed="B" n="0243b08"/>駕重游，眷念舊情。命取繪像以進，嗟惜久之。遂邀睿題有：「若非
+<lb ed="B" n="0243b09"/>明鏡當前語，笑指真圖是戒壇」之句，其道範嶔峻，深契<ref type="person" target="#A006719">帝</ref>心，於
+<lb ed="B" n="0243b10"/>此可見。而榮終之錫，追慕之隆，曠代希有，又何恧<!-- 慚 -->乎！</p>
+    <linkGrp>
+        <link targets="#0243a18 #0243a19"/>
+        <ptr target="#A016613" type="person"/>
+        <ptr target="#A043289" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0243a19 #0243a19"/>
+        <ptr target="#A016613" type="person"/>
+        <ptr target="#A016312" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0243b01 #0243b03"/>
+        <ptr target="#A016613" type="person"/>
+        <ptr target="#A006719" type="person"/>
+        <ptr target="#j23368832336971" type="time"/>
+    </linkGrp>
+</div>

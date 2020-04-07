@@ -1,25 +1,43 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" type="明律">
-
-<lb ed="B" n=""/><anchor n="B.27.0151"/>
-                    <head>清金陵寶華山隆昌寺沙門釋實<g ref="#CB16362">𤤯</g>傳<persName type="secondary">心開</persName>
-                    </head>
-                <p xml:id="pB27p0245b1201">釋實<g ref="#CB16362">𤤯</g>字珍輝姓陳氏霍邱人父玉林母汪氏幼負嶔奇不偕
-<lb ed="B" n="0245b13"/>俗戲聞僧誦經宛如宿習塾師授學過目不忘觀其行止歎非
-<lb ed="B" n="0245b14"/>凡品乃自請於親願超塵網父母知其志堅終不可奪許詣近
-<lb ed="B" n="0245b15"/>邑大悲庵心開祝髮初演華嚴涅盤諸法悉通大義年二十五
-<lb ed="B" n="0245b16"/>慕華山儀範辤開南下旬有五日始渡大江底龍潭院負笈登
-<lb ed="B" n="0245b17"/>山林中一徑晨光晻映周回顧盻髣如舊遊乃自驚愕俄而歎
-<lb ed="B" n="0245b18"/>曰轉地凡夫以何因緣頓臨斯地及受具足精求律意早夜孜
-<lb ed="B" n="0245b19"/>孜不遑寧息遮制軌範取次領悟其最深者莫如智圓律師所
-<lb ed="B" n="0245b20"/>著會真記當時讀者謂其菁粹超出六十家釋義之外<g ref="#CB16362">𤤯</g>綜其
-<pb ed="B" xml:id="B27.0151.0246a" n="0246a"/>
-<lb ed="B" n="0246a01"/>旨趣為之貫徹非夙抱慧姿殫志研慮能如斯乎主僧閔緣闚
-<lb ed="B" n="0246a02"/>其學識擢之教授開迪新知道歸正的心力既竭色相俱空時
-<lb ed="B" n="0246a03"/>閔緣告謝遜以法席三辤不獲始敢拜受謹慎操行惟恐失墜
-<lb ed="B" n="0246a04"/>每逢聖壽建設道場延釐介福制府將軍以下文武百僚來山
-<lb ed="B" n="0246a05"/>瞻禮晝夜齋宿間與酬答開示要旨莫不敬信歸誠悅懌康熙
-<lb ed="B" n="0246a06"/>六十一年壬寅春仲方示微疾知世緣將盡付衣文海注念淨
-<lb ed="B" n="0246a07"/>域號佛百聲奄然順化春秋四十有八僧臘二十一茶毘時火
-<lb ed="B" n="0246a08"/>光如五色雲霞散布山陬三日收遺灰藏之一葉庵左</p>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0245b11shiShiYong">
+<lb ed="B" n="0245b11"/><anchor n="B.27.0151.0245b11"/><head>清金陵寶華山隆昌寺沙門<persName key="A042331">釋實𤤯</persName>傳<persName type="secondary">心開</persName></head>
+<lb ed="B" n="0245b12"/><p xml:id="pB27p0245b1201"><persName key="A042331">釋實𤤯</persName>，字<persName key="A042331">珍輝</persName>，姓陳氏，霍邱人。父<persName key="A043296">玉林</persName>，母<persName key="A043297">汪氏</persName>，幼負嶔奇，不偕
+<lb ed="B" n="0245b13"/>俗戲。聞僧誦經，宛如宿習。塾師授學，過目不忘，觀其行止，歎非
+<lb ed="B" n="0245b14"/>凡品。乃自請於親，願超塵網。<ref type="person" target="#A043296">父</ref><ref type="person" target="#A043297">母</ref>知其志堅，終不可奪，許詣近
+<lb ed="B" n="0245b15"/>邑大悲庵<persName key="A043298">心開</persName>祝髮。初演《華嚴》、《涅盤》諸法，悉通大義。<ref type="date" target="#j23416382342021">年二十五</ref>
+<lb ed="B" n="0245b16"/>慕華山儀範，辤<persName key="A043298">開</persName>南下，旬有五日，始渡大江，底龍潭院。負笈登
+<lb ed="B" n="0245b17"/>山，林中一徑，晨光晻映，周回顧盻，髣如舊遊，乃自驚愕。俄而歎
+<lb ed="B" n="0245b18"/>曰：「轉地凡夫，以何因緣，頓臨斯地？」及受具足，精求律意，早夜孜
+<lb ed="B" n="0245b19"/>孜，不遑寧息，遮制<!-- 遮罪 -->軌範，取次領悟。其最深者，莫如<persName key="A000138">智圓</persName>律師所
+<lb ed="B" n="0245b20"/>著《會真記》<!-- 行事鈔會正記 -->，當時讀者謂其菁粹，超出六十家釋義之外。<persName key="A042331">𤤯</persName>綜其<pb ed="B" xml:id="B27.0151.0246a" n="0246a"/>
+<lb ed="B" n="0246a01"/>旨趣，為之貫徹，非夙抱慧姿，殫志研慮，能如斯乎？主僧<persName key="A042321">閔緣</persName>闚
+<lb ed="B" n="0246a02"/>其學識，擢之教授，開迪新知，道歸正的。心力既竭，色相俱空。時
+<lb ed="B" n="0246a03"/><persName key="A042321">閔緣</persName>告謝，遜以法席，三辤不獲，始敢拜受。謹慎操行，惟恐失墜。
+<lb ed="B" n="0246a04"/>每逢聖壽，建設道場，延釐<!-- 迎福 -->介福<!-- 大福 -->，制府<!-- 總督 -->將軍以下文武百僚，來山
+<lb ed="B" n="0246a05"/>瞻禮，晝夜齋宿，間與酬答，開示要旨，莫不敬信，歸誠悅懌。<date from-iso="+1722-02-16" key="j23500542350141" to-iso="+1722-05-14">康熙
+<lb ed="B" n="0246a06"/>六十一年壬寅春</date>仲方示微疾，知世緣將盡，付衣<persName key="A010386">文海</persName>，注念淨
+<lb ed="B" n="0246a07"/>域，號佛百聲，奄然順化。春秋四十有八，僧臘二十一。茶毘時火
+<lb ed="B" n="0246a08"/>光如五色雲霞，散布山陬。三日收遺灰，藏之一葉庵左。</p>
+    <linkGrp>
+        <link targets="#0245b12 #0245b12"/>
+        <ptr target="#A042331" type="person"/>
+        <ptr target="#A043296" type="person"/>
+        <ptr target="#A043297" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0245b14 #0245b16"/>
+        <ptr target="#A042331" type="person"/>
+        <ptr target="#A043298" type="person"/>
+        <ptr target="#j23416382342021" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0246a01 #0246a02"/>
+        <ptr target="#A042331" type="person"/>
+        <ptr target="#A042321" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0246a06 #0246a06"/>
+        <ptr target="#A042331" type="person"/>
+        <ptr target="#A010386" type="person"/>
+    </linkGrp>
 </div>
