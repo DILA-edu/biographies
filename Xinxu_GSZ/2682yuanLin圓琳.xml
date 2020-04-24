@@ -16,7 +16,7 @@
 <lb ed="B" n="0424a17"/>堂於寺左，使得就養。朝暮入堂，導眾課誦，專修淨業。<date from-iso="+1757-02-18" key="j23628402363194" to-iso="+1758-02-07">丁丑</date>堂成，
 <lb ed="B" n="0424a18"/>設無量壽會，<persName key="A011033">和碩莊親王</persName>為之記。<date from-iso="+1760-02-17" key="j23639342364287" to-iso="+1761-02-04">庚辰歲</date>發願航海，趿屩普陀。
 <lb ed="B" n="0424a19"/>過餘杭淨慈寺，因修濟公墖，立五百尊者名號牌。及歸過廣陵
-<lb ed="B" n="0424a20"/>鹺運高公<!-- 不詳 -->仰慕清望，請留瓶缽於慧因寺度夏，復求送佛於寶<pb ed="B" xml:id="B27.0151.0424b" n="0424b"/>
+<lb ed="B" n="0424a20"/>鹺運<persName key="A043353">高</persName>公仰慕清望，請留瓶缽於慧因寺度夏，復求送佛於寶<pb ed="B" xml:id="B27.0151.0424b" n="0424b"/>
 <lb ed="B" n="0424b01"/>華拜經臺，用式儀表。<date from-iso="+1760-11-08" key="j23641992364287" to-iso="+1761-02-04">冬</date>乃還山，為<ref type="person" target="#A042674">皇太后</ref>萬壽啟建道塲，於萬
 <lb ed="B" n="0424b02"/>壽寺祝延聖禧。<date from-iso="+1764-02-02" key="j23653802365733" to-iso="+1765-01-20">甲申歲</date><ref type="person" target="#A006727">聖</ref>駕復幸山中，次前韻詩一章，賜銀三
 <lb ed="B" n="0424b03"/>百兩，玉佛塔一尊。<ref type="person" target="#A042674">皇太后</ref>加賜銀器、供具一堂。自有叢林以來，
@@ -56,6 +56,11 @@
         <ptr target="#A042367" type="person"/>
         <ptr target="#A011033" type="person"/>
         <ptr target="#j23628402363194" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0424a19 #0424b01"/>
+        <ptr target="#A042367" type="person"/>
+        <ptr target="#A043353" type="person"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0424b01 #0424b02"/>

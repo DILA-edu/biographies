@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0252b09shiYuanFu">
+<lb ed="B" n="0252b09"/><anchor n="B.27.0151.0252b09"/><head>清燕京潭柘山岫雲寺沙門<persName key="A042364">釋源福</persName>傳</head>
+<lb ed="B" n="0252b10"/><p xml:id="pB27p0252b1001"><persName key="A042364">釋源福</persName>，字<persName key="A042364">毓安</persName>，姓王氏，新河人也。稟性澹定，不念世華。幼依邑
+<lb ed="B" n="0252b11"/>中地藏庵<persName key="A043332">護生</persName>剃度。<date from-iso="+1703-02-16" key="j23431142343467" to-iso="+1704-02-04">康熙四十二年</date>，從岫雲<persName key="A042361">德彰</persName>受具，來棲佛
+<lb ed="B" n="0252b12"/>地。初入律門，矢志操持，務去嗔貪，引禮四期，進位尊證，守護禪
+<lb ed="B" n="0252b13"/>堂。復作監司，事無大小，必協眾心。二時粥飯，前後齊同。偶逢游
+<lb ed="B" n="0252b14"/>客，施捨<g ref="#CB01321">䞋</g>資，積得五兩，即入香廚，造食供眾。謂檀越布金，意在
+<lb ed="B" n="0252b15"/>隨緣，職司出納，敢昧因果？是以上下翕然，共仰清操。<date from-iso="+1725-02-13" key="j23511472351500" to-iso="+1726-02-01">雍正三年</date>，
+<lb ed="B" n="0252b16"/>推舉教授，避地讓賢，遂朝南海。<date from-iso="+1726-02-02" key="j23515012351589" to-iso="+1726-05-01">明年春</date>歸京都廣濟律院，專啟
+<lb ed="B" n="0252b17"/>相祈，屈作教授，再辤不獲，乃應其請。圓音既演，咸尊所聞。未幾
+<lb ed="B" n="0252b18"/>還山，進居羯磨。<date from-iso="+1736-02-12" key="j23551632355516" to-iso="+1737-01-30">乾隆元年</date>，始繼丈席。益自恭謹，不懈初志。遠地
+<lb ed="B" n="0252b19"/>游僧，造止寺寮，多方周濟，務求得所。故遐邇歸心，道望日崇。<date from-iso="+1739-02-08" key="j23562552356609" to-iso="+1740-01-28"><anchor xml:id="beg_113" type="cb-app"/>巳<anchor xml:id="end_113"/>
+<lb ed="B" n="0252b20"/>未歲</date>，賜龍藏一部，建閣儲之，用鎮山靈。<date from-iso="+1741-02-16" key="j23569942357081" to-iso="+1741-05-14">辛酉春</date>，設龍華道場，法<pb ed="B" xml:id="B27.0151.0253a" n="0253a"/>
+<lb ed="B" n="0253a01"/>財雨施，緇白雲集，大起三會，聚食千眾，如此勝緣，曠世希有。<date from-iso="+1741-06-13" key="j23571112357140" to-iso="+1741-07-12">五
+<lb ed="B" n="0253a02"/>月</date>訖事，頗形勞瘁。<date from-iso="+1742-01-07" key="j23573192357347" to-iso="+1742-02-04">冬十二月</date><!-- 《律宗燈譜》卷5：「師生於康熙十八年己未四月二日，示寂於乾隆六年辛酉十月五日」(CBETA, B22, no. 118, p. 786, a4-5) -->示期謝眾：身為苦本，幸自努力。默
+<lb ed="B" n="0253a03"/>默三日，安詳而逝。壽六十有三，臘三十有九，塔於山左。</p>
+    <linkGrp>
+        <link targets="#0252b10 #0252b11"/>
+        <ptr target="#A042364" type="person"/>
+        <ptr target="#A043332" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0252b11 #0252b12"/>
+        <ptr target="#A042364" type="person"/>
+        <ptr target="#A042361" type="person"/>
+        <ptr target="#j23431142343467" type="time"/>
+    </linkGrp>
+</div>

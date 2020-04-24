@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0248a17shiPuXun">
+<lb ed="B" n="0248a17"/><anchor n="B.27.0151.0248a17"/><head>清淮陰聞思寺沙門<persName key="A042340">釋溥訓</persName>傳</head>
+<lb ed="B" n="0248a18"/><p xml:id="pB27p0248a1801"><persName key="A042340">釋溥訓</persName>，字<persName key="A042340">宏範</persName>，姓彭氏，射陵人也。性質敏穎，不類凡童。幼依近
+<lb ed="B" n="0248a19"/>邑延壽寺為僧，略習經典，頗解吟咏，出語天成，人多異之。年二
+<lb ed="B" n="0248a20"/>十聞<persName key="A042323">獨愚</persName>宏法楚州，詣壇圓具，精研律部，博綜梵文。嘗謂律學<pb ed="B" xml:id="B27.0151.0248b" n="0248b"/>
+<lb ed="B" n="0248b01"/>雖嚴，心宗不可不究。乃出參名宿，識<persName key="A043308">碧巖</persName>於吳門，性緣契合，遂
+<lb ed="B" n="0248b02"/>畀首座，驗龍蛇於棒下，辨龜兔於鏡中。大事既明，翛然自了，因
+<lb ed="B" n="0248b03"/>於天平山之陽，縛茆為弇。乃占偈曰：「井上枯藤鼠囓多，爭榮豈
+<lb ed="B" n="0248b04"/>若住山阿；臨溪短屋留雲處，香吐松華映碧羅。」又：「手握吹毛劍
+<lb ed="B" n="0248b05"/>一橫，誅茆那惜路重重；深黃淺碧從茲盡，顯出當陽個裏人。」語
+<lb ed="B" n="0248b06"/>能見道，音亦入古，由是詞人傳誦，聲播兩淮。及<persName key="A006719">聖祖</persName>南巡，雅好
+<lb ed="B" n="0248b07"/>吟賞，有司引<persName key="A042340">訓</persName>至袁<!-- 轅 -->浦，承恩召見。奏對應機，<ref type="person" target="#A006719">宸</ref>衷大悅。隨扈廣
+<lb ed="B" n="0248b08"/>陵茱萸灣，仍命和韵。御書「聞思寺」額及《金剛經》賜<ref type="person" target="#A042340">之</ref>，拜受還山，
+<lb ed="B" n="0248b09"/>意殊坦然。是歲首夏，略示微疾，五月朔旦<!-- 康熙三十八年左右 -->，辤眾而逝。迨鑾衛北
+<lb ed="B" n="0248b10"/>旋，再過楚州，猶繫<ref type="person" target="#A006719">聖</ref>懷，指名垂詢。芳芬未沫，塵響不存，人事有
+<lb ed="B" n="0248b11"/>終，勝因難再。俗眾惜之，方外何榮？</p>
+    <linkGrp>
+        <link targets="#0248a20 #0248a20"/>
+        <ptr target="#A042340" type="person"/>
+        <ptr target="#A042323" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0248b01 #0248b01"/>
+        <ptr target="#A042340" type="person"/>
+        <ptr target="#A043308" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0248b06 #0248b10"/>
+        <ptr target="#A042340" type="person"/>
+        <ptr target="#A006719" type="person"/>
+    </linkGrp>
+</div>

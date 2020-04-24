@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0">
+<!-- 四部叢刊初編《資治通鑑》北宋治平四年（1067）刊本，卷一百八十九（武德四年十月）。 -->
+<lb ed="SBCKCB" n="b0147p039a10"/><p><persName key="A006995">孝恭</persName>送<persName key="A006993">銑</persName>於長安，<ref type="person" target="#A004630">上</ref>數之，<persName key="A006993">銑</persName>曰：「隋失其鹿，天
+<lb ed="SBCKCB" n="b0147p039a11"/>下共逐之。<persName key="A006993">銑</persName>無天命，故至此；若以為罪，無所逃死！」竟斬
+<lb ed="SBCKCB" n="b0147p039b01"/>於都市。詔以<persName key="A006995">孝恭</persName>為荊州總管。</p>
+    <linkGrp>
+        <link targets="#b0147p039a10 #b0147p039b01"/>
+        <ptr target="#A006995" type="person"/>
+        <ptr target="#A006993" type="person"/>
+        <ptr target="#A004630" type="person"/>
+    </linkGrp>
+</div>

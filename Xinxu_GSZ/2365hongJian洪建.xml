@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0250b01shiHongJian">
+<lb ed="B" n="0250b01"/><anchor n="B.27.0151.0250b01"/><head>清儀徵隆覺寺沙門<persName key="A011465">釋洪建</persName>傳<persName type="secondary">佛定</persName></head>
+<lb ed="B" n="0250b02"/><p xml:id="pB27p0250b0201"><persName key="A011465">釋洪建</persName>，字<persName key="A011465">冶牧</persName>，姓馮氏，夏邑人也。母方孕時，即厭腥羶，見人肉
+<lb ed="B" n="0250b03"/>食，便作歐逆。誕降三日，母夢兒言曰：「誤入汝家，意欲舍去。」母因
+<lb ed="B" n="0250b04"/>急留，倉皇驚覺。晨起視兒，果病不乳。其母禱於大士，願寄為僧，
+<lb ed="B" n="0250b05"/>弗藥有喜，遂禮近鄉洪福寺<persName key="A043322">慶庵</persName>為師。七歲入寺剃染，初習經
+<lb ed="B" n="0250b06"/>典，漸能<anchor xml:id="beg025003"/>領<anchor xml:id="end025003"/>悟。十有餘載，勤修不懈。年已及冠，始具三壇於白雲
+<lb ed="B" n="0250b07"/><persName key="A043323">佛定</persName>。入室造請，叩求經義，研習切韻，威儀中度，文質彬彬。既而
+<lb ed="B" n="0250b08"/>南遊，躬踐寶華，學律於<persName key="A001679">定庵</persName>。五易寒暑，既通律部，欲透禪關，扣
+<lb ed="B" n="0250b09"/>諸宗匠：杭之理安、紹之顯聖、寧<!-- 寧波 -->之祖印，吳越知識，次第參訪。<date from-iso="+1708-01-23" key="j23449162345299" to-iso="+1709-02-09">康
+<lb ed="B" n="0250b10"/>熙戊子</date>，重上華山，供職羯磨三年。復徇維揚士紳之請，主席隆
+<lb ed="B" n="0250b11"/>覺。盡心訓導，大宏法戒三十餘年，孜孜無倦。是以道俗歸崇，檀
+<lb ed="B" n="0250b12"/>施恐後。維揚<persName key="A042884">交如汪<roleName>公</roleName></persName>，施金三千，創建戒壇於寺之左，使數畝
+<lb ed="B" n="0250b13"/>古剎，易色改觀，望之如祇園精舍，其勝緣所結，豈偶然哉！</p>
+    <linkGrp>
+        <link targets="#0250b05 #0250b05"/>
+        <ptr target="#A011465" type="person"/>
+        <ptr target="#A043322" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0250b06 #0250b07"/>
+        <ptr target="#A011465" type="person"/>
+        <ptr target="#A043323" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0250b08 #0250b08"/>
+        <ptr target="#A011465" type="person"/>
+        <ptr target="#A001679" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0250b12 #0250b12"/>
+        <ptr target="#A011465" type="person"/>
+        <ptr target="#A042884" type="person"/>
+    </linkGrp>
+</div>

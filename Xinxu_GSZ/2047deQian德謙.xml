@@ -1,9 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" type="義解">
-
-<lb ed="B" n=""/><anchor n="B.27.0151"/>
-                    <head>元京都崇恩寺沙門釋德謙傳</head>
-                <p xml:id="pB27p0060b0401">釋德謙號福元姓楊氏定平人也幼而勤敏嗜誦佛書稍長即
+<div xmlns="http://www.tei-c.org/ns/1.0" type="義解" xml:id="gsz0060b03shiDeQian">
+<lb ed="B" n="0060b03"/><anchor n="B.27.0151.0060b03"/><head>元京都崇恩寺沙門釋德謙傳</head>
+<lb ed="B" n="0060b04"/><p xml:id="pB27p0060b0401">釋德謙號福元姓楊氏定平人也幼而勤敏嗜誦佛書稍長即
 <lb ed="B" n="0060b05"/>游秦洛汴汝逾河北齊魏燕趙之邦諮訪先德初受般若於邠
 <lb ed="B" n="0060b06"/>州寧公習瑞應於原州忠公受幽贊於好畤仙公學圓覺於乾
 <lb ed="B" n="0060b07"/>陵一公究唯識俱舍等論於<anchor xml:id="beg_17" type="cb-app"/>陝<anchor xml:id="end_17"/>州頙公聽棱嚴四分律疏於陽

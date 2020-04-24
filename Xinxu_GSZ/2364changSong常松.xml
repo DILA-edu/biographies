@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0250a07shiChangSong">
+<lb ed="B" n="0250a07"/><anchor n="B.27.0151.0250a07"/><head>清金陵寶華山隆昌寺沙門<persName key="A042321">釋常松</persName>傳</head>
+<lb ed="B" n="0250a08"/><p xml:id="pB27p0250a0801"><persName key="A042321">釋常松</persName>，字<persName key="A042321">閔緣</persName>，姓陳氏，金壇人也。性厭緐<!-- 同「繁」 -->囂，頗耽幽僻。幼入塾
+<lb ed="B" n="0250a09"/>學，宛自成人。塾師異之，謂宜養其靜志，儕之士林。然家世農耕，
+<lb ed="B" n="0250a10"/>務勤稼穡，<persName key="A042321">松</persName>雅甘苦辛，不慕浮榮。年及弱冠，懇請離塵，父母許
+<lb ed="B" n="0250a11"/>之，遂造九華甘露庵，從<persName key="A043319">因實</persName><anchor xml:id="beg_10e" type="cb-app"/><g ref="#CB06794">𩮜</g><anchor xml:id="end_10e"/>度。聞華山<persName key="A001972">見月</persName>，中興毘尼，即登
+<lb ed="B" n="0250a12"/>寶華受具足戒。立德辨道，心樹益高。<persName key="A042325">松隱<roleName>老人</roleName></persName>欲深闚法器，試
+<lb ed="B" n="0250a13"/>以鉗錘，迺愈自磨礪。歷掌維那，一堂之內，分別三根：上者喻以
+<lb ed="B" n="0250a14"/>純旨，深思自得；中材導以正途，循序而進；又其次者，曲垂教言，
+<lb ed="B" n="0250a15"/>引之漸入。三者不同，成功則一，故化有程式，人無棄材，新舊學
+<lb ed="B" n="0250a16"/>子，榮出其門。<persName key="A042325">松隱</persName>謝世，命傳祖衣。<date from-iso="+1713-01-26" key="j23467462346834" to-iso="+1713-04-24">康熙五十二年春</date>，值<persName key="A006719">聖祖</persName>萬
+<lb ed="B" n="0250a17"/>壽，上京祝釐。<ref type="person" target="#A006719">駕</ref>幸道場，獎其儀範，日賜御饌并錫紫<anchor xml:id="beg025001"/><choice><sic resp="CBETA">依</sic><corr resp="PC-MB">衣</corr></choice><anchor xml:id="end025001"/><!-- 《律宗燈譜》卷5：「賜紫衣並玉器數事」(CBETA, B22, no. 118, p. 788, b8) -->、玉器數
+<lb ed="B" n="0250a18"/>事，奉之還山。時浙督<persName key="A043321">赫</persName>公<!-- 《律宗燈譜》卷5：「兩浙督憲」(CBETA, B22, no. 118, p. 788, b9)《寶華山志．卷8．寶華山奉總督部院永禁𢩮贖雜差碑》：「江寧府上元縣曹、句容縣方，為懇恩勒石，永垂香火事。康熙五十五年閏三月二十九日，奉本府正堂衞信票開，奉總督部院赫批」(《中國佛寺史志彙刊》，第1輯，第41冊，頁0336)。應該是兩江總督。 -->、將軍<persName key="A043320">鄂</persName>公<!-- 《寶華山志．卷8．寶華山奉將軍都統永禁𢩮贖雜差碑》：「鎮守江寧等處將軍、世襲阿達哈哈番、加三級鄂副都統」(《中國佛寺史志彙刊》，第1輯，第41冊，頁0345 ~ 頁0346) -->皆相引重，敬禮有加，九華
+<lb ed="B" n="0250a19"/>田產，亦為之勒石警眾，用垂久遠。寂於<date when-iso="+1718-09-03" key="j23487922348792">康熙五十七年戊<anchor xml:id="beg_10f" type="cb-app"/>戌<anchor xml:id="end_10f"/>八
+<lb ed="B" n="0250a20"/>月九日</date>，春秋五十有五，僧臘二十有三，坐夏二十有二。</p>
+    <linkGrp>
+        <link targets="#0250a10 #0250a11"/>
+        <ptr target="#A042321" type="person"/>
+        <ptr target="#A043319" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0250a11 #0250a12"/>
+        <ptr target="#A042321" type="person"/>
+        <ptr target="#A001972" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0250a12 #0250a13"/>
+        <ptr target="#A042321" type="person"/>
+        <ptr target="#A042325" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0250a16 #0250a18"/>
+        <ptr target="#A042321" type="person"/>
+        <ptr target="#A006719" type="person"/>
+        <ptr target="#j23467462346834" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0250a18 #0250a19"/>
+        <ptr target="#A042321" type="person"/>
+        <ptr target="#A043321" type="person"/>
+        <ptr target="#A043320" type="person"/>
+    </linkGrp>
+</div>

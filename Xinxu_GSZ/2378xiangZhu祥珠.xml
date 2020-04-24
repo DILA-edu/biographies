@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0255b09shiXiangZhu">
+<lb ed="B" n="0255b09"/><anchor n="B.27.0151.0255b09"/><head>清宿遷壽聖寺沙門<persName key="A042369">釋祥珠</persName>傳</head>
+<lb ed="B" n="0255b10"/><p xml:id="pB27p0255b1001"><persName key="A042369">釋祥珠</persName>，字<persName key="A042369">雲浦</persName>，姓曹氏，滁州人。父<persName key="A043351">必達</persName>，母<persName key="A043352">石氏</persName>。<ref type="date" target="#j23577032358085">年十四</ref>，依近邑
+<lb ed="B" n="0255b11"/>護國<persName key="A042346">靈峰</persName>剃度，討習經論，孜孜十載。<date from-iso="+1753-02-03" key="j23613642361717" to-iso="+1754-01-22">乾隆癸酉</date>年二十四，偕<persName key="A043354">善
+<lb ed="B" n="0255b12"/>學</persName>赴潭柘<!-- 《律宗燈譜》卷6：「乾隆癸酉師年二十四偕同邑廣睿師赴潭柘求戒」(CBETA, B22, no. 118, p. 820, b16-17) -->，求戒於<persName key="A022931">恒實</persName>，依正律宗，研究二持。<date from-iso="+1754-04-22" key="j23618072361924" to-iso="+1754-08-17">甲<anchor xml:id="beg_115" type="cb-app"/>戌<anchor xml:id="end_115"/>夏</date>，與<persName key="A043354">善學</persName>同
+<lb ed="B" n="0255b13"/>為引禮，各司一堂。<date from-iso="+1756-01-31" key="j23624562362544" to-iso="+1756-04-28">丙子春</date>聞嘉興<persName key="A001152">達天</persName>講說《法華》，摳𪗋趨座，與
+<lb ed="B" n="0255b14"/>聆玄恉。又參<persName key="A041827">恢慈</persName>禪師於拈花，方欲結冬，正待決疑，而岫雲<persName key="A042367">琮
+<lb ed="B" n="0255b15"/>璋</persName>招之還山，任以舊職。初岫雲以戒為法，<persName key="A022931">恒實</persName>闚其氣度澹逸，
+<lb ed="B" n="0255b16"/>逈出塵表，特為記別。<date from-iso="+1758-08-04" key="j23633722363460" to-iso="+1758-10-31">戊寅秋</date>，壽聖<persName key="A042346">靈</persName>師年逾七十，倦於院事，遣
+<lb ed="B" n="0255b17"/>招<persName key="A042369">祥珠</persName>，遂一瓶一缽，飄然南下。鹺運<persName key="A043353">高</persName>公佇聞遠譽，久企芳躅，
+<lb ed="B" n="0255b18"/>擁篲清塵，迎<ref type="person" target="#A042369">之</ref>入院，就正法席。但寺古年湮，荊棘滿砌，荒穢塞
+<lb ed="B" n="0255b19"/>途，環堵蕭然，勢難復振。乃竭精誠，歷三寒暑，鳩工庇材，金碧一
+<lb ed="B" n="0255b20"/>煥，道塲之盛，遂甲淮北。嘗渡南海禮普陀，過江浙諸名山，偶爾<pb ed="B" xml:id="B27.0151.0256a" n="0256a"/>
+<lb ed="B" n="0256a01"/>駐錫，緇素景從所在，隨緣與眾俱化。最後至阿育王寺，觀塔中
+<lb ed="B" n="0256a02"/>舍利，以證道果。及歸維揚慧因度夏，念前日拈花舊疑，久思請
+<lb ed="B" n="0256a03"/>益。<date from-iso="+1764-10-25" key="j23656462365733" to-iso="+1765-01-20">甲申冬</date>再至廣陵，晤高旻<persName key="A000026">昭月</persName>，時<persName key="A000026">昭</persName>欲北上，偕<ref type="person" target="#A042369">之</ref>同行。舟至
+<lb ed="B" n="0256a04"/>五臺，阻風不進，登岸數步，憇於上方寺竹西亭。下有池水，空明
+<lb ed="B" n="0256a05"/>可愛，<persName key="A000026">昭</persName>折竹枝點水，謂<persName key="A042369">祥珠</persName>曰：「識此否？」語未畢，枝上飛流，灑及
+<lb ed="B" n="0256a06"/>其面，當下有省，遂留偈別去。<date from-iso="+1769-02-07" key="j23672122367299" to-iso="+1769-05-05"><anchor xml:id="beg_116" type="cb-app"/>己<anchor xml:id="end_116"/>丑春</date>，重修大殿，廣募萬緣，三載
+<lb ed="B" n="0256a07"/>告竣。殿後左右，并建二樓，以廣其制。初<persName key="A022931">恒實</persName>慨律門寖衰，欲修
+<lb ed="B" n="0256a08"/>《燈譜》，以永其傳，久之未就。<persName key="A042369">祥珠</persName>獨善繼述，躬任勞瘁，殫心校雔，
+<lb ed="B" n="0256a09"/>卒成《律宗燈譜》十卷。</p>
+    <linkGrp>
+        <link targets="#0255b10 #0255b10"/>
+        <ptr target="#A042369" type="person"/>
+        <ptr target="#A043351" type="person"/>
+        <ptr target="#A043352" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0255b10 #0255b11"/>
+        <ptr target="#A042369" type="person"/>
+        <ptr target="#A042346" type="person"/>
+        <ptr target="#j23577032358085" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0255b11 #0255b12"/>
+        <ptr target="#A042369" type="person"/>
+        <ptr target="#A043354" type="person"/>
+        <ptr target="#A022931" type="person"/>
+        <ptr target="#j23613642361717" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0255b12 #0255b13"/>
+        <ptr target="#A042369" type="person"/>
+        <ptr target="#A043354" type="person"/>
+        <ptr target="#j23618072361924" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0255b13 #0255b14"/>
+        <ptr target="#A042369" type="person"/>
+        <ptr target="#A001152" type="person"/>
+        <ptr target="#j23624562362544" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0255b14 #0255b14"/>
+        <ptr target="#A042369" type="person"/>
+        <ptr target="#A041827" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0255b14 #0255b15"/>
+        <ptr target="#A042369" type="person"/>
+        <ptr target="#A042367" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0255b15 #0255b16"/>
+        <ptr target="#A042369" type="person"/>
+        <ptr target="#A022931" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0255b16 #0255b17"/>
+        <ptr target="#A042369" type="person"/>
+        <ptr target="#A042346" type="person"/>
+        <ptr target="#j23633722363460" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0255b17 #0255b18"/>
+        <ptr target="#A042369" type="person"/>
+        <ptr target="#A043353" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0256a03 #0256a06"/>
+        <ptr target="#A042369" type="person"/>
+        <ptr target="#A000026" type="person"/>
+        <ptr target="#j23656462365733" type="time"/>
+    </linkGrp>
+</div>

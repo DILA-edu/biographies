@@ -159,7 +159,7 @@ ed="T" n="0712a22"/>法醨薄，一至於此！</p>
         <ptr target="#A000774" type="person"/>
         <ptr target="#A000291" type="person"/>
     </linkGrp>
-    <linkGrp>
+    <linkGrp cert="low">
         <link targets="#0711c06 #0711c18"/>
         <ptr target="#A000774" type="person"/>
         <ptr target="#A000291" type="person"/>

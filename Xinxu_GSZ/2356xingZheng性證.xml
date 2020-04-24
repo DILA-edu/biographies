@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0247a04shiXingZheng">
+<lb ed="B" n="0247a04"/><anchor n="B.27.0151.0247a04"/><head>清燕京瑞應寺沙門<persName key="A042329">釋性證</persName>傳</head>
+<lb ed="B" n="0247a05"/><p xml:id="pB27p0247a0501"><persName key="A042329">釋性證</persName>，字<persName key="A042329">檀波</persName>，姓熊氏，為南昌右族<!-- 豪族 -->。父<persName key="A043301">時英</persName>，母<persName key="A043302">陳氏</persName>，並崇佛旨，
+<lb ed="B" n="0247a06"/>雅甘澹素。誕生之夕，母<g ref="#CB03231">㝱</g>幢幡飄搖，自天而降。雖在襁褓，即異
+<lb ed="B" n="0247a07"/>凡童。幼習《詩》、《書》，略通大義。父母並逝，年逾有室，讀禮將終，更賦
+<lb ed="B" n="0247a08"/>悼亡。乃遊京師，聊寫憂思。寓龍華寺，見藏經閣，日尋內典，遂大
+<lb ed="B" n="0247a09"/>感悟，慨然有出塵之志。就<persName key="A043303">德潤</persName>薙染，詣寶華<persName key="A001679">定庵</persName>圓戒，退而結
+<lb ed="B" n="0247a10"/>茆保定三臺村，修杜多行。<date from-iso="+1712-02-07" key="j23463922346745" to-iso="+1713-01-25">康熙壬辰歲</date>左都<persName key="A043304">揆</persName>公招主龍華，<date from-iso="+1713-01-26" key="j23467462347129" to-iso="+1714-02-13">明
+<lb ed="B" n="0247a11"/>年</date><ref type="person" target="#A006719">聖</ref>壽，諷經祝釐，<persName key="A043304">揆</persName>公捐俸，重新梵宇，事聞賜名「瑞應」，并書「法
+<lb ed="B" n="0247a12"/>雲真際」四字，以顯異之。先是寺中舊植文光果樹，至是始實，雙
+<lb ed="B" n="0247a13"/>果並蒂，馳獻行在，<ref type="person" target="#A006719">天</ref>顏大悅，為製《文光果詩》。從臣屬和<!-- 跟著唱和 -->，傳為盛
+<lb ed="B" n="0247a14"/>事，寺遂因此得名。<persName key="A042329">證</persName>進道堅勇，頂禮達旦，過午不食，冬必露頂，
+<lb ed="B" n="0247a15"/>夏必重衣，每春傳戒，歲以為常。寂於<date when-iso="+1721-02-21" key="j23496942349694">康熙六十年正月二十五
+<lb ed="B" n="0247a16"/>日</date>，壽六十有三，臘二十有七，塔於都城鷹房南。</p>
+    <linkGrp>
+        <link targets="#0247a05 #0247a05"/>
+        <ptr target="#A042329" type="person"/>
+        <ptr target="#A043301" type="person"/>
+        <ptr target="#A043302" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0247a09 #0247a09"/>
+        <ptr target="#A042329" type="person"/>
+        <ptr target="#A043303" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0247a09 #0247a09"/>
+        <ptr target="#A042329" type="person"/>
+        <ptr target="#A001679" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0247a10 #0247a10"/>
+        <ptr target="#A042329" type="person"/>
+        <ptr target="#A043304" type="person"/>
+        <ptr target="#j23463922346745" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0247a10 #0247a12"/>
+        <ptr target="#A042329" type="person"/>
+        <ptr target="#A006719" type="person"/>
+        <ptr target="#j23467462347129" type="time"/>
+    </linkGrp>
+</div>

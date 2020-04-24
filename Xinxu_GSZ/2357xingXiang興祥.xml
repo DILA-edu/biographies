@@ -1,24 +1,46 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" type="明律">
-
-<lb ed="B" n=""/><anchor n="B.27.0151"/>
-                    <head>清宿遷極樂庵沙門釋興祥傳<persName type="secondary">不噐</persName>
-                    </head>
-                <p xml:id="pB27p0247a1801">釋興祥字桂昌姓熊氏吉安人也母<g ref="#CB03231">㝱</g>老僧投錫驚寤而生幼
-<lb ed="B" n="0247a19"/>好靜坐性根不凡年近富強父母並逝遂北游淮郡剃度於菩
-<lb ed="B" n="0247a20"/>提社隱名受具於寶華山見月尋依極樂湛一荏苒十載忽焉
-<pb ed="B" xml:id="B27.0151.0247b" n="0247b"/>
-<lb ed="B" n="0247b01"/>辤去南參報恩大覺國師凡名山大川流覽幾遍或謂風塵奔
-<lb ed="B" n="0247b02"/>走與匿迹潛修兩相縣殊不知道無不在感無不通動即靜機
-<lb ed="B" n="0247b03"/>事為心印其中真諦非可泛測祥胸無蘊宰故自去來而不方
-<lb ed="B" n="0247b04"/>物後還山力般舟行百日豁然超曠會委逢源不可埃岸適有
-<lb ed="B" n="0247b05"/>不器禪士來自都門謂念佛不離參禪參禪不礙持戒百千三
-<lb ed="B" n="0247b06"/>昧不出心地一法祥即恍然曰戒體圓明德性空寂反觀本源
-<lb ed="B" n="0247b07"/>空性亦滅了無持犯是即心地法門若存一念見開知覺便名
-<lb ed="B" n="0247b08"/>破戒況餘念耶器與湛一聞言首肯默印心許遂居首座自是
-<lb ed="B" n="0247b09"/>嚴究毘尼精研廣律服勤十載甲子冬湛一寂後繼主法席四
-<lb ed="B" n="0247b10"/>方緇流喁然嚮化日盈千指祥克<anchor xml:id="beg_10b" type="cb-app"/>己<anchor xml:id="end_10b"/>以廉接物以寬務持大體
-<lb ed="B" n="0247b11"/>至於殿閣輪奐田園增廣猶其餘也以康熙六十年辛丑十一
-<lb ed="B" n="0247b12"/>月八日示寂壽八十四坐夏四十七傳戒二十七期塔於縣北
-<lb ed="B" n="0247b13"/>五華頂</p>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0247a17shiXingXiang">
+<lb ed="B" n="0247a17"/><anchor n="B.27.0151.0247a17"/><head>清宿遷極樂庵沙門<persName key="A042336">釋興祥</persName>傳<persName type="secondary" key="A040891">不噐</persName></head>
+<lb ed="B" n="0247a18"/><p xml:id="pB27p0247a1801"><persName key="A042336">釋興祥</persName>，字<persName key="A042336">桂昌</persName>，姓熊氏，吉安人也。母<g ref="#CB03231">㝱</g>老僧投錫，驚寤而生。幼
+<lb ed="B" n="0247a19"/>好靜坐，性根不凡。年近富強，父母並逝，遂北游淮郡，剃度於菩
+<lb ed="B" n="0247a20"/>提社<persName key="A043305">隱名</persName>，受具於寶華山<persName key="A001972">見月</persName>，尋依極樂<persName key="A016413">湛一</persName>。荏苒十載，忽焉<pb ed="B" xml:id="B27.0151.0247b" n="0247b"/>
+<lb ed="B" n="0247b01"/>辤去，南參報恩<persName key="A001153">大覺國師</persName>。凡名山大川，流覽幾遍。或謂風塵奔
+<lb ed="B" n="0247b02"/>走，與匿迹潛修，兩相縣殊；不知道無不在，感無不通，動即靜機，
+<lb ed="B" n="0247b03"/>事為心印，其中真諦，非可泛測。<persName key="A042336">祥</persName>胸無蘊宰，故自去來而不方
+<lb ed="B" n="0247b04"/>物。後還山力般舟行，百日豁然超曠，會委逢源，不可埃岸。適有
+<lb ed="B" n="0247b05"/><persName key="A040891">不器</persName>禪士來自都門，謂：「念佛不離參禪，參禪不礙持戒，百千三
+<lb ed="B" n="0247b06"/>昧不出心地一法。」<persName key="A042336">祥</persName>即恍然曰：「戒體圓明，德性空寂，反觀本源，
+<lb ed="B" n="0247b07"/>空性亦滅，了無持犯，是即心地法門。若存一念，見開知覺，便名
+<lb ed="B" n="0247b08"/>破戒，況餘念耶？」<persName key="A040891">器</persName>與<persName key="A016413">湛一</persName>聞言首肯，默印心許，遂居首座。自是
+<lb ed="B" n="0247b09"/>嚴究毘尼，精研廣律，服勤十載。<date from-iso="+1684-11-07" key="j23364402336527" to-iso="+1685-02-02">甲子冬</date><persName key="A016413">湛一</persName>寂後，繼主法席，四
+<lb ed="B" n="0247b10"/>方緇流，喁<!-- 應和 -->然嚮化，日盈千指。<persName key="A042336">祥</persName>克<anchor xml:id="beg_10b" type="cb-app"/>己<anchor xml:id="end_10b"/>以廉，接物以寬，務持大體。
+<lb ed="B" n="0247b11"/>至於殿閣輪奐，田園增廣，猶其餘也。以<date when-iso="+1721-12-26" key="j23500022350002">康熙六十年辛丑十一
+<lb ed="B" n="0247b12"/>月八日</date>示寂，壽八十四，坐夏四十七，傳戒二十七期，塔於縣北
+<lb ed="B" n="0247b13"/>五華頂。</p>
+    <linkGrp>
+        <link targets="#0247a19 #0247a20"/>
+        <ptr target="#A042336" type="person"/>
+        <ptr target="#A043305" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0247a20 #0247a20"/>
+        <ptr target="#A042336" type="person"/>
+        <ptr target="#A001972" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0247a20 #0247a20"/>
+        <ptr target="#A042336" type="person"/>
+        <ptr target="#A016413" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0247b01 #0247b01"/>
+        <ptr target="#A042336" type="person"/>
+        <ptr target="#A001153" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0247b05 #0247b08"/>
+        <ptr target="#A042336" type="person"/>
+        <ptr target="#A040891" type="person"/>
+        <ptr target="#A016413" type="person"/>
+    </linkGrp>
 </div>

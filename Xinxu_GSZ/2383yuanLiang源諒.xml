@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0258b15shiYuanLiang">
+<lb ed="B" n="0258b15"/><anchor n="B.27.0151.0258b15"/><head>清燕京潭柘山岫雲寺沙門<persName key="A022931">釋源諒</persName>傳</head>
+<lb ed="B" n="0258b16"/><p xml:id="pB27p0258b1601"><persName key="A022931">釋源諒</persName>，字<persName key="A022931">恒實</persName>，姓侯氏，東光人也。<ref type="date" target="#j23431142343467">六歲</ref>依吳橋三元庵<persName key="A043375">鈞一</persName>薙
+<lb ed="B" n="0258b17"/>染。<date from-iso="+1721-01-28" key="j23496702350053" to-iso="+1722-02-15">康熙六十年</date>受具於岫雲<persName key="A042361">德<anchor xml:id="beg025801"/><choice><sic resp="CBETA">彭</sic><corr resp="PC-MB">彰</corr></choice><anchor xml:id="end025801"/></persName><!-- 《律宗燈譜》卷5：「康熙六十年十二月八日於潭柘岫雲寺德彰和尚座下圓具」(CBETA, B22, no. 118, p. 786, a11-13) -->。提挈梵<anchor xml:id="beg_119" type="cb-app"/>網<anchor xml:id="end_119"/>，專求律範。<date from-iso="+1723-02-05" key="j23504082350762" to-iso="+1724-01-25">雍正元
+<lb ed="B" n="0258b18"/>年癸卯</date>初為引禮，指導新學，多方誘進，昕夕罔怠。<date from-iso="+1728-02-10" key="j23522392352592" to-iso="+1729-01-28">六年戊申</date><anchor xml:id="beg025802"/><choice><sic resp="CBETA">勿</sic><corr resp="PC-MB">忽</corr></choice><anchor xml:id="end025802"/>
+<lb ed="B" n="0258b19"/>遘痺疾，四體不仁，息心靜養，尋就瘥可。負杖出遊，<g ref="#CB33499">𠪱</g>諸禪講，所
+<lb ed="B" n="0258b20"/>如不合，徑還舊土。因念病苦，多緣宿業，遂自設壇，晨昏禮懺，默<pb ed="B" xml:id="B27.0151.0259a" n="0259a"/>
+<lb ed="B" n="0259a01"/>求垂護。孳孳三載，身始健強，乃梯五臺，覲禮<persName key="A002144">文殊</persName>。復來潭柘，會
+<lb ed="B" n="0259a02"/>啟龍華，留為引禮。<date from-iso="+1736-02-12" key="j23551632355516" to-iso="+1737-01-30">乾隆元年</date>，始理教授，更進羯磨。<date from-iso="+1741-11-08" key="j23572592357347" to-iso="+1742-02-04">辛酉冬</date>，得主
+<lb ed="B" n="0259a03"/>法席，益勵精修，研味梵典，開建閱藏道場。<date from-iso="+1744-03-14" key="j23581162358145" to-iso="+1744-04-12">甲子中<!-- 仲 -->春</date>，<persName key="A006727">高宗</persName>幸臨，
+<lb ed="B" n="0259a04"/>寺眾整肅，品物明潔，天顏有喜。賜白金二百，額聯、詩章多出宸
+<lb ed="B" n="0259a05"/>翰。其他賞賜，又復稱是<!-- B22n0118_p0786b08 -->。<date from-iso="+1764-10-25" key="j23656462365733" to-iso="+1765-01-20">甲申冬</date>，聖駕重游，驩情勝昔。所賜有銅
+<lb ed="B" n="0259a06"/>佛、金經、塔圖，并白金三百，御書四額。<persName key="A042674">皇太后</persName>加賜鏤金器品數
+<lb ed="B" n="0259a07"/>十事，皆前所未有。<persName key="A022931">諒</persName>為人寬厚寡言，不矜不忌，雖遇路人，愛之
+<lb ed="B" n="0259a08"/>如親。新學之徒，尤殷啟迪，專教務化，不躬瑣細。故四眾悅豫，福
+<lb ed="B" n="0259a09"/>應備臻。以<date when-iso="+1765-06-08" key="j23658722365872">乾隆<anchor xml:id="beg025901"/><choice><sic resp="CBETA">三十七</sic><corr resp="PC-MB">三十</corr></choice><anchor xml:id="end025901"/>年四月二十日</date>示寂<!-- 《律宗燈譜》卷5：「乾隆三十年」(CBETA, B22, no. 118, p. 787, a7-8) -->，壽六十有八，臘四
+<lb ed="B" n="0259a10"/>十有五，塔於蓮花峰右。</p>
+    <linkGrp>
+        <link targets="#0258b16 #0258b16"/>
+        <ptr target="#A022931" type="person"/>
+        <ptr target="#A043375" type="person"/>
+        <ptr target="#j23431142343467" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0258b17 #0258b17"/>
+        <ptr target="#A022931" type="person"/>
+        <ptr target="#A042361" type="person"/>
+        <ptr target="#j23496702350053" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0259a03 #0259a05"/>
+        <ptr target="#A022931" type="person"/>
+        <ptr target="#A006727" type="person"/>
+        <ptr target="#j23581162358145" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0259a05 #0259a07"/>
+        <ptr target="#A022931" type="person"/>
+        <ptr target="#A006727" type="person"/>
+        <ptr target="#A042674" type="person"/>
+        <ptr target="#j23656462365733" type="time"/>
+    </linkGrp>
+</div>

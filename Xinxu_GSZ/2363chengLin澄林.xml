@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0249b10shiChengLin">
+<lb ed="B" n="0249b10"/><anchor n="B.27.0151.0249b10"/><head>清燕京潭柘山岫雲寺沙門<persName key="A042363">釋澄林</persName>傳</head>
+<lb ed="B" n="0249b11"/><p xml:id="pB27p0249b1101"><persName key="A042363">釋澄林</persName>，字<persName key="A042363">洞初</persName>，姓張氏，武清人也。賦性慈祥，不傷生物。初投京
+<lb ed="B" n="0249b12"/>師觀音閣薙染，復從潭柘<persName key="A016613">振寰</persName>受具足，徧厯講肆，討論性相，兼
+<lb ed="B" n="0249b13"/>叩禪宗，參究心要。雖出入宗教，而律身端嚴，語不妄發，衣缽自
+<lb ed="B" n="0249b14"/>隨，過午不湌。時瞿骨妙偉，皆深器之，謂有<persName key="A003353">優波離</persName>之風。復歸潭
+<lb ed="B" n="0249b15"/>柘，輔導<persName key="A042362">止安</persName>，為尊證<!-- 闍黎 -->者四十一年。規範後進，不威而嚴；儀度汪
+<lb ed="B" n="0249b16"/>汪，大眾化之；廊寮接語，莫敢傾側<!-- 《律宗燈譜》卷5：「一切堂寮無敢於廊下接耳交談者葢其威德足以服眾故也」(CBETA, B22, no. 118, p. 783, a2-3) -->。一日靜坐，聞棚上羣鼠窸窣，
+<lb ed="B" n="0249b17"/>少焉益甚，尋復寂然。<persName key="A042363">林</persName>心怪之，命侍者破棚，十數死鼠，累累墜
+<lb ed="B" n="0249b18"/>下，口有餘粒，知中毒藥。乃至米庫，復見羣鼠，往來馳逐。<persName key="A042363">林</persName>作色
+<lb ed="B" n="0249b19"/>曰：「何不治之而飽鼠腹耶？」司庫對曰：「已和毒餌，彼東西跳梁者
+<lb ed="B" n="0249b20"/>將自斃也。」<persName key="A042363">林</persName>乃痛加訶責，以違律傷慈擯之。然後知棚頂鼠聲，<pb ed="B" xml:id="B27.0151.0250a" n="0250a"/>
+<lb ed="B" n="0250a01"/>猶呼籲見告，其德行感物如此。<date from-iso="+1722-02-16" key="j23500542350407" to-iso="+1723-02-04">康熙六十一年壬寅</date>，繼席岫雲，
+<lb ed="B" n="0250a02"/>建楞嚴壇成，宣講梵網，明辯以晰，開人心意。<date when-iso="+1728-12-05" key="j23525382352538">雍正六年戊申十
+<lb ed="B" n="0250a03"/>一月五日</date>示疾，誡其弟子曰：「末路比丘，乞食維艱，叢林接眾，恆
+<lb ed="B" n="0250a04"/>產為要。比歲負貸二千餘金，撙節苦辛，幸償夙逋；欲增飯僧田，
+<lb ed="B" n="0250a05"/>愧未及耳！事在得人，我無他願。」言訖無聲，溘然坐化。春秋六十
+<lb ed="B" n="0250a06"/>有二，坐夏三十有八，塔於寺左。</p>
+    <linkGrp>
+        <link targets="#0249b11 #0249b12"/>
+        <ptr target="#A042363" type="person"/>
+        <ptr target="#A016613" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0249b14 #0249b15"/>
+        <ptr target="#A042363" type="person"/>
+        <ptr target="#A042362" type="person"/>
+    </linkGrp>
+</div>

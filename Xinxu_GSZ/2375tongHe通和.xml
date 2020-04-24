@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0254b10shiTongHe">
+<lb ed="B" n="0254b10"/><anchor n="B.27.0151"/><head>清維揚石塔寺沙門<persName key="A042341">釋通和</persName>傳<persName type="secondary" key="A043345">實森</persName></head>
+<lb ed="B" n="0254b11"/><p xml:id="pB27p0254b1101"><persName key="A042341">釋通和</persName>，字<persName key="A042341">朗清</persName>，蘭陵人也。<ref type="date" target="#j23368832337266">九齡</ref>得染於大林，弱冠受具於寶華。
+<lb ed="B" n="0254b12"/>研幾戒典，參究宗乘，發明大義，遂受<persName key="A042326">撫生</persName>記莂，首眾持律，一時
+<lb ed="B" n="0254b13"/>龍象，靡不奉為軌範。<persName key="A042326">撫生</persName>謝代，乃繼其席，扇馥律門，畢其遺願。
+<lb ed="B" n="0254b14"/>四眾雲臻，戒光圓徧。既而示疾，因付衣缽於<persName key="A043345">品木實森</persName>。寂於<date when-iso="+1732-12-02" key="j23539962353996">雍
+<lb ed="B" n="0254b15"/>正十年十月十五日</date>，春秋五十五，僧臘三十五，坐夏二十四，塔
+<lb ed="B" n="0254b16"/>於維揚城北，建隆寺西。<date from-iso="+1735-01-24" key="j23547792355036" to-iso="+1735-10-08">十三年</date>，<persName key="A000212">世宗</persName>命集三宗義學，沙門校刊
+<lb ed="B" n="0254b17"/>龍藏律宗，<persName key="A043345">品木</persName>躬際盛會，選充校雔。時有糾正，足匡秕繆。<date from-iso="+1738-02-19" key="j23559012356254" to-iso="+1739-02-07">乾隆
+<lb ed="B" n="0254b18"/>三年</date>，工始告竣。乃述<persName key="A042341">通和</persName>行狀，而乞尚書<persName key="A043346">張照</persName>為之銘。</p>
+    <linkGrp>
+        <link targets="#0254b12 #0254b12"/>
+        <ptr target="#A042341" type="person"/>
+        <ptr target="#A042326" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0254b14 #0254b14"/>
+        <ptr target="#A042341" type="person"/>
+        <ptr target="#A043345" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0254b16 #0254b17"/>
+        <ptr target="#A000212" type="person"/>
+        <ptr target="#A043345" type="person"/>
+        <ptr target="#j23547792355036" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0254b17 #0254b18"/>
+        <ptr target="#A043346" type="person"/>
+        <ptr target="#A043345" type="person"/>
+        <ptr target="#j23559012356254" type="time"/>
+    </linkGrp>
+</div>

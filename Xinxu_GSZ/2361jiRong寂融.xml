@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0248b12shiJiRong">
+<lb ed="B" n="0248b12"/><anchor n="B.27.0151.0248b12"/><head>清徽州韻松山寺沙門<persName key="A042322">釋寂融</persName>傳<persName type="secondary" key="A042835">心空</persName></head>
+<lb ed="B" n="0248b13"/><p xml:id="pB27p0248b1301"><persName key="A042322">釋寂融</persName>，字<persName key="A042322">蓮城</persName>，姓張氏，宛陵人也。家本望族，生具福相，幼性敏
+<lb ed="B" n="0248b14"/>悟，夙好詩書。長甘澹泊，歸志清淨，從<persName key="A043309">益念</persName>剃落，殫心教典，靡不
+<lb ed="B" n="0248b15"/>通貫。年二十登華山，受具足於<persName key="A001972">見月</persName>，隨侍巾拂，數易寒暑，亦見
+<lb ed="B" n="0248b16"/>器重。出參名宿，得禮<persName key="A042835">心空</persName>於翠微。師資道合，兩相印許，遂傳以
+<lb ed="B" n="0248b17"/>毘尼，授之法衣。於是刻苦自持，勉勵行修。乃於韻松嶺頭別築
+<lb ed="B" n="0248b18"/>一亭，冬湯夏茗，利濟行者，遠道流傳，譽問宣昭。邑宰<persName key="A043310">陳</persName>公聞而
+<lb ed="B" n="0248b19"/>敬<ref type="person" target="#A042322">之</ref>，請主韻松。西鄉檀越，又乞駐錫翠微，道化覃延，勝會無遮，
+<lb ed="B" n="0248b20"/>兩地戒法，一時振興。往歲太邑祭祀，皆用鹿羞，獵火焚炎，響窮<pb ed="B" xml:id="B27.0151.0249a" n="0249a"/>
+<lb ed="B" n="0249a01"/>山谷，飛毛雨血，惻焉傷之。<persName key="A042322">融</persName>為請於<persName key="A043310">陳</persName>公，卒得免焉！里人深感
+<lb ed="B" n="0249a02"/>之。暮年仍還韻松，多與士林賦詩往還。每於贈答，隨機誘迪，故
+<lb ed="B" n="0249a03"/>文學之士，多願皈依。後邑宰<persName key="A043311">王</persName>公又創瓣香禪室，以供養<ref type="person" target="#A042322">之</ref>。<persName key="A042322">融</persName>
+<lb ed="B" n="0249a04"/>年逾八十，鶴髮童顏，望之起敬。其修誦操行，老而彌篤，示期<anchor xml:id="beg024901"/><choice><sic resp="CBETA">垣</sic><corr resp="PC-MB">坦</corr></choice><anchor xml:id="end024901"/><!-- 坦，安也 -->
+<lb ed="B" n="0249a05"/>化，日月不爽。建塔山左，<persName key="A043312">程繩武</persName>為撰銘。</p>
+    <linkGrp>
+        <link targets="#0248b13 #0248b14"/>
+        <ptr target="#A042322" type="person"/>
+        <ptr target="#A043309" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0248b15 #0248b15"/>
+        <ptr target="#A042322" type="person"/>
+        <ptr target="#A001972" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0248b16 #0248b16"/>
+        <ptr target="#A042322" type="person"/>
+        <ptr target="#A042835" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0248b18 #0248b19"/>
+        <ptr target="#A042322" type="person"/>
+        <ptr target="#A043310" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0249a03 #0249a03"/>
+        <ptr target="#A042322" type="person"/>
+        <ptr target="#A043311" type="person"/>
+    </linkGrp>
+</div>

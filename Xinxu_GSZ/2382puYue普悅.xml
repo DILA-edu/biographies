@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0258b04shiPuYue">
+<lb ed="B" n="0258b04"/><anchor n="B.27.0151.0258b04"/><head>清儀徵隆覺寺沙門<persName key="A042342">釋普悅</persName>傳</head>
+<lb ed="B" n="0258b05"/><p xml:id="pB27p0258b0501"><persName key="A042342">釋普悅</persName>，字<persName key="A042342">敷和</persName>，姓趙氏，江寧人也。幼習儒術，頗擅文詞，應童子
+<lb ed="B" n="0258b06"/>試，已錚錚有聲。乃志切超塵，自行薙染。得戒後，即依隆覺<persName key="A011465">冶牧</persName>
+<lb ed="B" n="0258b07"/>精研律部，操行篤謹，不踰矩矱。每當春雷冬雪，馥戫戒香，調護
+<lb ed="B" n="0258b08"/>苾芻，為引禮導師之冠。<persName key="A011465">冶牧</persName>遷化，乃就主席，願力彌宏，躬行愈
+<lb ed="B" n="0258b09"/>勵。嘗謂：「毘尼一門，為入道之始；非踵其形迹，奉其圓具。即詡南
+<lb ed="B" n="0258b10"/>山正宗也，必於教授導引之旨，悉心研求，夙夜罔懈，精實猛進，
+<lb ed="B" n="0258b11"/>乃能討覈律義，庶幾不悞。否則扞格難通，無有是處。」是以規儀
+<lb ed="B" n="0258b12"/>嚴肅，不教而成，十方學子，羣仰陶鑄。大江南北，聲譽流聞。與千
+<lb ed="B" n="0258b13"/>歲戒法<!-- 《律宗燈譜》卷6：「千華剎竿」(CBETA, B22, no. 118, p. 824, a4) -->，兩相輝映。得法弟子若<persName key="A043374">岫雯清</persName>者，號為一時龍象。以<date when-iso="+1766-10-13" key="j23663642366364">乾
+<lb ed="B" n="0258b14"/>隆三十一年九月十日</date>示寂，壽七十有三，臘五十三。</p>
+    <linkGrp>
+        <link targets="#0258b06 #0258b07"/>
+        <ptr target="#A042342" type="person"/>
+        <ptr target="#A011465" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0258b13 #0258b13"/>
+        <ptr target="#A042342" type="person"/>
+        <ptr target="#A043374" type="person"/>
+    </linkGrp>
+</div>

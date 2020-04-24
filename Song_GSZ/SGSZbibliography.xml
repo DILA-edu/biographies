@@ -1396,7 +1396,7 @@
                 <bibl ana="book">
                   <author><hi>Ono</hi>, Genmyo 小野玄妙；鑄陳 譯</author>
                     <title>慈愍三藏之淨土教</title>
-                    <edition>收於民國佛教期刊《民國佛教期刊文獻集成．卷167》p.251-270；臺北 大乘出版社出版，現代佛教學術叢刊第65冊頁257-308</edition>
+                    <edition>收於民國佛教期刊《民國佛教期刊文獻集成．卷167》pp.251-270；臺北 大乘出版社出版，現代佛教學術叢刊第65冊頁257-308</edition>
                     <abbr>小野玄妙 1927</abbr>
                 </bibl>
                 <bibl ana="book">
@@ -1422,6 +1422,24 @@
                     <title>永明诗僧康宝月及其诗歌考论</title>
                     <edition>長沙 湖南省社会科学院 求索 2013 No.1，頁130-133。<date>2013.01</date></edition>
                     <abbr>包得義 2013</abbr>
+                </bibl>
+                <bibl ana="book">
+                  <author><hi>Cheng</hi>, Yalin 成亚林</author>
+                    <title>诗僧皎然名字考辨</title>
+                    <edition>武漢 湖北社會科學，pp.130-131。<date>2008.12.10</date></edition>
+                    <abbr>成亞林 2008</abbr>
+                </bibl>
+                <bibl ana="book">
+                  <author><hi>Wu</hi>, Dingxuan 吳定泫</author>
+                    <title>诗僧皎然</title>
+                    <edition>上海 復旦大學博士論文<date>2004</date></edition>
+                    <abbr>吳定泫 2004</abbr>
+                </bibl>
+                <bibl ana="book">
+                  <author><hi>Yu</hi>, Xiang 余翔</author>
+                    <title>皎然 《诗式》所受佛学影响之研究</title>
+                    <edition>上海 上海大學博士論文<date>2012</date></edition>
+                    <abbr>余翔 2012</abbr>
                 </bibl>
             </listBibl>
         </body>

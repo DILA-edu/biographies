@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0254b19shiLaiZhao">
+<lb ed="B" n="0254b19"/><anchor n="B.27.0151.0254b19"/><head>清宿遷極樂庵沙門<persName key="A042344">釋來照</persName>傳<persName type="secondary" key="A043349">德明</persName></head>
+<lb ed="B" n="0254b20"/><p xml:id="pB27p0254b2001"><persName key="A042344">釋來照</persName>，字<persName key="A042344">大初</persName>，姓樊氏，鳳山人也。其父禱於雪山寺而生，靈根<pb ed="B" xml:id="B27.0151.0255a" n="0255a"/>
+<lb ed="B" n="0255a01"/>夙種，幼性聰悟。初就外傅，卓異凡兒。年及舞勺，遊雪山寺，見佛
+<lb ed="B" n="0255a02"/>國威儀，輒生感慕。知昔緣有在，辤親投<persName key="A043347">喚生</persName>為師。昏顯持念，終
+<lb ed="B" n="0255a03"/>歲不倦。年二十四，具戒於<persName key="A042336">桂昌</persName>。窮研藏典，北請南參，圓足三學。
+<lb ed="B" n="0255a04"/>後歸極樂，<persName key="A043348">慧徹</persName>深器之，拔置首席。<date from-iso="+1728-02-10" key="j23522392352592" to-iso="+1729-01-28">雍正戊申</date>，<persName key="A043348">慧</persName>因目疾，付衣於
+<lb ed="B" n="0255a05"/><persName key="A042344">照</persName>，遵守繩墨，十有四載，弗敢隕越。嘗應邳宿士大夫請主名藍，
+<lb ed="B" n="0255a06"/>弘敷戒法。每謂叢林授受，最宜精審，必其識能出類，德可表眾，
+<lb ed="B" n="0255a07"/>庶得暢厥素懷。若非察見本原，輕率放行，如麻蒸竹葦<!-- 《律宗燈譜》卷6：「如稻麻竹葦」(CBETA, B22, no. 118, p. 830, b4) -->，何埤法
+<lb ed="B" n="0255a08"/>系？故門下千指而為印可者，殊無一二。間有見其親炙最久，當
+<lb ed="B" n="0255a09"/>在記莂；及默叩<ref type="person" target="#A042344">之</ref>，乃曰：「皆不得<ref type="person" target="#A042344">吾</ref>真脈。」於是人益異<ref type="person" target="#A042344">之</ref>，莫敢闚
+<lb ed="B" n="0255a10"/>其涯涘！<date when-iso="+1742-06-15" key="j23574782357478">乾隆七年五月十三日</date>，忽書座右曰：「<ref type="person" target="#A042344">我</ref><date when-iso="+1742-08-19" key="j23575432357543">七月十九日</date>且
+<lb ed="B" n="0255a11"/>去矣！」及期，眾以極樂法系為請，則曰：「今且付院事於<persName key="A043349">德明</persName>。」竟如
+<lb ed="B" n="0255a12"/>期坦化。<persName key="A043349">明</persName>既履席，兢兢自飭，上述祖風，下開來學。辛劬三載，秩
+<lb ed="B" n="0255a13"/>然有紀。<date when-iso="+1745-06-19" key="j23585782358578">乾隆十年五月二十日</date>示疾，集眾告曰：「<ref type="person" target="#A043349">吾</ref>住無心，去亦
+<lb ed="B" n="0255a14"/>無口，向下文長，大眾出手。」說已，端坐而逝。知<persName key="A042344">照</persName>不輕授受，無負
+<lb ed="B" n="0255a15"/>正傳，於斯可見。</p>
+    <linkGrp>
+        <link targets="#0255a02 #0255a02"/>
+        <ptr target="#A042344" type="person"/>
+        <ptr target="#A043347" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0255a03 #0255a03"/>
+        <ptr target="#A042344" type="person"/>
+        <ptr target="#A042336" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0255a04 #0255a05"/>
+        <ptr target="#A042344" type="person"/>
+        <ptr target="#A043348" type="person"/>
+        <ptr target="#j23522392352592" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0255a10 #0255a11"/>
+        <ptr target="#A042344" type="person"/>
+        <ptr target="#A043349" type="person"/>
+        <ptr target="#j23575432357543" type="time"/>
+    </linkGrp>
+</div>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0">
+<!-- 四部叢刊初編《資治通鑑》北宋治平四年（1067）刊本，卷二百三十五（貞元十年六月）。 -->
+<lb ed="SBCKCB" n="b0162p001b09"/><p>雲南王<persName>異牟</persName>尋遣其弟<persName>湊羅</persName>楝獻地圖、土貢及吐蕃
+<lb ed="SBCKCB" n="b0162p001b10"/>所給金印，請復號南詔。<date when-iso="+0794-07-17" key="j20112602011260">癸丑</date>，以祠部郎中<persName key="A013904">袁滋</persName>為冊南
+<lb ed="SBCKCB" n="b0162p001b11"/>詔使。……
+<lb ed="SBCKCB" n="b0162p038a03"/><!-- 卷二百三十六（貞元二十一年七月） -->……又以太常
+<lb ed="SBCKCB" n="b0162p038a04"/>卿<persName>杜黃裳</persName>為門下侍郎，左金吾大將軍<persName key="A013904">袁滋</persName>為中書侍
+<lb ed="SBCKCB" n="b0162p038a05"/>郎，並同平章事。……
+<lb ed="SBCKCB" n="b0163p008b03"/><!-- 卷二百三十九（元和九年九月） -->……<date when-iso="+0814-11-02" key="j20186732018673">丙戌</date>，以山南東道節度使<persName key="A013904">袁滋</persName>為荊南節度使。</p>
+    <linkGrp>
+        <link targets="#b0162p001a09 #b0162p001b11"/>
+        <ptr target="#A004215" type="person"/>
+        <ptr target="#A013904" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#b0162p038a03 #b0162p038a05"/>
+        <ptr target="#A004380" type="person"/>
+        <ptr target="#A013904" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#b0163p008b03 #b0163p008b03"/>
+        <ptr target="#A002120" type="person"/>
+        <ptr target="#A013904" type="person"/>
+    </linkGrp>
+</div>

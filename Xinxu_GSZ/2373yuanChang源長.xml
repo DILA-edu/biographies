@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0254a05shiYuanChang">
+<lb ed="B" n="0254a05"/><anchor n="B.27.0151.0254a05"/><head>清淮安觀音寺沙門<persName key="A042347">釋源長</persName>傳</head>
+<lb ed="B" n="0254a06"/><p xml:id="pB27p0254a0601"><persName key="A042347">釋源長</persName>，字<persName key="A042347">涵空</persName>，別號<persName key="A042347">性水</persName>，姓張氏，郯城人也。性甘淡泊，不逐塵
+<lb ed="B" n="0254a07"/>末。幼投安東地藏庵受染，依老宿<persName key="A043342">朗徹</persName>誦經習禮，儀容有則，諷
+<lb ed="B" n="0254a08"/>讚無譌。<date from-iso="+1734-02-04" key="j23544252354512" to-iso="+1734-05-02">雍正甲寅春</date>，<persName key="A000212">世宗</persName>弘暢佛法，詔<persName key="A010386">文海</persName>入都，敕改法源寺，
+<lb ed="B" n="0254a09"/>俶開壇場，得千八百九人，<persName key="A042347">長</persName>亦與焉！既而南旋，參聞思<persName key="A004255">聚用</persName>老
+<lb ed="B" n="0254a10"/>人，精持律範，無間寒暑，相印以心，遂付衣偈。<date from-iso="+1745-02-01" key="j23584402358794" to-iso="+1746-01-21">乾隆乙丑</date>，<persName key="A004255">聚</persName>主觀
+<lb ed="B" n="0254a11"/>音，三載勤劬，頗倦津梁，命<persName key="A042347">長</persName>繼席，甄陶後進。莫敢怠荒，重修殿
+<lb ed="B" n="0254a12"/>宇，擴增舊制。<date from-iso="+1756-01-31" key="j23624562362839" to-iso="+1757-02-17">歲在丙子</date>，兩淮大饑，寺無餘糧，率眾上堂，惟飲白
+<lb ed="B" n="0254a13"/>水，三日不食，人無去志。而禪房絜淨，雍雍如初，德積有素，感物
+<lb ed="B" n="0254a14"/>者深故。道風所被，欣然樂附。<date from-iso="+1758-02-08" key="j23631952363549" to-iso="+1759-01-28">戊寅歲</date>示寂，春秋五十有一。<persName key="A042347">長</persName>姿
+<lb ed="B" n="0254a15"/>稟明敏，穎異過人，尤善丹青，常寫雪中梅花，疎枝冷豔，古幹橫
+<lb ed="B" n="0254a16"/>絕。人謂於畫禪中，別得三昧者，諒哉！</p>
+    <linkGrp>
+        <link targets="#0254a06 #0254a07"/>
+        <ptr target="#A042347" type="person"/>
+        <ptr target="#A043342" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0254a08 #0254a09"/>
+        <ptr target="#A000212" type="person"/>
+        <ptr target="#A010386" type="person"/>
+        <ptr target="#j23544252354512" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0254a08 #0254a09"/>
+        <ptr target="#A042347" type="person"/>
+        <ptr target="#A010386" type="person"/>
+        <ptr target="#j23544252354512" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0254a09 #0254a11"/>
+        <ptr target="#A042347" type="person"/>
+        <ptr target="#A004255" type="person"/>
+        <ptr target="#j23584402358794" type="time"/>
+    </linkGrp>
+</div>

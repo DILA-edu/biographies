@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0250b14shiMingShou">
+<lb ed="B" n="0250b14"/><anchor n="B.27.0151.0250b14"/><head>清燕京潭柘山岫雲寺沙門<persName key="A042365">釋明壽</persName>傳</head>
+<lb ed="B" n="0250b15"/><p xml:id="pB27p0250b1501"><persName key="A042365">釋明壽</persName>，字<persName key="A042365">本然</persName>，姓杜氏，宛平人也。幼依普濟寺<persName key="A043324">休如</persName>落髮，初尋
+<lb ed="B" n="0250b16"/>經緒，漸明宗教。<date from-iso="+1701-02-08" key="j23423762342729" to-iso="+1702-01-27">康熙四十年</date>，得戒於潭柘山<persName key="A042362">止安</persName>。五篇七聚，并
+<lb ed="B" n="0250b17"/>窮研討，精修銳進，罕有及者。遂躋首座，闡心教授，十有六年，位
+<lb ed="B" n="0250b18"/>列尊證<!-- 闍梨 -->，凡式範後學，規模叢林，靡不詳盡。時<persName key="A043325">和碩康親王</persName>避暑
+<lb ed="B" n="0250b19"/>山寺，一見契合。夜坐清譚，深入玄理。退後語人，稱為純品。嘗因
+<lb ed="B" n="0250b20"/>事出山，歸不過時<!-- 《律宗燈譜》卷5：「以事出山故錯其日謂之過期」(CBETA, B22, no. 118, p. 784, b3) -->，<ref type="person" target="#A042363">主僧</ref><!-- 洞公 -->責訶之，重加屈辱。恬然受之，略不芥蔕，<pb ed="B" xml:id="B27.0151.0251a" n="0251a"/>
+<lb ed="B" n="0251a01"/>知為入室真子，乃付重任，授以衣缽。及居丈室，不立侍者，巾瓶
+<lb ed="B" n="0251a02"/>鑪椀，躬親拂拭。一日無恙，<anchor xml:id="beg025101"/><choice><sic resp="CBETA">勿</sic><corr resp="PC-MB">忽</corr></choice><anchor xml:id="end025101"/><!-- 《律宗燈譜》卷5：「忽集」(CBETA, B22, no. 118, p. 784, b9) -->集眾曰：「我時至矣！汝輩當念光陰
+<lb ed="B" n="0251a03"/>迅速，人命無常，趁此努力，無遺後悔。」合掌而逝，時<date when-iso="+1736-04-29" key="j23552402355240">乾隆丙辰三
+<lb ed="B" n="0251a04"/>月十九日</date>也。壽六十有七，坐夏三十有五，塔於錦屏山南。</p>
+    <linkGrp>
+        <link targets="#0250b15 #0250b16"/>
+        <ptr target="#A042365" type="person"/>
+        <ptr target="#A043324" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0250b16 #0250b16"/>
+        <ptr target="#A042365" type="person"/>
+        <ptr target="#A042362" type="person"/>
+        <ptr target="#j23423762342729" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0250b18 #0250b19"/>
+        <ptr target="#A042365" type="person"/>
+        <ptr target="#A043325" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0250b19 #0251a01"/>
+        <ptr target="#A042365" type="person"/>
+        <ptr target="#A042363" type="person"/>
+    </linkGrp>
+</div>

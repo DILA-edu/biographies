@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0252a18shiSuiDao">
+<lb ed="B" n="0252a18"/><anchor n="B.27.0151.0252a18"/><head>清杭州昭慶寺沙門<persName key="A042334">釋隨道</persName>傳<persName type="secondary" key="A042333">福溶</persName></head>
+<lb ed="B" n="0252a19"/><p xml:id="pB27p0252a1901"><persName key="A042334">釋隨道</persName>，字<persName key="A042334">德先</persName>，姓沈氏，石門人。幼投餘杭龍泉寺<persName key="A043330">履初</persName>受度，得
+<lb ed="B" n="0252a20"/>戒於<persName key="A000935">宜潔</persName>。久居昭慶，常為羯磨，持身端肅。學人依止者，多為仰<pb ed="B" xml:id="B27.0151.0252b" n="0252b"/>
+<lb ed="B" n="0252b01"/>企高風。稟問毘尼，皆綜原委，示以大法，如瓶瀉水。<date from-iso="+1721-01-28" key="j23496702350053" to-iso="+1722-02-15">康熙六十年</date>
+<lb ed="B" n="0252b02"/>說冬戒一期，所得新徒，一時翹楚，後多為弘律宗師。乾隆時昭
+<lb ed="B" n="0252b03"/>慶主席<persName key="A042343">懷德</persName>，亦其弟子也。寂於<date when-iso="+1725-01-12" key="j23511152351115">雍正甲辰十一月二十八日</date>，世
+<lb ed="B" n="0252b04"/>壽六十有二。<persName key="A042333">福溶</persName>字<persName key="A042333">澄如</persName>，仁和薛氏子。投西湖瑞雲庵<persName key="A043331">鏡傳</persName>受
+<lb ed="B" n="0252b05"/>度，亦從昭慶<persName key="A000935">宜潔</persName>受戒。執侍巾瓶有年，常為傳戒綱維，遂受付
+<lb ed="B" n="0252b06"/>屬。<date from-iso="+1725-02-13" key="j23511472351500" to-iso="+1726-02-01">雍正三年</date>繼主寺席，當興復未備之處，力為補益，崇壇高閣，
+<lb ed="B" n="0252b07"/>巍然巨觀，無少間缺者，<persName key="A042333">溶</persName>之功也。以<date when-iso="+1737-12-10" key="j23558302355830">乾隆丁<anchor xml:id="beg_112" type="cb-app"/>巳<anchor xml:id="end_112"/>年十月十九日</date>
+<lb ed="B" n="0252b08"/>示寂，壽八十有四。</p>
+    <linkGrp>
+        <link targets="#0252a19 #0252a19"/>
+        <ptr target="#A042334" type="person"/>
+        <ptr target="#A043330" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0252a19 #0252a20"/>
+        <ptr target="#A042334" type="person"/>
+        <ptr target="#A000935" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0252b02 #0252b03"/>
+        <ptr target="#A042334" type="person"/>
+        <ptr target="#A042343" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0252b04 #0252b04"/>
+        <ptr target="#A042333" type="person"/>
+        <ptr target="#A043331" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0252b05 #0252b05"/>
+        <ptr target="#A042333" type="person"/>
+        <ptr target="#A000935" type="person"/>
+    </linkGrp>
+</div>

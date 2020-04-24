@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0256a10shiZongShen">
+<lb ed="B" n="0256a10"/><anchor n="B.27.0151.0256a10"/><head>清江陰圓覺庵沙門<persName key="A043356">釋宗深</persName>傳</head>
+<lb ed="B" n="0256a11"/><p xml:id="pB27p0256a1101"><persName key="A043356">釋宗深</persName>，字<persName key="A043356">慧海</persName>，姓程氏，江陰人也。秉性質樸，語簡意遲，外貌如
+<lb ed="B" n="0256a12"/>愚，菁英內蘊。幼好潛靜，依圓覺庵<persName key="A043357">出塵</persName>為之薙染。初習誦持，偶
+<lb ed="B" n="0256a13"/>致推研，多所未徹，惟朝夕薰修，遂漸開悟，得大智慧。閱諸經論，
+<lb ed="B" n="0256a14"/>髣如夙習。年既壯，受具於十方庵。未幾，繼席圓覺，默守梵<anchor xml:id="beg_117" type="cb-app"/>網<anchor xml:id="end_117"/>，董
+<lb ed="B" n="0256a15"/>正儀範，率眾焚修三十餘年。後移錫十方，傳受毘尼，多所成就。</p>
+    <linkGrp>
+        <link targets="#0256a12 #0256a12"/>
+        <ptr target="#A043356" type="person"/>
+        <ptr target="#A043357" type="person"/>
+    </linkGrp>
+</div>

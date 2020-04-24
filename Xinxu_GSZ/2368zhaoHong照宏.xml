@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0252a08shiZhaoHong">
+<lb ed="B" n="0252a08"/><anchor n="B.27.0151.0252a08"/><head>清徽州常樂庵<persName key="A042338">釋照宏</persName>傳</head>
+<lb ed="B" n="0252a09"/><p xml:id="pB27p0252a0901"><persName key="A042338">釋照宏</persName>，字<persName key="A042338">緣鶴</persName>，姓李氏，仙源人也。將誕之夕，母夢一童子，跨鶴
+<lb ed="B" n="0252a10"/>翩躚，飛入其家，覺而身動，呱呱在地。圓頂廣顙，眉目清奇，知有
+<lb ed="B" n="0252a11"/>夙<anchor xml:id="beg025201"/><choice><sic resp="CBETA">梁</sic><corr resp="PC-MB">果</corr></choice><anchor xml:id="end025201"/>，不入塵俗。稍長拜常樂<persName key="A043328">如心</persName>，字曰<persName key="A042338">緣鶴</persName>，以符其兆。由是委
+<lb ed="B" n="0252a12"/>懷內典，細繹梵音，雖貝葉靈文，過目能了。後得戒於寶華<persName key="A042321">嘗松</persName>，
+<lb ed="B" n="0252a13"/>心契波羅木乂之旨，力任行持。及遇韻松<persName key="A042322">蓮城</persName>，抉其素蘊，憮然
+<lb ed="B" n="0252a14"/>曰：「超六塵、通三昧者是子也。」乃付以紫衣、戒本，為律學真傳。時
+<lb ed="B" n="0252a15"/>諸檀越，請主寺席，弘演毘尼，繼風太原。三學既勤，七眾來歸，每
+<lb ed="B" n="0252a16"/>當講論，剖晰精微，聞其片偈，如證道果。<date from-iso="+1728-02-10" key="j23522392352592" to-iso="+1729-01-28">戊申</date>以<persName key="A003353">波離</persName>法脈，傳之
+<lb ed="B" n="0252a17"/>黃石<persName key="A043329">普開</persName>，端坐遷化。</p>
+    <linkGrp>
+        <link targets="#0252a11 #0252a11"/>
+        <ptr target="#A042338" type="person"/>
+        <ptr target="#A043328" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0252a12 #0252a13"/>
+        <ptr target="#A042338" type="person"/>
+        <ptr target="#A042321" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0252a13 #0252a14"/>
+        <ptr target="#A042338" type="person"/>
+        <ptr target="#A042322" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0252a16 #0252a17"/>
+        <ptr target="#A042338" type="person"/>
+        <ptr target="#A043329" type="person"/>
+    </linkGrp>
+</div>

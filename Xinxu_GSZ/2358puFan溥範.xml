@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0247b14shiPuFan">
+<lb ed="B" n="0247b14"/><anchor n="B.27.0151.0247b14"/><head>清淮安普應寺沙門<persName key="A042337">釋溥範</persName>傳</head>
+<lb ed="B" n="0247b15"/><p xml:id="pB27p0247b1501"><persName key="A042337">釋溥範</persName>，字<persName key="A042337">友曇</persName>，姓王氏，嶧人也。家本仕族，少通儒術。年甫及冠，
+<lb ed="B" n="0247b16"/>聞僧說戒「是心作佛，是佛是心」，頓悟玄旨，遂薙染於三皇寺。復
+<lb ed="B" n="0247b17"/>登寶華，得戒於<persName key="A001679">定庵</persName>，精究毘尼，依止五夏，出參名宿。宿遷極樂
+<lb ed="B" n="0247b18"/>寺<persName key="A016413">湛一</persName>，見而器之，留為輔教，侍錫講筵。隨之還山，繼席極樂，高
+<lb ed="B" n="0247b19"/>建法幢，力行律制。嘗與四眾，結社修懺，講演教觀，勉敦苦行，遐
+<lb ed="B" n="0247b20"/>邇歸從。更徇眾請，移錫普應。至則重新梵宇，嚴謐寺規，行解相<pb ed="B" xml:id="B27.0151.0248a" n="0248a"/>
+<lb ed="B" n="0248a01"/>應，功修無間。寂後弟子<persName key="A043306">徹洞</persName>奉為普應初祖，壽八十七，臘六十
+<lb ed="B" n="0248a02"/>七，闍維建窣堵於喜見塔北。雙標相望，湖山之間，自饒幽勝。</p>
+    <linkGrp>
+        <link targets="#0247b16 #0247b17"/>
+        <ptr target="#A042337" type="person"/>
+        <ptr target="#A001679" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0247b17 #0247b18"/>
+        <ptr target="#A042337" type="person"/>
+        <ptr target="#A016413" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0247b17 #0247b18"/>
+        <ptr target="#A042337" type="person"/>
+        <ptr target="#A043306" type="person"/>
+    </linkGrp>
+</div>

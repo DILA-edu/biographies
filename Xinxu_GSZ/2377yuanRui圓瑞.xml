@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0255a16shiYuanRui">
+<lb ed="B" n="0255a16"/><anchor n="B.27.0151.0255a16"/><head>清燕京潭柘山岫雲寺沙門<persName key="A042366">釋圓瑞</persName>傳</head>
+<lb ed="B" n="0255a17"/><p xml:id="pB27p0255a1701"><persName key="A042366">釋圓瑞</persName>，字<persName key="A042366">靜觀</persName>，<g ref="#CB33499">𠪱</g>城人也。幼依近邑福慧寺<persName key="A043350">還一</persName>薙染，受具於
+<lb ed="B" n="0255a18"/>潭<anchor xml:id="beg025501"/><choice><sic resp="CBETA">拓</sic><corr resp="PC-MB">柘</corr></choice><anchor xml:id="end025501"/><!-- 《律宗燈譜》卷6：「受具戒於潭柘洞祖座下」(CBETA, B22, no. 118, p. 817, a12-13) -->山<persName key="A042363">洞初</persName>，棲遲三載，精味律旨。嘗聽講《法華》，日課不足，則於
+<lb ed="B" n="0255a19"/>佛前琉璃燈下補習之，其勤苦如此。<date notBefore-iso="+1723-02-05" key="j23504082355036" notAfter-iso="+1735-10-08">清雍正時</date>，<persName key="A000212">世宗</persName>留意內典，
+<lb ed="B" n="0255a20"/>延訪名僧，重修龍藏。<persName key="A042366">瑞</persName>以清譽，被選入館。三易寒暑，始克蕆事。<pb ed="B" xml:id="B27.0151.0255b" n="0255b"/>
+<lb ed="B" n="0255b01"/>復徧遊京邑諸剎。<date from-iso="+1734-02-04" key="j23544252354778" to-iso="+1735-01-23">甲寅</date>還山，始掌教授。學侶莘莘，群瞻煦育。<date from-iso="+1765-01-21" key="j23657342366117" to-iso="+1766-02-08">乾
+<lb ed="B" n="0255b02"/>隆乙酉</date>，<persName key="A011033">和碩莊親王</persName>奏請主席岫雲，一院翕然，欽其道範。及登
+<lb ed="B" n="0255b03"/>猊座，益矢勤慎，矩矱<!-- 規矩法度 -->先入，遵守弗越。春冬法戒，常期不爽，新眾
+<lb ed="B" n="0255b04"/>景從，信施日至。<date from-iso="+1781-01-24" key="j23715812371964" to-iso="+1782-02-11">歲在辛丑</date>，恭逢<persName key="A042366">高宗</persName>萬壽，會啟龍華，用祝聖釐。
+<lb ed="B" n="0255b05"/>香雲繚繞，四眾霧合，座擁萬指，讚揚雷動。雖年踰古稀，精力猶
+<lb ed="B" n="0255b06"/>健。乃不久示疾，正衣坐化。壽七十有六，臘五十有五。初感微寒，
+<lb ed="B" n="0255b07"/>眾欲延醫，<persName key="A042366">瑞</persName>止之曰：「幻化空體，聚散不常。何勞人事？」終不服藥，
+<lb ed="B" n="0255b08"/>知能自了。</p>
+    <linkGrp>
+        <link targets="#0255a17 #0255a17"/>
+        <ptr target="#A042366" type="person"/>
+        <ptr target="#A043350" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0255a17 #0255a18"/>
+        <ptr target="#A042366" type="person"/>
+        <ptr target="#A042363" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0255a19 #0255a20"/>
+        <ptr target="#A042366" type="person"/>
+        <ptr target="#A000212" type="person"/>
+        <ptr target="#j23504082355036" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0255b01 #0255b02"/>
+        <ptr target="#A042366" type="person"/>
+        <ptr target="#A011033" type="person"/>
+        <ptr target="#j23657342366117" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0255b04 #0255b05"/>
+        <ptr target="#A042366" type="person"/>
+        <ptr target="#A042366" type="person"/>
+        <ptr target="#j23715812371964" type="time"/>
+    </linkGrp>
+</div>

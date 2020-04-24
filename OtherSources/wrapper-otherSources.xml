@@ -32,7 +32,6 @@
       <xi:include href="X82n1571_DaoBai道白.xml"/>
       <xi:include href="X82n1571_XingJing行靜.xml"/>
       <xi:include href="X84n1583_MingYu明盂.xml"/>
-      <xi:include href="X85n1590_RuXiang如相.xml"/>
       <xi:include href="X86n1596_HongChu弘儲.xml"/>
       <xi:include href="X87n1626_XingYuan行元.xml"/>
       <xi:include href="L158n1652_XingCong性聰.xml"/>
@@ -50,6 +49,7 @@
       <xi:include href="J38nB417_JiNeng機能.xml"/>
       <xi:include href="J38nB422_LinWo林我.xml"/>
       <xi:include href="J39nB457_BenZhen本真.xml"/>
+      <xi:include href="XiaoXian.xml"/>
     </body>
   </text>
 </TEI>

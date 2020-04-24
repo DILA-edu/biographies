@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0251b11shiXiangHui">
+<lb ed="B" n="0251b11"/><anchor n="B.27.0151.0251b11"/><head>清燕京瑞應寺沙門<persName key="A016472">釋祥暉</persName>傳</head>
+<lb ed="B" n="0251b12"/><p xml:id="pB27p0251b1201"><persName key="A016472">釋祥暉</persName>，字<persName key="A016472">瑞林</persName>，姓孫氏，天津人也。方在娠時，母感異徵，私<!-- 《律宗燈譜》卷5：「父私禱彌勒院」(CBETA, B22, no. 118, p. 794, a11) -->禱彌
+<lb ed="B" n="0251b13"/>勒院，得舉子。<ref type="date" target="#j23368832337266">六歲</ref>隨祖母<persName key="A043326">王氏</persName>詣院禮佛，雖在齠齡，觸事通曉，
+<lb ed="B" n="0251b14"/>近聽梵音，輒形喜躍。<ref type="person" target="#A043326">祖母</ref>知有宿根，不墮塵勞。久之，入里之無
+<lb ed="B" n="0251b15"/>量院，禮<persName key="A043327">濟舟</persName>薙染。教習經論，髣如記憶。<ref type="date" target="#j23420222342375">年二十</ref>詣寶華，受具於
+<lb ed="B" n="0251b16"/><persName key="A001679">定庵</persName><!-- 該年定庵示寂 -->，三載安居，專精律部，研究止持。<date from-iso="+1702-01-28" key="j23427302342818" to-iso="+1702-04-26">壬午春</date>，辤<persName key="A001679">定</persName>南下<!-- 《寶華山志．卷7．定菴和尚塔銘》：「壬午仲夏，其嗣義以狀來乞余銘其塔」(《中國佛寺史志彙刊》，第1輯，第41冊，頁0309)，當時應尚未入塔。 -->，兼慕禪
+<lb ed="B" n="0251b17"/>學。曆普陀、天童、育王、顯聖諸剎，凡浙中名匠，莫不參謁。聞<persName key="A043327">濟舟</persName>
+<lb ed="B" n="0251b18"/>病，招之北還。明年過柏林，遇<persName key="A021801">獨超</persName>，痛領鉗錘，方得了悟。<date from-iso="+1712-02-07" key="j23463922346479" to-iso="+1712-05-04">壬辰春</date>，
+<lb ed="B" n="0251b19"/>從<persName key="A042329">檀波</persName>來瑞應，命掌監院，律法大弘，寺聲復振，皆<persName key="A016472">暉</persName>唱導之力
+<lb ed="B" n="0251b20"/>也。<date from-iso="+1716-01-24" key="j23478392348222" to-iso="+1717-02-10">丙申</date>將登五臺，口偈有云：「摩尼寶積光輝滿，定向無人覓處<pb ed="B" xml:id="B27.0151.0252a" n="0252a"/>
+<lb ed="B" n="0252a01"/>逢。」蓋文理通徹，自成玅旨，非徒眈吟咏，可以企及。<date from-iso="+1721-01-28" key="j23496702350053" to-iso="+1722-02-15">辛丑</date>，<persName key="A042329">檀波</persName>寂
+<lb ed="B" n="0252a02"/>滅，繼主瑞應，十載精勤，以律持躬，內外肅然。<date from-iso="+1730-02-17" key="j23529772353331" to-iso="+1731-02-06"><choice><sic resp="CBETA">康熙</sic><corr resp="PC-MB">雍正</corr></choice>庚<anchor xml:id="beg_110" type="cb-app"/>戌<anchor xml:id="end_110"/></date>，京師地
+<lb ed="B" n="0252a03"/>震<!-- 《清史稿》卷9：「雍正八年（庚戌）八月十九日（乙卯），京師……地震。本文全部誤記一甲子 -->，殿宇傾頹。乃竭資修葺如故，復構法雲、金湯二宇。<date when-iso="+1732-06-17" key="j23538282353828">壬子夏五
+<lb ed="B" n="0252a04"/>月二十五日辛<anchor xml:id="beg_111" type="cb-app"/>巳<anchor xml:id="end_111"/></date>示微疾，集眾誡曰：「塵勞幻影，推窮莫測，稍涉
+<lb ed="B" n="0252a05"/>安排，即成大錯；隨緣所遇，莫生節目，謹持斯語，莫或怠息。」言訖
+<lb ed="B" n="0252a06"/>坐化，春秋五十有二，臘二十有六，塔於都城德勝門外，古塔之
+<lb ed="B" n="0252a07"/>右。</p>
+    <linkGrp>
+        <link targets="#0251b13 #0251b13"/>
+        <ptr target="#A016472" type="person"/>
+        <ptr target="#A043326" type="person"/>
+        <ptr target="#j23368832337266" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0251b14 #0251b15"/>
+        <ptr target="#A016472" type="person"/>
+        <ptr target="#A043327" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0251b15 #0251b16"/>
+        <ptr target="#A016472" type="person"/>
+        <ptr target="#A001679" type="person"/>
+        <ptr target="#j23420222342375" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0251b18 #0251b18"/>
+        <ptr target="#A016472" type="person"/>
+        <ptr target="#A021801" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0251b18 #0251b19"/>
+        <ptr target="#A016472" type="person"/>
+        <ptr target="#A042329" type="person"/>
+        <ptr target="#j23463922346479" type="time"/>
+    </linkGrp>
+</div>

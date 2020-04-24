@@ -344,6 +344,74 @@
 			<lem wit="喻眛庵輯影本">傳</lem>
 			<rdg wit="CBETA">傳</rdg>
 		</app>
+		<app from="beg024801">
+			<lem wit="喻眛庵輯影本">乂</lem>
+			<rdg wit="CBETA">乂</rdg>
+		</app>
+		<app from="beg024803">
+			<lem wit="喻眛庵輯影本">二</lem>
+			<rdg wit="CBETA">二</rdg>
+		</app>
+		<app from="beg024901">
+			<lem wit="喻眛庵輯影本">垣</lem>
+			<rdg wit="CBETA">垣</rdg>
+		</app>
+		<app from="beg024903">
+			<lem wit="喻眛庵輯影本">舊</lem>
+			<rdg wit="CBETA">舊</rdg>
+		</app>
+		<app from="beg024905">
+			<lem wit="喻眛庵輯影本">司</lem>
+			<rdg wit="CBETA">曰</rdg>
+		</app>
+		<app from="beg025001">
+			<lem wit="喻眛庵輯影本">依</lem>
+			<rdg wit="CBETA">依</rdg>
+		</app>
+		<app from="beg025003">
+			<lem wit="喻眛庵輯影本">頷</lem>
+			<rdg wit="CBETA">領</rdg>
+		</app>
+		<app from="beg025101">
+			<lem wit="喻眛庵輯影本">勿</lem>
+			<rdg wit="CBETA">勿</rdg>
+		</app>
+		<app from="beg025201">
+			<lem wit="喻眛庵輯影本">果</lem>
+			<rdg wit="CBETA">梁</rdg>
+		</app>
+		<app from="beg025403">
+			<lem wit="喻眛庵輯影本">戊</lem>
+			<rdg wit="CBETA">戊</rdg>
+		</app>
+		<app from="beg025501">
+			<lem wit="喻眛庵輯影本">拓</lem>
+			<rdg wit="CBETA">拓</rdg>
+		</app>
+		<app from="beg025603">
+			<lem wit="喻眛庵輯影本">戊</lem>
+			<rdg wit="CBETA">戊</rdg>
+		</app>
+		<app from="beg025701">
+			<lem wit="喻眛庵輯影本">林</lem>
+			<rdg wit="CBETA">林</rdg>
+		</app>
+		<app from="beg025702">
+			<lem wit="喻眛庵輯影本">載</lem>
+			<rdg wit="CBETA">載</rdg>
+		</app>
+		<app from="beg025801">
+			<lem wit="喻眛庵輯影本">彭</lem>
+			<rdg wit="CBETA">彭</rdg>
+		</app>
+		<app from="beg025802">
+			<lem wit="喻眛庵輯影本">勿</lem>
+			<rdg wit="CBETA">勿</rdg>
+		</app>
+		<app from="beg025901">
+			<lem wit="喻眛庵輯影本">三十七</lem>
+			<rdg wit="CBETA">三十七</rdg>
+		</app>
 		<app from="beg027201">
 			<lem wit="喻眛庵輯影本">戊</lem>
 			<rdg wit="CBETA">戊</rdg>
@@ -379,6 +447,10 @@
 		<app from="beg041101">
 			<lem wit="喻眛庵輯影本">㩦</lem>
 			<rdg wit="CBETA">攜</rdg>
+		</app>
+		<app from="beg041103">
+			<lem wit="喻眛庵輯影本">垣</lem>
+			<rdg wit="CBETA">垣</rdg>
 		</app>
 		<app from="beg041201">
 			<lem wit="喻眛庵輯影本">扶</lem>

@@ -128,9 +128,6 @@ ed="T" n="0845b08"/>聖人。」</p>
     <linkGrp>
         <link targets="#0844a20 #0844b03"/>
         <ptr target="#A009238" type="person"/>
-        <ptr target="#A002843" type="person"/>
-        <ptr target="#A002144" type="person"/>
-        <ptr target="#A003079" type="person"/>
         <ptr target="#PL000000028899" type="place"/>
         <ptr target="#j20020662002152" type="time"/>
     </linkGrp>

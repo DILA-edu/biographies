@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0253a04shiGuoZheng">
+<lb ed="B" n="0253a04"/><anchor n="B.27.0151.0253a04"/><head>清杭州昭慶寺沙門<persName key="A042343">釋果證</persName>傳</head>
+<lb ed="B" n="0253a05"/><p xml:id="pB27p0253a0501"><persName key="A042343">釋果證</persName>，字<persName key="A042343">懷德</persName>，姓俞氏，歸安人也。將誕之夕，鄰媼見衣袈裟僧
+<lb ed="B" n="0253a06"/>入其室，頗怪之。俄聞俞婦生子矣，由是異焉！故稟性殊眾，別有
+<lb ed="B" n="0253a07"/>夙根。年十六投杭之吉祥寺<persName key="A043333">淨明</persName>受度，授經論於<persName key="A043334">曰唯</persName>。<date from-iso="+1721-01-28" key="j23496702350053" to-iso="+1722-02-15">康熙辛
+<lb ed="B" n="0253a08"/>丑</date>受具於昭慶<persName key="A042334">德先</persName>，後為<persName key="A042333">如澄</persName>所器，傳以衣偈。<date from-iso="+1738-02-19" key="j23559012356254" to-iso="+1739-02-07">乾隆戊午</date>，繼席
+<lb ed="B" n="0253a09"/>昭慶。自嚴戒行，真樸無華，聿<!-- 速 -->興慈濟，廣播法聲，公卿元戎，皆相
+<lb ed="B" n="0253a10"/>器重，互隆蔭護。遂得檀施輻輳，殿閣益光，建堂築塔，拓地開基。
+<lb ed="B" n="0253a11"/>肇興水陸道場，莊嚴最勝。其徒<persName key="A043335">曉蒼</persName>、<persName key="A043336">清瑩</persName>輩，咸助其成。斯寺鼎
+<lb ed="B" n="0253a12"/>新以來，康乾之際，於斯為盛。</p>
+    <linkGrp>
+        <link targets="#0253a07 #0253a07"/>
+        <ptr target="#A042343" type="person"/>
+        <ptr target="#A043333" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0253a07 #0253a07"/>
+        <ptr target="#A042343" type="person"/>
+        <ptr target="#A043334" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0253a07 #0253a08"/>
+        <ptr target="#A042343" type="person"/>
+        <ptr target="#A042334" type="person"/>
+        <ptr target="#j23496702350053" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0253a08 #0253a08"/>
+        <ptr target="#A042343" type="person"/>
+        <ptr target="#A042333" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0253a11 #0253a11"/>
+        <ptr target="#A042343" type="person"/>
+        <ptr target="#A043335" type="person"/>
+        <ptr target="#A043336" type="person"/>
+    </linkGrp>
+</div>
