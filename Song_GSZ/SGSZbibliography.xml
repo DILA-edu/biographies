@@ -1390,7 +1390,7 @@
                 <bibl ana="book">
                   <author><hi>Bai</hi>, Jin Xian 白金銑</author>
                     <title>「慈悲水懺法」的形成過程</title>
-                    <edition>Taipei, Dharma Light Monthly  臺北，法光（法光文教基金會）n.208 pp.1-5<date>2007.01</date></edition>
+                    <edition>Taipei: Dharma Light Monthly  臺北，法光（法光文教基金會）n.208 pp.1-5<date>2007.01</date></edition>
                     <abbr>白金銑 2007</abbr>
                 </bibl>
                 <bibl ana="book">
@@ -1420,26 +1420,62 @@
                 <bibl ana="book">
                   <author><hi>Bao</hi>,  Deyi 包得义</author>
                     <title>永明诗僧康宝月及其诗歌考论</title>
-                    <edition>長沙 湖南省社会科学院 求索 2013 No.1，頁130-133。<date>2013.01</date></edition>
+                    <edition>長沙，湖南省社会科学院 求索 2013 No.1，頁130-133。<date>2013.01</date></edition>
                     <abbr>包得義 2013</abbr>
                 </bibl>
                 <bibl ana="book">
                   <author><hi>Cheng</hi>, Yalin 成亚林</author>
                     <title>诗僧皎然名字考辨</title>
-                    <edition>武漢 湖北社會科學，pp.130-131。<date>2008.12.10</date></edition>
+                    <edition>武漢，湖北社會科學，pp.130-131。<date>2008.12.10</date></edition>
                     <abbr>成亞林 2008</abbr>
                 </bibl>
                 <bibl ana="book">
                   <author><hi>Wu</hi>, Dingxuan 吳定泫</author>
                     <title>诗僧皎然</title>
-                    <edition>上海 復旦大學博士論文<date>2004</date></edition>
+                    <edition>上海，復旦大學博士論文<date>2004</date></edition>
                     <abbr>吳定泫 2004</abbr>
                 </bibl>
                 <bibl ana="book">
                   <author><hi>Yu</hi>, Xiang 余翔</author>
                     <title>皎然 《诗式》所受佛学影响之研究</title>
-                    <edition>上海 上海大學博士論文<date>2012</date></edition>
+                    <edition>上海，上海大學博士論文<date>2012</date></edition>
                     <abbr>余翔 2012</abbr>
+                </bibl>
+                <bibl ana="book">
+                  <author><hi>Zhang</hi>, Yuanji 張元濟</author>
+                    <title>Sibu congkan chubian 四部叢刊初編</title>
+                    <edition>上海，上海商務印書館民國8-11年印行<date>1919-1922</date></edition>
+                    <abbr>四部初</abbr>
+                </bibl>
+                <bibl ana="book">
+                  <author><hi>Zhang</hi>, Yuanji 張元濟</author>
+                    <title>Sibu congkan xubian 四部叢刊續編</title>
+                    <edition>上海，上海商務印書館民國23年印行<date>1934</date></edition>
+                    <abbr>四部續</abbr>
+                </bibl>
+                <bibl ana="book">
+                  <author><hi>Zheng</hi>, Yuanqing 鄭元慶</author>
+                    <title>湖錄經籍考</title>
+                    <edition>Taipei: Xinwenfeng Press  臺北，新文豐出版公司（叢書集成續編第七十一冊 影印 吳興劉氏嘉業堂刊本）<date>1989</date></edition>
+                    <abbr>湖錄經籍考</abbr>
+                </bibl>
+                <bibl ana="book">
+                  <author><hi>Li</hi>, Zhuangying 李壯鷹</author>
+                    <title>詩式校注</title>
+                    <edition>Beijing: People's Literature Publishing House 北京，人民文學出版社<date>2003.11</date>First edition</edition>
+                    <abbr>詩式校注</abbr>
+                </bibl>
+                <bibl ana="book">
+                  <author><hi>Ueki</hi>, Hisayuki 植木久行</author>
+                    <title>唐代作家新疑年録（3） : 韋応物・王泠然・賀知章・皎然・崔融・司空図・謝観・戴叔倫・杜審言・独孤及・孟郊・李紳・李邕・柳宗元</title>
+                    <edition>青森，弘前大学人文学部 文経論叢. 人文科学篇. 10, 1990,pp.147‐207<date>1990.03.20</date></edition>
+                    <abbr>植木久行 1990</abbr>
+                </bibl>
+                <bibl ana="book">
+                  <author><hi>Luo</hi>, Genze 羅根澤</author>
+                    <title>魏晉六朝文學批評史</title>
+                    <edition>Taipei: Taiwan Shangwu yinshuguan 臺北，臺灣商務印書館 臺二版<date>1996.03.01</date></edition>
+                    <abbr>魏晉六朝文學批評史</abbr>
                 </bibl>
             </listBibl>
         </body>

@@ -39,7 +39,7 @@
 <note xml:id="g37" resp="PC-JK-MB">緇伍，即僧人。僧著緇衣，故謂之緇流或緇徒。在家者則披著素衣。</note>
 <note xml:id="g38" resp="PC-JK-MB">將，與、和也。</note>
 <note rend="display:none;" xml:id="g39" resp="PC-JK-MB">叉，音「chǎ（ㄔㄚˇ）」，張開也。</note>
-<note xml:id="g40" resp="PC-JK-MB">惰，通「墮」，怠慢。</note>
+<note xml:id="g40" resp="PC-JK-MB">惰，懈怠。</note>
 <note xml:id="g41" resp="PC-JK-MB">含景，謂道家服食日光之養生術。語出<persName key="A006915">葛洪</persName>《抱朴子．外篇卷一．用刑第十四》：「譬存玄胎息、呼吸吐納、含景内視、熊經鳥伸者，長生之術也。」</note>
 <note xml:id="g42" resp="PC-JK-MB">便蕃，<seg type="note">又作「便煩」、「便繁」，</seg>屢次、頻繁。語出《十三經．左傳．襄公十一年》：「樂只君子，福祿攸同，便蕃左右，亦是帥從。」</note>
 <note xml:id="g43" resp="PC-JK-MB">蒲牢，鐘也。《西京賦》<persName key="A005861">薛綜</persName>注曰：「海中有大魚曰鯨，海邊又有獸名蒲牢。蒲牢素畏鯨，鯨魚擊蒲牢，輒大鳴。凡鐘欲令聲大者，故作蒲牢於上，所以撞之者，為鯨魚。」</note>
@@ -1587,7 +1587,7 @@
 <note xml:id="g1585" resp="PC-JK-MB">伏臘，夏之伏日及冬之臘日，為<date from-iso="-0220-11-14" key="j16410251646133" to-iso="-0206-11-09"><name>秦</name></date>、<date from-iso="-0201-02-24" key="j16477011801742" to-iso="+0220-11-25"><name>漢</name></date>時令名。或以夏祭為伏，冬祭為臘。</note>
 <note xml:id="g1586" resp="PC-JK-MB">周洛，指<placeName key="PL000000023581">洛陽</placeName>。<seg type="note">《後漢書．卷十三》<persName key="A019637">李賢</persName>注：「周洛，謂東都也。」</seg></note>
 <note xml:id="g1587" resp="PC-JK-MB">尸陀林，<name>梵</name>語<seg type="latin">Śītavana</seg>，<seg type="note">又作「屍陀林」、「寒林」、「尸多婆那林」、「尸摩賒那林」、「深摩舍那林」。原為位於<placeName key="PL000000048261">王舍城</placeName>北方之森林，為該城人民</seg>棄屍之所。</note>
-<note xml:id="g1588" resp="PC-JK-MB">間，<seg type="pronunciation">音「jiàn（ㄐㄧㄢˋ）」，</seg>猶少差，病情略緩。<seg type="note">語出《論語．子罕第九》：「<persName key="A002174">子</persName>疾病，<persName key="A002891">子路</persName>使門人為臣。病間曰：『久矣哉！<persName key="A002891">由</persName>之行詐也……』」</seg></note>
+<note xml:id="g1588" resp="PC-JK-MB">間，<seg type="pronunciation">音「jiàn（ㄐㄧㄢˋ）」，</seg>猶少差，病情略緩。<seg type="note">《論語．子罕第九》：「<persName key="A002174">子</persName>疾病，<persName key="A002891">子路</persName>使門人為臣。病間曰：『久矣哉！<persName key="A002891">由</persName>之行詐也……』」</seg></note>
 <note xml:id="g1589" resp="PC-JK-MB">辰，猶日，從甲至癸為十日，從子至亥為十二辰。<seg type="note">《十三經．左傳．成公九年》：「浹辰之間，而<name>楚</name>克其三都。」</seg></note>
 <note xml:id="g1590" resp="PC-JK-MB">勞生息死，生而辛勞，死而靜息。語出《莊子．內篇．大宗師第六》：「夫大塊載我以形，勞我以生，佚我以老，息我以死。」</note>
 <note xml:id="g1591" resp="PC-JK-MB">捨筏，謂結筏渡河，既至彼岸，則當捨筏，即謂不可執著於法。參見<ref cRef="CBETA_T01_n26_p764_b18-p764_c14">《中阿含經》CBETA, T01, no. 26, p. 764, b18-c14</ref>。</note>
@@ -2370,4 +2370,10 @@
 <note xml:id="g2367" resp="makita">篇什，指詩章。以《詩經》的〈雅〉、〈頌〉以十篇為一什故。</note>
 <note xml:id="g2368" resp="PC-JK-MB">心地，指戒。戒以心為本，恰如世間之以大地為基，故稱戒為「心地」，乃《梵網經》中之語。參《佛光．心地》頁1399。</note>
 <note xml:id="g2369" resp="PC-JK-MB">心地，指菩提。<ref cRef="CBETA_T16_n670_p479_b3-p479_b5">《楞伽阿跋多羅寶經》CBETA, T16, no. 670, p. 479, b3-5</ref>：「吾有《楞伽經》四卷，亦用付汝。即是如來心地要門，令諸眾生開示悟入。」參《佛光．心地》頁1399。</note>
+<note xml:id="g2370" resp="PC-JK-MB">文筆，文章著作。<persName key="A003075">劉勰</persName>《文心雕龍．總術第四十四》：「今之常言，有文有筆，以為無韻者筆也，有韻者文也。」</note>
+<note xml:id="g2371" resp="makita">赳胥，低階軍吏。</note>
+<note xml:id="g2372" resp="PC-JK-MB">行役，公出旅行。《詩經．魏風．陟岵》：「予子行役，夙夜無已。」</note>
+<note xml:id="g2373" resp="PC-JK-MB">束帛，五匹一束的帛布，古作禮物之用。《周禮．春官．大宗伯》：「孤執皮帛，卿執羔，大夫執鴈，士執雉。」<persName key="A002959">鄭玄</persName>注：「皮帛者，束帛而表以皮為之飾。」<persName key="A021037">賈公彥</persName>疏：「束帛，……束者十端，每端丈八尺，皆兩端合卷，揔為五匹，故云束帛也。」</note>
+<note xml:id="g2374" resp="PC-JK-MB">亹亹，<seg type="pronunciation">音「wéi wěi（ㄨㄟˊ ㄨㄟˇ）」，</seg>猶愛不釋卷。《後漢書．卷四十下．<persName key="A008642">班固</persName>》頁1386：「使讀之者亹亹而不猒。」<persName key="A019637">李賢</persName>注：「《爾雅》曰『亹亹，猶勉也。』」</note>
+<note xml:id="g2375" resp="PC-JK-MB">無何鄉，無何有之鄉，空無所有之處。《莊子．内篇．逍遥遊第一》：「今子有大樹，患其无用，何不樹之於无何有之鄉，廣莫之野。」<persName key="A021444">成玄英</persName>疏：「無何有，猶無有也。莫，無也。謂寬曠無人之處，不問何物，悉皆無有，故曰無何有之鄉也。」</note>
 </div>

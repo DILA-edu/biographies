@@ -2,9 +2,9 @@
 <div xmlns="http://www.tei-c.org/ns/1.0" type="譯經" xml:id="gsz0720b03shiPuTiLiuZhi"><lb
 ed="T" n="0720b03"/><anchor n="T.50.2061.0720b03"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000023652"><placeName>洛京</placeName><placeName>長壽寺</placeName></placeName><persName key="A001358">菩提流志</persName>傳<ptr rend="display:none;" target="#n185"/></head><p><lb
 ed="T" n="0720b04"/><persName key="A001358">釋菩提流志</persName>，<placeName key="PL000000048209">南天竺國</placeName>人也，淨行婆羅門<ptr rend="display:none;" type="glossary" target="#g117"/>種，<lb
-ed="T" n="0720b05"/>姓<name>迦葉</name>氏。<date when-iso="0583" key="j19339971934361">年十二</date>，就外道出家，事<persName key="A009117">波羅奢<lb
+ed="T" n="0720b05"/>姓<name>迦葉</name>氏。<date when-iso="+0583" key="j19339971934361">年十二</date>，就外道出家，事<persName key="A009117">波羅奢<lb
 ed="T" n="0720b06"/>羅</persName>，學聲明<ptr type="glossary" target="#g366"/>、僧佉<ptr type="glossary" target="#g367"/>等論。曆數、呪術、陰陽、讖緯<ptr type="glossary" target="#g368"/>，靡<lb
-ed="T" n="0720b07"/>不該通。年逾<date when-iso="0631" key="j19515281951892">耳順</date><ptr type="glossary" target="#g369"/>，方乃迴心，知外法之乖<lb
+ed="T" n="0720b07"/>不該通。年逾<date when-iso="+0631" key="j19515281951892">耳順</date><ptr type="glossary" target="#g369"/>，方乃迴心，知外法之乖<lb
 ed="T" n="0720b08"/>違，悟<name>釋</name>門之淵默<ptr rend="display:none;" type="glossary" target="#g370"/>，隱居山谷，積習頭陀<ptr type="glossary" target="#g357"/>。初<lb
 ed="T" n="0720b09"/>依<persName key="A009054">耶舍瞿沙<roleName>三藏</roleName></persName>學諸經論，其後遊歷<placeName key="PL000000048207">五<lb
 ed="T" n="0720b10"/>天</placeName>，遍親講肆。<persName key="A002146">高宗<roleName>大帝</roleName></persName>聞<ref type="person" target="#A001358">其</ref>遠譽，挹彼高<lb

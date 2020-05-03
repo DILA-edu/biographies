@@ -412,6 +412,14 @@
 			<lem wit="喻眛庵輯影本">三十七</lem>
 			<rdg wit="CBETA">三十七</rdg>
 		</app>
+		<app from="beg026001">
+			<lem wit="喻眛庵輯影本">冤</lem>
+			<rdg wit="CBETA">冤</rdg>
+		</app>
+		<app from="beg026101">
+			<lem wit="喻眛庵輯影本">瞻</lem>
+			<rdg wit="CBETA">瞻</rdg>
+		</app>
 		<app from="beg027201">
 			<lem wit="喻眛庵輯影本">戊</lem>
 			<rdg wit="CBETA">戊</rdg>

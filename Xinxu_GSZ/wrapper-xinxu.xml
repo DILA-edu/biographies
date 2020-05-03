@@ -599,7 +599,7 @@
         <xi:include href="2382puYue普悅.xml"/><!--清儀徵隆覺寺沙門釋普悅傳-->
         <xi:include href="2383yuanLiang源諒.xml"/><!--清燕京潭柘山岫雲寺沙門釋源諒傳-->
         <xi:include href="2384xingShi性實.xml"/><!--清燕京法源寺沙門釋性實傳-->
-        <xi:include href="2385-清燕京法源寺沙門釋昌濤傳信修_普照_海祥.xml"/><!--清燕京法源寺沙門釋昌濤傳信修_普照_海祥-->
+        <xi:include href="2385changTao昌濤.xml"/><!--清燕京法源寺沙門釋昌濤傳信修_普照_海祥-->
       </div>
       <div type="juan" n="33">
         <anchor n="B.27.0151.0261b11"/>
@@ -678,7 +678,7 @@
         <anchor n="B.27.0151.0290b11"/>
         <head>新續高僧傳四集卷第三十八</head>
         <lb n="0290b13" ed="B"/><p>靈感篇第六之三(正傳十六人　附見七人)</p>
-        <xi:include href="2434-清燕京玉泉山二聖庵釋僧清傳.xml"/><!--清燕京玉泉山二聖庵釋僧清傳-->
+        <xi:include href="2434sengQing僧清.xml"/><!--清燕京玉泉山二聖庵釋僧清傳-->
         <xi:include href="2435-清雲龍龍蟠寺沙門釋法鐙傳廣術.xml"/><!--清雲龍龍蟠寺沙門釋法鐙傳廣術-->
         <xi:include href="2436-清衡陽法輪寺沙門釋石隱傳.xml"/><!--清衡陽法輪寺沙門釋石隱傳-->
         <xi:include href="2437-清燕京廣濟寺沙門釋性美傳.xml"/><!--清燕京廣濟寺沙門釋性美傳-->
@@ -1158,7 +1158,7 @@
         <xi:include href="2776longSheng隆昇.xml"/><!--清當陽玉泉寺沙門釋隆昇傳培潤滋_香山瀠-->
         <xi:include href="2777niXiu禰修.xml"/><!--清金陵靈谷寺沙門釋禰修傳光蓮-->
         <xi:include href="2778zhaoChang照常.xml"/><!--清成都昭覺寺沙門釋照常傳-->
-        <xi:include href="2779jingAn敬安_test.xml"/><!--清四明天童寺沙門釋敬安傳精一-->
+        <xi:include href="2779jingAn敬安.xml"/><!--清四明天童寺沙門釋敬安傳精一-->
       </div>
     </body>
     <back>
