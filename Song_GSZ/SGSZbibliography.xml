@@ -1477,6 +1477,12 @@
                     <edition>Taipei: Taiwan Shangwu yinshuguan 臺北，臺灣商務印書館 臺二版<date>1996.03.01</date></edition>
                     <abbr>魏晉六朝文學批評史</abbr>
                 </bibl>
+                <bibl ana="book">
+                  <author><hi>Stein</hi>, Aurel</author>
+                    <title>Ancient Khotan</title>
+                    <edition>New York: Hacker Art Books<date>1975[1907]</date></edition>
+                    <abbr>Stein 1907</abbr>
+                </bibl>
             </listBibl>
         </body>
     </text>

@@ -12,7 +12,7 @@ ed="T" n="0879a08"/>今<placeName key="PL000000012747"><name>秀州</name><name>
 ed="T" n="0879a09"/><persName key="A013713">盧<roleName>令</roleName></persName>移邑字民<ptr type="glossary" target="#g2157"/>，欣然相遇，<persName key="A013712">幹</persName>悉先知。或云<lb
 ed="T" n="0879a10"/>得他心<ptr type="glossary" target="#g396"/>、宿命<ptr type="glossary" target="#g2158"/>之明焉！遂請<persName key="A013712">幹</persName>首唱。而惡偃<lb
 ed="T" n="0879a11"/>室之囂，寓殿基後，編苫為淺室而居。四方<lb
-ed="T" n="0879a12"/>檀信，弗召自臻。又與僧令<persName key="A013715">恭君道</persName>等累歲方<lb
+ed="T" n="0879a12"/>檀信，弗召自臻。又與僧<persName key="A013842">令恭</persName>、<persName key="A013715">君道</persName>等累歲方<lb
 ed="T" n="0879a13"/>成今殿。其最高廣，海內罕比。事畢，挈弊囊，<lb
 ed="T" n="0879a14"/>振舊錫歸北，莫知其終。</p>
     <linkGrp>
@@ -50,6 +50,7 @@ ed="T" n="0879a14"/>振舊錫歸北，莫知其終。</p>
     <linkGrp>
         <link targets="#0879a12 #0879a13"/>
         <ptr target="#A013712" type="person"/>
+        <ptr target="#A013842" type="person"/>
         <ptr target="#A013715" type="person"/>
         <ptr target="#PL000000012759" type="place"/>
     </linkGrp>

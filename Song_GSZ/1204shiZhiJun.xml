@@ -23,8 +23,8 @@ ed="T" n="0881b11"/><persName key="A010403">圓</persName>乃詰朝嗚足<ptr ty
 ed="T" n="0881b12"/>澄汰</date>，<persName key="A010402">頵</persName>遁乎山谷，不捨<persName key="A002144">文殊</persName>之化境。未逾<lb
 ed="T" n="0881b13"/>歲載，<persName key="A003667">宣宗</persName>即位，勅<placeName key="PL000000005250">五臺</placeName>諸寺度僧五十人<ptr target="#n3379"/>，<lb
 ed="T" n="0881b14"/>宣供衣帔，山門再辟<ptr type="glossary" target="#g2201"/>。<persName key="A010402">頵</persName>為十寺僧長兼山<lb
-ed="T" n="0881b15"/>門都修造供養主。<date from-iso="+0853-02-16" key="j20326592033012" to-iso="+0854-02-04"><name>大中</name>七年</date>，與寰海遊<placeName key="PL000000005250">臺</placeName><lb
-ed="T" n="0881b16"/>四眾<ptr type="glossary" target="#g98"/>建無遮精妙供養<ptr target="#n3380"/>。一月日，乃謂大眾<lb
+ed="T" n="0881b15"/>門都修造供養主。<date from-iso="+0853-02-16" key="j20326592033012" to-iso="+0854-02-04"><name>大中</name>七年</date>，與<persName key="A021693">寰海</persName>遊<placeName key="PL000000005250">臺</placeName>，<lb
+ed="T" n="0881b16"/>四眾<ptr type="glossary" target="#g98"/>建無遮，精妙供養<ptr target="#n3380"/>。一月日，乃謂大眾<lb
 ed="T" n="0881b17"/>曰：「<ref type="person" target="#A010402">吾</ref>欲暫憩微骸，息心斂迹。佐助眾務，<ref type="person" target="#A010402">吾</ref><lb
 ed="T" n="0881b18"/>無能為也，付諸俊哲，繼<ref type="person" target="#A010402">吾</ref>遺躅。」乃淨室<ptr type="glossary" target="#g1985"/>安<lb
 ed="T" n="0881b19"/>坐而滅，春秋七十七，夏臘五十八云。</p>
@@ -80,8 +80,9 @@ ed="T" n="0881b24"/>蜃蛤，祈望<ptr type="glossary" target="#g2202"/>守之�
         <ptr target="#PL000000005250" type="place"/>
     </linkGrp>
     <linkGrp>
-        <link targets="#0881b15 #0881b16"/>
+        <link targets="#0881b15 #0881b15"/>
         <ptr target="#A010402" type="person"/>
+        <ptr target="#A021693" type="person"/>
         <ptr target="#PL000000005250" type="place"/>
         <ptr target="#j20326592033012" type="time"/>
     </linkGrp>

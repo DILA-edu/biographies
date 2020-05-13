@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0872c20shiFaCheng"><lb
-n="0872c20" ed="T"/><anchor n="T.50.2061.0872c20"/><head><date from-iso="+0689-12-21" key="j19730671978610" to-iso="+0705-02-24">周</date><placeName key="PL000000042189">京師</placeName><persName key="A013635">法成</persName>傳</head><p><lb
+n="0872c20" ed="T"/><anchor n="T.50.2061.0872c20"/><head><date from-iso="+0689-12-21" key="j19730671978610" to-iso="+0705-02-24">周</date><ref type="place" target="#PL000000042189">京城</ref><persName key="A013635">法成</persName>傳</head><p><lb
 ed="T" n="0872c21"/><persName key="A013635">釋法成</persName>，本姓<name>王</name>，名<persName key="A013635">守慎</persName>，官至監察御史<ptr target="#n2038"/>。屬<lb
 ed="T" n="0872c22"/><persName key="A002099">天后</persName>猜貳<ptr type="glossary" target="#g2061"/>，信酷吏羅織<ptr type="glossary" target="#g2062"/>，乃避法官，乞出家為<lb
 ed="T" n="0872c23"/>僧<ptr target="#n2098"/>。苦節勤於化導，聲發響隨，行高質直。<date key="j19774281978588" notAfter-iso="+0705-02-02" notBefore-iso="+0701-11-30"><name>長<lb

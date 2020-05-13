@@ -2,7 +2,7 @@
 <div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0884b10shiZunHui"><lb
 ed="T" n="0884b10"/><anchor n="T.50.2061.0884b10"/><head><date from-iso="+0936-12-05" key="j20632662067017" to-iso="+0947-03-14">晉</date><placeName key="PL000000023307"><anchor xml:id="beg0884sgsz7"/>東京<anchor xml:id="end0884sgsz7"/>相國寺</placeName><persName key="A013782">遵誨</persName>傳（<persName key="A013787">彥求</persName>）</head><p><lb
 ed="T" n="0884b11"/><persName key="A013782">釋遵誨</persName>，姓<name>李</name>氏，<placeName key="PL000000016494">譙郡</placeName>人也。祖世不仕，母<persName key="A019507">張<lb
-ed="T" n="0884b12"/><roleName>氏</roleName></persName>夢神人授<anchor xml:id="beg0884sgsz9"/>己<anchor xml:id="end0884sgsz9"/>寶珠，乃有娠焉。生且奇異，乳<lb
+ed="T" n="0884b12"/></persName>氏夢神人授<anchor xml:id="beg0884sgsz9"/>己<anchor xml:id="end0884sgsz9"/>寶珠，乃有娠焉。生且奇異，乳<lb
 ed="T" n="0884b13"/>哺之時，善認人之喜慍。彌長，見寺觀，必任<lb
 ed="T" n="0884b14"/>步遲迴<ptr type="glossary" target="#g1925"/>，顧<anchor xml:id="beg0884sgsz11"/>盻<anchor xml:id="end0884sgsz11"/>不捨。<ref type="date" target="#j20443242044707">年甫十一</ref>，<anchor xml:id="beg0884sgsz13"/>禮<anchor xml:id="end0884sgsz13"/><placeName key="PL000000016486"><placeName><anchor xml:id="beg0884sgsz15"/>亳<anchor xml:id="end0884sgsz15"/>城</placeName><placeName>開元寺</placeName></placeName><lb
 ed="T" n="0884b15"/><persName key="A013783">崇諲</persName>律主為師範矣。誦《法華經》，二周<ptr type="glossary" target="#g2262"/>畢部，<lb
@@ -33,12 +33,12 @@ ed="T" n="0884c10"/>席，逈見毘尼祕邃，方將傳講，俄悟<persName ke
 ed="T" n="0884c11"/><roleName>羅漢</roleName></persName>，反求堅固法<ptr target="#n3444"/>。乃遊<placeName key="PL000000056838">閩嶺</placeName>，得<persName key="A003890">長慶<roleName>禪師</roleName></persName><lb
 ed="T" n="0884c12"/>心決。迴<placeName key="PL000000008355">浙</placeName>，受<placeName key="PL000000012388">丹丘</placeName>人請，居<placeName key="PL000000011665">六通院</placeName>，其道望<lb
 ed="T" n="0884c13"/>惟馨，與夫申椒、菌桂<ptr type="glossary" target="#g2269"/>爭，其芬烈矣。<placeName key="PL000000008355">漢南國</placeName><lb
-ed="T" n="0884c14"/>王<persName key="A006774">錢<roleName>氏</roleName></persName><ptr target="#n2048"/>欽其高行，命住<placeName key="PL000000011452">功臣院</placeName>。末歸州治<lb
+ed="T" n="0884c14"/>王<persName key="A006774">錢</persName>氏<ptr target="#n2048"/>欽其高行，命住<placeName key="PL000000011452">功臣院</placeName>。末歸州治<lb
 ed="T" n="0884c15"/><placeName key="PL000000011483">龍華寺</placeName>，聚徒開演。<persName key="A013787">求</persName>好營眾事，務必身先，<lb
 ed="T" n="0884c16"/>唯以利人為急，受施必歸。常住房無關鍵，<lb
 ed="T" n="0884c17"/>笥<ptr type="glossary" target="#g609"/>無扃鐍<ptr type="glossary" target="#g673"/>；不容尼眾<anchor xml:id="beg0884sgsz25"/>禮<anchor xml:id="end0884sgsz25"/>謁，不苟聲勢<ptr type="glossary" target="#g2270"/>。常<lb
 ed="T" n="0884c18"/>屬度戒，四遠人聚，日供累千僧食，未甞告<lb
-ed="T" n="0884c19"/>匱。言前後計飯鉅萬人焉！<date notBefore-iso="+0960-02-09" key="j20717322073130" notAfter-iso="+0963-12-08"><name>宋</name><name>建隆</name>中</date>終于<lb
+ed="T" n="0884c19"/>匱言。前後計飯鉅萬人焉！<date notBefore-iso="+0960-02-09" key="j20717322073130" notAfter-iso="+0963-12-08"><name>宋</name><name>建隆</name>中</date>終于<lb
 ed="T" n="0884c20"/><ref type="place" target="#PL000000011483">住寺</ref>云。</p>
     <linkGrp>
         <link targets="#0884b11 #0884b13"/>

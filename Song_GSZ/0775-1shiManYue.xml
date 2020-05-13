@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="譯經" xml:id="gsz0722c21shiManYue"><lb
-ed="T" n="0722c21"/><anchor n="T.50.2061.0722c21"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000042189">京師</placeName><persName key="A002089">滿月</persName>傳（<persName key="A001294">智慧輪</persName>）</head><p><lb
+ed="T" n="0722c21"/><anchor n="T.50.2061.0722c21"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><ref type="place" target="#PL000000042189">京城</ref><persName key="A002089">滿月</persName>傳（<persName key="A001294">智慧輪</persName>）</head><p><lb
 ed="T" n="0722c22"/><persName key="A002089">釋滿月</persName>者，<placeName key="PL000000055436">西域</placeName>人也。爰來<placeName key="PL000000042189">震旦</placeName>，務在翻傳。<lb
 ed="T" n="0722c23"/>瑜伽法門，一皆貫練，既多神効，眾所推欽。<lb
 ed="T" n="0722c24"/><date notBefore-iso="+0836-01-26" key="j20264282027904" notAfter-iso="+0840-02-10"><name>開成</name>中</date>，進<name>梵</name>夾，遇偽甘露事<ptr target="#n425"/>去未旋踵，朝<lb
