@@ -2,7 +2,7 @@
 <div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0783c14shiWenXi"><lb
 ed="T" n="0783c14"/><anchor n="T.50.2061.0783c14"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000011482"><placeName>杭州</placeName><placeName>龍泉院</placeName></placeName>
 <persName key="A010634">文喜</persName>傳</head><p><lb
-ed="T" n="0783c15"/><persName key="A010634">釋文喜</persName>，姓<name>朱</name>氏，<placeName key="PL000000012686"><placeName>嘉禾</placeName><placeName>禦兒</placeName></placeName>人也。母氏方娠，夢<lb
+ed="T" n="0783c15"/><persName key="A010634">釋文喜</persName>，姓<name>朱氏</name>，<placeName key="PL000000012686"><placeName>嘉禾</placeName><placeName>禦兒</placeName></placeName>人也。母氏方娠，夢<lb
 ed="T" n="0783c16"/>吞桃三蔕，至誕彌不味葷羶。<date key="j20231162023480" from-iso="+0827-01-01" to-iso="+0827-12-31">七歲</date>，詣本邑<lb
 ed="T" n="0783c17"/><placeName key="PL000000012725">常樂寺</placeName>僧<persName key="A010635">清國</persName>下出家，<persName key="A010635">國</persName>即<persName key="A010634">喜</persName>之渭陽<ptr type="glossary" target="#g838"/>也。勒<lb
 ed="T" n="0783c18"/>誦經并懺<anchor xml:id="beg0783009"/><choice resp="PC-JK-MB"><sic>又</sic><corr>文</corr></choice><anchor xml:id="end0783009"/>十卷，方遂削染。往<placeName key="PL000000013226"><placeName>越州</placeName><placeName>開元<lb
@@ -21,7 +21,7 @@ ed="T" n="0783c29"/>施。」曰：「<ref type="person" target="#A010634">汝</
 ed="T" n="0784a01"/>築室居之。<date from-iso="+0869-02-19" key="j20385062038860" to-iso="+0870-02-08">十年</date>，<placeName key="PL000000011893">餘杭</placeName><persName key="A010637">劉嚴合</persName>、<persName key="A010638">馬徵</persName>請居<placeName key="PL000000011482">龍<lb
 ed="T" n="0784a02"/>泉古城院</placeName>，凡十一年。<date from-iso="+0879-01-30" key="j20421382042521" to-iso="+0880-02-17"><name>乾符</name><anchor xml:id="beg0784sgsz1"/>己<anchor xml:id="end0784sgsz1"/>亥歲</date>，<persName key="A008599">巢</persName>寇掠地<lb
 ed="T" n="0784a03"/>至<placeName key="PL000000011893">餘杭</placeName>，<persName key="A010634">喜</persName>避地<placeName key="PL000000057255"><placeName>湖州</placeName><placeName>餘不亭</placeName></placeName>，刺史<persName key="A010639">杜孺休</persName>請<lb
-ed="T" n="0784a04"/>住<placeName key="PL000000012984">仁王院</placeName>。<date from-iso="+0887-02-01" key="j20450622045445" to-iso="+0888-02-19"><name>光啟</name>三年</date>，<persName key="A003552">武肅王錢</persName>氏始牧<placeName key="PL000000011519">杭<lb
+ed="T" n="0784a04"/>住<placeName key="PL000000012984">仁王院</placeName>。<date from-iso="+0887-02-01" key="j20450622045445" to-iso="+0888-02-19"><name>光啟</name>三年</date>，<persName key="A003552">武肅王錢氏</persName>始牧<placeName key="PL000000011519">杭<lb
 ed="T" n="0784a05"/>郡</placeName>，降疏請住<placeName key="PL000000011478">龍泉廨署</placeName>，今<placeName key="PL000000011478">慈光院</placeName>是也。<date from-iso="+0890-01-29" key="j20461552046538" to-iso="+0891-02-16">大<lb
 ed="T" n="0784a06"/>順元年</date>，<placeName key="PL000000011308">威勝軍</placeName>節使<persName key="A010641">董昌</persName>、<persName key="A003552">武肅王</persName>同年發表薦<lb
 ed="T" n="0784a07"/>論，兩賜紫衣。<date from-iso="+0897-02-10" key="j20487242049077" to-iso="+0898-01-29"><name>乾寧</name>四年</date>奏師號，曰<persName key="A010634">無著</persName><ptr target="#n1686"/>。<date from-iso="+0900-02-08" key="j20498172050170" to-iso="+0901-01-27"><name>光<lb

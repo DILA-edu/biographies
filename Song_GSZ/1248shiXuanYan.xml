@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="雜科聲德" xml:id="gsz0893a19shiXuanYan">
-<lb ed="T" n="0893a19"/><anchor n="T.50.2061.0893a19"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>鄂州開元寺<persName key="A008829">玄晏</persName>傳</head><p>
-<lb ed="T" n="0893a20"/><persName key="A008829">釋玄晏</persName>，<placeName key="PL000000026482">江夏</placeName>人也，姓李氏。祖<persName key="A017616">善</persName>而博識多學，
-<lb ed="T" n="0893a21"/>注《文選》，行講集於梁、宋之<anchor xml:id="beg0893sgsz1"/>間<anchor xml:id="end0893sgsz1"/>。<persName key="A007761"><anchor xml:id="beg0893003"/><choice resp="PC-JK-MB"><sic>李</sic><corr>考</corr></choice><anchor xml:id="end0893003"/>邕</persName>，<placeName key="PL000000021026">北海</placeName>太
-<lb ed="T" n="0893a22"/>守，《唐書》有傳。<persName key="A008829">晏</persName>穉昧之齡，決志離俗，<date key="j19974111997556" notAfter-iso="+0757-01-08" notBefore-iso="+0756-08-16"><name>至德</name>
+<lb ed="T" n="0893a19"/><anchor n="T.50.2061.0893a19"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000026452">鄂州開元寺</placeName><persName key="A008829">玄晏</persName>傳</head><p>
+<lb ed="T" n="0893a20"/><persName key="A008829">釋玄晏</persName>，<placeName key="PL000000026482">江夏</placeName>人也，姓<name>李氏</name>。祖<persName key="A017616">善</persName>而博識多學，
+<lb ed="T" n="0893a21"/>注《文選》，行講集於<placeName key="PL000000043857">梁</placeName>、<placeName key="PL000000025556">宋</placeName>之<anchor xml:id="beg0893sgsz1"/>間<anchor xml:id="end0893sgsz1"/>。<persName key="A007761"><anchor xml:id="beg0893003"/><choice resp="PC-JK-MB"><sic>李</sic><corr>考</corr></choice><anchor xml:id="end0893003"/>邕</persName>，<placeName key="PL000000021026">北海</placeName>太
+<lb ed="T" n="0893a22"/>守，《唐書》有傳。<persName key="A008829">晏</persName>穉昧之齡，決志離俗，<date from-iso="+0756-02-09" key="j19972221997556" to-iso="+0757-01-08"><name>至德</name>
 <lb ed="T" n="0893a23"/>初年</date>，誦經高第，依僧<persName key="A013902">崇真</persName>剃落，配住<placeName key="PL000000026452">開元
-<lb ed="T" n="0893a24"/>寺</placeName>。<date key="j20015932001976" notAfter-iso="+0769-02-14" notBefore-iso="+0768-01-28"><name>大曆</name>三年</date>，從大闍梨<persName key="A013903">真悟</persName>受具足法，便
-<lb ed="T" n="0893a25"/>尋律範，目不視靡曼，足不履邪徑，於四
-<lb ed="T" n="0893a26"/>儀中，無終食之<anchor xml:id="beg0893sgsz2"/>間<anchor xml:id="end0893sgsz2"/>違教。儀形峭拔，眉目秀
-<lb ed="T" n="0893a27"/>朗，如孤鴻野鶴，獨立逈澤，望風瞻想，自有
-<lb ed="T" n="0893a28"/>遠致。性多分劑，苟與惡比丘共住，遑遑然
-<lb ed="T" n="0893a29"/>如以佉陀羅炭浴身也。不出戶牖，焚香<pb ed="T" n="0893b" xml:id="T50.2061.0893b"/>
+<lb ed="T" n="0893a24"/>寺</placeName>。<date from-iso="+0768-01-28" key="j20015932001976" to-iso="+0769-02-14"><name>大曆</name>三年</date>，從大闍梨<persName key="A013903">真悟</persName>受具足法，便
+<lb ed="T" n="0893a25"/>尋律範，目不視靡曼<ptr type="glossary" target="#g2386"/>，足不履邪徑，於四
+<lb ed="T" n="0893a26"/>儀<ptr type="glossary" target="#g1065"/>中，無終食之<anchor xml:id="beg0893sgsz2"/>間<anchor xml:id="end0893sgsz2"/>違教。儀形峭拔，眉目秀
+<lb ed="T" n="0893a27"/>朗，如孤鴻野鶴，獨立逈澤<ptr type="glossary" target="#g2387"/>，望風瞻想，自有
+<lb ed="T" n="0893a28"/>遠致。性多分劑<ptr type="glossary" target="#g2388"/>，苟與惡比丘共住，遑遑然
+<lb ed="T" n="0893a29"/>如以佉陀羅炭<ptr type="glossary" target="#g2389"/>浴身也。不出戶牖，焚香<pb ed="T" n="0893b" xml:id="T50.2061.0893b"/>
 <lb ed="T" n="0893b01"/>掃地，端坐盡日。人不堪其憂，而<persName key="A008829">晏</persName>居之，以
 <lb ed="T" n="0893b02"/>為三禪之樂不敵也。<persName key="A008829">晏</persName>少習毘尼，長學金
 <lb ed="T" n="0893b03"/>剛，解空破相，臻極玄奧。而聞律藏有一時

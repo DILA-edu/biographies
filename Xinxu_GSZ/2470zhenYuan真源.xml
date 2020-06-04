@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="遺身" xml:id="gsz0310a11shiZhenYuan">
+<lb ed="B" n="0310a11"/><anchor n="B.27.0151.0310a11"/><head>清燕京隆安寺沙門<persName key="A042404">釋真源</persName>傳</head>
+<lb ed="B" n="0310a12"/><p xml:id="pB27p0310a1201"><persName key="A042404">釋真源</persName>，字<persName key="A042404">崇壽</persName>，姓王氏，大興人也。賦質孱弱，幼而多病，因許捨
+<lb ed="B" n="0310a13"/>身，祈佛福佑，遂爾靃然。初依廣渠城闔隆安寺<persName key="A043452">隆起</persName>祝髮。<date from-iso="+1865-01-27" key="j24022642402647" to-iso="+1866-02-14">同治
+<lb ed="B" n="0310a14"/>四年</date>受具於都城南法源寺<persName key="A042403">寶珠</persName>。既嫻律度，止作兼持，儀容秩
+<lb ed="B" n="0310a15"/>秩。晚歲專志淨修，翹首西方，禮誦不輟，自期安養。會<date from-iso="+1900-01-31" key="j24150512415434" to-iso="+1901-02-18">庚子</date>之變，
+<lb ed="B" n="0310a16"/>九國聯軍，進逼都城，兩官西狩，海內騷然。初拳徒倡亂，讎視祆
+<lb ed="B" n="0310a17"/>教，多假佛寺，以處黨侶。故聯軍入京，擒斬拳民，焚毀寺宇，而隆
+<lb ed="B" n="0310a18"/>安與焉！當火起時，寺眾紛紛避去。<persName key="A042404">源</persName>獨慨然曰：「忘身為教，代有
+<lb ed="B" n="0310a19"/>高人；不尚苦行，誰明弘旨？且學佛所以了生死、澈心性，此而不
+<lb ed="B" n="0310a20"/>決，生復何為？不如壹念西方，與佛俱盡。」竟證火光於毘盧殿中，<pb ed="B" xml:id="B27.0151.0310b" n="0310b"/>
+<lb ed="B" n="0310b01"/>時年五十有四。</p>
+    <linkGrp>
+        <link targets="#0310a12 #0310a13"/>
+        <ptr target="#A042404" type="person"/>
+        <ptr target="#A043452" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0310a13 #0310a14"/>
+        <ptr target="#A042404" type="person"/>
+        <ptr target="#A042403" type="person"/>
+        <ptr target="#j24022642402647" type="time"/>
+    </linkGrp>
+</div>

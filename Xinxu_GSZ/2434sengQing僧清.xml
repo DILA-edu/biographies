@@ -22,10 +22,53 @@
 <lb ed="B" n="0291b10"/>笑曰：「此偶然耳！何足怪也？」由是四眾感慕。襄城伯<persName key="A043394">李國禎</persName>、司禮
 <lb ed="B" n="0291b11"/>監<persName key="A043395">王之臣</persName><!-- 非太監，誤記？《勅建弘慈廣濟寺新志．卷2．滿月清法師傳》：「襄城伯李國禎、司禮監王之臣、曹化淳等」(《中國佛寺史志彙刊》，第1輯，第44冊，頁0117) -->、<persName key="A043396">曹化湻</persName>咸相皈依。大清龍興，入據燕都，既殄流賊，遂
 <lb ed="B" n="0291b12"/>黜明命。然崇尚佛法，終召天和，平定區宇。時<persName key="A023408">恒明</persName>已入廣濟，復
-<lb ed="B" n="0291b13"/>迎<persName key="A015906">清</persName>講《護國仁王經》，八王<!-- 禮烈親王代善、鄭親王濟爾哈朗、睿親王多爾袞、豫親王多鐸、肅親王豪格、承澤親王碩塞、克勤郡王岳托、順承郡王勒克德渾 -->無不敬事。順治二年一日從容語恒
-<lb ed="B" n="0291b14"/>明日吾將返二聖庵作西歸計矣初至玉泉山時臨水登山贍
-<lb ed="B" n="0291b15"/>顧裴回指示人曰此地峰青聳秀流東曲繞頗饒幽勝吾將老
-<lb ed="B" n="0291b16"/>焉至是果寂此山中弟子環侍以膝示之曰昔在臥佛時跪諷
-<lb ed="B" n="0291b17"/>華嚴於瓦礫中不施蒲團今年<anchor xml:id="beg_149" type="cb-app"/>已<anchor xml:id="end_149"/>七十餘膝上肉瘢猶在也汝
-<lb ed="B" n="0291b18"/>曹勉之端襟就化所遺銅盤後雖遇冰不復結花</p>
+<lb ed="B" n="0291b13"/>迎<persName key="A015906">清</persName>講《護國仁王經》，<persName key="G000111">八王</persName>無不敬事。<date from-iso="+1645-01-28" key="j23219122322295" to-iso="+1646-02-15">順治二年</date>，一日從容語<persName key="A023408">恒</persName>：
+<lb ed="B" n="0291b14"/>「明日<ref type="person" target="#A023408">吾</ref>將返二聖庵，作西歸計矣！」初至玉泉山時，臨水登山，贍
+<lb ed="B" n="0291b15"/>顧裴回，指示人曰：「此地峰青聳秀，流東曲繞，頗饒幽勝，<ref type="person" target="#A023408">吾</ref>將老
+<lb ed="B" n="0291b16"/>焉！」至是，果寂此山中。弟子環侍，以膝示之曰：「昔在臥佛時跪諷
+<lb ed="B" n="0291b17"/>《華嚴》於瓦礫中，不施蒲團。今年<anchor xml:id="beg_149" type="cb-app"/>已<anchor xml:id="end_149"/>七十餘，膝上肉瘢猶在也，汝
+<lb ed="B" n="0291b18"/>曹勉之。」端襟就化。所遺銅盤，後雖遇冰，不復結花。</p>
+    <linkGrp>
+        <link targets="#0291a14 #0291a16"/>
+        <ptr target="#A015906" type="person"/>
+        <ptr target="#A043393" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0291b01 #0291b04"/>
+        <ptr target="#A015906" type="person"/>
+        <ptr target="#A023408" type="person"/>
+        <ptr target="#j23160642316447" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0291b08 #0291b10"/>
+        <ptr target="#A015906" type="person"/>
+        <ptr target="#A042603" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0291b10 #0291b11"/>
+        <ptr target="#A015906" type="person"/>
+        <ptr target="#A043394" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0291b10 #0291b11"/>
+        <ptr target="#A015906" type="person"/>
+        <ptr target="#A043395" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0291b10 #0291b11"/>
+        <ptr target="#A015906" type="person"/>
+        <ptr target="#A043396" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0291b12 #0291b13"/>
+        <ptr target="#A015906" type="person"/>
+        <ptr target="#A023408" type="person"/>
+        <ptr target="#G000111" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0291b13 #0291b14"/>
+        <ptr target="#A015906" type="person"/>
+        <ptr target="#A043396" type="person"/>
+        <ptr target="#j23219122322295" type="time"/>
+    </linkGrp>
 </div>

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="義解" xml:id="gsz0738b14shiWeiQue"><lb
 n="0738b14" ed="T"/><anchor n="T.50.2061.0738b14"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000042324"><placeName>京師</placeName><placeName>崇福寺</placeName></placeName><persName key="A008962">惟慤</persName><anchor xml:id="beg0738002"/><choice resp="PC-JK-MB"><sic>傳一</sic><corr>傳</corr></choice><anchor xml:id="end0738002"/>（<persName key="A009585">慧震</persName> <persName key="A008963">弘沇</persName>）</head><p><lb
-ed="T" n="0738b15"/><persName key="A008962">釋惟慤</persName>，俗姓<name>連</name>氏，<name>齊</name>大夫<persName key="A001384">稱</persName>之後，本<placeName key="PL000000043356"><anchor xml:id="beg0738sgsz8"/>憑翊<anchor xml:id="end0738sgsz8"/></placeName>人，<lb
+ed="T" n="0738b15"/><persName key="A008962">釋惟慤</persName>，俗姓<name>連氏</name>，<name>齊</name>大夫<persName key="A001384">稱</persName>之後，本<placeName key="PL000000043356"><anchor xml:id="beg0738sgsz8"/>憑翊<anchor xml:id="end0738sgsz8"/></placeName>人，<lb
 ed="T" n="0738b16"/>官居<placeName key="PL000000004129">上黨</placeName>，為<placeName key="PL000000004130">潞</placeName>人也。九歲割愛，冠年納戒。<lb
 ed="T" n="0738b17"/>母氏昆弟歸于法門，故<persName key="A008962">慤</persName>從其受教，瀾漪<lb
 ed="T" n="0738b18"/>內湛，葳𦼆<ptr rend="display:none;" type="glossary" target="#g836"/>外發。嗜學服勤<ptr rend="display:none;" type="glossary" target="#g837"/>，必無倦色。乃辭<lb

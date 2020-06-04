@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="靈感" xml:id="gsz0292a11shiShiYin">
+<lb ed="B" n="0292a11"/><anchor n="B.27.0151.0292a11"/><head>清衡陽法輪寺沙門<persName key="A016342">釋石隱</persName>傳</head>
+<lb ed="B" n="0292a12"/><p xml:id="pB27p0292a1201"><persName key="A016342">釋石隱</persName>者，不詳其氏族，蓋明故臣也。<persName key="A022402">桂</persName>藩南遷，遯竄荒遠，事不
+<lb ed="B" n="0292a13"/>可為，乃改僧服。<date notBefore-iso="+1662-02-18" key="j23281422350407" notAfter-iso="+1723-02-04">康熙時</date>始來衡陽，居法輪寺。重修精舍，戒律嚴
+<lb ed="B" n="0292a14"/>苦，法化弘深。初至時，野獸殘其園蔬，盜竊其財，皆自還伏，至今
+<lb ed="B" n="0292a15"/>多傳其靈異。縣中諸生<persName key="A043406">王仁綱</persName>，性質直，勇於為義。自明季國用
+<lb ed="B" n="0292a16"/>方亟，田稅增加，每糧一石，增三升六合，名曰加秋。<date notBefore-iso="+1662-02-18" key="j23281422350407" notAfter-iso="+1723-02-04">康熙時</date>削平
+<lb ed="B" n="0292a17"/>三藩，兵亂初定，牧令爭以墾荒為功。復報墾荒六百餘頃，科糧
+<lb ed="B" n="0292a18"/>千四百餘石，實無所出。更計見<!-- 現 -->田增稅之號曰「倍額糧」，追<g ref="#CB24336">𧦝</g>逋
+<lb ed="B" n="0292a19"/>逃，民吏交困，然莫敢陳訴。<persName key="A043406">仁綱</persName>獨訟，之司院，請荒熟並丈，計畝
+<lb ed="B" n="0292a20"/>徵稅，娓娓數千言。巡撫<persName key="A043407">興</persName>公驚歎嘉獎之，以為下車<!-- 到任 -->以來獨聞<pb ed="B" xml:id="B27.0151.0292b" n="0292b"/>
+<lb ed="B" n="0292b01"/>此讜言，而切責府道，檄令依實詳覆。官吏大怪，則怒<persName key="A043406">仁綱</persName>欲以
+<lb ed="B" n="0292b02"/>生員言事，律置之死。按察使亦忽善也，拘<persName key="A043406">仁綱</persName>省獄，將加嚴刑，
+<lb ed="B" n="0292b03"/>令自伏誣。<persName key="A043406">仁綱</persName>在獄，夢異僧謂<anchor xml:id="beg_14a" type="cb-app"/>己<anchor xml:id="end_14a"/>曰：「明日司訊，<ref type="person" target="#A043406">汝</ref>將不免。然為
+<lb ed="B" n="0292b04"/>民請命，義士也。事急時，但可條辨不直<!-- 不公 -->汝者，呼天當有應。」明日
+<lb ed="B" n="0292b05"/>果盛陳刑具威脅之，<persName key="A043406">仁綱</persName>不屈，方付重拷，急呼天稱枉。俄而大
+<lb ed="B" n="0292b06"/>聲若雷，震几案盡碎，羣官愕然。得請通丈趙甲<!-- 猶張三 -->喬魚鱗冊<!-- 丈量冊 -->，發自
+<lb ed="B" n="0292b07"/><persName key="A043406">仁綱</persName>也。既釋歸，尋夢中僧，得<persName key="A016342">石隱</persName>，曰：「是<ref type="person" target="#A043406">吾</ref>師也。」願留為弟子，<persName key="A016342">石
+<lb ed="B" n="0292b08"/>隱</persName>不可，遣其徒與居西山。<persName key="A016342">石隱</persName>棲法輪寺二十餘年，所著論錄，
+<lb ed="B" n="0292b09"/>多至數十百卷，尚有傳本云<!-- 民國《南嶽志》卷 16 -->。</p>
+    <linkGrp>
+        <link targets="#0292a15 #0292a20"/>
+        <ptr target="#A043406" type="person"/>
+        <ptr target="#A043407" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0292b07 #0292b08"/>
+        <ptr target="#A043406" type="person"/>
+        <ptr target="#A016342" type="person"/>
+    </linkGrp>
+</div>

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0883c16shiZhiHui"><lb
 n="0883c16" ed="T"/><anchor n="T.50.2061.0883c16"/><head><date from-iso="+0923-05-18" key="j20583162063308" to-iso="+0937-01-16">後唐</date><placeName key="PL000000023616">洛陽中灘浴院</placeName><persName key="A013776">智暉</persName>傳</head><p><lb
-ed="T" n="0883c17"/><persName key="A013776">釋智暉</persName>，姓<name>高</name>氏，<placeName key="PL000000043060">咸秦</placeName>人也。權輿<ptr type="glossary" target="#g830"/>總角，萌離俗<lb
+ed="T" n="0883c17"/><persName key="A013776">釋智暉</persName>，姓<name>高氏</name>，<placeName key="PL000000043060">咸秦</placeName>人也。權輿<ptr type="glossary" target="#g830"/>總角，萌離俗<lb
 ed="T" n="0883c18"/>之心，不狎童遊，動循天分<ptr target="#n3432"/>。欻<ptr type="glossary" target="#g1836"/>遇<placeName key="PL000000042639">圭峯</placeName><persName key="A013777">溫<roleName>禪<lb
 ed="T" n="0883c19"/>師</roleName></persName>，氣貌瑰偉，虛心體道，<anchor xml:id="beg0883sgsz19"/>趨<anchor xml:id="end0883sgsz19"/>其門者，淑慝<ptr type="glossary" target="#g1825"/>旌<lb
 ed="T" n="0883c20"/>別矣。謂<persName key="A013776">暉</persName>曰：「<ref type="person" target="#A013776">子</ref>實材器，多能之士也。」請祈<lb
@@ -14,7 +14,7 @@ ed="T" n="0883c26"/>法<ptr target="#n1370"/>，恨不與同時對壁連圖，�
 ed="T" n="0883c27"/>動也。」然真放達之士哉！或振錫而遊，縱觀<lb
 ed="T" n="0883c28"/>山水；或躡屩<ptr type="glossary" target="#g76"/>而至，歷覽市朝。意住則留，興盡<lb
 ed="T" n="0883c29"/>而去。或<placeName key="PL000000018771">東林</placeName>入社，或<placeName key="PL000000028928">南嶽</placeName>經行<ptr type="glossary" target="#g1047"/>，悟宗旨於<pb ed="T" n="0884a" xml:id="T50.2061.0884a"/><lb
-ed="T" n="0884a01"/><persName key="A001719">曹谿</persName>，寧勞一宿<ptr target="#n3435"/>；訪神仙於<placeName key="PL000000014381">阮洞</placeName>，擬到<persName key="G000109">三清</persName>。<lb
+ed="T" n="0884a01"/><persName key="A001719">曹谿</persName>，寧勞一宿<ptr target="#n3435"/>；訪神仙於<placeName key="PL000000014381">阮洞</placeName>，擬到「<ref type="person" target="#G000109">三清</ref>」。<lb
 ed="T" n="0884a02"/>事以志求，時無虛度。此外<anchor xml:id="beg0884sgsz1"/><choice resp="PC-JK-MB"><sic>釆</sic><corr>采</corr></choice><anchor xml:id="end0884sgsz1"/>藥於山谷，救<lb
 ed="T" n="0884a03"/>病於旅僧，惟切利他，心無別務。洎<date from-iso="+0915-01-22" key="j20549252055278" to-iso="+0914-02-03"><name>梁</name><name>乾化</name><lb
 ed="T" n="0884a04"/>四年</date>，自<placeName key="PL000000000197">江表</placeName>來于<ref type="place" target="#PL000000023638">帝京</ref>，顧諸<name>梵</name>宮<ptr type="glossary" target="#g2255"/>，無所<lb
@@ -27,7 +27,7 @@ ed="T" n="0884a10"/>朔後五日<ptr target="#n3440"/>，一開洗滌，曾無<a
 ed="T" n="0884a11"/>十有餘會矣；一浴則遠近都集三二千僧矣！<lb
 ed="T" n="0884a12"/><persName key="A013776">暉</persName>躬執役，未甞言倦。又以木<anchor xml:id="beg0884sgsz3"/>舃<anchor xml:id="end0884sgsz3"/><ptr type="glossary" target="#g2258"/>承足，枲麻<ptr type="glossary" target="#g760"/><lb
 ed="T" n="0884a13"/>縫衣，彼<persName key="A002188">迦葉波</persName>相去幾何哉！其或供僧向暇，<lb
-ed="T" n="0884a14"/>吟詠餘閑則命<ptr type="glossary" target="#g2259"/>筆墨也——緬想<placeName key="PL000000000152">嘉陵</placeName>碧浪，<placeName key="PL000000049332"><placeName>太<lb
+ed="T" n="0884a14"/>吟詠餘閑則命<ptr type="glossary" target="#g2259"/>筆墨也──緬想<placeName key="PL000000000152">嘉陵</placeName>碧浪，<placeName key="PL000000049332"><placeName>太<lb
 ed="T" n="0884a15"/>華</placeName><placeName>蓮峯</placeName></placeName>，凝神邈然，得趣乃<ptr type="glossary" target="#g2165"/>作；<placeName key="PL000000016805">五溪</placeName>煙景，四<lb
 ed="T" n="0884a16"/>壁寒林，移在目前，暑天凜冽矣！加復運思奇<lb
 ed="T" n="0884a17"/>巧，造輪汲水，神速無比。復構應真浴室西<lb

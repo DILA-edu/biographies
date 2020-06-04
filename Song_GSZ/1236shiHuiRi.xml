@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="雜科聲德" xml:id="gsz0890a29shiHuiRi">
 <lb ed="T" n="0890a29"/><anchor n="T.50.2061.0890a29"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000042154"><anchor xml:id="beg0890001"/>洛陽<anchor xml:id="end0890001"/>罔極寺</placeName><ptr target="#n3534"/><persName key="A001701">慧日</persName>傳（<persName key="A013854">真法師</persName>）</head><pb n="0890b" xml:id="T50.2061.0890b" ed="T"/><p>
-<lb ed="T" n="0890b01"/><persName key="A001701">釋慧日</persName>，俗姓<name>辛</name>氏，<placeName key="PL000000020932">東萊</placeName>人也。<date notBefore-iso="+0683-12-31" key="j19708851980570" notAfter-iso="+0710-07-08"><persName key="A002100">中宗</persName>朝</date>得度，及
+<lb ed="T" n="0890b01"/><persName key="A001701">釋慧日</persName>，俗姓<name>辛氏</name>，<placeName key="PL000000020932">東萊</placeName>人也。<date notBefore-iso="+0683-12-31" key="j19708851980570" notAfter-iso="+0710-07-08"><persName key="A002100">中宗</persName>朝</date>得度，及
 <lb ed="T" n="0890b02"/>登具足後，遇<persName key="A001470">義淨<roleName>三藏</roleName></persName>，造一乘之極，躬詣
 <lb ed="T" n="0890b03"/><placeName key="PL000000048207">竺乾</placeName>，心恒羨慕。<persName key="A001701">日</persName>遂誓遊<placeName key="PL000000055436">西域</placeName>。始者泛舶
-<lb ed="T" n="0890b04"/>渡海，自經三載，東南海中諸國——<placeName key="PL000000048739">崑崙</placeName>、<placeName key="PL000000048205">佛誓</placeName>、<placeName key="PL000000048734">師
-<lb ed="T" n="0890b05"/>子洲</placeName>等——，經過略遍，乃達<placeName key="PL000000048207">天竺</placeName>，<anchor xml:id="beg0890sgsz2"/>禮<anchor xml:id="end0890sgsz2"/>謁聖迹。尋
+<lb ed="T" n="0890b04"/>渡海，自經三載，東南海中諸國──<placeName key="PL000000048739">崑崙</placeName>、<placeName key="PL000000048205">佛誓</placeName>、<placeName key="PL000000048734">師
+<lb ed="T" n="0890b05"/>子洲</placeName>等──，經過略遍，乃達<placeName key="PL000000048207">天竺</placeName>，<anchor xml:id="beg0890sgsz2"/>禮<anchor xml:id="end0890sgsz2"/>謁聖迹。尋
 <lb ed="T" n="0890b06"/>求<name>梵</name>本，訪善知識，一十三年<ptr target="#n3541"/>。咨稟法訓，思
 <lb ed="T" n="0890b07"/>欲利人，振錫還鄉，獨影孤征。雪嶺胡鄉，又
 <lb ed="T" n="0890b08"/>涉四載。既經多苦，深厭<placeName key="PL000000048207">閻浮</placeName>，何國何方，有
@@ -35,7 +35,7 @@
 <lb ed="T" n="0890c03"/>時冬天到彼，不見枝葉。薹、荽非五辛，所食
 <lb ed="T" n="0890c04"/>無罪。<persName key="A001701">日</persName>親見為驗<anchor xml:id="beg0890002"/>歟<anchor xml:id="end0890002"/>？以<date from-iso="+0748-02-08" key="j19942991994652" to-iso="+0749-01-26"><name>天寶</name>七年</date>卒于
 <lb ed="T" n="0890c05"/><ref type="place" target="#PL000000042154">住寺</ref>，報齡六十九。葬于<placeName key="PL000000042340">白鹿原</placeName>，成小塔焉。</p><p>
-<lb ed="T" n="0890c06"/><placeName key="PL000000012409"><placeName>餘姚</placeName><placeName>休光寺</placeName></placeName><ptr target="#n3539"/><persName key="A013854">釋真<roleName>法師</roleName></persName>，<placeName key="PL000000013517">金華</placeName>人也<ptr target="#n3538"/>，俗姓<name>王</name>氏。
+<lb ed="T" n="0890c06"/><placeName key="PL000000012409"><placeName>餘姚</placeName><placeName>休光寺</placeName></placeName><ptr target="#n3539"/><persName key="A013854">釋真<roleName>法師</roleName></persName>，<placeName key="PL000000013517">金華</placeName>人也<ptr target="#n3538"/>，俗姓<name>王氏</name>。
 <lb ed="T" n="0890c07"/><persName key="A013854">真</persName>𩭤丱辭家，童蒙悟道，發大精進，堅持戒
 <lb ed="T" n="0890c08"/>地。一門之中，數人緇服。<persName key="A013854">真</persName>學習師古，義成<ptr target="#n3535"/>先
 <lb ed="T" n="0890c09"/>聖；八部經<ptr type="glossary" target="#g2358"/>理，宛在掌中；三乘法源，盡於度

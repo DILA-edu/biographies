@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0808b09shiWenJu"><lb
 ed="T" n="0808b09"/><anchor n="T.50.2061.0808b09"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000014664"><placeName>天台山</placeName><placeName>國清寺</placeName></placeName><persName key="A011607">文舉</persName>傳</head><p><lb
-ed="T" n="0808b10"/><persName key="A011607">釋文舉</persName>，姓<name>張</name>氏，<placeName key="PL000000013615"><placeName>婺州</placeName><placeName>東陽</placeName></placeName>人也。<date key="j20038072004161" from-iso="+0774-02-19" to-iso="+0775-02-08">年甫<anchor xml:id="beg0808001"/><choice resp="PC-JK-MB"><sic>至</sic><corr>志</corr></choice><anchor xml:id="end0808001"/>學</date><ptr type="glossary" target="#g1443"/>，<lb
+ed="T" n="0808b10"/><persName key="A011607">釋文舉</persName>，姓<name>張氏</name>，<placeName key="PL000000013615"><placeName>婺州</placeName><placeName>東陽</placeName></placeName>人也。<date key="j20038072004161" from-iso="+0774-02-19" to-iso="+0775-02-08">年甫<anchor xml:id="beg0808001"/><choice resp="PC-JK-MB"><sic>至</sic><corr>志</corr></choice><anchor xml:id="end0808001"/>學</date><ptr type="glossary" target="#g1443"/>，<lb
 ed="T" n="0808b11"/>遂投師請法。<date key="j20052552005608" from-iso="+0778-02-06" to-iso="+0779-01-25">十九</date>落䰂<ptr type="glossary" target="#g635"/>，始墮息慈<ptr type="glossary" target="#g964"/>。<date from-iso="+0787-01-28" key="j20085332008916" to-iso="+0788-02-15"><name>貞元</name>三<lb
 ed="T" n="0808b12"/>年</date>，勅度得戒。<date key="j20052552014379" notBefore-iso="+0778-02-06" notAfter-iso="+0803-01-30">後十五年間</date>，以《四分律》<ptr target="#n70"/>為學，<lb
 ed="T" n="0808b13"/>時術<ptr type="glossary" target="#g817"/>之，晝夜翹勤，遂登講訓。次通《法華經》疏<lb

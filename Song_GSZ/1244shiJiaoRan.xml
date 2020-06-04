@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="雜科聲德" xml:id="gsz0891c22shiJiaoRan">
 <lb ed="T" n="0891c22"/><anchor n="T.50.2061.0891c22"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000012967"><anchor xml:id="beg0891003"/>湖州<anchor xml:id="end0891003"/>杼山</placeName><persName key="A008833">皎然</persName>傳（<persName key="A013883">福琳</persName>）</head><p>
-<lb ed="T" n="0891c23"/><persName key="A008833">釋皎然</persName>，<anchor xml:id="beg0891004"/><choice resp="PC-JK-MB"><sic>名</sic><corr>字</corr></choice><anchor xml:id="end0891004"/><persName key="A008833">晝</persName><ptr target="#n251"/>，姓<name>謝</name>氏，<placeName key="PL000000013106">長城</placeName><ptr target="#n3565"/>人，<persName key="A001869">康樂侯</persName>十世
+<lb ed="T" n="0891c23"/><persName key="A008833">釋皎然</persName>，<anchor xml:id="beg0891004"/><choice resp="PC-JK-MB"><sic>名</sic><corr>字</corr></choice><anchor xml:id="end0891004"/><persName key="A008833">晝</persName><ptr target="#n251"/>，姓<name>謝氏</name>，<placeName key="PL000000013106">長城</placeName><ptr target="#n3565"/>人，<persName key="A001869">康樂侯</persName>十世
 <lb ed="T" n="0891c24"/>孫<ptr target="#n3564"/>也。幼負異才，性與道合，初脫羈絆，漸加
 <lb ed="T" n="0891c25"/>削染<ptr target="#n3566"/>。登戒于<placeName key="PL000000011644">靈隱</placeName>戒壇<persName key="A010894">守直<roleName>律師</roleName></persName>邊，聽毘尼<ptr type="glossary" target="#g900"/>
 <lb ed="T" n="0891c26"/>道，特所留心。於篇什<ptr type="glossary" target="#g2367"/>中，吟詠情性，所謂造
@@ -30,7 +30,7 @@
 <lb ed="T" n="0892a20"/>人檢出草本，一覽而歎曰：「早年曾見<persName key="A003454">沈約</persName>
 <lb ed="T" n="0892a21"/>《品藻》<ptr target="#n3576"/>、<persName key="A013879">慧休</persName>《翰林》、<persName key="A005005">庾信</persName>《詩箴》<ptr target="#n3577"/>，三子所論殊不及
 <lb ed="T" n="0892a22"/>此，奈何學小乘褊見，以宿志為辭邪？」遂舉
-<lb ed="T" n="0892a23"/>邑中辭人<persName key="A013880">吳季德</persName>——<placeName key="PL000000000138">梁</placeName>常侍<persName key="A013685">均</persName>之後——，其文有家
+<lb ed="T" n="0892a23"/>邑中辭人<persName key="A013880">吳季德</persName>──<placeName key="PL000000000138">梁</placeName>常侍<persName key="A013685">均</persName>之後──，其文有家
 <lb ed="T" n="0892a24"/>風，予器而重<ref type="person" target="#A013880">之</ref><ptr target="#n3578"/>。<persName key="A008833">晝</persName>以<persName key="A010975">陸鴻漸</persName>為莫逆之交，
 <lb ed="T" n="0892a25"/>相國<persName key="A000047">于<roleName>公</roleName>頔</persName>、<persName key="A004865"><persName>顏</persName><persName>魯公</persName><persName>真卿</persName></persName>命裨贊<ptr type="glossary" target="#g536"/>《韻海》<ptr target="#n3579"/>二十
 <lb ed="T" n="0892a26"/>餘卷。好為五雜徂篇<ptr target="#n3580"/>，用意奇險，實不忝<placeName key="PL000000000197">江
@@ -58,8 +58,8 @@
 <lb ed="T" n="0892b19"/>過舊院，就影堂傷悼彌久，遺題曰：「<persName key="A001503">道安</persName>已
 <lb ed="T" n="0892b20"/>返無何鄉<ptr type="glossary" target="#g2375"/>，<persName key="A001204">慧遠</persName>來過舊草堂。余亦當時及門
 <lb ed="T" n="0892b21"/>者，共吟佳句一焚香。」其遺德，後賢所慕者
-<lb ed="T" n="0892b22"/>相繼有焉。又<placeName key="PL000000000106">唐</placeName><placeName key="PL000000026515"><placeName>黃州</placeName><placeName>大石山</placeName></placeName><persName key="A013883">釋福琳</persName>，姓<name>元</name>氏，
-<lb ed="T" n="0892b23"/><placeName key="PL000000027770">荊州</placeName>人也。父為<placeName key="PL000000027118">襄陽</placeName>判司，素崇<name>釋</name>氏。<persName key="A013883">琳</persName>幼
+<lb ed="T" n="0892b22"/>相繼有焉。又<placeName key="PL000000000106">唐</placeName><placeName key="PL000000026515"><placeName>黃州</placeName><placeName>大石山</placeName></placeName><persName key="A013883">釋福琳</persName>，姓<name>元氏</name>，
+<lb ed="T" n="0892b23"/><placeName key="PL000000027770">荊州</placeName>人也。父為<placeName key="PL000000027118">襄陽</placeName>判司，素崇<name>釋氏</name>。<persName key="A013883">琳</persName>幼
 <lb ed="T" n="0892b24"/>好佛門，恒循檢操，早知割愛，就<placeName key="PL000000049298">玄靜寺</placeName><persName key="A013888">謙
 <lb ed="T" n="0892b25"/>著<roleName>師</roleName></persName>下剃染<ptr type="glossary" target="#g30"/>。登滿足法<ptr type="glossary" target="#g33"/>已，躬<anchor xml:id="beg0892sgsz1"/>禮<anchor xml:id="end0892sgsz1"/><persName key="A005612">荷澤<roleName>祖師</roleName></persName>，
 <lb ed="T" n="0892b26"/>乃契真心。後至<placeName key="PL000000026525">黃陂</placeName>，剪茅營舍，終成大

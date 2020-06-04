@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0886c01shiChangJue"><pb n="0886c" xml:id="T50.2061.0886c" ed="T"/><lb
 ed="T" n="0886c01"/><anchor n="T.50.2061.0886c01"/><head><date from-iso="+0960-02-09" key="j20717322132856" to-iso="+1127-06-18"><anchor xml:id="begd1e48941"/>宋<anchor xml:id="endd1e48941"/></date><placeName key="PL000000023417">東京普淨院</placeName><persName key="A010320">常覺</persName>傳</head><p><lb
-ed="T" n="0886c02"/><persName key="A010320">釋常覺</persName>，姓<name>李</name>氏，<placeName key="PL000000023329">陳留</placeName>人也。肇為鞠子<ptr type="glossary" target="#g2311"/>，氣調<ptr type="glossary" target="#g2312"/><lb
+ed="T" n="0886c02"/><persName key="A010320">釋常覺</persName>，姓<name>李氏</name>，<placeName key="PL000000023329">陳留</placeName>人也。肇為鞠子<ptr type="glossary" target="#g2311"/>，氣調<ptr type="glossary" target="#g2312"/><lb
 ed="T" n="0886c03"/>絕奇，入鄉校中諷讀經籍，群童咸出其下。<lb
 ed="T" n="0886c04"/>洎登弱冠，往<placeName key="PL000000018775">廬山</placeName>遊<placeName key="PLG00000000014">二林</placeName>，陟<placeName key="PL000000018780">五老</placeName>，乃<anchor xml:id="beg0886sgsz7"/>禮<anchor xml:id="end0886sgsz7"/><lb
 ed="T" n="0886c05"/><placeName key="PL000000018960">歸宗寺</placeName><ref type="person" target="#A019511">禪師</ref><ptr target="#n3470"/>，充苦行焉！<date from-iso="+0912-01-27" key="j20541872054570" to-iso="+0913-02-13"><name>梁</name><name>乾化</name>二年</date>，蒙去<lb
@@ -27,7 +27,7 @@ ed="T" n="0886c24"/>惠王</persName>賢諸侯也，甞謂<persName key="A004486
 ed="T" n="0886c25"/>是知禮讓之化，不勝於好利之心，明矣！且<placeName key="PL000000023338">梁</placeName><lb
 ed="T" n="0886c26"/>去<placeName key="PL000000021513">魯</placeName>千里而近，道猶不同，矧<ptr rend="display:none;" type="glossary" target="#g325"/>十萬八千里<lb
 ed="T" n="0886c27"/>乎？<persName key="A013806">梁王</persName>、<persName key="A004486">孟子</persName>，同世之人也，心或有異，況<persName key="A010320">瞿曇<lb
-ed="T" n="0886c28"/>上人</persName>乎？彼<persName key="A004486">孟</persName>氏屬斯文<ptr target="#n3478"/>未喪，不能揚<persName key="A002174">素王</persName><lb
+ed="T" n="0886c28"/>上人</persName>乎？彼<persName key="A004486">孟氏</persName>屬斯文<ptr target="#n3478"/>未喪，不能揚<persName key="A002174">素王</persName><lb
 ed="T" n="0886c29"/>之道；<ref type="person" target="#A010320">今上人</ref>當去聖逾遠，卒能行<persName key="A002799">法王</persName>之<pb ed="T" n="0887a" xml:id="T50.2061.0887a"/><lb
 ed="T" n="0887a01"/>教，苟非三業<ptr type="glossary" target="#g29"/>內淨，六塵<ptr type="glossary" target="#g384"/>外清，以至公之行<lb
 ed="T" n="0887a02"/>化於人，孰以至公之心受於化也！」<persName key="A011980">陶</persName>重敘<lb

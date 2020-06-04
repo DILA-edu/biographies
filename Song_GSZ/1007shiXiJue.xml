@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0810b15shiXiJue"><lb
 ed="T" n="0810b15"/><anchor n="T.50.2061.0810b15"/><head><date from-iso="+0947-03-15" key="j20670182068464" to-iso="+0951-02-28">漢</date><placeName key="PL000000058085"><placeName>錢塘</placeName><placeName>千佛寺</placeName></placeName><persName key="A010005">希覺</persName>傳</head><p><lb
-ed="T" n="0810b16"/><persName key="A010005">釋希覺</persName>，字<persName key="A010005">順之</persName>，姓<name>商</name>氏，世居<placeName key="PL000000009739">晉陵</placeName>。<persName key="A010005">覺</persName>生於<lb
+ed="T" n="0810b16"/><persName key="A010005">釋希覺</persName>，字<persName key="A010005">順之</persName>，姓<name>商氏</name>，世居<placeName key="PL000000009739">晉陵</placeName>。<persName key="A010005">覺</persName>生於<lb
 ed="T" n="0810b17"/><placeName key="PL000000009786"><anchor xml:id="beg0810001"/>溧<anchor xml:id="end0810001"/>陽</placeName>，家系<name>儒</name><name>墨</name>，屬<date notBefore-iso="+0835-03-10" key="j20261062052491" notAfter-iso="+0907-06-06"><name>唐</name>季</date>喪亂，累被剽略，自<lb
 ed="T" n="0810b18"/>爾貧窶。嘗傭書于給事中<persName key="A009976">羅隱</persName>家，偶問名<lb
 ed="T" n="0810b19"/>居，<persName key="A009976">隱</persName>曰：「<placeName key="PL000000009739">毘陵</placeName><name>商</name>家兒，何至於此！」歎息再三，<lb
@@ -16,7 +16,7 @@ ed="T" n="0810b27"/>所懷。何耶？古德妄相穿鑿，各競師門，流宕
 ed="T" n="0810b28"/>返，<persName key="A010005">覺</persName>遂著記廣之，曰《增暉錄》<ptr target="#n1898"/>，蓋取<persName key="A006014">曹植</persName><lb
 ed="T" n="0810b29"/>云「螢燭末光，增暉日月。<ptr target="#n1949"/>」謙言增暉《集要》之<pb ed="T" n="0810c" xml:id="T50.2061.0810c"/><lb
 ed="T" n="0810c01"/>日月也，二十卷成部。<placeName key="PL000000008367">浙</placeName>之東西，盛行斯錄。<lb
-ed="T" n="0810c02"/>暨乎<persName key="A011638">則<roleName>公</roleName></persName>長往，乃講訓于<placeName key="PL000000012522">永嘉</placeName>。<persName key="A003552"><persName>武肅王</persName><persName>錢</persName>氏</persName><lb
+ed="T" n="0810c02"/>暨乎<persName key="A011638">則<roleName>公</roleName></persName>長往，乃講訓于<placeName key="PL000000012522">永嘉</placeName>。<persName key="A003552"><persName>武肅王</persName><persName>錢氏</persName></persName><lb
 ed="T" n="0810c03"/>季弟<persName key="A007286">鏵</persName>牧是郡，深禮重焉。尋為愚僧所誣<lb
 ed="T" n="0810c04"/><anchor xml:id="beg0810002"/><choice resp="PC-JK-MB"><sic>塑</sic><corr>愬</corr></choice><anchor xml:id="end0810002"/><ptr type="glossary" target="#g955"/>，釋而不問，徙於<placeName key="PL000000011487"><placeName>杭</placeName><placeName>大錢寺</placeName></placeName>。<persName key="A006771">文穆王</persName>造<placeName key="PL000000058085">千<lb
 ed="T" n="0810c05"/>佛伽藍</placeName>，召為寺主，借紫<ptr type="glossary" target="#g956"/>，私署曰<persName key="A010005">文光大師</persName><lb

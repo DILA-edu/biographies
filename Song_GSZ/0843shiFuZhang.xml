@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="義解" xml:id="gsz0751a12shiFuZhang"><lb
 ed="T" n="0751a12"/><anchor n="T.50.2061.0751a12"/><head><date from-iso="+0960-02-09" key="j20717322132856" to-iso="+1127-06-18"><anchor xml:id="beg0751sgsz1"/>宋<anchor xml:id="end0751sgsz1"/></date><placeName key="PL000000023341"><placeName>東京</placeName><placeName>天清寺</placeName></placeName><persName key="A010011">傅章</persName>傳</head><p><lb
-ed="T" n="0751a13"/><persName key="A010011">釋傅章</persName>，俗姓<name>彭</name>氏，<placeName key="PL000000023486"><placeName>開封</placeName><placeName>東明</placeName></placeName>人也。厥父<persName key="A018968">諲</persName>，即<lb
+ed="T" n="0751a13"/><persName key="A010011">釋傅章</persName>，俗姓<name>彭氏</name>，<placeName key="PL000000023486"><placeName>開封</placeName><placeName>東明</placeName></placeName>人也。厥父<persName key="A018968">諲</persName>，即<lb
 ed="T" n="0751a14"/>邑甸之上農也，塵務之外，正見不回，恒讀佛<lb
-ed="T" n="0751a15"/>經，懸解<ptr rend="display:none;" type="glossary" target="#g1343"/>詮旨。母<persName key="A018969"><anchor xml:id="beg0751001"/>邢<anchor xml:id="end0751001"/></persName>氏甞夢入法宇，手探道<lb
+ed="T" n="0751a15"/>經，懸解<ptr rend="display:none;" type="glossary" target="#g1343"/>詮旨。母<persName key="A018969"><anchor xml:id="beg0751001"/>邢<anchor xml:id="end0751001"/>氏</persName>甞夢入法宇，手探道<lb
 ed="T" n="0751a16"/>器，因而娠焉。與<ref type="person" target="#A018968">父</ref>知懷非常之子，指腹誓<lb
 ed="T" n="0751a17"/>令出俗。<date key="j20570832057448" from-iso="+0920-01-01" to-iso="+0920-12-31">年甫十一</date>，乃禮<ref type="place" target="#PL000000023486">本邑</ref>唯識師<persName key="A010012">祕<roleName>公</roleName></persName><lb
 ed="T" n="0751a18"/>為師，一見異之。初授《淨名》、《仁王》、《法華》三經，<lb

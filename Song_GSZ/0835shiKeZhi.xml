@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="義解" xml:id="gsz0748a25shiKeZhi"><lb
 ed="T" n="0748a25"/><anchor n="T.50.2061.0748a25"/><head><date from-iso="+0923-05-18" key="j20583162063308" to-iso="+0937-01-16">後唐</date><placeName key="PL000000023652"><placeName>洛京</placeName><placeName>長壽寺</placeName></placeName><persName key="A009905">可止</persName>傳</head><p><lb
-ed="T" n="0748a26"/><persName key="A009905">釋可止</persName>，姓<name>馬</name>氏，<placeName key="PL000000000446"><placeName>范陽</placeName><placeName>大房山</placeName><placeName>高丘</placeName></placeName>人也。年甫<lb
+ed="T" n="0748a26"/><persName key="A009905">釋可止</persName>，姓<name>馬氏</name>，<placeName key="PL000000000446"><placeName>范陽</placeName><placeName>大房山</placeName><placeName>高丘</placeName></placeName>人也。年甫<lb
 ed="T" n="0748a27"/><date key="j20391872039551" from-iso="+0871-01-01" to-iso="+0871-12-31">十二</date>，逈有出俗之心，依<placeName key="PL000000000351">憫忠寺</placeName><persName key="A009906">法貞<roleName>律師</roleName></persName>。<date key="j20402832040647" from-iso="+0874-01-01" to-iso="+0874-12-31">年<lb
 ed="T" n="0748a28"/>十五</date>，為息慈<ptr type="glossary" target="#g964"/>，辭<ref type="person" target="#A009906">師</ref>往<placeName key="PL000000000866">真定</placeName>習學經論。時<placeName key="PL000000005362">大<lb
 ed="T" n="0748a29"/>華嚴寺</placeName>有<persName key="A009908">仁楚<roleName>法師</roleName></persName>講《因明論》<ptr target="#n1184"/>，<persName key="A009905">止</persName>執卷服<pb ed="T" n="0748b" xml:id="T50.2061.0748b"/><lb
@@ -27,7 +27,7 @@ ed="T" n="0748b19"/><persName key="A009905">止</persName>焚香祝之曰：「<
 ed="T" n="0748b20"/>苟實龍神軫念，希值一檀越。」居數日，<ref type="person" target="#A000791">燕<anchor xml:id="beg0748003"/><choice resp="PC-JK-MB"><sic>師</sic><corr>帥</corr></choice><anchor xml:id="end0748003"/></ref><ptr target="#n1128"/><lb
 ed="T" n="0748b21"/><anchor xml:id="beg0748004"/><choice resp="PC-JK-MB"><sic>家</sic><corr>冡</corr></choice><anchor xml:id="end0748004"/>子<ptr type="glossary" target="#g1129"/>曰：「制勝司徒召申供養。」時<persName key="A006575">莊宗</persName>遣兵<lb
 ed="T" n="0748b22"/>出<placeName key="PL000000002296">飛狐</placeName><ref target="#j20543062054835" type="date">以圍之，歷乎年載</ref>，百穀勇<ptr type="glossary" target="#g2380"/>貴，<persName key="A009905">止</persName>頓<lb
-ed="T" n="0748b23"/>釋憂懼。<anchor xml:id="beg0748sgsz8"/>未<anchor xml:id="end0748sgsz8"/>幾<placeName key="PL000000000368">燕</placeName>陷，<ref type="person" target="#A000791 #A009919"><name>劉</name>氏父子</ref>俘歸<placeName key="PL000000003796">晉陽</placeName>，<persName key="A009905">止</persName><lb
+ed="T" n="0748b23"/>釋憂懼。<anchor xml:id="beg0748sgsz8"/>未<anchor xml:id="end0748sgsz8"/>幾<placeName key="PL000000000368">燕</placeName>陷，<ref type="person" target="#A000791 #A009919"><name>劉氏</name>父子</ref>俘歸<placeName key="PL000000003796">晉陽</placeName>，<persName key="A009905">止</persName><lb
 ed="T" n="0748b24"/>避亂<placeName key="PL000000002511">中山</placeName>，節度使<persName key="A009920">王處直</persName>素欽名譽，請於<lb
 ed="T" n="0748b25"/><placeName key="PL000000002493">開元寺</placeName>安置，逐月供俸。<persName key="A009905">止</persName>著《頓漸教義鈔》<lb
 ed="T" n="0748b26"/>一卷，見行于代。<date from-iso="+0928-01-31" key="j20600352060418" to-iso="+0929-02-17"><name>天成</name>三年戊子</date>，王師問罪，<placeName key="PL000000002511">定<lb

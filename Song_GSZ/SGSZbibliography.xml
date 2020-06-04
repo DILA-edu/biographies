@@ -519,7 +519,7 @@
                 </bibl>                
                 <bibl ana="book">
                   <author><hi>Liu</hi>, Yi 劉屹</author>
-                    <title>The Yao Boduo Stele as Evedence for Some Characters of Northern Taoism from the End of 5th Century to the Beginning of 6th Century 五、六世紀之交關中道教的特點——以「姚伯多碑」為中心（Medieval China Study 6(2006.12), p.1-22《中國中古史研究》6(2006.12)，頁1-22）</title>
+                    <title>The Yao Boduo Stele as Evedence for Some Characters of Northern Taoism from the End of 5th Century to the Beginning of 6th Century 五、六世紀之交關中道教的特點──以「姚伯多碑」為中心（Medieval China Study 6(2006.12), p.1-22《中國中古史研究》6(2006.12)，頁1-22）</title>
                     <edition>Lantai Publishing 蘭臺出版社 <date>2006</date></edition>
                     <abbr>劉屹 2006</abbr>
                 </bibl>
@@ -1335,7 +1335,7 @@
                 </bibl>
                 <bibl ana="book">
                   <author><hi>Gernet</hi>, Jacques 謝和耐 著；耿昇 譯</author>
-                    <title>Les aspects économiques du Bouddhisme dans la Société chinoise du Ve au Xe siècle 中国五——十世纪的寺院经济</title>
+                    <title>Les aspects économiques du Bouddhisme dans la Société chinoise du Ve au Xe siècle 中国五──十世纪的寺院经济</title>
                     <edition>Shanghai, Shanghai Ancient Books Publishing House 上海，上海古籍出版社<date>2004.11</date>First edition</edition>
                     <abbr>謝和耐 2004</abbr>
                 </bibl>
@@ -1478,10 +1478,34 @@
                     <abbr>魏晉六朝文學批評史</abbr>
                 </bibl>
                 <bibl ana="book">
+                  <author><hi>Yong</hi>, Rong 永瑢 撰；王雲五 編</author>
+                    <title>四庫全書總目提要</title>
+                    <edition>Shanghai: Shangwu yinshuguan 上海，商務印書館<date>1929-1933</date></edition>
+                    <abbr>總目提要</abbr>
+                </bibl>
+                <bibl ana="book">
+                  <author><hi>Kawachi</hi>, Shoen 河內昭円</author>
+                    <title>「皎然集」と賛寧</title>
+                    <edition>京都，大谷学報 73(1), pp.1-18<date>1993.10</date></edition>
+                    <abbr>河內 1993</abbr>
+                </bibl>
+                <bibl ana="book">
                   <author><hi>Stein</hi>, Aurel</author>
                     <title>Ancient Khotan</title>
                     <edition>New York: Hacker Art Books<date>1975[1907]</date></edition>
                     <abbr>Stein 1907</abbr>
+                </bibl>
+                <bibl ana="book">
+                  <author><hi>Yuan</hi>, Ke 袁珂 校注</author>
+                    <title>山海經校注</title>
+                    <edition>Shanghai, Shanghai Ancient Books Publishing House 上海，上海古籍出版社<date>1980.07</date></edition>
+                    <abbr>山海經校注</abbr>
+                </bibl>
+                <bibl ana="book">
+                  <author><hi>He</hi>, Mei 何梅</author>
+                    <title>歷代漢文大藏經目錄新考</title>
+                    <edition>Beijing: Zhong guo shehui kexue chubanshe 北京，中國社會科學出版社<date>2014.02</date>First edition</edition>
+                    <abbr>藏經目錄新考</abbr>
                 </bibl>
             </listBibl>
         </body>

@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0798a21shiTanYi"><lb
 ed="T" n="0798a21"/><anchor n="T.50.2061.0798a21"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000013226"><placeName>會稽</placeName><placeName>開元寺</placeName></placeName><persName key="A004177">曇一</persName>傳</head><p><lb
-ed="T" n="0798a22"/><persName key="A004177">釋曇一</persName><ptr target="#n415"/>，姓<name>張</name>氏，蓋<placeName key="PL000000023246">韓</placeName>人也<ptr target="#n1486"/>。其先<persName key="A004009">軒轅</persName>賦姓，<lb
+ed="T" n="0798a22"/><persName key="A004177">釋曇一</persName><ptr target="#n415"/>，姓<name>張氏</name>，蓋<placeName key="PL000000023246">韓</placeName>人也<ptr target="#n1486"/>。其先<persName key="A004009">軒轅</persName>賦姓，<lb
 ed="T" n="0798a23"/>至<persName key="A003195">良</persName>佐<placeName key="PL000000000097">漢</placeName>，侯于<placeName key="PL000000009592">留</placeName>。<date notBefore-iso="+0220-12-11" key="j18017581874651" notAfter-iso="+0420-07-08"><name>魏</name>、<name>晉</name></date>已還，衣冠<ptr type="glossary" target="#g1362"/>繼代。<anchor xml:id="beg0798sgsz2"/><choice resp="PC-JK-MB"><sic>僧</sic><corr>曾</corr></choice><anchor xml:id="end0798sgsz2"/><lb
 ed="T" n="0798a24"/>祖<persName key="A010924">恒</persName><placeName key="PL000000000105">隋</placeName>太常卿，扈蹕<placeName key="PL000000010783"><anchor xml:id="beg0798sgsz3"/>揚<anchor xml:id="end0798sgsz3"/>都</placeName>，遂家<anchor xml:id="beg0798sgsz4"/>於<anchor xml:id="end0798sgsz4"/><placeName key="PL000000013239">越</placeName><ptr target="#n1135"/>。<persName key="A010924">恒</persName>生<lb
 ed="T" n="0798a25"/>孝廉<persName key="A010925">翼</persName>，<persName key="A010925">翼</persName>生處士<ptr type="glossary" target="#g867"/><persName key="A010926">蕆</persName>，<persName key="A010926">蕆</persName>生<persName key="A004177">一</persName>，令<ptr rend="display:none;" type="glossary" target="#g1219"/>聞<placeName key="PL000000000197">江南</placeName>，今<lb
 ed="T" n="0798a26"/>四葉矣。<persName key="A004177">一</persName>宿植淨因，生知慧性，弱而敏悟，長<lb
 ed="T" n="0798a27"/>而聰明。<date key="j19789211979285" from-iso="+0706-01-01" to-iso="+0706-12-31">年十五</date>，從<persName key="A010927">李滔<roleName>先生</roleName></persName>習《詩》《禮》，終日<lb
 ed="T" n="0798a28"/>不違。<date key="j19792861979650" from-iso="+0707-01-01" to-iso="+0707-12-31">十六</date>，聽<placeName key="PL000000013295">雲門寺</placeName><persName key="A010106">茂亮<roleName>法師</roleName></persName><ptr target="#n418"/>經論，一聞懸<lb
-ed="T" n="0798a29"/>解<ptr rend="display:none;" type="glossary" target="#g1343"/>。<ref type="person" target="#A010106">法師</ref>異之，謂其母<persName key="A019338">孟</persName>氏曰：「此佛子也！可<pb ed="T" n="0798b" xml:id="T50.2061.0798b"/><lb
+ed="T" n="0798a29"/>解<ptr rend="display:none;" type="glossary" target="#g1343"/>。<ref type="person" target="#A010106">法師</ref>異之，謂其母<persName key="A019338">孟氏</persName>曰：「此佛子也！可<pb ed="T" n="0798b" xml:id="T50.2061.0798b"/><lb
 ed="T" n="0798b01"/>令削髮，當與授記<ptr type="glossary" target="#g1351"/>。」<persName key="A010106">亮</persName>即<persName key="A002100">孝和皇帝</persName>菩薩戒<lb
 ed="T" n="0798b02"/>師也。<persName key="A004177">一</persName>聞而歡喜，有度世之志。<date notBefore-iso="+0707-10-09" key="j19795671980570" notAfter-iso="+0710-07-08"><name>景龍</name>中</date>，承恩<lb
 ed="T" n="0798b03"/>出家，隷在僧錄。年滿受具於<placeName key="PL000000010986">丹陽</placeName><persName key="A010929">玄昶<roleName>律<lb
@@ -40,7 +40,7 @@ ed="T" n="0798b28"/>十五年</date><ptr target="#n1143"/>，仗錫東歸。<dat
 ed="T" n="0798b29"/>楚</persName>舉為<ref type="place" target="#PL000000013226">寺</ref>主，因而居焉<ptr target="#n421"/>。<persName key="A004177">一</persName>聲振<ref type="place" target="#PL000000042189">京華</ref>，道高<pb ed="T" n="0798c" xml:id="T50.2061.0798c"/><lb
 ed="T" n="0798c01"/><placeName key="PL000000009934">吳會</placeName>，布大慈以攝眾，修萬行以表儀。順<lb
 ed="T" n="0798c02"/>風問道者轂擊肩摩<ptr type="glossary" target="#g454"/>，函丈<ptr type="glossary" target="#g1025"/>請益者波委雲<lb
-ed="T" n="0798c03"/>萃<ptr type="glossary" target="#g455"/>。虛受<ptr target="#n1144"/>之量<ptr type="glossary" target="#g258"/>，隨而演說，故前後講《四分律》三<lb
+ed="T" n="0798c03"/>萃<ptr type="glossary" target="#g455"/>。虛受<ptr target="#n106"/>之量<ptr type="glossary" target="#g258"/>，隨而演說，故前後講《四分律》三<lb
 ed="T" n="0798c04"/>十五遍，《刪補鈔》二十餘遍焉。<placeName key="PL000000015039">江淮</placeName><name>釋</name>子受木<lb
 ed="T" n="0798c05"/>叉<ptr type="glossary" target="#g1202"/>者，非<persName key="A004177">一</persName>登壇，即不為得法，從持僧律。<lb
 ed="T" n="0798c06"/>蓋度人十萬計矣。<date from-iso="+0756-08-16" key="j19974111997993" to-iso="+0758-03-21"><name>至德</name></date>之際，國步多艱<ptr target="#n382"/>，緇徒<lb

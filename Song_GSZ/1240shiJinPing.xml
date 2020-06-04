@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="雜科聲德" xml:id="gsz0891a27shiJinPing">
 <lb ed="T" n="0891a27"/><anchor n="T.50.2061.0891a27"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000026282"><choice resp="PC-JK-MB"><sic>懷</sic><corr>淮</corr></choice>安郡西隱山</placeName><ptr target="#n3553"/><persName key="A010072">進平</persName>傳<ptr target="#n1437"/></head><p>
-<lb ed="T" n="0891a28"/><persName key="A010072">釋進平</persName>，姓<name>吳</name>氏，<placeName key="PL000000042192">京兆</placeName>人也。早出家于<placeName key="PL000000027250"><placeName>永安山</placeName>
+<lb ed="T" n="0891a28"/><persName key="A010072">釋進平</persName>，姓<name>吳氏</name>，<placeName key="PL000000042192">京兆</placeName>人也。早出家于<placeName key="PL000000027250"><placeName>永安山</placeName>
 <lb ed="T" n="0891a29"/><placeName>明福院</placeName></placeName>，風表端雅。諸經大論，皆所研尋。銷文<pb ed="T" n="0891b" xml:id="T50.2061.0891b"/>
-<lb ed="T" n="0891b01"/>鍊注，令人樂聞。末思禪觀，於<placeName key="PL000000023581">洛</placeName>下遇<placeName key="PL000000023656">荷澤</placeName>
+<lb ed="T" n="0891b01"/>鍊注，令人樂聞。末思禪觀，於<placeName key="PL000000023581">洛</placeName>下<ptr type="glossary" target="#g2383"/>遇<placeName key="PL000000023656">荷澤</placeName>
 <lb ed="T" n="0891b02"/><persName key="A005612">會<roleName>師</roleName></persName>了悟，且曰：「甚矣，不自外知者，所知難
 <lb ed="T" n="0891b03"/>乎哉！」後至<placeName key="PL000000026303">唐州</placeName>遂居<placeName key="PL000000026282">西隱山</placeName>。刺史<persName key="A013865">鄭文簡</persName>
 <lb ed="T" n="0891b04"/>請入城，闡揚宗旨。示滅年八十一，<date from-iso="+0779-03-27" key="j20056692005697" to-iso="+0779-04-24"><name>大曆</name>十四

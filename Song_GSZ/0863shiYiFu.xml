@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0760b07shiYiFu"><lb
 n="0760b07" ed="T"/><anchor n="T.50.2061.0760b07"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000042410"><placeName>京兆</placeName><placeName>慈恩寺</placeName></placeName><persName key="A008784">義福</persName>傳（<persName key="A003666">行思</persName>）<ptr rend="display:none;" target="#n2358"/></head><p><lb
-ed="T" n="0760b08"/><persName key="A008784">釋義福</persName>，姓<name>姜</name>氏，<placeName key="PL000000004308"><placeName>潞州</placeName><placeName>銅鞮</placeName></placeName>人也。幼慕空門，<lb
+ed="T" n="0760b08"/><persName key="A008784">釋義福</persName>，姓<name>姜氏</name>，<placeName key="PL000000004308"><placeName>潞州</placeName><placeName>銅鞮</placeName></placeName>人也。幼慕空門，<lb
 ed="T" n="0760b09"/>黍累<ptr type="glossary" target="#g1429"/>世務，初止<placeName key="PL000000042560"><placeName>藍田</placeName><placeName>化感寺</placeName></placeName>，處方丈之室<lb
 ed="T" n="0760b10"/>凡二十餘年，未甞出房宇之外<ptr target="#n1374"/>。後隷京師<placeName key="PL000000042410">慈<lb
 ed="T" n="0760b11"/>恩寺</placeName>，道望高峙，傾動物心。<date from-iso="+0725-02-22" key="j19859131986266" to-iso="+0726-02-10"><name>開元</name><choice resp="PC-JK-MB"><sic>十一</sic><corr>十三</corr></choice>年</date><ptr target="#n366"/>，從<ref type="person" target="#A000291">駕</ref><lb
@@ -13,17 +13,17 @@ ed="T" n="0760b16"/>郎<persName key="A010205">嚴<anchor xml:id="beg0760sgsz16"
 ed="T" n="0760b17"/><persName key="A009582">神秀</persName>禪門之傑，雖有禪行，得帝王重之無<lb
 ed="T" n="0760b18"/>以加者，而未甞聚徒開法也。洎乎<persName key="A009319">普寂</persName>始<lb
 ed="T" n="0760b19"/>於<ref type="place" target="#PL000000023581">都城</ref>傳教二十餘載，人皆仰<ref type="person" target="#A009319">之</ref><ptr target="#n1435"/>。初<persName key="A008784">福</persName>往<lb
-ed="T" n="0760b20"/><placeName key="PL000000023581">東洛</placeName>，召其徒戒其終期，兵部侍郎<persName key="A010207">張均</persName>、太<lb
+ed="T" n="0760b20"/><placeName key="PL000000023581">東洛</placeName>，召其徒，戒其終期。兵部侍郎<persName key="A010207">張均</persName>、太<lb
 ed="T" n="0760b21"/>尉<persName key="A010069">房琯</persName><ptr target="#n367"/>、禮部侍郎<persName key="A010209">韋陟</persName>常所信重，是日皆預<lb
 ed="T" n="0760b22"/>造焉。<persName key="A008784">福</persName>乃升堂，為門人演說，且曰：「<ref type="person" target="#A008784">吾</ref>沒日<lb
 ed="T" n="0760b23"/>昃，當為此決別耳。」久之，<persName key="A010207">張</persName>謂<persName key="A010069">房</persName>曰：「<ref type="person" target="#A010207">某</ref>夙歲<lb
 ed="T" n="0760b24"/>餌金丹，未甞臨喪。」言訖，<persName key="A010207">張</persName>遂潛去。<persName key="A008784">福</persName>忽謂<lb
-ed="T" n="0760b25"/><persName key="A010069">房</persName>曰：「與<ref type="person" target="#A010207">張<roleName>公</roleName></ref>遊有年矣。<ref type="person" target="#A010207">張<roleName>公</roleName></ref>將有非常之<lb
+ed="T" n="0760b25"/><persName key="A010069">房</persName>曰：「與<persName key="A010207">張<roleName>公</roleName></persName>遊有年矣。<persName key="A010207">張<roleName>公</roleName></persName>將有非常之<lb
 ed="T" n="0760b26"/>咎，名節皆虧。向來若終此法會，足以免禍。<lb
 ed="T" n="0760b27"/>惜哉！」乃提<persName key="A010069">房</persName>手曰：「必為中興名臣，其勉之！」<lb
 ed="T" n="0760b28"/>言訖而終。後<persName key="A010207">張均</persName>陷<ref type="person" target="#A008454">賊</ref>庭也，受其偽官<ptr target="#n2359"/>，而<lb
 ed="T" n="0760b29"/><persName key="A010069">房</persName>翼戴<ptr type="glossary" target="#g1430"/><ref type="person" target="#A000291 #A004378">兩朝</ref>，畢立大節，皆終<persName key="A008784">福</persName>之言矣。又<pb ed="T" n="0760c" xml:id="T50.2061.0760c"/><lb
-ed="T" n="0760c01"/><persName key="A003666">釋行思</persName>，姓<name>劉</name>氏，<placeName key="PL000000019383">廬陵</placeName>人也<ptr target="#n368"/>。濡潤厥躬，貞諒<ptr type="glossary" target="#g1431"/><lb
+ed="T" n="0760c01"/><persName key="A003666">釋行思</persName>，姓<name>劉氏</name>，<placeName key="PL000000019383">廬陵</placeName>人也<ptr target="#n368"/>。濡潤厥躬，貞諒<ptr type="glossary" target="#g1431"/><lb
 ed="T" n="0760c02"/>其性。出塵之後，納戒已還，破觚求圓，斵雕<lb
 ed="T" n="0760c03"/>為朴<ptr type="glossary" target="#g1432"/>，厥志天然也。往<placeName key="PL000000030617">韶陽</placeName>見<persName key="A001719">大鑒<roleName>禪師</roleName></persName>，一<lb
 ed="T" n="0760c04"/>言蔽斷，猶擊蒙焉<ptr target="#n1378"/>。既了本心，地祇<ptr type="glossary" target="#g1433"/>迭告還，<lb

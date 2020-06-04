@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="遺身" xml:id="gsz0307b13shiZhaiZi">
+<lb ed="B" n="0307b13"/><anchor n="B.27.0151.0307b13"/><head>清南嶽祝聖寺沙門<persName key="A043438">釋齋子</persName>傳<persName type="secondary" key="A043439">慧明</persName></head>
+<lb ed="B" n="0307b14"/><p xml:id="pB27p0307b1401"><persName key="A043438">釋齊子</persName>，姓王氏，江西人。削髮祝聖寺，執行苦役。日持布囊，乞一
+<lb ed="B" n="0307b15"/>盞飯，終日沿門，不語不笑，但叩鈴音，表其悲願。一日，往鐵佛寺
+<lb ed="B" n="0307b16"/>門拾柴，為蓬刺牽住，因舉火燒蓬。火然，端坐蓬中，手敲木魚，佛
+<lb ed="B" n="0307b17"/>聲不絕。火近腹，魚響甚厲。又<persName key="A043439">慧明</persName>結茨南坪，日啖苦菜。曾參<persName key="A009415">曉
+<lb ed="B" n="0307b18"/>堂</persName><!-- ？ -->，話無生理。忽一日，移龕攢柴，浴身入龕火化。</p>
+    <linkGrp>
+        <link targets="#0307b17 #0307b18"/>
+        <ptr target="#A043439" type="person"/>
+        <ptr target="#A009415" type="person"/>
+    </linkGrp>
+</div>

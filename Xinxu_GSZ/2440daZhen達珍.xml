@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="靈感" xml:id="gsz0294b15shiDaZhen">
+<lb ed="B" n="0294b15"/><anchor n="B.27.0151.0294b15"/><head>清天台國清寺沙門<persName key="A001569">釋達珍</persName>傳<persName type="secondary" key="A043413">宗海</persName><persName type="secondary" key="A043415">素庵</persName></head>
+<lb ed="B" n="0294b16"/><p xml:id="pB27p0294b1601"><persName key="A001569">釋達珍</persName>，字<persName key="A001569">寶林</persName>，別號<persName key="A001569">師崖</persName>，姓劉氏，撫州人。幼好靜居，若習禪觀。
+<lb ed="B" n="0294b17"/><ref type="date" target="#j23602722360625">年二十</ref>棄家，入括蒼山石門洞，依<persName key="A043413">宗海</persName>染剃。因於洞口慶雲峰
+<lb ed="B" n="0294b18"/>上飛瀑源頭，結茅為庵。進院之夕，山中神鐙，滿放光明，圓大如
+<lb ed="B" n="0294b19"/>斗，照曜林谷，升降流轉，遠映城市。官吏驚怪，遣員察驗。典史<persName key="A043414">姚
+<lb ed="B" n="0294b20"/><roleName>君</roleName></persName><!-- 不確定為姚洪泉 -->銜命而往，溫州普明寺<persName key="A043415">素庵</persName>法師聞風問訊，遇於山中。是夜<pb ed="B" xml:id="B27.0151.0295a" n="0295a"/>
+<lb ed="B" n="0295a01"/>庵前大樹上，懸空數十圓光，燦如白日。<persName key="A043415">素庵</persName>因謂<persName key="A043414">姚<roleName>君</roleName></persName>曰：「《般若》
+<lb ed="B" n="0295a02"/>記云佛子出世有大因緣，或機前顯跡，自見神光。此子因緣非
+<lb ed="B" n="0295a03"/>小，必為佛門津梁。」以偈記曰：「今此光明照爥身，菩薩信有宿生
+<lb ed="B" n="0295a04"/>因；他年定是靈山客，撥轉如來正法輪。」<persName key="A001569">珍</persName>禮謝，<persName key="A043415">素庵</persName>曰：「當期遠
+<lb ed="B" n="0295a05"/>大，毋久淹此。」<persName key="A001569">珍</persName>以三年為請，爾後安處亦無他異。後往普明聽
+<lb ed="B" n="0295a06"/>講《金剛》、《彌陀》諸經，即以頭陀行修般舟三昧，飲水食澹，脅不至
+<lb ed="B" n="0295a07"/>席。觀方至高旻，受記於<persName key="A000026">昭月</persName>，遂嗣法焉！<date from-iso="+1761-02-05" key="j23642882364641" to-iso="+1762-01-24">乾隆二十六年</date>主當陽
+<lb ed="B" n="0295a08"/>萬善，<date from-iso="+1767-01-30" key="j23664732366856" to-iso="+1768-02-17">三十二年</date>主大雄山崇福，<date from-iso="+1773-01-23" key="j23686582369041" to-iso="+1774-02-10">三十八年</date>主獅崖彌陀，<date from-iso="+1775-01-31" key="j23693962369779" to-iso="+1776-02-18">四十年</date>
+<lb ed="B" n="0295a09"/>主高旻，<date from-iso="+1777-02-08" key="j23701352370488" to-iso="+1778-01-27">四十二年</date>主北嵩岩法輪。已而退入台山，憇於華頂妙
+<lb ed="B" n="0295a10"/>峰庵。<date from-iso="+1780-02-05" key="j23712272371580" to-iso="+1781-01-23">四十五年</date>縣令<persName key="A043416">張</persName>公與紳耆，合詞請住國清，就庵延攬，勢
+<lb ed="B" n="0295a11"/>不獲<anchor xml:id="beg_14d" type="cb-app"/>卻<anchor xml:id="end_14d"/>。其時國清，年久廢朽，荒敗不堪，<persName key="A001569">珍</persName>至整飭頹綱，紹隆先
+<lb ed="B" n="0295a12"/>軌廟貌，佛乘屹然有紀。<date from-iso="+1786-01-30" key="j23734132373796" to-iso="+1787-02-17">五十一年</date>主大田白蓮，<date from-iso="+1787-02-18" key="j23737972374150" to-iso="+1788-02-06">五十二年</date>主黃
+<lb ed="B" n="0295a13"/>岩慶善。廿餘年間，八坐道場，所至興起，學侶景從，得法十餘人，
+<lb ed="B" n="0295a14"/>皆一時柱石。以<date when-iso="+1790-05-21" key="j23749852374985">乾隆五十五年四月八日</date>示寂。先是弟子<persName key="A031257">道宗</persName>
+<lb ed="B" n="0295a15"/>請至國清傳戒，歸庵坐說偈曰：「世尊下降，老僧涅槃；指天指地，
+<lb ed="B" n="0295a16"/>一等揑瞞。」披衣詣龕，洎然而化。壽六十，臘四十，塔於東塢。有《語
+<lb ed="B" n="0295a17"/>錄》數卷。</p>
+    <linkGrp>
+        <link targets="#0294b17 #0294b17"/>
+        <ptr target="#A001569" type="person"/>
+        <ptr target="#A043413" type="person"/>
+        <ptr target="#j23602722360625" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0294b19 #0295a05"/>
+        <ptr target="#A001569" type="person"/>
+        <ptr target="#A043414" type="person"/>
+        <ptr target="#A043415" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0295a07 #0295a07"/>
+        <ptr target="#A001569" type="person"/>
+        <ptr target="#A000026" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0295a10 #0295a11"/>
+        <ptr target="#A001569" type="person"/>
+        <ptr target="#A043416" type="person"/>
+        <ptr target="#j23712272371580" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0295a14 #0295a16"/>
+        <ptr target="#A001569" type="person"/>
+        <ptr target="#A031257" type="person"/>
+        <ptr target="#j23749852374985" type="time"/>
+    </linkGrp>
+</div>

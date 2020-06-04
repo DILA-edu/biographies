@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0762b11shiHuiZhong"><lb
 ed="T" n="0762b11"/><anchor n="T.50.2061.0762b11"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000026781"><placeName>均州</placeName><placeName>武當山</placeName></placeName><persName key="A001707">慧忠</persName>傳<ptr rend="display:none;" target="#n2367"/></head><p><lb
-ed="T" n="0762b12"/><persName key="A001707">釋慧忠</persName>，俗姓<name>冉</name>氏，<placeName key="PL000000013376"><placeName>越州</placeName><placeName>諸暨</placeName></placeName>人也。孰辨甲子？<lb
+ed="T" n="0762b12"/><persName key="A001707">釋慧忠</persName>，俗姓<name>冉氏</name>，<placeName key="PL000000013376"><placeName>越州</placeName><placeName>諸暨</placeName></placeName>人也。孰辨甲子？<lb
 ed="T" n="0762b13"/>或謂期頤之年<ptr type="glossary" target="#g1458"/>。肌膚氷雪，神宇峻爽。少而好<lb
-ed="T" n="0762b14"/>學，法受<ref type="person" target="#A003654">雙峯</ref>，默默全真，心承一印。行無住相<ptr rend="display:none;" type="glossary" target="#g1459"/>，<lb
+ed="T" n="0762b14"/>學，法受<persName key="A003654">雙峯</persName><ptr target="#n3602"/>，默默全真，心承一印。行無住相<ptr rend="display:none;" type="glossary" target="#g1459"/>，<lb
 ed="T" n="0762b15"/>歷試名山，<placeName key="PL000000000191">五嶺</placeName>、<placeName key="PL000000031276">羅浮</placeName>、<placeName key="PL000000012277">四明</placeName>、<placeName key="PL000000012081">天目</placeName>，<placeName key="PL000000025339">白崖</placeName>倚帝，<placeName key="PL000000042641">紫<lb
 ed="T" n="0762b16"/>閣</placeName>摩穹，或松下安居於九旬，或<anchor xml:id="beg0762sgsz6"/><choice resp="PC-JK-MB"><sic><g ref="#Z1283"/></sic><corr>嵌</corr></choice><anchor xml:id="end0762sgsz6"/>空息慮<lb
 ed="T" n="0762b17"/>於三昧<ptr rend="display:none;" type="glossary" target="#g199"/>。既懸明月之戒，亦淨瑠璃之心，已<lb

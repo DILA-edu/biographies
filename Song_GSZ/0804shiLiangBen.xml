@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="義解" xml:id="gsz0735a26shiDaoYin"><lb
 ed="T" n="0735a26"/><anchor n="T.50.2061.0735a26"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000042147"><placeName>京師</placeName><placeName>安國寺</placeName></placeName><persName key="A000540">良賁</persName>傳</head><p><lb
-ed="T" n="0735a27"/><persName key="A000540">釋良賁</persName><ptr target="#n3269"/>，姓<name>郭</name>氏，<placeName key="PL000000005190"><placeName>河中</placeName><placeName>虞鄉</placeName></placeName>人也。世襲冠裳，<lb
+ed="T" n="0735a27"/><persName key="A000540">釋良賁</persName><ptr target="#n3269"/>，姓<name>郭氏</name>，<placeName key="PL000000005190"><placeName>河中</placeName><placeName>虞鄉</placeName></placeName>人也。世襲冠裳，<lb
 ed="T" n="0735a28"/>法門之流，不標祖禰<ptr type="glossary" target="#g753"/>，故闕如也。<persName key="A000540">賁</persName>識鑒淵曠，<lb
 ed="T" n="0735a29"/>風表<ptr rend="display:none;" type="glossary" target="#g713"/>峻越，外通墳典<ptr type="glossary" target="#g418"/>，內善經論，義解<ptr rend="display:none;" type="glossary" target="#g544"/>之性，<pb ed="T" n="0735b" xml:id="T50.2061.0735b"/><lb
 ed="T" n="0735b01"/>人罕加焉。<date notBefore-iso="+0765-01-30" key="j20005002001190" notAfter-iso="+0766-12-21"><name>永泰</name>中</date>，<persName key="A000095">不空</persName>盛行傳譯，實難其<lb
@@ -17,7 +17,7 @@ ed="T" n="0735b10"/>宇內。奈何止言「波羅蜜」而闕「多」字<ptr t
 ed="T" n="0735b11"/>其到義。是以<persName key="A004378">肅宗皇帝</persName>齋心沐德，請<persName key="A000095">不空</persName>重<lb
 ed="T" n="0735b12"/>譯。及<persName key="A004378">肅皇</persName>晏駕<ptr type="glossary" target="#g756"/>，<persName key="A004379">代宗</persName>成<ref type="person" target="#A004378">先聖</ref>之願言，詔興<lb
 ed="T" n="0735b13"/>譯務，勅軍容使<persName key="A009402">魚朝恩</persName>監護<ptr rend="display:none;" type="glossary" target="#g55"/>於<placeName key="PL000000042365">南桃園</placeName>，起<lb
-ed="T" n="0735b14"/>乎告朔，終乎望日，<ref type="person" target="#A004379">帝</ref>御<placeName key="PL000000042366">承明殿灌頂道場</placeName><lb
+ed="T" n="0735b14"/>乎告朔，終乎望日，<ref type="person" target="#A004379">帝</ref>御<placeName key="PL000000042366"><placeName>承明殿</placeName><placeName>灌頂道場</placeName></placeName><lb
 ed="T" n="0735b15"/>躬執舊經，對譯新本，而復為序，冠于經首<ptr target="#n757"/>，<lb
 ed="T" n="0735b16"/>仍勅<persName key="A000540">賁</persName>造疏通經。<persName key="A000540">賁</persName>上表曰：「學孤<ptr type="glossary" target="#g758"/>先哲，有<lb
 ed="T" n="0735b17"/>玷清流，叨接翻傳，謬膺筆受<ptr rend="display:none;" type="glossary" target="#g53"/>。幸揚天闕，<lb

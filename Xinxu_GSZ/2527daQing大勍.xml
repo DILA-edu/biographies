@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="淨讀" xml:id="gsz0336b11shiDaQing">
+<lb ed="B" n="0336b11"/><anchor n="B.27.0151.0336b11"/><head>清諸暨大雄寺沙門<persName key="A042298">釋大勍</persName>傳<persName type="secondary" key="A015914">如會</persName></head>
+<lb ed="B" n="0336b12"/><p xml:id="pB27p0336b1201"><persName key="A042298">釋大勍</persName>，字<persName key="A042298">仲符</persName>，姓邊氏，紹興人。髫年出家於諸暨大雄寺。及長
+<lb ed="B" n="0336b13"/>聞<persName key="A001394">雲棲</persName>道聲，因渡江禮焉！深相契合，傾心淨業。晚歲憇錫大善
+<lb ed="B" n="0336b14"/>禪堂，雅好《華嚴》，日誦一函。<date from-iso="+1649-12-04" key="j23236832323711" to-iso="+1650-01-01">順治六年十一月</date>示疾，親書《封龕記》，
+<lb ed="B" n="0336b15"/>語屬諸後事。至期，起坐着衣，西向稱佛而寂。<persName key="A015914">如會</persName>，字<persName key="A015914">妙圓</persName>，姓譚
+<lb ed="B" n="0336b16"/>氏，順天人。少有奇志，便鄙肉食。<ref type="date" target="#j23076772308031">年廿九</ref>始出家，誓行頭陀，脇不
+<lb ed="B" n="0336b17"/>沾席。初至南方，唯事苦行。後為道侶所感，發壹意念佛，遂得豁
+<lb ed="B" n="0336b18"/>忘身世。見人不作寒溫語，必猛厲貇切，誨誡湻湻。孤志獨行，不
+<lb ed="B" n="0336b19"/>蓄長物。<date from-iso="+1648-08-19" key="j23232112323298" to-iso="+1648-11-14">順治五年秋</date>，過淮安清江浦，眾共留<ref type="person" target="#A015914">之</ref>。未幾，以一衲贈
+<lb ed="B" n="0336b20"/>萬德庵主人，且囑之曰：「<ref type="person" target="#A015914">吾</ref>不久將去，特一事相託。」主人曰：「比來<pb ed="B" xml:id="B27.0151.0337a" n="0337a"/>
+<lb ed="B" n="0337a01"/>未久，何遽言去？」曰：「西方去耳！可以遺身付江流中，施諸魚蟲。」主
+<lb ed="B" n="0337a02"/>人辤不敢。曰：「然則荼毘後，以骨和粉，投之大江何如？」主人曰：「諾。」
+<lb ed="B" n="0337a03"/>臨化之日，先命購香燭，眾莫測其意。至夜四鼓，大呼主人曰：「速
+<lb ed="B" n="0337a04"/>啟門，為<ref type="person" target="#A015914">我</ref>熱香然燭。」主人為然香燭，竟視之寂然矣！年七十一。</p>
+    <linkGrp>
+        <link targets="#0336b12 #0336b13"/>
+        <ptr target="#A042298" type="person"/>
+        <ptr target="#A001394" type="person"/>
+    </linkGrp>
+</div>

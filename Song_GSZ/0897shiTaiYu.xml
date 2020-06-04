@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0773c07shiTaiYu"><lb
 ed="T" n="0773c07"/><anchor n="T.50.2061.0773c07"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000009398"><placeName>常州</placeName><placeName>芙蓉山</placeName></placeName><persName key="A010472">太毓</persName>傳</head><p><lb
-ed="T" n="0773c08"/><persName key="A010472">釋<anchor xml:id="beg0773sgsz14"/>太毓<anchor xml:id="end0773sgsz14"/></persName>，姓<name>范</name>氏，<placeName key="PL000000008820">金陵</placeName>人也。年纔一紀<ptr type="glossary" target="#g122"/>，志在出<lb
+ed="T" n="0773c08"/><persName key="A010472">釋<anchor xml:id="beg0773sgsz14"/>太毓<anchor xml:id="end0773sgsz14"/></persName>，姓<name>范氏</name>，<placeName key="PL000000008820">金陵</placeName>人也。年纔一紀<ptr type="glossary" target="#g122"/>，志在出<lb
 ed="T" n="0773c09"/>家，乃<anchor xml:id="beg0773sgsz16"/>禮<anchor xml:id="end0773sgsz16"/><placeName key="PL000000008579">牛頭山</placeName><persName key="A010048">忠<roleName>禪師</roleName></persName>而師事焉。於是勇<lb
 ed="T" n="0773c10"/>猛精進，求其玄旨，法器外朗，神㦗內融。雖<lb
 ed="T" n="0773c11"/>明了一乘，而具足萬行。往<placeName key="PL000000042147"><placeName>雍京</placeName><placeName>安國寺</placeName></placeName>，進<lb
@@ -10,7 +10,7 @@ ed="T" n="0773c13"/>如大海之不可測，如虛空之不可量。巡<lb
 ed="T" n="0773c14"/><anchor xml:id="beg0773sgsz18"/>禮<anchor xml:id="end0773sgsz18"/>道場，攝心淨域，雖智能通達，不假因師，<lb
 ed="T" n="0773c15"/>而印可證明，必從先覺。遂謁<placeName key="PL000000018628">洪井</placeName><persName key="A003623">大寂<roleName>禪師</roleName></persName>，<lb
 ed="T" n="0773c16"/>覩相而了達法身，<anchor xml:id="beg0773sgsz20"/>剎<anchor xml:id="end0773sgsz20"/>那而頓成大道。于時<lb
-ed="T" n="0773c17"/>天下佛法，極盛無過<ref type="person" target="#A003623">洪府</ref>，座下賢聖比肩，得<lb
+ed="T" n="0773c17"/>天下佛法，極盛無過<placeName key="PL000000018628">洪府</placeName><ptr target="#n3603"/>，座下賢聖比肩，得<lb
 ed="T" n="0773c18"/>道者其數頗眾。<persName key="A010472">毓</persName>與<persName key="A010237"><anchor xml:id="beg0773sgsz22"/><choice resp="PC-JK-MB"><sic>天</sic><corr>大</corr></choice><anchor xml:id="end0773sgsz22"/>徹<roleName>禪師</roleName></persName>、<persName key="A010238">大宣教<roleName>禪師</roleName></persName>、<lb
 ed="T" n="0773c19"/><persName key="A001897">大智<roleName>禪師</roleName></persName>，皆昆仲也，既而南北觀方，曾無告<lb
 ed="T" n="0773c20"/>憚，俾廣聞見，閑養聖胎耳。<date from-iso="+0818-02-13" key="j20198722020226" to-iso="+0819-02-02"><name>元和</name>十三年</date>，<lb

@@ -859,8 +859,7 @@ def icon(wit):
     '元': 'yuan.ai',
     '范': 'fan.ai',
     '磧': 'qi.ai',
-    '宮': 'gong.ai',
-    '增': 'zeng.ai',
+    '甲': 'songjia.ai',
     '南藏': 'nan.ai',
   }
   t=re.split('[【】]', wit)

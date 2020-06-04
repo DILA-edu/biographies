@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0779b06shiCongJian"><lb
 ed="T" n="0779b06"/><anchor n="T.50.2061.0779b06"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000023549"><placeName>洛京</placeName><placeName>廣愛寺</placeName></placeName><persName key="A010557">從諫</persName>傳（<persName key="A010559">鑒宗</persName>）</head><p><lb
-ed="T" n="0779b07"/><persName key="A010557">釋從諫</persName>，姓<name>張</name>氏，本<placeName key="PL000000025497">南陽</placeName>人也，<anchor xml:id="beg0779002"/>徙<anchor xml:id="end0779002"/>居<placeName key="PL000000010783">廣陵</placeName>，生<lb
+ed="T" n="0779b07"/><persName key="A010557">釋從諫</persName>，姓<name>張氏</name>，本<placeName key="PL000000025497">南陽</placeName>人也，<anchor xml:id="beg0779002"/>徙<anchor xml:id="end0779002"/>居<placeName key="PL000000010783">廣陵</placeName>，生<lb
 ed="T" n="0779b08"/>于<placeName key="PL000000000195">淮甸</placeName>焉。為性倜儻，器宇崇峙，於閭里間，<lb
 ed="T" n="0779b09"/>為時畏服。遇相工曰：「<ref type="person" target="#A010557">子</ref>身長八尺，眉目秀<lb
 ed="T" n="0779b10"/>朗，他日必荷榮寄。」<persName key="A010557">諫</persName>曰：「心不願仕，於榮寄<lb
@@ -9,17 +9,17 @@ ed="T" n="0779b11"/>何有？」相工曰：「所寄荷不可測也。」<ptr t
 ed="T" n="0779b12"/>年，忽深信佛理，遂捨妻孥，求僧披剃焉。甫<lb
 ed="T" n="0779b13"/>登戒地，頗護心珠，因悟禪那<ptr rend="display:none;" type="glossary" target="#g227"/>，頓了玄理。<lb
 ed="T" n="0779b14"/>方數十載，同好之者自遠而來請問。<persName key="A010557">諫</persName>一一<lb
-ed="T" n="0779b15"/>指訂<ptr type="glossary" target="#g65"/>，俾其開覺。尋遊<placeName key="PL000000023549"><placeName>洛下</placeName><placeName>廣愛寺</placeName></placeName><ptr target="#n1605"/>挂錫。時<lb
+ed="T" n="0779b15"/>指訂<ptr type="glossary" target="#g65"/>，俾其開覺。尋遊<placeName key="PL000000023581">洛</placeName>下<ptr type="glossary" target="#g2383"/><placeName key="PL000000023549">廣愛寺</placeName><ptr target="#n1605"/>挂錫。時<lb
 ed="T" n="0779b16"/>禪客鱗集，如孝子之事父母焉。<placeName key="PL000000023581">洛</placeName>中有請<lb
 ed="T" n="0779b17"/><persName key="A010557">諫</persName>設食，必排位對<persName key="A006023">賓頭盧</persName>尊者，其為人之<lb
 ed="T" n="0779b18"/>欽奉皆此類矣。屬<date from-iso="+0845-02-15" key="j20297362030089" to-iso="+0846-02-03"><name>會昌</name><choice resp="PC-JK-MB"><sic>四</sic><corr>五</corr></choice>年</date><ptr target="#n1606"/>詔廢佛塔廟，<lb
 ed="T" n="0779b19"/>令沙門復桑梓，亦例澄汰。乃烏帽麻衣，潛<lb
-ed="T" n="0779b20"/>于<persName key="A022981">皇甫</persName>氏<ptr target="#n2676"/>之溫泉別業。後岡上喬木駢欝，巨<lb
+ed="T" n="0779b20"/>于<persName key="A022981">皇甫氏</persName><ptr target="#n2676"/>之溫泉別業。後岡上喬木駢欝，巨<lb
 ed="T" n="0779b21"/>石砥平，<persName key="A010557">諫</persName>於夏中常就此入定，或補毳事<ptr type="glossary" target="#g1417"/>。<lb
 ed="T" n="0779b22"/>忽遇頹雲駛雨，霆電擊石，烈風兼至，凡在此<lb
 ed="T" n="0779b23"/>者驚奔恐懾。<persName key="A010557">諫</persName>唯欣然加趺而坐，若無所<lb
 ed="T" n="0779b24"/>聞者。或問<persName key="A010557">諫</persName>，曰：「惡畜生何爾！」<ptr target="#n1627"/><date notBefore-iso="+0847-02-10" key="j20304612031609" notAfter-iso="+0850-04-03"><name>大中</name>初</date>，<persName key="A003667">宣皇</persName><lb
-ed="T" n="0779b25"/>詔興<name>釋</name>氏，<persName key="A010557">諫</persName>還歸<placeName key="PL000000023581">洛邑</placeName>舊居。其子一日自<lb
+ed="T" n="0779b25"/>詔興<name>釋氏</name>，<persName key="A010557">諫</persName>還歸<placeName key="PL000000023581">洛邑</placeName>舊居。其子一日自<lb
 ed="T" n="0779b26"/><placeName key="PL000000010783">廣陵</placeName>來覲，適與<persName key="A010557">諫</persName>遇<anchor xml:id="beg0779003"/>於<anchor xml:id="end0779003"/>院門，威貌嚴莊，不<lb
 ed="T" n="0779b27"/>復可識。乃問曰：「<persName key="A010557">從諫</persName>大德所居？」<persName key="A010557">諫</persName>指之東<lb
 ed="T" n="0779b28"/>南可尋。其子既去，遂闔門不出，其割裂愛<lb
@@ -36,7 +36,7 @@ ed="T" n="0779c09"/>近者。遂以餅餌覆之，經宿有狐狼迹，唯啖<lb
 ed="T" n="0779c10"/>所覆，身且儼如。乃議用外國法焚之，收合<lb
 ed="T" n="0779c11"/>餘燼，起白塔于道傍。人<anchor xml:id="beg0779004"/><choice resp="PC-JK-MB"><sic>尤</sic><corr>先</corr></choice><anchor xml:id="end0779004"/><ptr type="glossary" target="#g348"/>歸信，香火不絕<lb
 ed="T" n="0779c12"/>焉。次有<placeName key="PL000000011848"><placeName>杭州</placeName><placeName>徑山院</placeName></placeName><persName key="A010559">釋鑒宗</persName>，<placeName key="PL000000013106"><placeName>湖州</placeName><placeName>長城</placeName></placeName>人也。<lb
-ed="T" n="0779c13"/>姓<name>錢</name>氏，即禮部侍<anchor xml:id="beg0779sgsz18"/>郎<anchor xml:id="end0779sgsz18"/><persName key="A009538">徽</persName>之孫。父<persName key="A010560">晟</persName>有疾，<persName key="A010559">宗</persName><lb
+ed="T" n="0779c13"/>姓<name>錢氏</name>，即禮部侍<anchor xml:id="beg0779sgsz18"/>郎<anchor xml:id="end0779sgsz18"/><persName key="A009538">徽</persName>之孫。父<persName key="A010560">晟</persName>有疾，<persName key="A010559">宗</persName><lb
 ed="T" n="0779c14"/>割股肉饋啖之，紿云「他畜之肉」。未幾病間<ptr type="glossary" target="#g1588"/>，<lb
 ed="T" n="0779c15"/>孝譽聞于親里，乃求出家。時州<placeName key="PL000000012987">開元寺</placeName>有<lb
 ed="T" n="0779c16"/><placeName key="PL000000042189">上都</placeName>臨壇十望大德內供奉<persName key="A013931">高閑</persName>，<persName key="A013931">閑</persName>善草、隷，<lb
@@ -49,8 +49,8 @@ ed="T" n="0779c22"/>東峯<placeName key="PL000000011848">徑山</placeName>焉�
 ed="T" n="0779c23"/>尤者<placeName key="PL000000012278">天童山</placeName><persName key="A010561">咸啟</persName>、勅賜紫衣<placeName key="PL000000057061">背山</placeName><anchor xml:id="beg0779005"/><supplied resp="PC-JK-MB"><persName key="A019280">行真</persName>、<placeName key="PL000000012299">大慈山</placeName></supplied><persName key="A019279">行<anchor xml:id="end0779005"/>滿</persName><ptr target="#n1612"/>，皆<lb
 ed="T" n="0779c24"/>分枝化物，至<date key="j20374772037477" when-iso="+0866-04-27">七年丙<anchor xml:id="beg0779sgsz22"/>戌<anchor xml:id="end0779sgsz22"/>閏三月五日</date>示滅。<lb
 ed="T" n="0779c25"/>遷塔于<placeName key="PL000000011855">大寂巖</placeName>下。<date from-iso="+0915-01-23" key="j20552792055611" to-iso="+0915-12-21"><name>梁</name><name>乾化</name>五年</date>，<placeName key="PL000000008355">吳越國</placeName>王<persName key="A003552"><roleName>尚<lb
-ed="T" n="0779c26"/>父</roleName>錢</persName>氏表請追謚大師曰<persName key="A010559">無上</persName>，祖門<anchor xml:id="beg0779006"/><choice resp="PC-JK-MB"><sic>傳</sic><corr>傳法</corr></choice><anchor xml:id="end0779006"/>號<lb
-ed="T" n="0779c27"/>為徑山第二祖。時<placeName key="PL000000013012">吳興</placeName><persName key="A010563">沈修</persName>者自號<persName key="A010563">白牙先<lb
+ed="T" n="0779c26"/>父</roleName>錢氏</persName>表請追謚大師曰<persName key="A010559">無上</persName>，祖門<anchor xml:id="beg0779006"/><choice resp="PC-JK-MB"><sic>傳</sic><corr>傳法</corr></choice><anchor xml:id="end0779006"/>號<lb
+ed="T" n="0779c27"/>為<placeName key="PL000000011848">徑山</placeName>第二祖。時<placeName key="PL000000013012">吳興</placeName><persName key="A010563">沈修</persName>者自號<persName key="A010563">白牙先<lb
 ed="T" n="0779c28"/>生</persName><ptr target="#n1613"/>，述德為<anchor xml:id="beg0779007"/>讚<anchor xml:id="end0779007"/>記焉。</p>
     <linkGrp>
         <link targets="#0779b07 #0779b08"/>

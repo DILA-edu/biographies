@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="譯經" xml:id="gsz0710b07shiYiJing"><lb
 n="0710b07" ed="T"/><anchor n="T.50.2061.0710b07"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000042270"><placeName>京兆</placeName><placeName>大薦福寺</placeName></placeName><persName key="A001470">義淨</persName>傳</head><p><lb
-ed="T" n="0710b08"/><persName key="A001470">釋義淨</persName>字<persName key="A001470">文明</persName>，姓<name>張</name>氏，<placeName key="PL000000000368">范陽</placeName>人也<ptr target="#n31"/>。髫齓之時，<lb
+ed="T" n="0710b08"/><persName key="A001470">釋義淨</persName>字<persName key="A001470">文明</persName>，姓<name>張氏</name>，<placeName key="PL000000000368">范陽</placeName>人也<ptr target="#n31"/>。髫齓之時，<lb
 ed="T" n="0710b09"/>辭親落髮，遍詢名匠，廣探群籍，內外<ptr type="glossary" target="#g32"/>閑習，<lb
 ed="T" n="0710b10"/>今古博通。<date key="j19581531958296" from-iso="+0649-02-20" to-iso="+0649-07-13">年十有五</date>，便萌其志，欲遊<placeName key="PL000000055436">西域</placeName>，<lb
 ed="T" n="0710b11"/>仰<persName key="A000750">法顯</persName>之雅操，慕<persName key="A000294">玄奘</persName>之高風。加以勤無<lb
@@ -85,7 +85,7 @@ ed="T" n="0711a29"/>者，<date from-iso="+0420-07-11" key="j18746541936233" to-
 ed="T" n="0711b01"/>必聞其政者，<persName key="A000294">奘<roleName>師</roleName></persName>、<persName key="A001470"><anchor xml:id="beg0711sgsz3"/><choice resp="PC-JK-MB"><sic>法</sic><corr>淨</corr></choice><anchor xml:id="end0711sgsz3"/><roleName>師</roleName></persName>為得其實。<ref type="person" target="#A000294 #A001470">此二師</ref><lb
 ed="T" n="0711b02"/>者兩全通達，其猶見璽文知是天子之書，<lb
 ed="T" n="0711b03"/>可信也。《周禮》象胥氏通夷狄之言<ptr type="glossary" target="#g86"/>，<persName key="A001470">淨</persName>之才<lb
-ed="T" n="0711b04"/>智，可謂釋門之象胥也歟！ </p>
+ed="T" n="0711b04"/>智，可謂<name>釋</name>門之象胥也歟！ </p>
         <linkGrp>
             <link targets="#0709b02 #0709b09"/>
             <ptr target="#A001910" type="person"/>

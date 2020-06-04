@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="淨讀" xml:id="gsz0337a05shiChongWen">
+<lb ed="B" n="0337a05"/><anchor n="B.27.0151.0337a05"/><head>清常熟南洙靜室沙門<persName key="A042297">釋崇文</persName>傳<persName type="secondary" key="A015921">大真</persName><persName type="secondary" key="A043453">道樞</persName><persName type="secondary" key="A043454">具宗</persName></head>
+<lb ed="B" n="0337a06"/><p xml:id="pB27p0337a0601"><persName key="A042297">釋崇文</persName>，受業<persName key="A001394">雲棲</persName>之門，住常熟南洙邨靜室。因目喪明，專心諷
+<lb ed="B" n="0337a07"/>佛。夜每登座，施瑜伽食，三年不輟。以<date when-iso="+1658-04-17" key="j23267392326739">順治十五年三月望日</date>示
+<lb ed="B" n="0337a08"/>寂。先夕，遣其徒報城中舊友曰：「明日將西歸，可來話別。」如期集
+<lb ed="B" n="0337a09"/>者三十餘人，<persName key="A042297">文</persName>坐於牀，命徒眾誦《彌陀經》一卷，誦畢而瞑。室中
+<lb ed="B" n="0337a10"/>香氣，三日不散。<persName key="A015921">大真</persName>字<persName key="A015921">新伊</persName>，武陵周氏子，亦從<persName key="A001394">雲棲</persName>受具戒，後
+<lb ed="B" n="0337a11"/>繼<persName key="A001134">紹覺</persName>主蓮居。著《唯識合響》，建大悲壇，修事理二懺。年七十一
+<lb ed="B" n="0337a12"/>示微疾，集居士、弟子，屬以護持正法，更衣、趺坐、持珠，與眾同稱
+<lb ed="B" n="0337a13"/>佛號。頃之，聲息俱寂，鼻垂玉<anchor xml:id="beg033701"/><choice><sic resp="CBETA">筋</sic><corr resp="PC-MB">筯</corr></choice><anchor xml:id="end033701"/><!-- 玉筯，作化時垂下的鼻涕。 -->過尺許。踰時，頂猶熱云。<persName key="A043453">道樞</persName>仁
+<lb ed="B" n="0337a14"/>和人，通天台教，篤志靜業，不親世緣。嘗夢神僧偕登玉屏峯頂。
+<lb ed="B" n="0337a15"/><date from-iso="+1656-07-22" key="j23261052326133" to-iso="+1656-08-19">順治十三年六月</date>微疾，語眾曰：「<ref type="person" target="#A043453">吾</ref>夜夢神僧趨而來，豈昔之登
+<lb ed="B" n="0337a16"/>玉屏峯者耶？」人靜時，忽見幡蓋盈空，蓮花布地。即誦經諷佛，安
+<lb ed="B" n="0337a17"/>詳而逝，顏色不變，異香郁然。<persName key="A043454">具宗</persName>無錫人，講天台止觀，修念佛
+<lb ed="B" n="0337a18"/>三昧，誨人不倦。<date from-iso="+1659-01-23" key="j23270202327403" to-iso="+1660-02-10">順治十六年</date>示疾。具湯沐浴，著一履，誦《彌陀經》。
+<lb ed="B" n="0337a19"/>復唱：「佛書廓落虛，靈無往來處。」二語，擲筆而逝。</p>
+    <linkGrp>
+        <link targets="#0337a06 #0337a06"/>
+        <ptr target="#A042297" type="person"/>
+        <ptr target="#A001394" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0337a10 #0337a10"/>
+        <ptr target="#A015921" type="person"/>
+        <ptr target="#A001394" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0337a11 #0337a11"/>
+        <ptr target="#A015921" type="person"/>
+        <ptr target="#A001134" type="person"/>
+    </linkGrp>
+</div>

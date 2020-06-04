@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="義解" xml:id="gsz0751b22shiYiChu"><lb
 ed="T" n="0751b22"/><anchor n="T.50.2061.0751b22"/><head><date from-iso="+0960-02-09" key="j20717322132856" to-iso="+1127-06-18"><anchor xml:id="beg0751sgsz6"/>宋<anchor xml:id="end0751sgsz6"/></date><placeName key="PL000000020243"><placeName>齊州</placeName><placeName>開元寺</placeName></placeName><persName key="A001474">義楚</persName>傳<ptr rend="display:none;" target="#n1189"/>（<persName key="A010033">修進</persName> <persName key="A010034">省倫</persName>）</head><p><lb
-ed="T" n="0751b23"/><persName key="A001474">釋義楚</persName>，俗姓<name>裴</name>氏，祖<placeName key="PL000000024078"><placeName>相州</placeName><placeName>安陽</placeName></placeName>人也。<persName key="A001474">楚</persName>七歲<lb
+ed="T" n="0751b23"/><persName key="A001474">釋義楚</persName>，俗姓<name>裴氏</name>，祖<placeName key="PL000000024078"><placeName>相州</placeName><placeName>安陽</placeName></placeName>人也。<persName key="A001474">楚</persName>七歲<lb
 ed="T" n="0751b24"/>來省<placeName key="PL000000020248">歷下</placeName>，臨壇大德<persName key="A010033">修進</persName>因為出家師也。<lb
 ed="T" n="0751b25"/><persName key="A010033">進</persName>乃<persName key="A001474">楚</persName>之諸父也。季父<ptr type="glossary" target="#g1281"/><persName key="A010034">省倫</persName>居<placeName key="PL000000020814">香嚴院</placeName>。<persName key="A010033">進</persName>也<lb
 ed="T" n="0751b26"/>誦〈觀音普門支經〉<ptr target="#n1187"/>向十萬遍，立<anchor xml:id="beg0751sgsz8"/>禮<anchor xml:id="end0751sgsz8"/>《法華經》，<lb
@@ -11,7 +11,7 @@ ed="T" n="0751b29"/>相資，登此近圓<ptr type="glossary" target="#g1188"/>�
 ed="T" n="0751c01"/>一宗，造微<ptr type="glossary" target="#g557"/>臻極。遂傳講《<persName key="A001416">圓暉</persName>疏》<ptr target="#n1278"/>十許遍。後<lb
 ed="T" n="0751c02"/>該<ptr rend="display:none;" type="glossary" target="#g350"/>覽大藏三遍，乃慨儒家為佛教之文而<lb
 ed="T" n="0751c03"/>多謬解，解既謬歟，事多誤用。擬<persName key="A004029">白樂天</persName>《六<lb
-ed="T" n="0751c04"/>帖》，纂<name>釋</name>氏義理、文章、庶事、群品，以類相從，<lb
+ed="T" n="0751c04"/>帖》，纂<name>釋氏</name>義理、文章、庶事、群品，以類相從，<lb
 ed="T" n="0751c05"/>建其門目，總括大綱，計五十部。隨事別列<lb
 ed="T" n="0751c06"/>四百四十門，始從〈法王利見部〉，終〈師子獸類<lb
 ed="T" n="0751c07"/>部〉，其間物類，檢括周旋，令供筆之時必無<lb

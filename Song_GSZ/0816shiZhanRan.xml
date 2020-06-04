@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="義解" xml:id="gsz0739b09shiZhanRan"><lb
 ed="T" n="0739b09"/><anchor n="T.50.2061.0739b09"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000014664"><placeName>台州</placeName><placeName>國清寺</placeName></placeName><persName key="A001307">湛然</persName>傳</head><p><lb
-ed="T" n="0739b10"/><persName key="A001307">釋湛然</persName>，俗姓<name>戚</name>氏，世居<placeName key="PL000000009739">晉陵</placeName>之<placeName key="PL000000009470">荊溪</placeName>，則<placeName key="PL000000009739">常州</placeName><lb
+ed="T" n="0739b10"/><persName key="A001307">釋湛然</persName>，俗姓<name>戚氏</name>，世居<placeName key="PL000000009739">晉陵</placeName>之<placeName key="PL000000009470">荊溪</placeName>，則<placeName key="PL000000009739">常州</placeName><lb
 ed="T" n="0739b11"/>人也。昔<persName key="A002799">佛</persName>滅度後十有三世，至<persName key="A001482">龍樹</persName>，始用文<lb
 ed="T" n="0739b12"/>字廣第一義諦<ptr type="glossary" target="#g474"/>。嗣其學者號「法性宗」，<date from-iso="+0386-02-21" key="j18620951916335" to-iso="+0534-08-24">元魏</date>、<lb
 ed="T" n="0739b13"/><date from-iso="+0550-06-11" key="j19221051931862" to-iso="+0577-02-26">高齊</date>間有<persName key="A009599">釋慧文</persName>默而識之，授<placeName key="PL000000028928">南嶽</placeName><persName key="A001711">思<roleName>大<lb
@@ -64,7 +64,7 @@ ed="T" n="0740a11"/>此筆何以銘哲匠？蓋洞入門室見宗廟之<lb
 ed="T" n="0740a12"/>富<ptr target="#n584"/>，故以是研論矣。吁，吾徒<ptr rend="display:none;" type="glossary" target="#g880"/>往往有不知<lb
 ed="T" n="0740a13"/><persName key="A001307">然</persName>之道！《詩》云：「維鵲有巢，維鳩居之。<ptr target="#n881"/>」<persName key="A001081">梁<roleName>公</roleName></persName>深<lb
 ed="T" n="0740a14"/>入佛之理窟之謂歟！有<placeName key="PL000000055585"><placeName>會稽</placeName><placeName>法華山</placeName></placeName><persName key="A009615">神邕</persName><lb
-ed="T" n="0740a15"/>作真讚，至<date notBefore-iso="+0968-12-21" key="j20749702077920" notAfter-iso="+0977-01-18"><name>大宋</name><name>開寶</name>中</date><placeName key="PL000000008355">吳越</placeName>國王<persName key="A006774">錢</persName>氏追<lb
+ed="T" n="0740a15"/>作真讚，至<date notBefore-iso="+0968-12-21" key="j20749702077920" notAfter-iso="+0977-01-18"><name>大宋</name><name>開寶</name>中</date><placeName key="PL000000008355">吳越</placeName>國王<persName key="A006774">錢氏</persName>追<lb
 ed="T" n="0740a16"/>重而誄之，號<persName key="A001307">圓通尊者</persName>焉，可不是歟！</p>
     <linkGrp>
         <link targets="#0739b09 #0739b09"/>

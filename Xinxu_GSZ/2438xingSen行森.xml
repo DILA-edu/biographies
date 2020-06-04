@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="靈感" xml:id="gsz0293b16shiXingSen">
+<lb ed="B" n="0293b16"/><anchor n="B.27.0151.0293b16"/><head>清龍溪圓照寺沙門<persName key="A000419">釋行森</persName>傳</head>
+<lb ed="B" n="0293b17"/><p xml:id="pB27p0293b1701"><persName key="A000419">釋行森</persName>，字<persName key="A000419">笻溪</persName>，別號<persName key="A000419">慈翁</persName>，姓黎氏，博羅人。生質清穎，器宇神俊。
+<lb ed="B" n="0293b18"/>年及壯遊，偶感疲困，倚枕間，忽聞鼓吹聲。頓省根源，不從他有，
+<lb ed="B" n="0293b19"/>遂決志出家。依<persName key="A001408">雪嶠信</persName>，<persName key="A001408">信</persName>寂後，乃參<persName key="A001153">大覺普濟能仁國師玉林
+<lb ed="B" n="0293b20"/>琇</persName>洞明心要。<persName key="A001153">琇</persName>令分座說法，四眾參承，機辯敏捷，解說入玅。一<pb ed="B" xml:id="B27.0151.0294a" n="0294a"/>
+<lb ed="B" n="0294a01"/>時目為大鵬劈海，且稱為<persName key="A000419">森鐵棒</persName>云。及開化龍溪，緇侶雲集。清
+<lb ed="B" n="0294a02"/>室龍興，<persName key="A006714">世祖</persName>入關，奠鼎燕京，崇禮佛乘，詔集高僧。時<date from-iso="+1658-02-02" key="j23266652327019" to-iso="+1659-01-22">順治戊<anchor xml:id="beg_14b" type="cb-app"/>戌<anchor xml:id="end_14b"/></date>，
+<lb ed="B" n="0294a03"/><persName key="A001153">玉林琇</persName>應召入都，因令<persName key="A000419">森</persName>主報恩。<date from-iso="+1659-01-23" key="j23270202327403" to-iso="+1660-02-10"><anchor xml:id="beg_14c" type="cb-app"/>己<anchor xml:id="end_14c"/>亥</date><persName key="A001153">玉林</persName>還山，<persName key="A000419">森</persName>奉詔留京
+<lb ed="B" n="0294a04"/>師，<persName key="A006714">世祖</persName>恩眷，禮遇優渥，屢降諭旨，欲加封號。<persName key="A000419">森</persName>以師弟<!-- 《清涼山志》卷3：「森以父子不敢並受封」(CBETA, GA079, no. 81, p. 169, a4) -->，不敢并
+<lb ed="B" n="0294a05"/>受，辤之甚力。既而請謁五臺，宿顯通寺。寺前遇一老嫗，手持竹
+<lb ed="B" n="0294a06"/>籃，口嚼石子，與語，深明宗旨，呼<persName key="A000419">森</persName>為<persName key="A000419">大通佛</persName>。自五臺還京，乞歸
+<lb ed="B" n="0294a07"/>龍溪，<persName key="A006714">世祖</persName>名所居寺曰圓照，御書題賜，以寵異之。<persName key="A000419">森</persName>持律精純，
+<lb ed="B" n="0294a08"/>導眾嚴整，雅有<persName key="A001897">百丈</persName>風。受<persName key="A006714">世祖</persName>知遇甚深，及其歸里，如日邊雲
+<lb ed="B" n="0294a09"/>影，既離絳霄<!-- 高空 -->，即隨意孤飛，斷崖荒水間，不挂一絲。<date from-iso="+1677-02-02" key="j23336052333959" to-iso="+1678-01-22">康熙十六年</date>
+<lb ed="B" n="0294a10"/>遊華巖，曰：「此中修篁<!-- 長竹 -->奇石，可以臥數江帆，吾老此矣！」乃自刻化
+<lb ed="B" n="0294a11"/>期，手書封龕偈而寂。春秋六十有四，僧臘三十有六。至<date from-iso="+1733-02-14" key="j23540702354424" to-iso="+1734-02-03">雍正十
+<lb ed="B" n="0294a12"/>一年</date>追封<persName key="A000419">明道正覺禪師</persName>。御題贊曰：「一人首出，八表昇平；爰有
+<lb ed="B" n="0294a13"/>龍象，僧中之英；十虛融攝，正眼洞明；日光月華，水綠山青。」</p>
+    <linkGrp>
+        <link targets="#0293b19 #0293b19"/>
+        <ptr target="#A000419" type="person"/>
+        <ptr target="#A001408" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0293b19 #0293b20"/>
+        <ptr target="#A000419" type="person"/>
+        <ptr target="#A001153" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0294a02 #0294a03"/>
+        <ptr target="#A000419" type="person"/>
+        <ptr target="#A001153" type="person"/>
+        <ptr target="#j23266652327019" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0294a03 #0294a05"/>
+        <ptr target="#A000419" type="person"/>
+        <ptr target="#A006714" type="person"/>
+        <ptr target="#j23270202327403" type="time"/>
+    </linkGrp>
+</div>

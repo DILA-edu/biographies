@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="淨讀" xml:id="gsz0338a06shiRenCe">
+<lb ed="B" n="0338a06"/><anchor n="B.27.0151.0338a06"/><head>清虞山普仁院沙門<persName key="A000421">釋仁策</persName>傳<persName type="secondary" key="A016570">指南</persName></head>
+<lb ed="B" n="0338a07"/><p xml:id="pB27p0338a0701"><persName key="A000421">釋行策</persName>，字<persName key="A000421">截流</persName>，姓蔣氏，宜興人。父曰<persName key="A004735">全昌</persName>，匑匑老儒，頗耽內典，
+<lb ed="B" n="0338a08"/>與<persName key="A001681">憨山清</persName>相友善。<persName key="A001681">清</persName>已寂三年，<persName key="A004735">昌</persName>復夢其杖錫而來，入室听然<!-- 笑貌 -->。
+<lb ed="B" n="0338a09"/>俄而生子，小字<persName key="A000421">夢憨</persName>。<persName key="A000421">策</persName>既長，父母相繼逝，始有志出世。<ref type="date" target="#j23237422324095">年二十
+<lb ed="B" n="0338a10"/>三</ref>，投武林理安寺，依<persName key="A013268">箬庵</persName>問五載，脅不至席，頓徹法源。住報恩
+<lb ed="B" n="0338a11"/>寺，遇<persName key="A043458">息庵瑛</persName>，勸修淨業。又遇錢塘<persName key="A043459">樵石</persName>法師，引閱台教，乃同入
+<lb ed="B" n="0338a12"/>淨室，修法華三昧，宿慧淹通，窮究教義。<date from-iso="+1663-02-08" key="j23284972328850" to-iso="+1664-01-27">康熙二年</date>，結庵於杭州
+<lb ed="B" n="0338a13"/>法華山西溪河渚<anchor xml:id="beg033801"/><choice><sic resp="CBETA">問</sic><corr resp="PC-MB">間</corr></choice><anchor xml:id="end033801"/>，專修淨業，因名所居曰蓮柎庵。<date from-iso="+1670-01-21" key="j23310362331419" to-iso="+1671-02-08">九年</date>，住虞
+<lb ed="B" n="0338a14"/>山普仁院，倡興蓮社，學者翕然宗之。寂於<date when-iso="+1682-08-21" key="j23356312335631">康熙二十一年七月
+<lb ed="B" n="0338a15"/>十九日</date>。時有<persName>孫翰</persName>者，病死一晝夜，忽蘇，語人曰：「吾見閻羅伏迎
+<lb ed="B" n="0338a16"/>西歸大師。問之，為<persName key="A000421">截流</persName>。吾以光明所燭，遂得放還。」同日，有吳氏
+<lb ed="B" n="0338a17"/>子者，亦病死復活，具白所見，並如<persName>翰</persName>言。又<persName key="A016570">指南</persName>者，常熟人。居東
+<lb ed="B" n="0338a18"/>塔吳王庵，終日默坐念佛。人予之錢，即轉施捨。性坦率，於一切
+<lb ed="B" n="0338a19"/>處，無少繫戀。有芝塘里善士數人，素歸心焉！<date from-iso="+1691-06-26" key="j23388622338890" to-iso="+1691-07-24">康熙三十年六月</date>，
+<lb ed="B" n="0338a20"/>入城謁<persName key="A016570">南</persName>，因謂之曰：「<date when-iso="+1691-07-29" key="j23388952338895">來月五日</date>，與諸檀施別矣！」眾如期往，<persName key="A016570">南</persName>無<pb ed="B" xml:id="B27.0151.0338b" n="0338b"/>
+<lb ed="B" n="0338b01"/>他語，唯勸以念佛，坐語頓寂。</p>
+    <linkGrp>
+        <link targets="#0338a07 #0338a07"/>
+        <ptr target="#A000421" type="person"/>
+        <ptr target="#A004735" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0338a07 #0338a08"/>
+        <ptr target="#A001681" type="person"/>
+        <ptr target="#A004735" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0338a09 #0338a10"/>
+        <ptr target="#A000421" type="person"/>
+        <ptr target="#A013268" type="person"/>
+        <ptr target="#j23237422324095" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0338a11 #0338a11"/>
+        <ptr target="#A000421" type="person"/>
+        <ptr target="#A043458" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0338a11 #0338a12"/>
+        <ptr target="#A000421" type="person"/>
+        <ptr target="#A043459" type="person"/>
+    </linkGrp>
+</div>

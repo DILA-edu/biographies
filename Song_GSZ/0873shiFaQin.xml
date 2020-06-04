@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0764b13shiFaQin"><lb
 ed="T" n="0764b13"/><anchor n="T.50.2061.0764b13"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000011772"><placeName>杭州</placeName><placeName>徑山</placeName></placeName><persName key="A004218">法欽</persName>傳<ptr rend="display:none;" target="#n2375"/></head><p><lb
-ed="T" n="0764b14"/><persName key="A004218">釋法欽</persName>，俗姓<name>朱</name>氏，<placeName key="PL000000008508"><placeName>吳郡</placeName><placeName>崑山</placeName></placeName>人也。門地儒雅，<lb
+ed="T" n="0764b14"/><persName key="A004218">釋法欽</persName>，俗姓<name>朱氏</name>，<placeName key="PL000000008508"><placeName>吳郡</placeName><placeName>崑山</placeName></placeName>人也。門地儒雅，<lb
 ed="T" n="0764b15"/>祖、考皆達玄、儒，而傲睨林藪不仕。<persName key="A004218">欽</persName>託孕，<lb
-ed="T" n="0764b16"/>母<persName key="A019152">管</persName>氏，忽夢蓮華生於庭際，因折一房<ptr type="glossary" target="#g1494"/>繫<lb
+ed="T" n="0764b16"/>母<persName key="A019152">管氏</persName>，忽夢蓮華生於庭際，因折一房<ptr type="glossary" target="#g1494"/>繫<lb
 ed="T" n="0764b17"/>於衣裳，既而覺已，便惡葷羶。及迄誕彌歲，<lb
 ed="T" n="0764b18"/>在於髻辮<ptr type="glossary" target="#g280"/>，則好為佛事。立性溫柔，雅好高<lb
 ed="T" n="0764b19"/>尚，服勤經史，便從鄉舉。<ref target="#j19917301992113" type="date">年二十有八</ref>，俶裝<ptr type="glossary" target="#g1495"/><lb
@@ -36,7 +36,7 @@ ed="T" n="0764c16"/><persName key="A004379">帝</persName>累賜以縑繒，陳�
 ed="T" n="0764c17"/>布衣蔬食，悉令弟子分衛<ptr type="glossary" target="#g602"/>，唯用陶器行。少<lb
 ed="T" n="0764c18"/>欲知足，無以儔比。<ref type="person" target="#A004379">帝</ref>聞之更加仰重，謂<placeName key="PL000000025214">南<lb
 ed="T" n="0764c19"/>陽</placeName><persName key="A001707">忠<roleName>禪師</roleName></persName>曰：「欲錫<persName key="A004218">欽</persName>一名。」手詔賜號<persName key="A004218">國一</persName><lb
-ed="T" n="0764c20"/>焉。<date from-iso="+0789-02-04" key="j20092712009624" to-iso="+0790-01-23">德宗<name>貞元</name>五年</date>，遣使齎璽書宣勞，并慶賜<lb
+ed="T" n="0764c20"/>焉。<persName key="A004215">德宗</persName><date from-iso="+0789-02-04" key="j20092712009624" to-iso="+0790-01-23"><name>貞元</name>五年</date>，遣使齎璽書宣勞，并慶賜<lb
 ed="T" n="0764c21"/>豐厚。<persName key="A004218">欽</persName>之在<placeName key="PL000000042189">京</placeName>及迴<placeName key="PL000000008363">浙</placeName>，令僕公王節制州<lb
 ed="T" n="0764c22"/>邑名賢執弟子禮者，相國<persName key="A010270">崔渙</persName>、<persName key="A010310">裴<roleName>晉公</roleName>度</persName>、<persName key="A010311">第<lb
 ed="T" n="0764c23"/>五琦</persName>、<persName key="A010312">陳少遊</persName>等。自<placeName key="PL000000000195">淮</placeName>而南，婦人<anchor xml:id="beg0764sgsz10"/>禮<anchor xml:id="end0764sgsz10"/>乞號，皆目<lb
@@ -52,7 +52,7 @@ ed="T" n="0765a03"/>二跪于杖屨之間。又嘗養一鷄，不食生類，<lb
 ed="T" n="0765a04"/>隨之若影，不遊他所。及其入<placeName key="PL000000042189">長安</placeName>，長鳴三<lb
 ed="T" n="0765a05"/>日而絕。今鷄塚在山之椒。<persName key="A004218">欽</persName>形貌魁岸，身<lb
 ed="T" n="0765a06"/>裁七尺<ptr target="#n377"/>，骨法奇異。今塔中塑師之貌，凭几猶<lb
-ed="T" n="0765a07"/>生焉。<placeName key="PL000000011519">杭</placeName>之<persName key="A003552">錢</persName>氏為國，當<date from-iso="+0902-02-16" key="j20505552050909" to-iso="+0903-02-05"><name>天復</name>壬<anchor xml:id="beg0765sgsz1"/>戌<anchor xml:id="end0765sgsz1"/></date>中，叛徒<lb
+ed="T" n="0765a07"/>生焉。<placeName key="PL000000011519">杭</placeName>之<persName key="A003552">錢氏</persName>為國，當<date from-iso="+0902-02-16" key="j20505552050909" to-iso="+0903-02-05"><name>天復</name>壬<anchor xml:id="beg0765sgsz1"/>戌<anchor xml:id="end0765sgsz1"/></date>中，叛徒<lb
 ed="T" n="0765a08"/><persName key="A010323">許思</persName>作亂，兵士雜<placeName key="PL000000016956">宣城</placeName>之卒發此塔，謂其<lb
 ed="T" n="0765a09"/>中有寶貨。見二甕上下合，藏肉形全在而髮<lb
 ed="T" n="0765a10"/>長覆面。兵士合甕而去。刺史<persName key="A010313">王顏</persName>撰碑述<lb

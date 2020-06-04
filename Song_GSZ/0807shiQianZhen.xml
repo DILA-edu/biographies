@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="義解" xml:id="gsz0736b14shiQianZhen"><lb
 ed="T" n="0736b14"/><anchor n="T.50.2061.0736b14"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000042218"><placeName>京師</placeName><placeName>興善寺</placeName></placeName><persName key="A001756">潛真</persName>傳（<persName key="A009481">道超</persName>）</head><p><lb
-ed="T" n="0736b15"/><persName key="A001756">釋潛真</persName><ptr target="#n3278"/>，字<persName key="A001756">義璋</persName>，姓<name>王</name>氏，<placeName key="PL000000003793">太原</placeName>華族，後徙為<lb
+ed="T" n="0736b15"/><persName key="A001756">釋潛真</persName><ptr target="#n3278"/>，字<persName key="A001756">義璋</persName>，姓<name>王氏</name>，<placeName key="PL000000003793">太原</placeName>華族，後徙為<lb
 ed="T" n="0736b16"/><placeName key="PL000000006672"><placeName>夏州</placeName><placeName>朔方</placeName><placeName>崇道鄉</placeName></placeName>人也。考<persName key="A009427">珍</persName>，<persName key="A001756">真</persName>即仲子也。<ref type="date" target="#j19851741985528">年<lb
 ed="T" n="0736b17"/>在學數</ref><ptr rend="display:none;" type="glossary" target="#g798"/>，業尚典墳<ptr rend="display:none;" type="glossary" target="#g418"/>。幼好佛書，抑從天性，甫<lb
 ed="T" n="0736b18"/>及<ref type="date" target="#j19902821990636">弱冠</ref>，投跡空門。<date from-iso="+0738-01-29" key="j19906371991020" to-iso="+0739-02-16"><name>開元</name>二十六年</date>隷名于<lb
@@ -21,7 +21,7 @@ ed="T" n="0736c02"/>請<persName key="A000095"><roleName>三藏</roleName>不空
 ed="T" n="0736c03"/>天下<name>梵</name>宇各置<persName key="A002144">文殊菩薩</persName>像<ptr target="#n807"/>，以旌聖功也。<lb
 ed="T" n="0736c04"/>又詔以<persName key="A002144">文殊菩薩</persName>為上座，皆<ref type="person" target="#A000095">三藏</ref>所請。<ref type="person" target="#A000095">三<lb
 ed="T" n="0736c05"/>藏</ref>學究瑜伽<ptr rend="display:none;" type="glossary" target="#g93"/>，解窮法印<ptr type="glossary" target="#g802"/>，身、口、意業，祕密修<lb
-ed="T" n="0736c06"/>持，戒、定、慧學，顯通宣暢，唐、<name>梵</name>文字，聲、韻具知。<lb
+ed="T" n="0736c06"/>持，戒、定、慧學，顯通宣暢，<placeName key="PL000000000106">唐</placeName>、<name>梵</name>文字，聲、韻具知。<lb
 ed="T" n="0736c07"/>傳譯此經，善符聖旨，文質相兼，璨然可觀。<lb
 ed="T" n="0736c08"/><persName key="A001756">潛真</persName>識智愚昧，學藝庸淺，幸陪清眾<ptr type="glossary" target="#g803"/>，謬在翻<lb
 ed="T" n="0736c09"/>傳，虛空藏經，課<ptr rend="display:none;" type="glossary" target="#g804"/>虛潤色，猥蒙<ptr type="glossary" target="#g805"/>驅策，述疏讚<lb

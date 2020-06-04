@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="淨讀" xml:id="gsz0338b13shiXingXiang">
+<lb ed="B" n="0338b13"/><anchor n="B.27.0151.0338b13"/><head>清雲南鹿溪淨樂庵沙門<persName key="A042429">釋性香</persName>傳<persName type="secondary" key="A007447">寂舜</persName></head>
+<lb ed="B" n="0338b14"/><p xml:id="pB27p0338b1401"><persName key="A042429">釋性香</persName>，字<persName key="A042429">飄然</persName>，尋甸人。薙髮於鹿溪淨樂庵，後從<persName key="A042428">五雲</persName>法師聽
+<lb ed="B" n="0338b15"/>講，專習唯識、相宗，著有《圖相兼究》、《梵網心地法》。晚歲精修，篤尚
+<lb ed="B" n="0338b16"/>淨業。<date from-iso="+1681-02-18" key="j23350822335435" to-iso="+1682-02-06">清康熙辛酉</date>，避兵西去，為賊所傷，趺坐儼然。人至撫之，方
+<lb ed="B" n="0338b17"/>知化去。<date from-iso="+1687-11-05" key="j23375332337621" to-iso="+1688-02-01">丁卯冬</date>庵災，洪鐘巨棟，鎔毀灰燼，礎石亦裂，而<persName key="A042429">香</persName>所存
+<lb ed="B" n="0338b18"/>一盋一爐及石章三事，竟於赤礫中掘出，鏗鏗有聲，宛然無恙，
+<lb ed="B" n="0338b19"/>以為異感。今宜興盋、廣宣爐、田石章，猶為僧徒寶重云。又<persName key="A007447">寂舜</persName>
+<lb ed="B" n="0338b20"/>字<persName key="A007447">無語</persName>，洱海陳氏子。年十四依雞足<persName key="A000560">徹庸</persName>薙染，侍讀五載，後行<pb ed="B" xml:id="B27.0151.0339a" n="0339a"/>
+<lb ed="B" n="0339a01"/>腳富民，居慈勝後山，隱靜四十餘年。足不下山，履止端嚴，志尚
+<lb ed="B" n="0339a02"/>淨潔，神龍潛伏，水患不興，雄雉馴化，棲止座席。<date from-iso="+1680-01-31" key="j23346982335081" to-iso="+1681-02-17">康熙庚申</date>，無疾
+<lb ed="B" n="0339a03"/>安祥，拈偈而逝。</p>
+    <linkGrp>
+        <link targets="#0338b14 #0338b15"/>
+        <ptr target="#A042429" type="person"/>
+        <ptr target="#A042428" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0338b20 #0338b20"/>
+        <ptr target="#A007447" type="person"/>
+        <ptr target="#A000560" type="person"/>
+    </linkGrp>
+</div>

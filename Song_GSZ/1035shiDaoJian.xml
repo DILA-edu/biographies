@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="感通" xml:id="gsz0824c17shiDaoJian"><lb
 ed="T" n="0824c17"/><anchor n="T.50.2061.0824c17"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000020295"><placeName>齊州</placeName><placeName>靈巖寺</placeName></placeName><persName key="A012146">道鑒</persName>傳</head><p><lb
-ed="T" n="0824c18"/><persName key="A012146">釋道鑒</persName>，姓<name>馮</name>氏，<placeName key="PL000000009928">吳郡</placeName><anchor xml:id="beg0824sgsz14"/>人<anchor xml:id="end0824sgsz14"/>。未知從來，而居<placeName key="PL000000020295"><placeName>歷<lb
+ed="T" n="0824c18"/><persName key="A012146">釋道鑒</persName>，姓<name>馮氏</name>，<placeName key="PL000000009928">吳郡</placeName><anchor xml:id="beg0824sgsz14"/>人<anchor xml:id="end0824sgsz14"/>。未知從來，而居<placeName key="PL000000020295"><placeName>歷<lb
 ed="T" n="0824c19"/>下</placeName><placeName>靈巖山寺</placeName></placeName>，蹤迹神異，不測僧也。<date notBefore-iso="+0806-01-29" key="j20154742020967" notAfter-iso="+0821-02-12"><name>元和</name>中</date>，有<lb
 ed="T" n="0824c20"/><persName key="A012147">馮生</persName>者，亦<placeName key="PL000000009928">吳郡</placeName>人也，以明經<ptr type="glossary" target="#g1579"/>調選未捷，因<lb
 ed="T" n="0824c21"/>僑寄<placeName key="PL000000042189">長安</placeName>。一日見老僧來詣<persName key="A012147">馮</persName>居，謂之曰：<lb
-ed="T" n="0824c22"/>「<ref type="person" target="#A012147">汝</ref>，<ref type="person" target="#A012146">吾</ref>姓也。」因相與往還。僅于歲餘，遂注擬<ptr type="glossary" target="#g1658"/><lb
+ed="T" n="0824c22"/>「<ref type="person" target="#A012147">汝</ref>，<ref type="person" target="#A012146">吾</ref>姓也。」因相與往還，僅于歲餘。遂注擬<ptr type="glossary" target="#g1658"/><lb
 ed="T" n="0824c23"/>作尉于東<placeName key="PL000000013239">越</placeName>。方務治裝，<persName key="A012146">鑒</persName>負錫來告去。<lb
 ed="T" n="0824c24"/><persName key="A012147">馮</persName>問：「<ref type="person" target="#A012146">師</ref>去，安所詣乎？」<persName key="A012146">鑒</persName>曰：「<ref type="person" target="#A012146">吾</ref>廬在<placeName key="PL000000020295"><placeName>齊州</placeName><placeName>靈巖<lb
 ed="T" n="0824c25"/></placeName></placeName>之西廡下。薄遊<ptr type="glossary" target="#g674"/><placeName key="PL000000042189">神京</placeName><ptr target="#n2353"/>，至今正十年矣。幸得<lb
@@ -18,7 +18,7 @@ ed="T" n="0825a02"/>廬舍安在？」僧曰：「<ref type="place" target="#PL0
 ed="T" n="0825a03"/>曰：「<persName key="A012146">鑒<roleName>公</roleName></persName>純直，豈欺<ref type="person" target="#A012147">我</ref>乎？」於是獨遊<ref type="place" target="#PL000000020295">寺</ref>中，行<lb
 ed="T" n="0825a04"/>至西廡下，忽見壁畫一僧，與<persName key="A012146">鑒<roleName>師</roleName></persName>貌同<ptr target="#n530"/>。<persName key="A012147">馮</persName><lb
 ed="T" n="0825a05"/>大驚嗟：「<persName key="A012146">鑒<roleName>師</roleName></persName>果異人歟？且能降神與<ref type="person" target="#A012147">我</ref>交。」久<lb
-ed="T" n="0825a06"/>之，視其真相旁題云：「<name>馮</name>氏子，<placeName key="PL000000009928">吳郡</placeName>人也。年<lb
+ed="T" n="0825a06"/>之，視其真相旁題云：「<name>馮氏</name>子，<placeName key="PL000000009928">吳郡</placeName>人也。年<lb
 ed="T" n="0825a07"/>十歲學浮圖法，以道行有聞，卒年七十八。」<lb
 ed="T" n="0825a08"/><persName key="A012147">馮</persName>閱其題，方悟云「<ref type="person" target="#A012147">汝</ref>，<ref type="person" target="#A012146">吾</ref>姓也」，言非謬矣。一<lb
 ed="T" n="0825a09"/>說<placeName key="PL000000009928">蘇州</placeName>西去城二十許里，有<placeName key="PL000000010068">靈巖山寺</placeName>，西北<lb

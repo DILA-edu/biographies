@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="遺身" xml:id="gsz0308b02shiChengYuan">
+<lb ed="B" n="0308b02"/><anchor n="B.27.0151.0308b02"/><head>清房山上方黃龍庵沙門<persName key="A041411">釋成淵</persName>傳</head>
+<lb ed="B" n="0308b03"/><p xml:id="pB27p0308b0301"><persName key="A041411">釋成淵</persName>，字<persName key="A041411">水月</persName>，姓胡氏，龍南人也。母氏<persName key="A043442">董</persName>，素懷善念。<persName key="A041411">淵</persName>生而開
+<lb ed="B" n="0308b04"/>悟，幼即捨身東華山依<persName key="A043443">慧敬</persName>為師，復畢規律於<persName key="A043444">白圭</persName>座下。即行
+<lb ed="B" n="0308b05"/>脚江南，循海而東，游學十餘年，參叩不疲。至浙江天台山，得法
+<lb ed="B" n="0308b06"/>於廣潤寺<persName key="A040520">鏡堂<roleName>長老</roleName></persName>。沈契深悟，於《楞伽》精義，多有啟發，推為後
+<lb ed="B" n="0308b07"/>秀翹楚，因繼法席，十有三載。一日謂其徒曰：「叢宇接續，正待來
+<lb ed="B" n="0308b08"/>賢。<ref type="person" target="#A041411">吾</ref>將卸肩，汝曹善護之。」<date from-iso="+1736-02-12" key="j23551632355516" to-iso="+1737-01-30">乾隆元年</date>，翩然北上，息止都闉宣武
+<lb ed="B" n="0308b09"/>城南松柏庵。僧流羽客<!-- 方士 -->，時相叩訪，振振有聲，達官長者，車跡盈
+<lb ed="B" n="0308b10"/>門。復厭去之，投足上方，結茅峯下。<persName key="A043448">文殊達</persName>公，親其丰采，心竊慕
+<lb ed="B" n="0308b11"/><ref type="person" target="#A041411">之</ref>，請主黃龍。<persName key="A041411">淵</persName>時年<anchor xml:id="beg_156" type="cb-app"/>已<anchor xml:id="end_156"/>七十，而精神康勝，涵養亦醕。居山七年，
+<lb ed="B" n="0308b12"/>幽室闇居，莫測所以。<date when-iso="+1746-09-29" key="j23590452359045">乾隆十一年秋八月望日</date>，節屈中秋，人看
+<lb ed="B" n="0308b13"/>明月。而<persName key="A041411">淵</persName>忽不見，罔識所向。闢戶視之，一瓢一笠，而外復遺一
+<lb ed="B" n="0308b14"/>偈曰：「秋月圓明，歸元消息；踏破虛空，不留形跡」云云<!-- 《上方山志．卷4．水月禪師行實記》：「秋月圓明歸元消息踏破虛空不留形跡咦既為同道人不作累墜事」(《中國佛寺史志彙刊》，第3輯，第29冊，頁0112) -->。羣相嗟異。
+<lb ed="B" n="0308b15"/><date from-iso="+1747-02-09" key="j23591782359266" to-iso="+1747-05-08">越明年丁卯春</date>，有薪采沈氏子，於山北翠微峯上見之，危然端
+<lb ed="B" n="0308b16"/>坐。蓋<persName key="A041411">淵</persName>去時，至是已六越月矣！聞薪者語，咸趨峯下，邈不得徑。
+<lb ed="B" n="0308b17"/>攀藤以升，環繞法體，焚香頂禮。雖經霜雪，面目宛然。山中居民
+<lb ed="B" n="0308b18"/>聞風麕集，莫不<anchor xml:id="beg_157" type="cb-app"/>歡<anchor xml:id="end_157"/>喜讚歎，驚為希有。翠微去黃龍五里餘，素多
+<lb ed="B" n="0308b19"/>虎狼，樵跡罕到，非結伴不敢近。<persName key="A041411">淵</persName>超然而來，嘿然而化，所謂遺
+<lb ed="B" n="0308b20"/>身向道，自了生死者非與？乃積柴峰頂，舉火以浴。而頂門汗出，<pb ed="B" xml:id="B27.0151.0309a" n="0309a"/>
+<lb ed="B" n="0309a01"/>異香飄蕩。<anchor xml:id="beg_158" type="cb-app"/>斂<anchor xml:id="end_158"/>其骨藏焉，建塔以表之，真州<persName key="A043447">方嶟</persName>為之記，文具《山
+<lb ed="B" n="0309a02"/>志》。</p>
+    <linkGrp>
+        <link targets="#0308b03 #0308b03"/>
+        <ptr target="#A041411" type="person"/>
+        <ptr target="#A043442" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0308b04 #0308b04"/>
+        <ptr target="#A041411" type="person"/>
+        <ptr target="#A043443" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0308b04 #0308b05"/>
+        <ptr target="#A041411" type="person"/>
+        <ptr target="#A043444" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0308b05 #0308b06"/>
+        <ptr target="#A041411" type="person"/>
+        <ptr target="#A040520" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0308b10 #0308b10"/>
+        <ptr target="#A041411" type="person"/>
+        <ptr target="#A043448" type="person"/>
+    </linkGrp>
+</div>

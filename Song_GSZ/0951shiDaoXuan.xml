@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0790b07shiDaoXuan"><lb
 n="0790b07" ed="T"/><anchor n="T.50.2061.0790b07"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000042216"><placeName>京兆</placeName><placeName>西明寺</placeName></placeName><persName key="A001519">道宣</persName>傳（<persName key="A010769">大慈</persName>）</head><p><lb
-ed="T" n="0790b08"/><persName key="A001519">釋道宣</persName>姓<name>錢</name>氏，<placeName key="PL000000010985">丹徒</placeName>人也<ptr target="#n850"/>，一云<placeName key="PL000000013106">長城</placeName>人<ptr target="#n843"/>。其先<lb
+ed="T" n="0790b08"/><persName key="A001519">釋道宣</persName>姓<name>錢氏</name>，<placeName key="PL000000010985">丹徒</placeName>人也<ptr target="#n850"/>，一云<placeName key="PL000000013106">長城</placeName>人<ptr target="#n843"/>。其先<lb
 ed="T" n="0790b09"/>出自<placeName key="PL000000010837">廣陵</placeName>太守<persName key="A010767">讓</persName>之後，洎太史令<persName key="A019327">樂之</persName>撰<lb
 ed="T" n="0790b10"/>《天文集占》一百卷；考諱<persName key="A010363">申</persName>府君，<placeName key="PL000000000074">陳</placeName>吏部尚書；<lb
 ed="T" n="0790b11"/>皆高矩令猷，周仁全行，盛德百代，君子萬<lb
@@ -14,7 +14,7 @@ ed="T" n="0790b17"/>六</date>落髮，所謂除結，非欲染衣，便隷<plac
 ed="T" n="0790b18"/>道場</placeName>。<date key="j19456841946048" from-iso="+0615-01-01" to-iso="+0615-12-31">弱冠</date>，極力護持，專精克念，感舍利現<lb
 ed="T" n="0790b19"/><anchor xml:id="beg0790003"/>於<anchor xml:id="end0790003"/>寶函<ptr target="#n849"/>。<placeName key="PL000000000105">隋</placeName><date notBefore-iso="+0605-01-28" key="j19420591946754" notAfter-iso="+0617-12-06"><name>大業</name>年中</date>，從<persName key="A001269">智首<roleName>律師</roleName></persName>受具<ptr target="#n852"/>。<date notBefore-iso="+0618-06-21" key="j19469511949949" notAfter-iso="+0626-09-05"><name>武<lb
 ed="T" n="0790b20"/>德</name>中</date>依<persName key="A001269">首</persName>習律，纔聽一遍，方議修禪<ptr target="#n845"/>。<persName key="A005719">頵<roleName>師</roleName></persName><lb
-ed="T" n="0790b21"/>呵曰：「夫適遐自邇，因微知章，修捨有時，功<lb
+ed="T" n="0790b21"/>呵曰：「夫適遐自邇，因微知章<ptr type="glossary" target="#g606"/>，修捨有時，功<lb
 ed="T" n="0790b22"/>願須滿，未宜即去律也。」抑<ptr type="glossary" target="#g136"/>令聽二十遍<ptr target="#n846"/>，<lb
 ed="T" n="0790b23"/>已，乃坐山林，行定慧，晦迹於<placeName key="PL000000057401"><placeName>終南</placeName><placeName>倣掌</placeName></placeName>之<lb
 ed="T" n="0790b24"/>谷<ptr target="#n847"/>。所居乏水，神人指之，穿地尺餘，其泉迸<lb

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0797c12shiShouZhi"><lb
 ed="T" n="0797c12"/><anchor n="T.50.2061.0797c12"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000011644"><placeName>杭州</placeName><choice resp="PC-JK-MB"><sic><placeName>天竺山</placeName><placeName>靈隱寺</placeName></sic><corr><placeName>靈隱山</placeName><placeName>天竺寺</placeName></corr></choice></placeName><ptr target="#n413"/><persName key="A010894">守<choice resp="PC-JK-MB"><sic>直</sic><corr>真</corr></choice></persName><ptr target="#n414"/>傳</head><p><lb
-ed="T" n="0797c13"/><persName key="A010894">釋守<choice resp="PC-JK-MB"><sic>直</sic><corr>真</corr></choice></persName>，字<persName key="A010894">堅道</persName>，<placeName key="PL000000011520">錢塘</placeName>人也，姓<name>范</name>氏，<placeName key="PL000000013662"><placeName>齊</placeName><placeName>信安</placeName></placeName>太<lb
+ed="T" n="0797c13"/><persName key="A010894">釋守<choice resp="PC-JK-MB"><sic>直</sic><corr>真</corr></choice></persName>，字<persName key="A010894">堅道</persName>，<placeName key="PL000000011520">錢塘</placeName>人也，姓<name>范氏</name>，<placeName key="PL000000013662"><placeName>齊</placeName><placeName>信安</placeName></placeName>太<lb
 ed="T" n="0797c14"/>守<persName key="A010895">瑝</persName>之八葉。禮既冠眾，君子器之。夙有丘<lb
 ed="T" n="0797c15"/>園<ptr type="glossary" target="#g1217"/>之期，不顧玄纁<ptr type="glossary" target="#g445"/>之錫。遂詣<placeName key="PL000000010025"><placeName>蘇州</placeName><placeName>支硎寺</placeName></placeName><lb
 ed="T" n="0797c16"/><persName key="A010896">圓<roleName>大師</roleName></persName>所受具足律儀。是夜，眼中光現長一<lb

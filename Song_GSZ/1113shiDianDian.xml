@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="感通" xml:id="gsz0852c01shiDianDian"><pb n="0852c" xml:id="T50.2061.0852c" ed="T"/><lb
 ed="T" n="0852c01"/><anchor n="T.50.2061.0852c01"/><head><date from-iso="+0960-02-09" key="j20717322132856" to-iso="+1127-06-18"><anchor xml:id="begd1e39321"/>宋<anchor xml:id="endd1e39321"/></date><placeName key="PL000000034948"><placeName><choice resp="PC-JK-MB"><sic>卬</sic><corr>邛</corr></choice>州<ptr target="#n282"/></placeName><placeName>大邑</placeName><placeName>靈鷲山寺</placeName></placeName><persName key="A013011">點點師</persName>傳</head><p><lb
-ed="T" n="0852c02"/><persName key="A013011">釋點點師</persName>者，不知何許人也。<persName key="A006599">孟</persName>氏<date key="j20636952073588" notAfter-iso="+0965-03-10" notBefore-iso="+0938-02-07"><name>廣政</name>中</date>，<lb
+ed="T" n="0852c02"/><persName key="A013011">釋點點師</persName>者，不知何許人也。<persName key="A006599">孟氏</persName><date key="j20636952073588" notAfter-iso="+0965-03-10" notBefore-iso="+0938-02-07"><name>廣政</name>中</date>，<lb
 ed="T" n="0852c03"/>隱<placeName key="PL000000035059"><anchor xml:id="beg0852sgsz11"/><choice resp="PC-JK-MB"><sic>卬</sic><corr>邛</corr></choice><anchor xml:id="end0852sgsz11"/></placeName>南<placeName key="PL000000034954">大邑</placeName><ref type="place" target="#PL000000034948">山寺</ref>，多遊𢌅<ptr type="glossary" target="#g640"/>肆中。雖事削染，<lb
 ed="T" n="0852c04"/>恒若風狂。或與人接，必指點而言，故目是<lb
 ed="T" n="0852c05"/>稱焉。有命齋食者，酒肉不間，率以為常，<lb

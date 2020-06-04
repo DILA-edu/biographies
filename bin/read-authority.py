@@ -3,8 +3,8 @@ import codecs, json, os, pickle, re, sys
 from lxml import etree
 import sw_xml, zbx_authority
 
-API = 'http://dev.dila.edu.tw/authority/webwidget/getAuthorityData.php'
-#API = 'http://authority.dila.edu.tw/webwidget/getAuthorityData.php'
+#API = 'http://authority-dev.dila.edu.tw/authority/webwidget/getAuthorityData.php'
+API = 'http://authority.dila.edu.tw/webwidget/getAuthorityData.php'
 
 def read_person(key):
   print(key)

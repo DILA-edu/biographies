@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="遺身" xml:id="gsz0306a11shiXingGao">
+<lb ed="B" n="0306a11"/><anchor n="B.27.0151.0306a11"/><head>清杭州理安寺沙門<persName key="A016333">釋行杲</persName>傳<persName type="secondary">侍者</persName></head>
+<lb ed="B" n="0306a12"/><p xml:id="pB27p0306a1201"><persName key="A016333">釋行杲</persName>，字<persName key="A016333">汝風</persName>，姓張氏，吳門人。初依<persName key="A001971">蒼雪</persName>博習經論，後參<persName key="A013268">箬庵</persName>，
+<lb ed="B" n="0306a13"/>問於夾山舉<persName key="A004982">風穴</persName>見<persName key="A004981">南院</persName>因緣<!-- 《武林理安寺志．卷5．傳臨濟正宗第三十二代．第七次住持汝風杲禪師》：「參箬菴問禪師於夾山，問舉「風穴見南院因緣」」(《中國佛寺史志彙刊》，第1輯，第21冊，頁0241) -->，命<persName key="A016333">杲</persName>頌之。乃頌曰：「師資合處芥
+<lb ed="B" n="0306a14"/>投鍼，嶽未為高海未深；看去作家鑪鞴在，能消躍冶不祥金。」<persName key="A013268">箬
+<lb ed="B" n="0306a15"/>庵</persName>見之，喜曰：「此則機緣，三十年來罕有契其旨者；今日始愜<ref type="person" target="#A013268">吾</ref>
+<lb ed="B" n="0306a16"/>意。」遂承記莂，繼席南澗。三載，退居潤州靜室。<date when-iso="+1678-01-25" key="j23339622333962">康熙戊午正月三
+<lb ed="B" n="0306a17"/>日</date>往鶴林與<persName key="A016588">天樹植</persName>訣別。<persName key="A016588">植</persName>曰：「新年頭何得說末後語？」<persName key="A016333">杲</persName>曰：「實
+<lb ed="B" n="0306a18"/>非戲言。朽骨火後，祈颺大江，無違<ref type="person" target="#A016333">我</ref>願。」由是相別。至<date when-iso="+1678-02-15" key="j23339832333983">廿四日</date>鄰
+<lb ed="B" n="0306a19"/>庵火起，<persName key="A016333">杲</persName>但整衣。侍者曰：「火猛且近，奈何盍速出？」<persName key="A016333">杲</persName>曰：「<ref type="person" target="#A016333">吾</ref>時節
+<lb ed="B" n="0306a20"/>至矣。」侍者曰：「<ref type="person" target="#A016333">師</ref>如是，弟子敢離左右。」遂同證火光三昧。門人依<pb ed="B" xml:id="B27.0151.0306b" n="0306b"/>
+<lb ed="B" n="0306b01"/>命葬之大江龍門。有《語錄》一卷。</p>
+    <linkGrp>
+        <link targets="#0306a12 #0306a12"/>
+        <ptr target="#A016333" type="person"/>
+        <ptr target="#A001971" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0306a12 #0306a16"/>
+        <ptr target="#A016333" type="person"/>
+        <ptr target="#A013268" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0306a16 #0306a18"/>
+        <ptr target="#A016333" type="person"/>
+        <ptr target="#A016588" type="person"/>
+        <ptr target="#j23339622333962" type="time"/>
+    </linkGrp>
+</div>

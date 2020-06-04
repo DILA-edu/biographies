@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="遺身" xml:id="gsz0858c12shiZhiTong"><lb
 ed="T" n="0858c12"/><anchor n="T.50.2061.0858c12"/><head><date from-iso="+0936-12-05" key="j20632662067017" to-iso="+0947-03-14">晉</date><placeName key="PL000000042886"><placeName>鳳翔府</placeName><placeName>法門寺</placeName></placeName><persName key="A013472">志通</persName>傳</head><p><lb
-ed="T" n="0858c13"/><persName key="A013472">釋志通</persName>，俗姓<name>張</name>氏，<placeName key="PL000000042848">右扶風</placeName>著姓家之子也。早<lb
+ed="T" n="0858c13"/><persName key="A013472">釋志通</persName>，俗姓<name>張氏</name>，<placeName key="PL000000042848">右扶風</placeName>著姓家之子也。早<lb
 ed="T" n="0858c14"/>知<anchor xml:id="beg0858sgsz37"/><choice resp="PC-JK-MB"><sic>遣</sic><corr>遺</corr></choice><anchor xml:id="end0858sgsz37"/>世<ptr type="glossary" target="#g1929"/>，克務淨門，選<anchor xml:id="beg0858sgsz39"/>禮<anchor xml:id="end0858sgsz39"/>名師，登于上品，諸<lb
 ed="T" n="0858c15"/>方講肆，遍略留心。後<date key="j20261062052491" notBefore-iso="+0835-03-10" notAfter-iso="+0907-06-06"><name>唐</name>之季</date>，兵革相尋，自此<lb
-ed="T" n="0858c16"/>駕已東巡<ptr target="#n2273"/>。薄遊<ptr type="glossary" target="#g674"/><placeName key="PL000000023581">洛</placeName>下，遇<persName key="A023065">嚩日囉三藏</persName><ptr target="#n2934"/>，行瑜<lb
+ed="T" n="0858c16"/>駕已東巡<ptr target="#n2273"/>。薄遊<ptr type="glossary" target="#g674"/><placeName key="PL000000023581">洛</placeName>下<ptr type="glossary" target="#g2383"/>，遇<persName key="A023065">嚩日囉三藏</persName><ptr target="#n2934"/>，行瑜<lb
 ed="T" n="0858c17"/>伽教法<ptr type="glossary" target="#g93"/>，<persName key="A013472">通</persName>禮事之<ptr target="#n2936"/>。乃欲陟<placeName key="PL000000014411">天台</placeName>、<placeName key="PL000000031276">羅浮</placeName>，遂辭。<lb
 ed="T" n="0858c18"/><ref type="person" target="#A023065">三藏</ref>曰：「<ref type="person" target="#A023065">吾</ref><anchor xml:id="beg0858sgsz41"/>此<anchor xml:id="end0858sgsz41"/>求翻譯，屬<placeName key="PL000000000214">中原</placeName>多事。<ref type="person" target="#A013472">子</ref>議南<lb
 ed="T" n="0858c19"/>征奈何路梗何？」<persName key="A013472">通</persName>曰：「泛天塹其如<ref type="person" target="#A013472">我</ref>何？」<lb
 ed="T" n="0858c20"/><ref type="person" target="#A023065">三藏</ref>曰：「苟去<placeName key="PL000000009925">吳</placeName>、<placeName key="PL000000013265">會</placeName>間，可付之<name>梵</name>夾，或緣會<lb
 ed="T" n="0858c21"/>傳譯。」<persName key="A013472">通</persName>曰：「已聞命矣。」以<date key="j20640502064433" notBefore-iso="+0939-01-28" to-iso="+0940-02-15"><name>天福</name>四年<anchor xml:id="beg0858sgsz43"/>己<anchor xml:id="end0858sgsz43"/>亥歲</date>，<lb
 ed="T" n="0858c22"/>天王錫命于<placeName key="PL000000008355">吳越</placeName>，遂附海艦達<placeName key="PL000000008355">浙</placeName>中。時<persName key="A006771"><persName>文<lb
-ed="T" n="0858c23"/>穆王</persName><persName>錢</persName>氏</persName>奉朝廷之故，具威儀樂部，迎<persName key="A013472">通</persName><lb
+ed="T" n="0858c23"/>穆王</persName><persName>錢氏</persName></persName>奉朝廷之故，具威儀樂部，迎<persName key="A013472">通</persName><lb
 ed="T" n="0858c24"/>入府庭供養，於<placeName key="PL000000011485">真身塔寺</placeName>安置，施賚豐腆。<lb
 ed="T" n="0858c25"/><persName key="A013472">通</persName>請往<placeName key="PL000000014411">天台山</placeName>。由是登<placeName key="PL000000014519">赤城</placeName>，陟<placeName key="PL000000014412">華頂</placeName>，既而<lb
 ed="T" n="0858c26"/>於<placeName key="PL000000014700">智者道場</placeName>挂錫。因覽《西方淨土靈瑞傳》<ptr target="#n2935"/>，<lb

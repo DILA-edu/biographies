@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0791c15shiWenGang"><lb
 ed="T" n="0791c15"/><anchor n="T.50.2061.0791c15"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000042229"><placeName>京師</placeName><placeName>崇聖寺</placeName></placeName><persName key="A002468">文綱</persName>傳（<persName key="A010786">名恪</persName>）</head><p><lb
-ed="T" n="0791c16"/><persName key="A002468">釋文綱</persName>，姓<name>孔</name>氏，<placeName key="PL000000013239">會稽</placeName>人也。曾祖<persName key="A010774">範</persName>，<placeName key="PL000000000074">陳</placeName>都官尚<lb
+ed="T" n="0791c16"/><persName key="A002468">釋文綱</persName>，姓<name>孔氏</name>，<placeName key="PL000000013239">會稽</placeName>人也。曾祖<persName key="A010774">範</persName>，<placeName key="PL000000000074">陳</placeName>都官尚<lb
 ed="T" n="0791c17"/>書；祖<persName key="A010775">禩</persName>，祠部侍郎；考<persName key="A019328">頂<anchor xml:id="beg0791sgsz4"/><choice resp="PC-JK-MB"><sic>坐</sic><corr>生</corr></choice><anchor xml:id="end0791sgsz4"/></persName>逃海避<placeName key="PL000000000105">隋</placeName>，擇木<ptr type="glossary" target="#g528"/><lb
 ed="T" n="0791c18"/>歸<persName key="A002434">舜</persName>，<date from-iso="+0627-01-26" key="j19500921958296" to-iso="+0649-07-13"><name>貞觀</name></date>始拜尚乘直長；咸光復儒業，旁<lb
 ed="T" n="0791c19"/>通<name>釋</name>教。是故<persName key="A002468">綱</persName>也植宿根，從習氣。慈母懷<lb
@@ -29,7 +29,7 @@ ed="T" n="0792a11"/>是以一時法主，<ref type="person" target="#A002099 #A0
 ed="T" n="0792a12"/>遇<persName key="A005424">匿王</persName>之說戒，<placeName key="PL000000048271">竹園</placeName>門外別有沙彌，畢樹<ptr type="glossary" target="#g149"/><lb
 ed="T" n="0792a13"/>枝間廣聞鵽鳥<ptr type="glossary" target="#g150"/><ptr target="#n885"/>。所以受潤者博，入見者深。<lb
 ed="T" n="0792a14"/>萬病已痊，獲歡喜之藥；一心不染，解煩惱之<lb
-ed="T" n="0792a15"/>繩。又恭承絲綸<ptr type="glossary" target="#g305"/>，<placeName key="PL000000042189">京都</placeName>翻譯<ptr target="#n888"/>，追論惠用，遠契<lb
+ed="T" n="0792a15"/>繩。又恭承絲綸<ptr type="glossary" target="#g305"/>，<ref type="place" target="#PL000000042189 #PL000000023581">京都</ref>翻譯<ptr target="#n888"/>，追論惠用，遠契<lb
 ed="T" n="0792a16"/>如因，翹誠滿朝，檀施<ptr type="glossary" target="#g237"/>敵國，但依布薩<ptr type="glossary" target="#g1291"/>，盡用<lb
 ed="T" n="0792a17"/>莊嚴<ptr type="glossary" target="#g319"/>。累歷伽藍二十餘所，凡是塔廟，各已華<lb
 ed="T" n="0792a18"/>豐。猶且刺血書經，向六百卷；登壇受具，僅<ptr type="glossary" target="#g175"/><lb
@@ -62,7 +62,7 @@ ed="T" n="0792b15"/>棟橈而已哉！」有若弟子，<placeName key="PL000000
 ed="T" n="0792b16"/><placeName key="PL000000042848"><anchor xml:id="beg0792sgsz4"/>岐<anchor xml:id="end0792sgsz4"/></placeName><placeName key="PL000000042949">隴</placeName><persName key="A010780">慧顗</persName>、<placeName key="PL000000042192">京兆</placeName><persName key="A010781">神慧</persName>、<persName key="A010782">思義</persName>、<persName key="A010783">紹覺</persName>、<persName key="A023223">律藏</persName>、<persName key="A010784">恒暹</persName>、<persName key="A010785">崇業</persName><lb
 ed="T" n="0792b17"/>等五十餘人，並目以慈眼入於度門，金棺<ptr target="#n899"/><lb
 ed="T" n="0792b18"/>不追<ptr rend="display:none;" type="glossary" target="#g154"/>，灰骨罔答。乃請<placeName key="PL000000024155">滑臺</placeName>太守<persName key="A007761">李邕</persName>為碑。<lb
-ed="T" n="0792b19"/><persName key="A007761">邕</persName>象彼<persName key="A004022">馬遷</persName>，法其<persName key="A008642"><anchor xml:id="beg0792003"/>班<anchor xml:id="end0792003"/></persName>氏，以二人而同傳，<lb
+ed="T" n="0792b19"/><persName key="A007761">邕</persName>象彼<persName key="A004022">馬遷</persName>，法其<persName key="A008642"><anchor xml:id="beg0792003"/>班<anchor xml:id="end0792003"/>氏</persName>，以二人而同傳，<lb
 ed="T" n="0792b20"/>必百行以齊肩。不忝<persName key="A001899">懷素</persName>前，不慚<persName key="A001519">宣<roleName>師</roleName></persName><lb
 ed="T" n="0792b21"/>後，<persName key="A007761">李北海</persName>題品<ptr type="glossary" target="#g156"/>，不其韙<ptr type="glossary" target="#g155"/>乎！有<placeName key="PL000000020588">淄州</placeName><persName key="A010786">名恪<roleName>律<lb
 ed="T" n="0792b22"/>師</roleName></persName>者，精執律範，切勤求解，嘗廁<persName key="A001519">宣<roleName>師</roleName></persName>法筵，<lb

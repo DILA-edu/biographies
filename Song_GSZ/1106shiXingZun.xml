@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="感通" xml:id="gsz0850b13shiXingZun"><lb
 ed="T" n="0850b13"/><anchor n="T.50.2061.0850b13"/><head><date from-iso="+0936-12-05" key="j20632662067017" to-iso="+0947-03-14">晉</date><placeName key="PL000000036517"><placeName>閬州</placeName><placeName>光國院</placeName></placeName><persName key="A012900">行遵</persName>傳</head><p><lb
-ed="T" n="0850b14"/><persName key="A012900">釋行遵</persName>，<placeName key="PL000000017165">福州</placeName><persName key="A003732">閩王</persName><name>王</name>氏之仲子<ptr target="#n2805"/>。<placeName key="PL000000057656">後唐</placeName><persName key="A006575">莊宗</persName><date notBefore-iso="+0923-05-18" key="j20583162059413" notAfter-iso="+0926-05-19">即<lb
+ed="T" n="0850b14"/><persName key="A012900">釋行遵</persName>，<placeName key="PL000000017165">福州</placeName><persName key="A003732">閩王</persName><name>王氏</name>之仲子<ptr target="#n2805"/>。<placeName key="PL000000057656">後唐</placeName><persName key="A006575">莊宗</persName><date notBefore-iso="+0923-05-18" key="j20583162059413" notAfter-iso="+0926-05-19">即<lb
 ed="T" n="0850b15"/>位</date>，入<placeName key="PL000000023638">洛</placeName>進方物，因留京邸。<date notBefore-iso="+0925-08-18" key="j20591392059413" notAfter-iso="+0926-05-19"><name>同光</name><anchor xml:id="beg0850sgsz5"/>末<anchor xml:id="end0850sgsz5"/></date>，會<persName key="A006576">明宗</persName><lb
 ed="T" n="0850b16"/>將入<ptr target="#n2806"/>，兵亂相仍，乃自剪飾，變服為僧，竄身<lb
 ed="T" n="0850b17"/><placeName key="PL000000034649">巴蜀</placeName>。逮<placeName key="PL000000000124">晉</placeName><date key="j20658812067017" notAfter-iso="+0947-03-14" notBefore-iso="+0944-02-02"><name>開運</name>中</date>狀貌若七十餘，然壯力<lb
 ed="T" n="0850b18"/>不衰。或詢其年臘，則必杜默<ptr rend="display:none;" type="glossary" target="#g1383"/>。於<placeName key="PL000000036535">閬中</placeName>寓<placeName key="PL000000036517">光<lb
 ed="T" n="0850b19"/>國禪院</placeName>，院徒以律法住持，人不之知<persName key="A012900">遵</persName>之<lb
-ed="T" n="0850b20"/>能否<ptr target="#n2807"/>。有<persName key="A012906">李</persName>氏子家命齋，飲噉之次，欻<ptr type="glossary" target="#g1836"/>起出<lb
+ed="T" n="0850b20"/>能否<ptr target="#n2807"/>。有<persName key="A012906">李氏</persName>子家命齋，飲噉之次，欻<ptr type="glossary" target="#g1836"/>起出<lb
 ed="T" n="0850b21"/>門呌噪，若有所責。謂<persName key="A012906">李</persName>曰：「今夜有火，自<lb
 ed="T" n="0850b22"/>東南至于西北街，隣居咸令備之。」是夕果<lb
 ed="T" n="0850b23"/>然煨燼無遺。眾聚問其故，曰：「昨一婦女衣<lb

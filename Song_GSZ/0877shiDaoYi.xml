@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0766a13shiDaoYi"><lb
 n="0766a13" ed="T"/><anchor n="T.50.2061.0766a13"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000018582"><placeName>洪州</placeName><placeName>開元寺</placeName></placeName><persName key="A003623">道一</persName>傳（<persName key="A010347">智藏</persName>）</head><p><lb
-ed="T" n="0766a14"/><persName key="A003623">釋道一</persName><ptr rend="display:none;" target="#n1438"/>，姓<name>馬</name>氏，<placeName key="PL000000035365">漢州</placeName>人也。華以喻性，不植於<lb
+ed="T" n="0766a14"/><persName key="A003623">釋道一</persName><ptr rend="display:none;" target="#n1438"/>，姓<name>馬氏</name>，<placeName key="PL000000035365">漢州</placeName>人也。華以喻性，不植於<lb
 ed="T" n="0766a15"/>高原；浪以辯識，發明於溟海。生而凝重，虎視<lb
 ed="T" n="0766a16"/>牛行。舌過鼻準，足文大字<ptr target="#n1439"/>。根塵雖同於法<lb
 ed="T" n="0766a17"/>體，相表特異於幻形，既云在凡之境，亦應<lb
@@ -54,7 +54,7 @@ ed="T" n="0766c05"/>能作佛，辨邪正者魔亦似聖。現身不留於<lb
 ed="T" n="0766c06"/>大士，負手俄萎於哲人<ptr target="#n1444"/>。弟子<persName key="A010347">智藏</persName>、<persName key="A010348">鎬英</persName>、<persName key="A010349">崇泰</persName><lb
 ed="T" n="0766c07"/>等奉其喪紀，<persName key="A002120">憲宗</persName>追謚曰<persName key="A003623">大寂禪師</persName>，<placeName key="PL000000010986">丹陽</placeName>公<lb
 ed="T" n="0766c08"/><persName key="A010350">包佶</persName>為碑紀述，<persName key="A009536">權德輿</persName>為塔銘。今<placeName key="PL000000018931">海昏縣</placeName>影<lb
-ed="T" n="0766c09"/>堂存焉。又<date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000019103"><placeName>虔州</placeName><placeName>西堂</placeName></placeName><persName key="A010347">釋智藏</persName><ptr target="#n2378"/>，姓<name>廖</name>氏，<placeName key="PL000000019245">虔化</placeName><lb
+ed="T" n="0766c09"/>堂存焉。又<date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000019103"><placeName>虔州</placeName><placeName>西堂</placeName></placeName><persName key="A010347">釋智藏</persName><ptr target="#n2378"/>，姓<name>廖氏</name>，<placeName key="PL000000019245">虔化</placeName><lb
 ed="T" n="0766c10"/>人也。生有奇表，親黨異其偉器。<date key="j20289602029324" from-iso="+0843-01-01" to-iso="+0843-12-31">八歲</date>從<ref type="person" target="#A003623">師</ref><ptr target="#n2379"/>，<lb
 ed="T" n="0766c11"/>道趣高邈。隨<persName key="A003623">大寂</persName>移居<placeName key="PL000000019334">龔公山</placeName>，後謁<placeName key="PL000000011848">徑山</placeName><lb
 ed="T" n="0766c12"/><persName key="A004218">國一<roleName>禪師</roleName></persName>，與其談論周旋，人皆改觀。屬元<lb

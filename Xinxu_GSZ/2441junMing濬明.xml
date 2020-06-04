@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="靈感" xml:id="gsz0295a18shiJunMing">
+<lb ed="B" n="0295a18"/><anchor n="B.27.0151.0295a18"/><head>清甯鄉大溈山密印寺沙門<persName key="A043417">釋濬明</persName>傳</head>
+<lb ed="B" n="0295a19"/><p xml:id="pB27p0295a1901"><persName key="A043417">釋濬明</persName>，《湘鄉縣志》作<persName key="A043417">俊明</persName>，《塔銘》稱<persName key="A043417">哲</persName>公，蓋名<persName key="A043417">哲</persName>也，「睿哲文明」取
+<lb ed="B" n="0295a20"/>旨甚洽。江甯徐氏，世居金陵。<persName key="A043417">明</persName>生而端謹，孝友天成。嘗為母祈<pb ed="B" xml:id="B27.0151.0295b" n="0295b"/>
+<lb ed="B" n="0295b01"/>請，航海而南，步朝補陀，得晤<persName key="A043420">至公</persName>。辤意契合，竟徹空有。及慈親
+<lb ed="B" n="0295b02"/>見背，衰絰斯除，便赴京城佛會寺落髮。<persName key="A043420">至公</persName>知有道根，遂授記
+<lb ed="B" n="0295b03"/>莂。或云<persName key="A043417">濬明</persName>少時夢一老僧，教之持誦。一日遊寺中，聞僧誦經，
+<lb ed="B" n="0295b04"/>皆夢中語。問之，乃《般若波羅密多心經》也。<persName key="A043417">明</persName>頓悟，棄妻子受戒。
+<lb ed="B" n="0295b05"/>然則誦經僧殆即至與。康熙時，湘鄉白雲山僧募經江甯，未集
+<lb ed="B" n="0295b06"/>而沒，託於<persName key="A043417">明</persName>為畢斯願。慨然許諾，竟致全藏來褒忠山。士人<persName key="A043418">彭
+<lb ed="B" n="0295b07"/>青選</persName>，仰其高誼，建閣藏之，遂留寺中。後往荊紫、大溈諸山，屢主
+<lb ed="B" n="0295b08"/>法席。歲旱禱雨，甘霖立沛，郡守牧伯為勒「至誠如神」額以頌之。
+<lb ed="B" n="0295b09"/>一夕大雪，<persName key="A043418">青選</persName>夢<persName key="A043417">明</persName>言寺僧饑甚。晨興，令僕致米。時雪深沒踝，
+<lb ed="B" n="0295b10"/>山徑自開，積凍微釋，異之。至寺，見韋<g ref="#CB00501">䭾</g>像，杵沾雪泥，水尚涔涔
+<lb ed="B" n="0295b11"/>下也。有龍盤繞閣楹，昂首欲厺。<persName key="A043417">明</persName>戒之曰：「毋壞寺，毋傷生靈，毋
+<lb ed="B" n="0295b12"/>淹禾稼。」龍果蜿蟺行石間，可半里許，風雲四起，擘石飛去。山舊
+<lb ed="B" n="0295b13"/>有虎歗，聲怖行人，及<persName key="A043417">明</persName>住山久之，不復知虎所在。<date from-iso="+1746-01-22" key="j23587952359177" to-iso="+1747-02-08">乾隆丙寅</date>強
+<lb ed="B" n="0295b14"/>應大溈之請，甫膺丈席。四方奔奏，食指近千，錘鍊所施，莫不獲
+<lb ed="B" n="0295b15"/>益。<date from-iso="+1748-01-30" key="j23595332359620" to-iso="+1748-04-26">乾隆十三年戊辰春</date>，偶示微疾，匝月間，說偈而化，經日如生。
+<lb ed="B" n="0295b16"/>蓋終於荊紫峯，西甯<persName key="A043419">譚大昇</persName>為銘其塔云。有自述行狀，今不可
+<lb ed="B" n="0295b17"/>見，《志》稱其言曰：「龍翔虎去，老僧亦從此逝矣！」其自述者，非邪？</p>
+    <linkGrp>
+        <link targets="#0295b01 #0295b03"/>
+        <ptr target="#A043417" type="person"/>
+        <ptr target="#A043420" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0295b06 #0295b07"/>
+        <ptr target="#A043417" type="person"/>
+        <ptr target="#A043418" type="person"/>
+    </linkGrp>
+</div>

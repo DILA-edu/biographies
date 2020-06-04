@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0786c04shiGuiChen"><lb
 ed="T" n="0786c04"/><anchor n="T.50.2061.0786c04"/><head><date from-iso="+0923-05-18" key="j20583162063308" to-iso="+0937-01-16">後唐</date><placeName key="PL000000018037"><placeName>漳州</placeName><placeName>羅漢院</placeName></placeName><persName key="A010683">桂琛</persName>傳</head><p><lb
-ed="T" n="0786c05"/><persName key="A010683">釋桂琛</persName>，俗姓<name>李</name>氏，<placeName key="PL000000013684">常山</placeName>人也。甫作童兒，篤<lb
+ed="T" n="0786c05"/><persName key="A010683">釋桂琛</persName>，俗姓<name>李氏</name>，<placeName key="PL000000013684">常山</placeName>人也。甫作童兒，篤<lb
 ed="T" n="0786c06"/>求遠俗，齋茹一餐，調息終日。秉心<anchor xml:id="beg0786006"/>唯確<anchor xml:id="end0786006"/>，鄉<lb
 ed="T" n="0786c07"/>黨所欽。二親愛縛而莫辭，群從情纏而難<lb
 ed="T" n="0786c08"/>脫。既冠，繼踰城之武<ptr target="#n1717"/>，求師得解虎之儔<ptr target="#n264"/>，乃<lb
@@ -27,7 +27,7 @@ ed="T" n="0786c27"/>秋六十有二，僧臘四十<ptr target="#n267"/>。遺戒
 ed="T" n="0786c28"/>棺而墓。於是<anchor xml:id="beg0786sgsz20"/>茶毘<anchor xml:id="end0786sgsz20"/>於城西院之東<anchor xml:id="beg0786sgsz22"/>崗<anchor xml:id="end0786sgsz22"/>，收其<lb
 ed="T" n="0786c29"/>舍利，建塔于院之西，稟遺教也，則<date from-iso="+0936-01-17" key="j20629432062944" to-iso="+0936-01-18"><name>清泰</name>二<pb ed="T" n="0787a" xml:id="T50.2061.0787a"/><lb
 ed="T" n="0787a01"/>年十二月望日</date>也。<persName key="A010683">琛</persName>得法密付授，耳時<persName key="A003900">神晏<lb
-ed="T" n="0787a02"/><roleName>大師</roleName></persName>，<persName key="A003732">王</persName>氏所重，以言事脅令捨<persName key="A008370">玄沙</persName>嗣<persName key="A003677">雪<lb
+ed="T" n="0787a02"/><roleName>大師</roleName></persName>，<persName key="A003732">王氏</persName>所重，以言事脅令捨<persName key="A008370">玄沙</persName>嗣<persName key="A003677">雪<lb
 ed="T" n="0787a03"/>峯</persName>，確乎不拔，終為<persName key="A003900">晏</persName>讒而凌轥<ptr rend="display:none;" type="glossary" target="#g1245"/>，惜哉！</p>
     <linkGrp>
         <link targets="#0786c05 #0786c05"/>

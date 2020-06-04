@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0778a07shiHuanZhong"><lb
 n="0778a07" ed="T"/><anchor n="T.50.2061.0778a07"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000012299"><placeName>杭州</placeName><placeName>大慈山</placeName></placeName><persName key="A010538">寰中</persName>傳</head><p><lb
-ed="T" n="0778a08"/><persName key="A010538">釋寰中</persName>，姓<name>盧</name>氏，<placeName key="PL000000005199"><placeName>河東</placeName><placeName>蒲坂</placeName></placeName>人也。稟靈<anchor xml:id="beg0778001"/>特<anchor xml:id="end0778001"/>異，<lb
+ed="T" n="0778a08"/><persName key="A010538">釋寰中</persName>，姓<name>盧氏</name>，<placeName key="PL000000005199"><placeName>河東</placeName><placeName>蒲坂</placeName></placeName>人也。稟靈<anchor xml:id="beg0778001"/>特<anchor xml:id="end0778001"/>異，<lb
 ed="T" n="0778a09"/>挺質<ptr type="glossary" target="#g2305"/>殊倫，身支𦟛亭，頂骨圓峻，其聲若鐘響，<lb
 ed="T" n="0778a10"/>其色猶脂凝。學通終古，辭實豐贍。<date key="j20147152015080" from-iso="+0804-01-01" to-iso="+0804-12-31">年二十<lb
 ed="T" n="0778a11"/>五</date>，隨計<ptr type="glossary" target="#g921"/>中甲科<ptr type="glossary" target="#g1579"/>，然未塞其懷，復思再捷。無<lb
@@ -15,7 +15,7 @@ ed="T" n="0778a18"/>瓶遠求。俄爾深宵，有虎嘷嘯廬側，詰旦視<lb
 ed="T" n="0778a19"/>之，果濫泉坼地而湧，足其汲用<ptr target="#n927"/>。後之<placeName key="PL000000011519">杭</placeName>，<placeName key="PL000000008367">浙<lb
 ed="T" n="0778a20"/>江</placeName>之北有山號<placeName key="PL000000012299">大慈</placeName><ptr target="#n1585"/>。居未久，檀信爰臻。旋<lb
 ed="T" n="0778a21"/>成巨院，四方僧侶參禮如雲。<date from-iso="+0840-02-14" key="j20279082030170" to-iso="+0846-04-25">屬</date><persName key="A006570">武宗</persName>廢教，<lb
-ed="T" n="0778a22"/><persName key="A010538">中</persName>衣短褐，或請居<persName key="A022977">戴</persName>氏別墅焉。<date from-iso="+0852-01-29" key="j20322752032658" to-iso="+0853-02-15"><name>大中</name>壬申<lb
+ed="T" n="0778a22"/><persName key="A010538">中</persName>衣短褐，或請居<persName key="A022977">戴氏</persName>別墅焉。<date from-iso="+0852-01-29" key="j20322752032658" to-iso="+0853-02-15"><name>大中</name>壬申<lb
 ed="T" n="0778a23"/>歲</date>，太守<persName key="A022978">劉<roleName>公</roleName></persName>首命剃染<ptr type="glossary" target="#g30"/>，重盛禪林。<date key="j20359812035981" when-iso="+0862-03-23">壬午歲二<lb
 ed="T" n="0778a24"/>月十五日</date>囑累，聲畢而終。時漸溽暑，驗其身<lb
 ed="T" n="0778a25"/>一無變異，而頂門燠潤。<date from-iso="+0862-10-31" key="j20362032036290" to-iso="+0863-01-26">冬</date>，窆于塔所，享年<lb

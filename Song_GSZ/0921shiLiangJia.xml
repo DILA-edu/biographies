@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0779c29shiLiangJia"><lb
 ed="T" n="0779c29"/><anchor n="T.50.2061.0779c29"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000019687"><placeName>洪州</placeName><placeName>洞山</placeName></placeName><persName key="A009489">良价</persName>傳</head><pb n="0780a" xml:id="T50.2061.0780a" ed="T"/><p><lb
-ed="T" n="0780a01"/><persName key="A009489">釋良价</persName>，俗姓<name>俞</name>氏，<placeName key="PL000000013376"><placeName>會稽</placeName><placeName>諸暨</placeName></placeName>人也。少孺從師<lb
+ed="T" n="0780a01"/><persName key="A009489">釋良价</persName>，俗姓<name>俞氏</name>，<placeName key="PL000000013376"><placeName>會稽</placeName><placeName>諸暨</placeName></placeName>人也。少孺從師<lb
 ed="T" n="0780a02"/>于<placeName key="PL000000013364">五洩山寺</placeName>。<date key="j20231162023480" from-iso="+0827-01-01" to-iso="+0827-12-31">年至二十一</date>，方往<placeName key="PL000000023253">嵩山</placeName>具戒<lb
 ed="T" n="0780a03"/>焉。登即遊方，見<persName key="A003889">南泉<roleName>禪師</roleName></persName>，深領玄契。續造<lb
 ed="T" n="0780a04"/><persName key="A010501">雲巖</persName>，疑滯頓寢。<date notBefore-iso="+0856-07-19" key="j20339082035056" notAfter-iso="+0859-09-10"><name>大中</name>末</date>，於<placeName key="PL000000057064"><anchor xml:id="beg0780sgsz1"/><choice resp="PC-JK-MB"><sic>斯</sic><corr>新</corr></choice><anchor xml:id="end0780sgsz1"/>豐山</placeName><ptr target="#n1614"/>大行禪<lb

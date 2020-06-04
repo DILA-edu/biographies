@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="義解" xml:id="gsz0743b04shiZhiXuan"><lb
 ed="T" n="0743b04"/><anchor n="T.50.2061.0743b04"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000035014"><placeName>彭州</placeName><placeName>丹景山</placeName></placeName><persName key="A000753">知玄</persName>傳</head><p><lb
-ed="T" n="0743b05"/><persName key="A000753">釋知玄</persName><ptr target="#n963"/>，字<persName key="A000753">後覺</persName>，姓<name>陳</name>氏，<placeName key="PL000000036649"><placeName>眉州</placeName><placeName>洪雅</placeName></placeName>人也。曾祖<lb
+ed="T" n="0743b05"/><persName key="A000753">釋知玄</persName><ptr target="#n963"/>，字<persName key="A000753">後覺</persName>，姓<name>陳氏</name>，<placeName key="PL000000036649"><placeName>眉州</placeName><placeName>洪雅</placeName></placeName>人也。曾祖<lb
 ed="T" n="0743b06"/><persName key="A009696">圖南</persName>，任<placeName key="PL000000035878"><placeName>梓州</placeName><placeName>射洪縣</placeName></placeName>令。祖<persName key="A009698">憲</persName>，考<persName key="A000216">邈</persName>，皆名場不<lb
-ed="T" n="0743b07"/>捷。母<persName key="A022276">魏</persName>氏夢月入于懷，因而載誕，雖乳哺<lb
+ed="T" n="0743b07"/>捷。母<persName key="A022276">魏氏</persName>夢月入于懷，因而載誕，雖乳哺<lb
 ed="T" n="0743b08"/>未能言，見佛像僧形，必含喜色。<date key="j20187332019097" from-iso="+0815-01-01" to-iso="+0815-12-31">五歲</date>，<ref target="#A009698" type="person">祖</ref>令<lb
 ed="T" n="0743b09"/>詠花，不數步成云：「花開滿樹紅，花落萬枝<lb
 ed="T" n="0743b10"/>空，唯餘一朵在，明日定隨風。」<ref target="#A009698" type="person">祖</ref>吟歎不懌<lb
@@ -40,11 +40,11 @@ ed="T" n="0743c11"/>戴碧冠，三<anchor xml:id="beg0743sgsz3"/>禮<anchor xml
 ed="T" n="0743c12"/>孝</persName>其夕誡其子曰：「<ref target="#A009709" type="person">吾</ref>常欲落髮披緇，汲瓶<lb
 ed="T" n="0743c13"/>挈屨，侍<persName key="A000753">玄<roleName>公</roleName></persName>，所累者簪冕也。<ref target="#A009709" type="person">吾</ref>蓋棺時，殮<lb
 ed="T" n="0743c14"/>以紫袈裟，碧芙蓉冠。」至是方驗先見矣。<persName key="A006570">武<lb
-ed="T" n="0743c15"/>宗</persName>御宇，初尚欽<name>釋</name>氏，後納蠱惑者議，望祀<lb
+ed="T" n="0743c15"/>宗</persName>御宇，初尚欽<name>釋氏</name>，後納蠱惑者議，望祀<lb
 ed="T" n="0743c16"/><placeName key="PL000000055457">蓬萊山</placeName>，築高臺以<anchor xml:id="beg0743002"/>祈<anchor xml:id="end0743002"/>羽化。雖諫官抗疏，<lb
 ed="T" n="0743c17"/>宰臣屢言，終不迴<ref target="#A006570" type="person">上</ref>意。因<date when-iso="+0843-07-15" key="j20291552029155">德陽節</date><ptr target="#n967"/>，緇、黃會<lb
 ed="T" n="0743c18"/><placeName key="PL000000042361">麟德殿</placeName><ptr target="#n968"/>，獨詔<persName key="A000753">玄</persName>與道門敵言，神仙為可學<lb
-ed="T" n="0743c19"/>不可學耶？<ref target="#A006570" type="person">帝</ref><anchor xml:id="beg0743003"/>叉<anchor xml:id="end0743003"/><ptr rend="display:none;" type="glossary" target="#g39"/>手付<persName key="A002104">老</persName>氏中「理大國若<lb
+ed="T" n="0743c19"/>不可學耶？<ref target="#A006570" type="person">帝</ref><anchor xml:id="beg0743003"/>叉<anchor xml:id="end0743003"/><ptr rend="display:none;" type="glossary" target="#g39"/>手付<persName key="A002104">老氏</persName>中「理大國若<lb
 ed="T" n="0743c20"/>烹小鮮<ptr target="#n969"/>」義，共黃冠往復。<persName key="A000753">玄</persName>陳帝王理道，教<lb
 ed="T" n="0743c21"/>化根本，言神仙之術，乃山林間匹夫獨擅高<lb
 ed="T" n="0743c22"/>尚之事業，而又必資宿因，非王者所宜。辭<lb
@@ -97,11 +97,11 @@ ed="T" n="0744b10"/>眾生，無貴賤少長，待之如一。素結情好深<lb
 ed="T" n="0744b11"/>者<persName key="A003624">裴<roleName>相國</roleName>休</persName>。初，<persName key="A003624">裴</persName>鎮<placeName key="PL000000027429">荊門</placeName>，<persName key="A000753">玄</persName>遊<placeName key="PL000000005250">五臺山</placeName>，路<lb
 ed="T" n="0744b12"/>出<placeName key="PL000000027770">渚宮</placeName>，贈遺初無所取。<persName key="A003624">裴</persName>知其儉約，密<lb
 ed="T" n="0744b13"/>遣人沿路以供之，若<persName key="A002599">蘇秦</persName>遣舍人陰資奉<lb
-ed="T" n="0744b14"/><persName key="A009391">張儀</persName>也<ptr target="#n1024"/>。甞經<placeName key="PL000000043916"><placeName>駱谷</placeName><placeName>真符縣</placeName></placeName><persName key="A022313">雍</persName>氏家枕潭，潭<lb
+ed="T" n="0744b14"/><persName key="A009391">張儀</persName>也<ptr target="#n1024"/>。甞經<placeName key="PL000000043916"><placeName>駱谷</placeName><placeName>真符縣</placeName></placeName><persName key="A022313">雍氏</persName>家枕潭，潭<lb
 ed="T" n="0744b15"/>中有大魚，如龍四足，而齒牙纖利，其家日<lb
 ed="T" n="0744b16"/>飼以食，已四世矣。或欲網釣之意，則輒雲<lb
 ed="T" n="0744b17"/>霧晦冥焉。<persName key="A000753">玄</persName>扣船撫其頂，瞪目而鼓躍，即<lb
-ed="T" n="0744b18"/>為受歸依。未幾，乃寄夢<persName key="A022313">雍</persName>氏曰：「我謝<ref type="person" target="#A022313">汝</ref>累<lb
+ed="T" n="0744b18"/>為受歸依。未幾，乃寄夢<persName key="A022313">雍氏</persName>曰：「我謝<ref type="person" target="#A022313">汝</ref>累<lb
 ed="T" n="0744b19"/>世護念，今受歸依，已生天而永訣矣。」次為<lb
 ed="T" n="0744b20"/><placeName key="PL000000034983"><placeName>導江</placeName><placeName>玉壘山</placeName></placeName>神<persName key="A022314">李氷</persName>廟、<placeName key="PL000000035662">益昌</placeName>北郭龍門神，偕<lb
 ed="T" n="0744b21"/>受戒法，罷其血食歟。有<persName key="A009732">李商隱</persName>者，一代文<lb
@@ -116,7 +116,7 @@ ed="T" n="0744b29"/>徹</persName>撰《法鑑》以照像，若《十翼》<ptr
 ed="T" n="0744c01"/>疏》二卷。<persName key="A009802">僧徹</persName>著《法燈》，類章指焉。《勝鬘經疏》<lb
 ed="T" n="0744c02"/>四卷，<persName key="A009802">僧徹</persName>著《法苑》以錯綜，猶緯書<ptr rend="display:none;" target="#n992"/>焉。又《般<lb
 ed="T" n="0744c03"/>若心經》、《金剛經》各有《疏義》。此外<placeName key="PL000000042002">秦</placeName>、<placeName key="PL000000035107">蜀</placeName>之間，作<lb
-ed="T" n="0744c04"/>釋氏雜文、外篇<ptr rend="display:none;" target="#n993"/>、箴論、碑誌、歌詩，錄成二十餘<lb
+ed="T" n="0744c04"/><name>釋</name>氏雜文、外篇<ptr rend="display:none;" target="#n993"/>、箴論、碑誌、歌詩，錄成二十餘<lb
 ed="T" n="0744c05"/>卷，<anchor xml:id="beg0744sgsz2"/>禮<anchor xml:id="end0744sgsz2"/>懺文六卷，通計三十萬言。後遷塔于<placeName key="PL000000035020"><placeName>茶<lb
 ed="T" n="0744c06"/>籠山</placeName><placeName>附聖寺</placeName></placeName>矣。<date from-iso="+0882-01-27" key="j20432312043614" to-iso="+0883-02-14"><name>中和</name>二年</date>，弟子左街僧錄<persName key="A009802"><persName>淨<lb
 ed="T" n="0744c07"/>光大師</persName><persName>僧徹</persName></persName>述傳，法孫右街僧錄<persName key="A009803">覺輝</persName>，<persName key="A009803">輝</persName>弟<lb
