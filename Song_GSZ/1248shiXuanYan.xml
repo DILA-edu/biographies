@@ -12,28 +12,48 @@
 <lb ed="T" n="0893a28"/>遠致。性多分劑<ptr type="glossary" target="#g2388"/>，苟與惡比丘共住，遑遑然
 <lb ed="T" n="0893a29"/>如以佉陀羅炭<ptr type="glossary" target="#g2389"/>浴身也。不出戶牖，焚香<pb ed="T" n="0893b" xml:id="T50.2061.0893b"/>
 <lb ed="T" n="0893b01"/>掃地，端坐盡日。人不堪其憂，而<persName key="A008829">晏</persName>居之，以
-<lb ed="T" n="0893b02"/>為三禪之樂不敵也。<persName key="A008829">晏</persName>少習毘尼，長學金
-<lb ed="T" n="0893b03"/>剛，解空破相，臻極玄奧。而聞律藏有一時
-<lb ed="T" n="0893b04"/>外學之說，或賦詩一章，運思標拔，孤遊境
+<lb ed="T" n="0893b02"/>為三禪<ptr type="glossary" target="#g270"/>之樂不敵<ptr type="glossary" target="#g527"/>也。</p><p><persName key="A008829">晏</persName>少習毘尼<ptr type="glossary" target="#g900"/>，長學《金
+<lb ed="T" n="0893b03"/>剛》<ptr target="#n3066"/>，解空破相<ptr type="glossary" target="#g2391"/>，臻極玄奧。而聞律藏有一時
+<lb ed="T" n="0893b04"/>外學<ptr type="glossary" target="#g2392"/>之說，或賦詩一章，運思標拔<ptr type="glossary" target="#g2393"/>，孤遊境
 <lb ed="T" n="0893b05"/>外。<placeName key="PL000000009523">彭城</placeName><persName key="A010166">劉長卿</persName>名重五言，大嗟賞之。由是
 <lb ed="T" n="0893b06"/>風雲草木，每有賦詠，輒為工文者之所吟
-<lb ed="T" n="0893b07"/>諷也。<persName key="A008829">晏</persName>房舍在寺之北隅，頗為湫陋，凡當
+<lb ed="T" n="0893b07"/>諷也。<persName key="A008829">晏</persName>房舍在寺之北隅，頗為湫陋<ptr type="glossary" target="#g2394"/>，凡當
 <lb ed="T" n="0893b08"/>時名士共營草堂，有若<placeName key="PL000000026074">陳郡</placeName><persName key="A013904">袁滋</persName>、<placeName key="PL000000001058">趙郡</placeName><persName key="A013905">李則</persName>、
-<lb ed="T" n="0893b09"/><persName key="A013906">盧來卿</persName>、<persName key="A013907">于文炫</persName>、<persName key="A013908">蔡直</persName>偕檀捨同締構也。鄂嶽<!--找不到此地-->
-<lb ed="T" n="0893b10"/>連<anchor xml:id="beg0893004"/><choice resp="PC-JK-MB"><sic>師</sic><corr>帥</corr></choice><anchor xml:id="end0893004"/>何公旌其行業，請居<placeName key="PL000000036559">晉安</placeName>，不移其志。
-<lb ed="T" n="0893b11"/><date key="j20059942007439" notAfter-iso="+0784-01-30" notBefore-iso="+0780-02-15"><name>建中</name></date>伊始，<persName key="A013909">符載</persName>與<persName key="A013910">楊衡</persName>、<persName key="A013911">李演</persName>約<persName key="A008829">晏</persName>為塵外之
-<lb ed="T" n="0893b12"/>侶焉。以<date key="j20135362013536" when-iso="+0800-10-09"><name>貞元</name>十六年九月十四日</date>示滅，春
-<lb ed="T" n="0893b13"/>秋五十八，僧臘三十四。遷塔于<placeName key="PL000000026443">黃鶴山</placeName>南
+<lb ed="T" n="0893b09"/><persName key="A013906">盧來卿</persName>、<persName key="A013907">于文炫</persName>、<persName key="A013908">蔡直</persName>偕檀捨同締構<ptr type="glossary" target="#g2219"/>也。<placeName key="PL000000026483">鄂嶽</placeName>
+<lb ed="T" n="0893b10"/>連<anchor xml:id="beg0893004"/><choice resp="PC-JK-MB"><sic>師</sic><corr>帥</corr></choice><anchor xml:id="end0893004"/><persName key="A043467">何<roleName>公</roleName></persName>旌其行業，請居<placeName key="PL000000023059">晉安</placeName>，不移其志。
+<lb ed="T" n="0893b11"/><date from-iso="+0780-02-15" key="j20059942006346" to-iso="+0781-02-01"><name>建中</name>伊始</date>，<persName key="A013909">符載</persName>與<persName key="A013910">楊衡</persName>、<persName key="A013911">李演</persName>約<persName key="A008829">晏</persName>為塵外之
+<lb ed="T" n="0893b12"/>侶焉。以<date when-iso="+0800-10-09" key="j20135362013536"><name>貞元</name>十六年九月十四日</date>示滅，春
+<lb ed="T" n="0893b13"/>秋五十八，僧臘三十四。遷塔于<placeName key="PL000000026442">黃鶴山</placeName>南
 <lb ed="T" n="0893b14"/>原也。</p>
+    <linkGrp>
+        <link targets="#0893a20 #0893a20"/>
+        <ptr target="#A008829" type="person"/>
+        <ptr target="#PL000000026482" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0893a20 #0893a22"/>
+        <ptr target="#A017616" type="person"/>
+        <ptr target="#A007761" type="person"/>
+    </linkGrp>
     <linkGrp>
         <link targets="#0893a20 #0893a21"/>
         <ptr target="#A017616" type="person"/>
-        <ptr target="#A007761" type="person"/>
+        <ptr target="#PL000000043857" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0893a20 #0893a21"/>
+        <ptr target="#A017616" type="person"/>
+        <ptr target="#PL000000025556" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0893a21 #0893a22"/>
         <ptr target="#A008829" type="person"/>
         <ptr target="#A007761" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0893a21 #0893a22"/>
+        <ptr target="#A007761" type="person"/>
+        <ptr target="#PL000000021026" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0893a22 #0893a24"/>
@@ -59,12 +79,34 @@
         <ptr target="#PL000000026452" type="place"/>
     </linkGrp>
     <linkGrp>
+        <link targets="#0893b08 #0893b08"/>
+        <ptr target="#A013904" type="person"/>
+        <ptr target="#PL000000026074" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0893b08 #0893b08"/>
+        <ptr target="#A013905" type="person"/>
+        <ptr target="#PL000000001058" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0893b09 #0893b10"/>
+        <ptr target="#A008829" type="person"/>
+        <ptr target="#A043467" type="person"/>
+        <ptr target="#PL000000026483" type="place"/>
+    </linkGrp>
+    <linkGrp>
         <link targets="#0893b11 #0893b12"/>
         <ptr target="#A008829" type="person"/>
         <ptr target="#A013909" type="person"/>
         <ptr target="#A013910" type="person"/>
         <ptr target="#A013911" type="person"/>
         <ptr target="#PL000000026452" type="place"/>
-        <ptr target="#j20059942007439" type="time"/>
+        <ptr target="#j20059942006346" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0893b12 #0893b12"/>
+        <ptr target="#A008829" type="person"/>
+        <ptr target="#PL000000026452" type="place"/>
+        <ptr target="#j20135362013536" type="time"/>
     </linkGrp>
 </div>

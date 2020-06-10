@@ -20,7 +20,7 @@
 <note xml:id="g18" resp="makita">景行，高尚的德行。</note>
 <note xml:id="g19" resp="PC-JK-MB">荼毘，即火化。<name>梵</name>語<seg type="latin">Jhāpita</seg>，又作「闍維」、「闍毘」、「耶維」、「耶旬」、「茶毘」。</note>
 <note xml:id="g20" resp="makita">輶軒，古代使臣乘坐的一種輕車。</note>
-<note xml:id="g21" resp="PC-JK-MB">隸業，意謂修習佛法。</note>
+<note xml:id="g21" resp="PC-JK-MB">隸業，猶學業，意謂修習佛法。隸、業，皆學習。</note>
 <note xml:id="g22" resp="PC-JK-MB">英髦，士之俊傑者。<seg type="pronunciation">髦，音「máo（ㄇㄠˊ）」。</seg></note>
 <note xml:id="g23" resp="PC-JK-MB">典出《莊子．外篇．秋水第十七》：「井蛙不可以語於海者，拘於虚也；夏蟲不可以語於氷者，篤於時也；曲士不可以語於道者，束於教也。」</note>
 <note xml:id="g24" resp="makita">典出《後漢書．卷二十四．<persName key="A019542">馬援</persName>列傳》。<persName key="A019542">馬援</persName>融合數家相馬法，鑄作銅馬，以為名馬式（分類馬匹的標準）焉。</note>
@@ -269,7 +269,7 @@
 <note rend="display:none;" xml:id="g267" resp="PC-JK-MB"><name>梵</name>語<seg type="latin">Ṣaḍ indriyāṇi</seg>。詳見《佛學．六根》：「眼耳鼻舌身意之六官也，根為能生之義，眼根對于色境而生眼識，乃至意根對于法境而生意識，故名為根。」案，<ref cRef="CBETA_T08_n261_p899_c28">《大乘理趣六波羅蜜多經》CBETA, T08, no. 0261, p. 899, c28</ref>：「若能如是善攝六根，不令放逸，眼雖見色而不取相，安住甚深，寂靜解脫；耳鼻舌身意亦如是。」</note>
 <note xml:id="g268" resp="PC-JK-MB">陸離，參差分散貌。</note>
 <note xml:id="g269" resp="PC-JK-MB">中兵，此指禁軍。</note>
-<note xml:id="g270" resp="PC-JK-MB">三禪天，指色界四禪天中之第三天。<seg type="note">又作「第三靜慮」、「第三禪」。因離第二禪之喜，更生靜妙之樂，故又稱離喜妙樂地。</seg>詳見《佛光．三禪天》頁686。</note>
+<note xml:id="g270" resp="PC-JK-MB">三禪天，指色界四禪天中之第三天。<seg type="note">又作「第三靜慮」、「第三禪」。因離第二禪之喜，更生靜妙之樂，故又稱離喜妙樂地。</seg>詳見《佛光．三禪天》頁686、《佛光．第三禪》頁4763。</note>
 <note rend="display:none;" xml:id="g271" resp="PC-JK-MB">《佛光．種姓制度》頁5867：「種姓，英語、法語 caste，德語 kaste。係依種族、職業、地域等將社會區分為各種尊卑貴賤階級之制度，為一世襲、封閉而不平等之社會制度。」</note>
 <note xml:id="g272" resp="PC-JK-MB">天眼通，<seg type="note"><name>梵</name>語<seg type="latin">divya-cakṣur-jñāna-sākṣātkriyābhiiñā</seg>。五通之一，</seg>六通之一。謂以天眼照了欲色二界色處之通力。<seg type="note">又作天眼智通、天眼通證、天眼智證通。</seg>詳見《佛光．天眼明》頁1358。</note>
 <note rend="display:none;" xml:id="g273" resp="PC-JK-MB">向，近也。就，成也。</note>
@@ -526,7 +526,7 @@
 <note rend="display:none;" xml:id="g524" resp="PC-JK-MB">搴，<seg type="pronunciation">音「qiān（ㄑㄧㄢ）」，</seg>取也。文囿，文章之苑囿。<persName key="A005035">蕭統</persName>《昭明文選序》：「歷觀文囿，泛覽辭林。」</note>
 <note xml:id="g525" resp="makita">瞻蔔，即梔子，學名<seg type="latin">Gardenia jasminoides</seg>。</note>
 <note xml:id="g526" resp="PC-JK-MB">武，行跡。接武、踵武、繼武，喻前行後繼。《楚辭．離騷經章句第一》：「忽奔走以先後兮，及前王之踵武。」</note>
-<note xml:id="g527" resp="PC-JK-MB">敵，猶相當。</note>
+<note xml:id="g527" resp="PC-JK-MB">敵，猶相當、匹配。</note>
 <note xml:id="g528" resp="makita">擇木，語出《十三經．左傳．哀公十一年》：「鳥則擇木，木豈能擇鳥？」</note>
 <note rend="display:none;" xml:id="g529" resp="PC-JK-MB">《佛光．解》頁5599：「思惟事物之理而能有所了知者，稱為解；係與『信』、『證』相對之詞。」</note>
 <note rend="display:none;" xml:id="g530" resp="makita">循環，周而復始、往復相承也。《舊唐書．卷二十二》：「叶二氣以循環 ，逐四序而迎節。」</note>
@@ -1144,7 +1144,7 @@
 <note xml:id="g1142" resp="PC-JK-MB">猾夏，侵擾<placeName key="PL000000000083">中國</placeName>。《尚書．虞書．舜典》：「蠻夷猾夏，寇賊姦宄。」</note>
 <note xml:id="g1143" resp="makita">依違，即模棱兩可。<seg type="note">《漢書．卷二十一上》：「依違以惟，未能修明。」<persName key="A019696">顏師古</persName>注：「依違，不決之意也。惟，思也。」</seg></note>
 <note xml:id="g1144" resp="PC-JK-MB">肆，陳列。</note>
-<note xml:id="g1145" resp="PC-JK-MB">認指忘月，即執著於經文字句而不體會其所指的真理。<ref cRef="CBETA_T25_n1509_p726_a03">《大智度論》CBETA, T25, no. 1509, p. 726, a03</ref>：「如人以指指月，不知者但觀其指而不視月。」指、筌譬教，月、魚譬法。</note>
+<note xml:id="g1145" resp="PC-JK-MB">認指忘月，即執著於經文字句而不體會其所指的真理。<ref cRef="CBETA_T25_n1509_p726_a03">《大智度論》CBETA, T25, no. 1509, p. 726, a03</ref>：「如人以指指月，不知者但觀其指而不視月。」以指譬教，以月譬法。</note>
 <note xml:id="g1146" resp="PC-JK-MB">是糺是殛，言舉而殺之。語出《十三經．左傳．僖公二十八年》：「明神先君，是糾是殛。」</note>
 <note xml:id="g1147" resp="PC-JK-MB">六情，指喜、怒、哀、樂、愛、惡等六種感情。</note>
 <note rend="display:none;" xml:id="g1148" resp="PC-JK-MB">漸修，頓悟之對稱。<ref cRef="CBETA_X05_n227_p064_b03">《貞元新譯華嚴經疏》CBETA, X05, no. 0227, p. 064, b03</ref>：「謂說漸者，則看心修淨方便通經，或頓悟漸修，或漸修漸悟。說頓者，直指心體，或頓毀語言，或頓悟頓修，或無修無悟。」</note>
@@ -1399,7 +1399,7 @@
 <note xml:id="g1397" resp="PC-JK-MB">商攉，<seg type="pronunciation">音「shāng huò（ㄕㄤ ㄏㄨㄛˋ）」，</seg>反覆推度。</note>
 <note xml:id="g1398" resp="PC-JK-MB">枝梧，抵拒、抗禦。</note>
 <note xml:id="g1399" resp="makita">建瓴，<seg type="pronunciation">音「jiàn líng（ㄐㄧㄢˋ ㄌㄧㄥˊ）」，</seg>即建瓴水，喻居高臨下的好形勢。<seg type="note">《史記．卷八》：「其以下兵於諸侯，譬猶居高屋之上建瓴水也。」<persName key="A021240">如淳</persName>曰：「瓴，盛水瓶也。居高屋之上而幡瓴水，言其向下之勢易也。」</seg></note>
-<note xml:id="g1400" resp="PC-JK-MB">伽陀，<name>梵</name>語<seg type="latin">gāthā</seg>之音譯<seg type="note">，為九部教之一，十二部經之一。又作伽他、偈佗、偈</seg>。意譯諷誦、諷頌、造頌、偈頌、頌、孤起頌、不重頌偈。<ref cRef="CBETA_T51_n2076_p229_a1-p229_a3">《景德傳燈錄》CBETA, T51, no. 2076, p. 229, a1-3</ref>：「師嘗有偈示曰『莫繫念念，成生死河，輪迴六趣海，無見出長波。」</note>
+<note xml:id="g1400" resp="PC-JK-MB">伽陀，<name>梵</name>語<seg type="latin">gāthā</seg>之音譯<seg type="note">，為九部教之一，十二部經之一。又作伽他、偈佗、偈</seg>。意譯諷誦、諷頌、造頌、偈頌、頌、孤起頌、不重頌偈。<!-- <ref cRef="CBETA_T51_n2076_p229_a1-p229_a3">《景德傳燈錄》CBETA, T51, no. 2076, p. 229, a1-3</ref>：「師嘗有偈示曰『莫繫念念，成生死河，輪迴六趣海，無見出長波。」 --></note>
 <note xml:id="g1401" resp="PC-JK-MB">逆相，猶反視。</note>
 <note xml:id="g1402" resp="makita">驪珠，喻珍寶。語出《莊子．雜篇．列御㓂第三十二》：「夫千金之珠，必在九重之淵而驪龍頷下。」</note>
 <note xml:id="g1403" resp="PC-JK-MB">弱喪，謂少而失其故居。語出《莊子．內篇．齊物論第二》：「予惡乎知惡死之非弱喪而不知歸者邪」</note>
@@ -2391,4 +2391,14 @@
 <note xml:id="g2388" resp="PC-JK-MB">分劑，分際。<ref cRef="CBETA, T18, no. 848, p. 6, c9">《大毘盧遮那成佛神變加持經》CBETA, T18, no. 848, p. 6, c9</ref>：「方等有四門，應知其分劑。」</note>
 <note xml:id="g2389" resp="PC-JK-MB">佉陀羅，<name>梵</name>語<seg type="latin">khadira</seg>，學名<seg type="latin">Senegalia catechu</seg>，即兒茶樹。<ref cRef="CBETA, T17, no. 721, p. 398, b13-14">《正法念處經》CBETA, T17, no. 721, p. 398, b13-14</ref>：「譬如燒於佉陀羅炭，火聚如山，投以生酥，燒之炎起。」</note>
 <note xml:id="g2390" resp="PC-JK-MB">攝物，指當世所借用的形體。《禮記．檀弓上》：「<persName>伯高</persName>之喪，<persName key="A002174">孔</persName>氏之使者未至，<persName key="A009593">冉子</persName>攝束帛乘馬而將之。」<persName key="A002959">鄭玄</persName>注：「攝，猶貸也。」</note>
+<note xml:id="g2391" resp="PC-JK-MB">破相，即無相。<ref cRef="CBETA, T33, no. 1698, p. 82, a18">《金剛般若經疏》CBETA, T33, no. 1698, p. 82, a18</ref>：「解空無相謂之為慧。」</note>
+<note xml:id="g2392" resp="makita">一時外學，<ref cRef="CBETA, T24, no. 1451, p. 232, b8-9">《根本說一切有部毘奈耶雜事》CBETA, T24, no. 1451, p. 232, b8-9</ref>：「當作三時，每於兩時讀佛經，一時習外典。」<ref cRef="CBETA_T54_n2127_p292_c24-p292_c25">《釋氏要覽》CBETA, T54, no. 2127, p. 292, c24-25</ref>：「開外學：《毘奈耶》云『因舍利子降伏撥無後世外道，佛聽比丘學外論。」<!-- 撥無，否定、排除 --></note>
+<note xml:id="g2393" resp="PC-JK-MB">標拔，猶特出。</note>
+<note xml:id="g2394" resp="PC-JK-MB">湫陋，低濕狹窄。</note>
+<note xml:id="g2395" resp="PC-JK-MB">冥然，猶盲然、莫名之狀。</note>
+<note xml:id="g2396" resp="makita">五等，指五等爵。《禮記．王制第五》：「王者之制祿爵，公侯伯子男，凡五等。」</note>
+<note xml:id="g2397" resp="PC-JK-MB">唅呀，張口。</note>
+<note xml:id="g2398" resp="PC-JK-MB">山椒，猶山頂。</note>
+<note xml:id="g2399" resp="PC-JK-MB">熠爚，<seg type="pronunciation">音「yì yuè（ㄧˋ ㄩㄝˋ）」，</seg>光彩鮮明。</note>
+<note xml:id="g2400" resp="PC-JK-MB">平準，公平、公道。</note>0732b18
 </div>

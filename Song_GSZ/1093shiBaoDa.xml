@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="感通" xml:id="gsz0846c13shiBaoDa"><lb
-ed="T" n="0846c13"/><anchor n="T.50.2061.0846c13"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000011644"><placeName>杭州</placeName><placeName>靈隱寺</placeName></placeName><persName key="A012832">寶達</persName>傳</head><p><lb
+ed="T" n="0846c13"/><anchor n="T.50.2061.0846c13"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000011596"><placeName>杭州</placeName><placeName>靈隱寺</placeName></placeName><persName key="A012832">寶達</persName>傳</head><p><lb
 ed="T" n="0846c14"/><persName key="A012832">釋寶達</persName>者，不知何許人也，遁是名山，高乎<lb
 ed="T" n="0846c15"/>道望，號<persName key="A012832">剎利法師</persName><ptr target="#n2372"/>。以持密呪為恒務。其院<lb
 ed="T" n="0846c16"/>中有印沙床、照佛鑑。往者<placeName key="PL000000008367">浙江</placeName>也，驚濤巨浪，<lb
@@ -21,12 +21,12 @@ ed="T" n="0847a01"/>也。」</p>
     <linkGrp>
         <link targets="#0846c13 #0846c13"/>
         <ptr target="#A012832" type="person"/>
-        <ptr target="#PL000000011644" type="place"/>
+        <ptr target="#PL000000011596" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0846c16 #0846c24"/>
         <ptr target="#A010975" type="person"/>
-        <ptr target="#PL000000011644" type="place"/>
+        <ptr target="#PL000000011596" type="place"/>
         <ptr target="#j20078242015139" type="time"/>
     </linkGrp>
 </div>

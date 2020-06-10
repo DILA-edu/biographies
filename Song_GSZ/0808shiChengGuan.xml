@@ -9,7 +9,7 @@ ed="T" n="0737a09"/><anchor xml:id="beg0737sgsz1"/><choice resp="PC-JK-MB"><sic>
 ed="T" n="0737a10"/><persName key="A000747">相部</persName><ptr type="glossary" target="#g2176"/>律<ptr target="#n911"/>。<ref type="place" target="#PL000000013239">本州</ref>依<persName key="A004177">曇一</persName>，隷「南山律」。詣<placeName key="PL000000008820">金陵</placeName><persName key="A004182">玄<lb
 ed="T" n="0737a11"/>璧<roleName>法師</roleName></persName>傳<placeName key="PL000000042002">關河</placeName>「三論」<ptr type="glossary" target="#g813"/>。「三論」之盛于<placeName key="PL000000000197">江表</placeName>，<persName key="A001755">觀</persName><lb
 ed="T" n="0737a12"/>之力也。<date notBefore-iso="+0766-12-22" key="j20011912005993" notAfter-iso="+0780-02-14"><name>大曆</name>中</date>，就<placeName key="PL000000008823">瓦棺寺</placeName>傳《起信》<ptr target="#n3277"/>、《涅槃》。又<lb
-ed="T" n="0737a13"/>於<placeName key="PL000000010798">淮南</placeName><persName key="A002450">法藏</persName>，受<persName key="A000136">海東</persName>《起信疏》<ptr target="#n3283"/>義<ptr target="#n814"/>。却復<placeName key="PL000000011644">天竺</placeName><lb
+ed="T" n="0737a13"/>於<placeName key="PL000000010798">淮南</placeName><persName key="A002450">法藏</persName>，受<persName key="A000136">海東</persName>《起信疏》<ptr target="#n3283"/>義<ptr target="#n814"/>。却復<placeName key="PL000000011596">天竺</placeName><lb
 ed="T" n="0737a14"/><persName key="A004183">詵<roleName>法師</roleName></persName>門，溫習《華嚴大經》。<date from-iso="+0772-02-13" key="j20030702003423" to-iso="+0773-01-31">七年</date>，往<placeName key="PL000000013448">剡溪</placeName>，從<lb
 ed="T" n="0737a15"/><placeName key="PL000000034805">成都</placeName><persName key="A009504">慧量<roleName>法師</roleName></persName>，覆尋「三論」。<date from-iso="+0775-02-09" key="j20041622004516" to-iso="+0776-01-29">十年</date>，就<placeName key="PL000000009928">蘇州</placeName>，從<lb
 ed="T" n="0737a16"/><persName key="A001307">湛然<roleName>法師</roleName></persName>習天台《止觀》<ptr target="#n1173"/>、《法華》、《維摩》等經疏。解<lb
@@ -123,7 +123,7 @@ ed="T" n="0737c20"/>願而修行也。</p>
         <link targets="#0737a13 #0737a14"/>
         <ptr target="#A001755" type="person"/>
         <ptr target="#A004183" type="person"/>
-        <ptr target="#PL000000011644" type="place"/>
+        <ptr target="#PL000000011596" type="place"/>
         <ptr target="#j20011912005993" type="time"/>
     </linkGrp>
     <linkGrp>
