@@ -662,7 +662,8 @@ def person_authority(fo):
         note = handle_authority_text(info['note'])
         if note != '':
           note=re.sub('（[^）]*?）$', '', note)
-        s += '<p rend="index-note"><span>{}</span></p>\n'.format(note)
+          note = span_pinyin(note)
+        s += '<p rend="index-note">{}</p>\n'.format(note)
       if 'names' in info:
         names=info['names']
         names=names.replace('\n', '; ')
@@ -672,7 +673,8 @@ def person_authority(fo):
           languages=re.findall(r'\[[^\]/]+\]', names)
           if len(languages)<2:
             names=names.replace('[中文] ', '')
-          s+='<p rend="index-note"><span>{}</span></p>\n'.format('別名：' + names)
+          names = span_pinyin(names)
+          s+='<p rend="index-note">{}</p>\n'.format('別名：' + names)
     #s += '</auth_person>\n'
     fo.write(s)
 
@@ -754,7 +756,8 @@ def place_authority(fo):
         note = handle_authority_text(info['note'])
         if note != '':
           note=re.sub('（[^）]*?）$', '', note)
-        s += '<p rend="index-note"><span>{}</span></p>\n'.format(note)
+          note = span_pinyin(note)
+        s += '<p rend="index-note">{}</p>\n'.format(note)
       if 'names' in info:
         names=info['names']
         names=names.replace('\n', '; ')
@@ -764,7 +767,8 @@ def place_authority(fo):
           languages=re.findall(r'\[[^\]/]+\]', names)
           if len(languages)<2:
             names=names.replace('[中文] ', '')
-          s+='<p rend="index-note"><span>{}</span></p>\n'.format('別名：' + names)
+          names = span_pinyin(names)
+          s+='<p rend="index-note">{}</p>\n'.format('別名：' + names)
     fo.write(s)
   
 def read_notes(tree):
@@ -906,6 +910,17 @@ def read_bibl():
     r += "(={})".format(bibl.find('abbr').text)
     r += "</span></p>\n"
   return r
+
+def span_pinyin(text):
+  r1 = re.compile(r'((?:[a-zA-ZÀ-ÿĀ-ſḀ-ỿ]+[\- ,;]*)+)')
+  r2 = re.compile('[ \[\],\.]')
+  result = ''
+  for s in r1.split(text):
+    if r1.match(s) and (r2.sub('', s) != ''):
+      result += '<span rend="index-pinyin">%s</span>' % s
+    else:
+      result += '<span>%s</span>' % s
+  return result
 
 # main
 # 下面取得參數的方法在伯雍的電腦上無效
