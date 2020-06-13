@@ -815,15 +815,15 @@
         <xi:include href="2533xingXiang性香.xml"/><!--清雲南鹿溪淨樂庵沙門釋性香傳寂舜-->
         <xi:include href="2534hongZong弘宗.xml"/><!--清大理雨珠庵沙門釋弘宗傳性遇_洪舒_德曙_法華尊者-->
         <xi:include href="2535zhengHui正會.xml"/><!--清燕京廣濟寺沙門釋正會傳振寰-->
-        <xi:include href="2536-清鄮山阿育王寺沙門釋實賢傳明宏_明德.xml"/><!--清鄮山阿育王寺沙門釋實賢傳明宏_明德-->
-        <xi:include href="2537-清淮安聞思寺釋常智傳.xml"/><!--清淮安聞思寺釋常智傳-->
-        <xi:include href="2538-清長沙泐潭寺沙門釋衍義傳三尹.xml"/><!--清長沙泐潭寺沙門釋衍義傳三尹-->
+        <xi:include href="2536shiXian實賢.xml"/><!--清鄮山阿育王寺沙門釋實賢傳明宏_明德-->
+        <xi:include href="2537changZhi常智.xml"/><!--清淮安聞思寺釋常智傳-->
+        <xi:include href="2538yanYi衍義.xml"/><!--清長沙泐潭寺沙門釋衍義傳三尹-->
       </div>
       <div type="juan" n="46">
         <anchor n="B.27.0151.0341b11"/>
         <head>新續高僧傳四集卷第四十六</head>
         <lb n="0341b13" ed="B"/><p>淨讀篇第八之六(正傳十二人　附見七人)</p>
-        <xi:include href="2539-清淮安誕登寺沙門釋萬清傳.xml"/><!--清淮安誕登寺沙門釋萬清傳-->
+        <xi:include href="2539wanQing萬清.xml"/><!--清淮安誕登寺沙門釋萬清傳-->
         <xi:include href="2540-清潤州焦山寺沙門釋福毅傳.xml"/><!--清潤州焦山寺沙門釋福毅傳-->
         <xi:include href="2541-清杭州文殊庵沙門釋道徹傳.xml"/><!--清杭州文殊庵沙門釋道徹傳-->
         <xi:include href="2542-清吳山接引庵沙門釋廣志傳實圓.xml"/><!--清吳山接引庵沙門釋廣志傳實圓-->

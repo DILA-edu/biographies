@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="淨讀" xml:id="gsz0340a11shiShiXian">
+<lb ed="B" n="0340a11"/><anchor n="B.27.0151.0340a11"/><head>清鄮山阿育王寺沙門<persName key="A001617">釋實賢</persName>傳<persName type="secondary" key="A043469">明宏</persName><persName type="secondary" key="A043470">明德</persName></head>
+<lb ed="B" n="0340a12"/><p xml:id="pB27p0340a1201"><persName key="A001617">釋實賢</persName>，字<persName key="A001617">思齊</persName>，號<persName key="A001617">省庵</persName>，姓時氏，常熟人。少甘蔬食，出家後參念
+<lb ed="B" n="0340a13"/>「佛是誰」，有省，曰：「<ref type="person" target="#A001617">吾</ref>夢覺矣！」掩關真寂寺三年，晝覽藏文，晚課佛
+<lb ed="B" n="0340a14"/>號。詣鄮山禮阿育王塔，大合緇白，廣修供養，發四十八願，卒感
+<lb ed="B" n="0340a15"/>舍利生輝。作《勸發菩提心文》，激厲四眾，誦者多為涕下。<date when-iso="+1734-01-12" key="j23544022354402">雍正十
+<lb ed="B" n="0340a16"/>一年臘月八日</date>告弟子曰：「<date from-iso="+1734-05-03" key="j23545132354542" to-iso="+1734-06-01">明年四月</date>，<ref type="person" target="#A001617">吾</ref>其去矣！」獨閉一室，日課
+<lb ed="B" n="0340a17"/>佛名十萬聲。至期書偈，辤眾斷食，<anchor xml:id="beg_16f" type="cb-app"/>斂<anchor xml:id="end_16f"/>目危坐。五鼓具浴更衣，面
+<lb ed="B" n="0340a18"/>西寂然。送者麋至<!-- 成群而來 -->，忽張目曰：「<ref type="person" target="#A001617">吾</ref>去即來，生死事大，各淨乃心。」連
+<lb ed="B" n="0340a19"/>聲誦佛，少焉即瞑，<date when-iso="+1734-05-16" key="j23545262354526">雍正十二年四月十四日</date>也。<persName key="A043469">明宏</persName>字<persName key="A043469">梅芳</persName>，杭
+<lb ed="B" n="0340a20"/>人。弱冠，家人將為取女；逃去，薙髮於紹興柯橋彌陀庵。尋事參<pb ed="B" xml:id="B27.0151.0340b" n="0340b"/>
+<lb ed="B" n="0340b01"/>訪，習天台教觀，坐禪有省。後閱藏於天台萬年寺。久之，兩目勞
+<lb ed="B" n="0340b02"/>損，乃專志誦佛，寒暑無間。嘗曰：「<ref type="person" target="#A043469">我</ref>因失明，得大利益。」平時一缽
+<lb ed="B" n="0340b03"/>一杖，居無常處，人所施與，輒濟貧乏。<persName key="A001617">實賢</persName>與<ref type="person" target="#A043469">之</ref>交，稱<ref type="person" target="#A043469">其</ref>得真解
+<lb ed="B" n="0340b04"/>脫，決生淨生。<date from-iso="+1727-10-15" key="j23521212352149" to-iso="+1727-11-12">雍正五年九月</date>，<persName key="A001617">實賢</persName>於梵天寺結玅蓮法會，招<persName key="A043469">宏</persName>
+<lb ed="B" n="0340b05"/>入社。時<persName key="A043469">宏</persName>雖病，而持名不少衰，移住無錫齋僧館，病轉劇。一日
+<lb ed="B" n="0340b06"/>徧告檀樾，以明日將行。眾如期往，即起坐號佛而化。<persName key="A043470">明德</persName>字<persName key="A043470">聖
+<lb ed="B" n="0340b07"/>眼</persName>，海寧馬氏子。四歲出家梵天寺，性孤僻，不好世務。偶得喘疾
+<lb ed="B" n="0340b08"/>日甚，猶延僧開淨業堂，<persName key="A001617">實賢</persName>亦與焉！<persName key="A043470">德</persName>聞眾唱佛聲，恒默隨之。
+<lb ed="B" n="0340b09"/>已而自知時至，乞<persName key="A001617">賢</persName>開示，<persName key="A001617">賢</persName>曰：「當淨捨萬緣，了脫生死，在此一
+<lb ed="B" n="0340b10"/>時，宜急著力。」<persName key="A043470">德</persName>遂偕眾持佛名，復發四宏誓願，語極懇切。至夜
+<lb ed="B" n="0340b11"/>半，佛聲方竭，即轉身垂目而逝，時<date when-iso="+1730-02-13" key="j23529732352973">雍正七年十二月二十六日</date>
+<lb ed="B" n="0340b12"/>也。</p>
+    <linkGrp>
+        <link targets="#0340b03 #0340b06"/>
+        <ptr target="#A001617" type="person"/>
+        <ptr target="#A043469" type="person"/>
+        <ptr target="#j23521212352149" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0340b08 #0340b12"/>
+        <ptr target="#A001617" type="person"/>
+        <ptr target="#A043470" type="person"/>
+        <ptr target="#j23529732352973" type="time"/>
+    </linkGrp>
+</div>

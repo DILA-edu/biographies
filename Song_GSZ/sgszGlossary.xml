@@ -1002,7 +1002,7 @@
 <note xml:id="g1000" resp="makita">巧智，即「方便智」。</note>
 <note xml:id="g1001" resp="PC-JK-MB">「決擇」義參<ref cRef="CBETA_T29_n1558_p120_a17-p120_a20">《阿毘達磨俱舍論》CBETA, T29, no. 1558, p. 120, a17-20</ref>：「決謂決斷，擇謂簡擇，決斷簡擇謂諸聖道。以諸聖道能斷疑故，及能分別四諦相故。」</note>
 <note xml:id="g1002" resp="PC-JK-MB">批鱗，謂敢於直言犯上。語出《史記．卷八十六》：「欲批其逆鱗哉！」逆鱗，龍喉下倒生的鱗片。</note>
-<note xml:id="g1003" resp="PC-JK-MB">赤旛，天官的旗幟。</note>
+<note xml:id="g1003" resp="PC-JK-MB">赤旛，在古<placeName key="PL000000048207">印度</placeName>，佛弟子與外道論議後，勝利之一方往往高舉赤色旗幡。<ref cRef="CBETA_T48_n2003_p154_a10-p154_a12">《佛果圜悟禪師碧巖錄》CBETA, T48, no. 2003, p. 154, a10-12</ref>：「西天論議勝者手執赤旛。負墮者返披袈裟。從偏門出入。」詳見《佛光．赤幡》頁3014。</note>
 <note xml:id="g1004" resp="PC-JK-MB">聞徹，名聞四方。</note>
 <note xml:id="g1005" resp="makita">奄，即全部占有。</note>
 <note xml:id="g1006" resp="makita">隨轉理門，根據聽眾的機情說法。詳見《佛光．隨轉理門》頁6357。</note>
@@ -1399,7 +1399,7 @@
 <note xml:id="g1397" resp="PC-JK-MB">商攉，<seg type="pronunciation">音「shāng huò（ㄕㄤ ㄏㄨㄛˋ）」，</seg>反覆推度。</note>
 <note xml:id="g1398" resp="PC-JK-MB">枝梧，抵拒、抗禦。</note>
 <note xml:id="g1399" resp="makita">建瓴，<seg type="pronunciation">音「jiàn líng（ㄐㄧㄢˋ ㄌㄧㄥˊ）」，</seg>即建瓴水，喻居高臨下的好形勢。<seg type="note">《史記．卷八》：「其以下兵於諸侯，譬猶居高屋之上建瓴水也。」<persName key="A021240">如淳</persName>曰：「瓴，盛水瓶也。居高屋之上而幡瓴水，言其向下之勢易也。」</seg></note>
-<note xml:id="g1400" resp="PC-JK-MB">伽陀，<name>梵</name>語<seg type="latin">gāthā</seg>之音譯<seg type="note">，為九部教之一，十二部經之一。又作伽他、偈佗、偈</seg>。意譯諷誦、諷頌、造頌、偈頌、頌、孤起頌、不重頌偈。<!-- <ref cRef="CBETA_T51_n2076_p229_a1-p229_a3">《景德傳燈錄》CBETA, T51, no. 2076, p. 229, a1-3</ref>：「師嘗有偈示曰『莫繫念念，成生死河，輪迴六趣海，無見出長波。」 --></note>
+<note xml:id="g1400" resp="PC-JK-MB">伽陀，<name>梵</name>語<seg type="latin">gāthā</seg>之音譯，為九部教之一，十二部經之一。又作伽他、偈佗、偈。意譯諷誦、諷頌、造頌、偈頌、頌、孤起頌、不重頌偈。</note>
 <note xml:id="g1401" resp="PC-JK-MB">逆相，猶反視。</note>
 <note xml:id="g1402" resp="makita">驪珠，喻珍寶。語出《莊子．雜篇．列御㓂第三十二》：「夫千金之珠，必在九重之淵而驪龍頷下。」</note>
 <note xml:id="g1403" resp="PC-JK-MB">弱喪，謂少而失其故居。語出《莊子．內篇．齊物論第二》：「予惡乎知惡死之非弱喪而不知歸者邪」</note>
@@ -1549,7 +1549,7 @@
 <note xml:id="g1547" resp="makita">沙界，意謂恆河沙之世界，即指無量無數之佛世界。《佛光．沙界》頁2974。</note>
 <note xml:id="g1548" resp="PC-JK-MB">此處「陰界」兩《碑銘》皆作「蔭界」。陰界，<seg type="note">又作「陰界入」、「陰入界」、「蘊處界」，</seg>即五蘊、十二處、十八界之略稱。《佛光．蘊處界》頁6791。</note>
 <note xml:id="g1549" resp="makita">坤元，指大地資生萬物之德。語出《易經．坤卦》：「至哉坤元，萬物資生。」</note>
-<note xml:id="g1550" resp="PC-JK-MB">阿笈摩，<name>梵</name>語<seg type="latin">Āgama</seg>，又作「阿含」<seg type="note">、「阿鋡」、「阿含暮」</seg>，「小乘」經之總名。</note>
+<note xml:id="g1550" resp="PC-JK-MB">阿笈摩，<name>梵</name>語<seg type="latin">Āgama</seg>，又作「阿含」<seg type="note">、「阿鋡」、「阿含暮」</seg>，原指傳承的教說，又作「小乘」經之總名。</note>
 <note xml:id="g1551" resp="makita">椸架，<seg type="pronunciation">音「yí jià（ㄧˊ ㄐㄧㄚˋ）」，又作「椸枷」，</seg>即衣架。</note>
 <note xml:id="g1552" resp="PC-JK-MB">立辟，猶立法。</note>
 <note xml:id="g1553" resp="PC-JK-MB">利不百不變格，語出《戰國策．趙策二》：「利不百者不變俗，功不什者不易器。」</note>
@@ -2388,11 +2388,11 @@
 <note xml:id="g2385" resp="PC-JK-MB">香積，指<persName key="A043434">香積佛</persName>之香飯。<ref cRef="CBETA_T14_n475_p552_b18-p552_b19">《維摩詰所說經．香積佛品》CBETA, T14, no. 475, p. 552, b18-19</ref>：「於是<persName key="A043434">香積如來</persName>以眾香鉢盛滿香飯，與化菩薩。」詳見《佛光．香積佛》頁4018。</note>
 <note xml:id="g2386" resp="PC-JK-MB">靡曼，華美。《四庫．呂氏春秋．季秋紀第九．順民》頁5：「身不安枕席，口不甘厚味，目不視靡曼，耳不聽鐘鼓。」<persName key="A021439">高誘</persName>注：「靡曼，好色。」</note>
 <note xml:id="g2387" resp="PC-JK-MB">逈澤，僻遠之澤。逈，遼遠貌。</note>
-<note xml:id="g2388" resp="PC-JK-MB">分劑，分際。<ref cRef="CBETA, T18, no. 848, p. 6, c9">《大毘盧遮那成佛神變加持經》CBETA, T18, no. 848, p. 6, c9</ref>：「方等有四門，應知其分劑。」</note>
-<note xml:id="g2389" resp="PC-JK-MB">佉陀羅，<name>梵</name>語<seg type="latin">khadira</seg>，學名<seg type="latin">Senegalia catechu</seg>，即兒茶樹。<ref cRef="CBETA, T17, no. 721, p. 398, b13-14">《正法念處經》CBETA, T17, no. 721, p. 398, b13-14</ref>：「譬如燒於佉陀羅炭，火聚如山，投以生酥，燒之炎起。」</note>
+<note xml:id="g2388" resp="PC-JK-MB">分劑，分際。<ref cRef="CBETA_T18_n848_p6_c9">《大毘盧遮那成佛神變加持經》CBETA, T18, no. 848, p. 6, c9</ref>：「方等有四門，應知其分劑。」</note>
+<note xml:id="g2389" resp="PC-JK-MB">佉陀羅，<name>梵</name>語<seg type="latin">khadira</seg>，學名<seg type="latin">Senegalia catechu</seg>，即兒茶樹。<ref cRef="CBETA_T17_n721_p398_b13-p398_b14">《正法念處經》CBETA, T17, no. 721, p. 398, b13-14</ref>：「譬如燒於佉陀羅炭，火聚如山，投以生酥，燒之炎起。」</note>
 <note xml:id="g2390" resp="PC-JK-MB">攝物，指當世所借用的形體。《禮記．檀弓上》：「<persName>伯高</persName>之喪，<persName key="A002174">孔</persName>氏之使者未至，<persName key="A009593">冉子</persName>攝束帛乘馬而將之。」<persName key="A002959">鄭玄</persName>注：「攝，猶貸也。」</note>
-<note xml:id="g2391" resp="PC-JK-MB">破相，即無相。<ref cRef="CBETA, T33, no. 1698, p. 82, a18">《金剛般若經疏》CBETA, T33, no. 1698, p. 82, a18</ref>：「解空無相謂之為慧。」</note>
-<note xml:id="g2392" resp="makita">一時外學，<ref cRef="CBETA, T24, no. 1451, p. 232, b8-9">《根本說一切有部毘奈耶雜事》CBETA, T24, no. 1451, p. 232, b8-9</ref>：「當作三時，每於兩時讀佛經，一時習外典。」<ref cRef="CBETA_T54_n2127_p292_c24-p292_c25">《釋氏要覽》CBETA, T54, no. 2127, p. 292, c24-25</ref>：「開外學：《毘奈耶》云『因舍利子降伏撥無後世外道，佛聽比丘學外論。」<!-- 撥無，否定、排除 --></note>
+<note xml:id="g2391" resp="PC-JK-MB">破相，即無相。<ref cRef="CBETA_T33_n1698_p82_a18">《金剛般若經疏》CBETA, T33, no. 1698, p. 82, a18</ref>：「解空無相謂之為慧。」</note>
+<note xml:id="g2392" resp="makita">一時外學，<ref cRef="CBETA_T24_n1451_p232_b8-p232_b9">《根本說一切有部毘奈耶雜事》CBETA, T24, no. 1451, p. 232, b8-9</ref>：「當作三時，每於兩時讀佛經，一時習外典。」<ref cRef="CBETA_T54_n2127_p292_c24-p292_c25">《釋氏要覽》CBETA, T54, no. 2127, p. 292, c24-25</ref>：「開外學：《毘奈耶》云『因舍利子降伏撥無後世外道，佛聽比丘學外論。」<!-- 撥無，否定、排除 --></note>
 <note xml:id="g2393" resp="PC-JK-MB">標拔，猶特出。</note>
 <note xml:id="g2394" resp="PC-JK-MB">湫陋，低濕狹窄。</note>
 <note xml:id="g2395" resp="PC-JK-MB">冥然，猶盲然、莫名之狀。</note>
@@ -2400,5 +2400,7 @@
 <note xml:id="g2397" resp="PC-JK-MB">唅呀，張口。</note>
 <note xml:id="g2398" resp="PC-JK-MB">山椒，猶山頂。</note>
 <note xml:id="g2399" resp="PC-JK-MB">熠爚，<seg type="pronunciation">音「yì yuè（ㄧˋ ㄩㄝˋ）」，</seg>光彩鮮明。</note>
-<note xml:id="g2400" resp="PC-JK-MB">平準，公平、公道。</note>0732b18
+<note xml:id="g2400" resp="PC-JK-MB">平準，公平、公道。</note>
+<note xml:id="g2401" resp="PC-JK-MB">外禦其侮，語出《詩經．小雅．常棣》：「兄弟䦧于牆，外禦其務。」<persName key="A002959">鄭玄</persName>箋：「務，侮也。」</note>
+<note xml:id="g2402" resp="PC-JK-MB">季孟，猶伯仲，不相上下。</note>
 </div>

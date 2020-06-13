@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="淨讀" xml:id="gsz0341a03shiYanYi">
+<lb ed="B" n="0341a03"/><anchor n="B.27.0151.0341a03"/><head>清長沙泐潭寺沙門<persName key="A011713">釋衍義</persName>傳<persName type="secondary" key="A043473">三尹</persName></head>
+<lb ed="B" n="0341a04"/><p xml:id="pB27p0341a0401"><persName key="A011713">釋衍義</persName>，字<persName key="A011713">湛修</persName>，姓董氏，秦人也。初出家，居長安薦福寺，聞麓山
+<lb ed="B" n="0341a05"/><persName>檀</persName>祖名，振錫來湘。而<persName>檀</persName>已滅，因訪泐潭遺址。結茅星垣，晝夜靜
+<lb ed="B" n="0341a06"/>坐，恆持誦《大悲觀世音咒》不輟。有問之者，曰：「欲祛虎患，故持此
+<lb ed="B" n="0341a07"/>耳！」是時湘中鄉僻，白額晝行，直入人家，受禍者眾，士民苦之，莫
+<lb ed="B" n="0341a08"/>能驅逐。及聞<persName key="A011713">義</persName>言，多相效法，《大悲呪》聲徧於山陬，虎竟潛蹤，其
+<lb ed="B" n="0341a09"/>害遂已，四方檀護不期而至。<date from-iso="+1683-01-27" key="j23357902336173" to-iso="+1684-02-14">清康熙癸亥</date>，<persName key="A043472">胡<roleName>副將</roleName>景雲</persName>，協助資
+<lb ed="B" n="0341a10"/>力，恢復舊基，更啟新宇。<persName key="A011713">義</persName>復作《泐潭八景詩序》，立之碑石，以紀
+<lb ed="B" n="0341a11"/>名勝。八景之中，唯蓮沼最廣，長逾三里，曲岸灣環，寬亦里許，額
+<lb ed="B" n="0341a12"/>曰「海會蓮池」，今呼荷花池是也。<persName key="A011713">義</persName>晚歲息此，專修淨業，故<persName key="A043471">王潞</persName>
+<lb ed="B" n="0341a13"/>贈句云：「六字消長晝，千秋老上人。」學者至今傳誦。<date from-iso="+1734-05-03" key="j23545132354600" to-iso="+1734-07-29">雍正甲寅夏</date>，
+<lb ed="B" n="0341a14"/><persName key="A011713">義</persName>年已八十矣，以念佛參禪，原本不二。乃示眾曰：「六十年前學
+<lb ed="B" n="0341a15"/>講禪，好箇木人能豎拂；六十年後學念佛，切實只能七八句；直
+<lb ed="B" n="0341a16"/>到臨終十念成，念念無生念念佛；說有談空兩俱非，清淨界中
+<lb ed="B" n="0341a17"/>無一物；有禪有淨帶角虎，壽祖非是欺人語；肉眼能觀大海眾，
+<lb ed="B" n="0341a18"/>親見<persName key="A002843">彌陀</persName>來接汝。」是日<date from-iso="+1734-07-06" key="j23545772354577">六月六日</date>為<persName key="A011713">義</persName>生辰，復謂眾曰：「今日乃
+<lb ed="B" n="0341a19"/><ref type="person" target="#A011713">予</ref>末後真誕，期有會者麼？」眾默然，<persName key="A011713">義</persName>曰：「是真送別也。」遂坐化，時
+<lb ed="B" n="0341a20"/>當炎暑，坐龕七日，面如生，塔於寺後平岡。著有《泐潭剩語》四卷，<pb ed="B" xml:id="B27.0151.0341b" n="0341b"/>
+<lb ed="B" n="0341b01"/>《留影文集》四卷，《禪餘詩草》十卷。清季寺廢，改建校舍及軍藥局，
+<lb ed="B" n="0341b02"/>遺跡泯滅，不可復覩，思古者為浩歎。同時有<persName key="A043473">三尹</persName>者，世稱<persName key="A043473">護國
+<lb ed="B" n="0341b03"/>禪師</persName>，平江李氏子。從軍數載，幾經戰場，見橫尸徧野，不覺失聲
+<lb ed="B" n="0341b04"/>曰：「人生如是，何苦自殘？」因辤歸，祝髮為僧，游參南北名山十餘
+<lb ed="B" n="0341b05"/>年，還長沙丁。<persName key="A022402">吳</persName>藩之變，官軍雲集，閭里騷然。<persName key="A043473">三尹</persName>請於<persName key="A043474">安親王</persName>，
+<lb ed="B" n="0341b06"/>又入<persName key="A043475">穆</persName>將軍幕府，哀懇陳述，禁止暴掠，人民安堵，故世以<persName key="A043473">護國</persName>
+<lb ed="B" n="0341b07"/>稱之。晚歲結茅星岳山，檀樾為剏梵宇，曰「棲賢林」。年逾七十，無
+<lb ed="B" n="0341b08"/>疾而化。</p>
+    <linkGrp>
+        <link targets="#0341a09 #0341a09"/>
+        <ptr target="#A011713" type="person"/>
+        <ptr target="#A043472" type="person"/>
+        <ptr target="#j23357902336173" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0341a12 #0341a13"/>
+        <ptr target="#A011713" type="person"/>
+        <ptr target="#A043471" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0341b05 #0341b07"/>
+        <ptr target="#A043473" type="person"/>
+        <ptr target="#A043474" type="person"/>
+        <ptr target="#A043475" type="person"/>
+    </linkGrp>
+</div>
