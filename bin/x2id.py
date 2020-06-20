@@ -7,6 +7,7 @@
 import argparse, collections, os, pickle, re, subprocess, sys
 from lxml import etree
 import sw_xml, zbx_authority, zbx_str, zbx_chars
+import html
 
 teiBase = '../Song_GSZ'
 BIBL = os.path.join(teiBase, 'SGSZbibliography.xml')
@@ -912,6 +913,10 @@ def read_bibl():
   return r
 
 def span_pinyin(text):
+  # 將 html entity 轉為 uncode, 例：別名：如&#x279AC;
+  r1 = re.compile('&#x[\dA-Za-z]+;')
+  text = r1.sub(html_unescape, text)
+
   r1 = re.compile(r'((?:[a-zA-ZÀ-ÿĀ-ſḀ-ỿ]+[\- ,;]*)+)')
   r2 = re.compile('[ \[\],\.]')
   result = ''
@@ -921,6 +926,9 @@ def span_pinyin(text):
     else:
       result += '<span>%s</span>' % s
   return result
+
+def html_unescape(match):
+  return html.unescape(match.group(0))
 
 # main
 # 下面取得參數的方法在伯雍的電腦上無效
