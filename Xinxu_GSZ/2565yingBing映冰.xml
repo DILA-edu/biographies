@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="淨讀" xml:id="gsz0354b20shiYingBing">
+<lb ed="B" n="0354b20"/><anchor n="B.27.0151.0354b20"/><head>清長沙嶽麓萬壽寺沙門<persName key="A042261">釋映冰</persName>傳<persName type="secondary" key="A011783">一心</persName><persName type="secondary" key="A043526">心有</persName><persName type="secondary" key="A043524">續乘</persName></head>
+<lb ed="B" n="0355a01"/><p xml:id="pB27p0355a0101"><persName key="A042261">釋映冰</persName>，字<persName key="A042261">南泉</persName>，姓馮氏，湘潭人。<ref type="date" target="#j23906002390953">年十六</ref>出家於長沙百隆寺，具
+<lb ed="B" n="0355a02"/>足於嶽麓萬壽寺。後主杲山中興禪林，道譽遠敷。更歷寺院，莫
+<lb ed="B" n="0355a03"/>不革新，化為叢席。退居天井山，四十餘年，專修淨土。<date when-iso="+1882-11-20" key="j24087702408770">光緒八年
+<lb ed="B" n="0355a04"/>壬午冬十月十日</date>示微疾，呼其徒曰：「<ref type="person" target="#A042261">吾</ref>居此僅七日耳！」徒唯唯，
+<lb ed="B" n="0355a05"/>以<persName key="A042261">冰</persName>從無大病，未之深信。至期五鼓，沐浴更衣，端坐偈曰：「六十
+<lb ed="B" n="0355a06"/>餘年苦相連，一句彌陀在眼前；今日辤去娑婆界，徑往西天合
+<lb ed="B" n="0355a07"/>掌。」又曰：「真登般若船，尋本得源，踏破虛空白雲巔，拈來須彌一
+<lb ed="B" n="0355a08"/>輪月。」果滿功圓，寂時年六十有五。<persName key="A011783">一心</persName>者，湘鄉杜氏子。投長沙
+<lb ed="B" n="0355a09"/>龍象山剃度，<ref type="date" target="#j23968012397154">年二十五</ref>受具於寧鄉大溈山。主白霞丈席九載，
+<lb ed="B" n="0355a10"/>廟宇重新，百廢俱起。移龍潭山，延攬水雲<!--即「雲水」，指僧道-->，漸興叢舍。復興杲山
+<lb ed="B" n="0355a11"/>寺，與<persName key="A042261">映冰</persName>相先後，其專志淨修亦同。晚歲禮拜彌陀、觀世音像，
+<lb ed="B" n="0355a12"/>一日百叩，誦號萬聲，如是者二十七年，未嘗稍間。主杲山時，曾
+<lb ed="B" n="0355a13"/>弘法戒，得弟子三百餘人。<date when-iso="+1895-10-26" key="j24134932413493">光緒二十一年乙未九月九日</date>示寂。
+<lb ed="B" n="0355a14"/>先期召弟子曰：「<ref type="person" target="#A011783">吾</ref>西方淨土日近，爾曹勉之。」重九午後，焚香誦
+<lb ed="B" n="0355a15"/>佛，偶然雷震，西見祥光，端坐而瞑，年七十矣！<persName key="A043524">續乘</persName>字<persName key="A043524">妙寬</persName>，宛平
+<lb ed="B" n="0355a16"/>人。依京西<persName key="A043525">實山</persName>師出家，<date from-iso="+1862-01-30" key="j24011712401554" to-iso="+1863-02-17">同治元年</date>得戒於潭柘寺。專壹持念，始
+<lb ed="B" n="0355a17"/>終無懈。<date when-iso="+1905-06-24" key="j24170212417021">光緒三十一年五月二十二日</date>示寂，年七十八。又<persName key="A043526">心有</persName>
+<lb ed="B" n="0355a18"/>字<persName key="A043526">曇光</persName>，亦燕山人，進具於潭柘者也。寂於<date when-iso="+1908-06-29" key="j24181222418122">光緒三十四年六月
+<lb ed="B" n="0355a19"/>朔日</date>，年七十。生平戒行芳潔，生死同參。尤以洗除塵垢為淨修
+<lb ed="B" n="0355a20"/>法門，故數十年勤持佛號，念茲在茲，無少間墜，直至純熟，圓明<pb ed="B" xml:id="B27.0151.0355b" n="0355b"/>
+<lb ed="B" n="0355b01"/>自見。今同侶中多能道其精詣云。</p>
+    <linkGrp>
+        <link targets="#0355a15 #0355a16"/>
+        <ptr target="#A043524" type="person"/>
+        <ptr target="#A043525" type="person"/>
+    </linkGrp>
+</div>

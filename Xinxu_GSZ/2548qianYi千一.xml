@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="淨讀" xml:id="gsz0346a04shiQianYi">
+<lb ed="B" n="0346a04"/><anchor n="B.27.0151.0346a04"/><head>清海寧護國禪院沙門<persName key="A042467">釋千一</persName>傳<persName type="secondary" key="A043489">徹迷</persName></head>
+<lb ed="B" n="0346a05"/><p xml:id="pB27p0346a0501"><persName key="A042467">釋千一</persName>，字<persName key="A042467">遠人</persName>，姓王氏，海寧人也。素懷清絜，雅慕禪修，因投邑
+<lb ed="B" n="0346a06"/>中護國禪院落髮，受具於西湖昭慶寺。謹持律儀，誠心薰念，志
+<lb ed="B" n="0346a07"/>樂寂靜，顏其室曰「廬山僻處」，潛修其中。<date from-iso="+1778-08-22" key="j23706952370783" to-iso="+1778-11-18">乾隆戊<anchor xml:id="beg_175" type="cb-app"/>戌<anchor xml:id="end_175"/>秋</date>，自知時至，
+<lb ed="B" n="0346a08"/>適道侶過訪，欣然相訝曰：「公來洽好，正我西歸之期，可一借證
+<lb ed="B" n="0346a09"/>明也。」遂沐浴更衣，焚香趺坐，說偈而化。是日瞻禮者眾，塔於院
+<lb ed="B" n="0346a10"/>左。又同院僧<persName key="A043489">徹迷</persName>，嘉禾人，姓鍾氏。性樸質，語多戇直，人多忽之，
+<lb ed="B" n="0346a11"/>不樂與近。中年始投海寧護國院，依<persName key="A042434">定高</persName>染剃，執侍數載。但知
+<lb ed="B" n="0346a12"/>念佛，求生淨土。後侍<ref type="person" target="#A042434">師</ref>至延恩，方重修大殿，專任勤敂，無少懈
+<lb ed="B" n="0346a13"/>惰。然念佛不輟，出入持珠，雖目營指畫，終日喃喃，人亦未之奇
+<lb ed="B" n="0346a14"/>也。一日謂同寮曰：「<ref type="person" target="#A043489">我</ref>將與諸君別矣！」眾問：「何往？」曰：「西方去。」相與
+<lb ed="B" n="0346a15"/>共笑之。後數日，復從外至，又呼同寮曰：「<ref type="person" target="#A043489">我</ref>今日真去也。」眾亦不
+<lb ed="B" n="0346a16"/>為意。傾之披衣禮佛，合掌端坐，復高唱曰：「<ref type="person" target="#A043489">我</ref>去矣。」遂寂然無響。
+<lb ed="B" n="0346a17"/>眾連呼之，不應，趨而視之，則已化矣！時<date from-iso="+1791-02-03" key="j23752432375597" to-iso="+1792-01-23">乾隆五十六年</date>也。</p>
+    <linkGrp>
+        <link targets="#0346a10 #0346a10"/>
+        <ptr target="#A042467" type="person"/>
+        <ptr target="#A043489" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0346a11 #0346a12"/>
+        <ptr target="#A042467" type="person"/>
+        <ptr target="#A042434" type="person"/>
+    </linkGrp>
+</div>

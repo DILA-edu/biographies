@@ -1,41 +1,88 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪">
-
-<lb ed="B" n=""/><anchor n="B.27.0151"/>
-                    <head>明漳州南山報劬禪院沙門釋亘信傳</head>
-                <p xml:id="pB27p0185b0701">釋亘信字行彌姓蔡氏浯人也父惟和母李氏夢大星入懷及
-<lb ed="B" n="0185b08"/>誕亘小字福星年十二聞梅山止安九族生天語欣然慕之欲
-<lb ed="B" n="0185b09"/>報劬勞白於母母不聽後病熱極危許捨出家即愈年十七從
-<lb ed="B" n="0185b10"/>止安薙髮嘗見雪山書壽昌塔銘知有宗門事尋居漳之長泰
-<lb ed="B" n="0185b11"/>石獅巖偶值中秋止安到巖方設餅煮茶忽舉德山棒臨濟喝
-<lb ed="B" n="0185b12"/>雲門餅趙州茶是同是別竟日思惟欲云同機用各別若云別
-<lb ed="B" n="0185b13"/>道豈有二終未能決一日負米登山忽忘身世成一偈曰行住
-<lb ed="B" n="0185b14"/>原非我棒喝不是他一箇雲門餅好下趙州茶方知古人真參
-<lb ed="B" n="0185b15"/>實悟語不我欺乃發足游參首造鼓山叩博山無異令看父母
-<lb ed="B" n="0185b16"/>未生前語頓起疑情值獅林師出因詢林曰適來所問是何意
-<lb ed="B" n="0185b17"/>旨林曰一塊石一塊磚兩相撞乃從結茅於芙蓉山居頃之復
-<lb ed="B" n="0185b18"/>回鼓山受具時年二十四八月解制乃還溫陵掩關於葵山牛
-<lb ed="B" n="0185b19"/>眠室晝夜提撕二七不眠亦不依倚後聞密雲晤開堂於黃檗
-<lb ed="B" n="0185b20"/>以書乞示即取來書轉語作復云但見橫尸遍野即便知恩有
-<pb ed="B" xml:id="B27.0151.0186a" n="0186a"/>
-<lb ed="B" n="0186a01"/>地亘已爽然若失已而復掩關於南安圭峰報親寺之東庵曾
-<lb ed="B" n="0186a02"/>憶僧傳晤以薰風自南來語勘驗學者思之未得值六月掃地
-<lb ed="B" n="0186a03"/>關中汗下沾衣忽爾清風徐來舉體慶快乃怕掌曰好箇出身
-<lb ed="B" n="0186a04"/>處時人不知時人一知汗透滿衣適金粟費隱繼席黃檗乃馳
-<lb ed="B" n="0186a05"/>書陳其所見答云未見有本分語而通本分消息遂啟關直詣
-<lb ed="B" n="0186a06"/>黃檗問費曰昔臨濟會下兩堂首座相見同時下一喝僧問臨
-<lb ed="B" n="0186a07"/>濟還有賓主也無濟云賓主歷然祇如兩堂首座未下一喝時
-<lb ed="B" n="0186a08"/>還有賓主也無費云兩眼對兩眼禮之而退費問如何是汝本
-<lb ed="B" n="0186a09"/>分句亘曰今日晴費云我不問晴再道昨日雨費云汝自<anchor xml:id="beg_ac" type="cb-app"/>己<anchor xml:id="end_ac"/>親
-<lb ed="B" n="0186a10"/>切上何不道一句亘舉拳費云離<anchor xml:id="beg_ad" type="cb-app"/>卻<anchor xml:id="end_ad"/>此手別道一句亘曰鼻孔
-<lb ed="B" n="0186a11"/>大頭垂費肎<!-- 通「肯」 -->之亘擬再進語費連捧揮出立於侍寮如卓地露
-<lb ed="B" n="0186a12"/>柱生平所得所悟前後際斷及結冬費先垂語舉古人云欲識
-<lb ed="B" n="0186a13"/>佛性義當觀時節因緣時節若至如迷忽悟如忘忽憶試向此
-<lb ed="B" n="0186a14"/>處作一偈看亘呈偈曰數載覓心不見心承師捧下且翻身一
-<lb ed="B" n="0186a15"/>生伎倆從斯喪贏得條條一個人自是機緣峻峭當仁不讓乙
-<lb ed="B" n="0186a16"/>亥臘月八日始付拂子時年三十二崇禎九年溫陵檀越請住
-<lb ed="B" n="0186a17"/>南安大羅山棲隱禪院戊寅春往金粟省費復回黃檗助隱元
-<lb ed="B" n="0186a18"/>建興大殿壬午冬費遣專使齎源流祖衣付之舉示眾云此是
-<lb ed="B" n="0186a19"/>小僧生平直不藏曲須知當敗闕處正是得力處湊泊不上處
-<lb ed="B" n="0186a20"/>正是立地處久立其自敘艱幸如此有語錄三卷</p>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0185b06shiGenXin">
+<lb ed="B" n="0185b06"/><anchor n="B.27.0151.0185b06"/><head>明漳州南山報劬禪院沙門<persName key="A003873">釋亘信</persName>傳</head>
+<lb ed="B" n="0185b07"/><p xml:id="pB27p0185b0701"><persName key="A003873">釋亘信</persName>，字<persName key="A003873">行彌</persName>，姓蔡氏，浯人也。父<persName key="A043555">惟和</persName>，母<persName key="A043556">李氏</persName>夢大星入懷。及
+<lb ed="B" n="0185b08"/>誕<persName key="A003873">亘</persName>，小字<persName key="A003873">福星</persName>。<ref type="date" target="#j23106012310954">年十二</ref>，聞梅山<persName key="A043557">止安</persName>九族生天語，欣然慕之。欲
+<lb ed="B" n="0185b09"/>報劬勞，白於母。母不聽，後病熱極危，許捨出家，即愈。<ref type="date" target="#j23124322312786">年十七</ref>從
+<lb ed="B" n="0185b10"/><persName key="A043557">止安</persName>薙髮。嘗見雪山書壽昌塔銘，知有宗門事。尋居漳之長泰
+<lb ed="B" n="0185b11"/>石獅巖。偶值中秋，<persName key="A043557">止安</persName>到巖，方設餅煮茶，忽舉「<persName key="A003868">德山</persName>棒、<persName key="A003627">臨濟</persName>喝、
+<lb ed="B" n="0185b12"/><persName key="A003703">雲門</persName>餅<!-- T48n2003_p0204b11 -->、<persName key="A004475">趙州</persName>茶，是同？是別？」竟日思惟，欲云：「同，機用各別。若云別，
+<lb ed="B" n="0185b13"/>道豈有二？」終未能決。一日負米登山，忽忘身世，成一偈曰：「行住
+<lb ed="B" n="0185b14"/>原非我，棒喝不是他；一箇雲門餅，好下趙州茶。」方知古人真參
+<lb ed="B" n="0185b15"/>實悟，語不我欺，乃發足游參。首造鼓山，叩<persName key="A000114">博山</persName>，<persName key="A000114">無異</persName>令看父母
+<lb ed="B" n="0185b16"/>未生前語，頓起疑情。值<persName key="A043558">獅林</persName>師出，因詢<persName key="A043558">林</persName>曰：「適來所問是何意
+<lb ed="B" n="0185b17"/>旨？」<persName key="A043558">林</persName>曰：「一塊石，一塊磚，兩相撞。」乃從結茅於芙蓉山，居頃之，復
+<lb ed="B" n="0185b18"/>回鼓山受具，時<ref type="date" target="#j23149722315355">年二十四</ref>。八月解制，乃還溫陵，掩關於葵山牛
+<lb ed="B" n="0185b19"/>眠室。晝夜提撕，二七不眠，亦不依倚。後聞<persName key="A003688">密雲晤</persName>開堂於黃檗，
+<lb ed="B" n="0185b20"/>以書乞示。即取來書，轉語作復云：「但見橫尸遍野，即便知恩有<pb ed="B" xml:id="B27.0151.0186a" n="0186a"/>
+<lb ed="B" n="0186a01"/>地。」<persName key="A003873">亘</persName>已爽然若失。已而復掩關於南安圭峰報親寺之東庵。曾
+<lb ed="B" n="0186a02"/>憶僧傳，<persName key="A003688">晤</persName>以「薰風自南來」語勘驗學者，思之未得。值六月掃地
+<lb ed="B" n="0186a03"/>關中，汗下沾衣，忽爾清風徐來，舉體慶快，乃怕<!-- 拍？ -->掌曰：「好箇出身
+<lb ed="B" n="0186a04"/>處，<!-- 《大慧普覺禪師語錄》卷17：「如何是諸佛出身處。薰風自南來，殿閣生微涼。」(CBETA, T47, no. 1998A, p. 883, a17-18) -->時人不知；時人一知，汗透滿衣。」適金粟<persName key="A001150">費隱</persName>繼席黃檗，乃馳
+<lb ed="B" n="0186a05"/>書陳其所見。答云：「未見有本分語，而通本分消息。」遂啟關直詣
+<lb ed="B" n="0186a06"/>黃檗，問<persName key="A001150">費</persName>曰：「昔<persName key="A003627">臨濟</persName>會下，兩堂首座相見，同時下一喝。僧問『臨
+<lb ed="B" n="0186a07"/>濟還有賓主也無？』<persName key="A003627">濟</persName>云『賓主歷然』，祇如兩堂首座未下一喝時，
+<lb ed="B" n="0186a08"/>還有賓主也無？」<persName key="A001150">費</persName>云：「兩眼對兩眼，禮之而退。」<persName key="A001150">費</persName>問：「如何是汝本
+<lb ed="B" n="0186a09"/>分句？」<persName key="A003873">亘</persName>曰：「今日晴。」<persName key="A001150">費</persName>云：「我不問晴。」再道：「昨日雨。」<persName key="A001150">費</persName>云：「汝自<anchor xml:id="beg_ac" type="cb-app"/>己<anchor xml:id="end_ac"/>親
+<lb ed="B" n="0186a10"/>切上，何不道一句？」<persName key="A003873">亘</persName>舉拳，<persName key="A001150">費</persName>云：「離<anchor xml:id="beg_ad" type="cb-app"/>卻<anchor xml:id="end_ad"/>此手，別道一句。」<persName key="A003873">亘</persName>曰：「鼻孔
+<lb ed="B" n="0186a11"/>大頭垂。」<persName key="A001150">費</persName>肎<!-- 通「肯」 -->之，<persName key="A003873">亘</persName>擬再進語，<persName key="A001150">費</persName>連捧揮出，立於侍寮，如卓地露
+<lb ed="B" n="0186a12"/>柱，生平所得所悟，前後際斷，及結冬。<persName key="A001150">費</persName>先垂語，舉古人云：「欲識
+<lb ed="B" n="0186a13"/>佛性義，當觀時節因緣。時節若至，如迷忽悟，如忘忽憶，試向此
+<lb ed="B" n="0186a14"/>處作一偈看？」<persName key="A003873">亘</persName>呈偈曰：「數載覓心不見心，承師捧下且翻身；一
+<lb ed="B" n="0186a15"/>生伎倆從斯喪，贏得條條一個人。」自是機緣峻峭，當仁不讓。<date when-iso="+1636-01-15" key="j23186112318611">乙
+<lb ed="B" n="0186a16"/>亥臘月八日</date>始付拂子，時年三十二。<date from-iso="+1636-02-07" key="j23186342318987" to-iso="+1637-01-25">崇禎九年</date>，溫陵檀越請住
+<lb ed="B" n="0186a17"/>南安大羅山，棲隱禪院。<date from-iso="+1638-02-14" key="j23193722319460" to-iso="+1638-05-13">戊寅春</date>往金粟省<persName key="A001150">費</persName>。復回黃檗，助<persName key="A001873">隱元</persName>
+<lb ed="B" n="0186a18"/>建興大殿。<date from-iso="+1642-10-24" key="j23210852321202" to-iso="+1643-02-18">壬午冬</date><persName key="A001150">費</persName>遣專使，齎源流祖衣付之。舉示眾云：「此是
+<lb ed="B" n="0186a19"/>小僧生平直不藏曲，須知當敗闕處，正是得力處，湊泊不上處，
+<lb ed="B" n="0186a20"/>正是立地處久立。」其自敘艱幸如此，有《語錄》三卷。</p>
+    <linkGrp>
+        <link targets="#0185b07 #0185b07"/>
+        <ptr target="#A003873" type="person"/>
+        <ptr target="#A043555" type="person"/>
+        <ptr target="#A043556" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0185b08 #0185b08"/>
+        <ptr target="#A003873" type="person"/>
+        <ptr target="#A043557" type="person"/>
+        <ptr target="#j23106012310954" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0185b09 #0185b10"/>
+        <ptr target="#A003873" type="person"/>
+        <ptr target="#A043557" type="person"/>
+        <ptr target="#j23124322312786" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0185b15 #0185b15"/>
+        <ptr target="#A003873" type="person"/>
+        <ptr target="#A000114" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0185b16 #0185b17"/>
+        <ptr target="#A003873" type="person"/>
+        <ptr target="#A043558" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0185b19 #0186a04"/>
+        <ptr target="#A003873" type="person"/>
+        <ptr target="#A003688" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0186a04 #0186a15"/>
+        <ptr target="#A003873" type="person"/>
+        <ptr target="#A001150" type="person"/>
+        <ptr target="#j23186112318611" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0186a17 #0186a17"/>
+        <ptr target="#A003873" type="person"/>
+        <ptr target="#A001150" type="person"/>
+        <ptr target="#j23193722319460" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0186a17 #0186a18"/>
+        <ptr target="#A003873" type="person"/>
+        <ptr target="#A001873" type="person"/>
+    </linkGrp>
 </div>

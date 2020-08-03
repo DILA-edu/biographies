@@ -27,7 +27,7 @@ ed="T" n="0844a07"/>後，勅賜<persName key="A000095">不空</persName>「三�
         <ptr target="#PL000000005373" type="place"/>
         <ptr target="#j19818371992113" type="time"/>
     </linkGrp>
-    <linkGrp>
+    <linkGrp cert="low">
         <link targets="#0843c25 #0843c27"/>
         <ptr target="#A010378" type="person"/>
         <ptr target="#A011050" type="person"/>

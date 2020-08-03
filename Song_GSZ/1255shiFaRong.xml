@@ -1,31 +1,38 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="雜科聲德" xml:id="gsz0894c04shiFaRong">
-<lb ed="T" n="0894c04"/><anchor n="T.50.2061.0894c04"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>閬州長樂寺<persName key="A008822">法融</persName>傳</head><p>
-<lb ed="T" n="0894c05"/><persName key="A008822">釋法融</persName>，姓嚴氏，<placeName key="PL000000036534">閬中</placeName>人也。<anchor xml:id="beg0894003"/>穉<anchor xml:id="end0894003"/>齒好朴素，惡
+<lb ed="T" n="0894c04"/><anchor n="T.50.2061.0894c04"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000036518">閬州長樂寺</placeName><persName key="A008822">法融</persName>傳</head><p>
+<lb ed="T" n="0894c05"/><persName key="A008822">釋法融</persName>，姓<name>嚴氏</name>，<placeName key="PL000000036534">閬中</placeName>人也。<anchor xml:id="beg0894003"/>穉<anchor xml:id="end0894003"/>齒好朴素，惡
 <lb ed="T" n="0894c06"/>華楚之服。父訓令秉筆，便畫佛形像。至于
-<lb ed="T" n="0894c07"/>聚戲，<anchor xml:id="beg0894004"/><choice resp="PC-JK-MB"><sic>搏</sic><corr>摶</corr></choice><anchor xml:id="end0894004"/>沙為塔，所作無非佛事。年甫<date key="j19982791998643" from-iso="+0759-01-01" to-iso="+0759-12-31">十
-<lb ed="T" n="0894c08"/>三</date>，見<name>釋</name>子，摳其衣坐執經卷，苦求出家。
-<lb ed="T" n="0894c09"/>依<placeName key="PL000000036518">長樂寺</placeName><persName key="A013922">慧休法師</persName>為弟子，經誦偕通，乃
-<lb ed="T" n="0894c10"/>霑戒善。遂講<persName key="A001519">南山</persName>律鈔<ptr target="#n1290"/>。後遊雲水，見<placeName key="PL000000023253">嵩嶽</placeName>
-<lb ed="T" n="0894c11"/><persName key="A009319">普寂</persName>禪道風行，密付心印<ptr target="#n3334"/>。往弋陽<placeName key="PL000000020082">福寧寺</placeName>，
-<lb ed="T" n="0894c12"/>放蕩閑居，學道者麏至。以<date key="j20260742026427" notAfter-iso="+0836-01-25" notBefore-iso="+0835-02-06"><name>大和</name>九年</date>示疾
-<lb ed="T" n="0894c13"/>而終，春秋八十九。<date key="j20260832026083" when-iso="+0835-02-15">其年正月十日</date>，門人奉神
+<lb ed="T" n="0894c07"/>聚戲，<anchor xml:id="beg0894004"/><choice resp="PC-JK-MB"><sic>搏</sic><corr>摶</corr></choice><anchor xml:id="end0894004"/>沙為塔，所作無非佛事。年甫<ref type="date" target="#j19983161998669">十
+<lb ed="T" n="0894c08"/>三</ref>，見<name>釋</name>子，摳其衣坐執經卷，苦求出家。
+<lb ed="T" n="0894c09"/>依<placeName key="PL000000036518">長樂寺</placeName><persName key="A013922">慧休<roleName>法師</roleName></persName>為弟子，經誦偕通，乃
+<lb ed="T" n="0894c10"/>霑戒善。遂講<persName key="A001519">南山</persName>《律鈔》<ptr target="#n1290"/>。後遊雲水<ptr type="glossary" target="#g1517"/>，見<placeName key="PL000000023253">嵩嶽</placeName>
+<lb ed="T" n="0894c11"/><persName key="A009319">普寂</persName>禪道風行，密付心印<ptr target="#n3334"/>。往<placeName key="PL000000020082"><placeName>弋陽</placeName><placeName>福寧寺</placeName></placeName>，
+<lb ed="T" n="0894c12"/>放蕩閑居，學道者麏至<ptr type="glossary" target="#g1310"/>。以<date from-iso="+0835-02-06" key="j20260742026427" to-iso="+0836-01-25"><name>大和</name>九年</date>示疾
+<lb ed="T" n="0894c13"/>而終，春秋八十九。<date when-iso="+0835-02-15" key="j20260832026083">其年正月十日</date>，門人奉神
 <lb ed="T" n="0894c14"/>座入塔焉。</p>
+    <linkGrp>
+        <link targets="#0894c05 #0894c06"/>
+        <ptr target="#A008822" type="person"/>
+        <ptr target="#PL000000036534" type="place"/>
+    </linkGrp>
     <linkGrp>
         <link targets="#0894c07 #0894c10"/>
         <ptr target="#A008822" type="person"/>
         <ptr target="#A013922" type="person"/>
         <ptr target="#PL000000036518" type="place"/>
-        <ptr target="#j19982791998643" type="time"/>
+        <ptr target="#j19983161998669" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0894c10 #0894c11"/>
         <ptr target="#A008822" type="person"/>
         <ptr target="#A009319" type="person"/>
+        <ptr target="#PL000000023253" type="place"/>
     </linkGrp>
     <linkGrp>
-        <link targets="#0894c11 #0894c12"/>
+        <link targets="#0894c11 #0894c14"/>
         <ptr target="#A008822" type="person"/>
         <ptr target="#PL000000020082" type="place"/>
+        <ptr target="#j20260742026427" type="time"/>
     </linkGrp>
 </div>

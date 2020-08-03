@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="淨讀" xml:id="gsz0351a01shiFoDu">
+<lb ed="B" n="0351a01"/><anchor n="B.27.0151.0351a01"/><head>清姑蘇南禪寺沙門<persName key="A043499">釋佛度</persName>傳<persName type="secondary" key="A043500">絕相</persName><persName type="secondary" key="A043501">孫東瓜</persName></head>
+<lb ed="B" n="0351a02"/><p xml:id="pB27p0351a0201"><persName key="A043499">釋佛度</persName>，歙人也。初至姑蘇流水居，復住南禪寺。堅守律法，過午
+<lb ed="B" n="0351a03"/>不湌，夜坐不臥。後於檀香觀音閣，獨居數載，專修淨業。<date from-iso="+1818-02-05" key="j23851062385194" to-iso="+1818-05-04">嘉慶戊
+<lb ed="B" n="0351a04"/>寅春</date>示微疾，辭諸道友，端坐念佛而化。時有<persName key="A043500">絕相</persName>禪師與<persName key="A043499">度</persName>相
+<lb ed="B" n="0351a05"/>友善。及聞<persName key="A043499">度</persName>化去，乃曰：「<ref type="person" target="#A043499">渠</ref>去，<ref type="person" target="#A043500">我</ref>亦去。」遂沐浴焚香，面西趺坐，合
+<lb ed="B" n="0351a06"/>掌而寂。<persName key="A043500">絕相</persName>嘉禾人，身體短小，貌復不揚，人多輕之。<persName key="A043500">絕相</persName>終日
+<lb ed="B" n="0351a07"/>不言，唯低頭念佛。雖在操作，不廢持誦。晨禮四十八願及大悲
+<lb ed="B" n="0351a08"/>懺，晝課《彌陀經》數卷，午後不食。夜則西面危坐，習以為常。依南
+<lb ed="B" n="0351a09"/>禪<persName key="A042302">悉檀老人</persName>二十餘載，<ref type="person" target="#A042302">老人</ref>時稱道之。獨與<persName key="A043499">佛度</persName>道誼甚洽，故
+<lb ed="B" n="0351a10"/>臨去相期，聞聲應響，知有自來矣！又<persName key="A043501">東瓜和尚</persName>，姓孫氏，餘杭人，
+<lb ed="B" n="0351a11"/>而忘其名字。居恆素食，性嗜東瓜，人呼<persName key="A043501">孫東瓜</persName>。後出家華嚴庵，
+<lb ed="B" n="0351a12"/>償其夙志，仍襲舊稱，遂呼為<persName key="A043501">東瓜和尚</persName>云。為人不多言，竟日遊
+<lb ed="B" n="0351a13"/>行街市，寒暑無間，經十餘年，人莫之測。顧與鄰庵僧<persName key="A043502">慧照</persName>相友
+<lb ed="B" n="0351a14"/>善，將寂之前月，告<persName key="A043502">照</persName>曰：「新正六日當相別，<ref type="person" target="#A043502">汝</ref>合來送我。」至期因
+<lb ed="B" n="0351a15"/>赴法慧庵，返見<persName key="A043502">慧照</persName>先在，曰：「<ref type="person" target="#A043502">汝</ref>何來？」<persName key="A043502">照</persName>因笑曰：「<ref type="person" target="#A043501">汝</ref>不嘗與<ref type="person" target="#A043502">我</ref>約
+<lb ed="B" n="0351a16"/>耶？特來相送耳！」乃首肯之。曰：「<ref type="person" target="#A043502">汝</ref>真不負也。」遂沐盥更衣，禮佛竟，
+<lb ed="B" n="0351a17"/>趺坐，謂<persName key="A043502">照</persName>曰：「既行，不可無偈。為<ref type="person" target="#A043501">我</ref>書之。」偈云：「終日走街坊，心中
+<lb ed="B" n="0351a18"/>念佛忙；世人都不識，別有一天堂。」既書後，令誦朗。誦畢曰：「<ref type="person" target="#A043501">吾</ref>去
+<lb ed="B" n="0351a19"/>矣！」悠然而逝。</p>
+    <linkGrp>
+        <link targets="#0351a03 #0351a06"/>
+        <ptr target="#A043499" type="person"/>
+        <ptr target="#A043500" type="person"/>
+        <ptr target="#j23851062385194" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0351a08 #0351a06"/>
+        <ptr target="#A042302" type="person"/>
+        <ptr target="#A043500" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0351a13 #0351a18"/>
+        <ptr target="#A043501" type="person"/>
+        <ptr target="#A043502" type="person"/>
+    </linkGrp>
+</div>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="讀誦" xml:id="gsz0864c04shiChuJin"><lb
-ed="T" n="0864c04"/><anchor n="T.50.2061.0864c04"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000042321"><placeName>京師</placeName><placeName>千福寺</placeName></placeName><persName key="A009174">楚金</persName>傳</head><p><lb
+ed="T" n="0864c04"/><anchor n="T.50.2061.0864c04"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000042321">京師<placeName>千福寺</placeName></placeName><persName key="A009174">楚金</persName>傳</head><p><lb
 ed="T" n="0864c05"/><persName key="A009174">釋楚金</persName>，<name>程氏</name>之子，本<placeName key="PL000000001748">廣平郡</placeName>，今為<placeName key="PL000000042192">京兆</placeName>之<placeName key="PL000000042598">盩<lb
 ed="T" n="0864c06"/>厔</placeName>人也<ptr target="#n3013"/>。母<persName key="A019468">高氏</persName><ptr target="#n3014"/>夜夢諸佛，因而妊焉，生實<lb
 ed="T" n="0864c07"/><persName key="A002799">法王</persName>之子也。行素顏玉，神和氣清。<date key="j19782341978588" from-iso="+0704-02-14" to-iso="+0705-02-02">七歲</date>諷《法<lb
@@ -11,7 +11,7 @@ ed="T" n="0864c11"/>構塔，累級而成，有同反掌。甞於<placeName key=
 ed="T" n="0864c12"/>真</placeName>，捫蘿<ptr type="glossary" target="#g1996"/>靈趾<ptr type="glossary" target="#g1997"/>，乃曰：「此<ref type="person" target="#A009174">吾</ref>棲遁之所。」遂奏<ref type="place" target="#PL000000042513 #PL000000042558">兩<lb
 ed="T" n="0864c13"/>寺</ref>各建一塔，咸以「多寶」為名。此外吟詠《妙<lb
 ed="T" n="0864c14"/>經》<ptr target="#n2996"/>六千餘遍。寶樹之下，髣髴見於分身；<placeName key="PL000000048268">靈山</placeName><lb
-ed="T" n="0864c15"/>之中，依俙覿<ptr type="glossary" target="#g1442"/>於三變<ptr target="#n3017"/>。心無所得，舌流甘露<ptr type="glossary" target="#g1446"/>；<lb
+ed="T" n="0864c15"/>之中，依俙覿<ptr type="glossary" target="#g1442"/>於三變<ptr target="#n3017"/>。心無所得，舌流甘露<ptr type="glossary" target="#g1466"/>；<lb
 ed="T" n="0864c16"/>瑞鳥金碧，棲於手中；天樂清泠，奏于空際。凡<lb
 ed="T" n="0864c17"/>諸休應<ptr type="glossary" target="#g1998"/>，皆不有之。乃曰：「法象王之法駕<ptr target="#n683"/>，迴<lb
 ed="T" n="0864c18"/>人主之宸睠，承明<ptr type="glossary" target="#g1999"/>三入，揚法六宮，后妃長跪<lb

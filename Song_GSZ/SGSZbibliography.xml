@@ -567,9 +567,9 @@
                 </bibl>
 				<bibl ana="book">
 					<author><hi>Zhou</hi>, Yiliang  周一良 (Author)</author>
-                    <title>Tang dai mi zong 唐代密宗 [Tantrism in China]</title>
+                    <title>Tang dai mi zong 唐代密宗 [Tantrism in China]<!--Chou Yi-liang, “Tantrism in China” Harvard Journal of Asiatic Studies 8 （1945）, pp.241-332--></title>
                     <edition>Shanghai: Far Eastern 遠東出版社<date>1996</date></edition>
-                    <abbr>周一良1996</abbr>
+                    <abbr>唐代密宗</abbr>
                 </bibl>
                 <bibl ana="book">
                   <author><hi>Xu</hi>, Song 徐松；Li Jianchao 李健超 ed.</author>
@@ -656,9 +656,9 @@
                     <abbr>陳萬成2002</abbr>
                 </bibl>
                 <bibl ana="book">
-                  <author><hi>Marcus</hi>Bingenheimer 馬德偉 (Eds.)</author>
+                  <author><hi>Bingenheimer</hi>, Marcus 馬德偉 (Eds.)</author>
                     <title>Digital Archive of Chinese Buddhist Temple Gazetteers 中國佛教寺廟志數位典藏</title>
-                    <edition>Taipei: Dharma Drum Buddhist College 法鼓佛教學院<date>2011</date></edition>
+                    <edition>Taipei: Dharma Drum Buddhist College 法鼓佛教學院<date>2013</date></edition>
                     <abbr>佛寺志</abbr>
                 </bibl>
                 <bibl ana="book">
@@ -694,7 +694,7 @@
                 <bibl ana="book">
                   <author><hi>Qian</hi>, Wenzhong 錢文忠</author>
                     <title>印度的古代漢語譯名及其來源</title>
-                    <edition>中國文化 Vol. 4, pp.177-181.<date>1991</date></edition>
+                    <edition>北京，中國藝術研究院 中國文化 Vol. 4, pp.177-181.<date>1991</date></edition>
                     <abbr>錢文忠1991</abbr>
                 </bibl>
                 <bibl ana="book">
@@ -1072,13 +1072,13 @@
                 <bibl ana="book">
                   <author><hi>Meng</hi>, Yuanlao 孟元老；鄧之誠 注</author>
                     <title>東京夢華錄注</title>
-                    <edition>Beijing: Zhonghua 北京 中華書局<date>1982.01</date>First edition</edition>
+                    <edition>Beijing: Zhonghua 北京 中華書局<date>1982</date>.01 First edition</edition>
                     <abbr>東京夢華錄注</abbr>
                 </bibl>
                 <bibl ana="book">
                   <author><hi>Zhao</hi>, Dingbang 趙定邦 修，丁寶書 等纂</author>
                     <title>中國方志叢書‧華中地方第586號‧長興縣志</title>
-                    <edition>Taipei Chen Wen Publishing 臺北 成文出版社<date>1983.03</date>First edition</edition>
+                    <edition>Taipei Chen Wen Publishing 臺北 成文出版社<date>1983</date>.03 First edition</edition>
                     <abbr>長興縣趙志</abbr>
                 </bibl>
                 <bibl ana="book">
@@ -1506,6 +1506,36 @@
                     <title>歷代漢文大藏經目錄新考</title>
                     <edition>Beijing: Zhong guo shehui kexue chubanshe 北京，中國社會科學出版社<date>2014.02</date>First edition</edition>
                     <abbr>藏經目錄新考</abbr>
+                </bibl>
+                <bibl ana="book">
+                  <author><hi>Cen</hi>, Zhongmian 岑仲勉</author>
+                    <title>元和姓纂四校記</title>
+                    <edition>Shanghai: Academia Sinica Institute of History and Philology 上海，上海商務印書館 中央研究院歷史語言研究所專刊之二十九<date>1948</date>Second edition</edition>
+                    <abbr>元和姓纂四校記</abbr>
+                </bibl>
+                <bibl ana="book">
+                  <author><hi>Adams</hi>, Douglas Q.</author>
+                    <title>A Dictionary of Tocharian B (Leiden Studies in Indo-European 10)</title>
+                    <edition>Editions Rodopi； Expanded, Revised, Bilingual <date>2013</date>Second edition</edition>
+                    <abbr>Adams 2013</abbr>
+                </bibl>
+                <bibl ana="book">
+                  <author><hi>Demiéville</hi>, Paul (Eds.)</author>
+                    <title>Hōbōgirin 法寶義林 [An Encyclopedic Dictionary of Buddhism]</title>
+                    <edition>Tokyo: Maison franco-japonaise 東京，日仏会館<date>1929-1983</date></edition>
+                    <abbr>法寶義林</abbr>
+                </bibl>
+                <bibl ana="book">
+                  <author><hi>Forte</hi>, Antonino</author>
+                    <title>The Activities in China of the Tantric Master Manicintana (Pao-ssu-wei 寶思惟: ? -721 A.D.) from Kashmir and of his Northern Indian Collaborators</title>
+                    <edition>Rome: East and West 34.1-3 (Sept 1984), pp.301-345.<date>1984</date></edition>
+                    <abbr>Forte 1984</abbr>
+                </bibl>
+                <bibl ana="book">
+                  <author><hi>Shomakhmadov</hi>, Safarali</author>
+                    <title>THE FEATURES OF THE INTERPRETATION OF MAÑGALA-SYMBOLS IN BUDDHIST SANSKRIT MANUSCRIPTS FROM CENTRAL ASIA</title>
+                    <edition>Saint Petersburg: manuscripta orientalia Vol.18 No.2 (December 2012), pp.9-23.<date>2012</date></edition>
+                    <abbr>Shomakhmadov 2012</abbr>
                 </bibl>
             </listBibl>
         </body>

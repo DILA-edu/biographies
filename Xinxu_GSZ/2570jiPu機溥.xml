@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="淨讀" xml:id="gsz0358a03shiJiPu">
+<lb ed="B" n="0358a03"/><anchor n="B.27.0151.0358a03"/><head>清樂清淨濟寺沙門<persName key="A011898">釋機溥</persName>傳<persName type="secondary" key="A043530">彥恢勝</persName><persName type="secondary" key="A043531">妙能</persName><persName type="secondary" key="A042811">大海</persName></head>
+<lb ed="B" n="0358a04"/><p xml:id="pB27p0358a0401"><persName key="A011898">釋機溥</persName>，字<persName key="A011898">誌西</persName>，號<persName key="A011898">月杲</persName>，姓劉氏，樂清人也。母<persName key="A043528">盧氏</persName>感白衣神授
+<lb ed="B" n="0358a05"/>子於懷而孕。既舉，常默默如入定僧。才及齔齡，隨母禮佛，見僧
+<lb ed="B" n="0358a06"/>即拜。<ref type="date" target="#j23938772394230">年十二</ref>遊龍門寺，聞鄰舍僧誦《彌陀經》，能默記終篇，不遺
+<lb ed="B" n="0358a07"/>一字，心有感發，屢欲軼俗。<ref type="date" target="#j23968012397154">年二十</ref>始從<persName key="A043529">式公</persName>薙度，受具戒於大
+<lb ed="B" n="0358a08"/>邑明因寺<persName key="A042455">永智</persName>，習演教乘，漸得省解。<persName key="A043530">彥恢勝</persName>者，<persName key="A042455">永智</persName>弟子也。見
+<lb ed="B" n="0358a09"/><persName key="A011898">溥</persName>誠篤，付以法衣。及歸適龍門山寺，<persName key="A043531">妙能</persName>法師方開蓮社，因與
+<lb ed="B" n="0358a10"/>斯會。專修淨業，道風益著，緇素皈<g ref="#CB21232">󵋰</g><!-- 歸也，音ㄧ（yī） -->，不勝指數。光緒紀元，剏建
+<lb ed="B" n="0358a11"/>淨濟寺於郭路雙獅山麓，蓮會再啟。魚梵之聲，六時不絕，內外
+<lb ed="B" n="0358a12"/>肅然，不減東林規度。<date from-iso="+1885-02-15" key="j24095882409675" to-iso="+1885-05-13">十一年春</date>延<persName key="A042811">大海</persName>法師入寺。崇尃<!-- 敷 -->講席，提
+<lb ed="B" n="0358a13"/>倡淨土宗旨。<date from-iso="+1887-03-25" key="j24103562410384" to-iso="+1887-04-22">丁亥三月</date>應太邑紳耆之請，主明因丈席。頻歲宏
+<lb ed="B" n="0358a14"/>戒傳經，聲德遠施，莘莘衲子，望風而至。<persName key="A011898">溥</persName>性簡質，貌度沖和，言
+<lb ed="B" n="0358a15"/>語率真，誠心愛物。生平戒律精嚴，功行超卓。雖事繁形疲，必晚
+<lb ed="B" n="0358a16"/>息早起，禪誦不輟。午則隨眾作苦，載笠荷鋤，從事蔬圃，有棲賢、
+<lb ed="B" n="0358a17"/>百丈遺風。晚歲體氣康強，頂骨隆起，色如渥赭，狀類肉髻。蓋年
+<lb ed="B" n="0358a18"/>已七十矣，童顏鶴鬢，目光炯炯，能覩小字藏經。居恒持誦《大悲》
+<lb ed="B" n="0358a19"/>神咒甚虔，靈應甚著。凡有祈禱，俱獲痊安。<date from-iso="+1910-02-10" key="j24187132419066" to-iso="+1911-01-29">宣統二年</date>壽已八十，
+<lb ed="B" n="0358a20"/>為弘戒法，得尸羅弟子百廿三人，洽符<persName key="A001204">遠</persName>公蓮社之數，故卍蓮<pb ed="B" xml:id="B27.0151.0358b" n="0358b"/>
+<lb ed="B" n="0358b01"/>有「一百廿三人入社，往生都在藕花中」之句，蓋由往昔倡導兩
+<lb ed="B" n="0358b02"/>寺蓮社，功深果熟，故致此兆。<persName key="A011898">溥</persName>後五年果有往生淨土之徵。寂
+<lb ed="B" n="0358b03"/>前一夕，自謂定中見白衣大士，滿身瓔珞，乘百寶船大如山，凌
+<lb ed="B" n="0358b04"/>空來迎。遂得西向，念佛而去。塔於寺左鳳岡之陽。</p>
+    <linkGrp>
+        <link targets="#0358a04 #0358a05"/>
+        <ptr target="#A011898" type="person"/>
+        <ptr target="#A043528" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0358a07 #0358a07"/>
+        <ptr target="#A011898" type="person"/>
+        <ptr target="#A043529" type="person"/>
+        <ptr target="#j23968012397154" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0358a07 #0358a08"/>
+        <ptr target="#A011898" type="person"/>
+        <ptr target="#A042455" type="person"/>
+        <ptr target="#A043530" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0358a09 #0358a10"/>
+        <ptr target="#A011898" type="person"/>
+        <ptr target="#A043531" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0358a12 #0358a13"/>
+        <ptr target="#A011898" type="person"/>
+        <ptr target="#A042811" type="person"/>
+        <ptr target="#j24095882409675" type="time"/>
+    </linkGrp>
+</div>

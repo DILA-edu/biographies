@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="淨讀" xml:id="gsz0343a09shiFuYi">
+<lb ed="B" n="0343a09"/><anchor n="B.27.0151.0343a09"/><head>清潤州焦山寺沙門<persName key="A020899">釋福毅</persName>傳</head>
+<lb ed="B" n="0343a10"/><p xml:id="pB27p0343a1001"><persName key="A020899">釋福毅</persName>，字<persName key="A020899">敏修</persName>，姓李氏，武昌人。年十五<!-- 《正源略集》卷15：「年十九。禮荊州承天寺恒印老宿祝髮。抵漢陽歸元受具。」(CBETA, X85, no. 1587, p. 92, a8-9) -->祝髮，抵漢陽歸元寺受
+<lb ed="B" n="0343a11"/>具。志慕宗乘，至焦山參<persName key="A020898">碩庵行載</persName>。<persName key="A020898">載</persName>命看無字<g ref="#CB12594">䛡</g>，十餘年無所
+<lb ed="B" n="0343a12"/>入。病幾死，忽猛省，遂印可<!-- 《正源略集》卷15：「大病幾死。忽猛省曰。狗子佛性無。乾坤一火爐。擬議剛半步。徹底盡焦枯。返焦山呈所得。蒙印可。」(CBETA, X85, no. 1587, p. 92, a11-13) -->。後主焦山、五州山及揚州平山、金陵
+<lb ed="B" n="0343a13"/>圓覺、荊州承天、湖州弁山，所至均沾法利。<date from-iso="+1737-01-31" key="j23555172355900" to-iso="+1738-02-18">乾隆二年</date>復主焦山，
+<lb ed="B" n="0343a14"/>會鎮江大旱，<persName key="A020899">福毅</persName>託缽維揚，募米二萬四千餘石以賑之。<persName key="A043478">儲大
+<lb ed="B" n="0343a15"/>文</persName>為之記，詳《山志》。後居瓜洲報本庵，年八十五，無疾而化，塔於
+<lb ed="B" n="0343a16"/>潤州黃山之南。</p>
+    <linkGrp>
+        <link targets="#0343a10 #0343a11"/>
+        <ptr target="#A020899" type="person"/>
+        <ptr target="#A020898" type="person"/>
+    </linkGrp>
+</div>

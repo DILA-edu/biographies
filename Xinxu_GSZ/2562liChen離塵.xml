@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="淨讀" xml:id="gsz0354a11shiLiChen">
+<lb ed="B" n="0354a11"/><anchor n="B.27.0151"/><head>清衡州中正禪林沙門<persName key="A042260">釋離塵</persName>傳</head>
+<lb ed="B" n="0354a12"/><p xml:id="pB27p0354a1201"><persName key="A042260">釋離塵</persName>，字<persName key="A042260">鏡江</persName>，姓萬氏，衡陽人也。幼性慧穎，不好俗嚻。雖貧困
+<lb ed="B" n="0354a13"/>失學，而出語成韵，若有夙因。<date from-iso="+1857-01-26" key="j23993412399724" to-iso="+1858-02-13">咸豐丁<anchor xml:id="beg_17a" type="cb-app"/>巳<anchor xml:id="end_17a"/></date>，祝髮郡城韓公祠，禮師
+<lb ed="B" n="0354a14"/><persName key="A043518">禪機</persName>長老究心生死。苦行二十年，拜《華嚴經》六部，勇猛精進。一
+<lb ed="B" n="0354a15"/>日始破本參，有偈曰：「在塵都不染，自樂性真天。」猶恐見道未明，
+<lb ed="B" n="0354a16"/>慨然舍去。朝九華、南海諸名勝，豁爾了悟。復呈偈云：「一朝打破
+<lb ed="B" n="0354a17"/>萬緣空，面壁<persName key="A001361">達摩</persName>成正覺。」及歸於衡城中正樓，剏立禪林，一時
+<lb ed="B" n="0354a18"/>名流如<persName key="A043519">劉<roleName>觀察</roleName>晟齋</persName>、<persName key="A043520">楊<roleName>廉訪</roleName>賡雲</persName>皆樂為之助，卒成厥志。自是
+<lb ed="B" n="0354a19"/>日持一卷，朝夕朗誦，以篤修淨業為務。嘗有偈云：「煆成罏火已
+<lb ed="B" n="0354a20"/>純青，內寶何須外索因；性海圓融歸一片，時時不昧本來人。」清<pb ed="B" xml:id="B27.0151.0354b" n="0354b"/>
+<lb ed="B" n="0354b01"/>泉<persName key="A043521">盛炳崑</persName>為敘其事入《宗錄》云。</p>
+    <linkGrp>
+        <link targets="#0354a13 #0354a13"/>
+        <ptr target="#A042260" type="person"/>
+        <ptr target="#A043518" type="person"/>
+        <ptr target="#j23993412399724" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0354a18 #0354a18"/>
+        <ptr target="#A042260" type="person"/>
+        <ptr target="#A043519" type="person"/>
+        <ptr target="#A043519" type="person"/>
+    </linkGrp>
+</div>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0">
+<!-- 中華書局《清實錄．德宗實錄》1987年初版。 -->
+<lb ed="QSL" n="b052p0711b"/><head>光緒三年五月甲子（十日）</head><p>引見新科進士……<persName key="A018655">樊增祥</persName>……。</p>
+    <linkGrp>
+        <link targets="#0711b #0711b"/>
+        <ptr target="#A006736" type="person"/>
+        <ptr target="#A018655" type="person"/>
+    </linkGrp>
+</div>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="譯經" xml:id="gsz0721c21shiZiLin"><lb
-ed="T" n="0721c21"/><anchor n="T.50.2061.0721c21"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000042147"><placeName>京師</placeName><placeName>大安國寺</placeName></placeName><persName key="A009176">子隣</persName>傳</head><p><lb
+ed="T" n="0721c21"/><anchor n="T.50.2061.0721c21"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000042147">京師<placeName>大安國寺</placeName></placeName><persName key="A009176">子隣</persName>傳</head><p><lb
 ed="T" n="0721c22"/><persName key="A009176">釋子隣</persName>，姓<name>范氏</name>，<placeName key="PL000000021579"><placeName>兗州</placeName><placeName>乾封</placeName><placeName>大范村</placeName></placeName>人也。父<persName key="A018812">峻<lb
 ed="T" n="0721c23"/>朝</persName>，不喜三寶，或見桑門，必加咄唾。有問<lb
 ed="T" n="0721c24"/>其故，即欲<anchor xml:id="beg0721sgsz12"/><choice resp="PC-JK-MB"><sic>驅</sic><corr>敺</corr></choice><anchor xml:id="end0721sgsz12"/>焉。<persName key="A009176">隣</persName>生已數歲，小字<persName key="A009176">隣兒</persName>，見<lb
@@ -17,7 +17,7 @@ ed="T" n="0722a05"/>為期。其夜，<ref type="person" target="#A020332">嶽�
 ed="T" n="0722a06"/><persName key="A009176">隣</persName>曰：「母<persName key="A020333">王氏</persName>亡來已經除服<ptr type="glossary" target="#g402"/>，敢問<ref type="person" target="#A020332">大王</ref>，<ref target="#A020333" type="person">母</ref><lb
 ed="T" n="0722a07"/>今<anchor xml:id="beg0722001"/><choice resp="PC-JK-MB"><sic>何</sic><corr>胡</corr></choice><anchor xml:id="end0722001"/>在？」<ref type="person" target="#A020332">王</ref>顧簿吏，對曰：「<persName key="A020333">王氏</persName>見繫獄受苦。」<lb
 ed="T" n="0722a08"/><persName key="A009176">隣</persName>曰：「<ref type="person" target="#A020333">我母</ref>何罪？」<ref type="person" target="#A020332">王</ref>曰：「生<ref type="person" target="#A009176">和尚</ref>時，食雞卵，又<lb
-ed="T" n="0722a09"/>取白傅頭瘡<ptr rend="display:none;" type="glossary" target="#g403"/>，坐<ptr type="glossary" target="#g404"/>是之故，職<ptr type="glossary" target="#g1435"/><persName key="A009176">汝</persName>之由。」<persName key="A009176">隣</persName>悲號<lb
+ed="T" n="0722a09"/>取白傅頭瘡<ptr type="glossary" target="#g403"/>，坐<ptr type="glossary" target="#g404"/>是之故，職<ptr type="glossary" target="#g1435"/><persName key="A009176">汝</persName>之由。」<persName key="A009176">隣</persName>悲號<lb
 ed="T" n="0722a10"/>委頓<ptr rend="display:none;" type="glossary" target="#g406"/>，求<ref type="person" target="#A020332">王</ref>請免。曰：「縶縻有分<ptr type="glossary" target="#g407"/>，放釋無門。然<lb
 ed="T" n="0722a11"/>則為<ref target="#A009176" type="person">法師</ref>計，請往<placeName key="PL000000012279">鄮山</placeName><anchor xml:id="beg0722sgsz1"/>禮<anchor xml:id="end0722sgsz1"/><placeName key="PL000000012310">阿育王塔</placeName>，或可<lb
 ed="T" n="0722a12"/>原也。」<persName key="A009176">隣</persName>詰朝<ptr type="glossary" target="#g408"/>遵途，到<placeName key="PL000000012309">句章山寺</placeName><ptr target="#n409"/>，叩頭哀訴，<lb
@@ -27,7 +27,7 @@ ed="T" n="0722a15"/>承<ref type="person" target="#A009176">汝</ref>之力，�
 ed="T" n="0722a16"/>不見。<persName key="A009176">隣</persName>後求解經論，至于<placeName key="PL000000042002">關輔</placeName>間，外學兼<lb
 ed="T" n="0722a17"/>通，美聲籍甚<ptr type="glossary" target="#g691"/>。以名僧之選，恒入<persName key="A004378">肅宗</persName><ref type="place" target="#PL000000042356">內殿</ref><lb
 ed="T" n="0722a18"/>應奉，高其舌端，精於捷對，御前口占<ptr type="glossary" target="#g413"/>，敘述<lb
-ed="T" n="0722a19"/>皇道，時輩靡及。勅賜紫方袍，充供奉僧<ptr type="glossary" target="#g414"/>。<persName key="A004379">代<lb
+ed="T" n="0722a19"/>皇道，時輩靡及。勅賜紫方袍，充供奉僧<ptr type="glossary" target="#g414"/><!-- 《佛祖統紀》卷40：「召沙門子隣入禁中講經。賜紫服充供奉。」(CBETA, T49, no. 2035, p. 376, b28-29) -->。<persName key="A004379">代<lb
 ed="T" n="0722a20"/>宗</persName>即位，更崇<name>釋氏</name>。<date notBefore-iso="+0765-01-30" key="j20005002001190" notAfter-iso="+0766-12-21"><name>永泰</name>中</date>，<persName key="A000095">不空</persName>重譯《仁王<lb
 ed="T" n="0722a21"/>護國》<ptr target="#n150"/>、《密嚴》<ptr target="#n149"/>等經，<persName key="A009176">隣</persName>與<placeName key="PL000000042321">千福寺</placeName><persName key="A009177">法崇</persName>、<placeName key="PL000000042216">西明寺</placeName><persName key="A009178">慧<lb
 ed="T" n="0722a22"/>靜</persName>、<placeName key="PL000000042165">保壽寺</placeName><persName key="A020397">圓寂</persName>分職證義<ptr rend="display:none;" type="glossary" target="#g54"/>，並<persName key="A000540">良賁</persName>潤文<ptr rend="display:none;" type="glossary" target="#g70"/>。<persName key="A009176">隣</persName><lb

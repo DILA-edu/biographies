@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="淨讀" xml:id="gsz0346b19shiShiYu">
+<lb ed="B" n="0346b19"/><anchor n="B.27.0151.0346b19"/><head>清海寧延恩寺沙門<persName key="A042434">釋諦勇</persName>傳</head>
+<lb ed="B" n="0346b20"/><p xml:id="pB27p0346b2001"><persName key="A042434">釋諦勇</persName>，字<persName key="A042434">定高</persName>，姓蔡氏，海寧人也。幼失怙恃，靡所瞻依，孤弱窮<pb ed="B" xml:id="B27.0151.0347a" n="0347a"/>
+<lb ed="B" n="0347a01"/>苦，幾<g ref="#CB33499">𠪱</g>艱辛。稍長感觸塵網，便思超脫，欲仗三寶，藉報雙親。遂
+<lb ed="B" n="0347a02"/>於州中護國院出家，精持律儀，馥郁戒香。嗣法福嚴，啟建蓮社，
+<lb ed="B" n="0347a03"/>恒以誦禮，苦心勸導，緇白景仰，從之如歸。及移住延恩，鼎新殿
+<lb ed="B" n="0347a04"/>宇，雖工作緐<!-- 同「繁」 -->興，執持不<anchor xml:id="beg034701"/><choice><sic resp="CBETA">問</sic><corr resp="PC-MB">間</corr></choice><anchor xml:id="end034701"/>。<date from-iso="+1796-08-03" key="j23772512377339" to-iso="+1796-10-30">嘉慶<anchor xml:id="beg034702"/><choice><sic resp="CBETA">內</sic><corr resp="PC-MB">丙</corr></choice><anchor xml:id="end034702"/>辰秋</date>示微疾，自知時至，預請
+<lb ed="B" n="0347a05"/><persName key="A043490">安國得</persName>法師封龕。至期，沐浴更衣，微聲念佛，泊然而逝。</p>
+    <linkGrp>
+        <link targets="#0347a04 #0347a05"/>
+        <ptr target="#A042434" type="person"/>
+        <ptr target="#A043490" type="person"/>
+        <ptr target="#j23772512377339" type="time"/>
+    </linkGrp>
+</div>

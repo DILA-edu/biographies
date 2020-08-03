@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0183b04shiHongRu">
+<lb ed="B" n="0183b04"/><anchor n="B.27.0151.0183b04"/><head>明雲南水目山寶華寺沙門<persName key="A000854">釋洪如</persName>傳</head>
+<lb ed="B" n="0183b05"/><p xml:id="pB27p0183b0501"><persName key="A000854">釋洪如</persName>，字<persName key="A000854">無住</persName>，姓鄧氏，定遠人也。志行孤絜，頗契幽遯，家居自
+<lb ed="B" n="0183b06"/>課，恆持《金剛經》。嘗入白雲崖，折茶枝插地，咒曰：「<ref type="person" target="#A000854">吾</ref>道有成則榮，
+<lb ed="B" n="0183b07"/>無成則萎。」後乃日見秀發，漸至合抱。<persName key="A000854">洪如</persName>曉夕窮研，亦有心得。
+<lb ed="B" n="0183b08"/>乃禮<persName key="A010666">大千</persName>受染，復參<persName key="A000560">徹庸</persName>，命居福城飯眾。一夕忽聞鐘聲，倏爾
+<lb ed="B" n="0183b09"/>灑落，了明大事，即成偈曰：「通身是遍界，是處處逢，何曾避？」後侍
+<lb ed="B" n="0183b10"/><persName key="A000560">庸</persName>走金陵請藏，歷叩諸方，更謁<persName key="A003688">天童</persName>、<persName key="A011738">六雪</persName>。及還滇，剏寶華寺於
+<lb ed="B" n="0183b11"/>水目山，弘施法化，宗風凜然。道價之盛，冠絕一時。寂年七十三，
+<lb ed="B" n="0183b12"/>臘四十，塔於水目山。所著有《蒼山集》、《空明集》、《苦海慈航集》及宗
+<lb ed="B" n="0183b13"/>門語錄《南鐙續燄》諸編。</p>
+    <linkGrp>
+        <link targets="#0183b08 #0183b08"/>
+        <ptr target="#A000854" type="person"/>
+        <ptr target="#A010666" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0183b08 #0183b08"/>
+        <ptr target="#A000854" type="person"/>
+        <ptr target="#A000560" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0183b10 #0183b10"/>
+        <ptr target="#A000854" type="person"/>
+        <ptr target="#A003688" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0183b10 #0183b10"/>
+        <ptr target="#A000854" type="person"/>
+        <ptr target="#A011738" type="person"/>
+    </linkGrp>
+</div>

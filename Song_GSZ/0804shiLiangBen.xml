@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="義解" xml:id="gsz0735a26shiDaoYin"><lb
-ed="T" n="0735a26"/><anchor n="T.50.2061.0735a26"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000042147"><placeName>京師</placeName><placeName>安國寺</placeName></placeName><persName key="A000540">良賁</persName>傳</head><p><lb
+ed="T" n="0735a26"/><anchor n="T.50.2061.0735a26"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000042147">京師<placeName>安國寺</placeName></placeName><persName key="A000540">良賁</persName>傳</head><p><lb
 ed="T" n="0735a27"/><persName key="A000540">釋良賁</persName><ptr target="#n3269"/>，姓<name>郭氏</name>，<placeName key="PL000000005190"><placeName>河中</placeName><placeName>虞鄉</placeName></placeName>人也。世襲冠裳，<lb
 ed="T" n="0735a28"/>法門之流，不標祖禰<ptr type="glossary" target="#g753"/>，故闕如也。<persName key="A000540">賁</persName>識鑒淵曠，<lb
 ed="T" n="0735a29"/>風表<ptr rend="display:none;" type="glossary" target="#g713"/>峻越，外通墳典<ptr type="glossary" target="#g418"/>，內善經論，義解<ptr rend="display:none;" type="glossary" target="#g544"/>之性，<pb ed="T" n="0735b" xml:id="T50.2061.0735b"/><lb
@@ -37,7 +37,7 @@ ed="T" n="0735c01"/>提心，如<ref type="person" target="#A004379">陛下</ref
 ed="T" n="0735c02"/>萬言，部有三卷。施行竊慚於愚見，裁成冀<lb
 ed="T" n="0735c03"/>答於聖恩。并《念誦儀軌》一卷，《承明殿講密嚴<lb
 ed="T" n="0735c04"/>經對御記》一卷同進上。輕塵玄覽<ptr rend="display:none;" type="glossary" target="#g765"/>，祇畏<ptr rend="display:none;" type="glossary" target="#g766"/>無<lb
-ed="T" n="0735c05"/>任<ptr rend="display:none;" type="glossary" target="#g767"/>。」答詔云：「<ref type="person" target="#A000540">法師</ref>智炬高明，辭峯逈秀，親憑<lb
+ed="T" n="0735c05"/>任<ptr type="glossary" target="#g767"/>。」答詔云：「<ref type="person" target="#A000540">法師</ref>智炬高明，辭峯逈秀，親憑<lb
 ed="T" n="0735c06"/><name>梵</name>夾，宣闡微言，幽賾<ptr rend="display:none;" type="glossary" target="#g331"/>真宗，演成章疏。開<persName key="A002799">如<lb
 ed="T" n="0735c07"/>來</persName>之祕藏，示群有之迷津，貫玉聯珠，鉤深<lb
 ed="T" n="0735c08"/>致遠。再三披閱，頗謂精詳。傳之招提<ptr target="#n177"/>，永為<lb

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0236b07shiZhenLi">
+<lb ed="B" n="0236b07"/><anchor n="B.27.0151.0236b07"/><head>明雲南雞足山大覺寺沙門<persName key="A012567">釋真利</persName>傳<persName type="secondary" key="A012886">明鑑</persName></head>
+<lb ed="B" n="0236b08"/><p xml:id="pB27p0236b0801"><persName key="A012567">釋真利</persName>，字<persName key="A012567">和雅</persName>，姓石氏，昆明人。幼棄錦襦，改從僧服。始侍<persName key="A013193">徹明</persName>，
+<lb ed="B" n="0236b09"/>漸通經論。及長，有志參方，遂底金陵，得戒於<persName key="A000352">古心</persName>。研窮儀範，便
+<lb ed="B" n="0236b10"/>識津梁。復受教於<persName key="A004672">三槐</persName>、<persName key="A000349">蘊璞</persName>諸師，神智煥發，辯如泉湧。所至名
+<lb ed="B" n="0236b11"/>山，屢主講席，聿開法會，得律徒數千人。<persName key="A042858">楚</persName>、<persName key="A043573">岷王</persName>奉以為師。及還
+<lb ed="B" n="0236b12"/>滇，駐錫雞足，更剏律堂。滇之法戒，弘於<persName key="A012567">真利</persName>。壽八十餘，無疾坐
+<lb ed="B" n="0236b13"/>化。有《陶公寄懷詩》云：「吳楚煙波幾萬重，金鱗掉尾許誰同；歸來
+<lb ed="B" n="0236b14"/>罷鈞雞山窟，高唱漁歌捲碧筒。」又<persName key="A012886">明鑑無臺</persName>，大理李氏子。年十
+<lb ed="B" n="0236b15"/>八，禮聖峯寺<persName key="A012001">白齋</persName>出家。後隱波羅崖，草衣木食，戒行冰清，七日
+<lb ed="B" n="0236b16"/>忘餐，亦無饑色。復事游參，究明宗旨。<persName key="A009373">李中溪</persName>贈詩云：「貝葉翻三
+<lb ed="B" n="0236b17"/>藏，曇花作一鐙。」又云：「袖雲一旦別，羅月幾時圓。」<date when-iso="+1587-10-10" key="j23009822300982">萬歷十五年九
+<lb ed="B" n="0236b18"/>月九日</date>，沐浴端坐，誦《準提咒》而逝。荼毘之日，室有異香。</p>
+    <linkGrp>
+        <link targets="#0236b08 #0236b09"/>
+        <ptr target="#A012567" type="person"/>
+        <ptr target="#A013193" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0236b09 #0236b09"/>
+        <ptr target="#A012567" type="person"/>
+        <ptr target="#A000352" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0236b10 #0236b10"/>
+        <ptr target="#A012567" type="person"/>
+        <ptr target="#A004672" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0236b10 #0236b10"/>
+        <ptr target="#A012567" type="person"/>
+        <ptr target="#A000349" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0236b11 #0236b12"/>
+        <ptr target="#A012567" type="person"/>
+        <ptr target="#A042858" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0236b11 #0236b12"/>
+        <ptr target="#A012567" type="person"/>
+        <ptr target="#A043573" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0236b14 #0236b15"/>
+        <ptr target="#A012886" type="person"/>
+        <ptr target="#A012001" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0236b16 #0236b17"/>
+        <ptr target="#A012886" type="person"/>
+        <ptr target="#A009373" type="person"/>
+    </linkGrp>
+</div>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0233b02shiYongHai">
+<lb ed="B" n="0233b02"/><anchor n="B.27.0151.0233b02"/><head>明燕都古愍忠寺沙門<persName key="A000284">釋永海</persName>傳</head>
+<lb ed="B" n="0233b03"/><p xml:id="pB27p0233b0301"><persName key="A000284">釋永海</persName>，字<persName key="A000284">大會</persName>，丹徒人也。生有異稟，不慕世榮，壯志益邈，雅超
+<lb ed="B" n="0233b04"/>塵想，因於郡平等寺落髮披緇。時<persName key="A000352">慧雲</persName>精求毘尼，躡屩清涼，契
+<lb ed="B" n="0233b05"/>念<persName key="A002144">文殊</persName>，中興律法。<persName key="A000284">海</persName>竊慕之，遂從受具。既納戒已，專務律學，唯
+<lb ed="B" n="0233b06"/>崇本相，德範深湻，道俗欽仰。迺接芳躅，步禮五臺，誓心見佛。誠
+<lb ed="B" n="0233b07"/>意默通，終契靈秘。<date notBefore-iso="+1573-02-12" key="j22956292299967" notAfter-iso="+1584-12-29">明萬曆初</date>，<persName key="A000284">海</persName>自五臺赴京。<persName key="A007207">慈聖太后</persName>素崇佛
+<lb ed="B" n="0233b08"/>法，夜<g ref="#CB03231">㝱</g>神人告曰：「<persName key="A008721">鳥巢</persName><!-- 窠 -->禪師從五臺山來也。」明旦，遣內監訪之，
+<lb ed="B" n="0233b09"/>果得<persName key="A000284">海</persName>，如神所詔。因請卓錫愍忠寺。<ref type="person" target="#A003693">帝</ref>聞，賜紫，充講經大德。先
+<lb ed="B" n="0233b10"/>是，僧<persName key="A043563">相瑢</persName>於<date notBefore-iso="+1436-01-27" key="j22455742250683" notAfter-iso="+1450-01-22">正統間</date>重修斯寺，已奉勅改額「崇福」。至是，欲復「愍
+<lb ed="B" n="0233b11"/>忠」舊稱，別衍法派。然<persName key="A043563">相瑢</persName>再傳弟子<persName key="A043564">明玉</persName>，方修葺院宇，延接名
+<lb ed="B" n="0233b12"/>流，碩德耆年，眾望所歸。<persName key="A000284">海</persName>既欽其道範，深相契合。而<persName key="A043564"><anchor xml:id="beg023301"/><choice><sic resp="CBETA">王</sic><corr resp="PC-MB">玉</corr></choice><anchor xml:id="end023301"/></persName>之仰<persName key="A000284">海</persName>
+<lb ed="B" n="0233b13"/>高風，如景星慶雲，傾慕無已。况以宮闈之符兆，帝廷之寵錫乎！
+<lb ed="B" n="0233b14"/>於是兩派分傳，萃之一寺。然崇福自<persName key="A043564">玉</persName>後不再振，<persName key="A000284">海</persName>則闡化既
+<lb ed="B" n="0233b15"/>久，綿演尤眾，卒復舊號，遂為古愍忠一代祖云。世壽、僧臘均不
+<lb ed="B" n="0233b16"/>得詳，唯荼毘靈塔，年號猶存。蓋示寂於<date from-iso="+1628-02-05" key="j23157102316063" to-iso="+1629-01-23">崇禎初元</date>。而萬曆至崇
+<lb ed="B" n="0233b17"/>禎，已五十餘載，其春秋亦高矣！所著《五百問戒經釋》盛行於世。</p>
+    <linkGrp>
+        <link targets="#0233b04 #0233b05"/>
+        <ptr target="#A000284" type="person"/>
+        <ptr target="#A000352" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0233b07 #0233b09"/>
+        <ptr target="#A000284" type="person"/>
+        <ptr target="#A007207" type="person"/>
+        <ptr target="#A003693" type="person"/>
+        <ptr target="#j22956292299967" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0233b11 #0233b13"/>
+        <ptr target="#A000284" type="person"/>
+        <ptr target="#A043564" type="person"/>
+    </linkGrp>
+</div>

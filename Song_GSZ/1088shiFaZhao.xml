@@ -23,7 +23,7 @@ ed="T" n="0844a27"/>日晚於道場外遇一老人，告<persName key="A009238">
 ed="T" n="0844a28"/>願往金色世界，奉覲大聖，今何不去？」<ptr target="#n2700"/><persName key="A009238">照</persName>怪<lb
 ed="T" n="0844a29"/>而答曰：「時難路艱，何可往也？」老人言：「但亟去，<pb ed="T" n="0844b" xml:id="T50.2061.0844b"/><lb
 ed="T" n="0844b01"/>道路固無留難。」言訖不見。<persName key="A009238">照</persName>驚入道場，重<lb
-ed="T" n="0844b02"/>發誠願：「夏滿約往前，任是火聚氷何，終無退<lb
+ed="T" n="0844b02"/>發誠願：「夏滿約往前，任是火聚氷<anchor xml:id="beg0844sgsz2"/><choice resp="PC-JK-MB"><sic>何</sic><corr>河</corr></choice><anchor xml:id="end0844sgsz2"/>，終無退<lb
 ed="T" n="0844b03"/>衂<ptr type="glossary" target="#g1780"/>。」至<date key="j20021952002195" when-iso="+0769-09-21">八月十三日</date>，於<placeName key="PL000000028928">南嶽</placeName>與同志數人惠<lb
 ed="T" n="0844b04"/>然肯來<ptr type="glossary" target="#g389"/>，果無沮礙，則<date key="j20024242002424" when-iso="+0770-05-08">五年四月五日</date>到<placeName key="PL000000005439">五臺<lb
 ed="T" n="0844b05"/>縣</placeName>，遙見<placeName key="PL000000005371">佛光寺</placeName>南數道白光<ptr target="#n625"/>。<date key="j20024252002425" when-iso="+0770-05-09">六日</date>到<placeName key="PL000000005371">佛光<lb
@@ -148,12 +148,9 @@ ed="T" n="0845b08"/>聖人。」</p>
         <ptr target="#PL000000005371" type="place"/>
         <ptr target="#j20024252002425" type="time"/>
     </linkGrp>
-    <linkGrp>
+    <linkGrp cert="low">
         <link targets="#0844b05 #0844c15"/>
         <ptr target="#A009238" type="person"/>
-        <ptr target="#A012806" type="person"/>
-        <ptr target="#A012807" type="person"/>
-        <ptr target="#A002144" type="person"/>
         <ptr target="#A003079" type="person"/>
         <ptr target="#PL000000005250" type="place"/>
         <ptr target="#j20024252002425" type="time"/>
@@ -168,8 +165,6 @@ ed="T" n="0845b08"/>聖人。」</p>
         <link targets="#0844c16 #0844c20"/>
         <ptr target="#A009238" type="person"/>
         <ptr target="#A000438" type="person"/>
-        <ptr target="#A002144" type="person"/>
-        <ptr target="#A003079" type="person"/>
         <ptr target="#PL000000005328" type="place"/>
         <ptr target="#j20024322002432" type="time"/>
     </linkGrp>
@@ -230,7 +225,6 @@ ed="T" n="0845b08"/>聖人。」</p>
     <linkGrp>
         <link targets="#0845a17 #0845a22"/>
         <ptr target="#A009238" type="person"/>
-        <ptr target="#A002144" type="person"/>
         <ptr target="#A011058" type="person"/>
         <ptr target="#A011059" type="person"/>
         <ptr target="#A011060" type="person"/>

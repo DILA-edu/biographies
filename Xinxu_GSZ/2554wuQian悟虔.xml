@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="淨讀" xml:id="gsz0349b02shiWuQian">
+<lb ed="B" n="0349b02"/><anchor n="B.27.0151.0349b02"/><head>清雲間西禪寺沙門<persName key="A042437">釋悟虔</persName>傳</head>
+<lb ed="B" n="0349b03"/><p xml:id="pB27p0349b0301"><persName key="A042437">釋悟虔</persName>，字<persName key="A042437">投誠</persName>，一字<persName key="A042437">素愚</persName>，鉛山人也。初來雲間，掩關西禪寺，禮
+<lb ed="B" n="0349b04"/>《華嚴》三年。舊有萬佛殿、藏經閣，歲久荒殘，金碧剝落，慨然閔之，
+<lb ed="B" n="0349b05"/>矢志募修。檀樾樂助，不日更新。性慷慨，好義勇為，急人之急。嘗
+<lb ed="B" n="0349b06"/>醵金葬<persName>施牧堂</persName>居士一家數喪。又<persName key="A043495">李<roleName>居士</roleName>衡堂</persName>家貧，常分衣缽
+<lb ed="B" n="0349b07"/>之資助之；沒復為購棺以葬。<persName key="A042437">虔</persName>通徹宗乘，而專志淨土。雖興崇
+<lb ed="B" n="0349b08"/>利益，不廢應接。而六時繫念，無少間缺。晚移北門善應庵，益勤
+<lb ed="B" n="0349b09"/>修念。<date from-iso="+1818-02-05" key="j23851062385460" to-iso="+1819-01-25">嘉慶二十三年</date>臨化，先數日，遍辤道友，若將<g ref="#CB12594">䛡</g>別。至期，從
+<lb ed="B" n="0349b10"/>容而逝，丈室闇闇，瓶缽蕭然。送者數十百人，莫不讚歎，禮拜而
+<lb ed="B" n="0349b11"/>去。</p>
+    <linkGrp>
+        <link targets="#0349b06 #0349b07"/>
+        <ptr target="#A042437" type="person"/>
+        <ptr target="#A043495" type="person"/>
+    </linkGrp>
+</div>

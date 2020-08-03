@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="淨讀" xml:id="gsz0351a20shiLuJing">
+<lb ed="B" n="0351a20"/><anchor n="B.27.0151.0351a20"/><head>清杭州東園德寧庵沙門<persName key="A042436">釋律淨</persName>傳<persName type="secondary" key="A043503">戒乘</persName></head>
+<lb ed="B" n="0351b01"/><p xml:id="pB27p0351b0101"><persName key="A042436">釋律淨</persName>，字<persName key="A042436">明徹</persName>，姓錢氏，德清人也。<ref type="date" target="#j23701352370488">年四十</ref>始出家，初投餘杭慈
+<lb ed="B" n="0351b02"/>聖，復移束<!-- 東？ -->園德寧，虔誦《法華》，日以為常，二十餘年，靡有間缺。一
+<lb ed="B" n="0351b03"/>日道侶<persName key="A043503">戒乘</persName>謂之曰：「<ref type="person" target="#A042436">汝</ref>道心如此堅固，若更以念佛，回向淨土，
+<lb ed="B" n="0351b04"/>則圓成尤速。即如<persName key="A001301">智者大師</persName>得法華三昧，尚求生淨土，<ref type="person" target="#A042436">汝</ref>何不
+<lb ed="B" n="0351b05"/>然？」因示以《高僧傳》及《十疑論》，<persName key="A042436">淨</persName>深信之。由是誦經畢，即念佛回
+<lb ed="B" n="0351b06"/>向淨土。又久之，忽有開悟，生死關念，了然洞徹。<date from-iso="+1806-08-14" key="j23809132380941" to-iso="+1806-09-11">嘉慶丙寅秋初</date>
+<lb ed="B" n="0351b07"/>告其徒曰：「<ref type="person" target="#A042436">吾</ref>中秋前當行矣！」問：「何往？」曰：「西方。」<date when-iso="+1806-09-13" key="j23809432380943">八月二日</date>復謂道
+<lb ed="B" n="0351b08"/>侶<persName key="A043503">戒乘</persName>、<persName key="A043504">增秀</persName>二人曰<!-- 《淨土聖賢錄續編》卷1：「初七日卯時行矣」(CBETA, X78, no. 1550, p. 319, c18) -->：「水到渠成，時至理彰，不可著意求知，亦未
+<lb ed="B" n="0351b09"/>有不知也。」又期二人偕往視之，則已更衣趺坐。時鄰僧多來候
+<lb ed="B" n="0351b10"/>送，欲齊聲諷佛，接引相助。<persName key="A042436">淨</persName>止之曰：「用功全在平日，臨渴掘井
+<lb ed="B" n="0351b11"/>何益？<ref type="person" target="#A042436">吾</ref>非<anchor xml:id="beg_178" type="cb-app"/>卻<anchor xml:id="end_178"/>此緣助，要使諸君不疑耳！」乃更移坐龕中，說偈曰：
+<lb ed="B" n="0351b12"/>「<ref type="person" target="#A042436">吾</ref>年六十九，真實不虛口；放下者雙手，直往西方走。」遂合掌化
+<lb ed="B" n="0351b13"/>去。</p>
+    <linkGrp>
+        <link targets="#0351b03 #0351b05"/>
+        <ptr target="#A042436" type="person"/>
+        <ptr target="#A043503" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0351b07 #0351b09"/>
+        <ptr target="#A042436" type="person"/>
+        <ptr target="#A043503" type="person"/>
+        <ptr target="#A043504" type="person"/>
+        <ptr target="#j23809432380943" type="time"/>
+    </linkGrp>
+</div>

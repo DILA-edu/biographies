@@ -1,43 +1,52 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" type="雜科聲德" xml:id="gsz0894c23shiHaoZhi"><lb
-n="0894c23" ed="T"/><anchor n="T.50.2061.0894c23"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>上都大安國寺<persName key="A008821">好直</persName>傳</head><p><lb
-ed="T" n="0894c24"/><persName key="A008821">釋好直</persName>，俗姓丁氏，會稽<placeName key="PL000000013376">諸暨</placeName>人也。幼不喜<lb
-ed="T" n="0894c25"/>俗事，酒肉葷茹，天然不食。因投<placeName key="PL000000013360">杭塢山</placeName><persName key="A009653">藏師</persName><lb
-ed="T" n="0894c26"/>落髮。<date key="j20154742016757" notAfter-iso="+0809-08-04" notBefore-iso="+0806-01-29"><name>元和</name>初</date>受具於杭之<placeName key="PLG00000000023">天竺寺</placeName>。凡百經律<lb
-ed="T" n="0894c27"/>論疏鈔，嗜其腴潤。一旦芒屩策杖，詣<placeName key="PL000000018628">洪州</placeName><lb
-ed="T" n="0894c28"/>禪門，洞達心要，虛往實歸<ptr type="glossary" target="#g1372"/>。却於本郡大慶<lb
-ed="T" n="0894c29"/>寺<!--找不到此地-->，求益者提訓，凡二十餘載，為<placeName key="PL000000000197">江左</placeName>名僧。<pb ed="T" n="0895a" xml:id="T50.2061.0895a"/><lb
-ed="T" n="0895a01"/>見儒士能青眼<ptr target="#n2086"/>，故名輩多與之遊，往往戲<lb
-ed="T" n="0895a02"/>為詩句，辭皆錯愕。凡從事廉問護戎於<placeName key="PL000000013239">越</placeName>，<lb
-ed="T" n="0895a03"/>入境籍聲實而造其戶，不獨能誘，亦善與<lb
-ed="T" n="0895a04"/>人交者。<date key="j20231922026427" notAfter-iso="+0836-01-25" notBefore-iso="+0827-03-18"><name>大和</name>中</date>遊<placeName key="PL000000005250">五臺</placeName>，路出<placeName key="PL000000042189">京邑</placeName>，一夕而<lb
-ed="T" n="0895a05"/>去。前護戎<persName key="A013923">郄志榮</persName>、<persName key="A013924">宋常春</persName>二內侍尤味其道，<lb
-ed="T" n="0895a06"/>孜孜遠招。<date key="j20264282026797" notAfter-iso="+0837-01-29" notBefore-iso="+0836-01-26"><name>開成</name>初</date>再至<placeName key="PL000000042189">京國</placeName>，二貴人同力唱<lb
-ed="T" n="0895a07"/>和，牽裓虐留，致<placeName key="PL000000042147">安國寺</placeName>大方丈以居之。<placeName key="PL000000042189">王<lb
-ed="T" n="0895a08"/>畿</placeName>龍象，莫不欽重。無何<ptr rend="display:none;" type="glossary" target="#g493"/>召入為供奉大德，<lb
-ed="T" n="0895a09"/>非所好也，徇俗受之。然歸歟之<anchor xml:id="beg0895sgsz1"/>歎<anchor xml:id="end0895sgsz1"/>，未甞少<lb
-ed="T" n="0895a10"/>棄。<date key="j20245332024533" when-iso="+0830-11-18">四年十月二十五日</date>囑累弟子訖，奄然而<lb
-ed="T" n="0895a11"/>寂，春秋五十六，夏三十二。<persName key="A013923">郄</persName>、<persName key="A013924">宋</persName>二家率財權<lb
-ed="T" n="0895a12"/>瘞于<g ref="#Z1258"/>水，東人皆悲之，門人<persName key="A027162">鑑諸</persName>後歸葬<lb
-ed="T" n="0895a13"/>于<placeName key="PL000000023253">崇山</placeName>之南，華嚴寺<!--找不到此地-->起塔。<date key="j20293522029735" notAfter-iso="+0845-02-14" notBefore-iso="+0844-01-28">會<anchor xml:id="beg0895sgsz3"/>昌<anchor xml:id="end0895sgsz3"/>四年</date>，起居舍<lb
-ed="T" n="0895a14"/>人<persName key="A013926">韋絢</persName>為碑紀代焉。</p>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="雜科聲德" xml:id="gsz0894c23shiHaoZhi">
+<lb ed="T" n="0894c23"/><anchor n="T.50.2061.0894c23"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000042147">上都大安國寺</placeName><persName key="A008821">好直</persName>傳</head><p>
+<lb ed="T" n="0894c24"/><persName key="A008821">釋好直</persName>，俗姓<name>丁氏</name>，<placeName key="PL000000013376">會稽 諸暨</placeName>人也。幼不喜
+<lb ed="T" n="0894c25"/>俗事，酒肉葷茹，天然不食。因投<placeName key="PL000000013360">杭塢山</placeName><persName key="A009653">藏<roleName>師</roleName></persName>
+<lb ed="T" n="0894c26"/>落髮。<date notBefore-iso="+0806-01-29" key="j20154742016757" notAfter-iso="+0809-08-04"><name>元和</name>初</date>受具於<placeName key="PL000000011519">杭</placeName>之<placeName key="PL000000011596">天竺寺</placeName>。凡百經律
+<lb ed="T" n="0894c27"/>論疏鈔，嗜其腴潤。一旦芒屩<ptr type="glossary" target="#g2421"/>策杖，詣<placeName key="PL000000018628">洪州</placeName>
+<lb ed="T" n="0894c28"/>禪門，洞達心要<ptr target="#n3621"/>，虛往實歸<ptr type="glossary" target="#g1372"/>。却於本郡<placeName key="PL000000013181">大慶
+<lb ed="T" n="0894c29"/>寺</placeName>，求益者提訓，凡二十餘載，為<placeName key="PL000000000197">江左</placeName>名僧。<pb ed="T" n="0895a" xml:id="T50.2061.0895a"/>
+<lb ed="T" n="0895a01"/>見儒士能青眼<ptr target="#n2086"/>，故名輩多與之遊，往往戲
+<lb ed="T" n="0895a02"/>為詩句，辭皆錯愕<ptr type="glossary" target="#g2319"/>。凡從事廉問<ptr type="glossary" target="#g979"/>護戎<ptr type="glossary" target="#g2423"/>於<placeName key="PL000000013239">越</placeName>，
+<lb ed="T" n="0895a03"/>入境籍聲實<!-- 徵集其實 -->而造其戶，不獨能誘，亦善與
+<lb ed="T" n="0895a04"/>人交者。<date notBefore-iso="+0827-03-18" key="j20231922026427" notAfter-iso="+0836-01-25"><name>大和</name>中</date>遊<placeName key="PL000000005250">五臺</placeName>，路出<ref type="place" target="#PL000000042189">京邑</ref>，一夕而
+<lb ed="T" n="0895a05"/>去。前護戎<persName key="A013923">郄志榮</persName>、<persName key="A013924">宋常春</persName>二內侍尤味其道，
+<lb ed="T" n="0895a06"/>孜孜遠招。<date notBefore-iso="+0836-01-26" key="j20264282026797" notAfter-iso="+0837-01-29"><name>開成</name>初</date>再至<ref type="place" target="#PL000000042189">京國</ref>，二貴人同力唱
+<lb ed="T" n="0895a07"/>和，牽裓虐留<ptr type="glossary" target="#g2422"/>，致<placeName key="PL000000042147">安國寺</placeName>大方丈以居之。<ref type="place" target="#PL000000042189">王
+<lb ed="T" n="0895a08"/>畿</ref>龍象，莫不欽重。無何<ptr rend="display:none;" type="glossary" target="#g493"/>召入為供奉大德，
+<lb ed="T" n="0895a09"/>非所好也，徇俗受之。然歸歟之<anchor xml:id="beg0895sgsz1"/>歎<anchor xml:id="end0895sgsz1"/><ptr target="#n3622"/>，未甞少
+<lb ed="T" n="0895a10"/>棄。<date key="j20278402027840" when-iso="+0839-12-08">四年十月二十五日</date>囑累弟子訖，奄然而
+<lb ed="T" n="0895a11"/>寂，春秋五十六，夏三十二。<persName key="A013923">郄</persName>、<persName key="A013924">宋</persName>二家率財權
+<lb ed="T" n="0895a12"/>瘞于<placeName key="PL000000042033"><anchor xml:id="beg0895sgsz2"/>滻<anchor xml:id="end0895sgsz2"/>水</placeName>東，人皆悲之，門人<persName key="A027162">鑑諸</persName>後歸葬
+<lb ed="T" n="0895a13"/>于<placeName key="PL000000049295">崇山</placeName>之南，<placeName key="PL000000049259">華嚴寺</placeName>起塔。<date from-iso="+0844-01-28" key="j20293522029735" to-iso="+0845-02-14">會<anchor xml:id="beg0895sgsz3"/>昌<anchor xml:id="end0895sgsz3"/>四年</date>，起居舍
+<lb ed="T" n="0895a14"/>人<persName key="A013926">韋絢</persName><ptr target="#n3623"/>為碑紀代焉。</p>
+    <linkGrp>
+        <link targets="#0894c24 #0894c24"/>
+        <ptr target="#A008821" type="person"/>
+        <ptr target="#PL000000013376" type="place"/>
+    </linkGrp>
     <linkGrp>
         <link targets="#0894c25 #0894c26"/>
         <ptr target="#A008821" type="person"/>
         <ptr target="#A009653" type="person"/>
-        <ptr target="#PL000000020082" type="place"/>
+        <ptr target="#PL000000013360" type="place"/>
     </linkGrp>
     <linkGrp>
-        <link targets="#0894c26 #0894c27"/>
+        <link targets="#0894c26 #0894c26"/>
         <ptr target="#A008821" type="person"/>
-        <ptr target="#PLG00000000023" type="place"/>
+        <ptr target="#PL000000011596" type="place"/>
         <ptr target="#j20154742016757" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0894c27 #0894c28"/>
         <ptr target="#A008821" type="person"/>
         <ptr target="#PL000000018628" type="place"/>
-        <ptr target="#j20154742016757" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0894c28 #0894c29"/>
+        <ptr target="#A008821" type="person"/>
+        <ptr target="#PL000000013181" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0895a04 #0895a04"/>
@@ -46,16 +55,12 @@ ed="T" n="0895a14"/>人<persName key="A013926">韋絢</persName>為碑紀代焉�
         <ptr target="#j20231922026427" type="time"/>
     </linkGrp>
     <linkGrp>
-        <link targets="#0895a04 #0895a05"/>
-        <ptr target="#A008821" type="person"/>
-        <ptr target="#PL000000042189" type="place"/>
-        <ptr target="#j20231922026427" type="time"/>
-    </linkGrp>
-    <linkGrp>
-        <link targets="#0895a05 #0895a05"/>
+        <link targets="#0895a04 #0895a06"/>
         <ptr target="#A008821" type="person"/>
         <ptr target="#A013923" type="person"/>
         <ptr target="#A013924" type="person"/>
+        <ptr target="#PL000000042189" type="place"/>
+        <ptr target="#j20231922026427" type="time"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0895a06 #0895a07"/>
@@ -70,5 +75,27 @@ ed="T" n="0895a14"/>人<persName key="A013926">韋絢</persName>為碑紀代焉�
         <ptr target="#A008821" type="person"/>
         <ptr target="#PL000000042147" type="place"/>
         <ptr target="#j20264282026797" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0895a08 #0895a09"/>
+        <ptr target="#A008821" type="person"/>
+        <ptr target="#A004169" type="person"/>
+        <ptr target="#PL000000042189" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0895a10 #0895a11"/>
+        <ptr target="#A008821" type="person"/>
+        <ptr target="#PL000000042147" type="place"/>
+        <ptr target="#j20278402027840" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0895a12 #0895a13"/>
+        <ptr target="#A027162" type="person"/>
+        <ptr target="#PL000000049259" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0895a13 #0895a14"/>
+        <ptr target="#A013926" type="person"/>
+        <ptr target="#j20293522029735" type="time"/>
     </linkGrp>
 </div>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="義解" xml:id="gsz0741a25shiDuanFu"><lb
-ed="T" n="0741a25"/><anchor n="T.50.2061.0741a25"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000042147"><placeName>京師</placeName><placeName>大安國寺</placeName></placeName><persName key="A009664">端甫</persName>傳<ptr rend="display:none;" target="#n920"/></head><p><lb
+ed="T" n="0741a25"/><anchor n="T.50.2061.0741a25"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000042147">京師<placeName>大安國寺</placeName></placeName><persName key="A009664">端甫</persName>傳<ptr rend="display:none;" target="#n920"/></head><p><lb
 ed="T" n="0741a26"/><persName key="A009664">釋端甫</persName>，俗姓<name>趙氏</name>，<placeName key="PL000000044976">天水</placeName>人也。世為<placeName key="PL000000044976">秦</placeName>著姓<lb
 ed="T" n="0741a27"/>焉。初，母<persName key="A022136">張<roleName>夫人</roleName></persName>夢<name>梵</name>僧謂曰：「當生貴子。」即<lb
 ed="T" n="0741a28"/>出囊中舍利使吞之。及誕，所夢僧白晝入<lb
@@ -15,7 +15,7 @@ ed="T" n="0741b07"/>槃經》於<placeName key="PL000000042127">福林寺</place
 ed="T" n="0741b08"/>滿瑠璃器，使吞之，且曰：「三藏大教，盡貯<ref type="person" target="#A009664">汝</ref><lb
 ed="T" n="0741b09"/>腹矣。」自是經、律、論無敵於當時，囊括川注，<lb
 ed="T" n="0741b10"/>逢源會委<ptr type="glossary" target="#g910"/>，滔滔然莫能濟其畔岸矣。夫將<lb
-ed="T" n="0741b11"/>欲伐株<anchor xml:id="beg0741sgsz1"/>杌<anchor xml:id="end0741sgsz1"/>於情田，雨甘露<ptr type="glossary" target="#g1446"/>於法種者，固必<lb
+ed="T" n="0741b11"/>欲伐株<anchor xml:id="beg0741sgsz1"/>杌<anchor xml:id="end0741sgsz1"/>於情田，雨甘露<ptr type="glossary" target="#g1466"/>於法種者，固必<lb
 ed="T" n="0741b12"/>有勇智宏辯歟？無何<ptr rend="display:none;" type="glossary" target="#g493"/>，謁<persName key="A002144">文殊</persName>於<placeName key="PL000000005250">清涼</placeName>，眾聖<lb
 ed="T" n="0741b13"/>皆現；演大經於<placeName key="PL000000003794">太原</placeName>，傾都畢會。<persName key="A004215">德宗皇帝</persName>聞<lb
 ed="T" n="0741b14"/>其名，徵之，一見大悅，常出入禁中，與儒道<lb

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="淨讀" xml:id="gsz0360a13shiQingKu">
+<lb ed="B" n="0360a13"/><anchor n="B.27.0151.0360a13"/><head>清燕都南城觀音院沙門<persName key="A043537">釋清苦</persName>傳<persName type="secondary" key="A043538">乘參</persName><persName type="secondary" key="A043539">恒修</persName></head>
+<lb ed="B" n="0360a14"/><p xml:id="pB27p0360a1401"><persName key="A043537">釋清苦</persName>者，不詳所自出。<date from-iso="+1875-02-06" key="j24059262406279" to-iso="+1876-01-25">光緒初</date>來燕都，止於城南觀音禪院，持
+<lb ed="B" n="0360a15"/>頭院<!-- 陀？ -->行，以清苦自甘，因以名焉！每歲春暖，發腳游山。嘗浮海詹<!-- 至 -->
+<lb ed="B" n="0360a16"/>補陀還，溯江而上踐峨湄，更逾洞庭，南登衡靃，復泛湘流，攬江
+<lb ed="B" n="0360a17"/>南名勝，北旋至五臺，足跡徧國中。獨以臺山，僻處寒荒，道途修
+<lb ed="B" n="0360a18"/>阻，舟楫鮮通。僕僕風塵，或十數里，不得水火。因發悲願，祈修石
+<lb ed="B" n="0360a19"/>路，計驛遠近，設立葊亭，庶游侶拔涉，意煩力憊，得所止息。於是
+<lb ed="B" n="0360a20"/>作為簡冊，敘述懷愫，附以紅牋，隨緣題請。苟書名數<!-- 姓名，名籍 -->，則揭牋拜<pb ed="B" xml:id="B27.0151.0360b" n="0360b"/>
+<lb ed="B" n="0360b01"/>領，對之焚化。或予以貲<!-- 資 -->，反辤不受。謂事非偶然，功難立竟，但有
+<lb ed="B" n="0360b02"/>移山之心，本無<anchor xml:id="beg_183" type="cb-app"/>斂<anchor xml:id="end_183"/>金之意。若勝因不爽，福果熟成，則浮屠湧見，
+<lb ed="B" n="0360b03"/>寶藏無盡，不問假手之人，同為畢願之日，何事計較銖兩，混我
+<lb ed="B" n="0360b04"/>戒行。識者高之，以為非凡僧也。晚歲乃於道旁樹下自覆一葊，
+<lb ed="B" n="0360b05"/>蕭然塊處。有來者，取缽中食，分而飯之。我無求飽，人不獨饑，斯
+<lb ed="B" n="0360b06"/>為兩得，即是兩忘。恩怨報施，皆不足言。桂陽<persName key="A043428">夏<roleName>內史</roleName>壽田</persName>少時
+<lb ed="B" n="0360b07"/>侍其父，中丞公官部曹，得見<persName key="A043537">清苦</persName>，飫聞先訓，悉其行誼。及入詞
+<lb ed="B" n="0360b08"/>館掌內監，頗復訪之，不知所終。因作《獨樹庵飯僧歌》以寄意焉！
+<lb ed="B" n="0360b09"/>歌曰：「獨樹庵中獨住僧，獨行獨坐百無能；長披一世無溫衲，靜
+<lb ed="B" n="0360b10"/>對千生不滅鐙；平生擔破殘經裹，是處名山乞香火；偶得團瓢
+<lb ed="B" n="0360b11"/>勝普陀，京城人海安心坐；鳥至惟棲雨後枝，人來不捨霜前果；
+<lb ed="B" n="0360b12"/>貧齋祇辦一人餐，也似叢林任挂單；自甘半食長饑慣，未覺千
+<lb ed="B" n="0360b13"/>僧供養難；有人布施向禪林，唯乞將心奉世尊；長見定時雙履
+<lb ed="B" n="0360b14"/>在，曾無化後一衣存；當時手種階前樹，樹長陰成僧已去；老樹
+<lb ed="B" n="0360b15"/>空庵四十年，獨憶孤僧飯僧處。」後有<persName key="A043538">乘參</persName>者，住北臺峯頂。取茅
+<lb ed="B" n="0360b16"/>為篷，額曰「廣濟」，蓋以便過客憇游，侶意良殷也。與<persName key="A043539">恒修</persName>相友善，
+<lb ed="B" n="0360b17"/>同抱淨願，期偕安養。<persName key="A043538">參</persName>臨化時，招<persName key="A043539">修</persName>至，情話亹<g ref="#CB33434">󸊚</g>，中夜達旦，握
+<lb ed="B" n="0360b18"/>手而瞑。未幾<persName key="A043539">修</persName>亦坐脫。</p>
+    <linkGrp>
+        <link targets="#0360b06 #0360b07"/>
+        <ptr target="#A043537" type="person"/>
+        <ptr target="#A043428" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0360b15 #0360b18"/>
+        <ptr target="#A043538" type="person"/>
+        <ptr target="#A043539" type="person"/>
+    </linkGrp>
+</div>

@@ -834,8 +834,8 @@ def readApps(tei):
     #s += '。' + n.get('ana')
     s += '。'
     
-    if ana != 'appType0':
-      s += re.sub('^appType(.*)$', r'〔\1〕', ana)
+    #if ana != 'appType0':
+    #  s += re.sub('^appType(.*)$', r'〔\1〕', ana)
 
     r[appId]=s
     if s not in appsContent: 

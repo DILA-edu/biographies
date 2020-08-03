@@ -50,6 +50,12 @@
       <xi:include href="J38nB422_LinWo林我.xml"/>
       <xi:include href="J39nB457_BenZhen本真.xml"/>
       <xi:include href="XiaoXian.xml"/>
+      <xi:include href="XuanZongXi.xml"/><!-- 宣宗系 -->
+      <xi:include href="ZaiChun.xml"/><!-- 載淳 -->
+      <xi:include href="ZaiTian.xml"/><!-- 載湉 -->
+      <xi:include href="FanZengXiang.xml"/><!-- 樊增祥 -->
+      <xi:include href="PanZuYin.xml"/><!-- 潘祖蔭 -->
+      <xi:include href="QiaoSongNian.xml"/><!-- 喬松年 -->
     </body>
   </text>
 </TEI>

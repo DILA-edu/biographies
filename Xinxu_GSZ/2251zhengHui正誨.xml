@@ -1,28 +1,49 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪">
-
-<lb ed="B" n=""/><anchor n="B.27.0151"/>
-                    <head>明荊南普仰寺沙門釋正誨傳<persName type="secondary">了凡旹</persName>
-                    </head>
-                <p xml:id="pB27p0183a0401">釋正誨字無跡初祝髮時名永燈姓劉氏當陽人也母李氏幼
-<lb ed="B" n="0183a05"/>從外祖之宜都十歲捨入石寶山有塾師館於寺與眾課讀多
-<lb ed="B" n="0183a06"/>解文義以未了梵呪為憾年十六西遊憩聖水寺見習瑜伽者
-<lb ed="B" n="0183a07"/>喟然歎曰法固如是耶去之復歸石寶讀書益力年二十見僧
-<lb ed="B" n="0183a08"/>持緇門警訓者誦之泣下作偈曰善財與我原同性不證菩提
-<lb ed="B" n="0183a09"/>誓不休遂詣荊南訪天柱於普仰寺柱器之為更名正誨留居
-<lb ed="B" n="0183a10"/>三年遍閱大藏柱寂乃遊伏牛尋其遺跡因之兩都重登講席
-<lb ed="B" n="0183a11"/>慈聖太后聞其清譽賜以千金修葺玉泉復請三藏存之寺中
-<lb ed="B" n="0183a12"/>初當陽舊有度門寺荒廢已久人多不知誨在普仰時天柱曾
-<lb ed="B" n="0183a13"/>口授北宗五十六字云在度門秀國師碑後誨自都歸便訪度
-<lb ed="B" n="0183a14"/>門去玉泉七里見古寺破落有石黝然曰大通秀國師之碑在
-<lb ed="B" n="0183a15"/>榛莽中撫之悽然集工修治因於塔前興復度門寺曰吾將老
-<lb ed="B" n="0183a16"/>此為北宗之裔自是養晦此中專志淨土崇禎元年正月先期
-<lb ed="B" n="0183a17"/>告逝端坐說偈曰人間去住是尋常處處名山古道場一念不
-<lb ed="B" n="0183a18"/>生三世佛誰能直下可承當有僧問曰究竟若何誨以手撫案
-<lb ed="B" n="0183a19"/>曰究竟到彼岸遂寂塔於楞伽峰麓秀國師之傍尋陵王憲使
-<lb ed="B" n="0183a20"/>維章為之記誨所著有識略莊子注及詩文諸稿弟子了凡當
-<pb ed="B" xml:id="B27.0151.0183b" n="0183b"/>
-<lb ed="B" n="0183b01"/>陽靳氏子總角時依報恩寺廣通出家長習經論策杖南詢遇
-<lb ed="B" n="0183b02"/>誨機教相叩言中見諦付與大法更名乘旹遂續北宗正派著
-<lb ed="B" n="0183b03"/>有楞嚴講錄傳世</p>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0183a03shiZhengHui">
+<lb ed="B" n="0183a03"/><anchor n="B.27.0151.0183a03"/><head>明荊南普仰寺沙門<persName key="A000274">釋正誨</persName>傳<persName type="secondary" key="A000893">了凡旹</persName></head>
+<lb ed="B" n="0183a04"/><p xml:id="pB27p0183a0401"><persName key="A000274">釋正誨</persName>，字<persName key="A000274">無跡</persName>，初祝髮時名<persName key="A000274">永燈</persName>，姓劉氏，當陽人也。母<persName key="A043552">李氏</persName>，幼
+<lb ed="B" n="0183a05"/>從外祖之宜都。十歲捨入石寶山，有塾師館於寺，與眾課讀。多
+<lb ed="B" n="0183a06"/>解文義，以未了梵呪為憾。年十六西遊，憩聖水寺，見習瑜伽者，
+<lb ed="B" n="0183a07"/>喟然歎曰：「法固如是耶！」去之。復歸石寶，讀書益力。年二十，見僧
+<lb ed="B" n="0183a08"/>持《緇門警訓》者，誦之泣下，作偈曰：「<persName key="A007249">善財</persName>與我原同性，不證菩提
+<lb ed="B" n="0183a09"/>誓不休。」遂詣荊南，訪<persName key="A042286">天柱</persName>於普仰寺。<persName key="A042286">柱</persName>器之，為更名<persName key="A000274">正誨</persName>。留居
+<lb ed="B" n="0183a10"/>三年，遍閱大藏。<persName key="A042286">柱</persName>寂，乃遊伏牛，尋其遺跡。因之兩都，重登講席。
+<lb ed="B" n="0183a11"/><persName key="A007207">慈聖太后</persName>聞其清譽，賜以千金，修葺玉泉。復請三藏，存之寺中。
+<lb ed="B" n="0183a12"/>初當陽舊有度門寺，荒廢已久，人多不知。<persName key="A000274">誨</persName>在普仰時，<persName key="A042286">天柱</persName>曾
+<lb ed="B" n="0183a13"/>口授北宗五十六字<!-- 《玉泉寺志．卷2．無跡法師》：「按北宗五十六字：弘神普一修無學念持三昧不思議湛然瑩徹佛子燈耀見靈源同杲日彌滿正乘法界廣徧知性相圓覺玅禪師權實淨光明行願力深心自遠。此字及抵界各目載之張說碑陰，皆燬裂不全，悲夫！」(《中國佛寺史志彙刊》，第3輯，第17冊，頁0202) -->，云在度門<persName key="A009582">秀<roleName>國師</roleName></persName>碑後。<persName key="A000274">誨</persName>自都歸，便訪度
+<lb ed="B" n="0183a14"/>門。去玉泉七里，見古寺破落，有石黝然，曰：「<persName key="A009582">大通秀<roleName>國師</roleName></persName>之碑在
+<lb ed="B" n="0183a15"/>榛莽中。」撫之悽然，集工修治，因於塔前興復度門寺，曰：「吾將老
+<lb ed="B" n="0183a16"/>此為北宗之裔。」自是養晦此中，專志淨土。<date from-iso="+1628-02-05" key="j23157102315739" to-iso="+1628-03-05">崇禎元年正月</date>先期
+<lb ed="B" n="0183a17"/>告逝，端坐說偈曰：「人間去住是尋常，處處名山古道場；一念不
+<lb ed="B" n="0183a18"/>生三世佛，誰能直下可承當。」有僧問曰：「究竟若何？」<persName key="A000274">誨</persName>以手撫案
+<lb ed="B" n="0183a19"/>曰：「究竟到彼岸。」遂寂，塔於楞伽峰麓，<persName key="A009582">秀<roleName>國師</roleName></persName>之傍。<anchor xml:id="beg018301"/><choice><sic resp="CBETA">尋</sic><corr resp="PC-MB">彝</corr></choice><anchor xml:id="end018301"/><!-- 《玉泉寺志．卷3．度門寺無跡禪師碑文》：「王維章字貞含，彝陵人，按察」(《中國佛寺史志彙刊》，第3輯，第17冊，頁0342) -->陵<persName key="A043553">王<roleName>憲使</roleName>
+<lb ed="B" n="0183a20"/>維章</persName>為之記。<persName key="A000274">誨</persName>所著有《識略》、《莊子注》<!-- 《玉泉寺志．卷2．無跡法師》：「所著有八識略莊子註及詩文諸稿。」(《中國佛寺史志彙刊》，第3輯，第17冊，頁0202) -->及詩文諸稿。弟子<persName key="A000893">了凡</persName>當<pb ed="B" xml:id="B27.0151.0183b" n="0183b"/>
+<lb ed="B" n="0183b01"/>陽靳氏子。總角時，依報恩寺<persName key="A043554">廣通</persName>出家。長習經論，策杖南詢，遇
+<lb ed="B" n="0183b02"/><persName key="A000274">誨</persName>機教相叩，言中見諦，付與大法，更名<persName key="A000893">乘旹</persName>，遂續北宗正派。著
+<lb ed="B" n="0183b03"/>有《楞嚴講錄》傳世。</p>
+    <linkGrp>
+        <link targets="#0183a04 #0183a04"/>
+        <ptr target="#A000274" type="person"/>
+        <ptr target="#A043552" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0183a09 #0183a10"/>
+        <ptr target="#A000274" type="person"/>
+        <ptr target="#A042286" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0183a11 #0183a11"/>
+        <ptr target="#A000274" type="person"/>
+        <ptr target="#A007207" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0183a20 #0183a20"/>
+        <ptr target="#A000274" type="person"/>
+        <ptr target="#A000893" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0183a20 #0183b01"/>
+        <ptr target="#A000893" type="person"/>
+        <ptr target="#A043554" type="person"/>
+    </linkGrp>
 </div>

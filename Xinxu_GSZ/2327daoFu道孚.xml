@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0231b17shiDaoFu">
+<lb ed="B" n="0231b17"/><anchor n="B.27.0151.0231b17"/><head>明燕都西山戒臺寺沙門<persName key="A008899">釋道孚</persName>傳</head>
+<lb ed="B" n="0231b18"/><p xml:id="pB27p0231b1801"><persName key="A008899">釋道孚</persName>，字<persName key="A008899">知幻</persName>，姓蔣氏，江浦人也。初依金陵靈谷寺，雅慕清絜，
+<lb ed="B" n="0231b19"/>不和情俗。<ref type="date" target="#j22327882233170">年三十</ref>，薙染受具，發願參方。展程之日，即自誓曰：「此
+<lb ed="B" n="0231b20"/>行不踏曹溪路，不敢回頭見故鄉。」卒踐其言。<date notBefore-iso="+1436-01-27" key="j22455742250683" notAfter-iso="+1450-01-22">明正統間</date>，<persName key="A008899">孚</persName>方北<pb ed="B" xml:id="B27.0151.0232a" n="0232a"/>
+<lb ed="B" n="0232a01"/>遊，<persName key="A043574">睿宗</persName><!-- 應為<persName key="A006683">英宗</persName> -->崇尚內典，尤重清修，聞聲嘉賞，有詔賜紫，敕建戒臺。每
+<lb ed="B" n="0232a02"/>歲四月一日至十日，閎敷壇席，<g ref="#CB11532">𣸧</g>契帝心。又以僧眾既多，隆污
+<lb ed="B" n="0232a03"/>莫辨，勅建淨染二門於此山中，以驗涇渭。其篤信者，則受淨戒；
+<lb ed="B" n="0232a04"/>不篤信者，則觸染法。但眾生愚昧，多著染法，因奏毀之，一歸淨
+<lb ed="B" n="0232a05"/>流。<persName key="A008899">孚</persName>儀表雄特，頂題隆起。<ref type="person" target="#A043574">帝</ref>見奇之，稱為<persName key="A008899">鳳頭祖師</persName>。<persName key="A008899">孚</persName>應聲曰：
+<lb ed="B" n="0232a06"/>「亦鵝頭耳，敢附鳳耶！」<ref type="person" target="#A043574">帝</ref>歎其謙德，彌近藹光。嘗召入大內，詳詢
+<lb ed="B" n="0232a07"/>佛法，試以凡情，不動聲色。由是欽崇戒德，益加敬仰，賜號<persName key="A008899">萬壽
+<lb ed="B" n="0232a08"/>祖師</persName>，春秋八十有五，法臘五十有五。寂後建墖茲山，雲封猶在。</p>
+    <linkGrp>
+        <link targets="#0231b20 #0232a01"/>
+        <ptr target="#A008899" type="person"/>
+        <ptr target="#A006683" type="person"/>
+        <ptr target="#j22455742250683" type="time"/>
+    </linkGrp>
+</div>

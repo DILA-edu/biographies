@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0234b06shiYuanQing">
+<lb ed="B" n="0234b06"/><anchor n="B.27.0151.0234b06"/><head>明太原永明寺沙門<persName key="A010240">釋遠清</persName>傳</head>
+<lb ed="B" n="0234b07"/><p xml:id="pB27p0234b0701"><persName key="A010240">釋遠清</persName>，字<persName key="A010240">澄芳</persName>，新安人也。夙具畸姿，雅懷高素，既謝塵俗，徧遊
+<lb ed="B" n="0234b08"/>名勝。初習<persName key="A002450">賢首</persName>，精通教觀。負簦南來，至止越邦。時<persName key="A000352">慧雲</persName>律師方
+<lb ed="B" n="0234b09"/>說戒於武林靈隱，夜<g ref="#CB03231">㝱</g>有人語云：「明日有<persName key="A002144">文殊</persName>化身來乞戒，可
+<lb ed="B" n="0234b10"/>方便為彼授之。」翌旦，<persName key="A010240">清</persName>率眾趨壇，執弟子禮，<persName key="A000352">慧雲</persName>驚異，問所從
+<lb ed="B" n="0234b11"/>來？云：「自北五臺。向雖宏法，尚未近圓，久慕道風，今欲歸依。」<persName key="A000352">慧</persName>欣
+<lb ed="B" n="0234b12"/>然應許，興辭而退。及法期已届，大眾登壇，<persName key="A010240">清</persName>獨未至。<persName key="A000352">慧</persName>復憶前
+<lb ed="B" n="0234b13"/><g ref="#CB03231">㝱</g>，方便攝授。因遣人探詢，<persName key="A010240">清</persName>果有恙，不可以風。<persName key="A000352">慧雲</persName>感彼神語，
+<lb ed="B" n="0234b14"/>不吝慈悲，統眾就之。一時三壇，方便授受。<persName key="A010240">清</persName>既得戒，懷寶而歸，
+<lb ed="B" n="0234b15"/>徑造五臺。精研律部，善達意旨，開遮無礙，尤善屬文。嘗謂：「古有
+<lb ed="B" n="0234b16"/>戒壇，自明以來，歲久封錮。欲興此舉，非叩帝閽<!-- 宮門 -->，其道末由。乃具
+<lb ed="B" n="0234b17"/>文疏，略述梗槩，因內宦奏之。時<persName key="A003693">神宗</persName>御極，雅重佛法，覽疏大悅。
+<lb ed="B" n="0234b18"/>遂奉旨南下，詔<persName key="A000352">慧雲</persName>赴五臺，振茲法雷，弘爾象教。並敕兩街，及
+<lb ed="B" n="0234b19"/>內使御馬監<persName key="A007490">張然</persName>齎衣盋錫杖，賜之說戒三年。勅建聖光永明
+<lb ed="B" n="0234b20"/>寺，更賜紫衣金帛，恩榮重渥，莫與比數。迺值寇盜，戎馬騷動。<persName key="A000352">慧<pb ed="B" xml:id="B27.0151.0235a" n="0235a"/>
+<lb ed="B" n="0235a01"/>雲</persName>講演一期，竟爾南歸。命<persName key="A010240">清</persName>繼席，遂終三載，無違聖諭。法戒大
+<lb ed="B" n="0235a02"/>興，果符神兆。世壽、僧臘均無可攷，唯靈塔一區，長峙五臺。</p>
+    <linkGrp>
+        <link targets="#0234b10 #0234b14"/>
+        <ptr target="#A010240" type="person"/>
+        <ptr target="#A000352" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0234b17 #0235a01"/>
+        <ptr target="#A010240" type="person"/>
+        <ptr target="#A003693" type="person"/>
+        <ptr target="#A007490" type="person"/>
+        <ptr target="#A000352" type="person"/>
+    </linkGrp>
+</div>

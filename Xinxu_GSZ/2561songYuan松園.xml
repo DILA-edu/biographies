@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="淨讀" xml:id="gsz0353a04shiXiaoYou">
+<lb ed="B" n="0353a04"/><anchor n="B.27.0151.0353a04"/><head>清高郵觀音寺沙門<persName key="A043515">釋松園</persName>傳<persName type="secondary" key="A043517">清法</persName></head>
+<lb ed="B" n="0353a05"/><p xml:id="pB27p0353a0501"><persName key="A043515">釋松園</persName>，姓朱氏，高郵人。幼有疾，久不瘳。醫者視之，皆顰蹙無方，
+<lb ed="B" n="0353a06"/>謂已入膏<anchor xml:id="beg_179" type="cb-app"/>肓<anchor xml:id="end_179"/>，不可治，將坐以待斃。一夕夢神人語曰：「<ref type="person" target="#A043515">汝</ref>必出塵，
+<lb ed="B" n="0353a07"/>祈佛庇蔭，病始能愈。」寤而發誓，徧告親友，而疾果痊。乃依師<persName key="A043516">普
+<lb ed="B" n="0353a08"/>潤</persName>出家，受具於八寶觀音寺，後棲於城東蝗王祠。勵志苦行，勤
+<lb ed="B" n="0353a09"/>修淨土，率眾持名，至忘寢食。一日，宵小踰垣入，至禪席傍，傾囊
+<lb ed="B" n="0353a10"/>發篋，搜索一空。<persName key="A043515">松園</persName>方注想華池，若耳無聞，目無見者。侍者至
+<lb ed="B" n="0353a11"/>前，始覺有盜，去已遠矣，其精誠如此。凡對人無他，但云死心念
+<lb ed="B" n="0353a12"/>佛。緇白悉從化導。<date from-iso="+1868-12-14" key="j24036812403710" to-iso="+1869-01-12">同治戊辰仲冬</date>示疾，前數日謂眾曰：「<ref type="person" target="#A043515">吾</ref>將歸
+<lb ed="B" n="0353a13"/>去，汝等無憂戀，助我念佛可也。」即於<date when-iso="+1868-12-21" key="j24036882403688">八日</date>晡時端坐，喃喃誦佛
+<lb ed="B" n="0353a14"/>而化。又比丘尼<persName key="A043517">清法</persName>字<persName key="A043517">寶月</persName>，於昆明永樂庵披剃。自幼精持戒
+<lb ed="B" n="0353a15"/>律，閉關拜《華嚴經》一部，一字一拜。晨昏扣鐘，利濟幽冥，五易寒
+<lb ed="B" n="0353a16"/>暑，中宵不輟。晚歲專修淨土，臨寂誦佛坐化，<date from-iso="+1851-02-01" key="j23971552397538" to-iso="+1852-02-19">咸豐元年</date>也，世壽
+<lb ed="B" n="0353a17"/>七十三。</p>
+    <linkGrp>
+        <link targets="#0353a07 #0353a08"/>
+        <ptr target="#A043515" type="person"/>
+        <ptr target="#A043516" type="person"/>
+    </linkGrp>
+</div>

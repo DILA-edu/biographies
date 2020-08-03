@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="淨讀" xml:id="gsz0346a18shiShiYu">
+<lb ed="B" n="0346a18"/><anchor n="B.27.0151.0346a18"/><head>清杭州孤舟庵沙門<persName key="A011727">釋實裕</persName>傳</head>
+<lb ed="B" n="0346a19"/><p xml:id="pB27p0346a1901"><persName key="A011727">釋實裕</persName>，字<persName key="A011727">谷聲</persName>，廬江人也。年六歲，讀書苦不上口。禱於<persName key="A002803">大士</persName>前，
+<lb ed="B" n="0346a20"/>歸而展卷，若宿習。年十八，怙恃俱失，投師出家。明年，游學湖州<pb ed="B" xml:id="B27.0151.0346b" n="0346b"/>
+<lb ed="B" n="0346b01"/>龍華寺。日中為眾收糧，僕僕塵市；夜則就佛鐙前讀《法華經》，久
+<lb ed="B" n="0346b02"/>之成誦。每下山輒誦一通，還亦如之。嘗與同寮僧偕行，<persName key="A011727">裕</persName>以誦
+<lb ed="B" n="0346b03"/>經故，行稍<anchor xml:id="beg_176" type="cb-app"/>卻<anchor xml:id="end_176"/>。前行僧為虎所銜，<persName key="A011727">裕</persName>徐行且誦，弗知也。已而參龍
+<lb ed="B" n="0346b04"/>華止谷，晝夜策發，身心頓空。又依理安<persName key="A000632">迦陵</persName>，參<persName key="A004475">趙州</persName>「無」字，聞香
+<lb ed="B" n="0346b05"/>版聲，有省。因舉示<persName key="A000632">迦陵</persName>。<persName key="A000632">迦陵</persName>問：「<persName key="A004475">趙州</persName>因甚道箇無？」<persName key="A011727">裕</persName>曰：「一人傳
+<lb ed="B" n="0346b06"/>虛，萬人傳實。」後詣大雄山，參<persName key="A021298">靈鷲深</persName>相契，許付以衣拂。徧游名
+<lb ed="B" n="0346b07"/>山，始還餘杭上皋亭山頂。居人馮氏，為築孤舟庵以棲焉！幽處
+<lb ed="B" n="0346b08"/>深山，息心禪誦，日夕禮《華嚴》，未嘗就枕席者，凡三十六年。當兩
+<lb ed="B" n="0346b09"/>足跪處，深陷寸許，繞室經行處，亦履跡宛然。有馬氏子負米蔬
+<lb ed="B" n="0346b10"/>至山，其徒他出。從門外聞諷誦聲，闚之，<persName key="A011727">裕</persName>方遶佛，朗朗諷已。便
+<lb ed="B" n="0346b11"/>坐，聲息俱無。馬氏子念：「久立，日且暮，不如自外啟扃入。」又為<anchor xml:id="beg034601"/><choice><sic resp="CBETA">浙</sic><corr resp="PC-MB">淅</corr></choice><anchor xml:id="end034601"/>
+<lb ed="B" n="0346b12"/>米，具炊治蔬與<persName key="A011727">裕</persName>飯。飯已，馬氏子去，其徒歸見餘食，問所從來？
+<lb ed="B" n="0346b13"/><persName key="A011727">裕</persName>曰：「適為<ref type="person" target="#A011727">我</ref>治饌者非汝耶？又誰邪？」既而其徒至馬氏家，乃知
+<lb ed="B" n="0346b14"/>昨所供食者，馬氏子也。其徒嘗採菌與<persName key="A011727">裕</persName>共食，中毒嘔逆，<persName key="A011727">裕</persName>竟
+<lb ed="B" n="0346b15"/>無恙。居常見人，未嘗<g ref="#CB12594">䛡</g>寒暄；詢以宗教，無所不貫，尤精《宗鏡錄》。
+<lb ed="B" n="0346b16"/>崇福寺延主方丈，堅<anchor xml:id="beg_177" type="cb-app"/>卻<anchor xml:id="end_177"/>之。年七十六示疾，說偈曰：「生也如是，死
+<lb ed="B" n="0346b17"/>也如是；死生去來，如是如是。」趺坐而寂，當七十。初度遠近集者
+<lb ed="B" n="0346b18"/>數百人，就<persName key="A011727">裕</persName>授五戒者，三十餘人，其善教及物如是。</p>
+    <linkGrp>
+        <link targets="#0346b04 #0346b06"/>
+        <ptr target="#A011727" type="person"/>
+        <ptr target="#A000632" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0346b04 #0346b06"/>
+        <ptr target="#A011727" type="person"/>
+        <ptr target="#A021298" type="person"/>
+    </linkGrp>
+</div>

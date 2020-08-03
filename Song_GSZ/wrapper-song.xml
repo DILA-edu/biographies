@@ -49,7 +49,7 @@
           <ab>
           	<interpGrp>
           		<desc>Not recorded 不出校:</desc>
-          		<interp>1. Semantically equivalent common variant characters 勅/勑, 眾/衆, 黃/黄  are not recorded.  (Authority on what is a variant is the MoE variant character dictionary 教育部異體字字典).　凡教育部《異體字字典》（http://140.111.1.40/main.htm）所認定互為異體字者。如：勅／勑、眾／衆、黃／黄、鐘／鍾。</interp>
+          	<interp>1. Semantically equivalent common variant characters 勅/勑, 眾/衆, 黃/黄  are not recorded.  (Authority on what is a variant is the MoE variant character dictionary 教育部異體字字典).　凡教育部《異體字字典》（http://140.111.1.40/main.htm）所認定互為異體字者。如：勅／勑、眾／衆、黃／黄、鐘／鍾、紏／糾。</interp>
                         <interp xml:id="appType0">2. Characters which are commonly considered different characters, but used as semantic equivalents between the Taisho and the Qisha text:　於古文中屬互為通用（鐘=鍾，華=花，囑=屬，於=于，耶=邪，嘆=歎，謚=諡，羡=羨，歛=斂，俊=雋），或字形雖略有差異但依其文義可視為同一字者（巳=已，𡉏=圮，<g ref="#Z1201"/>=紀）。</interp>
           	</interpGrp>
           	<interpGrp>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0">
+<!-- 中華書局《清史稿．卷二十一．穆宗本紀》1977年初版。 -->
+<lb ed="QSG" n="b004p00769"/><head>穆宗本紀一</head><p><persName key="A006735">穆宗繼天開運受中居正保大定功聖智誠孝信敏恭寬毅皇帝</persName>，諱<persName key="A006735">載淳</persName>，<persName key="A006732">文宗</persName>長子，母<persName key="A023412">孝欽顯皇后那拉氏</persName>，咸豐六年三月二十三日，生於儲秀宮。</p>
+    <linkGrp>
+        <link targets="#00769 #00769"/>
+        <ptr target="#A006735" type="person"/>
+        <ptr target="#A006732" type="person"/>
+        <ptr target="#A023412" type="person"/>
+    </linkGrp>
+</div>

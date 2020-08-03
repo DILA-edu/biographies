@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="淨讀" xml:id="gsz0349a02shiDaChun">
+<lb ed="B" n="0349a02"/><anchor n="B.27.0151.0349a02"/><head>清嘉禾覺海寺沙門<persName key="A042302">釋達純</persName>傳</head>
+<lb ed="B" n="0349a03"/><p xml:id="pB27p0349a0301"><persName key="A042302">釋達純</persName>，字<persName key="A042302">粹修</persName>，晚稱<persName key="A042302">悉檀老人</persName>，嘉禾桐鄉人也。幼而薙染，壯乃
+<lb ed="B" n="0349a04"/>進具，受<persName key="A042301">雪舡</persName>衣拂，為<persName>大覺</persName>七傳弟子。住嘉禾覺海寺，精修淨業，
+<lb ed="B" n="0349a05"/>十有六載。建西方三聖殿，春冬啟念佛期，遠近觀感，緇白雲集。
+<lb ed="B" n="0349a06"/>嘗行般舟三昧，一夕夢中見蓮大如車蓋，從空而降。自此知見
+<lb ed="B" n="0349a07"/>超卓，辯才無礙。姑蘇<persName key="A001188">彭尺木</persName>居士，逖聆道行，請住流水居文星
+<lb ed="B" n="0349a08"/>閣。領眾念佛，日課嚴密，并講演<persName key="A001394">雲棲</persName>《彌陀疏鈔》及天台教觀，以
+<lb ed="B" n="0349a09"/>策事行，歷十載不倦。後開法南禪寺，百廢具興。未幾退居殊勝
+<lb ed="B" n="0349a10"/>庵，專意精修，長懷西土。<date when-iso="+1814-03-04" key="j23836722383672">嘉慶甲戌二月十三日</date>示寂。其弟<persName key="A043492">晤靈</persName>
+<lb ed="B" n="0349a11"/>以事羈南禪，乃於<date from-iso="+1813-10-24" key="j23835412383629" to-iso="+1814-01-20">癸酉冬</date>手書招<ref type="person" target="#A043492">之</ref>歸。歸則曰：「佛涅槃日，<ref type="person" target="#A042302">予</ref>將
+<lb ed="B" n="0349a12"/>西歸，故需<ref type="person" target="#A043492">汝</ref>一訣耳！」至期沐浴更衣，跏趺說偈曰：「多生濁苦纏
+<lb ed="B" n="0349a13"/>綿，一旦逍遙變遷，快覩彌陀影見，廓然別有一天。」遂合掌號佛
+<lb ed="B" n="0349a14"/>而逝。</p>
+    <linkGrp>
+        <link targets="#0349a04 #0349a04"/>
+        <ptr target="#A042302" type="person"/>
+        <ptr target="#A042301" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0349a07 #0349a07"/>
+        <ptr target="#A042302" type="person"/>
+        <ptr target="#A001188" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0349a10 #0349a12"/>
+        <ptr target="#A042302" type="person"/>
+        <ptr target="#A043492" type="person"/>
+        <ptr target="#j23835412383629" type="time"/>
+    </linkGrp>
+</div>

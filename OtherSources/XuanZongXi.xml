@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0">
+<!-- 中華書局《清史稿．卷一百六十五．宣宗系》1977年初版。 -->
+<lb ed="QSG" n="b018p05248"/><head>宣宗系</head><p>……
+<lb ed="QSG" n="b018p05256"/><persName key="A043424">奕訢</persName>，<persName key="A006730">宣宗</persName>第六子。道光三十年，封恭親王。同治十三年，降郡王。尋復親王。光緒二十四年，薨。諡曰忠。以有功社稷，配享太廟。……
+<lb ed="QSG" n="b018p05260"/><persName key="A043387">奕譞</persName>，<persName key="A006730">宣宗</persName>第七子。道光三十年，封醇郡王。同治三年，加親王銜。十一年，晉醇親王。光緒十六年，薨。尊為皇帝本生考。諡曰賢。……
+<lb ed="QSG" n="b018p05261"/><persName key="A043389">奕詥</persName>，<persName key="A006730">宣宗</persName>第八子。道光三十年，封鍾郡王。同治七年，薨。諡曰端。……
+<lb ed="QSG" n="b018p05263"/><persName key="A043388">奕譓</persName>，<persName key="A006730">宣宗</persName>第九子。道光三十年，封孚郡王。同治十一年，加親王銜。光緒三年，薨。諡曰敬。</p>
+    <linkGrp>
+        <link targets="#05256 #05256"/>
+        <ptr target="#A043424" type="person"/>
+        <ptr target="#A006730" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#05260 #05260"/>
+        <ptr target="#A043387" type="person"/>
+        <ptr target="#A006730" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#05261 #05261"/>
+        <ptr target="#A043389" type="person"/>
+        <ptr target="#A006730" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#05263 #05263"/>
+        <ptr target="#A043388" type="person"/>
+        <ptr target="#A006730" type="person"/>
+    </linkGrp>
+</div>

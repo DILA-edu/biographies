@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0794c28shiLingE"><lb
-ed="T" n="0794c28"/><anchor n="T.50.2061.0794c28"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000042229"><placeName>京師</placeName><placeName>崇聖寺</placeName></placeName><persName key="A010823">靈㟧</persName>傳</head><p><lb
+ed="T" n="0794c28"/><anchor n="T.50.2061.0794c28"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000042229">京師<placeName>崇聖寺</placeName></placeName><persName key="A010823">靈㟧</persName>傳</head><p><lb
 ed="T" n="0794c29"/><persName key="A010823">釋靈㟧</persName>者，不知何許人也。勤乎切問<ptr rend="display:none;" type="glossary" target="#g490"/>，靡憚<pb ed="T" n="0795a" xml:id="T50.2061.0795a"/><lb
 ed="T" n="0795a01"/>尋師。<date notBefore-iso="+0666-02-17" key="j19643591965156" notAfter-iso="+0668-04-24"><name>乾封</name>中</date>，於<placeName key="PL000000042216">西明寺</placeName>躬預<persName key="A001519"><persName>南山</persName><persName>宣<roleName>師</roleName></persName></persName>法<lb
 ed="T" n="0795a02"/>席。然其不拘常所，或近<persName key="A002468">文綱</persName>，或親<persName key="A010769">大慈</persName>，皆<lb

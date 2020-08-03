@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="淨讀" xml:id="gsz0349a15shiYanShao">
+<lb ed="B" n="0349a15"/><anchor n="B.27.0151.0349a15"/><head>清江寧靈谷寺沙門<persName key="A042082">釋衍紹</persName>傳</head>
+<lb ed="B" n="0349a16"/><p xml:id="pB27p0349a1601"><persName key="A042082">釋衍紹</persName>，字<persName key="A042082">祇園</persName>，姓佘氏，銅陵人。幼攻帖拈，少為名諸生。省世無
+<lb ed="B" n="0349a17"/>常，誓願祝髮。禮九華天臺山真如庵<persName key="A043493">洪度</persName>得度，受戒歙縣黃山
+<lb ed="B" n="0349a18"/>雲谷寺<persName key="A043494">介庵</persName>。<date from-iso="+1767-11-21" key="j23667682366856" to-iso="+1768-02-17">乾隆二十三年冬</date>，參靈谷<persName key="A027572">玉潛</persName>得法，助理院事十
+<lb ed="B" n="0349a19"/>載，接主祖席。<date from-iso="+1780-02-05" key="j23712272371315" to-iso="+1780-05-03">四十五年春</date>，翠華<!-- 天子車蓋 -->幸寺，恩賞白金，以崇優獎。居靈
+<lb ed="B" n="0349a20"/>谷十九載，率眾勤修。年逾六旬，退休別室，專修淨土，閉關二十<pb ed="B" xml:id="B27.0151.0349b" n="0349b"/>
+<lb ed="B" n="0349b01"/>年。<date when-iso="+1813-03-12" key="j23833152383315">嘉慶癸酉二月十日</date>，無疾而逝，世壽八十有二。有《語錄》、詩草。</p>
+    <linkGrp>
+        <link targets="#0349a17 #0349a17"/>
+        <ptr target="#A042082" type="person"/>
+        <ptr target="#A043493" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0349a17 #0349a18"/>
+        <ptr target="#A042082" type="person"/>
+        <ptr target="#A043494" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0349a18 #0349a18"/>
+        <ptr target="#A042082" type="person"/>
+        <ptr target="#A027572" type="person"/>
+        <ptr target="#j23667682366856" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0349a19 #0349a19"/>
+        <ptr target="#A042082" type="person"/>
+        <ptr target="#A006727" type="person"/>
+        <ptr target="#j23712272371315" type="time"/>
+    </linkGrp>
+</div>

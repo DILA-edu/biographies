@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0231a11shiYuanZhen">
+<lb ed="B" n="0231a11"/><anchor n="B.27.0151.0231a11"/><head>明華亭興聖寺沙門<persName key="A008215">釋原真</persName>傳<persName type="secondary" key="A008276">紹宗</persName></head>
+<lb ed="B" n="0231a12"/><p xml:id="pB27p0231a1201"><persName key="A008215">釋原真</persName>，字<persName key="A008215">用藏</persName>，姓朱氏，上海人也。得度於華亭興聖寺，戒行高
+<lb ed="B" n="0231a13"/>潔。<date from-iso="+1385-02-18" key="j22269702227324" to-iso="+1386-02-07">明洪武十八年</date>微疾，浴已書偈曰：「四十二年，無作無修，有生
+<lb ed="B" n="0231a14"/>有滅，大海一漚，真歸無歸，心空淨遊。」趺坐而寂。<persName key="A008276">紹宗</persName>字<persName key="A008276">一原</persName>，號
+<lb ed="B" n="0231a15"/><persName key="A008276">遂初</persName>，姓陳氏，亦上海人也。<ref type="date" target="#j22141832214537">年十三</ref>，依里中安國寺受具，戒行精
+<lb ed="B" n="0231a16"/>嚴。<date notBefore-iso="+1368-01-31" key="j22207422231852" notAfter-iso="+1398-07-02">明洪武中</date>應召，有事廬山，奏對稱旨，賜金縷僧伽黎，擢右講
+<lb ed="B" n="0231a17"/>經，遷右善世。後端坐而化，敕遣中使致祭，會者數千人。其徒奉
+<lb ed="B" n="0231a18"/>舍利遺骨，塔於安國舊院。</p>
+    <linkGrp>
+        <link targets="#0231a16 #0231a16"/>
+        <ptr target="#A008276" type="person"/>
+        <ptr target="#A003672" type="person"/>
+        <ptr target="#j22207422231852" type="time"/>
+    </linkGrp>
+</div>

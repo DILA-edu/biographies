@@ -229,7 +229,7 @@ ed="T" n="0791b26"/>來莫別有<persName key="A001342">無畏</persName>否？<
         <ptr target="#PL000000004313" type="place"/>
         <ptr target="#j19500921958296" type="time"/>
     </linkGrp>
-    <linkGrp>
+    <linkGrp cert="low">
         <link targets="#0791a10 #0791a17"/>
         <ptr target="#A001519" type="person"/>
         <ptr target="#A004107" type="person"/>

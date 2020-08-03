@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="淨讀" xml:id="gsz0345b04shiXuShou">
+<lb ed="B" n="0345b04"/><anchor n="B.27.0151.0345b04"/><head>清江甯靈谷寺沙門<persName key="A027571">釋緒守</persName>傳</head>
+<lb ed="B" n="0345b05"/><p xml:id="pB27p0345b0501"><persName key="A027571">釋緒守</persName>，初名<persName key="A027571">法守</persName>，字<persName key="A027571">道揆</persName>，號<persName key="A027571">卑牧</persName>，姓凌氏，烏程人。<ref type="date" target="#j23489612349314">年十九</ref>出家
+<lb ed="B" n="0345b06"/>投邑中寶雲寺，受具於餘杭靈隱<persName key="A016537">諦暉</persName>，參淮安誕登<persName key="A027568">侶石清</persName>，復
+<lb ed="B" n="0345b07"/>還寶雲，忘身為道。<date from-iso="+1734-02-04" key="j23544252354778" to-iso="+1735-01-23">雍正甲寅</date>，<persName key="A027568">清</persName>方開法靈谷，憶<persName key="A027571">緒</persName>前侍機契，招
+<lb ed="B" n="0345b08"/>之至，則喟然歎曰：「今之一見，非十年前境界也。」其氣度行藏，殊
+<lb ed="B" n="0345b09"/>足令人敬<anchor xml:id="beg_173" type="cb-app"/>羨<anchor xml:id="end_173"/>，因授之衣拂。<date from-iso="+1736-02-12" key="j23551632355516" to-iso="+1737-01-30">乾隆元年</date>，<persName key="A027568">清</persName>復奉敕主慈濟，<persName key="A027571">緒</persName>遂繼
+<lb ed="B" n="0345b10"/>席靈谷，三十餘年，不入城市，唯事薰修。<date from-iso="+1751-01-27" key="j23606262360714" to-iso="+1751-04-25">辛未春</date>恭迓鑾輅，召對
+<lb ed="B" n="0345b11"/>行座，賜御書「福」字華藏圖，垂詢三絕碑，綸韵溫溫，<persName key="A027571">緒</persName>以實對，並
+<lb ed="B" n="0345b12"/>呈榻本，重泐諸石。<date from-iso="+1757-02-18" key="j23628402362928" to-iso="+1757-05-17">丁丑春</date>翠華<!-- 天子車蓋 -->復幸，寺宇重光，御書「淨土指南」
+<lb ed="B" n="0345b13"/>四字，刻之碑額。<persName key="A027571">緒</persName>復紀以詩云：「來日苦無多，去日良可惜；浮生
+<lb ed="B" n="0345b14"/>六十年，忽忽此一日。飢餐倦即眠，何者為佛力；悟徹去來今，即
+<lb ed="B" n="0345b15"/>是波羅密。兩度覲天顏，幾世能修得；一領破袈裟，香氣御爐襲。
+<lb ed="B" n="0345b16"/>峩峩三賢碑，刦灰幾經歷；一朝煥彩光，恩許重摹勒。勝蹟豈常
+<lb ed="B" n="0345b17"/>湮，禪房留寶墨；淨土指南字，煌煌聖人筆。鳳舞而龍飛，銀鈎兼
+<lb ed="B" n="0345b18"/>鐵畫；長此大光明，不寂亦不滅。」<date from-iso="+1766-08-06" key="j23662962366383" to-iso="+1766-11-01">三十一年丙<anchor xml:id="beg_174" type="cb-app"/>戌<anchor xml:id="end_174"/>秋</date>，傳席於<persName key="A027572">世璞</persName>，
+<lb ed="B" n="0345b19"/>退休靜室。<date when-iso="+1767-10-03" key="j23667192366719">明年八月十一日</date>示微疾，留偈而化，壽六十有七，有
+<lb ed="B" n="0345b20"/>《語錄》、詩稿。<persName key="A027572">世璞</persName><!-- 附傳？ -->，字<persName key="A027572">玉潛</persName>，號<persName key="A027572">茅庵</persName>，烏程沈氏子。<ref type="date" target="#j23529772353331">四歲</ref>出家，<ref type="date" target="#j23587952359177">二十</ref>受<pb ed="B" xml:id="B27.0151.0346a" n="0346a"/>
+<lb ed="B" n="0346a01"/>具，得法於<persName key="A027571">緒</persName>。既繼斯席，不涉世緣，專志持誦。十年中蒙賜石刻
+<lb ed="B" n="0346a02"/>「梅花湻化」，閣帖以輝山寺。寂於<date when-iso="+1777-07-21" key="j23702982370298">乾隆丁酉六月十七日</date><!-- 《正源略集》卷15：「乾隆丁酉六月初七示寂。」(CBETA, X85, no. 1587, p. 93, a19-20) -->，年五十
+<lb ed="B" n="0346a03"/>一。亦有《語錄》、詩稿數卷。</p>
+    <linkGrp>
+        <link targets="#0345b06 #0345b06"/>
+        <ptr target="#A027571" type="person"/>
+        <ptr target="#A016537" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0345b06 #0345b07"/>
+        <ptr target="#A027571" type="person"/>
+        <ptr target="#A027568" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0345b07 #0345b09"/>
+        <ptr target="#A027571" type="person"/>
+        <ptr target="#A027568" type="person"/>
+        <ptr target="#j23544252354778" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0345b10 #0345b12"/>
+        <ptr target="#A027571" type="person"/>
+        <ptr target="#A006727" type="person"/>
+        <ptr target="#j23606262360714" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0345b12 #0345b18"/>
+        <ptr target="#A027571" type="person"/>
+        <ptr target="#A006727" type="person"/>
+        <ptr target="#j23628402362928" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0345b18 #0345b19"/>
+        <ptr target="#A027571" type="person"/>
+        <ptr target="#A027572" type="person"/>
+        <ptr target="#j23662962366383" type="time"/>
+    </linkGrp>
+</div>

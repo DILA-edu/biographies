@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="淨讀" xml:id="gsz0354b09shiZongZhi">
+<lb ed="B" n="0354b09"/><anchor n="B.27.0151.0354b09"/><head>清成都寶光寺沙門<persName key="A042444">釋宗質</persName>傳</head>
+<lb ed="B" n="0354b10"/><p xml:id="pB27p0354b1001"><persName key="A042444">釋宗質</persName>，字<persName key="A042444">樸齋</persName>，姓段氏，洪洞人也。初歲出家，便爾精修，及圓具
+<lb ed="B" n="0354b11"/>姑射山興福寺，戒律尤嚴。欲參耆宿，矢志遊方。遂徧禮名山，歷
+<lb ed="B" n="0354b12"/>探聖跡。嘗於成都寶光寺，開筵講演，綿延數夏。復往紅螺山資
+<lb ed="B" n="0354b13"/>福寺，與<persName key="A043523">亮<roleName>首座</roleName></persName>相善，<persName key="A043523">亮</persName>示以念佛求生淨土法要。<persName key="A042444">質</persName>領其教語，
+<lb ed="B" n="0354b14"/>服膺拳拳，持之三十年，鴻昏鳥<!-- 烏？，鴻昏於（烏）顯，更代也 -->顯，歷久無間。以<date when-iso="+1881-03-09" key="j24081492408149">清光緒七年二
+<lb ed="B" n="0354b15"/>月十日</date>示寂，世壽八十五。先三日，日方卓午，忽覩白蓮一莖，三
+<lb ed="B" n="0354b16"/>花湧於室中。自知淨業功深，圓成不遠。戒其徒招同參十人，相
+<lb ed="B" n="0354b17"/>助諷佛。是日晨起，猶發聲清朗，所誦佛號，歷歷分明。久之響沈
+<lb ed="B" n="0354b18"/>音寂，面容光澤，如笑欲語。傍侍方啟叩，呼之不應，撫之已逝去
+<lb ed="B" n="0354b19"/>矣！</p>
+    <linkGrp>
+        <link targets="#0354b13 #0354b13"/>
+        <ptr target="#A042444" type="person"/>
+        <ptr target="#A043523" type="person"/>
+    </linkGrp>
+</div>

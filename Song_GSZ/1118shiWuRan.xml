@@ -58,7 +58,7 @@ ed="T" n="0856b02"/>收真骨，於<placeName key="PL000000005337">梵仙山</pl
         <ptr target="#A011282" type="person"/>
         <ptr target="#PL000000005168" type="place"/>
     </linkGrp>
-    <linkGrp>
+    <linkGrp cert="low">
         <link targets="#0855c15 #0855c17"/>
         <ptr target="#A000438" type="person"/>
         <ptr target="#A002144" type="person"/>
@@ -72,7 +72,7 @@ ed="T" n="0856b02"/>收真骨，於<placeName key="PL000000005337">梵仙山</pl
         <ptr target="#PL000000005392" type="place"/>
         <ptr target="#j20100092010362" type="time"/>
     </linkGrp>
-    <linkGrp>
+    <linkGrp cert="low">
         <link targets="#0855c28 #0856a05"/>
         <ptr target="#A011282" type="person"/>
         <ptr target="#A002144" type="person"/>

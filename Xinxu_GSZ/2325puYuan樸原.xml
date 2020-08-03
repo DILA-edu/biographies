@@ -1,18 +1,36 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" type="明律">
-
-<lb ed="B" n=""/><anchor n="B.27.0151"/>
-                    <head>明杭州昭慶寺沙門釋樸原傳<persName type="secondary">廣霌　成玉</persName>
-                    </head>
-                <p xml:id="pB27p0231a2001">釋樸原字智湻菩提節庵守弟子也正統間請主昭慶奉詔開
-<pb ed="B" xml:id="B27.0151.0231b" n="0231b"/>
-<lb ed="B" n="0231b01"/>壇說法為天下傳戒宗師後主靈芝<anchor xml:id="beg_f4" type="cb-app"/>己<anchor xml:id="end_f4"/>亥辭於朝眾沐浴而逝
-<lb ed="B" n="0231b02"/>時正統十一年丙寅秋七月也英宗遣禮部郎中趙勗賜祭其
-<lb ed="B" n="0231b03"/>文曰爾宿悟善緣堅持梵行邇膺寵命為釋宗師方闡法音導
-<lb ed="B" n="0231b04"/>人為善倐云示寂良可悼嗟靈其如存服此諭祭越百年有廣
-<lb ed="B" n="0231b05"/>霌者字日庵嘉靖三十四年興復昭慶奉部剳開壇說戒僧眾
-<lb ed="B" n="0231b06"/>如歸不減慶歷之盛後二十餘年有成玉者字藍田掩關數載
-<lb ed="B" n="0231b07"/>眾稱關主萬曆丙子丁亥之間皇太后疊賜畫像於昭慶且賜
-<lb ed="B" n="0231b08"/>經建閣因得放戒十六年登壇開闡一時龍象若雲棲淨妙真
-<lb ed="B" n="0231b09"/>修蓮池諸大德均於是得戒</p>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0231a19shiPuYuan">
+<lb ed="B" n="0231a19"/><anchor n="B.27.0151.0231a19"/><head>明杭州昭慶寺沙門<persName key="A042382">釋樸原</persName>傳<persName type="secondary" key="A042388">廣霌</persName><persName type="secondary" key="A042391">成玉</persName></head>
+<lb ed="B" n="0231a20"/><p xml:id="pB27p0231a2001"><persName key="A042382">釋樸原</persName>，字<persName key="A042382">智湻</persName>，菩提<persName key="A042381">節庵守</persName>弟子也。<date notBefore-iso="+1436-01-27" key="j22455742250683" notAfter-iso="+1450-01-22">正統間</date>請主昭慶，奉詔開<pb ed="B" xml:id="B27.0151.0231b" n="0231b"/>
+<lb ed="B" n="0231b01"/>壇說法，為天下傳戒宗師。後主靈芝。<date when-iso="+1446-07-05" key="j22493862249386"><anchor xml:id="beg_f4" type="cb-app"/>己<anchor xml:id="end_f4"/>亥</date>辭於朝眾，沐浴而逝。
+<lb ed="B" n="0231b02"/>時<date from-iso="+1446-08-02" key="j22494142249442" to-iso="+1446-08-30">正統十一年丙寅秋七月</date>也<!-- 《大昭慶律寺志．卷8．宗師》：「己亥辭於朝，沐浴而逝，骨歸靈芝，築塔。英宗諭祭文云：正統十一年丙寅七月初九日」(《中國佛寺史志彙刊》，第1輯，第16冊，頁0282) -->。<persName key="A006683">英宗</persName>遣禮部郎中<persName key="A043560">趙勗</persName>賜祭，其
+<lb ed="B" n="0231b03"/>文曰：「<ref type="person" target="#A042382">爾</ref>宿悟善緣，堅持梵行。邇膺寵命，為釋宗師。方闡法音，導
+<lb ed="B" n="0231b04"/>人為善。倐云示寂，良可悼嗟。靈其如存，服此諭祭。」越百年有<persName key="A042388">廣
+<lb ed="B" n="0231b05"/>霌</persName>者，字<persName key="A042388">日庵</persName>，<date from-iso="+1555-02-02" key="j22890442289427" to-iso="+1556-02-20">嘉靖三十四年</date>興復昭慶，奉部剳開壇說戒，僧眾
+<lb ed="B" n="0231b06"/>如歸，不減<date notBefore-iso="+1041-12-22" key="j21016332104240" notAfter-iso="+1049-02-10">慶歷</date>之盛。後二十餘年有<persName key="A042391">成玉</persName>者，字<persName key="A042391">藍田</persName>。掩關數載，
+<lb ed="B" n="0231b07"/>眾稱關主。<date notBefore-iso="+1586-02-18" key="j23003832301091" notAfter-iso="+1588-01-27">萬曆丙子、丁亥之間</date>，<ref type="person" target="#A007207">皇太后</ref>疊賜畫像於昭慶，且賜
+<lb ed="B" n="0231b08"/>經建閣，因得放戒。<date from-iso="+1588-01-28" key="j23010922301475" to-iso="+1589-02-14">十六年</date>登壇開闡，一時龍象，若<persName key="A001394">雲棲淨妙真
+<lb ed="B" n="0231b09"/>修蓮池</persName>諸大德，均於是得戒。</p>
+    <linkGrp>
+        <link targets="#0231a20 #0231a20"/>
+        <ptr target="#A042382" type="person"/>
+        <ptr target="#A042381" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0231b02 #0231b02"/>
+        <ptr target="#A006683" type="person"/>
+        <ptr target="#A043560" type="person"/>
+        <ptr target="#j22494142249442" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0231b07 #0231b08"/>
+        <ptr target="#A042391" type="person"/>
+        <ptr target="#A007207" type="person"/>
+        <ptr target="#j23003832301091" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0231b08 #0231b09"/>
+        <ptr target="#A042391" type="person"/>
+        <ptr target="#A001394" type="person"/>
+    </linkGrp>
 </div>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="淨讀" xml:id="gsz0351b14shiZhengZhen">
+<lb ed="B" n="0351b14"/><anchor n="B.27.0151.0351b14"/><head>清金陵鷲峰寺沙門<persName key="A042150">釋正真</persName>傳</head>
+<lb ed="B" n="0351b15"/><p xml:id="pB27p0351b1501"><persName key="A042150">釋正真</persName>，字<persName key="A042150">達宗</persName>，別號<persName key="A042150">西齋</persName>，湘潭人也。初出家時，隨緣近邑，上禮
+<lb ed="B" n="0351b16"/>衡嶽，下泛長沙。既得具足，遂事游參。曾至高旻謁<persName key="A000026">昭月貞</persName>師，參
+<lb ed="B" n="0351b17"/>究誰字甚力。旋得法於國清<persName key="A001569">寶林珍</persName>師，又受金陵<persName key="A043505">神木瑞林</persName>禪
+<lb ed="B" n="0351b18"/>師教乘源流。薦紳先生，請主鷲峯古剎。至則頹<anchor xml:id="beg035101"/><choice><sic resp="CBETA">坦</sic><corr resp="PC-MB">垣</corr></choice><anchor xml:id="end035101"/><!-- 《淨土聖賢錄續編》卷1：「頺垣老屋」(CBETA, X78, no. 1550, p. 322, b21) -->壞井，老屋數
+<lb ed="B" n="0351b19"/>椽，人所不能堪，而<persName key="A042150">真</persName>處之晏然。未幾檀施日至，百廢具興。次弟
+<lb ed="B" n="0351b20"/>建諸殿閣，金塗丹雘，一改昔觀。復置良田數百頃，率眾禮佛，日<pb ed="B" xml:id="B27.0151.0352a" n="0352a"/>
+<lb ed="B" n="0352a01"/>有恆課。凡有求請，無不切示，宰官臧獲<!-- 奴婢 -->，一視平等。久之皈依愈
+<lb ed="B" n="0352a02"/>眾，悉授以持名法門，遐邇緇白，藹然慕化。<persName key="A043506">姬傳姚<roleName>太史</roleName></persName>、<persName key="A043507">淮樹章
+<lb ed="B" n="0352a03"/><roleName>觀察</roleName></persName>，信願方隆，宏護尤切。一日<persName key="A043507">淮樹</persName>邀<persName key="A042150">真</persName>對榻，出其二妾，令受
+<lb ed="B" n="0352a04"/>以經。<persName key="A042150">真</persName>曰：「夫受經之法，必須正几中庭，熱香頂禮，而後敬謹授
+<lb ed="B" n="0352a05"/>誦，恭嚴聽領。蓋法不可慢，心貴自虔。」<ref type="person" target="#A043507">觀察</ref>悅服。方離榻致禮，而
+<lb ed="B" n="0352a06"/>梁墜榻碎。由是畏之，率二妾同稟法戒，後舍二妾為尼，持心淨
+<lb ed="B" n="0352a07"/>土，頗稱精進。未幾厭絕塵囂，耽志幽隱，委院務於其徒<persName key="A043508">脫凡</persName>，屏
+<lb ed="B" n="0352a08"/>棄諸緣，專修淨業。所著有《淨土偈》若干首。<date when-iso="+1821-02-11" key="j23862082386208">道光元年正月九日</date>
+<lb ed="B" n="0352a09"/>晨起，與徒清譚安養樂趣，貌和神怡。旋自諷誦，命<persName key="A043508">脫凡</persName>領眾食
+<lb ed="B" n="0352a10"/>粥。及復至，則已更新衣，雙趺逝矣！</p>
+    <linkGrp>
+        <link targets="#0351b16 #0351b17"/>
+        <ptr target="#A042150" type="person"/>
+        <ptr target="#A000026" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0351b17 #0351b17"/>
+        <ptr target="#A042150" type="person"/>
+        <ptr target="#A001569" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0351b17 #0351b18"/>
+        <ptr target="#A042150" type="person"/>
+        <ptr target="#A043505" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0352a02 #0352a03"/>
+        <ptr target="#A042150" type="person"/>
+        <ptr target="#A043506" type="person"/>
+        <ptr target="#A043507" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0352a08 #0352a10"/>
+        <ptr target="#A042150" type="person"/>
+        <ptr target="#A043508" type="person"/>
+        <ptr target="#j23862082386208" type="time"/>
+    </linkGrp>
+</div>

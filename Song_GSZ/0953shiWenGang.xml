@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0791c15shiWenGang"><lb
-ed="T" n="0791c15"/><anchor n="T.50.2061.0791c15"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000042229"><placeName>京師</placeName><placeName>崇聖寺</placeName></placeName><persName key="A002468">文綱</persName>傳（<persName key="A010786">名恪</persName>）</head><p><lb
+ed="T" n="0791c15"/><anchor n="T.50.2061.0791c15"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000042229">京師<placeName>崇聖寺</placeName></placeName><persName key="A002468">文綱</persName>傳（<persName key="A010786">名恪</persName>）</head><p><lb
 ed="T" n="0791c16"/><persName key="A002468">釋文綱</persName>，姓<name>孔氏</name>，<placeName key="PL000000013239">會稽</placeName>人也。曾祖<persName key="A010774">範</persName>，<placeName key="PL000000000074">陳</placeName>都官尚<lb
 ed="T" n="0791c17"/>書；祖<persName key="A010775">禩</persName>，祠部侍郎；考<persName key="A019328">頂<anchor xml:id="beg0791sgsz4"/><choice resp="PC-JK-MB"><sic>坐</sic><corr>生</corr></choice><anchor xml:id="end0791sgsz4"/></persName>逃海避<placeName key="PL000000000105">隋</placeName>，擇木<ptr type="glossary" target="#g528"/><lb
 ed="T" n="0791c18"/>歸<persName key="A002434">舜</persName>，<date from-iso="+0627-01-26" key="j19500921958296" to-iso="+0649-07-13"><name>貞觀</name></date>始拜尚乘直長；咸光復儒業，旁<lb
@@ -16,7 +16,7 @@ ed="T" n="0791c27"/>尼藏<ptr type="glossary" target="#g900"/>。<date key="j19
 ed="T" n="0791c28"/>凝視反聽，淨如止水，嶷若斷山。或風雨宴<lb
 ed="T" n="0791c29"/>居，或晝夜獨得。故能吉祥在手，不捨其瓶<ptr target="#n884"/>；<pb ed="T" n="0792a" xml:id="T50.2061.0792a"/><lb
 ed="T" n="0792a01"/>威德<ptr type="glossary" target="#g148"/>迎風，不絕於氣。出籠瘠雁，坐致虛空，<lb
-ed="T" n="0792a02"/>起屋下層，自然成就。<anchor xml:id="beg0792001"/>唯<anchor xml:id="end0792001"/>甘露<ptr type="glossary" target="#g1446"/>之渧口，喻利<lb
+ed="T" n="0792a02"/>起屋下層，自然成就。<anchor xml:id="beg0792001"/>唯<anchor xml:id="end0792001"/>甘露<ptr type="glossary" target="#g1466"/>之渧口，喻利<lb
 ed="T" n="0792a03"/>劍之傷人，慎之，重之！廣矣，至矣！由是八<lb
 ed="T" n="0792a04"/>方來學，《四分》永流，請益者舉袂雲臨，讚歎者<lb
 ed="T" n="0792a05"/>發聲雷駭。<date notBefore-iso="+0700-05-31" key="j19768801977143" notAfter-iso="+0701-02-18"><name>久視</name>中</date>，天作淫雨<ptr target="#n887"/>，人有憂色。<persName key="A002468">綱</persName><lb

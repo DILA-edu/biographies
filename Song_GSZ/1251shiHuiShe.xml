@@ -1,18 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="雜科聲德" xml:id="gsz0893c23shiHuiShe">
-<lb ed="T" n="0893c23"/><anchor n="T.50.2061.0893c23"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date>金陵莊嚴寺<persName key="A008826">慧涉</persName>傳</head><p>
-<lb ed="T" n="0893c24"/><persName key="A008826">釋慧涉</persName>，俗姓謝氏，<placeName key="PL000000013240">會稽</placeName>人也。即東晉太傅<persName key="A002691">安</persName>
-<lb ed="T" n="0893c25"/>之後。是知傑氣英靈，<anchor xml:id="beg0893sgsz13"/>間<anchor xml:id="end0893sgsz13"/>代而出。<anchor xml:id="beg0893sgsz15"/><choice resp="PC-JK-MB"><sic>律</sic><corr>津</corr></choice><anchor xml:id="end0893sgsz15"/>梁拔俗，異
+<lb ed="T" n="0893c23"/><anchor n="T.50.2061.0893c23"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000008702">金陵莊嚴寺</placeName><persName key="A008826">慧涉</persName>傳</head><p>
+<lb ed="T" n="0893c24"/><persName key="A008826">釋慧涉</persName>，俗姓<name>謝氏</name>，<placeName key="PL000000013240">會稽</placeName>人也。即<placeName key="PL000000000103">東晉</placeName>太傅<persName key="A002691">安</persName>
+<lb ed="T" n="0893c25"/>之後。是知傑氣英靈，<anchor xml:id="beg0893sgsz13"/>間<anchor xml:id="end0893sgsz13"/>代<ptr type="glossary" target="#g459"/>而出。<anchor xml:id="beg0893sgsz15"/><choice resp="PC-JK-MB"><sic>律</sic><corr>津</corr></choice><anchor xml:id="end0893sgsz15"/>梁<ptr type="glossary" target="#g2403"/>拔俗，異
 <lb ed="T" n="0893c26"/>世豈無？<persName key="A008826">涉</persName>為人清素，戒節孤峻，好寂為樂，
-<lb ed="T" n="0893c27"/>不棲名聞。以<date key="j20011912002330" notAfter-iso="+0770-02-03" notBefore-iso="+0766-12-22"><name>大曆</name>之初</date>，於金陵<placeName key="PL000000008702">莊嚴寺</placeName>遇
-<lb ed="T" n="0893c28"/>牛頭山<persName key="A010048">忠禪師</persName>，一言知歸，遂命入室，授其
+<lb ed="T" n="0893c27"/>不棲名聞。以<date notBefore-iso="+0766-12-22" key="j20011912002330" notAfter-iso="+0770-02-03"><name>大曆</name>之初</date>，於<placeName key="PL000000008702"><placeName>金陵</placeName><placeName>莊嚴寺</placeName></placeName>遇
+<lb ed="T" n="0893c28"/><placeName key="PL000000008579">牛頭山</placeName><persName key="A010048">忠<roleName>禪師</roleName></persName>，一言知歸，遂命入室，授其
 <lb ed="T" n="0893c29"/>法要。服膺道化，待之彌載，不憚其勞。洎<pb ed="T" n="0894a" xml:id="T50.2061.0894a"/>
-<lb ed="T" n="0894a01"/><persName key="A010048">忠</persName>捐世，踵武茲嶺，無遊人境。一衣方丈，操
+<lb ed="T" n="0894a01"/><persName key="A010048">忠</persName>捐世，踵武<ptr type="glossary" target="#g526"/>茲嶺，無遊人境。一衣方丈，操
 <lb ed="T" n="0894a02"/>節彌高。自是以來，問道者眾，四維方域，無
-<lb ed="T" n="0894a03"/>不霑洽，五十年中，翕然<ptr rend="display:none;" type="glossary" target="#g768"/>歸德。以<date key="j20213202021703" notAfter-iso="+0823-02-18" notBefore-iso="+0822-01-31"><name>長慶</name>二年</date>
-<lb ed="T" n="0894a04"/>終於<placeName key="PL000000008702">山院</placeName>，春秋八十有二。門弟子<persName key="A013918">惟晏</persName>等奉
-<lb ed="T" n="0894a05"/>全師禮，建塔於<placeName key="PL000000008702">寺</placeName>之西北，勒銘紀德。若考
-<lb ed="T" n="0894a06"/><persName key="A008826">師</persName>之藝文，則草堂、<placeName key="PL000000018775">廬嶽</placeName>，各美於當代矣。</p>
+<lb ed="T" n="0894a03"/>不霑洽，五十年中，翕然<ptr rend="display:none;" type="glossary" target="#g768"/>歸德。以<date from-iso="+0822-01-31" key="j20213202021703" to-iso="+0823-02-18"><name>長慶</name>二年</date>
+<lb ed="T" n="0894a04"/>終於<ref type="place" target="#PL000000008702">山院</ref>，春秋八十有二。門弟子<persName key="A013918">惟晏</persName>等奉
+<lb ed="T" n="0894a05"/>全師禮，建塔於<ref type="place" target="#PL000000008702">寺</ref>之西北，勒銘紀德。若考
+<lb ed="T" n="0894a06"/><ref type="person" target="#A008826">師</ref>之藝文，則<persName key="A013918">草堂</persName>、<persName key="A014130">廬嶽</persName><ptr target="#n3610"/>，各美於當代矣。</p>
+    <linkGrp>
+        <link targets="#0893c24 #0893c24"/>
+        <ptr target="#A008826" type="person"/>
+        <ptr target="#PL000000013240" type="place"/>
+    </linkGrp>
     <linkGrp>
         <link targets="#0893c27 #0893c29"/>
         <ptr target="#A008826" type="person"/>

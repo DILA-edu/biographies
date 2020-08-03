@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0186b01shiBenYu">
+<lb ed="B" n="0186b01"/><anchor n="B.27.0151.0186b01"/><head>明夾山沙門<persName key="A015936">釋本豫</persName>傳<persName type="secondary" key="A043559">方來</persName></head>
+<lb ed="B" n="0186b02"/><p xml:id="pB27p0186b0201"><persName key="A015936">釋本豫</persName>，字<persName key="A015936">林臯</persName>，一號<persName key="A015936">晦夫</persName>，姓陳氏，崑山人。年十九脫白，誦《金剛
+<lb ed="B" n="0186b03"/>經》有省，得法於<persName key="A001410">磬山修</persName>。棲黃山指象處三年，偶偕<persName key="A015843">普門</persName>觀瀑布。
+<lb ed="B" n="0186b04"/><persName key="A015843">普</persName>云：「此泉在心內？在心外？」<persName key="A015936">豫</persName>云：「內外且置。試道此泉從何處來？」
+<lb ed="B" n="0186b05"/><persName key="A015843">普</persName>云：「原來此中人也。」兩人從此心契。<persName key="A015936">豫</persName>後踞夾山法席，其道大
+<lb ed="B" n="0186b06"/>顯。嘗取唐宋尊宿語錄，各加品評，為宗門誡範。<date from-iso="+1646-02-16" key="j23222962322649" to-iso="+1647-02-04">歲在丙戌</date>，<persName key="A015936">豫</persName>計
+<lb ed="B" n="0186b07"/>日期至，說偈委衣順化。<persName key="A043559">方來</persName>字<persName key="A043559">曉宗</persName>，沁水人。佐<persName key="A015843">普門</persName>開闢黃山，
+<lb ed="B" n="0186b08"/>頗著勤勞，後嗣其法，繼主慈光。<persName key="A043559">來</persName>梵行精嚴，初依伏牛山，得鍊
+<lb ed="B" n="0186b09"/>囈語法，與<persName key="A015843">普門</persName>契合。<persName key="A015843">普門</persName>素精等韵燄口，唯<persName key="A043559">來</persName>獨得其秘。<date from-iso="+1646-08-11" key="j23224722322559" to-iso="+1646-11-06">丙戌
+<lb ed="B" n="0186b10"/>秋</date>，一日告眾將別，無疾化去。</p>
+    <linkGrp>
+        <link targets="#0186b02 #0186b03"/>
+        <ptr target="#A015936" type="person"/>
+        <ptr target="#A001410" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0186b03 #0186b05"/>
+        <ptr target="#A015936" type="person"/>
+        <ptr target="#A015843" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0186b07 #0186b08"/>
+        <ptr target="#A043559" type="person"/>
+        <ptr target="#A015843" type="person"/>
+    </linkGrp>
+</div>

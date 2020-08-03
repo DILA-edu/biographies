@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="淨讀" xml:id="gsz0352b12shiXiaoYou">
+<lb ed="B" n="0352b12"/><anchor n="B.27.0151.0352b12"/><head>清鎮江良篷山寺沙門<persName key="A043513">釋自明</persName>傳<persName type="secondary" key="A043514">如月</persName></head>
+<lb ed="B" n="0352b13"/><p xml:id="pB27p0352b1301"><persName key="A043513">釋自明</persName>，忘其姓字，武陵人也。持戒習禪，真誠無妄。嘗事遊參，道
+<lb ed="B" n="0352b14"/>出鎮江，至良篷山下，見其四面幽寂，冡墓纍纍。訪之土人，曰：「此
+<lb ed="B" n="0352b15"/>官司決囚處，左右孤墳，皆死者斷屍也。」<persName key="A043513">自明</persName>因慨然曰：「此間念
+<lb ed="B" n="0352b16"/>佛，正可利益幽明。」於是露地而坐，三日三夜，念佛不絕聲。行道
+<lb ed="B" n="0352b17"/>感歎，競相施助，不一年梵宇煇煌，照耀林谷。獨與<persName key="A043514">如月</persName>常相往
+<lb ed="B" n="0352b18"/>來。<persName key="A043513">自明</persName>告眾曰：「天地悠久尚有壞，况人世無兵燹乎？」時天下承
+<lb ed="B" n="0352b19"/>平，人莫之測。未幾<persName key="A043513">明</persName>寂，<date from-iso="+1851-02-01" key="j23971552397538" to-iso="+1852-02-19">咸豐初元</date>，粵寇起事，竄擾長江，竊據金
+<lb ed="B" n="0352b20"/>陵，其言悉驗。<persName key="A043514">如月</persName>字<persName key="A043514">妙明</persName>，與<persName key="A043513">自明</persName>同邑。持律精嚴，結茅終南三<pb ed="B" xml:id="B27.0151.0353a" n="0353a"/>
+<lb ed="B" n="0353a01"/>十餘載。出訪名山，小住鎮江蓮花庵，日以念佛為事。嘗至金山、
+<lb ed="B" n="0353a02"/>高旻、天寧語未來事有應。後復入終南，合掌稱佛而逝。事在<date when-iso="+1847-02-01" key="j23956942395694">道
+<lb ed="B" n="0353a03"/>光二十六年十二月十六日</date>，春秋七十六云。</p>
+    <linkGrp>
+        <link targets="#0352b17 #0352b18"/>
+        <ptr target="#A043513" type="person"/>
+        <ptr target="#A043514" type="person"/>
+    </linkGrp>
+</div>

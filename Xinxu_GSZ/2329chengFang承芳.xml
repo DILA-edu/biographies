@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0233a01shiChengFang">
+<lb ed="B" n="0233a01"/><anchor n="B.27.0151.0233a01"/><head>明五臺山清涼寺沙門<persName key="A010240">釋承芳</persName>傳</head>
+<lb ed="B" n="0233a02"/><p xml:id="pB27p0233a0201"><persName key="A010240">釋承芳</persName>者，與<persName key="A000352">古心</persName>比肩法門，不相先後。及在昭慶聞<persName key="A000352">古心</persName>弘戒
+<lb ed="B" n="0233a03"/>靈隱，<persName key="A010240">芳</persName>以弟子禮，謁之求戒。先夕<persName key="A000352">古心</persName>感異兆，若有神人告之：
+<lb ed="B" n="0233a04"/>「<persName key="A002144">文殊</persName>化身南來受戒。」<persName key="A000352">古心</persName>意不謂<persName key="A010240">芳</persName>當之也。三壇既畢，<persName key="A010240">芳</persName>以疾
+<lb ed="B" n="0233a05"/>未至，<persName key="A000352">古心</persName>忽憶前夢，來昭慶問疾，即於榻上說沙彌十戒，為摩
+<lb ed="B" n="0233a06"/>頂。<anchor xml:id="beg_f7" type="cb-app"/>已<anchor xml:id="end_f7"/>戒得威力身，不由<anchor xml:id="beg_f8" type="cb-app"/>己<anchor xml:id="end_f8"/>勇猛精進，扶疾而起，盥潄更衣，下榻
+<lb ed="B" n="0233a07"/>求具。更為集僧，具儀傳授菩薩大戒，疾亦隨愈，尋還五臺。<persName key="A007207">慈聖
+<lb ed="B" n="0233a08"/>太后</persName>又夢感神言：「<persName key="A002144">文殊</persName>菩薩肉身還山。」物色及<persName key="A010240">芳</persName>，遂詔主五臺
+<lb ed="B" n="0233a09"/>傳戒。<persName key="A010240">芳</persName>辭曰：「纔登戒品，行持未全。有本師在，不敢妄承。」乃移命
+<lb ed="B" n="0233a10"/><persName key="A000352">古心</persName>，期以三年。<persName key="A000352">古心</persName>告退，付屬於<persName key="A010240">芳</persName>，使繼法席。</p>
+    <linkGrp>
+        <link targets="#0233a07 #0233a10"/>
+        <ptr target="#A010240" type="person"/>
+        <ptr target="#A000352" type="person"/>
+        <ptr target="#A007207" type="person"/>
+    </linkGrp>
+</div>

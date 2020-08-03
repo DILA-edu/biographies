@@ -68,7 +68,7 @@ n="0723c18" ed="T"/>言是也。</p><p>第三、重譯直譯者。一、直譯�
 n="0723c19" ed="T"/><anchor xml:id="beg0723003" n="0723003"/>夾<anchor xml:id="end0723003"/>牒直來<placeName key="PL000000000083">東夏</placeName>譯者是。</p><p>二、重譯。如經傳<lb
 n="0723c20" ed="T"/><ref type="place" target="#PL000000049641">嶺</ref>北<placeName key="PL000000047687">樓蘭</placeName>、<placeName key="PL000000047759">焉耆</placeName>，不解<placeName key="PL000000048207">天竺</placeName>言，且譯為胡語，<lb
 n="0723c21" ed="T"/>如<name>梵</name>云「鄔波陀耶<ptr type="glossary" target="#g461"/>」，<placeName key="PL000000047898">疎勒</placeName>云「鶻社」，<placeName key="PL000000047983">于闐</placeName>云「和<lb
-n="0723c22" ed="T"/>尚」。又「天王」，<name>梵</name>云「拘均羅<ptr type="glossary" target="#g462"/>」，胡云「毘沙門」是。</p><p>三、<lb
+n="0723c22" ed="T"/>尚」。又「天王」，<name>梵</name>云「拘均羅<ptr type="glossary" target="#g462"/>」，胡云「毘沙門<ptr target="#n3627"/>」是。</p><p>三、<lb
 n="0723c23" ed="T"/>亦直亦重。如三藏直齎夾牒而來，路由<lb
 n="0723c24" ed="T"/>胡國，或帶胡言。如<persName key="A000439">覺明</persName>口誦《曇無德律》<ptr target="#n70"/>中<lb
 n="0723c25" ed="T"/>有「和尚」等字者是。</p><p>四、二非句。即齎經三藏<lb
@@ -96,8 +96,8 @@ n="0724a17" ed="T"/>惡口，人人不親近故<ptr target="#n955"/>。二、是
 n="0724a18" ed="T"/>翻為「菩薩所知彼岸」也，既通達三無性<ptr type="glossary" target="#g468"/>理，<lb
 n="0724a19" ed="T"/>亦不為眾生所親近故<ptr target="#n956"/>。三、兩亦句，即同善<lb
 n="0724a20" ed="T"/>惡真俗，皆不可親近故。四、二非句，謂除前<lb
-n="0724a21" ed="T"/>相故。又「阿毘持呵婁（目『數數<ptr target="#n957"/>得定』）<ptr target="#n469"/>」，「欝婆提<ptr target="#n958"/>（目『生起拔根弃背』）<ptr target="#n959"/>」、<lb
-n="0724a22" ed="T"/>「<choice resp="PC-JK-MB"><sic>婆</sic><corr>娑</corr></choice>羅<ptr target="#n960"/>（目『<anchor xml:id="beg0724001" n="0724001"/>真<anchor xml:id="end0724001"/>實離散亂』）<ptr target="#n961"/>」。此諸名在經論中，例顯直、密語<lb
+n="0724a21" ed="T"/>相故。又「阿毘持呵婁<ptr target="#n469"/>」（目「數數<ptr target="#n957"/>得定」），「欝婆提<ptr target="#n958"/>」（目「生起拔根弃背<ptr target="#n959"/>」）、<lb
+n="0724a22" ed="T"/>「<choice resp="PC-JK-MB"><sic>婆</sic><corr>娑</corr></choice>羅<ptr target="#n960"/>」（目「<anchor xml:id="beg0724001" n="0724001"/>真<anchor xml:id="end0724001"/>實離散亂」）<ptr target="#n961"/>，此諸名在經論中，例顯<ptr type="glossary" target="#g2435"/>直、密語<lb
 n="0724a23" ed="T"/>義也。更有胡、<name>梵</name>文字，四句易解。凡諸類例<lb
 n="0724a24" ed="T"/>括彼經詮，解者不見其全牛<ptr target="#n948"/>，行人但隨其<lb
 n="0724a25" ed="T"/><ptr type="glossary" target="#g949"/>矣。</p><p>或曰：「翻<name>梵</name>夾須用<ref type="place" target="#PL000000000083">此方</ref>文籍者，<lb
@@ -121,12 +121,12 @@ n="0724b13" ed="T"/>中適時，自存法語，斯謂得譯經之旨矣。故<lb
 n="0724b14" ed="T"/>佛說法多依蘇漫多也。</p><p>又傳譯之興，奉行之<lb
 n="0724b15" ed="T"/>意，不明本起，何示將來？今究其宣揚，略<lb
 n="0724b16" ed="T"/>陳梗概。夫教者不倫，有三疇類：一顯教者，<lb
-n="0724b17" ed="T"/>諸乘經、律、論也（不同《瑜伽論》中「顯了教，是多分大乘藏教。<ptr target="#n946"/>」）；二密教者，<lb
+n="0724b17" ed="T"/>諸乘經、律、論也（不同《瑜伽論》中「顯了教，是多分大乘藏教。」）；二密教者，<lb
 n="0724b18" ed="T"/>瑜伽、灌頂、五部、護摩、三密、曼拏羅法也（《瑜伽》「隱密教，是多分<lb
-n="0724b19" ed="T"/>聲聞藏教。<ptr target="#n947"/>」）；三心教者，直指人心，見性成佛，禪法也。次<lb
+n="0724b19" ed="T"/>聲聞藏教。」）<ptr target="#n946"/>；三心教者，直指人心，見性成佛<ptr target="#n3629"/>，禪法也。次<lb
 n="0724b20" ed="T"/>一法輪者，即顯教也，以<persName key="A000883">摩騰</persName>為始祖焉；<lb
-n="0724b21" ed="T"/>次二教令輪者，即密教也，以<persName key="A000774">金剛智</persName>為始<lb
-n="0724b22" ed="T"/>祖焉；次三心輪者（義加此輪），即禪法也，以<persName key="A001361">菩提<lb
+n="0724b21" ed="T"/>次二教令輪<ptr type="glossary" target="#g100"/>者，即密教也，以<persName key="A000774">金剛智</persName>為始<lb
+n="0724b22" ed="T"/>祖焉；次三心輪者（義加此輪）<ptr target="#n947"/>，即禪法也，以<persName key="A001361">菩提<lb
 n="0724b23" ed="T"/>達磨</persName>為始祖焉。是故傳法輪者以法音<lb
 n="0724b24" ed="T"/>傳法音；傳教令輪者，以祕密傳祕密；傳<lb
 n="0724b25" ed="T"/>心輪者，以心傳心，此之三教、三輪、三祖，自<lb
@@ -189,9 +189,9 @@ n="0725a23" ed="T"/>音反，受持有驗，斯勝古蹤。<persName key="A00147
 n="0725a24" ed="T"/>經，偏精「律部」，自高文彩，最有可觀。<persName key="A000774">金剛智</persName><lb
 n="0725a25" ed="T"/>也祕藏祖師，<persName key="A000095">阿目佉</persName>也多經譯匠，師資相接，<lb
 n="0725a26" ed="T"/>感應互彰。<persName key="A001342">無畏</persName>言辭且多朴實。<persName key="A000438">覺救</persName><ptr target="#n1153"/>加《佛頂》<ptr target="#n983"/><lb
-n="0725a27" ed="T"/>之句<ptr target="#n984"/>，人無間然<ptr type="glossary" target="#g2350"/>。<persName key="A000332">日照</persName>出《顯識》之文，刃有餘<lb
-n="0725a28" ed="T"/>地。<persName key="A001922">思惟</persName>《罥索》，<persName key="A001606">學喜</persName>《華嚴》，密語斷章，大人境界。<lb
-n="0725a29" ed="T"/><persName key="A001358">流志</persName>《寶積》，<persName key="A000774">菩提</persName><ptr target="#n1004"/>《曼茶》；『<placeName key="PL000000048207">華胥</placeName>』<ptr type="glossary" target="#g477"/>之理致融明，『灌頂』<ptr rend="display:none;" type="glossary" target="#g97"/><pb n="0725b" xml:id="T50.2061.0725b" ed="T"/><lb
+n="0725a27" ed="T"/>之句<ptr target="#n984"/>，人無間然<ptr type="glossary" target="#g2350"/>。<persName key="A000332">日照</persName>出《顯識》<ptr target="#n98"/>之文，刃有餘<lb
+n="0725a28" ed="T"/>地。<persName key="A001922">思惟</persName>《罥索》<ptr target="#n241"/>，<persName key="A001606">學喜</persName>《華嚴》<ptr target="#n38"/>，密語斷章，大人境界。<lb
+n="0725a29" ed="T"/><persName key="A001358">流志</persName>《寶積》<ptr target="#n24"/>，<persName key="A000774">菩提</persName><ptr target="#n1004"/>曼茶<ptr type="glossary" target="#g96"/>；『<placeName key="PL000000048207">華胥</placeName>』<ptr type="glossary" target="#g477"/>之理致融明，『灌頂』<ptr type="glossary" target="#g97"/><pb n="0725b" xml:id="T50.2061.0725b" ed="T"/><lb
 n="0725b01" ed="T"/>之風標祕邃；<persName key="A001896">迪<roleName>公</roleName></persName>勤其筆受<ptr rend="display:none;" type="glossary" target="#g53"/>，<persName key="A001294">般若</persName><ptr target="#n1019"/>終乎譯<lb
 n="0725b02" ed="T"/>場。其餘諸公，皆翻夾牒，欲知狀貌，聊舉喻<lb
 n="0725b03" ed="T"/>言。其猶人也，人皆人也，奈何姿制形儀，各<lb

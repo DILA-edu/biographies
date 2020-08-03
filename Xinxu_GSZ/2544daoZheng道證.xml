@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="淨讀" xml:id="gsz0344a14shiDaoZheng">
+<lb ed="B" n="0344a14"/><anchor n="B.27.0151.0344a14"/><head>清杭州大椿禪院沙門<persName key="A043483">釋道證</persName>傳<persName type="secondary" key="A043484">梅松</persName></head>
+<lb ed="B" n="0344a15"/><p xml:id="pB27p0344a1501"><persName key="A043483">釋道證</persName>，杭人，住郡東大椿禪院。稟性真實，專修淨土，每日三時，
+<lb ed="B" n="0344a16"/>爇香為度，長跪佛前，虔持名號。年至八十，獨自精勤，信往之願，
+<lb ed="B" n="0344a17"/>耄而彌至。一日謂眾曰：「<date when-iso="+1765-03-03" key="j23657752365775">來年二月十二日</date><ref type="person" target="#A043483">我</ref>將西歸，為<ref type="person" target="#A043483">我</ref>識之。」
+<lb ed="B" n="0344a18"/>至期無恙，或戲言曰：「今日是<ref type="person" target="#A043483">師</ref>所識日也，何尚未舉錫？」<persName key="A043483">證</persName>驚曰：
+<lb ed="B" n="0344a19"/>「今果花朝耶！」即命弟子取水沐<anchor xml:id="beg034401"/><choice><sic resp="CBETA">沿</sic><corr resp="PC-MB">浴</corr></choice><anchor xml:id="end034401"/><!-- 《淨土聖賢錄續編》卷1：「即沐浴焚香」(CBETA, X78, no. 1550, p. 319, a22) -->，更衣焚香，邀集四眾，齊聲誦
+<lb ed="B" n="0344a20"/>佛。有傾趺坐竟化。有同參曰<persName key="A043484">梅松</persName>者，亦修淨土，住妙嚴寺。中夜<pb ed="B" xml:id="B27.0151.0344b" n="0344b"/>
+<lb ed="B" n="0344b01"/>聞有人呼曰：「<persName key="A043483">道證</persName>已去，何不一送？」<persName key="A043484">梅松</persName>驚覺，即趨視。撫其背曰：
+<lb ed="B" n="0344b02"/>「平日相知，臨去何無消息？雖然我亦不久於塵世矣！」歸三日亦
+<lb ed="B" n="0344b03"/>坐化，事在<date from-iso="+1765-01-21" key="j23657342366117" to-iso="+1766-02-08">乾隆三十年</date>。</p>
+    <linkGrp>
+        <link targets="#0344a20 #0344b03"/>
+        <ptr target="#A043483" type="person"/>
+        <ptr target="#A043484" type="person"/>
+        <ptr target="#j23657342366117" type="time"/>
+    </linkGrp>
+</div>

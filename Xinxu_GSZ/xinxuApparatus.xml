@@ -136,6 +136,22 @@
 			<lem wit="喻眛庵輯影本">乙</lem>
 			<rdg wit="CBETA">乙</rdg>
 		</app>
+		<app from="beg018301">
+			<lem wit="喻眛庵輯影本">尋</lem>
+			<rdg wit="CBETA">尋</rdg>
+		</app>
+		<app from="beg018401">
+			<lem wit="喻眛庵輯影本">捧</lem>
+			<rdg wit="CBETA">捧</rdg>
+		</app>
+		<app from="beg018501">
+			<lem wit="喻眛庵輯影本">捧</lem>
+			<rdg wit="CBETA">捧</rdg>
+		</app>
+		<app from="beg018503">
+			<lem wit="喻眛庵輯影本">鼒</lem>
+			<rdg wit="CBETA">鼐</rdg>
+		</app>
 		<app from="beg018801">
 			<lem wit="喻眛庵輯影本">證</lem>
 			<rdg wit="CBETA">證</rdg>
@@ -328,6 +344,10 @@
 			<lem wit="喻眛庵輯影本">母</lem>
 			<rdg wit="CBETA">母</rdg>
 		</app>
+		<app from="beg023301">
+			<lem wit="喻眛庵輯影本">玉</lem>
+			<rdg wit="CBETA">王</rdg>
+		</app>
 		<app from="beg023901">
 			<lem wit="喻眛庵輯影本">禱</lem>
 			<rdg wit="CBETA">儔</rdg>
@@ -475,6 +495,22 @@
 		<app from="beg034201">
 			<lem wit="喻眛庵輯影本">酉</lem>
 			<rdg wit="CBETA">酉</rdg>
+		</app>
+		<app from="beg034401">
+			<lem wit="喻眛庵輯影本">沿</lem>
+			<rdg wit="CBETA">沿</rdg>
+		</app>
+		<app from="beg034601">
+			<lem wit="喻眛庵輯影本">浙</lem>
+			<rdg wit="CBETA">浙</rdg>
+		</app>
+		<app from="beg034701">
+			<lem wit="喻眛庵輯影本">間</lem>
+			<rdg wit="CBETA">問</rdg>
+		</app>
+		<app from="beg035101">
+			<lem wit="喻眛庵輯影本">坦</lem>
+			<rdg wit="CBETA">坦</rdg>
 		</app>
 		<app from="beg040801">
 			<lem wit="喻眛庵輯影本">揚</lem>

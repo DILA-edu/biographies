@@ -410,11 +410,11 @@
         <xi:include href="2249yuanWu圓悟.xml"/><!--明四明天童寺沙門釋圓悟傳-->
         <xi:include href="2250miXing密行.xml"/><!--明雲南竹林寺沙門釋密行傳-->
         <xi:include href="2251zhengHui正誨.xml"/><!--明荊南普仰寺沙門釋正誨傳了凡-->
-        <xi:include href="2252-明雲南水目山寶華寺沙門釋洪如傳.xml"/><!--明雲南水目山寶華寺沙門釋洪如傳-->
-        <xi:include href="2253-明湖州上柏山報恩禪院沙門釋天隱傳.xml"/><!--明湖州上柏山報恩禪院沙門釋天隱傳-->
-        <xi:include href="2254-明寧鄉大溈山同慶寺沙門釋如學傳圓上座.xml"/><!--明寧鄉大溈山同慶寺沙門釋如學傳圓上座-->
-        <xi:include href="2255genXin亘信.xml"/><!--2248-明漳州南山報劬禪院沙門釋亘信傳-->
-        <xi:include href="2256-明夾山沙門釋本豫傳方來.xml"/><!--明夾山沙門釋本豫傳方來-->
+        <xi:include href="2252hongRu洪如.xml"/><!--明雲南水目山寶華寺沙門釋洪如傳-->
+        <xi:include href="2253tianYin天隱.xml"/><!--明湖州上柏山報恩禪院沙門釋天隱傳-->
+        <xi:include href="2254ruXue如學.xml"/><!--明寧鄉大溈山同慶寺沙門釋如學傳圓上座-->
+        <xi:include href="2255genXin亘信.xml"/><!--明漳州南山報劬禪院沙門釋亘信傳-->
+        <xi:include href="2256benYu本豫.xml"/><!--明夾山沙門釋本豫傳方來-->
       </div>
       <div type="juan" n="22">
         <anchor n="B.27.0151.0186b11"/>
@@ -518,20 +518,20 @@
         <anchor n="B.27.0151.0230b11"/>
         <head>新續高僧傳四集卷第二十八</head>
         <lb n="0230b13" ed="B"/><p>明律篇第四之二(正傳十四人　附見四人)</p>
-        <xi:include href="2324-明華亭興聖寺沙門釋原真傳紹宗.xml"/><!--明華亭興聖寺沙門釋原真傳紹宗-->
+        <xi:include href="2324yuanZhen原真.xml"/><!--明華亭興聖寺沙門釋原真傳紹宗-->
         <xi:include href="2325puYuan樸原.xml"/><!--明杭州昭慶寺沙門釋樸原傳廣_成玉-->
-        <xi:include href="2326-明燕都普慶寺沙門釋法聞傳.xml"/><!--明燕都普慶寺沙門釋法聞傳-->
-        <xi:include href="2327-明燕都西山戒臺寺沙門釋道孚傳.xml"/><!--明燕都西山戒臺寺沙門釋道孚傳-->
-        <xi:include href="2328-明金陵天隆寺沙門釋如馨傳.xml"/><!--明金陵天隆寺沙門釋如馨傳-->
-        <xi:include href="2329-明五臺山清涼寺沙門釋承芳傳.xml"/><!--明五臺山清涼寺沙門釋承芳傳-->
-        <xi:include href="2330-明金陵極樂寺沙門釋性相傳.xml"/><!--明金陵極樂寺沙門釋性相傳-->
-        <xi:include href="2331-明燕都古愍忠寺沙門釋永海傳.xml"/><!--明燕都古愍忠寺沙門釋永海傳-->
-        <xi:include href="2332-明金陵寶華山隆昌寺沙門釋寂光傳.xml"/><!--明金陵寶華山隆昌寺沙門釋寂光傳-->
-        <xi:include href="2333-明太原永明寺沙門釋遠清傳.xml"/><!--明太原永明寺沙門釋遠清傳-->
-        <xi:include href="2334-明姑蘇報國寺沙門釋性祇傳.xml"/><!--明姑蘇報國寺沙門釋性祇傳-->
-        <xi:include href="2335-明廣陵福田律院沙門釋性福傳.xml"/><!--明廣陵福田律院沙門釋性福傳-->
-        <xi:include href="2336-明潭州三角山沙門釋如幻傳.xml"/><!--明潭州三角山沙門釋如幻傳-->
-        <xi:include href="2337-明雲南雞足山大覺寺沙門釋真利傳明鑑.xml"/><!--明雲南雞足山大覺寺沙門釋真利傳明鑑-->
+        <xi:include href="2326faWen法聞.xml"/><!--明燕都普慶寺沙門釋法聞傳-->
+        <xi:include href="2327daoFu道孚.xml"/><!--明燕都西山戒臺寺沙門釋道孚傳-->
+        <xi:include href="2328ruXin如馨.xml"/><!--明金陵天隆寺沙門釋如馨傳-->
+        <xi:include href="2329chengFang承芳.xml"/><!--明五臺山清涼寺沙門釋承芳傳-->
+        <xi:include href="2330xingXiang性相.xml"/><!--明金陵極樂寺沙門釋性相傳-->
+        <xi:include href="2331yongHai永海.xml"/><!--明燕都古愍忠寺沙門釋永海傳-->
+        <xi:include href="2332jiGuang寂光.xml"/><!--明金陵寶華山隆昌寺沙門釋寂光傳-->
+        <xi:include href="2333yuanQing遠清.xml"/><!--明太原永明寺沙門釋遠清傳-->
+        <xi:include href="2334xingZhi性祇.xml"/><!--明姑蘇報國寺沙門釋性祇傳-->
+        <xi:include href="2335xingFu性福.xml"/><!--明廣陵福田律院沙門釋性福傳-->
+        <xi:include href="2336ruHuan如幻.xml"/><!--明潭州三角山沙門釋如幻傳-->
+        <xi:include href="2337zhenLi真利.xml"/><!--明雲南雞足山大覺寺沙門釋真利傳明鑑-->
       </div>
       <div type="juan" n="29">
         <anchor n="B.27.0151.0237a11"/>
@@ -616,8 +616,8 @@
         <anchor n="B.27.0151.0265b11"/>
         <head>新續高僧傳四集卷第三十四</head>
         <lb n="0265b13" ed="B"/><p>護法篇第五之二(正傳六人　附見四人)</p>
-        <xi:include href="2392-明金陵大天界寺沙門釋慧曇傳.xml"/><!--明金陵大天界寺沙門釋慧曇傳-->
-        <xi:include href="2393-明金臺永壽寺沙門釋思敏傳邃庵.xml"/><!--明金臺永壽寺沙門釋思敏傳邃庵-->
+        <xi:include href="2392huiTan慧曇.xml"/><!--明金陵大天界寺沙門釋慧曇傳-->
+        <xi:include href="2393siMin思敏.xml"/><!--明金臺永壽寺沙門釋思敏傳邃庵-->
         <xi:include href="2394-明杭州靈隱寺沙門釋德明傳真祥.xml"/><!--明杭州靈隱寺沙門釋德明傳真祥-->
         <xi:include href="2395-明杭州雲居聖水寺沙門釋寂心傳.xml"/><!--明杭州雲居聖水寺沙門釋寂心傳-->
         <xi:include href="2396ziCheng自成.xml"/><!--明燕都普濟寺沙門釋自成傳覺_本在-->
@@ -824,50 +824,50 @@
         <head>新續高僧傳四集卷第四十六</head>
         <lb n="0341b13" ed="B"/><p>淨讀篇第八之六(正傳十二人　附見七人)</p>
         <xi:include href="2539wanQing萬清.xml"/><!--清淮安誕登寺沙門釋萬清傳-->
-        <xi:include href="2540-清潤州焦山寺沙門釋福毅傳.xml"/><!--清潤州焦山寺沙門釋福毅傳-->
-        <xi:include href="2541-清杭州文殊庵沙門釋道徹傳.xml"/><!--清杭州文殊庵沙門釋道徹傳-->
-        <xi:include href="2542-清吳山接引庵沙門釋廣志傳實圓.xml"/><!--清吳山接引庵沙門釋廣志傳實圓-->
-        <xi:include href="2543-清姑蘇龍興寺沙門釋明悟傳德峻.xml"/><!--清姑蘇龍興寺沙門釋明悟傳德峻-->
-        <xi:include href="2544-清杭州大椿禪院沙門釋道證傳梅松.xml"/><!--清杭州大椿禪院沙門釋道證傳梅松-->
-        <xi:include href="2545-清錢塘祇園庵沙門釋聞言傳法真.xml"/><!--清錢塘祇園庵沙門釋聞言傳法真-->
-        <xi:include href="2546-清天目山禪原寺沙門釋實定傳際會_佛安.xml"/><!--清天目山禪原寺沙門釋實定傳際會_佛安-->
-        <xi:include href="2547-清江甯靈谷寺沙門釋緒守傳.xml"/><!--清江甯靈谷寺沙門釋緒守傳-->
-        <xi:include href="2548-清海寧護國禪院沙門釋千一傳徹迷.xml"/><!--清海寧護國禪院沙門釋千一傳徹迷-->
-        <xi:include href="2549-清杭州孤舟庵沙門釋實裕傳.xml"/><!--清杭州孤舟庵沙門釋實裕傳-->
-        <xi:include href="2550-清海寧延恩寺沙門釋諦勇傳.xml"/><!--清海寧延恩寺沙門釋諦勇傳-->
+        <xi:include href="2540fuYi福毅.xml"/><!--清潤州焦山寺沙門釋福毅傳-->
+        <xi:include href="2541daoChe道徹.xml"/><!--清杭州文殊庵沙門釋道徹傳-->
+        <xi:include href="2542guangZhi廣志.xml"/><!--清吳山接引庵沙門釋廣志傳實圓-->
+        <xi:include href="2543mingWu明悟.xml"/><!--清姑蘇龍興寺沙門釋明悟傳德峻-->
+        <xi:include href="2544daoZheng道證.xml"/><!--清杭州大椿禪院沙門釋道證傳梅松-->
+        <xi:include href="2545wenYan聞言.xml"/><!--清錢塘祇園庵沙門釋聞言傳法真-->
+        <xi:include href="2546shiDing實定.xml"/><!--清天目山禪原寺沙門釋實定傳際會_佛安-->
+        <xi:include href="2547xuShou緒守.xml"/><!--清江甯靈谷寺沙門釋緒守傳-->
+        <xi:include href="2548qianYi千一.xml"/><!--清海寧護國禪院沙門釋千一傳徹迷-->
+        <xi:include href="2549shiYu實裕.xml"/><!--清杭州孤舟庵沙門釋實裕傳-->
+        <xi:include href="2550diYong諦勇.xml"/><!--清海寧延恩寺沙門釋諦勇傳-->
       </div>
       <div type="juan" n="47">
         <anchor n="B.27.0151.0347a11"/>
         <head>新續高僧傳四集卷第四十七</head>
         <lb n="0347a13" ed="B"/><p>淨讀篇第八之七(正傳十一人　附見九人)</p>
-        <xi:include href="2551-清紅螺山資福寺沙門釋際醒傳.xml"/><!--清紅螺山資福寺沙門釋際醒傳-->
-        <xi:include href="2552-清嘉禾覺海寺沙門釋達純傳.xml"/><!--清嘉禾覺海寺沙門釋達純傳-->
-        <xi:include href="2553-清江寧靈谷寺沙門釋衍紹傳.xml"/><!--清江寧靈谷寺沙門釋衍紹傳-->
-        <xi:include href="2554-清雲間西禪寺沙門釋悟虔傳.xml"/><!--清雲間西禪寺沙門釋悟虔傳-->
-        <xi:include href="2555-清潤州焦山寺沙門釋覺源傳灝融緣.xml"/><!--清潤州焦山寺沙門釋覺源傳灝融緣-->
-        <xi:include href="2556-清姑蘇南禪寺沙門釋佛度傳絕相_孫東瓜.xml"/><!--清姑蘇南禪寺沙門釋佛度傳絕相_孫東瓜-->
-        <xi:include href="2557-清杭州東園德寧庵沙門釋律淨傳戒乘.xml"/><!--清杭州東園德寧庵沙門釋律淨傳戒乘-->
-        <xi:include href="2558-清金陵鷲峰寺沙門釋正真傳.xml"/><!--清金陵鷲峰寺沙門釋正真傳-->
-        <xi:include href="2559-清天台山國清寺沙門釋小有傳妙修_靜清_崇池.xml"/><!--清天台山國清寺沙門釋小有傳妙修_靜清_崇池-->
-        <xi:include href="2560-清鎮江良篷山寺沙門釋自明傳如月.xml"/><!--清鎮江良篷山寺沙門釋自明傳如月-->
-        <xi:include href="2561-清高郵觀音寺沙門釋松園傳清法.xml"/><!--清高郵觀音寺沙門釋松園傳清法-->
+        <xi:include href="2551jiXing際醒.xml"/><!--清紅螺山資福寺沙門釋際醒傳-->
+        <xi:include href="2552daChun達純.xml"/><!--清嘉禾覺海寺沙門釋達純傳-->
+        <xi:include href="2553yanShao衍紹.xml"/><!--清江寧靈谷寺沙門釋衍紹傳-->
+        <xi:include href="2554wuQian悟虔.xml"/><!--清雲間西禪寺沙門釋悟虔傳-->
+        <xi:include href="2555jueYuan覺源.xml"/><!--清潤州焦山寺沙門釋覺源傳灝融緣-->
+        <xi:include href="2556foDu佛度.xml"/><!--清姑蘇南禪寺沙門釋佛度傳絕相_孫東瓜-->
+        <xi:include href="2557luJing律淨.xml"/><!--清杭州東園德寧庵沙門釋律淨傳戒乘-->
+        <xi:include href="2558zhengZhen正真.xml"/><!--清金陵鷲峰寺沙門釋正真傳-->
+        <xi:include href="2559xiaoYou小有.xml"/><!--清天台山國清寺沙門釋小有傳妙修_靜清_崇池-->
+        <xi:include href="2560ziMing自明.xml"/><!--清鎮江良篷山寺沙門釋自明傳如月-->
+        <xi:include href="2561songYuan松園.xml"/><!--清高郵觀音寺沙門釋松園傳清法-->
       </div>
       <div type="juan" n="48">
         <anchor n="B.27.0151.0353b11"/>
         <head>新續高僧傳四集卷第四十八</head>
         <lb n="0353b13" ed="B"/><p>淨讀篇第八之八(正傳十二人　附見十二人)</p>
-        <xi:include href="2562-清衡州中正禪林沙門釋離塵傳.xml"/><!--清衡州中正禪林沙門釋離塵傳-->
-        <xi:include href="2563-清曲陽黃山寺沙門釋正通傳.xml"/><!--清曲陽黃山寺沙門釋正通傳-->
-        <xi:include href="2564-清成都寶光寺沙門釋宗質傳.xml"/><!--清成都寶光寺沙門釋宗質傳-->
-        <xi:include href="2565-清長沙嶽麓萬壽寺沙門釋映冰傳一心_心有_續乘.xml"/><!--清長沙嶽麓萬壽寺沙門釋映冰傳一心_心有_續乘-->
-        <xi:include href="2566-清丹徒竹林寺沙門釋悟先傳.xml"/><!--清丹徒竹林寺沙門釋悟先傳-->
-        <xi:include href="2567-清潤州焦山定慧寺沙門釋大須傳.xml"/><!--清潤州焦山定慧寺沙門釋大須傳-->
-        <xi:include href="2568-清善化護國寺沙門釋慧圓傳開慧_靈一.xml"/><!--清善化護國寺沙門釋慧圓傳開慧_靈一-->
-        <xi:include href="2569-清寶慶點石禪林沙門釋仁里傳開蓮.xml"/><!--清寶慶點石禪林沙門釋仁里傳開蓮-->
-        <xi:include href="2570-清樂清淨濟寺沙門釋機溥傳彥恢勝_妙能_大海.xml"/><!--清樂清淨濟寺沙門釋機溥傳彥恢勝_妙能_大海-->
-        <xi:include href="2571-清上海玉佛寺沙門釋戒然傳.xml"/><!--清上海玉佛寺沙門釋戒然傳-->
-        <xi:include href="2572-清衡州西禪寺沙門釋常析傳惟澄.xml"/><!--清衡州西禪寺沙門釋常析傳惟澄-->
-        <xi:include href="2573-清燕都南城觀音院沙門釋清苦傳乘參_恒修.xml"/><!--清燕都南城觀音院沙門釋清苦傳乘參_恒修-->
+        <xi:include href="2562liChen離塵.xml"/><!--清衡州中正禪林沙門釋離塵傳-->
+        <xi:include href="2563zhengTong正通.xml"/><!--清曲陽黃山寺沙門釋正通傳-->
+        <xi:include href="2564zongZhi宗質.xml"/><!--清成都寶光寺沙門釋宗質傳-->
+        <xi:include href="2565yingBing映冰.xml"/><!--清長沙嶽麓萬壽寺沙門釋映冰傳一心_心有_續乘-->
+        <xi:include href="2566wuXian悟先.xml"/><!--清丹徒竹林寺沙門釋悟先傳-->
+        <xi:include href="2567daXu大須.xml"/><!--清潤州焦山定慧寺沙門釋大須傳-->
+        <xi:include href="2568huiYuan慧圓.xml"/><!--清善化護國寺沙門釋慧圓傳開慧_靈一-->
+        <xi:include href="2569renLi仁里.xml"/><!--清寶慶點石禪林沙門釋仁里傳開蓮-->
+        <xi:include href="2570jiPu機溥.xml"/><!--清樂清淨濟寺沙門釋機溥傳彥恢勝_妙能_大海-->
+        <xi:include href="2571jieRan戒然.xml"/><!--清上海玉佛寺沙門釋戒然傳-->
+        <xi:include href="2572changXi常析.xml"/><!--清衡州西禪寺沙門釋常析傳惟澄-->
+        <xi:include href="2573qingKu清苦.xml"/><!--清燕都南城觀音院沙門釋清苦傳乘參_恒修-->
       </div>
       <div type="juan" n="49">
         <anchor n="B.27.0151.0361a11"/>

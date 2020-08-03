@@ -42,13 +42,13 @@ ed="T" n="0827a17"/>中月，孰能預於是乎？</p>
         <ptr target="#A012186" type="person"/>
         <ptr target="#PL000000055079" type="place"/>
     </linkGrp>
-    <linkGrp type="wrong">
+    <linkGrp type="low">
         <link targets="#0826c11 #0826c13"/>
         <ptr target="#A012186" type="person"/>
         <ptr target="#A002169" type="person"/>
         <ptr target="#j18082271812891" type="time"/>
     </linkGrp>
-    <linkGrp type="wrong">
+    <linkGrp type="low">
         <link targets="#0826c13 #0826c14"/>
         <ptr target="#A012186" type="person"/>
         <ptr target="#j18233761823479" type="time"/>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0235a17shiXingFu">
+<lb ed="B" n="0235a17"/><anchor n="B.27.0151.0235a17"/><head>明廣陵福田律院沙門<persName key="A042319">釋性福</persName>傳</head>
+<lb ed="B" n="0235a18"/><p xml:id="pB27p0235a1801"><persName key="A042319">釋性福</persName>，字<persName key="A042319">東滄</persName>，姓趙氏，通江人也。生有奇稟，默感通神，初從二
+<lb ed="B" n="0235a19"/>峩山<persName key="A043568">法空</persName>長老<anchor xml:id="beg_fe" type="cb-app"/><g ref="#CB06794">𩮜</g><anchor xml:id="end_fe"/>染。自訪知識，南尋煙水，遂受具足於金陵<persName key="A000352">慧
+<lb ed="B" n="0235a20"/>雲</persName>。既得戒體，益精律行。常持《穢跡金剛經神咒》，日夜不輟。先是，<pb ed="B" xml:id="B27.0151.0235b" n="0235b"/>
+<lb ed="B" n="0235b01"/><persName key="A042319">福</persName>謁南海，躡跡普陀，棲止圓通殿三載。一日散步林間，見白鴉
+<lb ed="B" n="0235b02"/>銜片紙墮地，拾而視之，乃斯經也。因翻藏攷覈，一心受持，日誦
+<lb ed="B" n="0235b03"/>萬回，以為恒課。至是虔禮如故。一夕，<persName key="A000352">慧雲</persName>靜夜起行，見殿宇微
+<lb ed="B" n="0235b04"/>光閃爍，近前視之，唯聞咒聲，迺叩所從。<persName key="A042319">福</persName>具以告，<persName key="A000352">慧雲</persName>嗟歎久
+<lb ed="B" n="0235b05"/>之，乃曰：「<ref type="person" target="#A042319">汝</ref>自後可號<persName key="A042319">金剛大德</persName>。」<persName key="A042319">福</persName>每於壇內持咒時，則金剛杵
+<lb ed="B" n="0235b06"/>飛舞空中，盋盂中水，無火自沸，金剛輪亦自旋轉不已。及持咒
+<lb ed="B" n="0235b07"/>畢，其杵方墜，盋水自平，輪轉亦止。嘗咒盋中水和泥為丸，可療
+<lb ed="B" n="0235b08"/>疾病，有求之者，莫不效應，其靈感如是。一日有人為畫金剛杵，
+<lb ed="B" n="0235b09"/>畫竟，其人遂失所在，相傳為神。由是名動江左，道俗驚歎。<date notBefore-iso="+1573-02-12" key="j22956292312992" notAfter-iso="+1620-08-27">明萬
+<lb ed="B" n="0235b10"/>曆時</date>，傳戒於荊楚、淮揚諸郡，緇素受化者，不可勝計。舊住蜀江
+<lb ed="B" n="0235b11"/>長龍山曇華寺，繼徙廣陵福田律院，金剛輪杵具供院中，壽六
+<lb ed="B" n="0235b12"/>十有九，臘四十有一。造塔寺旁，覆全體焉！明社既屋<!-- 止也 -->，清兵南下，
+<lb ed="B" n="0235b13"/>進軍江寧，道出廣陵。昏夜，塔中有光，見者疑為寶藏。啟而視之，
+<lb ed="B" n="0235b14"/>端坐如生，乃移供院內塔右。過者莫不駭異，膜拜而去。</p>
+    <linkGrp>
+        <link targets="#0235a18 #0235a19"/>
+        <ptr target="#A042319" type="person"/>
+        <ptr target="#A043568" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0235a19 #0235b05"/>
+        <ptr target="#A042319" type="person"/>
+        <ptr target="#A000352" type="person"/>
+    </linkGrp>
+</div>

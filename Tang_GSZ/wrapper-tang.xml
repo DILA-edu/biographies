@@ -41,8 +41,9 @@
   </teiHeader>
   <text>
     <body>
-      <!-- Numbering in filenames continues from the Liang Gaoseng Zhuan -->
-      <xi:include href="0258sengQiePoLuo.xml"/>
+    <!-- Numbering in filenames continues from the Liang Gaoseng Zhuan -->
+      <xi:include href="0258-1xuGaoSengChuanXu.xml"/>
+      <xi:include href="0258-2sengQiePoLuo.xml"/>
       <xi:include href="0259shiBaoChang.xml"/>
       <xi:include href="0260shiTanYao.xml"/>
       <xi:include href="0261puTiLiuZhi.xml"/>

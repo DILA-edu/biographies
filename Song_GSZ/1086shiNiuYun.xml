@@ -57,14 +57,14 @@ ed="T" n="0843c20"/>故時號之焉。</p>
         <ptr target="#PL000000005392" type="place"/>
         <ptr target="#j19709111971293" type="time"/>
     </linkGrp>
-    <linkGrp>
+    <linkGrp cert="low">
         <link targets="#0843b11 #0843b23"/>
         <ptr target="#A012781" type="person"/>
         <ptr target="#A002144" type="person"/>
         <ptr target="#PL000000005345" type="place"/>
         <ptr target="#j19796821980065" type="time"/>
     </linkGrp>
-    <linkGrp>
+    <linkGrp cert="low">
         <link targets="#0843b23 #0843c11"/>
         <ptr target="#A012781" type="person"/>
         <ptr target="#A002144" type="person"/>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0">
+<!-- 中華書局《清史稿．卷二十一．德宗本紀》1977年初版。 -->
+<lb ed="QSG" n="b004p00851"/><head>德宗本紀一</head><p><persName key="A006736">德宗同天崇運大中至正經文緯武仁孝睿智端儉寬勤景皇帝</persName>，諱<persName key="A006736">載湉</persName>，<persName key="A006732">文宗</persName>嗣子，<persName key="A006735">穆宗</persName>從弟也。本生父<persName key="A043387">醇賢親王奕譞</persName>，<persName key="A006730">宣宗</persName>第七子。本生母<persName key="A043562">葉赫那拉氏</persName>，<persName key="A023412">孝欽皇后</persName>女弟。同治十年六月，誕於太平湖邸第。</p>
+    <linkGrp>
+        <link targets="#00851 #00851"/>
+        <ptr target="#A006736" type="person"/>
+        <ptr target="#A006732" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#00851 #00851"/>
+        <ptr target="#A006736" type="person"/>
+        <ptr target="#A006735" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#00851 #00851"/>
+        <ptr target="#A006736" type="person"/>
+        <ptr target="#A043387" type="person"/>
+        <ptr target="#A043562" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#00851 #00851"/>
+        <ptr target="#A023412" type="person"/>
+        <ptr target="#A043562" type="person"/>
+    </linkGrp>
+</div>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0235a03shiXingZhi">
+<lb ed="B" n="0235a03"/><anchor n="B.27.0151.0235a03"/><head>明姑蘇報國寺沙門<persName key="A000630">釋性祇</persName>傳</head>
+<lb ed="B" n="0235a04"/><p xml:id="pB27p0235a0401"><persName key="A000630">釋性祇</persName>，<anchor xml:id="beg_fd" type="cb-app"/>字<anchor xml:id="end_fd"/><persName key="A000630">茂林</persName>，姓沈氏，長興人也。方生之夕，母<g ref="#CB03231">㝱</g>異僧託宿，驚
+<lb ed="B" n="0235a05"/>而臨蓐。呱呱在抱，骨相不凡。甫能言，效誦佛號，琅琅可辨。性好
+<lb ed="B" n="0235a06"/>清絜，不茹腥羶，常欲出家，父母愛而不許。未幾，二親相繼謝世。
+<lb ed="B" n="0235a07"/><persName key="A000630">祗</persName>年才十七，聞里中有彌陀古院，慨然自決，徑往投之，薙髮披
+<lb ed="B" n="0235a08"/>緇。及踰弱冠，抗志苦行，遠參耆宿。初從<persName key="A001394">雲棲</persName>，首入淨土。次依天
+<lb ed="B" n="0235a09"/>台<persName key="A015872">聞谷</persName>老人，更習禪觀。明萬曆時，<persName key="A000352">慧雲</persName>法師建壇於金陵靈谷，
+<lb ed="B" n="0235a10"/><persName key="A000630">祇</persName>杖錫歸之。既受圓具，攻討律文，徧探群書。由是清標三聚，<g ref="#CB15665">諄</g>
+<lb ed="B" n="0235a11"/>誨五篇，遂開化四眾於吳越之間。學者聞風趨向，負笈景從。<persName key="A000630">祇</persName>
+<lb ed="B" n="0235a12"/>量識淺深，循循啟導，故宏律三十餘載，稟戒歸依者，不可稱數。
+<lb ed="B" n="0235a13"/>吳中士夫，欽其戒德，每請利濟幽孤。其甘露瓶中水嘗自溢，人
+<lb ed="B" n="0235a14"/>以為功德之應。<persName key="A000630">祇</persName>深自韜晦，若弗敢承，其真實無妄如此。法緣
+<lb ed="B" n="0235a15"/>既終，西邁方始，壽六十有八，臘四十有八，建塔吳門西園。所著
+<lb ed="B" n="0235a16"/>《四分摭略》及《五百問解》，學者珍之。</p>
+    <linkGrp>
+        <link targets="#0235a07 #0235a08"/>
+        <ptr target="#A000630" type="person"/>
+        <ptr target="#A001394" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0235a08 #0235a09"/>
+        <ptr target="#A000630" type="person"/>
+        <ptr target="#A015872" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0235a09 #0235a10"/>
+        <ptr target="#A000630" type="person"/>
+        <ptr target="#A000352" type="person"/>
+    </linkGrp>
+</div>

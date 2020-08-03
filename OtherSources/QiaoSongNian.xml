@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0">
+<!-- 中華書局《清史稿．卷二十．文宗本紀》《清史稿．卷二十一．穆宗本紀》1977年初版。 -->
+<lb ed="QSG" n="b004p00760"/><p>敕王夢齡督同<persName key="A043385">喬松年</persName>開辦江北糧臺。……
+<lb ed="QSG" n="b004p00776"/>……命<persName key="A043385">喬松年</persName>督辦沿江團練。</p>
+    <linkGrp>
+        <link targets="#00760 #00760"/>
+        <ptr target="#A006732" type="person"/>
+        <ptr target="#A043385" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#00776 #00776"/>
+        <ptr target="#A006735" type="person"/>
+        <ptr target="#A043385" type="person"/>
+    </linkGrp>
+</div>

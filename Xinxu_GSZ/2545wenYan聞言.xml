@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="淨讀" xml:id="gsz0344b04shiWenYan">
+<lb ed="B" n="0344b04"/><anchor n="B.27.0151.0344b04"/><head>清錢塘祇園庵沙門<persName key="A043483">釋聞言</persName>傳<persName type="secondary" key="A043485">法真</persName></head>
+<lb ed="B" n="0344b05"/><p xml:id="pB27p0344b0501"><persName key="A043483">釋聞言</persName>，字<persName key="A043483">超然</persName>，姓費氏，桐鄉人。幼小之時，不食腥羶，好趺跏坐。
+<lb ed="B" n="0344b06"/><ref type="date" target="#j23299432330326">七歲</ref>入靈隱山祇園庵出家。為人湻樸，謹言力行，受具於雲林
+<lb ed="B" n="0344b07"/><persName key="A016549">碩揆志</persName>。朝夕提策，<persName key="A043483">言</persName>曰：「<persName key="A043483">言</persName>也鈍根，不善參究，唯知念佛耳！」<persName key="A016549">志</persName>曰：
+<lb ed="B" n="0344b08"/>「念佛亦可了生死。」<persName key="A043483">言</persName>奉教唯謹，尤精戒律。二六時中<!-- 竟日 -->，唯持名號，
+<lb ed="B" n="0344b09"/>不問他事。<date when-iso="+1737-06-29" key="j23556662355666">乾隆二年六月二日</date>，忽召眾曰：「<ref type="person" target="#A043483">我</ref>行矣！」說偈而逝。<persName key="A043485">法
+<lb ed="B" n="0344b10"/>真</persName>字<persName key="A043485">朗如</persName>，高安人。得度於<persName key="A043486">灌溪元文</persName>。平時潛心淨修，一日與禪
+<lb ed="B" n="0344b11"/>者論及無字意，蓄疑久之，豁然有省。詣海幢禮<persName key="A043487">正月</persName>老人，機語
+<lb ed="B" n="0344b12"/>契合，遂受記莂。<date from-iso="+1755-02-11" key="j23621022362455" to-iso="+1756-01-30">乾隆二十年</date>主席海幢，提倡宗乘，兼宏淨願。晚
+<lb ed="B" n="0344b13"/>歲謝事，掩關寺之東偏，專課佛號，寒暑不懈者八年。以<date when-iso="+1773-10-27" key="j23689352368935">乾隆三
+<lb ed="B" n="0344b14"/>十八年九月十二日</date>示寂。先夕召弟子，屬身後事。及日午，自舉
+<lb ed="B" n="0344b15"/>淨土文，香盡二寸而沒。</p>
+    <linkGrp>
+        <link targets="#0344b06 #0344b08"/>
+        <ptr target="#A043483" type="person"/>
+        <ptr target="#A016549" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0344b09 #0344b10"/>
+        <ptr target="#A043485" type="person"/>
+        <ptr target="#A043486" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0344b11 #0344b12"/>
+        <ptr target="#A043485" type="person"/>
+        <ptr target="#A043487" type="person"/>
+    </linkGrp>
+</div>

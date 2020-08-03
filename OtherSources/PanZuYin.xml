@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0">
+<!-- 中華書局《清史稿．卷二十二．穆宗本紀》1977年初版。 -->
+<lb ed="QSG" n="b004p00848"/><head>穆宗本紀二</head><p>慈安皇太后、<persName key="A023412">慈禧皇太后</persName>召惇親王奕誴、<persName key="A043424">恭親王奕訢</persName>、<persName key="A043387">醇親王奕譞</persName>，<persName key="A043388">孚郡王奕譓</persName>、惠郡王奕詳，貝勒載治、載澂，公奕謨，御前大臣伯彥訥謨祜、奕劻、景壽，軍機大臣寶鋆、沈桂芬、李鴻藻 ，內務府大臣英桂、崇綸、魁齡、榮祿、明善、貴寶、文錫，直弘德殿徐桐、<persName key="A014233">翁同龢</persName> 、王慶祺，南書房黃鈺、<persName key="A043384">潘祖蔭</persName>、孫詒經、<persName key="A014248">徐郙</persName>、張家驤入奉懿旨，以<persName key="A043387">醇親王</persName>之子承繼<persName key="A006732">文宗</persName>為嗣皇帝。</p>
+    <linkGrp>
+        <link targets="#00848 #00848"/>
+        <ptr target="#A043424" type="person"/>
+        <ptr target="#A043387" type="person"/>
+        <ptr target="#A023412" type="person"/>
+        <ptr target="#A043388" type="person"/>
+        <ptr target="#A014233" type="person"/>
+        <ptr target="#A043384" type="person"/>
+        <ptr target="#A014248" type="person"/>
+    </linkGrp>
+</div>

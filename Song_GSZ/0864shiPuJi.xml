@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0760c09shiPuJi"><lb
-ed="T" n="0760c09"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000056485"><placeName>京師</placeName><placeName>興唐寺</placeName></placeName><persName key="A009319">普寂</persName>傳<ptr rend="display:none;" target="#n2360"/></head><anchor n="T.50.2061.0760c09"/><p><lb
+ed="T" n="0760c09"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000056485">京師<placeName>興唐寺</placeName></placeName><persName key="A009319">普寂</persName>傳<ptr rend="display:none;" target="#n2360"/></head><anchor n="T.50.2061.0760c09"/><p><lb
 ed="T" n="0760c10"/><persName key="A009319">釋普寂</persName>，姓<anchor xml:id="beg0760sgsz18"/><name><choice resp="PC-JK-MB"><sic>憑</sic><corr>馮</corr></choice></name><anchor xml:id="end0760sgsz18"/>氏，<placeName key="PL000000005197"><placeName>蒲州</placeName><placeName>河東</placeName></placeName>人也。年纔稚弱，率<lb
 ed="T" n="0760c11"/>性軒昂，離俗升壇，循于經律。臨文揣義，逈<lb
 ed="T" n="0760c12"/>異恒流。初聞<persName key="A009582">神秀</persName>在<placeName key="PL000000027023"><placeName>荊州</placeName><placeName>玉泉寺</placeName></placeName>，<persName key="A009319">寂</persName>乃往師<lb
@@ -15,7 +15,7 @@ ed="T" n="0760c20"/>年</date>，終于<placeName key="PL000000056485"><placeNam
 ed="T" n="0760c21"/>謁者皆制弟<anchor xml:id="beg0760sgsz24"/>子<anchor xml:id="end0760sgsz24"/>之服。有制賜謚曰<persName key="A009319">大<choice resp="PC-JK-MB"><sic>慧</sic><corr>照</corr></choice>禪<lb
 ed="T" n="0760c22"/>師</persName><ptr target="#n1383"/>。及葬，<placeName key="PL000000023580">河南</placeName>尹<persName key="A009351">裴寬</persName>及其妻子，並縗麻列于<lb
 ed="T" n="0760c23"/>門徒之次<ptr type="glossary" target="#g1422"/>。傾城哭送，閭里為之空焉。<persName key="A009351">裴<roleName>尹</roleName></persName><lb
-ed="T" n="0760c24"/>之重<persName key="A009319">寂</persName>，<ptr type="glossary" target="#g1435"/>職有由矣。<persName key="A009319">寂</persName>之闡化，神異頗多，<persName key="A009351">裴</persName><lb
+ed="T" n="0760c24"/>之重<persName key="A009319">寂</persName>，職<ptr type="glossary" target="#g2433"/>有由矣。<persName key="A009319">寂</persName>之闡化，神異頗多，<persName key="A009351">裴</persName><lb
 ed="T" n="0760c25"/>皆目擊，又得心印<ptr type="glossary" target="#g1434"/>，歸向越深，時多譏誚。<persName key="A009351">裴</persName><lb
 ed="T" n="0760c26"/>日夕造謁，執弟子禮曾無差脫。一日詣<persName key="A009319">寂</persName>，<lb
 ed="T" n="0760c27"/><persName key="A009319">寂</persName>懸知弟子<persName key="A000008">一行</persName>之亡。及<persName key="A009319">寂</persName>之終滅，<persName key="A009351">裴</persName>之<lb

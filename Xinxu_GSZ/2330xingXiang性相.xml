@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0233a11shiXingXiang">
+<lb ed="B" n="0233a11"/><anchor n="B.27.0151.0233a11"/><head>明金陵極樂寺沙門<persName key="A042318">釋性相</persName>傳</head>
+<lb ed="B" n="0233a12"/><p xml:id="pB27p0233a1201"><persName key="A042318">釋性相</persName>，字<persName key="A042318">蓮宗</persName>，姓高氏，江寧人也。父貧，樵薪自給，無以為家。嘗
+<lb ed="B" n="0233a13"/>採荻江渚，昏夜莫依，棲蘆林中，席地獨臥。蟁蚋交集，不以為苦，
+<lb ed="B" n="0233a14"/>蓋形同土木，兦懷自適，雖未染道跡，已別具忍力矣！稍長，遂厭
+<lb ed="B" n="0233a15"/>樊籠，就攝山棲霞寺禮<persName key="A008316">素庵</persName>法師，薙染為僧。復稟具足於<persName key="A000352">慧雲</persName>
+<lb ed="B" n="0233a16"/>律師。雖同參法侶，共出一門，而聞道早晚，更相尊師。有可為無，
+<lb ed="B" n="0233a17"/>實亦若虛，下問不恥，况在高明。由是以律嚴<anchor xml:id="beg_f9" type="cb-app"/>己<anchor xml:id="end_f9"/>，以謙下人，處卑
+<lb ed="B" n="0233a18"/>彌光，聲聞自遠。<persName key="A000352">慧雲</persName>遷化，<persName key="A042318">相</persName>乃焚，修墖院。禮誦《華嚴》，寒暑不輟，
+<lb ed="B" n="0233a19"/>四眾推許，請宏法牒。臨壇演戒，亹亹忘疲。晚主金陵極樂寺。示
+<lb ed="B" n="0233a20"/>寂，寢寮，世壽、僧臘均未詳。建塔玉環山右，與<persName key="A000352">慧雲</persName>相次，本<persName key="A042318">相</persName>志<pb ed="B" xml:id="B27.0151.0233b" n="0233b"/>
+<lb ed="B" n="0233b01"/>也。</p>
+    <linkGrp>
+        <link targets="#0233a15 #0233a16"/>
+        <ptr target="#A042318" type="person"/>
+        <ptr target="#A008316" type="person"/>
+        <ptr target="#A000352" type="person"/>
+    </linkGrp>
+</div>

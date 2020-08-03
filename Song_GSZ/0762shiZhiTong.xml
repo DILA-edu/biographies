@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="譯經" xml:id="gsz0719c18shiZhiTong"><lb
-ed="T" n="0719c18"/><anchor n="T.50.2061.0719c18"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000042422"><placeName>京師</placeName><placeName>總持寺</placeName></placeName><persName key="A001275">智通</persName>傳<ptr rend="display:none;" target="#n174"/></head><p><lb
+ed="T" n="0719c18"/><anchor n="T.50.2061.0719c18"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000042422">京師總持寺</placeName><persName key="A001275">智通</persName>傳<ptr rend="display:none;" target="#n174"/></head><p><lb
 ed="T" n="0719c19"/><persName key="A001275">釋智通</persName>，姓<name>趙氏</name>，本<placeName key="PL000000004907"><placeName>陝州</placeName><placeName>安邑</placeName></placeName>人也。<placeName key="PL000000000105">隋</placeName><date notBefore-iso="+0605-01-28" key="j19420591946754" notAfter-iso="+0617-12-06"><name>大業</name>中</date><lb
 ed="T" n="0719c20"/>出家受具，後隸名<placeName key="PL000000042422">總持寺</placeName>。律行精明，經論該<lb
 ed="T" n="0719c21"/>博<ptr rend="display:none;" type="glossary" target="#g350"/>。自幼挺秀，即有遊方之志，因往<placeName key="PL000000023589"><placeName>洛京</placeName><placeName>翻<lb
