@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="淨讀" xml:id="gsz0325b06shiBenMing">
+<lb ed="B" n="0325b06"/><anchor n="B.27.0151.0325b06"/><head>明通州靜嘉寺沙門<persName key="A043619">釋本明</persName>傳<persName type="secondary" key="A007797">性專</persName><persName type="secondary" key="A043620">祖香</persName></head>
+<lb ed="B" n="0325b07"/><p xml:id="pB27p0325b0701"><persName key="A043619">釋本明</persName>者，姓字、里居未詳所出。少時寄跡空門，梵行清潔，勤於
+<lb ed="B" n="0325b08"/>講誦。晚歲輟講，居通州靜嘉寺，專心淨業，六時精虔，歷年弗替。
+<lb ed="B" n="0325b09"/>偶示微恙，自知時至，與眾告別，安然順化，異香七日。<persName key="A007797">性專</persName>字<persName key="A007797">守
+<lb ed="B" n="0325b10"/>庵</persName>，姓張氏，崑山人。早歲薙髮，遍訪知識。謁<persName key="A000964">妙峯</persName>受戒。預《法華》講
+<lb ed="B" n="0325b11"/>席，聞聲領悟，誓行頭陀行。十二時中，唯誦《法華》，深入禪定。嘗於
+<lb ed="B" n="0325b12"/>空中見西方寶池，成琉璃色，深廣無際。以白<persName key="A000964">妙峯</persName>，<persName key="A000964">妙</persName>曰：「此觀行
+<lb ed="B" n="0325b13"/>初成之相，不生取著，是善境界。」<persName key="A007797">專</persName>遂深秘不言。石城有百尺彌
+<lb ed="B" n="0325b14"/>勒像，<date notBefore-iso="+1522-02-07" key="j22769962293443" notAfter-iso="+1567-02-18">嘉靖間</date>經兵燹金蝕，<persName key="A007797">專</persName>為新之。又構石殿與像，稱感見瑞
+<lb ed="B" n="0325b15"/>光，夜明如日。<date from-iso="+1544-07-30" key="j22852052285292" to-iso="+1544-10-25">二十三年秋</date>延<persName key="A007274">傳燈</persName>法師講小本《彌阿經》，有請易
+<lb ed="B" n="0325b16"/>《彌勒上生經》者。<persName key="A007797">專</persName>曰：「不然，吾聞<persName key="A002843">彌陀</persName>與<persName key="A001428">彌勒</persName>，一身一智慧，力無
+<lb ed="B" n="0325b17"/>畏亦然，將使眾同悟本性，<persName key="A002843">彌陀</persName>即本性。<persName key="A001428">彌勒</persName>先遊蓮華淨土，然
+<lb ed="B" n="0325b18"/>後預龍華勝會耳！」<date from-iso="+1546-12-03" key="j22860612286090" to-iso="+1547-01-01">嘉靖二十五年仲冬</date>，示寂前數日，衣褶中生
+<lb ed="B" n="0325b19"/>靈芝一本，大於拳，色紅白。<persName key="A043620">祖香</persName>者，新喻人。居山東龍潭寺，精修
+<lb ed="B" n="0325b20"/>淨業。有居士<persName key="A043621">王傑</persName>者，築庵延之。<persName key="A043620">香</persName>語<persName key="A043621">傑</persName>云：「吾當歸去。」眾留之，曰：<pb ed="B" xml:id="B27.0151.0326a" n="0326a"/>
+<lb ed="B" n="0326a01"/>「歸安養鄉耳。」及期坐化，舉龕入山，火出自焚。</p>
+    <linkGrp>
+        <link targets="#0325b09 #0325b13"/>
+        <ptr target="#A007797" type="person"/>
+        <ptr target="#A000964" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0325b15 #0325b15"/>
+        <ptr target="#A007797" type="person"/>
+        <ptr target="#A007274" type="person"/>
+        <ptr target="#j22852052285292" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0325b19 #0326a01"/>
+        <ptr target="#A043620" type="person"/>
+        <ptr target="#A043621" type="person"/>
+    </linkGrp>
+</div>

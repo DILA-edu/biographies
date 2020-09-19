@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="淨讀" xml:id="gsz0325a03shiXingZong">
+<lb ed="B" n="0325a03"/><anchor n="B.27.0151.0325a03"/><head>明黔中永祥寺沙門<persName key="A043618">釋興宗</persName>傳<persName type="secondary" key="A013212">周續</persName><persName type="secondary" key="A013240">慧鑑</persName><persName type="secondary" key="A012512">儒施</persName><persName type="secondary" key="A012678">真懷</persName><persName type="secondary" key="A013460">真全</persName></head>
+<lb ed="B" n="0325a04"/><p xml:id="pB27p0325a0401"><persName key="A043618">釋興宗</persName>者，大理人，忘其族姓，童年出家。<date notBefore-iso="+1465-02-05" key="j22561762264562" notAfter-iso="+1488-01-22">明成化間</date>始遊黔中，止
+<lb ed="B" n="0325a05"/>永祥寺。日誦《法華經》，一字一拜，無一夕間。持此四十年，膝所著
+<lb ed="B" n="0325a06"/>處，木版為穿，人呼<persName key="A043618">拜經師</persName>。年七十，克期鳴鼓，告眾而逝。後有<persName key="A013212">周
+<lb ed="B" n="0325a07"/>續</persName>字<persName key="A013212">傳鐙</persName>，葉偷<!-- 榆 -->人。幼依雞足山大覺寺<persName key="A012045">徧周</persName>出家，壯遊名勝，參
+<lb ed="B" n="0325a08"/>叩耆宿。既而還山，專修淨業，晨夕諷號，念念不輟。忽一日，聞牆
+<lb ed="B" n="0325a09"/>角西，有語聲云：「當得中品往生。」遂集眾告語，合掌立化，手扶竹
+<lb ed="B" n="0325a10"/>杖，指握數珠，操持不墜。及荼毘時，珠亦不燬，視之乃木質也。<persName key="A013240">慧
+<lb ed="B" n="0325a11"/>鑑</persName>，鎮南州白土城人。初住雞足，念佛三年，後遊獅子林，契其幽
+<lb ed="B" n="0325a12"/>闐，遂止息焉！晝夜跏趺三十載，不設牀席。然鐙頂上，計三千餘
+<lb ed="B" n="0325a13"/>盞，髦髮盡淨，而頂骨絜白，瑩然似玉。後終於石鐘，世壽八十餘
+<lb ed="B" n="0325a14"/>云。又有<persName key="A012512">儒施</persName>字<persName key="A012512">大力</persName>，宜良人也。本<persName key="A012124">所庵</persName>弟子，初入雞足，四林密
+<lb ed="B" n="0325a15"/>茂，人跡罕到，乃闢地結茅山中。初無習靜者，建立靜室，自<persName key="A012512">儒施</persName>
+<lb ed="B" n="0325a16"/>始。性素樸直，行止敦厚，有古人風。本修苦行，更習禪那。晚年兼
+<lb ed="B" n="0325a17"/>以淨土導人，孳孳不勌。將示寂日，自云「見西方一池，生大蓮花。
+<lb ed="B" n="0325a18"/>水清蕖碧，花葉無數。一花一人，端坐其中，<anchor xml:id="beg_161" type="cb-app"/>己<anchor xml:id="end_161"/>亦與焉，歡欣無既。」
+<lb ed="B" n="0325a19"/>因合掌向西而逝。<persName key="A012678">真懷</persName>字<persName key="A012678">沖虛</persName>，昆明黃氏子。初投盤龍寺，後遊
+<lb ed="B" n="0325a20"/>峩眉、五臺，棲臺九載，學諸經論。參<persName key="A000349">蘊璞</persName>、<persName key="A001681">憨山</persName>，翻然省悟，知所從<pb ed="B" xml:id="B27.0151.0325b" n="0325b"/>
+<lb ed="B" n="0325b01"/>入。及還雞足，建不二軒以居。晚住傳衣十五年，專修淨業。將寂
+<lb ed="B" n="0325b02"/>七日，預邀山中耆宿告別，忽焉遷化。又<persName key="A013460">真全</persName>者，燕人也。<date notBefore-iso="+1573-02-12" key="j22956292312992" notAfter-iso="+1620-08-27">明萬歷
+<lb ed="B" n="0325b03"/>間</date>至雞足，留大覺寺，篤志清修。嘗造一木缸，日夜趺坐其中，二
+<lb ed="B" n="0325b04"/>十餘年無稍懈。至<date from-iso="+1637-11-16" key="j23192822319371" to-iso="+1638-02-13">崇禎丁丑冬</date>，夜坐缸中，大聲號佛，黎明寂然。
+<lb ed="B" n="0325b05"/>同侶視之，始知已化去矣。</p>
+    <linkGrp>
+        <link targets="#0325a06 #0325a07"/>
+        <ptr target="#A013212" type="person"/>
+        <ptr target="#A012045" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0325a14 #0325a14"/>
+        <ptr target="#A012512" type="person"/>
+        <ptr target="#A012124" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0325a19 #0325a20"/>
+        <ptr target="#A012678" type="person"/>
+        <ptr target="#A000349" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0325a19 #0325a20"/>
+        <ptr target="#A012678" type="person"/>
+        <ptr target="#A001681" type="person"/>
+    </linkGrp>
+</div>

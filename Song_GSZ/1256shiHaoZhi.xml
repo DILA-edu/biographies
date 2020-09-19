@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="雜科聲德" xml:id="gsz0894c23shiHaoZhi">
 <lb ed="T" n="0894c23"/><anchor n="T.50.2061.0894c23"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000042147">上都大安國寺</placeName><persName key="A008821">好直</persName>傳</head><p>
-<lb ed="T" n="0894c24"/><persName key="A008821">釋好直</persName>，俗姓<name>丁氏</name>，<placeName key="PL000000013376">會稽 諸暨</placeName>人也。幼不喜
+<lb ed="T" n="0894c24"/><persName key="A008821">釋好直</persName>，俗姓<name>丁氏</name>，<placeName key="PL000000013376"><placeName>會稽</placeName><placeName>諸暨</placeName></placeName>人也。幼不喜
 <lb ed="T" n="0894c25"/>俗事，酒肉葷茹，天然不食。因投<placeName key="PL000000013360">杭塢山</placeName><persName key="A009653">藏<roleName>師</roleName></persName>
 <lb ed="T" n="0894c26"/>落髮。<date notBefore-iso="+0806-01-29" key="j20154742016757" notAfter-iso="+0809-08-04"><name>元和</name>初</date>受具於<placeName key="PL000000011519">杭</placeName>之<placeName key="PL000000011596">天竺寺</placeName>。凡百經律
 <lb ed="T" n="0894c27"/>論疏鈔，嗜其腴潤。一旦芒屩<ptr type="glossary" target="#g2421"/>策杖，詣<placeName key="PL000000018628">洪州</placeName>

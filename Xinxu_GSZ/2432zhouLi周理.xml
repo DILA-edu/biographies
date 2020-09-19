@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="靈感" xml:id="gsz0289a15shiZhouLi">
+<lb ed="B" n="0289a15"/><anchor n="B.27.0151.0289a15"/><head>明雲南雞足山大覺寺沙門<persName key="A000560">釋周理</persName>傳</head>
+<lb ed="B" n="0289a16"/><p xml:id="pB27p0289a1601"><persName key="A000560">釋周理</persName>，出杜氏，蕎甸人。初字<persName key="A000560">徹融</persName>，後講《華嚴》於青蓮寺。釋理微
+<lb ed="B" n="0289a17"/>玅，與《中庸》義多所發明，<persName key="A012103">陶<roleName>公</roleName>不退</persName>乃請易「融」為「庸」。<persName key="A000560">理</persName>生時白氣
+<lb ed="B" n="0289a18"/>出屋，鄉人異之。然啼聲輟作，三日不止。忽有二僧聞聲，登門為
+<lb ed="B" n="0289a19"/>之摩頂。因請賜名命，曰<persName key="A000560">慧九</persName>。是夕啼止，家人相慶。<ref type="date" target="#j23051092305491">九歲</ref>而孤，集
+<lb ed="B" n="0289a20"/>於茶<!-- 荼 -->蓼。<ref type="date" target="#j23058472306200">年十一</ref>入雞足山，禮大覺<persName key="A012045">徧周</persName>為師。先夕，<persName key="A012045">徧</persName>夢大蓮花<pb ed="B" xml:id="B27.0151.0289b" n="0289b"/>
+<lb ed="B" n="0289b01"/>生於殿庭，日中<persName key="A000560">理</persName>至，適符其兆，<persName key="A012045">徧</persName>乃忻然為之落髮。然語音蹇
+<lb ed="B" n="0289b02"/>澀，期期不明，因禮誦<persName key="A002803">觀音</persName>三年。一夕，夢白衣入室，授藥三丸，命
+<lb ed="B" n="0289b03"/>吞之。自是發言，略無滯塞。後至姚城參<persName key="A043609">密藏</persName>大師，遂有省發。屢
+<lb ed="B" n="0289b04"/>躋講座，為眾欽仰，延主妙峰。山有龍湫，人莫敢犯，歲時宰牲，投
+<lb ed="B" n="0289b05"/>之以祀。<date from-iso="+1631-05-01" key="j23168912316979" to-iso="+1631-07-28">明崇禎辛未夏</date>，日方亭午<!-- 正午 -->，忽雷雨暴興，山林撼動。大眾
+<lb ed="B" n="0289b06"/>驚駭，侍者持杖立前，欲導之行。<persName key="A000560">理</persName>曰：「將何為？」曰：「龍作孽，須避耳！」
+<lb ed="B" n="0289b07"/><persName key="A000560">理</persName>叱之。俄而水溢階庭，浸及几案，<persName key="A000560">理</persName>不為動，端坐持誦，若無所
+<lb ed="B" n="0289b08"/>見。須臾，雨止天霽，前後林巒，五十餘里，壞山拔木，不可勝紀。惟
+<lb ed="B" n="0289b09"/>寺宇靜室，略無損傷。遐邇嗟異，知有神護。是夕，定中見一王者，
+<lb ed="B" n="0289b10"/>乘空而至，告語求書，乃書「善德祠」予之。又見老嫗引一女子，形
+<lb ed="B" n="0289b11"/>容妖冶。<persName key="A000560">理</persName>呵之曰：「汝前生作孽，今尚如此，當截汝首。」即劍光閃
+<lb ed="B" n="0289b12"/>爍，飛射而出。嫗與女郎，哀伏於前，因為說戒，遣之而去，自是境
+<lb ed="B" n="0289b13"/>物安寧。<date from-iso="+1634-01-29" key="j23178952318278" to-iso="+1635-02-16">明崇禎甲<anchor xml:id="beg_148" type="cb-app"/>戌<anchor xml:id="end_148"/></date>，遊叩諸方，請藏南都。時<persName key="A003688">密雲</persName>說法天童，入
+<lb ed="B" n="0289b14"/>室請益。相視莫逆，欲留不可。辭歸滇南，弘法妙峰。<persName key="A001339">古庭</persName>而後二
+<lb ed="B" n="0289b15"/>百餘年，祖鐙再續，實賴斯人。著有《曹溪一滴》、《谷響集》、《夢語摘要》
+<lb ed="B" n="0289b16"/>及《語錄》若干卷。寂年五十七，僧行四十六。</p>
+    <linkGrp>
+        <link targets="#0289a16 #0289a17"/>
+        <ptr target="#A000560" type="person"/>
+        <ptr target="#A012103" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0289a20 #0289b01"/>
+        <ptr target="#A000560" type="person"/>
+        <ptr target="#A012045" type="person"/>
+        <ptr target="#j23058472306200" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0289b03 #0289b03"/>
+        <ptr target="#A000560" type="person"/>
+        <ptr target="#A043609" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0289b13 #0289b14"/>
+        <ptr target="#A000560" type="person"/>
+        <ptr target="#A003688" type="person"/>
+        <ptr target="#j23178952318278" type="time"/>
+    </linkGrp>
+</div>

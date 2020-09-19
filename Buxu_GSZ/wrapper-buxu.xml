@@ -1,4 +1,6 @@
-<?xml version="1.0" ?><?oxygen RNGSchema="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/gisSchema.rng" type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+<?xml version="1.0" ?>
+<?oxygen RNGSchema="../Schema/gisSchema.rng" type="rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -13,9 +15,9 @@
         <principal>Marcus Bingenheimer</principal>
       </titleStmt>
       <publicationStmt>
-        <date>2011</date>
         <publisher>Dharma Drum Buddhist College 法鼓佛教學院</publisher>
         <pubPlace>Jinshan, Taiwan 臺灣新北市金山區</pubPlace>
+        <date>2011</date>
         <availability status="free"><p>This electronic text is distributed by Dharma Drum Buddhist College under a <ref target="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share-Alike Licence</ref>.</p>
         </availability>
       </publicationStmt>

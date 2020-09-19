@@ -1,12 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" type="靈感">
-
-<lb ed="B" n=""/><anchor n="B.27.0151"/>
-                    <head>明曲靖真峯山沙門釋鏡中傳<persName type="secondary">志登　匾囤</persName>
-                    </head>
-                <p xml:id="pB27p0286b1901">釋鏡中明正統間棲止曲精真峯山下苦行四十餘年夜以念
-<lb ed="B" n="0286b20"/>珠撒地一一探之仍纍然成貫竟夜不寐以此為恆無一夕間
-<pb ed="B" xml:id="B27.0151.0287a" n="0287a"/>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="靈感" xml:id="gsz0286b18shiJingZhong">
+<lb ed="B" n="0286b18"/><anchor n="B.27.0151.0286b18"/><head>明曲靖真峯山沙門釋鏡中傳<persName type="secondary">志登　匾囤</persName></head>
+<lb ed="B" n="0286b19"/><p xml:id="pB27p0286b1901">釋鏡中明正統間棲止曲<anchor xml:id="beg028601"/><choice><sic resp="CBETA">精</sic><corr resp="PC-MB">靖</corr></choice><anchor xml:id="end028601"/>真峯山下苦行四十餘年夜以念
+<lb ed="B" n="0286b20"/>珠撒地一一探之仍纍然成貫竟夜不寐以此為恆無一夕間<pb ed="B" xml:id="B27.0151.0287a" n="0287a"/>
 <lb ed="B" n="0287a01"/>侍者怪之叩其所以但言不苦不真吾以伏魔耳一夕有盜入
 <lb ed="B" n="0287a02"/>室攫取衣盋鏡中欣然與以飲食遣之使去乃盜挾所竊出戶
 <lb ed="B" n="0287a03"/>而走如墮雲霧腰纏背負且行且探長夜漫漫不勝其苦比曉

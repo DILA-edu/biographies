@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="靈感" xml:id="gsz0289b17shiZhiMing">
+<lb ed="B" n="0289b17"/><anchor n="B.27.0151.0289b17"/><head>明薊州淨業寺沙門<persName key="A015876">釋至明</persName>傳</head>
+<lb ed="B" n="0289b18"/><p xml:id="pB27p0289b1801"><persName key="A015876">釋至明</persName>，字<persName key="A015876">無暗</persName>，姓袁氏，介休人。出家千佛庵，禀具五臺顯通寺。
+<lb ed="B" n="0289b19"/>參<persName key="A009553">徧融</persName>、<persName key="A001681">憨山</persName>、<persName key="A000944">達觀</persName>，於言下各有所得。居盤山五盆溝者，十有五
+<lb ed="B" n="0289b20"/>年。苦心堅忍，了然生死。嘗絕糧五日，掩關獨坐。<persName key="A043610">王<roleName>孝廉</roleName>邦均</persName>者，<pb ed="B" xml:id="B27.0151.0290a" n="0290a"/>
+<lb ed="B" n="0290a01"/>夙懷善念，雅好施與。夜夢神人告之曰：「盤山五盆溝，有修行人
+<lb ed="B" n="0290a02"/>絕糧，是汝師也。」質明，<ref type="person" target="#A043610">孝廉</ref>問之薪者蹤跡之。境幽路險，寂無人
+<lb ed="B" n="0290a03"/>聲。扣門見之曰：「<ref type="person" target="#A015876">師</ref>絕糧耶？」曰：「何以知之？」以夢告，因請為弟子。再
+<lb ed="B" n="0290a04"/>拜，乞一言。<persName key="A015876">明</persName>曰：「平常心是道。」由是相知。後應孝廉，請出住靜業，
+<lb ed="B" n="0290a05"/>闡毘尼，演修多羅教。會歲饑，人多求度，<persName key="A015876">明</persName>見輒許之，老穉剃度
+<lb ed="B" n="0290a06"/>者幾千人。雖寺無儲蓄，而廚中供具無缺。學侶請益者，譬引曲
+<lb ed="B" n="0290a07"/>喻，必解悟而後已。<date from-iso="+1644-02-08" key="j23215572321911" to-iso="+1645-01-27">崇禎末</date>示寂，留偈曰：「幻身本無實，真如本自
+<lb ed="B" n="0290a08"/>然；崑崙成粉碎，生死不相關。」塔於菴左。<persName key="A021480">智朴</persName>為之銘，具《山志》。<persName key="A043611">德
+<lb ed="B" n="0290a09"/>意</persName>頌以詩曰：「白雲深處結精藍，無限幽情祗自耽；魔懾真風消
+<lb ed="B" n="0290a10"/>幻障，龍欽高蹈徙澄潭。清操不讓巖松古，妙義猶如水月涵；我
+<lb ed="B" n="0290a11"/>欲詢師師已邈，臨風空對薜蘿龕。」舊傳五盆多魔魅，故云。</p>
+    <linkGrp>
+        <link targets="#0289b19 #0289b19"/>
+        <ptr target="#A015876" type="person"/>
+        <ptr target="#A009553" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0289b19 #0289b19"/>
+        <ptr target="#A015876" type="person"/>
+        <ptr target="#A001681" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0289b19 #0289b19"/>
+        <ptr target="#A015876" type="person"/>
+        <ptr target="#A000944" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0289b20 #0290a04"/>
+        <ptr target="#A015876" type="person"/>
+        <ptr target="#A043610" type="person"/>
+    </linkGrp>
+</div>

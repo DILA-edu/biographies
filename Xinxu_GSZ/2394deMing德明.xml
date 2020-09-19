@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="護法" xml:id="gsz0267b19shiDeMing">
+<lb ed="B" n="0267b19"/><anchor n="B.27.0151.0267b19"/><head>明杭州靈隱寺沙門<persName key="A042235">釋德明</persName>傳<persName type="secondary" key="A043582">真祥</persName></head>
+<lb ed="B" n="0267b20"/><p xml:id="pB27p0267b2001"><persName key="A042235">釋德明</persName>，宇<!-- 字 --><persName key="A042235">前溪</persName>，姓林氏，黃巖人。嘉靖間主靈隱，值海寇肆虐，焚<pb ed="B" xml:id="B27.0151.0268a" n="0268a"/>
+<lb ed="B" n="0268a01"/>蕩湖墅，山後西溪男婦紛紛遷徒，踰嶺避亂。寺僧皆以寇必至，
+<lb ed="B" n="0268a02"/>議棄寺散竄，各圖自免。<persName key="A042235">德明</persName>獨倡合眾結臺，阻絕大道，聲勢相
+<lb ed="B" n="0268a03"/>援，力主其說，百折不撓。寇亦不至。又為粥以食貧餓，於是人有
+<lb ed="B" n="0268a04"/>固志，寺賴以全。年八十有一而寂。當海寇時，督府欲取寺鐘，以
+<lb ed="B" n="0268a05"/>為兵器，僧苦不能守。有僧<persName key="A043582">真祥</persName>者，獻以詩云：「百八黥音吼地鳴，
+<lb ed="B" n="0268a06"/>篁溪檀越鑄還成；曾聞兵器為農器，豈忍慈聲作惡聲。一統版
+<lb ed="B" n="0268a07"/>圖何及此？千年舊物敢云爭；山僧最苦多遺譴，宦游從今失送
+<lb ed="B" n="0268a08"/>迎。」鐘由是得存。又督府<persName key="A008106">胡</persName>公，方治舟師，嚴防海盜。工師四出，以
+<lb ed="B" n="0268a09"/>求大木。故家邱隴，多不能免，獨靈隱九里松得全。僧亦有詩云：
+<lb ed="B" n="0268a10"/>「不為栽松待茯苓，只圖山色四時青；老僧終不將歸去，留與錢
+<lb ed="B" n="0268a11"/>塘作畫屏。」蓋松為唐時古蹟，得請於<persName key="A008106">胡</persName>督禁止斬伐。皆<persName key="A043582">真祥</persName>之
+<lb ed="B" n="0268a12"/>力也。又山中有寺基久圯，勢家將侵為葬地。僧感之以詩曰：「一
+<lb ed="B" n="0268a13"/>帶空山已有年，不須惆悵起頹甎；道傍多少麒麟塚，轉眼無人
+<lb ed="B" n="0268a14"/>挂紙錢。」勢家聞之遂止。</p>
+    <linkGrp>
+        <link targets="#0268a04 #0268a11"/>
+        <ptr target="#A042235" type="person"/>
+        <ptr target="#A043582" type="person"/>
+        <ptr target="#A008106" type="person"/>
+    </linkGrp>
+</div>

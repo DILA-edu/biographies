@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="靈感" xml:id="gsz0289a01shiZhiChan">
+<lb ed="B" n="0289a01"/><anchor n="B.27.0151.0289a01"/><head>明九江廬山寺沙門<persName key="A043605">釋治禪</persName>傳</head>
+<lb ed="B" n="0289a02"/><p xml:id="pB27p0289a0201"><persName key="A043605">釋法禪</persName>者，楚中僧也。少有異趣，獨懷幽致。夙聞廬山林谷絕勝，
+<lb ed="B" n="0289a03"/>欲於其間拓地數畝，覆茅以居，而苦乏貲，託缽九江市中。有西
+<lb ed="B" n="0289a04"/>城<persName key="A043606">王西溪</persName>者，方欲延僧諷誦《金經》，期以三年，奉資三百。聞<persName key="A043605">法禪</persName>
+<lb ed="B" n="0289a05"/>初來，有建庵志，與之相約，兩情欣許。<persName key="A043605">法禪</persName>從此朝夕無懈，心維
+<lb ed="B" n="0289a06"/>口誦。寒暑苒荏，忽焉三易，而<persName key="A043606">王</persName>已拮据，才與百金。<persName key="A043605">法禪</persName>高邁，略
+<lb ed="B" n="0289a07"/>不與校金少願宏，不稱所懷，亦既已矣！<persName key="A043605">法禪</persName>性復好施，所得幾
+<lb ed="B" n="0289a08"/>何強半捨去。仍持空缽，往還江干。會分封藩王，行抵九江湖，浪
+<lb ed="B" n="0289a09"/>風激舟不得前。起夫牽纜，役者逃匿，強僧應募，<persName key="A043605">法禪</persName>與焉！時眾
+<lb ed="B" n="0289a10"/>舫齊發，風逆水急，進寸退尺。獨僧纜挽之若駛，足行如飛。王見
+<lb ed="B" n="0289a11"/>驚駭，進詢其故？<persName key="A043605">法禪</persName>茫然，不知所對。再四徵詰，良久方悟，乃曰：
+<lb ed="B" n="0289a12"/>「貧僧素無他術，唯諷《金剛經》三年。」因述前事。王喟然歎曰：「《金剛》
+<lb ed="B" n="0289a13"/>靈應乃如是哉！」賜銀三百，使終其願。<date from-iso="+1621-01-22" key="j23131402313523" to-iso="+1622-02-09">天啟辛酉歲</date>，遂隱於廬山
+<lb ed="B" n="0289a14"/>云。</p>
+    <linkGrp>
+        <link targets="#0289a03 #0289a06"/>
+        <ptr target="#A043605" type="person"/>
+        <ptr target="#A043606" type="person"/>
+    </linkGrp>
+</div>

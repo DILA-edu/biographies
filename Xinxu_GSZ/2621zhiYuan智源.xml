@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0390b11shiZhiYuan">
+<lb ed="B" n="0390b11"/><anchor n="B.27.0151.0390b11"/><head>明杭州淨慈寺沙門<persName key="A015713">釋智源</persName>傳</head>
+<lb ed="B" n="0390b12"/><p xml:id="pB27p0390b1201"><persName key="A015713">釋智源</persName>，字<persName key="A015713">古淵</persName>，姓袁氏，仁和人也。<ref type="date" target="#j22430352243388">七歲</ref>即欲出家，<date from-iso="+1429-08-09" key="j22432122243241" to-iso="+1429-09-07">宣德<anchor xml:id="beg_1a9" type="cb-app"/>己<anchor xml:id="end_1a9"/>酉七
+<lb ed="B" n="0390b13"/>月</date>，捨入千佛寺，禮<persName key="A043624">性空善</persName>受具。<date from-iso="+1437-02-14" key="j22459582246312" to-iso="+1438-02-03">正統丁<anchor xml:id="beg_1aa" type="cb-app"/>巳<anchor xml:id="end_1aa"/></date>趨京師，試經得度，領
+<lb ed="B" n="0390b14"/>牒禮部。尋參<persName key="A009164">雨庵</persName>於功德寺，有契，侍香室中，轉司藏鑰。<date from-iso="+1444-01-29" key="j22484982248881" to-iso="+1445-02-15">甲子</date>還
+<lb ed="B" n="0390b15"/>杭部，劄令主真珠。<date from-iso="+1454-02-07" key="j22521602252513" to-iso="+1455-01-26">景泰甲戌</date>，還住萬壽。<date from-iso="+1458-01-24" key="j22536072253990" to-iso="+1459-02-11">天順戌<!-- 戊 -->寅</date><!-- 《勅建淨慈寺志．卷12．朱鏞：古淵源禪師塔銘》：「戊寅」(《中國佛寺史志彙刊》，第1輯，第18冊，頁0848) -->，住持千佛。建
+<lb ed="B" n="0390b16"/>寶閣，飾佛相，設立石橋、浮屠、僧廬、樓閣，殫竭心力。時有《安福八
+<lb ed="B" n="0390b17"/>詠》，名士文學，多以詩紀之。<date from-iso="+1468-02-03" key="j22572692257622" to-iso="+1469-01-21">成化戊子</date>，移住中天竺，振舉傾頹，雲
+<lb ed="B" n="0390b18"/>水畢聚。<date from-iso="+1474-01-27" key="j22594542259837" to-iso="+1475-02-14">甲午</date>移住淨慈，修葺大雄、應真諸殿。柱蠹者易之，像有
+<lb ed="B" n="0390b19"/>塵晦者，金碧輝諸。且建東西坊門，以揭南山翠屏之勝。自是宗
+<lb ed="B" n="0390b20"/>風益暢。更集名衲百餘人，憤激力參，學者多有悟入。淨慈自五<pb ed="B" xml:id="B27.0151.0391a" n="0391a"/>
+<lb ed="B" n="0391a01"/>代<persName key="A009233">潛</persName><persName key="A010684">壽</persName>而下，百代相繼，事久年湮，懼無所攷。乃徵名流，為文刻
+<lb ed="B" n="0391a02"/>諸石，建亭殿左，以示來者。復剏塔院於西隱，額曰「萬峰深處」。<date from-iso="+1483-02-16" key="j22627612262849" to-iso="+1483-05-15">癸
+<lb ed="B" n="0391a03"/>卯春</date>，屏煩遠囂，靜閱大藏，逾年而周。蓋源自<date from-iso="+1454-02-07" key="j22521602252513" to-iso="+1455-01-26">甲<anchor xml:id="beg_1ab" type="cb-app"/>戌<anchor xml:id="end_1ab"/></date>以來二十年
+<lb ed="B" n="0391a04"/>間，四住名山，所至鼎興，煥然改觀。及領淨慈，十有二載年，已七
+<lb ed="B" n="0391a05"/>十四，臘五十四矣！乃謂弟子曰：「古德言『功成者退，天之道也』。吾
+<lb ed="B" n="0391a06"/>其隱乎！來自何所？去自何所？西方極樂，是吾淨土。」因作壽藏。<persName key="A043625">朱
+<lb ed="B" n="0391a07"/>鏞</persName>為之銘焉！具見《寺志》<!-- 《勅建淨慈寺志．卷12．朱鏞：古淵源禪師塔銘》：「朱鏞：古淵源禪師塔銘」(《中國佛寺史志彙刊》，第1輯，第18冊，頁0847) -->。</p>
+    <linkGrp>
+        <link targets="#0390b12 #0390b12"/>
+        <ptr target="#A015713" type="person"/>
+        <ptr target="#A043624" type="person"/>
+        <ptr target="#j22432122243241" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0390b14 #0390b14"/>
+        <ptr target="#A015713" type="person"/>
+        <ptr target="#A009164" type="person"/>
+    </linkGrp>
+</div>

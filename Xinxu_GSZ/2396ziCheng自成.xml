@@ -1,39 +1,65 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" type="護法">
-
-<lb ed="B" n=""/><anchor n="B.27.0151"/>
-                    <head>明燕都普濟寺沙門釋自成傳<persName type="secondary">覺湻　本在</persName>
-                    </head>
-                <p xml:id="pB27p0268b1401">釋自成字寶藏姓劉氏德人也幼習鑪工在鉗鎚間即知以念
-<lb ed="B" n="0268b15"/>佛從事父早喪事母以孝年三十有出世志從歷下鐘樓寺潭
-<lb ed="B" n="0268b16"/>師薙染即立禪習止觀門成將行腳盧母老無以為養乃以具
-<lb ed="B" n="0268b17"/>稱其母荷擔之遠遊四方每乞食奉母於樹下菽水為歡不減
-<lb ed="B" n="0268b18"/>鼎俎後至燕都往來西山百花中峪棲遲數載相狎已久人多
-<lb ed="B" n="0268b19"/>重之其養日益贍然一瓢之外無餘糝以此終母天年母卒以
-<lb ed="B" n="0268b20"/>荼毗法葬之眾為建窣堵波以表其孝義土人稱之至今成既
-<pb ed="B" xml:id="B27.0151.0269a" n="0269a"/>
-<lb ed="B" n="0269a01"/>葬母專志清修乃結庵於大峪岳家坡傅中貴欽其高行請主
-<lb ed="B" n="0269a02"/>都城普安寺未幾白衣張居士造普濟庵於阜城闉外四里園
-<lb ed="B" n="0269a03"/>以待水雲<!--即「雲水」，指僧道-->延成居之會大虜犯京師都城三面受敵率多奔潰
-<lb ed="B" n="0269a04"/>唯西郭一面將合圍虜酋引數千騎馳至庵前酋趣入庵眾擁
-<lb ed="B" n="0269a05"/>其後成望見之頹然憨笑曰毋動我物毋折我木毋毀我屋時
-<lb ed="B" n="0269a06"/>在八月秋果方熟柿燦如火羅列階前虜爭取之成曰此不可
-<lb ed="B" n="0269a07"/>食酋以為誑強食之甚苦澀成乃奪其柿更進以蘋梨虜噉而
-<lb ed="B" n="0269a08"/>甘之驩呼以為不欺<anchor xml:id="beg_128" type="cb-app"/>己<anchor xml:id="end_128"/>因誡眾曰有人於此毋妄殺也為下令
-<lb ed="B" n="0269a09"/>旗而去俄而一虜逐王氏子入庵奔潛佛座下虜窺得之刃將
-<lb ed="B" n="0269a10"/>及肩成以手挈虜奪刀擲地其人竟賴以免居頃之虜亦稍引
-<lb ed="B" n="0269a11"/>去然成每以一身當眾虜指麾譚笑間所全活者無算云事在
-<lb ed="B" n="0269a12"/>嘉靖庚戎秋也餘杭韶善士者感神示兆為成供養傾心歸依
-<lb ed="B" n="0269a13"/>建彌勒庵以延成成居常清潔不事蓄藏衲衣敝帚一缽無餘
-<lb ed="B" n="0269a14"/>苟得施捨復傾囊以濟貧人若遇乏絕更不乞請唯以坯堵門
-<lb ed="B" n="0269a15"/>面壁忍餓而坐久之有知者饋以米麥食盡則堵如故習焉安
-<lb ed="B" n="0269a16"/>之率以為常後修暜安寺乃復歸院弟子日益進有覺湻者執
-<lb ed="B" n="0269a17"/>業甚勤成更多方苦之祁寒溽暑陸沈賤役百不一可無人識
-<lb ed="B" n="0269a18"/>其意者及將終顧謂眾曰吾之有湻猶樹之有幹至若枝葉繁
-<lb ed="B" n="0269a19"/>茂扶疏而庇蔭者多矣汝知之乎未幾無疾而化時嘉靖三十
-<lb ed="B" n="0269a20"/>九年二月朔日也壽八十有九僧臘五十有奇成滅後湻大興
-<pb ed="B" xml:id="B27.0151.0269b" n="0269b"/>
-<lb ed="B" n="0269b01"/>普安寺神宗改元時聖母建慈壽寺使湻主之成再傳弟子本
-<lb ed="B" n="0269b02"/>在繼其席以疾告退慈聖太后為築別院曰慈恩以休老焉其
-<lb ed="B" n="0269b03"/>枝葉緐<!-- 同「繁」 -->茂一如成言</p>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="護法" xml:id="gsz0268b13shiZiCheng">
+<lb ed="B" n="0268b13"/><anchor n="B.27.0151.0268b13"/><head>明燕都普濟寺沙門<persName key="A015731">釋自成</persName>傳<persName type="secondary" key="A015776">覺湻</persName><persName type="secondary" key="A043591">本在</persName></head>
+<lb ed="B" n="0268b14"/><p xml:id="pB27p0268b1401"><persName key="A015731">釋自成</persName>，字<persName key="A015731">寶藏</persName>，姓劉氏，德人也。幼習鑪工，在鉗鎚間，即知以念
+<lb ed="B" n="0268b15"/>佛從事。父早喪，事母以孝。<ref type="date" target="#j22693172269700">年三十</ref>有出世志，從歷下鐘樓寺<persName key="A043587">潭</persName>
+<lb ed="B" n="0268b16"/>師薙染。即立禪習，止觀門成。將行腳，<anchor xml:id="beg026803"/><choice><sic resp="CBETA">盧</sic><corr resp="PC-MB">慮</corr></choice><anchor xml:id="end026803"/>母老，無以為養。乃以具
+<lb ed="B" n="0268b17"/>稱其母荷擔之，遠遊四方。每乞食，奉母於樹下，菽水為歡，不減
+<lb ed="B" n="0268b18"/>鼎俎<!-- 烹煮用器 -->。後至燕都，往來西山百花中峪，棲遲數載，相狎已久，人多
+<lb ed="B" n="0268b19"/>重之。其養日益贍，然一瓢之外無餘糝，以此終母天年。母卒，以
+<lb ed="B" n="0268b20"/>荼毗法葬之，眾為建窣堵波，以表其孝義，土人稱之至今。<persName key="A015731">成</persName>既<pb ed="B" xml:id="B27.0151.0269a" n="0269a"/>
+<lb ed="B" n="0269a01"/>葬母，專志清修，乃結庵於大峪岳家坡。<persName key="A043588">傅</persName>中貴欽其高行，請主
+<lb ed="B" n="0269a02"/>都城普安寺。未幾，白衣張居士造普濟庵，於阜城闉<!-- 甕城的城門 -->外四里園
+<lb ed="B" n="0269a03"/>以待水雲<!--即「雲水」，指僧道-->，延<persName key="A015731">成</persName>居之。會大虜犯京師，都城三面受敵，率多奔潰。
+<lb ed="B" n="0269a04"/>唯西郭一面，將合圍，虜酋引數千騎馳至庵前。酋趣入庵，眾擁
+<lb ed="B" n="0269a05"/>其後。<persName key="A015731">成</persName>望見之，頹然憨笑曰：「毋動我物，毋折我木，毋毀我屋。」時
+<lb ed="B" n="0269a06"/>在八月秋，果方熟，柿燦如火，羅列階前，虜爭取之。<persName key="A015731">成</persName>曰：「此不可
+<lb ed="B" n="0269a07"/>食。」酋以為誑，強食之，甚苦澀。<persName key="A015731">成</persName>乃奪其柿，更進以蘋梨。虜噉而
+<lb ed="B" n="0269a08"/>甘之，驩呼以為不欺<anchor xml:id="beg_128" type="cb-app"/>己<anchor xml:id="end_128"/>。因誡眾曰：「有人於此，毋妄殺也。」為下令
+<lb ed="B" n="0269a09"/>旗而去。俄而一虜，逐王氏子入庵，奔潛佛座下。虜窺得之，刃將
+<lb ed="B" n="0269a10"/>及肩。<persName key="A015731">成</persName>以手挈虜，奪刀擲地，其人竟賴以免。居頃之，虜亦稍引
+<lb ed="B" n="0269a11"/>去。然<persName key="A015731">成</persName>每以一身當眾虜，指麾譚笑間，所全活者無算云，事在
+<lb ed="B" n="0269a12"/><date from-iso="+1550-08-22" key="j22874192287507" to-iso="+1550-11-18">嘉靖庚<anchor xml:id="beg026901"/><choice><sic resp="CBETA">戎</sic><corr resp="PC-MB">戌</corr></choice><anchor xml:id="end026901"/>秋</date>也。餘杭<persName key="A043589">韶</persName>善士者，感神示兆，為<persName key="A015731">成</persName>供養，傾心歸依，
+<lb ed="B" n="0269a13"/>建彌勒庵以延<persName key="A015731">成</persName>。<persName key="A015731">成</persName>居常清潔，不事蓄藏，衲衣敝帚，一缽無餘。
+<lb ed="B" n="0269a14"/>苟得施捨，復傾囊以濟貧人。若遇乏絕，更不乞請。唯以坯堵門，
+<lb ed="B" n="0269a15"/>面壁忍餓而坐久之。有知者，饋以米麥，食盡則堵如故，習焉安
+<lb ed="B" n="0269a16"/>之，率以為常。後修暜安寺，乃復歸院，弟子日益進。有<persName key="A015776">覺湻</persName>者，執
+<lb ed="B" n="0269a17"/>業甚勤，<persName key="A015731">成</persName>更多方苦之，祁寒溽暑，陸沈賤役，百不一可，無人識
+<lb ed="B" n="0269a18"/>其意者。及將終，顧謂眾曰：「吾之有<persName key="A015776">湻</persName>，猶樹之有幹；至若枝葉繁
+<lb ed="B" n="0269a19"/>茂扶疏而庇蔭者多矣！汝知之乎！」未幾，無疾而化，時<date when-iso="+1560-03-07" key="j22909042290904">嘉靖三十
+<lb ed="B" n="0269a20"/>九年二月朔日</date>也。壽八十有九，僧臘五十有奇。<persName key="A015731">成</persName>滅後，<persName key="A015776">湻</persName>大興<pb ed="B" xml:id="B27.0151.0269b" n="0269b"/>
+<lb ed="B" n="0269b01"/>普安寺，<persName key="A003693">神宗</persName>改元時，<ref type="person" target="#A007207">聖母</ref>建慈壽寺，使<persName key="A015776">湻</persName>主之。<persName key="A015731">成</persName>再傳弟子<persName key="A043591">本
+<lb ed="B" n="0269b02"/>在</persName><!-- 《憨山老人夢遊集》卷29：「今上　聖母建慈壽寺成。延湻公為住持。以公弟子了寧為替僧。公化後。又以其孫本在為住持。」(CBETA, X73, no. 1456, p. 670, c4-6) -->繼其席。以疾告退，<persName key="A007207">慈聖太后</persName>為築別院曰慈恩，以休老焉！其
+<lb ed="B" n="0269b03"/>枝葉緐<!-- 同「繁」 -->茂，一如<persName key="A015731">成</persName>言。</p>
+    <linkGrp>
+        <link targets="#0268b15 #0268b16"/>
+        <ptr target="#A015731" type="person"/>
+        <ptr target="#A043587" type="person"/>
+        <ptr target="#j22693172269700" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0269a01 #0269a01"/>
+        <ptr target="#A015731" type="person"/>
+        <ptr target="#A043588" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0269a12 #0269a13"/>
+        <ptr target="#A015731" type="person"/>
+        <ptr target="#A043589" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0269a16 #0269a19"/>
+        <ptr target="#A015731" type="person"/>
+        <ptr target="#A015776" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0269b01 #0269b01"/>
+        <ptr target="#A007207" type="person"/>
+        <ptr target="#A015776" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0269b02 #0269b02"/>
+        <ptr target="#A007207" type="person"/>
+        <ptr target="#A043591" type="person"/>
+    </linkGrp>
 </div>

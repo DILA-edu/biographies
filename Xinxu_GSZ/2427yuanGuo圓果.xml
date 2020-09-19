@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="靈感" xml:id="gsz0287a18shiYuanGuo">
+<lb ed="B" n="0287a18"/><anchor n="B.27.0151.0287a18"/><head>明杭州佛慧寺沙門<persName key="A042415">釋圓果</persName>傳</head>
+<lb ed="B" n="0287a19"/><p xml:id="pB27p0287a1901"><persName key="A042415">釋圓果</persName>，字<persName key="A042415">祇園</persName>，一字<persName key="A042415">幻空</persName>。少為鳳陽衛守陵指揮使，已而棄官，
+<lb ed="B" n="0287a20"/>捨身入五臺山。淹貫經論，頓悟直指。東遊至姑蘇，登座說法，天<pb ed="B" xml:id="B27.0151.0287b" n="0287b"/>
+<lb ed="B" n="0287b01"/>華晝下，繽紛如雨。<date from-iso="+1555-02-02" key="j22890442289427" to-iso="+1556-02-20">嘉靖三十四年</date>倭寇犯浙，剽掠至北新關。<persName key="A042415">果</persName>
+<lb ed="B" n="0287b02"/>時居杭之佛慧寺，巡撫<persName key="A008106">胡宗憲</persName>聞<persName key="A042415">果</persName>道高，延之出山，問退寇之
+<lb ed="B" n="0287b03"/>策。<persName key="A042415">果</persName>曰：「三日後，賊當自退。」後三日，軍士見雲中有神兵數千擊
+<lb ed="B" n="0287b04"/>倭，倭卒退竄。人以為<persName key="A042415">果</persName>之力也。臨化之日，屬弟子十年後荼毘。
+<lb ed="B" n="0287b05"/>至期，舁棺至野，忽自出火，灰燼無遺。道俗觀者千人，咸見雲中
+<lb ed="B" n="0287b06"/>樓閣、宮殿，並是金銀瑠璃之色。白鶴孔雀、鸚鵡舍利、迦陵頻伽，
+<lb ed="B" n="0287b07"/>種種奇妙與經所說無有差別。俄而天樂振空，移時方滅。</p>
+    <linkGrp>
+        <link targets="#0287b01 #0287b03"/>
+        <ptr target="#A042415" type="person"/>
+        <ptr target="#A008106" type="person"/>
+        <ptr target="#j22890442289427" type="time"/>
+    </linkGrp>
+</div>

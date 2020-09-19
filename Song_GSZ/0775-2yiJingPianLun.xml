@@ -11,7 +11,7 @@ n="0723a19" ed="T"/>橫字，情可求而呼相亂，字雖殊而意且同。是
 n="0723a20" ed="T"/>故《周禮》有象胥氏通六蠻語，狄鞮主七戎，<lb
 n="0723a21" ed="T"/>寄司九夷，譯知八狄。今四方之官<ptr type="glossary" target="#g86"/>，唯「譯」官<lb
 n="0723a22" ed="T"/>顯著者何也？疑<date from-iso="-0205-03-08" key="j16462521801742" to-iso="+0220-11-25"><name>漢</name></date>已來多事北方，故「譯」名爛<lb
-n="0723a23" ed="T"/>熟矣。又如<name>周</name>、<name>秦</name>輶軒使者，奏籍通別國方<lb
+n="0723a23" ed="T"/>熟矣。又如<placeName key="PL000000042030">周</placeName><placeName key="PL000000000096">秦</placeName>輶軒使者，奏籍通別國方<lb
 n="0723a24" ed="T"/>言<ptr type="glossary" target="#g435"/>，令君王不出戶庭，坐知絕遐異俗之語<lb
 n="0723a25" ed="T"/>也。若然者，象胥知其遠也，方言知其近也<ptr target="#n2"/>。<lb
 n="0723a26" ed="T"/>大約不過察異俗、達遠情者矣。懿乎<date from-iso="+0025-08-03" key="j17304061801742" to-iso="+0220-11-25"><name>東漢</name></date>，<lb
@@ -32,7 +32,7 @@ n="0723b11" ed="T"/>六例焉。謂「譯字譯音」為一例，「胡語<name>
 n="0723b12" ed="T"/>一例，「重譯直譯」為一例，「麁言細語」為一例，<lb
 n="0723b13" ed="T"/>「<name>華</name>言雅俗」為一例，「直語密語」為一例也。</p><p>初<lb
 n="0723b14" ed="T"/>則四句：一譯字不譯音<ptr target="#n3445"/>，即「陀羅尼」是；二譯<lb
-n="0723b15" ed="T"/>音不譯字，如佛胸前「卍」字是<ptr target="#n3446"/>；三音字俱譯，<lb
+n="0723b15" ed="T"/>音不譯字<ptr target="#n3636"/>，如佛胸前「卍」字是<ptr target="#n3446"/>；三音字俱譯，<lb
 n="0723b16" ed="T"/>即諸經律中純<name>華</name>言是；四音字俱不譯，如<lb
 n="0723b17" ed="T"/>經題上「<g ref="#F6FAA6"/>」「<g ref="#F6FAA7"/>」<ptr target="#n928"/>二字是。</p><p>第二、胡語<name>梵</name>言者。一、<lb
 n="0723b18" ed="T"/>在<placeName key="PL000000048207">五天竺</placeName>，純<name>梵</name>語。</p><p>二、<placeName key="PL000000000002">雪山</placeName>之北是胡，山之南<lb
@@ -80,18 +80,18 @@ n="0724a01" ed="T"/>「彥底多」，非諸類<ptr type="glossary" target="#g46
 n="0724a02" ed="T"/>言音分明典正，此細語也。「半聲」者，則言音不<lb
 n="0724a03" ed="T"/>分明而訛僻，此麁語也。</p><p>一、是麁非細。如<placeName key="PL000000048207">五<lb
 n="0724a04" ed="T"/>印度</placeName>時俗之言是。</p><p>二、唯細非麁。如<persName key="A000749">法護</persName>、<persName key="A001928">寶<lb
-n="0724a05" ed="T"/>雲</persName>、<persName key="A000294">奘師</persName>、<persName key="A001470">義淨</persName>，洞解聲明、音律，用<placeName key="PL000000048208">中天</placeName>細語典<lb
+n="0724a05" ed="T"/>雲</persName>、<persName key="A000294">奘<roleName>師</roleName></persName>、<persName key="A001470">義淨</persName>，洞解聲明、音律，用<placeName key="PL000000048208">中天</placeName>細語典<lb
 n="0724a06" ed="T"/>言而譯者是。</p><p>三、亦麁亦細。如<name>梵</name>本中語涉<lb
 n="0724a07" ed="T"/>麁、細者是。或注云：「此音訛僻」<ptr target="#n8"/>，即麁言也。</p><p>四、二<lb
-n="0724a08" ed="T"/>非句，闕。</p><p>第五<name>華</name>言雅俗者。亦云音有<name>楚</name>、<name>夏</name><lb
+n="0724a08" ed="T"/>非句，闕<ptr type="glossary" target="#g2442"/>。</p><p>第五、<name>華</name>言雅俗者。亦云音有<name>楚</name>、<name>夏</name><lb
 n="0724a09" ed="T"/>同也<ptr target="#n9"/>。且<ref type="place" target="#PL000000000083">此方</ref>言語，「雅」即經籍之文，「俗」乃<anchor xml:id="beg0724sgsz1"/><choice resp="PC-JK-MB"><sic>術</sic><corr>街</corr></choice><anchor xml:id="end0724sgsz1"/>巷<lb
 n="0724a10" ed="T"/>之說。略同<placeName key="PL000000055436">西域</placeName>，「細」即典正，「麁」即訛僻也。一、是<lb
 n="0724a11" ed="T"/>雅非俗，如經中用書籍言是。二、是俗非雅，<lb
-n="0724a12" ed="T"/>如經中「乞頭」、「博頰<ptr type="glossary" target="#g467"/>」等語是。<anchor xml:id="beg0724sgsz2"/>三<anchor xml:id="end0724sgsz2"/>、亦雅亦俗，非<lb
+n="0724a12" ed="T"/>如經中「乞頭」、「博頰」<ptr type="glossary" target="#g467"/>等語是。<anchor xml:id="beg0724sgsz2"/>三<anchor xml:id="end0724sgsz2"/>、亦雅亦俗，非<lb
 n="0724a13" ed="T"/>學士潤文<ptr rend="display:none;" type="glossary" target="#g70"/>，信僧執筆，其間渾金璞玉，交雜相<lb
 n="0724a14" ed="T"/>投者是。四、二非句，闕。</p><p>第六直語密語者。二<lb
-n="0724a15" ed="T"/>種作句，涉俗為直，涉真為密，如「婆留師<ptr type="glossary" target="#g954"/>」<lb
-n="0724a16" ed="T"/>是。一、是直非密，謂「婆留師」翻為「惡口住」，以<lb
+n="0724a15" ed="T"/>種作句，涉俗為直，涉真為密，如「婆留師」<ptr type="glossary" target="#g954"/><lb
+n="0724a16" ed="T"/>是。一、是直非密，謂「婆留師」翻為「惡口」，住以<lb
 n="0724a17" ed="T"/>惡口，人人不親近故<ptr target="#n955"/>。二、是密非直，「婆留師」<lb
 n="0724a18" ed="T"/>翻為「菩薩所知彼岸」也，既通達三無性<ptr type="glossary" target="#g468"/>理，<lb
 n="0724a19" ed="T"/>亦不為眾生所親近故<ptr target="#n956"/>。三、兩亦句，即同善<lb
@@ -141,7 +141,7 @@ n="0724c04" ed="T"/>含</persName>、<persName key="A002095">玄賾</persName>�
 n="0724c05" ed="T"/><persName key="A002098">梁武</persName>、<persName key="A002099">天后</persName>、<persName key="A002100">中宗</persName>，或躬執<anchor xml:id="beg0724sgsz3"/><choice resp="PC-JK-MB"><sic>幹</sic><corr>翰</corr></choice><anchor xml:id="end0724sgsz3"/>，又謂為『綴文』也。<lb
 n="0724c06" ed="T"/>次則『度語』者，正云『譯語』也。傳度轉令生解，<lb
 n="0724c07" ed="T"/>亦名『傳語』，如翻《顯識論》<ptr target="#n231"/>，沙門<persName key="A002106">戰陀</persName>譯語是也<ptr target="#n232"/>。<lb
-n="0724c08" ed="T"/>次則『證梵本』者，求其量果<ptr type="glossary" target="#g258"/>，密能證知，能詮<lb
+n="0724c08" ed="T"/>次則『證梵本』者，求其量果<ptr type="glossary" target="#g258"/><!-- 另簡化一條：指譯文與原文比較後的結果。 -->，密能證知，能詮<lb
 n="0724c09" ed="T"/>不差，所顯無謬矣。如居士<persName key="A002107">伊舍羅</persName>證譯《毘<lb
 n="0724c10" ed="T"/>柰耶》<name>梵</name>本是也。至有立『證梵義』一員，乃明<lb
 n="0724c11" ed="T"/>西義得失，貴令<name>華</name>語下不失<name>梵</name>義也。復立<lb

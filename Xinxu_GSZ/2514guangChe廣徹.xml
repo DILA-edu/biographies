@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="淨讀" xml:id="gsz0329b06shiGuangChe">
+<lb ed="B" n="0329b06"/><anchor n="B.27.0151.0329b06"/><head>明杭州資福院沙門<persName key="A042420">釋廣徹</persName>傳<persName type="secondary" key="A043491">體寬</persName></head>
+<lb ed="B" n="0329b07"/><p xml:id="pB27p0329b0701"><persName key="A042420">釋廣徹</persName>，字<persName key="A042420">通天</persName>，未詳何許人。遊方至餘杭，與<persName key="A004069">金省吾</persName>中丞，有一
+<lb ed="B" n="0329b08"/>日之雅。向之乞靜宇數楹，為清梵地。時<persName key="A004094">張元洲</persName>尚書家廟傍有
+<lb ed="B" n="0329b09"/>資福院者，綠蔭沈沈，人足罕至。聞<ref type="person" target="#A004069">中丞</ref>有高僧，慨然許之。<persName key="A042420">廣徹</persName>
+<lb ed="B" n="0329b10"/>居焉，日諷《金經》，夜則籠燭繞巷，誦佛達旦。<persName key="A004069">省吾</persName>一夕夜歸，遇之
+<lb ed="B" n="0329b11"/>塗，為書其籠紗曰「沙門廣徹念佛通天」。如是數年，<date notBefore-iso="+1573-02-12" key="j22956292312992" notAfter-iso="+1620-08-27">萬歷中</date>卒於
+<lb ed="B" n="0329b12"/>所居。又<persName key="A043491">體寬</persName>者，初為燕都拈花寺禪堂司水。日不暇給，中夜拜
+<lb ed="B" n="0329b13"/>誦，歷二十年。所履之地，履磚為破，豁然大悟。呈白方丈，為之印
+<lb ed="B" n="0329b14"/>可。未幾即付以法席，大弘淨化。</p>
+    <linkGrp>
+        <link targets="#0329b07 #0329b09"/>
+        <ptr target="#A042420" type="person"/>
+        <ptr target="#A004069" type="person"/>
+        <ptr target="#A004094" type="person"/>
+    </linkGrp>
+</div>

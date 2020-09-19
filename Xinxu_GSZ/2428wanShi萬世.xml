@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="靈感" xml:id="gsz0287b08shiWanShi">
+<lb ed="B" n="0287b08"/><anchor n="B.27.0151.0287b08"/><head>明四川峨湄山沙門<persName key="A009570">釋萬世</persName>傳<persName type="secondary" key="A009823">牟羅漢</persName></head>
+<lb ed="B" n="0287b09"/><p xml:id="pB27p0287b0901"><persName key="A009570">釋萬世</persName>者，不知何許人。一笠一缽，游跡無定。嘗居峨湄山，晝夜
+ <lb ed="B" n="0287b10"/><anchor xml:id="beg_143" type="cb-app"/>趺<anchor xml:id="end_143"/>坐，恒數日不食，兀然不動，不可方物。明巴陵進士<persName key="A009574">楊一鵬</persName>初
+<lb ed="B" n="0287b11"/>授成都府推官，登覽太峩，摳衣直上，興致勃然。見<ref type="person" target="#A009570">尊者</ref>高踞佛
+<lb ed="B" n="0287b12"/>床，殊不為禮。忽睨而笑曰：「<ref type="person" target="#A009574">汝</ref>猶記下地時，行路遠，啼哭數日。夜
+<lb ed="B" n="0287b13"/><ref type="person" target="#A009570">吾</ref>摩其頂而止邪？」<persName key="A009574">一鵬</persName>追憶兒時語，遂大驚禮拜，聒語達旦。臨
+<lb ed="B" n="0287b14"/>別屬曰：「三十年後，見<ref type="person" target="#A009574">汝</ref>於淮上。」後<persName key="A009574">一鵬</persName>開府汝安。一日向暮有
+<lb ed="B" n="0287b15"/>野僧擊鼓，稱峩湄山僧<persName key="A009570">萬世尊者</persName>寄書發函，得詩七章。索寄書
+<lb ed="B" n="0287b16"/>僧，已失所在。俄而流賊焚鳳陽列祖陵，<persName key="A009574">一鵬</persName>坐失救，論死西市。
+<lb ed="B" n="0287b17"/>及臨刑，無他語，但稱「好師傅」數聲而已。由是<persName key="A009570">世尊</persName>名大著，後不
+<lb ed="B" n="0287b18"/>知所終。樵夫牧<g ref="#CB02716">䜿</g>，往往於峩山頂上見之。其寄<persName key="A009574">一鵬</persName>詩，後二章
+<lb ed="B" n="0287b19"/>秘不傳，傳者五章，其詞曰：「謫向人間僅一周，而今限滿恐難留；
+<lb ed="B" n="0287b20"/>清虛有約無相負，好覓當年<persName key="A009388">范蠡</persName>舟。業風吹破進賢冠，生死關<pb ed="B" xml:id="B27.0151.0288a" n="0288a"/>
+<lb ed="B" n="0288a01"/>頭住腳難；六百年來今一遇，莫將大事等<anchor xml:id="beg_144" type="cb-app"/>閒<anchor xml:id="end_144"/>看。浪游生死豈男
+<lb ed="B" n="0288a02"/>兒，教外直傳別有師；富貴神仙君兩得，尚牽韁鎖戀狂癡。難將
+<lb ed="B" n="0288a03"/>蟒玉拒無常，勳業終歸土一方；欲問後來神玅處，碧天齊擁紫
+<lb ed="B" n="0288a04"/>金光。頒來法令不容違，仙律森嚴敢洩機；楚水吳山相共聚，與
+<lb ed="B" n="0288a05"/>君同跨片霞飛。」又<persName key="A009823">牟羅漢</persName>者，名<persName key="A009823">安</persName>，亦眉山人也。初為兵隸倅廳，
+<lb ed="B" n="0288a06"/>行役岷山，陟上清坡，苦飢。忽遇髯者，笑指曰：「<ref type="person" target="#A009823">汝</ref>飢盍不食柏子？」
+<lb ed="B" n="0288a07"/>因摘柏子投其口，顧髯者，不復見矣！自是不火食，易僧服，往來
+<lb ed="B" n="0288a08"/>峩眉、岷江。道上疾行如飛，奔馬不及，人呼為<persName key="A009823">牟羅漢</persName>。一日江水
+<lb ed="B" n="0288a09"/>暴漲，舟不可引。或戲指其笠曰：「乘此以渡可乎？」<persName key="A009823">牟</persName>遂置笠水面，
+<lb ed="B" n="0288a10"/>趺坐其上，浮江以濟。觀者異之。</p>
+    <linkGrp>
+        <link targets="#0287b10 #0287b14"/>
+        <ptr target="#A009570" type="person"/>
+        <ptr target="#A009574" type="person"/>
+    </linkGrp>
+</div>

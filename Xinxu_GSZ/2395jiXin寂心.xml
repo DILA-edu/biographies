@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="護法" xml:id="gsz0268a15shiJiXin">
+<lb ed="B" n="0268a15"/><anchor n="B.27.0151.0268a15"/><head>明杭州雲居聖水寺沙門<persName key="A042243">釋寂心</persName>傳</head>
+<lb ed="B" n="0268a16"/><p xml:id="pB27p0268a1601"><persName key="A042243">釋寂心</persName>，字<persName key="A042243">精齋</persName>，性果敢，負氣不屈，必直之而後已。與人語，常自
+<lb ed="B" n="0268a17"/><anchor xml:id="beg_127" type="cb-app"/>斂<anchor xml:id="end_127"/>退，訥訥如不能言，眾皆異之。師事<persName key="A043583">少峰</persName>，為<persName key="A000655">中峰</persName>法派也。<date from-iso="+1560-02-06" key="j22908742291228" to-iso="+1561-01-25">嘉靖
+<lb ed="B" n="0268a18"/>庚申</date>，邑有太史某者父喪，擇葬地形家，妄指雲居為吉壤。乃嗾
+<lb ed="B" n="0268a19"/>當事毀寺宇，驅僧眾。眾俱畏，宿匿不敢抗，往往自散去，存者無
+<lb ed="B" n="0268a20"/>幾。<persName key="A042243">寂心</persName>獨謂<persName key="A043583">少峰</persName>曰：「師主僧也，亦棄地他徙乎！如祖德何？」<persName key="A043583">少峰</persName><pb ed="B" xml:id="B27.0151.0268b" n="0268b"/>
+<lb ed="B" n="0268b01"/>辤以弱，且方外無助，不能與勢豪敵。<persName key="A042243">寂心</persName>大慟曰：「吾寧死，誓不
+<lb ed="B" n="0268b02"/>令此寺作丘壟。」日夕禱于土地神。忽見一老人曰：「土神泥偶耳！
+<lb ed="B" n="0268b03"/>禱之何益？」<persName key="A042243">寂心</persName>長號不顧，祈請益力。老人撫其背曰：「雲居山有
+<lb ed="B" n="0268b04"/>王者氣，太史謀之，是何意？」回視之，已失所在。遂書此二語，揭之
+<lb ed="B" n="0268b05"/>通衢，且訴于中丞。太史聞之驚，急語中丞，欲得<persName key="A042243">寂心</persName>而甘心焉！
+<lb ed="B" n="0268b06"/>中丞者，固太史門下士也，授意有司，立拘<persName key="A042243">寂心</persName>于堂下杖斃之。
+<lb ed="B" n="0268b07"/>被拘之時<persName key="A042243">寂心</persName>謂<persName key="A043583">少峰</persName>曰：「此行必死，死則寺可無虞，是死賢於
+<lb ed="B" n="0268b08"/>生也。」大笑出門。臨杖乃大<anchor xml:id="beg026801"/><choice><sic resp="CBETA">評</sic><corr resp="PC-MB">𧦝</corr></choice><anchor xml:id="end026801"/>曰：「願中丞為朝廷保禦封疆，如僧
+<lb ed="B" n="0268b09"/>足矣。」暴其尸數日，顏色不變。太史慚阻，寺賴以全。遠近壯其義
+<lb ed="B" n="0268b10"/>烈，祭弔者以萬數。至今寺僧崇祀之，與<persName key="A000655">中峰</persName>埒。後數十年，明給
+<lb ed="B" n="0268b11"/>事<persName key="A043584">戴鳳翔</persName>紀其事，都綱<persName key="A022771">良縉</persName>、里人<persName key="A043585">諸應麟</persName>、住持<persName key="A043586">性哲</persName>為之立石。
+<lb ed="B" n="0268b12"/>縣令<persName key="A043046">胡作柄</persName>復為之傳云</p>
+    <linkGrp>
+        <link targets="#0268a17 #0268b01"/>
+        <ptr target="#A042243" type="person"/>
+        <ptr target="#A043583" type="person"/>
+        <ptr target="#j22908742291228" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0268b10 #0268b11"/>
+        <ptr target="#A043584" type="person"/>
+        <ptr target="#A022771" type="person"/>
+        <ptr target="#A043585" type="person"/>
+        <ptr target="#A043586" type="person"/>
+    </linkGrp>
+</div>

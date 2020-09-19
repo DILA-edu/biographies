@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="淨讀" xml:id="gsz0329a06shiRuQian">
+<lb ed="B" n="0329a06"/><anchor n="B.27.0151.0329a06"/><head>明懷慶龍岡寺沙門<persName key="A015814">釋如遷</persName>傳</head>
+<lb ed="B" n="0329a07"/><p xml:id="pB27p0329a0701"><persName key="A015814">釋如遷</persName>，字<persName key="A015814">大方</persName>，別號<persName key="A015814">松谷</persName>，姓李氏，岐山人。父<persName key="A043630">鐸</persName>母<persName key="A043630">張氏</persName>，生<persName key="A015814">遷</persName>於
+<lb ed="B" n="0329a08"/>落星里。幼誦佛號，戔戔<!-- 淺少 -->自喜。每至佛寺，則如舊居，愛戀忘歸。蚤
+<lb ed="B" n="0329a09"/>入社學肄儒業，頗不樂，每對父母呈出世志。<ref type="date" target="#j22886892289043">年十七</ref>，禮郡<persName key="A043632">無蹤
+<lb ed="B" n="0329a10"/>本</persName>為師剃染。居三載，發念遊方，遠訪知識決擇，<anchor xml:id="beg_165" type="cb-app"/>己<anchor xml:id="end_165"/>躬下事。首參
+<lb ed="B" n="0329a11"/><persName key="A004544">悅菴喜</persName>授具，指示向上一路。尋入青峰山，弔影獨棲，有所開悟。
+<lb ed="B" n="0329a12"/>聞<persName key="A008304">大章宗</persName>師開法少林，往求印證。<date from-iso="+1561-01-26" key="j22912292291612" to-iso="+1562-02-13">明嘉靖辛酉</date>，謁<persName key="A008304">章</persName>於立雪庭，
+<lb ed="B" n="0329a13"/>遂留依止。朝夕入室，陶鎔機緣，乃承記莂。有「鍼頭玉線，海底鐵
+<lb ed="B" n="0329a14"/>牛，日夜辛勤，記伊保守」之囑。由此知洞上宗風，五位正偏之旨，
+<lb ed="B" n="0329a15"/>至是猶未泯也。<persName key="A015814">遷</persName>得法已，復歷徧海內名山，還至京師，參諸講
+<lb ed="B" n="0329a16"/>席，深窮性相宗旨。後至懷慶<persName key="A043633">鄭<roleName>世子</roleName></persName>讓國，潛修白業，聞<persName key="A015814">遷</persName>至，致
+<lb ed="B" n="0329a17"/>禮參請，深相印契。乃建精舍於龍岡，延<persName key="A015814">遷</persName>宴息。四方學子，聞風
+<lb ed="B" n="0329a18"/>遠至。<date from-iso="+1587-02-07" key="j23007372301091" to-iso="+1588-01-27">萬歷丁亥</date>，應大都慈雲菴請，舉揚宗旨。<date from-iso="+1588-01-28" key="j23010922301475" to-iso="+1589-02-14">戊子</date>，千佛寺請講
+<lb ed="B" n="0329a19"/>諸經，日遶萬指。<date from-iso="+1590-02-05" key="j23018312302184" to-iso="+1591-01-24">庚寅</date>奉<persName key="A007207">慈聖</persName>懿旨，於慈壽寺開淨土法門。在會
+<lb ed="B" n="0329a20"/>者千二百眾，欽造鍍金大佛像，賜大藏經，御書「大法寶藏」四字。<pb ed="B" xml:id="B27.0151.0329b" n="0329b"/>
+<lb ed="B" n="0329b01"/><date from-iso="+1594-02-20" key="j(23033072303395" to-iso="+1594-05-19">甲午春</date>請回龍岡屐閣供置。以<date when-iso="+1598-09-11" key="j23049712304971">萬歷戊<anchor xml:id="beg_166" type="cb-app"/>戌<anchor xml:id="end_166"/>秋八月十有一日</date>示
+<lb ed="B" n="0329b02"/>微疾，端然而逝。世壽六十有一，僧臘四十有奇，塔於寺西原。後
+<lb ed="B" n="0329b03"/><date from-iso="+1619-02-14" key="j23124322312786" to-iso="+1620-02-03">二十二年萬曆己未</date>，其弟子<persName key="A043634">海雲</persName>走匡廬，謁<persName key="A001681">憨山</persName>始為之志《銘》。
+<lb ed="B" n="0329b04"/>稱其<!-- 《憨山老人夢遊集》卷28：「予昔晤師於大都慈壽，見其……」(CBETA, X73, no. 1456, p. 662, c11) -->「孤標凜凜，如立雪長松；衲子參請，拈提宗教，不假辭色；應
+<lb ed="B" n="0329b05"/>機接物，純一至誠，有先德典型。」諒哉言乎！</p>
+    <linkGrp>
+        <link targets="#0329a07 #0329a08"/>
+        <ptr target="#A015814" type="person"/>
+        <ptr target="#A043630" type="person"/>
+        <ptr target="#A043631" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0329a09 #0329a10"/>
+        <ptr target="#A015814" type="person"/>
+        <ptr target="#A043632" type="person"/>
+        <ptr target="#j22886892289043" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0329a11 #0329a11"/>
+        <ptr target="#A015814" type="person"/>
+        <ptr target="#A004544" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0329a12 #0329a14"/>
+        <ptr target="#A015814" type="person"/>
+        <ptr target="#A008304" type="person"/>
+        <ptr target="#j22912292291612" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0329a16 #0329a17"/>
+        <ptr target="#A015814" type="person"/>
+        <ptr target="#A043633" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0329a19 #0329a19"/>
+        <ptr target="#A015814" type="person"/>
+        <ptr target="#A007207" type="person"/>
+        <ptr target="#j23018312302184" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0329b03 #0329b03"/>
+        <ptr target="#A043634" type="person"/>
+        <ptr target="#A001681" type="person"/>
+        <ptr target="#j23124322312786" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0329b03 #0329b03"/>
+        <ptr target="#A043634" type="person"/>
+        <ptr target="#A015814" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0329b04 #0329b04"/>
+        <ptr target="#A001681" type="person"/>
+        <ptr target="#A015814" type="person"/>
+    </linkGrp>
+</div>

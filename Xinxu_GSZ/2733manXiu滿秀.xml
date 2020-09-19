@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="雜識" xml:id="gsz0450a12shiManXiu">
+<lb ed="B" n="0450a12"/><anchor n="B.27.0151.0450a12"/><head>明荊州普仰寺沙門<persName key="A042286">釋滿秀</persName>
+傳<persName type="secondary" key="A043628">正海</persName><persName type="secondary" key="A043628">死心</persName></head>
+<lb ed="B" n="0450a13"/><p xml:id="pB27p0450a1301"><persName key="A042286">釋滿秀</persName>，字<persName key="A042286">天柱</persName>，自號<persName key="A042286">倉谷老人</persName>。初依北宗出家，傳<persName key="A009582">大通</persName>下二十
+<lb ed="B" n="0450a14"/>八世，後參伏牛<!-- 獨空禪師與明代伏牛山的煉磨場.pdf -->，發明心要，<persName key="A003643">龍池老人</persName>以衣授之。於時有兩宗並
+<lb ed="B" n="0450a15"/>立之，目以<persName key="A042286">秀</persName>北宗人，南宗法也。及主荊南普仰寺，暢厥宗風，復
+<lb ed="B" n="0450a16"/>區南北。有禪者<persName key="A000274">正誨</persName>，自宜都來，與語契之，煆鍊三載，即付以北
+<lb ed="B" n="0450a17"/>宗。<persName key="A000274">正誨</persName>別有〈傳〉。其南宗法派，則傳之<persName key="A043628">正海</persName>云。以<date from-iso="+1568-02-08" key="j22937982294151" to-iso="+1569-01-26">明隆慶戊辰</date>說
+<lb ed="B" n="0450a18"/>法示寂，門人取舍利，建塔奉之。有《倉谷集》若干卷行世。後有<persName key="A043629">死
+<lb ed="B" n="0450a19"/>心</persName>者，黃崗諸生<persName key="A043629">袁文煒</persName>也。削髮京師崇國寺，公安<persName key="A004656">袁宏道</persName>兄<ref type="person" target="#A007053">弟</ref>
+<lb ed="B" n="0450a20"/>偕之作吳越遊。已而歸楚，愛大別山水，卓錫藏經閣。<date notBefore-iso="+1573-02-12" key="j22956292312992" notAfter-iso="+1620-08-27">明萬曆時</date><pb ed="B" xml:id="B27.0151.0450b" n="0450b"/>
+<lb ed="B" n="0450b01"/>止龍灣之南聖壽寺。<persName key="A004656">宏道</persName>有贈<persName key="A043629">死心</persName>詩，具《別集》。時遼陽用兵，<persName key="A043629">死
+<lb ed="B" n="0450b02"/>心</persName>感而賦詩云：「烽火城邊百將營，百家鈴鐸萬家聲；中原子弟
+<lb ed="B" n="0450b03"/>花千朵，絕塞將軍草一莖；膏血總輸還列陣，文章無補漫談兵；
+<lb ed="B" n="0450b04"/>只今海內干戈起，未必禪房夜夜清。」<persName key="A043629">死心</persName>頗好吟詠，惜多散佚。</p>
+    <linkGrp>
+        <link targets="#0450a14 #0450a14"/>
+        <ptr target="#A042286" type="person"/>
+        <ptr target="#A003643" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0450a15 #0450a17"/>
+        <ptr target="#A042286" type="person"/>
+        <ptr target="#A000274" type="person"/>
+        <ptr target="#A043628" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0450a19 #0450b01"/>
+        <ptr target="#A043629" type="person"/>
+        <ptr target="#A004656" type="person"/>
+        <ptr target="#A007053" type="person"/>
+    </linkGrp>
+</div>

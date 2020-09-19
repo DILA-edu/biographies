@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="雜科聲德" xml:id="gsz0895a15shiGuangXiu">
 <lb ed="T" n="0895a15"/><anchor n="T.50.2061.0895a15"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000014713">天台山禪林寺</placeName><persName key="A001660">廣脩</persName>傳（<persName key="A013931">高閑</persName>）</head><p>
-<lb ed="T" n="0895a16"/><persName key="A001660">釋廣脩</persName>，俗姓<name>留氏</name>，<placeName key="PL000000013604">東陽 下崑</placeName>人也。淑質貞亮，
+<lb ed="T" n="0895a16"/><persName key="A001660">釋廣脩</persName>，俗姓<name>留氏</name>，<placeName key="PL000000013604"><placeName>東陽</placeName><placeName>下崑</placeName></placeName>人也。淑質貞亮，
 <lb ed="T" n="0895a17"/>早預<persName key="A001563">邃<roleName>師</roleName></persName>之門，研窮教迹，學者雲擁。日誦
 <lb ed="T" n="0895a18"/>《法華》<ptr target="#n2996"/>、《維摩》<ptr target="#n1177"/>、《金光明》<ptr target="#n1192"/>、《梵網》<ptr target="#n1200"/>、《四分戒本》<ptr target="#n2214"/>。六時行道
 <lb ed="T" n="0895a19"/>弗休，彌年<ptr type="glossary" target="#g1288"/>更篤。每一歲行懺法七七日，則
@@ -11,7 +11,7 @@
 <lb ed="T" n="0895a23"/><placeName key="PL000000014713">禪林</placeName>本寺<ptr target="#n3626"/>，俗壽七十三，法臘五十二。遷神于
 <lb ed="T" n="0895a24"/><placeName key="PL000000014708">金地道場</placeName>，法付門人<persName key="A012377">物外</persName>焉。<date from-iso="+0866-01-25" key="j20373852037768" to-iso="+0867-02-12"><name>咸通</name>七年</date>，門人
 <lb ed="T" n="0895a25"/><persName key="A013930">良汶</persName><ptr target="#n3625"/>發墳火葬，淘收舍利一千餘粒，重塔緘
-<lb ed="T" n="0895a26"/>藏焉。又<placeName key="PL000000012987">湖州 開元寺</placeName><persName key="A013931">釋高閑</persName>，本<placeName key="PL000000013011">烏程</placeName>人也。髫
+<lb ed="T" n="0895a26"/>藏焉。又<placeName key="PL000000012987"><placeName>湖州</placeName><placeName>開元寺</placeName></placeName><persName key="A013931">釋高閑</persName>，本<placeName key="PL000000013011">烏程</placeName>人也。髫
 <lb ed="T" n="0895a27"/>年<ptr type="glossary" target="#g280"/>卓躒，范露異才。受法已還，有隣堅志，苦
 <lb ed="T" n="0895a28"/>學勞形，未甞少惰。後入<placeName key="PL000000042189">長安</placeName>，於<placeName key="PL000000042270">薦福</placeName>、<placeName key="PL000000042216">西明</placeName>
 <lb ed="T" n="0895a29"/>等寺隷習<ptr rend="display:none;" type="glossary" target="#g923"/>經律，克精講貫<ptr rend="display:none;" type="glossary" target="#g1247"/>。<persName key="A003667">宣宗</persName>重興佛法，<pb ed="T" n="0895b" xml:id="T50.2061.0895b"/>

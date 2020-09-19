@@ -726,7 +726,12 @@
 			<rdg resp="Taisho" wit="【宋】">如玉</rdg>
 			<rdg resp="PC-JK-MB" wit="【范】【磧】">玉如</rdg>
 		</app>
-		<app from="beg0726sgsz2" ana="appType3a">
+		<app from="beg0726sgsz2" ana="appType1b">
+			<lem wit="【大】">眾</lem>
+			<rdg resp="PC-JK-MB" wit="【范】【磧】">眾</rdg>
+			<rdg resp="PC-JK-MB" wit="【甲】">聚</rdg>
+		</app>
+		<app from="beg0726sgsz3" ana="appType3a">
 			<lem wit="【大】">禮</lem>
 			<rdg resp="PC-JK-MB" wit="【范】【磧】">礼</rdg>
 		</app>
@@ -9113,8 +9118,8 @@
 		</app>
 		<app from="beg0876005" ana="appType2b">
 			<lem wit="【大】">𤛴牛</lem>
-			<rdg resp="Taisho" wit="【宋】【元】"><g ref="#Z1242"/>牛（音桃）</rdg>
-			<rdg resp="PC-JK-MB" wit="【范】【磧】"><g ref="#Z1242"/>牛（音桃）</rdg>
+			<rdg resp="Taisho" wit="【宋】【元】">𭷫牛（音桃）</rdg><!--<g ref="#Z1242"/>-->
+			<rdg resp="PC-JK-MB" wit="【范】【磧】">𭷫牛（音桃）</rdg>
 		</app>
 		<app from="beg0877sgsz1" ana="appType3b">
 			<lem wit="【大】">姚泲</lem><note resp="PC-JK-MB">人名</note>

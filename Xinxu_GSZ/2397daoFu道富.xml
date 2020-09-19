@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="護法" xml:id="gsz0269b04shiDaoFu">
+<lb ed="B" n="0269b04"/><anchor n="B.27.0151.0269b04"/><head>明杭州淨慈寺沙門<persName key="A042233">釋道富</persName>傳</head>
+<lb ed="B" n="0269b05"/><p xml:id="pB27p0269b0501"><persName key="A042233">釋道富</persName>，字<persName key="A042233">了然</persName>，錢塘人也。玅歲離塵，始習經論，朗然明徹，不滯
+<lb ed="B" n="0269b06"/>於懷。長事游參，名山耆宿，多所印契，聲譽攸暢。嘉靖時<!-- 《勅建淨慈寺志．卷9．了然道富》：「嘉靖三十二年」(《中國佛寺史志彙刊》，第1輯，第18冊，頁0631) -->奉剳，付
+<lb ed="B" n="0269b07"/>來主淨慈。至則修葺山門，整理頹廢，麤有端緒。而海氛不靖，倭
+<lb ed="B" n="0269b08"/>寇日熾，遂圍杭城。巡撫<persName key="A043592">李天寵</persName>將廢樓鐘以為兵器，且欲焚寺，
+<lb ed="B" n="0269b09"/>恐屯倭寇。<persName key="A042233">富</persName>聞之，抱寺勅泣於轅門，以求庇護。巡撫卒為感動，
+<lb ed="B" n="0269b10"/>因之獲免。先是昭慶寺已罹灾燹，折毀之命，勢將及淨慈，非<persName key="A042233">富</persName>
+<lb ed="B" n="0269b11"/>之精誠泣懇，不同付劫灰者，幾希！當哭請時，人多危之，咸謂兵
+<lb ed="B" n="0269b12"/>戎大事，况禦外寇？國土不存，鐘於何有？撫軍生殺在手，不幸而
+<lb ed="B" n="0269b13"/>犯其怒，責以貽誤戎機，罪且不赦，可奈何？乃<persName key="A042233">富</persName>振勵直前，以為
+<lb ed="B" n="0269b14"/>無鐘是無寺，無寺是無僧、無佛也。吾寧捨身以餌虎口耳！雖白
+<lb ed="B" n="0269b15"/>刃可蹈，百折不回也。矧<!-- 況且 -->哀而求之者，未必即罪，罪亦未必即死
+<lb ed="B" n="0269b16"/>乎！及請之而得，人又感稱。<persName key="A042233">富</persName>具大願力，真勇智，非庶幾徼倖者
+<lb ed="B" n="0269b17"/>所能企及也。</p>
+    <linkGrp>
+        <link targets="#0269b08 #0269b10"/>
+        <ptr target="#A042233" type="person"/>
+        <ptr target="#A043592" type="person"/>
+    </linkGrp>
+</div>

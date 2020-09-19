@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="淨讀" xml:id="gsz0332a18shiChuanDeng">
+<lb ed="B" n="0332a18"/><anchor n="B.27.0151.0332a18"/><head>明幽溪高明寺沙門<persName key="A007274">釋傳燈</persName>傳</head>
+<lb ed="B" n="0332a19"/><p xml:id="pB27p0332a1901"><persName key="A007274">釋傳燈</persName>，姓葉氏，衢人。少從<persName key="A043636">進賢映庵</persName>禪師薙髮，隨謁<persName key="A000964">百松</persName>法師
+<lb ed="B" n="0332a20"/>聞講《法華》，恍有神會。次問《楞嚴》「大定」之旨。<persName key="A000964">百松</persName>瞪目周視，<persName key="A007274">燈</persName>即<pb ed="B" xml:id="B27.0151.0332b" n="0332b"/>
+<lb ed="B" n="0332b01"/>契入，<persName key="A000964">百松</persName>以金雲紫袈裟授之。生平修《法華》、《大悲》、《光明》、《彌陀》、《楞
+<lb ed="B" n="0332b02"/>嚴》等，懺無虛日。卜居幽溪高明寺。先有土人<persName key="A043637">葉祺</persName>，葬親寺後，夢
+<lb ed="B" n="0332b03"/>神云：「此聖者道場地，將有高人大作佛法，可速遷。」<persName key="A043637">祺</persName>不之信，俄
+<lb ed="B" n="0332b04"/>而舉家病，始懼，乃徙焉。明日<persName key="A007274">燈</persName>至，即地立天台祖庭，學侶侁侁<!-- 眾多貌 -->。
+<lb ed="B" n="0332b05"/>嘗於新昌大佛前，登座豎義。眾聞石室中，天樂鏗鏘，講畢乃寂。
+<lb ed="B" n="0332b06"/>所著《生無生論》，融會三觀，闡揚淨土法門。又有《法語》一篇，最為
+<lb ed="B" n="0332b07"/>切要。其註《楞嚴》、《維摩》等經，凡染翰必被<!-- 披 -->戒衲，前後應講席七十
+<lb ed="B" n="0332b08"/>餘期。<ref type="date" target="#j23157102316063">年七十五</ref>，預知時至，手書「妙法蓮華經」五字，復高倡經題
+<lb ed="B" n="0332b09"/>者再，泊然順化。</p>
+    <linkGrp>
+        <link targets="#0332a19 #0332a19"/>
+        <ptr target="#A007274" type="person"/>
+        <ptr target="#A043636" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0332a19 #0332b01"/>
+        <ptr target="#A007274" type="person"/>
+        <ptr target="#A000964" type="person"/>
+    </linkGrp>
+</div>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="淨讀" xml:id="gsz0331b02shiMingYu">
+<lb ed="B" n="0331b02"/><anchor n="B.27.0151.0331b02"/><head>明燕都慈慧寺沙門<persName key="A016717">釋明玉</persName>傳<persName type="secondary" key="A000956">真貴</persName></head>
+<lb ed="B" n="0331b03"/><p xml:id="pB27p0331b0301"><persName key="A016717">釋明玉</persName>，字<persName key="A016717">無瑕</persName>，姓劉氏，西蜀龍居人也。生性倔強，少與俗合，不
+<lb ed="B" n="0331b04"/>治主人產業。長娶<persName key="A043635">汪氏</persName>，舉三男。長兒聰慧篤孝，<persName key="A016717">玉</persName>雖心愛之，不
+<lb ed="B" n="0331b05"/>為兒女家計，居常以佛為念。每供養二親，蔬食必絜。親亦以此
+<lb ed="B" n="0331b06"/>安之。及雙暉並謝，即判然棄妻子，從方外遊，時<ref type="date" target="#j22941522294535">年四十六</ref>。長兒
+<lb ed="B" n="0331b07"/>年十二，躑躅相隨。至播州樓頭山東洋海菴，父子俱薙髮為沙
+<lb ed="B" n="0331b08"/>彌，授具戒，<date when-iso="+1569-05-30" key="j22942752294275">明隆慶三年五月五日</date>也。自爾攜兒行腳，即督課業，
+<lb ed="B" n="0331b09"/>為弟子。父子相從，雲遊萬里，遍歷名山，參叩知識，苦行絕倫。每
+<lb ed="B" n="0331b10"/>日中一食，糠菜不糝，樹下塚間，隨遇順適。自是終身，脇不至席。
+<lb ed="B" n="0331b11"/><date from-iso="+1573-02-12" key="j22956292295983" to-iso="+1574-02-01">萬曆初</date>謁普陀，過金陵，至都下遊。履五臺，寓三塔寺，禮《華嚴經》。
+<lb ed="B" n="0331b12"/>經六十萬字，一字一拜，每晝夜必稽首三千。如是者，經三匝，至
+<lb ed="B" n="0331b13"/><date from-iso="+1584-02-12" key="j22996462299999" to-iso="+1585-01-30">十二年</date>復至京師碧峰寺，禮《法華經》，六萬餘字，一字一拜如前
+<lb ed="B" n="0331b14"/>者十二匝。終而復始，夙夜罔懈。長兒為沙彌者，年德日益長，多
+<lb ed="B" n="0331b15"/>親講肄，聽習《華嚴》、《法華》、《楞嚴》、《圓覺》、《唯識》諸經論，善開曉發蒙，而
+<lb ed="B" n="0331b16"/>事父日益謹。一時稱異，謂有弟子如此者，誠所罕覯。<date from-iso="+1589-02-15" key="j23014762301830" to-iso="+1590-02-04">十七年</date>內
+<lb ed="B" n="0331b17"/>監王太監欲開精舍，延其弟子為弘法，且為<persName key="A016717">玉</persName>休老地。乃卜阜
+<lb ed="B" n="0331b18"/>城門外二里許，捐貲創寺。寺成請額，<ref type="person" target="#A007207">聖母</ref>嘉之，賜曰「慈慧」。大宗
+<lb ed="B" n="0331b19"/>伯<persName key="A016717">棠軒李<roleName>公</roleName></persName>記其事。一日謂弟子曰：「吾以業繫娑婆七十二年，
+<lb ed="B" n="0331b20"/>侵尋老病，久住何益？吾將歸矣！爾當以法為懷，勿生愛戀。」遂不<pb ed="B" xml:id="B27.0151.0332a" n="0332a"/>
+<lb ed="B" n="0332a01"/>食。念佛不絕者旬日，聲響如鐘，顏色不衰。弟子問生死大事，<persName key="A016717">玉</persName>
+<lb ed="B" n="0332a02"/>但曰：「嘻嘻呵呵，呵呵嘻嘻，不是妄念，不是真知。」良久云：「你說是
+<lb ed="B" n="0332a03"/>如何？大通橋上交糧客，原是南方送米人。」臨化索浴，更衣端坐，
+<lb ed="B" n="0332a04"/>持珠念佛，益哀促連聲大<g ref="#CB24336">𧦝</g>佛，佛聲絕而逝，時<date when-iso="+1595-02-27" key="j23036792303679">萬曆乙未春正
+<lb ed="B" n="0332a05"/>月十九日</date>也。世壽七十有二，僧臘二十有六。弟子<persName key="A000956">真貴</persName>即<persName key="A016717">玉</persName>長
+<lb ed="B" n="0332a06"/>兒，為慈慧法師者。奉塔於黃村，乞<persName key="A001681">憨山</persName>為之銘。</p>
+    <linkGrp>
+        <link targets="#0331b03 #0331b04"/>
+        <ptr target="#A016717" type="person"/>
+        <ptr target="#A043635" type="person"/>
+        <ptr target="#A000956" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0331b16 #0331b19"/>
+        <ptr target="#A016717" type="person"/>
+        <ptr target="#A007207" type="person"/>
+        <ptr target="#A000956" type="person"/>
+        <ptr target="#A016717" type="person"/>
+        <ptr target="#j23014762301830" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0332a05 #0332a06"/>
+        <ptr target="#A001681" type="person"/>
+        <ptr target="#A000956" type="person"/>
+    </linkGrp>
+</div>

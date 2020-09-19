@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="淨讀" xml:id="gsz0332a07shiRuQing">
+<lb ed="B" n="0332a07"/><anchor n="B.27.0151.0332a07"/><head>明錢塘龍井寺沙門<persName key="A015801">釋如清</persName>傳<persName type="secondary" key="A015826">傳記</persName></head>
+<lb ed="B" n="0332a08"/><p xml:id="pB27p0332a0801"><persName key="A015801">釋如清</persName>，字<persName key="A015801">法原</persName>，姓阮氏，上虞人。初出家於西湖龍井，後入雲棲，
+<lb ed="B" n="0332a09"/>壹志禮佛，誦《法華經》，六時不倦。<date from-iso="+1583-01-24" key="j22992622299645" to-iso="+1584-02-11">萬歷十一年</date>示疾，沈緜者數月。
+<lb ed="B" n="0332a10"/>既革<!-- 危急 -->，聞堂中念佛聲，忽矍然起坐，兀兀中宵，注視金容，翹仰而
+<lb ed="B" n="0332a11"/>寂。<persName key="A015826">傳記</persName>者，鄞人也。性好獨居，日以《法華》為課，數及九千七百餘
+<lb ed="B" n="0332a12"/>部，世稱為<persName key="A015826">傳法華</persName>。<date from-iso="+1586-02-18" key="j23003832300736" to-iso="+1587-02-06">萬曆十四年</date>，司勛<persName key="A011239">虞湻熙</persName>舉《法華三昧懺》，<persName key="A015826">傳
+<lb ed="B" n="0332a13"/>記</persName>禁足修長期者三九，歷寒暑，屢獲瑞應。後憇杭州西溪。道上
+<lb ed="B" n="0332a14"/>肩水負薪，行諸苦事。或曰：「佛法廣運，乃猶作此，有為功德耶？」<persName key="A015826">傳
+<lb ed="B" n="0332a15"/>記</persName>折之曰：「無為豈在有為外乎？」<date from-iso="+1613-08-16" key="j23104242310452" to-iso="+1613-09-13">萬曆四十一年七月</date>，辭諸弟子，
+<lb ed="B" n="0332a16"/>稱佛三千聲，唱《妙法蓮華經》題者數四，西面坐化。越日頂猶暖，
+<lb ed="B" n="0332a17"/>異香不絕。</p>
+    <linkGrp>
+        <link targets="#0332a12 #0332a12"/>
+        <ptr target="#A015826" type="person"/>
+        <ptr target="#A011239" type="person"/>
+        <ptr target="#j23003832300736" type="time"/>
+    </linkGrp>
+</div>

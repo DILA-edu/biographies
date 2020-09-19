@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="遺身" xml:id="gsz0304a12shiPuZhao">
+<lb ed="B" n="0304a12"/><anchor n="B.27.0151.0304a12"/><head>明金陵寶華山寺沙門<persName key="A043612">釋普照</persName>傳</head>
+<lb ed="B" n="0304a13"/><p xml:id="pB27p0304a1301"><persName key="A043612">釋普照</persName>，未知何許人，亦不祥<!-- 詳 -->其姓氏。初<persName key="A002098">梁武帝</persName>時有<persName key="A002296">釋寶誌</persName>者，
+<lb ed="B" n="0304a14"/>屢見神異，卓錫斯山，故舊有誌公庵。<date notBefore-iso="+1522-02-07" key="j22769962293443" notAfter-iso="+1567-02-18">明嘉靖</date>時，圯廢已久，荊榛
+<lb ed="B" n="0304a15"/>叢雜，狼虎窟之，人不敢近。<persName key="A043612">照</persName>乃審跡尋址，燔其林莽，搆廬而居，
+<lb ed="B" n="0304a16"/>纂修其緒。虎猶羣聚，高據洞穴。<persName key="A043612">照</persName>斷臂祭之，虎乃散去，人謂誠
+<lb ed="B" n="0304a17"/>心所感。自是游跡復通，<persName key="A002296">誌公</persName>之業賴以弗湮。至<date notBefore-iso="+1573-02-12" key="j22956292312992" notAfter-iso="+1620-08-27">萬曆間</date>其徒<persName key="A043613">明
+<lb ed="B" n="0304a18"/>律</persName>復張拓之。後<persName key="A007760">妙峯</persName>液銅為殿，卜吉山中。<persName key="A043613">明律</persName>以菴基、山場、田
+<lb ed="B" n="0304a19"/>畝悉獻之，而寶華山之名始著。</p>
+    <linkGrp>
+        <link targets="#0304a17 #0304a18"/>
+        <ptr target="#A043612" type="person"/>
+        <ptr target="#A043613" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0304a18 #0304a19"/>
+        <ptr target="#A007760" type="person"/>
+        <ptr target="#A043613" type="person"/>
+    </linkGrp>
+</div>

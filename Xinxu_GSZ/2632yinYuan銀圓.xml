@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0396a11shiYinYuan">
+<lb ed="B" n="0396a11"/><anchor n="B.27.0151.0396a11"/><head>明房山上方普濟寺沙門<persName key="A015806">釋銀圓</persName>傳</head>
+<lb ed="B" n="0396a12"/><p xml:id="pB27p0396a1201"><persName key="A015806">釋銀圓</persName>，字<persName key="A015806">孤山</persName>，姓李氏，武清人也。少待內庭給事銀局，工作公
+<lb ed="B" n="0396a13"/>餘，多暇留意內典，眈味久之，思出塵諠。乃乞退，徧遊名山，遠航
+<lb ed="B" n="0396a14"/>南海。還至少林，遇<persName key="A020590">無言</persName>師，為之披剃。具道從來，因以<persName key="A015806">銀圓</persName>名之，
+<lb ed="B" n="0396a15"/>取其精堅不磨，流通無礙。即謝曰：「銀則無須此，但期圓滿足矣！」
+<lb ed="B" n="0396a16"/>居數歲，復事遊參，邁跡上方，構朝陽庵，息靜山阿，將從此終焉！
+<lb ed="B" n="0396a17"/>顧上方地接皇都，山勢緜邈，雲水幽勝，甲於寰區，游侶日眾。自
+<lb ed="B" n="0396a18"/>孤山口至兜率寺，二十餘里，馬不能行，故來僧至孤山，已饑疲
+<lb ed="B" n="0396a19"/>交困，無休憇處，或望而<anchor xml:id="beg_1b6" type="cb-app"/>卻<anchor xml:id="end_1b6"/>步。<persName key="A015806">圓</persName>獨發願：欲於孤山剏建十方叢
+<lb ed="B" n="0396a20"/>院，以利行者。早夜殷殷，默禱顯叩，卒達所志。殿宇既成，額曰「普<pb ed="B" xml:id="B27.0151.0396b" n="0396b"/>
+<lb ed="B" n="0396b01"/>濟禪寺」，遂為始祖，人稱<persName key="A015806">孤山長老</persName>，以地名之，嘉其志也。以<date when-iso="+1620-02-14" key="j23127972312797">萬曆
+<lb ed="B" n="0396b02"/>庚申正月十一日</date>示寂，其徒<persName key="A043626">通祥</persName><persName key="A043627">通昱</persName>依浮屠法葬其骨於寺
+<lb ed="B" n="0396b03"/>西北隅。</p>
+    <linkGrp>
+        <link targets="#0396a14 #0396a15"/>
+        <ptr target="#A015806" type="person"/>
+        <ptr target="#A020590" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0396b02 #0396b02"/>
+        <ptr target="#A015806" type="person"/>
+        <ptr target="#A043626" type="person"/>
+        <ptr target="#A043627" type="person"/>
+    </linkGrp>
+</div>

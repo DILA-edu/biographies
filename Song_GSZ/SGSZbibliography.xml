@@ -1078,7 +1078,7 @@
                 <bibl ana="book">
                   <author><hi>Zhao</hi>, Dingbang 趙定邦 修，丁寶書 等纂</author>
                     <title>中國方志叢書‧華中地方第586號‧長興縣志</title>
-                    <edition>Taipei Chen Wen Publishing 臺北 成文出版社<date>1983</date>.03 First edition</edition>
+                    <edition>Taipei Chen Wen Publishing 臺北 成文出版社<date>1983</date>First edition</edition>
                     <abbr>長興縣趙志</abbr>
                 </bibl>
                 <bibl ana="book">
@@ -1514,6 +1514,18 @@
                     <abbr>元和姓纂四校記</abbr>
                 </bibl>
                 <bibl ana="book">
+                  <author><hi>Chen</hi>, Yuanjìng 陳元靚</author>
+                    <title>新編纂圖增類群書類要事林廣記</title>
+                    <edition>Beijing: Zhonghua 北京 中華書局<date>1963</date>First edition</edition>
+                    <abbr>事林廣記</abbr>
+                </bibl>
+                <bibl ana="book">
+                  <author><hi>Wang</hi>, Sanqing 王三慶</author>
+                    <title>中國佛教古佚書《五杉練若新學備用》研究</title>
+                    <edition>Taipei Xinwenfeng Press  臺北 新文豐出版公司<date>2019</date>First edition</edition>
+                    <abbr>王三慶 2019</abbr>
+                </bibl>
+                <bibl ana="book">
                   <author><hi>Adams</hi>, Douglas Q.</author>
                     <title>A Dictionary of Tocharian B (Leiden Studies in Indo-European 10)</title>
                     <edition>Editions Rodopi； Expanded, Revised, Bilingual <date>2013</date>Second edition</edition>
@@ -1526,6 +1538,12 @@
                     <abbr>法寶義林</abbr>
                 </bibl>
                 <bibl ana="book">
+                  <author><hi>Yang</hi>, Bojun 楊伯峻</author>
+                    <title>春秋左傳注</title>
+                    <edition>Beijing: Zhonghua 北京 中華書局<date>1981</date>First edition</edition>
+                    <abbr>春秋左傳注</abbr>
+                </bibl>
+                <bibl ana="book">
                   <author><hi>Forte</hi>, Antonino</author>
                     <title>The Activities in China of the Tantric Master Manicintana (Pao-ssu-wei 寶思惟: ? -721 A.D.) from Kashmir and of his Northern Indian Collaborators</title>
                     <edition>Rome: East and West 34.1-3 (Sept 1984), pp.301-345.<date>1984</date></edition>
@@ -1536,6 +1554,18 @@
                     <title>THE FEATURES OF THE INTERPRETATION OF MAÑGALA-SYMBOLS IN BUDDHIST SANSKRIT MANUSCRIPTS FROM CENTRAL ASIA</title>
                     <edition>Saint Petersburg: manuscripta orientalia Vol.18 No.2 (December 2012), pp.9-23.<date>2012</date></edition>
                     <abbr>Shomakhmadov 2012</abbr>
+                </bibl>
+                <bibl ana="book">
+                  <author><hi>Xu</hi>, Yongjian 徐用檢 修</author>
+                    <title>中國方志叢書‧華中地方第517號‧蘭谿縣志</title>
+                    <edition>Taipei Chen Wen Publishing 臺北 成文出版社（影印萬曆三十四年刊本，清康熙間補刊本）<date>1983[1606]</date>First edition</edition>
+                    <abbr>蘭谿縣志</abbr>
+                </bibl>
+                <bibl ana="book">
+                  <author><hi>Chen</hi>, Menglei 陳夢雷 編</author>
+                    <title>古今圖書集成</title>
+                    <edition>Shanghai: Zhonghua 上海 中華書局（影印雍正四至六年刊本）<date>1934[1728]</date>First edition</edition>
+                    <abbr>古今圖書集成</abbr>
                 </bibl>
             </listBibl>
         </body>
