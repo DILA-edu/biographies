@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="淨讀" xml:id="gsz0335a05shiHaiBao">
+<lb ed="B" n="0335a05"/><anchor n="B.27.0151.0335a05"/><head>明常州天寧寺沙門<persName key="A043653">釋海寶</persName>傳<persName type="secondary" key="A043655">無名僧</persName></head>
+<lb ed="B" n="0335a06"/><p xml:id="pB27p0335a0601"><persName key="A043653">釋海寶</persName>，狀甚純樸，不表飾言。人與語，或不之答，但微笑而已。居
+<lb ed="B" n="0335a07"/>常州天寧寺，破衲一領，寒暑衣之。蟣𧈲緣裾，隨手捫得，殊不為
+<lb ed="B" n="0335a08"/>意。春煦日暖，席階而坐，對佛拈𧈲，聚於掌上，纍若貫珠。已復納
+<lb ed="B" n="0335a09"/>之袖中，翻然而起。客或與之錢，則市豆蔬供寺僧；施金多，則乞
+<lb ed="B" n="0335a10"/>眾諷經，已，則號佛。如是者歷有年所。崇禎間翰林<persName key="A043654">鄭胙長</persName>約<persName key="A043653">寶</persName>
+<lb ed="B" n="0335a11"/>禮南海<!-- 普陀 -->，已而卻之。發掉<!-- 《淨土聖賢錄》卷5：「發棹後」(CBETA, X78, no. 1549, p. 272, c23) -->行時，常見<persName key="A043653">寶</persName>在岸前，追之不及。及登山
+<lb ed="B" n="0335a12"/>入殿，<persName key="A043653">寶</persName>又在焉。遣使邀之偕還，復不得。<persName key="A043654">鄭</persName>既歸，即詣寺候。<persName key="A043653">寶</persName>弟
+<lb ed="B" n="0335a13"/>子云：「師沈臥月餘，昨方起耳。」因述其神異，郡人由此欽信。一日，
+<lb ed="B" n="0335a14"/>趺坐念佛而化。又<persName key="A043655">無名</persName>僧者，居黃州。持彌陀佛，晝夜不輟。<date from-iso="+1643-02-19" key="j23212032321556" to-iso="+1644-02-07">崇禎
+<lb ed="B" n="0335a15"/>十六年</date>，總兵<persName key="A043656">黃鼎</persName>守黃州。方出巡，僧大聲唱佛，衝其卒伍。執之，
+<lb ed="B" n="0335a16"/>已而得釋。會張獻忠攻黃州，僧坐城上，夜中高聲唱佛，軍士不
+<lb ed="B" n="0335a17"/>得睡。惡之，縛投城下。俄而復在城上唱佛如故，每東城下，西城
+<lb ed="B" n="0335a18"/>上，南城下，北城上。總兵聞之，始敬禮焉。歲饑，人相食。僧至城外，
+<lb ed="B" n="0335a19"/>饑民持刀，乞僧捨身。僧云：「俟我誦佛千聲即捨爾。」稱至三百聲，
+<lb ed="B" n="0335a20"/>眾見兵至，皆驚散，而僧已在城中。山中獵者，生得一虎。僧見欲<pb ed="B" xml:id="B27.0151.0335b" n="0335b"/>
+<lb ed="B" n="0335b01"/>贖放之。獵者索三十金，僧止得四金。獵者云：「汝能執虎耳三匝，
+<lb ed="B" n="0335b02"/>則與汝虎。」僧授記虎，執虎耳三匝，遂縱之。虎依僧不去，僧與虎
+<lb ed="B" n="0335b03"/>同住黃麻山金剛洞中。巡撫<persName key="A043657">盧象昇</persName>督兵過黃州，詣山訪之。欲
+<lb ed="B" n="0335b04"/>見虎，僧語虎探頭窗外，<persName key="A043657">盧</persName>欲見全虎，虎乃大哮躍出，<persName key="A043657">盧</persName>竟納贄，
+<lb ed="B" n="0335b05"/>稱弟子而去。一日行市中，見一雞。僧高聲念佛，雞亦隨聲而應，
+<lb ed="B" n="0335b06"/>市人皆驚。嘗之武林，出白門，見秦淮河遊船中有<persName key="A043658">錢生</persName>者，其弟
+<lb ed="B" n="0335b07"/>子也。呼<persName key="A043658">錢</persName>登岸，放聲大哭曰：「眾生以苦為樂，乃如是耶。」<persName key="A043658">錢生</persName>哀
+<lb ed="B" n="0335b08"/>求懺悔，示以念佛，後不知所終。</p>
+    <linkGrp>
+        <link targets="#0335a10 #0335a14"/>
+        <ptr target="#A043653" type="person"/>
+        <ptr target="#A043654" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0335a14 #0335a18"/>
+        <ptr target="#A043655" type="person"/>
+        <ptr target="#A043656" type="person"/>
+        <ptr target="#j23212032321556" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0335b03 #0335b05"/>
+        <ptr target="#A043655" type="person"/>
+        <ptr target="#A043657" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0335b03 #0335b05"/>
+        <ptr target="#A043655" type="person"/>
+        <ptr target="#A043658" type="person"/>
+    </linkGrp>
+</div>

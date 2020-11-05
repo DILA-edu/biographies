@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="淨讀" xml:id="gsz0334a09shiYuanXin">
+<lb ed="B" n="0334a09"/><anchor n="B.27.0151.0334a09"/><head>明餘杭徑山寺沙門<persName key="A001408">釋圓信</persName>傳<persName type="secondary" key="A043644">照御</persName></head>
+<lb ed="B" n="0334a10"/><p xml:id="pB27p0334a1001"><persName key="A001408">釋圓信</persName>，字<persName key="A001408">雪嶠</persName>，姓朱氏，鄞人也。<ref type="date" target="#j23051092305491">年二十九</ref>始為僧進具，欲往天
+<lb ed="B" n="0334a11"/>台訪尋知識印證。忽舉頭見「古雲門」三字，豁然大悟，遂返縛茅
+<lb ed="B" n="0334a12"/>雙髻峰。復以偈謁<persName key="A001394">雲栖</persName>。更參<persName key="A000273">龍池</persName>，室中機契。<date notBefore-iso="+1573-02-12" key="j22956292312992" notAfter-iso="+1620-08-27">萬曆間</date>遷徑山，復
+<lb ed="B" n="0334a13"/>住廬山。嘗作《淨土詩》自敘云：「甲子秋游黃山，直上危峰絕頂，若
+<lb ed="B" n="0334a14"/>昇忉利。忽空中人語『比丘久隱，時當弘法眾生，差異善調伏之
+<lb ed="B" n="0334a15"/>知《淨土百詠》，成於黃海光明頂也。』」<date from-iso="+1635-02-17" key="j23182792318633" to-iso="+1636-02-06">崇禎八年</date>中丞<persName key="A022488">余大成</persName>、司理
+<lb ed="B" n="0334a16"/><persName key="A003794">黃端伯</persName>訪<persName key="A001408">信</persName>徑山，即請開法。<date when-iso="+1647-09-24" key="j23228812322881">丁亥八月二十六日</date>示疾，書偈端
+<lb ed="B" n="0334a17"/>坐，索茶飲半盞而寂。<persName key="A043644">照御</persName>字<persName key="A043644">參哲</persName>，小容范氏子。幼具佛性，中夜
+<lb ed="B" n="0334a18"/>拜大士像，額墳起不休。年十八，歸依<persName key="A043645">松石</persName>。後受具於<persName key="A043646">巨德</persName>。禪誦
+<lb ed="B" n="0334a19"/>而後，腰鐮負薪，與眾作苦。經樓茶舍，位置楚楚。於深松文柀中，
+<lb ed="B" n="0334a20"/>戶牖澄碧。六時梵課，猿啼鳥語，靜中響答，極巖棲之致。坐臘四<pb ed="B" xml:id="B27.0151.0334b" n="0334b"/>
+<lb ed="B" n="0334b01"/>十二，壽六十四。預知歸期，晏坐而逝。</p>
+    <linkGrp>
+        <link targets="#0334a12 #0334a12"/>
+        <ptr target="#A001408" type="person"/>
+        <ptr target="#A001394" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0334a12 #0334a12"/>
+        <ptr target="#A001408" type="person"/>
+        <ptr target="#A000273" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0334a15 #0334a16"/>
+        <ptr target="#A001408" type="person"/>
+        <ptr target="#A022488" type="person"/>
+        <ptr target="#A003794" type="person"/>
+        <ptr target="#j23182792318633" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0334a17 #0334a18"/>
+        <ptr target="#A001408" type="person"/>
+        <ptr target="#A043645" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0334a17 #0334a18"/>
+        <ptr target="#A001408" type="person"/>
+        <ptr target="#A043646" type="person"/>
+    </linkGrp>
+</div>

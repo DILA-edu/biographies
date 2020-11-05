@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0394b13shiHuiZong">
+<lb ed="B" n="0394b13"/><anchor n="B.27.0151.0394b13"/><head>明峨湄普賢寺沙門<persName key="A009033">釋慧宗</persName>傳<persName type="secondary" key="A009334">寶曇</persName><persName type="secondary" key="A007882">無窮</persName></head>
+<lb ed="B" n="0394b14"/><p xml:id="pB27p0394b1401"><persName key="A009033">釋慧宗</persName>，字<persName key="A009033">別傳</persName>，雲夢人。明<date notBefore-iso="+1522-02-07" key="j22769962293443" notAfter-iso="+1567-02-18">嘉靖中</date>遊峩湄山，觀<persName key="A003079">普賢</persName>像，因敬生
+<lb ed="B" n="0394b15"/>悟，留居四十年，剏造銅殿。復範金為<persName key="A003079">普賢</persName>像一諸，佛銅像六十
+<lb ed="B" n="0394b16"/>五諸，佛大銅像三。鑄銅鐘三，重二萬五千兩。初<persName key="A009334">寶曇國師</persName>當<date notBefore-iso="+1368-01-31" key="j22207422232078" notAfter-iso="+1399-02-13">洪
+<lb ed="B" n="0394b17"/>武時</date>敕主峨湄山，重建鐵瓦殿，造<persName key="A003079">普賢</persName>金像，留蜀十五年，道化
+<lb ed="B" n="0394b18"/>行相，傳為<persName key="A009546">斷崖</persName>再世。後召還，寂于天界寺。<persName key="A003672">太祖</persName>嘗賜御詩二章
+<lb ed="B" n="0394b19"/>云：「<persName key="A009546">斷崖</persName>知是再來僧，今日還修未了因；借問山中何所有，清風
+<lb ed="B" n="0394b20"/>明月最相親。山中靜閱歲華深，舉世何人識此僧；不獨峨湄幻<pb ed="B" xml:id="B27.0151.0395a" n="0395a"/>
+<lb ed="B" n="0395a01"/>銀色，從教大地變黃金。」又<persName key="A007882">無窮<roleName>禪師</roleName></persName>從<persName key="A009118">通天</persName>學，苦行彌堅，身炷
+<lb ed="B" n="0395a02"/>四十八火，表其所願。刺血書《華嚴經》兩部。峩眉縣東大佛寺，銅
+<lb ed="B" n="0395a03"/>造大士像，高三丈餘者，即<persName key="A007882">無窮</persName>所募建也。<date notBefore-iso="+1573-02-12" key="j22956292312992" notAfter-iso="+1620-08-27">萬曆中</date>官齎帑金為
+<lb ed="B" n="0395a04"/>之寺，前後賜賚甚多。有金書《金剛經》若干卷，又金書貝葉經一
+<lb ed="B" n="0395a05"/>函，非中土所有，尤可寶云。</p>
+    <linkGrp>
+        <link targets="#0394b18 #0394b18"/>
+        <ptr target="#A009334" type="person"/>
+        <ptr target="#A003672" type="person"/>
+    </linkGrp>
+</div>

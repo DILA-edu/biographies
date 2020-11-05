@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0379a08shiYuanLiang">
+<lb ed="B" n="0379a08"/><anchor n="B.27.0151.0379a08"/><head>明四明天童寺沙門<persName key="A019811">釋元良</persName>傳</head>
+<lb ed="B" n="0379a09"/><p xml:id="pB27p0379a0901"><persName key="A019811">釋元良</persName>，字<persName key="A019811">原明</persName>，號<persName key="A019811">左庵</persName>，姓周氏，寧海人也。初居台之瑞巖，<date from-iso="+1358-02-17" key="j22171072217460" to-iso="+1359-02-05">元至
+<lb ed="B" n="0379a10"/>正十八年戊<anchor xml:id="beg_198" type="cb-app"/>戌<anchor xml:id="end_198"/></date>行宣政院奏<persName key="A019811">良</persName>道行，被旨住天童，重建朝元閣，
+<lb ed="B" n="0379a11"/>範萬銅佛於其上危，參政素奉敕紀其績，賜號<persName key="A019811">善覺普光禪師</persName>。
+<lb ed="B" n="0379a12"/>庚子丙午間，築海隄五百七十五丈，成田一十頃有奇，為萬佛
+<lb ed="B" n="0379a13"/>莊塗田<!-- 海埔新生地 -->，<persName key="A001799">夢堂曇噩</persName>記焉。主天童十二年，鑄金範像，開基築閣，事
+<lb ed="B" n="0379a14"/>績燦然。明室初興，退居東谷，力修山宇，事在<date from-iso="+1376-01-30" key="j22236632224046" to-iso="+1377-02-16">洪武丙辰</date>以後。<persName key="A014229">袁
+<lb ed="B" n="0379a15"/>廷玉琪</persName>嘗寄詩相贈，答詩云：「歸去山中筍蕨肥，石泉茅屋薛蘿
+<lb ed="B" n="0379a16"/>衣；一經靜坐蒼松下，閒看孤雲自在飛。」塔於東谷庵前東南麓。</p>
+    <linkGrp>
+        <link targets="#0379a14 #0379a16"/>
+        <ptr target="#A019811" type="person"/>
+        <ptr target="#A014229" type="person"/>
+    </linkGrp>
+</div>

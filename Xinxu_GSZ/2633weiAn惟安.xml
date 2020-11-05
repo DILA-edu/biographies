@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0396b04shiWeiAn">
+<lb ed="B" n="0396b04"/><anchor n="B.27.0151.0396b04"/><head>明黃山慈光寺沙門<persName key="A015843">釋惟安</persName>傳</head>
+<lb ed="B" n="0396b05"/><p xml:id="pB27p0396b0501"><persName key="A015843">釋惟安</persName>，字<persName key="A015843">雲亭</persName>，讀經中〈普門〉喜其誼廣大無礙，因自號<persName key="A015843">普門</persName>，姓
+<lb ed="B" n="0396b06"/>奚氏，郿人也。幼失怙恃，不識生平。而志骨挺立，弗甘俗賤。年約
+<lb ed="B" n="0396b07"/>十歲，為人牧羊。迅雷夜半，驚起自憤，消除卑念，投入空門。年近
+<lb ed="B" n="0396b08"/>二十，薙髮受具，遍叩宗匠。三十年中，往來少林、五臺、<anchor xml:id="beg039601"/><choice><sic resp="CBETA">大</sic><corr resp="PC-MB">太</corr></choice><anchor xml:id="end039601"/>行<!-- 《宗統編年》卷31：「五臺太行」(CBETA, X86, no. 1600, p. 291, c24-p. 292, a1) -->、伏牛、
+<lb ed="B" n="0396b09"/>補陀間，饑不言疲，患至不怖，晝夜精勤，<anchor xml:id="beg_1b7" type="cb-app"/>鍛<anchor xml:id="end_1b7"/>鍊周密。直至無可轉
+<lb ed="B" n="0396b10"/>處，必欲轉得。如是努力，自疑自豁。嘗於元日入山負薪，被風吹
+<lb ed="B" n="0396b11"/>落，身心兩無，前後際斷，如月映澄潭，花明空鏡，雖青巖擊竹，高
+<lb ed="B" n="0396b12"/>峰落枕，無以過也。獨以未經明眼印可，不敢自信。再上臺山謁
+<lb ed="B" n="0396b13"/><persName key="A001889">空印</persName>，呈偈請益。一聞提驚，便破桶底，若洪鐘既叩，靡不響應矣！
+<lb ed="B" n="0396b14"/><date from-iso="+1593-02-01" key="j23029232303306" to-iso="+1594-02-19">萬曆二十一年</date>，立禪之夜，似夢初醒，覺黃山境象，如在目前。<date from-iso="+1604-01-31" key="j23069392307322" to-iso="+1605-02-17">三
+<lb ed="B" n="0396b15"/>十二年</date>行至新安，因緣所集，宰官、居士、緇素、道侶信受歸依，幾
+<lb ed="B" n="0396b16"/>及千人。<persName key="A015843">安</persName>乃破雪尋奇，捫蘿陟峭，得黃山之勝，恍與夢符，遂入
+<lb ed="B" n="0396b17"/>開山，草剏法海禪院。來者日眾，糗糧乏絕，相與采苦飲水，亦不
+<lb ed="B" n="0396b18"/>相離。道價翔溢，聲達禁苑，敕賜「慈光寺」額，及七級四面金像，并
+<lb ed="B" n="0396b19"/>藏經、金書《法華經》、紫衣、金缽，賞賚有加。<date from-iso="+1623-01-31" key="j23138792314262" to-iso="+1624-02-18">天啟三年</date>飛錫戾夫椒
+<lb ed="B" n="0396b20"/>山祥符寺，山荒地僻，厨竈無煙。<persName key="A015843">安</persName>與眾閉門七日不火。<persName key="A043782">許<roleName>居士</roleName><pb ed="B" xml:id="B27.0151.0397a" n="0397a"/>
+<lb ed="B" n="0397a01"/>鼎臣</persName>叩扉直入，見其道貌清峻，略無疲色，歎為華嚴不思議境
+<lb ed="B" n="0397a02"/>界。消凍餓想，儼然雪山麻麥也。無何，以賜佛因緣，北至清源乘
+<lb ed="B" n="0397a03"/>願禪林，即<persName key="A015843">安</persName>十年前所建也。少傅蓼水朱公<!-- ？ -->相留結夏，亦自知
+<lb ed="B" n="0397a04"/>遷化期近，即止憇焉。以<date when-iso="+1625-07-15" key="j23147752314775">天啟五年六月十二日</date>示寂，趺坐說偈
+<lb ed="B" n="0397a05"/>曰：「處處西方地，我無西方心；滿目皆蓮花，惟不見我身。」合掌而
+<lb ed="B" n="0397a06"/>逝，僧臘五十餘載。弟子輦骨黃山，造塔寺後，白石鑿鑿，流水環
+<lb ed="B" n="0397a07"/>繞。<persName key="A043782">許鼎臣</persName>為之銘。</p>
+    <linkGrp>
+        <link targets="#0396b20 #0397a01"/>
+        <ptr target="#A015843" type="person"/>
+        <ptr target="#A043782" type="person"/>
+        <ptr target="#j23138792314262" type="time"/>
+    </linkGrp>
+</div>

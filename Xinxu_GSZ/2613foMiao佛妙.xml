@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0386b03shiFoMiao">
+<lb ed="B" n="0386b03"/><anchor n="B.27.0151.0386b03"/><head>明江寧華嚴寺沙門<persName key="A015644">釋佛妙</persName>傳<persName type="secondary" key="A043706">果開</persName><persName type="secondary" key="A043707">祖祥</persName></head>
+<lb ed="B" n="0386b04"/><p xml:id="pB27p0386b0401"><persName key="A015644">釋佛妙</persName>者，昆明人，佚其姓字，出家于太華寺。<date from-iso="+1383-02-11" key="j22262322226585" to-iso="+1384-01-30">明洪武十六年</date>赴
+<lb ed="B" n="0386b05"/>京朝請，<persName key="A003672">太祖</persName>嘉之，賜缽杖僧衣，并敕遊兩浙名山。<date from-iso="+1385-02-18" key="j22269702227324" to-iso="+1386-02-07">十八年</date>回京，
+<lb ed="B" n="0386b06"/>詔居天界寺。<date from-iso="+1418-02-15" key="j22390192239372" to-iso="+1419-02-03">永樂十六年</date>，<persName key="A000149">太宗</persName>命主碧峰寺，隆儀碩矩，見重兩
+<lb ed="B" n="0386b07"/>朝，譽馳南北，聲教爛然。嘗慨時當改革，兵燹之餘，荒邱古剎，焚
+<lb ed="B" n="0386b08"/>毀廢壞，未能興復者，十居八九。每見破寺，輒為悵然。<date from-iso="+1421-02-11" key="j22401112240465" to-iso="+1422-01-31">十九年</date>聞
+<lb ed="B" n="0386b09"/>江寧安德鄉有古華嚴禪寺，年深頹敝，因傾己橐，益以勝緣，遂
+<lb ed="B" n="0386b10"/>造佛殿、廊廡、石塔。<date when-iso="+1430-01-18" key="j22433742243374">宣德四年十二月望日</date>沐浴更衣，書偈而逝，
+<lb ed="B" n="0386b11"/>其徒葬之石塔中。<date from-iso="+1438-02-04" key="j22463132246666" to-iso="+1439-01-23">正統三年</date>僧<persName key="A043706">果開</persName>奏乞寺額，有旨仍稱華嚴。
+<lb ed="B" n="0386b12"/><date from-iso="+1446-02-05" key="j22492362249590" to-iso="+1447-01-25">十一年</date>主僧<persName key="A043707">祖祥</persName>更廓舊制，創菩薩殿閣，夾峙左右，互相輝映，
+<lb ed="B" n="0386b13"/>藻繪塗塈，侈于前矣。</p>
+    <linkGrp>
+        <link targets="#0386b04 #0386b05"/>
+        <ptr target="#A015644" type="person"/>
+        <ptr target="#A003672" type="person"/>
+        <ptr target="#j22262322226585" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0386b06 #0386b06"/>
+        <ptr target="#A015644" type="person"/>
+        <ptr target="#A000149" type="person"/>
+        <ptr target="#j22390192239372" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0386b11 #0386b11"/>
+        <ptr target="#A015644" type="person"/>
+        <ptr target="#A006683" type="person"/>
+        <ptr target="#j22463132246666" type="time"/>
+    </linkGrp>
+</div>

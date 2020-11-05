@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0389a10shiPuLiang">
+<lb ed="B" n="0389a10"/><anchor n="B.27.0151.0389a10"/><head>明遠安福河寺沙門<persName key="A043716">釋普亮</persName>傳<persName type="secondary" key="A043717">弘參</persName><persName type="secondary" key="A043718">深潤</persName></head>
+<lb ed="B" n="0389a11"/><p xml:id="pB27p0389a1101"><persName key="A043716">釋普亮</persName>，未知何許人。識懷溫敏，風儀遒遠。弱冠剃染，慧解兼人，
+<lb ed="B" n="0389a12"/>博涉內外，獨契真如。而道貴利他，更思弘濟，振錫荊楚，卜居妙
+<lb ed="B" n="0389a13"/>峰山，剏建蘭若。其山在遠安城外五十里許，地隔塵囂，林壑深
+<lb ed="B" n="0389a14"/>秀。乃刳闢荒壞，翦除榛穢，道流引渠，寥廓泓漾，俯視澄清，鏡空
+<lb ed="B" n="0389a15"/>心澈，誠安禪之福地，初啟之靈源也。<date from-iso="+1457-02-04" key="j22532532253606" to-iso="+1458-01-23">天順丁丑</date>奉禮部劄付敕
+<lb ed="B" n="0389a16"/>賜額曰「福河」，<persName key="A043716">亮</persName>亦深蒙褒許。自是厥後，神宇櫛比，堂殿相望，彌
+<lb ed="B" n="0389a17"/>漫山阿，縈迴河岸。一時士大夫歸向，玄素蒸蒸，宏護之雄，莫之
+<lb ed="B" n="0389a18"/>與京。<date from-iso="+1567-02-19" key="j22934442293797" to-iso="+1568-02-07">隆慶初</date>有<persName key="A043717">弘參</persName><persName key="A043718">深潤</persName>者，重振家聲，高大樓觀，覆以琉璃。法
+<lb ed="B" n="0389a19"/>席所宣，直闡向上，開悟來學，亦臨濟之秀，法教光顯，實寄其人。</p>
+    <linkGrp>
+        <link targets="#0389a18 #0389a19"/>
+        <ptr target="#A043717" type="person"/>
+        <ptr target="#A043718" type="person"/>
+        <ptr target="#j22934442293797" type="time"/>
+    </linkGrp>
+</div>

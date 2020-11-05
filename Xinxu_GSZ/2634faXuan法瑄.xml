@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0397a08shiFaXuan">
+<lb ed="B" n="0397a08"/><anchor n="B.27.0151.0397a08"/><head>明當陽玉泉紫紫庵沙門<persName key="A042287">釋法瑄</persName>傳</head>
+<lb ed="B" n="0397a09"/><p xml:id="pB27p0397a0901"><persName key="A042287">釋法瑄</persName>，字<persName key="A042287">玄徹</persName>，幼棲燕山，託身桑門。<date notBefore-iso="+1573-02-12" key="j22956292312992" notAfter-iso="+1620-08-27">明萬曆時</date>南游至當陽，止
+<lb ed="B" n="0397a10"/>于玉泉。會<persName key="A000274">無迹</persName>重修殿閣及十方堂成，將弘講席，造就新徒，欲
+<lb ed="B" n="0397a11"/>得大藏，以饟學者。以<persName key="A042287">瑄</persName>來自都門，諳識舊事，使慈航偕之赴京。
+<lb ed="B" n="0397a12"/>僕僕風塵，舟船南北，終遂所請，並載而歸。玉泉之右，林谷幽秀，
+<lb ed="B" n="0397a13"/>有峰名紫紫，流水環繞其下。鄉貢<persName key="A007053">袁<roleName>君</roleName>中道</persName>別治一葊，讀書其
+<lb ed="B" n="0397a14"/>中。<date from-iso="+1616-02-17" key="j23113392311693" to-iso="+1617-02-05">丙辰歲</date><persName key="A007053">袁<roleName>君</roleName></persName>捷南宮<!-- 舉進士 -->，成進士，以葊付<persName key="A042287">瑄</persName>而去。逾年<persName key="A042287">瑄</persName>復謀于
+<lb ed="B" n="0397a15"/><persName key="A007053">袁<roleName>君</roleName></persName>曰：「凡蘭若，當具三寶者也。今佛相修矣，法典備矣，獨往來
+<lb ed="B" n="0397a16"/>游侶，尚無一粥飯為棲息之地，可奈何！」<persName key="A007053">袁<roleName>君</roleName></persName>聞而善之為文，徵
+<lb ed="B" n="0397a17"/>諸善信，卒置田百有餘畝，以贍行者。<persName key="A042287">瑄</persName>勤於護法，嚴於律身，凡
+<lb ed="B" n="0397a18"/>所綜營利財不苟，人多敬服。主紫紫庵十餘年，<g ref="#CB15665">諄</g><g ref="#CB15665">諄</g>以念佛為
+<lb ed="B" n="0397a19"/>第一義。後無疾，誦佛合掌而化。</p>
+    <linkGrp>
+        <link targets="#0397a09 #0397a11"/>
+        <ptr target="#A042287" type="person"/>
+        <ptr target="#A000274" type="person"/>
+        <ptr target="#j22956292312992" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0397a13 #0397a17"/>
+        <ptr target="#A042287" type="person"/>
+        <ptr target="#A007053" type="person"/>
+        <ptr target="#j23113392311693" type="time"/>
+    </linkGrp>
+</div>

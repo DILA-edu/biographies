@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0392a18shiPuHui">
+<lb ed="B" n="0392a18"/><anchor n="B.27.0151.0392a18"/><head>明燕京廣濟寺沙門<persName key="A042406">釋普慧</persName>傳<persName type="secondary" key="A043744">且住</persName></head>
+<lb ed="B" n="0392a19"/><p xml:id="pB27p0392a1901"><persName key="A042406">釋普慧</persName>，字<persName key="A042406">喜雲</persName>，潞人也。<date from-iso="+1457-02-04" key="j22532532253606" to-iso="+1458-01-23">明天順初</date>至燕京，與彭城伯<persName key="A043740">張守忠</persName><!-- 萬曆人 -->、惠
+<lb ed="B" n="0392a20"/>安伯<persName key="A043741">張元善</persName><!-- 萬曆人 -->、大學士<persName key="A043742">李東陽</persName>、<persName key="A009147">萬安</persName>相友善，重建西劉村寺，宗風<pb ed="B" xml:id="B27.0151.0392b" n="0392b"/>
+<lb ed="B" n="0392b01"/>丕振，名聞九重，賜額「廣濟」，後遂奉為初祖云。先是<date notBefore-iso="+1450-01-23" key="j22506842253272" notAfter-iso="+1457-02-23">景泰間</date>有得
+<lb ed="B" n="0392b02"/>佛像及石礎於土中者，知為西劉村寺故址。宋末有<persName key="A043743">劉望雲</persName>者，
+<lb ed="B" n="0392b03"/>自謂天台<persName>劉真人</persName>之苗裔，得煉氣法。一日有僧號<persName key="A043744">且住</persName>者過之。
+<lb ed="B" n="0392b04"/><persName key="A043743">望雲</persName>出迎，僧以佛理砭之。<persName key="A043743">雲</persName>深折服，執其手曰：「且為我說法。」因
+<lb ed="B" n="0392b05"/>為之建寺曰「西劉村寺」，說法二十年。元末為兵火焚燬，蕩然無
+<lb ed="B" n="0392b06"/>遺。至是<persName key="A042406">慧</persName>重為興築，金碧輝映，水雲<!--即「雲水」，指僧道-->會萃，都闉寶坊，斯為第一。
+<lb ed="B" n="0392b07"/><persName key="A042406">慧</persName>天姿明敏，性復沈靜。雖<anchor xml:id="beg039201"/><choice><sic resp="CBETA">日</sic><corr resp="PC-MB">曰</corr></choice><anchor xml:id="end039201"/>默默<!-- 《勅建弘慈廣濟寺新志．卷2．喜雲慧大師傳》：「雖曰默默」(《中國佛寺史志彙刊》，第1輯，第44冊，頁0097) -->，而機鋒所觸，犀利莫當。涅盤
+<lb ed="B" n="0392b08"/>後，塔於玉泉山二聖庵側。<date from-iso="+1470-02-10" key="j22580072258360" to-iso="+1471-01-29">成化六年庚寅</date>，<ref type="person" target="#A006687">帝</ref>遣禮部郎中<persName key="A043746">孫洪</persName>
+<lb ed="B" n="0392b09"/>諭祭於萬壽戒壇<anchor xml:id="beg039203"/><choice><sic resp="CBETA">誅</sic><corr resp="PC-MB">詔</corr></choice><anchor xml:id="end039203"/><!-- 《勅建弘慈廣濟寺新志．卷2．喜雲慧大師傳》：「詔曰」(《中國佛寺史志彙刊》，第1輯，第44冊，頁0098) -->曰：「爾早通釋典，克<anchor xml:id="beg039205"/><choice><sic resp="CBETA">特</sic><corr resp="PC-MB">持</corr></choice><anchor xml:id="end039205"/><!-- 《勅建弘慈廣濟寺新志．卷2．喜雲慧大師傳》：「克持戒律」(《中國佛寺史志彙刊》，第1輯，第44冊，頁0098) -->戒律，正期闡揚宗風，
+<lb ed="B" n="0392b10"/>何遽一疾而逝？爰昭錫典，特賜以祭。爾靈有知，尚其歆茲！」弟子
+<lb ed="B" n="0392b11"/><persName key="A043748">大海洪</persName>為立碑塔院，用垂久遠。<persName key="A043748">洪</persName>弟子<persName key="A043749">明仁</persName>、<persName key="A043750">明宗</persName>皆能祖述宗
+<lb ed="B" n="0392b12"/>旨，不墜禪風。</p>
+    <linkGrp cert="low">
+        <link targets="#0392a19 #0392a20"/>
+        <ptr target="#A042406" type="person"/>
+        <ptr target="#A043740" type="person"/>
+        <ptr target="#j22532532253606" type="time"/>
+    </linkGrp>
+    <linkGrp cert="low">
+        <link targets="#0392a19 #0392a20"/>
+        <ptr target="#A042406" type="person"/>
+        <ptr target="#A043741" type="person"/>
+        <ptr target="#j22532532253606" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0392a19 #0392a20"/>
+        <ptr target="#A042406" type="person"/>
+        <ptr target="#A043742" type="person"/>
+        <ptr target="#j22532532253606" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0392a19 #0392a20"/>
+        <ptr target="#A042406" type="person"/>
+        <ptr target="#A009147" type="person"/>
+        <ptr target="#j22532532253606" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0392b02 #0392b05"/>
+        <ptr target="#A043743" type="person"/>
+        <ptr target="#A043744" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0392b08 #0392b10"/>
+        <ptr target="#A006687" type="person"/>
+        <ptr target="#A043746" type="person"/>
+        <ptr target="#A043748" type="person"/>
+        <ptr target="#j22580072258360" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0392b10 #0392b11"/>
+        <ptr target="#A042406" type="person"/>
+        <ptr target="#A043748" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0392b11 #0392b11"/>
+        <ptr target="#A043748" type="person"/>
+        <ptr target="#A043749" type="person"/>
+        <ptr target="#A043750" type="person"/>
+    </linkGrp>
+</div>

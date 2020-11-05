@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0399a15shiDaoTong">
+<lb ed="B" n="0399a15"/><anchor n="B.27.0151.0399a15"/><head>明沙市白齋庵沙門<persName key="A042407">釋道通</persName>傳<persName type="secondary" key="A043804">德全</persName><persName type="secondary" key="A043809">香林</persName></head>
+<lb ed="B" n="0399a16"/><p xml:id="pB27p0399a1601"><persName key="A042407">釋道通</persName>，字<persName key="A042407">白齋</persName>，西蜀人也。早歲披緇，苦行自勵。壯而發足，躡屩
+<lb ed="B" n="0399a17"/>負簦，徧跡名山，獨以荊門，西達峨嵋，北通五臺。而滇黔湘隴，四
+<lb ed="B" n="0399a18"/>方行脚者，欲瞻<persName key="A002144">文殊</persName>而禮<persName key="A003079">普賢</persName>多道出沙市。水雲<!--即「雲水」，指僧道-->往還，殊無止
+<lb ed="B" n="0399a19"/>息之地，使過者煩苦，來者沮喪，非所望於弘法者也。乃矢志修
+<lb ed="B" n="0399a20"/>持，自甘淡泊，感應人天，卒遂所願，建庵沙市，人以白齋呼之，因<pb ed="B" xml:id="B27.0151.0399b" n="0399b"/>
+<lb ed="B" n="0399b01"/>以名焉！于是遠近遊侶接踵而至，伊蒲<!-- 齋供 -->之給，四時無缺。<persName key="A042407">通</persName>臨化
+<lb ed="B" n="0399b02"/>時謂諸僧曰：「法性本無生，今復何滅？其不立一切法者，亦不捨
+<lb ed="B" n="0399b03"/>一切法也。吾所以苦心經營，正以待諸佛子耳！豈有他耶？前為
+<lb ed="B" n="0399b04"/>殿三楹以棲像，為閣五楹以棲法，為樓左右以棲僧。而禪室方
+<lb ed="B" n="0399b05"/>丈俱備，居者得所，行者如歸，有田可粒，有圃可蔬，爾曹善護之。
+<lb ed="B" n="0399b06"/>吾將他往矣！」安禪而寂。闍維得舍利無算，因立塔焉。<persName key="A042407">通</persName>勤修有
+<lb ed="B" n="0399b07"/>恆，昕夕無惰，五十年如一日。其徒<persName key="A043804">全德</persName>、<persName key="A043805">纘緒</persName>、<persName key="A043806">續焰</persName>、<persName key="A043807">律肅</persName>、<persName key="A043808">宗明</persName>更
+<lb ed="B" n="0399b08"/>宏殿宇，洞啟法門。荊南會稽<persName key="A008023">陶<roleName>公</roleName>崇道</persName>為之記。又<persName key="A043809">香林僧</persName>者，吳
+<lb ed="B" n="0399b09"/>人也，不詳其姓字。<date from-iso="+1573-02-12" key="j22956292295983" to-iso="+1574-02-01">萬曆初</date>遊荊，會同侶于南湖倡建眾香林，以
+<lb ed="B" n="0399b10"/>饟往來行者，其主<anchor xml:id="beg_1b8" type="cb-app"/>斂<anchor xml:id="end_1b8"/>米。已而不繼，吳僧持缽徧袒，而出索之市
+<lb ed="B" n="0399b11"/>井朝饔之餘家。才一盞，三衢未徧，而白粲<!-- 白米 -->之積足飽千僧。自是
+<lb ed="B" n="0399b12"/>厥後，日以為常，施者不費，來者取足，人多效之。<persName key="A009962">黃<roleName>太史</roleName>輝</persName>為題
+<lb ed="B" n="0399b13"/>其額曰「眾香林」，吳僧亦以是而得名焉。時荊沙兩地水雲<!--即「雲水」，指僧道-->流行，
+<lb ed="B" n="0399b14"/>俱得挂搭而北詣清涼，西踐涐雪者，依此止息，稍修煩困已。公
+<lb ed="B" n="0399b15"/>安<persName key="A004656">袁宏道</persName>亦為之記云。</p>
+    <linkGrp>
+        <link targets="#0399b06 #0399b08"/>
+        <ptr target="#A042407" type="person"/>
+        <ptr target="#A043804" type="person"/>
+        <ptr target="#A043805" type="person"/>
+        <ptr target="#A043806" type="person"/>
+        <ptr target="#A043807" type="person"/>
+        <ptr target="#A043808" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0399b12 #0399b13"/>
+        <ptr target="#A043809" type="person"/>
+        <ptr target="#A009962" type="person"/>
+    </linkGrp>
+</div>

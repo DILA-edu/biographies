@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0385b14shiGeLiMa">
+<lb ed="B" n="0385b14"/><anchor n="B.27.0151.0385b14"/><head>明五臺山顯通寺沙門<persName key="A009983">釋葛里麻</persName>傳</head>
+<lb ed="B" n="0385b15"/><p xml:id="pB27p0385b1501"><persName key="A009983">釋葛里麻</persName>者，烏斯藏人也。道懷沖漠，神用叵測，聞於中都。<date notBefore-iso="+1403-02-01" key="j22335262241558" notAfter-iso="+1425-01-28">明永
+<lb ed="B" n="0385b16"/>樂間</date><persName key="A000149">太宗</persName>遣使西土迎之，應命而至，封<persName key="A009983">如來大寶法王西天大
+<lb ed="B" n="0385b17"/>善自在佛</persName>。<persName key="A009983">法王</persName>性樂林泉，輦轂之下，恐妨禪業。且初意來華，志
+<lb ed="B" n="0385b18"/>在五頂，因請遊臺山。於是聖眷隆渥，賜以旌幢、華蓋之儀，遣使
+<lb ed="B" n="0385b19"/>衛送至五臺大顯通寺。命太監<persName key="A009688">楊昇</persName>重修寺宇，并葺育王所置
+<lb ed="B" n="0385b20"/>佛舍利塔，以飾<persName key="A009983">法王</persName>之居。先是<persName key="A009983">法王</persName>隨<ref type="person" target="#A000149">帝</ref>幸靈谷寺，感塔影金<pb ed="B" xml:id="B27.0151.0386a" n="0386a"/>
+<lb ed="B" n="0386a01"/>光之瑞。及入臺山，<ref type="person" target="#A000149">帝</ref>思前瑞，再幸靈谷，默有所禱。復覩瑞象，頗
+<lb ed="B" n="0386a02"/>勝於前。乃遺書臺山略曰：「<ref type="person" target="#A000149">朕</ref><date when-iso="+1407-05-31" key="j22351062235106">四月十五日</date><!-- 《補續高僧傳》卷19：「丁亥四月上遣使。致書於臺山大寶法王大善自在佛。其書略曰。朕四月十五日。」(CBETA 2020.Q3, X77, no. 1524, p. 504a11-12) -->與<persName key="A010851">弘濟大師</persName>詣靈谷
+<lb ed="B" n="0386a03"/>觀向，所見塔影，文彩光明，珍奇玅好，千變萬態，十倍於前。雖極
+<lb ed="B" n="0386a04"/>丹青之巧，言論之辯，莫能圖說其萬一。此皆<persName key="A009983">大寶法王大善自
+<lb ed="B" n="0386a05"/>在佛</persName>道超無等，德高無比，具足萬行，闡揚六通，化導群品，實<persName key="A002799">釋
+<lb ed="B" n="0386a06"/>迦佛</persName>再現世間。而乃顯茲靈應，不可思議，<ref type="person" target="#A000149">朕</ref>心歡喜，難以名言。
+<lb ed="B" n="0386a07"/>略此相報，<persName key="A002799">如來</persName>亮之。」<ref type="date" target="#j22353572235710">明年</ref><persName key="A009983">法王</persName>為疏別<ref type="person" target="#A000149">帝</ref>，詞旨了澈，未幾入滅。
+<lb ed="B" n="0386a08"/>火化無遺物。是年關吏見<persName key="A009983">法王</persName>西邁，貽<ref type="person" target="#A000149">帝</ref>所賜玉玦回奏。<ref type="person" target="#A000149">帝</ref>覽
+<lb ed="B" n="0386a09"/>之驚歎，勅太監<persName key="A009688">楊昇</persName>塑像於顯通奉之。</p>
+    <linkGrp>
+        <link targets="#0385b15 #0385b17"/>
+        <ptr target="#A009983" type="person"/>
+        <ptr target="#A000149" type="person"/>
+        <ptr target="#j22335262241558" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0385b18 #0385b20"/>
+        <ptr target="#A009983" type="person"/>
+        <ptr target="#A000149" type="person"/>
+        <ptr target="#A009688" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0385b20 #0386a03"/>
+        <ptr target="#A000149" type="person"/>
+        <ptr target="#A010851" type="person"/>
+        <ptr target="#j22351062235106" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0386a08 #0386a09"/>
+        <ptr target="#A000149" type="person"/>
+        <ptr target="#A009688" type="person"/>
+    </linkGrp>
+</div>

@@ -240,14 +240,14 @@ def handle_choice(e):
           print('\t'+k, file=log)
     else:
       if s is None:
-        s='底本作「{0}」。'.format(''.join(sic))
+        s='大正本作「{0}」。'.format(''.join(sic))
       r += create_footnote(s, e)
   elif e.find('orig') is not None and e.find('reg') is not None:
     reg=handle_node(e.find('reg'))
     orig=handle_node(e.find('orig'))
     s=e.findtext('note')
     if s is None:
-      s='底本「{0}」的通用字。'.format(''.join(orig))
+      s='大正本「{0}」的通用字。'.format(''.join(orig))
     r += reg
     if len(globals['current_apps'])>0:
       for k in globals['current_apps']: 
@@ -496,7 +496,7 @@ def handle_seg(e):
 def handle_supplied(e):
   global globals
   r = traverse(e)
-  s='底本無「{}」字。'.format(r)
+  s='大正本無「{}」字。'.format(r)
   r += create_footnote(s, e)
   return r
 
@@ -866,6 +866,8 @@ def icon(wit):
     '磧': 'qi.ai',
     '甲': 'songjia.ai',
     '南藏': 'nan.ai',
+    '四': 'si.ai',
+    '永': 'yong.ai',
   }
   t=re.split('[【】]', wit)
   r=[]

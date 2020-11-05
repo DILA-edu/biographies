@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0388b08shiZongMiao">
+<lb ed="B" n="0388b08"/><anchor n="B.27.0151.0388b08"/><head>明杭州淨慈寺沙門<persName key="A015672">釋宗妙</persName>傳</head>
+<lb ed="B" n="0388b09"/><p xml:id="pB27p0388b0901"><persName key="A015672">釋宗妙</persName>，字<persName key="A015672">覺庵</persName>，別號<persName key="A015672">堆雲叟</persName>，姓趙氏，錢塘人也。父好施予，喜誦
+<lb ed="B" n="0388b10"/>《法華》，亦嘗持齋。母感異僧入夢，覺而生<persName key="A015672">妙</persName>。幼性閑靜，見佛像致
+<lb ed="B" n="0388b11"/>禮唯謹。<ref type="date" target="#j22244012224755">十歲</ref>落髮，即從慧雲<persName key="A021612">正庵誾</persName>受具。既而往參靈隱<persName key="A000548">空叟</persName>，
+<lb ed="B" n="0388b12"/>命主藏室。時<persName key="A000548">空叟</persName>倡道東南，<persName key="A015672">妙</persName>嘗分座演說，遂主嘉興廣法禪
+<lb ed="B" n="0388b13"/>寺。久廢之餘，一力新之。遷杭之萬壽報國，昔<persName key="A000062">訢<roleName>公</roleName>笑隱</persName>主此寺
+<lb ed="B" n="0388b14"/>時，最號名勝。繼者非其人，日以頹壞。<persName key="A015672">妙</persName>至首建萬松門，及方丈
+<lb ed="B" n="0388b15"/>翼以重屋，作舞鳳樓、碧梧軒、香積廚屋。後掘地得泉，遂瀦為池，
+<lb ed="B" n="0388b16"/>構亭其上。作大悲閣以奉觀世音像，佛殿後又造大殿，刻臥佛
+<lb ed="B" n="0388b17"/>其中，環以十弟子。土木采章，皆極巨麗。繚以外垣，凡四百丈。殫
+<lb ed="B" n="0388b18"/>心竭力，二十餘年，而寺乃復舊觀。薦為副都綱，精修力踐，以振
+<lb ed="B" n="0388b19"/>起宗風為<anchor xml:id="beg_1a6" type="cb-app"/>己<anchor xml:id="end_1a6"/>任。先是海昌湯鎮，潮水蕩激，屢壞隄岸，民不安其
+<lb ed="B" n="0388b20"/>居。<persName key="A015672">妙</persName>領名僧十二人，於其地號佛籲請，風潮竟爾止息，卒免其<pb ed="B" xml:id="B27.0151.0389a" n="0389a"/>
+<lb ed="B" n="0389a01"/>患。<date from-iso="+1426-02-17" key="j22419432242296" to-iso="+1427-02-05">明宣德初</date>入主淨慈，首建三門。越五年，寺眾不戒於火，大殿
+<lb ed="B" n="0389a02"/>燬焉。乃捐資重造，歷歲告成，壯麗宏偉，有加于昔。中作三大像，
+<lb ed="B" n="0389a03"/>諸天十地，皆旁侍焉，費以巨萬。生平溫厚凝重，道貌偉然。每升
+<lb ed="B" n="0389a04"/>席說法，音如洪鐘，四眾聚觀，歡喜讚歎，起其信心，濟人利物，甚
+<lb ed="B" n="0389a05"/>於為<anchor xml:id="beg_1a7" type="cb-app"/>己<anchor xml:id="end_1a7"/>。惓惓之褱，至老不倦。當日名公巨子，若<persName key="A043712">黃<roleName>少保</roleName>宗豫</persName>、<persName key="A042587">黃
+<lb ed="B" n="0389a06"/><roleName>尚書</roleName>宗載</persName>、<persName key="A043713">王<roleName>侍郎</roleName>子清</persName>、<persName key="A008931">周<roleName>侍郎</roleName>恂如</persName>、<persName key="A043714">張<roleName>都督</roleName>以誠</persName>皆極推許，或
+<lb ed="B" n="0389a07"/>贈以詩文，人多榮之。<persName key="A015672">妙</persName>則歉然，以為方外不可以此相慁<!-- 擾亂 -->也。示
+<lb ed="B" n="0389a08"/>寂於<date when-iso="+1443-08-16" key="j22483322248332">正統癸亥七月十二日</date>，塔於南屏山陽。<persName key="A043715">王真</persName>為之銘，文具
+<lb ed="B" n="0389a09"/>《寺志》。</p>
+    <linkGrp>
+        <link targets="#0388b11 #0388b11"/>
+        <ptr target="#A015672" type="person"/>
+        <ptr target="#A021612" type="person"/>
+        <ptr target="#j22244012224755" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0388b11 #0388b12"/>
+        <ptr target="#A015672" type="person"/>
+        <ptr target="#A000548" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0389a05 #0389a07"/>
+        <ptr target="#A015672" type="person"/>
+        <ptr target="#A043712" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0389a05 #0389a07"/>
+        <ptr target="#A015672" type="person"/>
+        <ptr target="#A042587" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0389a05 #0389a07"/>
+        <ptr target="#A015672" type="person"/>
+        <ptr target="#A043713" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0389a05 #0389a07"/>
+        <ptr target="#A015672" type="person"/>
+        <ptr target="#A008931" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0389a05 #0389a07"/>
+        <ptr target="#A015672" type="person"/>
+        <ptr target="#A043714" type="person"/>
+    </linkGrp>
+</div>

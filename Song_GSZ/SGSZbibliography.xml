@@ -676,8 +676,14 @@
                 <bibl ana="book">
                   <author><hi>Guo</hi>, Qingfan 郭慶藩 (Ed.)</author>
                     <title>Zhuangzi jishi 莊子集釋</title>
-                    <edition>Taipei: Huazheng 華正書局<date>1980</date></edition>
-                    <abbr>莊釋</abbr>
+                    <edition>Beijing: Zhonghua 中華書局<date>1985</date>Fourth edition</edition>
+                    <abbr>莊子集釋</abbr>
+                </bibl>
+                <bibl ana="book">
+                  <author><hi>Li</hi>, Xiangfeng 黎翔鳳 (Ed.)</author>
+                    <title>Guanzi jiaozhu  管子校注</title>
+                    <edition>Beijing: Zhonghua 中華書局<date>2004</date>First edition</edition>
+                    <abbr>管子校注</abbr>
                 </bibl>
                 <bibl ana="book">
                   <author><hi>Huang</hi>, Qijiang 黃啟江</author>
@@ -1566,6 +1572,30 @@
                     <title>古今圖書集成</title>
                     <edition>Shanghai: Zhonghua 上海 中華書局（影印雍正四至六年刊本）<date>1934[1728]</date>First edition</edition>
                     <abbr>古今圖書集成</abbr>
+                </bibl>
+                <bibl ana="book">
+                  <author><hi>Ji</hi>, Xianlin 季羨林</author>
+                    <title>佛教十五題</title>
+                    <edition>Beijing: Zhonghua 中華書局<date>2007</date>First edition（Second printing）</edition>
+                    <abbr>佛教十五題</abbr>
+                </bibl>
+                <bibl ana="book">
+                  <author><hi>Chen</hi>, Yuan 陳垣</author>
+                    <title>中國佛教史籍概論</title>
+                    <edition>Kaohsiung:Fuhwen 高雄 復文圖書出版社<date>1984</date></edition>
+                    <abbr>中國佛教史籍概論</abbr>
+                </bibl>
+                <bibl ana="book">
+                  <author><hi>Wang</hi>, Shaofeng 王紹峰; Cao, Zhubing 曹祝兵</author>
+                    <title>读《宋高僧传》校点本札记</title>
+                    <edition>Fuyang Editorial Department of Journal of Fuyang Teachers College (Social Science) 阜阳师范学院学报（社会科学版）2011 年第 3 期<date>2011</date></edition>
+                    <abbr>王紹峰 2011</abbr>
+                </bibl>
+                <bibl ana="book">
+                  <author><hi>McRae</hi>, John R.</author>
+                    <title>The Northern School and the Formation of Early Ch'an Buddhism</title>
+                    <edition>University of Hawaii Press<date>1986</date></edition>
+                    <abbr>McRae 1986</abbr>
                 </bibl>
             </listBibl>
         </body>

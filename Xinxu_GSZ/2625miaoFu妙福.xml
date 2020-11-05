@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0392b13shiMiaoFu">
+<lb ed="B" n="0392b13"/><anchor n="B.27.0151.0392b13"/><head>明潤州焦山普濟寺沙門<persName key="A043753">釋妙福</persName>傳<persName type="secondary" key="A043756">慧印</persName><persName type="secondary" key="A043757">樂一</persName></head>
+<lb ed="B" n="0392b14"/><p xml:id="pB27p0392b1401"><persName key="A043753">釋妙福</persName>者，未知何許人。<date from-iso="+1488-01-23" key="j22645632271147" to-iso="+1506-02-02">明弘治間</date>來焦山普濟寺。寺左有石磯，
+<lb ed="B" n="0392b15"/>迤而出者踰十丈，地勢卑下，潮汐往來，汪洋汗濫，不可涯涘。<persName key="A043753">福</persName>
+<lb ed="B" n="0392b16"/>為募工增土，築而高之，歲久乃成平地。于是削木陶瓦，為庵數
+<lb ed="B" n="0392b17"/>楹，其地崒起中流，四面皆水，因名水晶庵。明<persName key="A043755">楊文襄公一清</persName>與
+<lb ed="B" n="0392b18"/><persName key="A043753">福</persName>友善，為留玉帶以鎮之。<persName key="A006689">明武宗</persName>嘗幸<persName key="A043755">一清</persName>第，會<persName key="A043753">福</persName>在座，為引
+<lb ed="B" n="0392b19"/>見之。因命<persName key="A043753">福</persName>為三山都綱。及<persName key="A043753">福</persName>遷化，歷數傳守者墮廢，日以傾
+<lb ed="B" n="0392b20"/>頹，破壁敗垣，蒿榛塞目，像偶露立，見者惻然。久之有僧<persName key="A043756">慧印</persName>與<pb ed="B" xml:id="B27.0151.0393a" n="0393a"/>
+<lb ed="B" n="0393a01"/>其徒<persName key="A043757">樂一</persName>，亦<persName key="A043753">福</persName>之系也。一日遊方，歸尋其舊地，昔之莊嚴已隳
+<lb ed="B" n="0393a02"/>埋穿漏，雜荒礫中，莫可認識，黯然神傷。立志興復，乞善募眾，冒
+<lb ed="B" n="0393a03"/>暑衝寒，鈴柝<!-- 搖鈴擊柝 -->忘疲。於是七眾感慕，檀施泉湧。乃撤敝去朽，培窪
+<lb ed="B" n="0393a04"/>拓隘，更謀高出，作月波樓，建曉清堂、悟嵐軒，胼胝竭<g ref="#CB33458">󸊲</g><!-- 竭蹷，指勉力支撐 -->，十有餘
+<lb ed="B" n="0393a05"/>載，始可告成。蓋作於<date from-iso="+1697-01-23" key="j23409002341016" to-iso="+1697-05-19">康熙丁丑之春</date>，藏于<date from-iso="+1699-07-27" key="j23418152341931" to-iso="+1699-11-20"><anchor xml:id="beg_1b2" type="cb-app"/>己<anchor xml:id="end_1b2"/>卯之秋</date>，<persName key="A043758">冷士<g ref="#CB30299">󷙛</g></persName>為
+<lb ed="B" n="0393a06"/>之記云。</p>
+    <linkGrp>
+        <link targets="#0392b17 #0392b19"/>
+        <ptr target="#A043753" type="person"/>
+        <ptr target="#A006689" type="person"/>
+        <ptr target="#A043755" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0392b20 #0392b19"/>
+        <ptr target="#A043756" type="person"/>
+        <ptr target="#A043757" type="person"/>
+    </linkGrp>
+</div>

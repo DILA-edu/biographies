@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0388a12shiZuYuan">
+<lb ed="B" n="0388a12"/><anchor n="B.27.0151.0388a12"/><head>明四明天童寺沙門<persName key="A009164">釋祖淵</persName>傳</head>
+<lb ed="B" n="0388a13"/><p xml:id="pB27p0388a1301"><persName key="A009164">釋祖淵</persName>，字<persName key="A009164">天泉</persName>，號<persName key="A009164">雨庵</persName>，姓楊氏，廬陵人也。<date from-iso="+1403-02-01" key="j22335262233909" to-iso="+1404-02-19">明永樂癸未</date>受具青
+<lb ed="B" n="0388a14"/>原山，謁<persName key="A001101">幻居戒</persName>，多所啟發，稱入室弟子。然臂明心，篤志求道，至
+<lb ed="B" n="0388a15"/>忘寢食。孜孜五載，塵妄俱空，始出遊參，遍禮叢林。<date from-iso="+1422-02-01" key="j22404662240849" to-iso="+1423-02-19">壬寅</date>還天界，
+<lb ed="B" n="0388a16"/>刺血書經。<date from-iso="+1426-02-17" key="j22419432242296" to-iso="+1427-02-05">宣德</date>改元，聲譽遠暢，四方學者，視作表率。尋為僧錄
+<lb ed="B" n="0388a17"/>司舉住靈峰，值天童虛席，乃移居之。<date from-iso="+1434-02-18" key="j22448662245219" to-iso="+1435-02-06">甲寅</date>應召入京，命為左覺
+<lb ed="B" n="0388a18"/>義。時敕建大功德寺成，命<persName key="A009164">淵</persName>兼之，僧徒雲集，復賜田四百餘頃。
+<lb ed="B" n="0388a19"/><persName key="A009164">淵</persName>念禪、講、教三宗，名不可不正，奏以大功德、大慈恩、大隆善三
+<lb ed="B" n="0388a20"/>寺為之。由是三宗弟子受業，各有依歸。又以天下寺廢，多由學<pb ed="B" xml:id="B27.0151.0388b" n="0388b"/>
+<lb ed="B" n="0388b01"/>徒未廣，請於常度正額外，增五分之一，廢剎多因是而興。未幾
+<lb ed="B" n="0388b02"/>遷右善世，發上所賜物，建大剎於江寧鳳翔山，賜額曰普寧禪
+<lb ed="B" n="0388b03"/>寺。萬善戒壇成，命為傳戒宗師。又以寺左行道阻溝，往來苦之。
+<lb ed="B" n="0388b04"/>乃拓地甃石，作橋建庵，其傍施茗利濟，行者德焉。以<date when-iso="+1449-04-08" key="j22503942250394">正統<anchor xml:id="beg_1a5" type="cb-app"/>己<anchor xml:id="end_1a5"/>巳
+<lb ed="B" n="0388b05"/>三月七日</date>示寂。臨化書偈擲筆，悠然異香滿室。<ref type="person" target="#A006683">上</ref>聞，遣太監<persName key="A043710">吳
+<lb ed="B" n="0388b06"/>弼</persName>以金鈔香幣賜弔。又遣禮部主事<persName key="A043711">林瑩</persName>致奠。茶毗得舍利盈
+<lb ed="B" n="0388b07"/>掬，藏於大功德寺，奏請靈骨歸塔南都普寧。</p>
+    <linkGrp>
+        <link targets="#0388a13 #0388a13"/>
+        <ptr target="#A009164" type="person"/>
+        <ptr target="#A001101" type="person"/>
+        <ptr target="#j22335262233909" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0388a17 #0388a17"/>
+        <ptr target="#A009164" type="person"/>
+        <ptr target="#A006682" type="person"/>
+        <ptr target="#j22448662245219" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0388b05 #0388b06"/>
+        <ptr target="#A006683" type="person"/>
+        <ptr target="#A043710" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0388b06 #0388b07"/>
+        <ptr target="#A006683" type="person"/>
+        <ptr target="#A043711" type="person"/>
+    </linkGrp>
+</div>

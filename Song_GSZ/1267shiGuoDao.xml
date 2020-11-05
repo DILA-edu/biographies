@@ -1,20 +1,25 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="雜科聲德" xml:id="gsz0897b19shiGuoDao">
-<lb ed="T" n="0897b19"/><anchor n="T.50.2061.0897b19"/><head><date from-iso="+0907-06-10" key="j20524952058534" to-iso="+0923-12-22">梁</date>廬山雙溪院<persName key="A008811">國道者</persName>傳</head><p>
-<lb ed="T" n="0897b20"/><persName key="A008811">釋國道者</persName>，未知何許人也。器凝淳粹，行敦
-<lb ed="T" n="0897b21"/>高邁，塊然獨處，翩翩在形器之上矣。參學
-<lb ed="T" n="0897b22"/><anchor xml:id="beg0897sgsz11"/><choice resp="PC-JK-MB"><sic>收</sic><corr>攸</corr></choice><anchor xml:id="end0897sgsz11"/>廣，欲歇孤征，愛<placeName key="PL000000018775">廬山</placeName>秀異，誓隱淪以求
-<lb ed="T" n="0897b23"/>其志。考築草舍，<anchor xml:id="beg0897002"/>灌<anchor xml:id="end0897002"/>園<ptr type="glossary" target="#g77"/><anchor xml:id="beg0897003"/>植<anchor xml:id="end0897003"/>蔬，任山中居人
-<lb ed="T" n="0897b24"/>揃取。或問其故，答曰：「<persName key="A008811">貧道</persName>無心而種，無心而
+<lb ed="T" n="0897b19"/><anchor n="T.50.2061.0897b19"/><head><date from-iso="+0907-06-10" key="j20524952058534" to-iso="+0923-12-22">梁</date><placeName key="PL000000018808">廬山雙溪院</placeName><persName key="A008811">國道者</persName>傳</head><p>
+<lb ed="T" n="0897b20"/><persName key="A008811">釋國道者</persName>，未知何許人也<ptr target="#n3657"/>。器凝淳粹<ptr type="glossary" target="#g2465"/>，行敦
+<lb ed="T" n="0897b21"/>高邁，塊然獨處<ptr type="glossary" target="#g2466"/>，翩翩在形器之上矣。參學
+<lb ed="T" n="0897b22"/><anchor xml:id="beg0897sgsz11"/><choice resp="PC-JK-MB"><sic>收</sic><corr>攸</corr></choice><anchor xml:id="end0897sgsz11"/><ptr type="glossary" target="#g2469"/>廣，欲歇孤征，愛<placeName key="PL000000018775">廬山</placeName>秀異，誓隱淪以求
+<lb ed="T" n="0897b23"/>其志。考<ptr type="glossary" target="#g1064"/>築草舍，<anchor xml:id="beg0897002"/>灌<anchor xml:id="end0897002"/>園<ptr type="glossary" target="#g77"/><anchor xml:id="beg0897003"/>植<anchor xml:id="end0897003"/>蔬，任山中居人
+<lb ed="T" n="0897b24"/>揃取。或問其故，答曰：「<ref type="person" target="#A008811">貧道</ref>無心而種，無心而
 <lb ed="T" n="0897b25"/>捨也。」驗此見知，實達道之上流矣。<persName key="A013947">修睦</persName>僧正
-<lb ed="T" n="0897b26"/>恒傾意奉重，詩贈<persName key="A008811">國公</persName>云：「入門空寂寂，真
-<lb ed="T" n="0897b27"/>箇出家兒。有行鬼不見，無心人謂癡。」後終
-<lb ed="T" n="0897b28"/>于<placeName key="PL000000018808">院</placeName>，葬于雙溪山<!--找不到此地-->原，有小浮圖焉。今以「國」
+<lb ed="T" n="0897b26"/>恒傾意奉重，詩贈<persName key="A008811">國<roleName>公</roleName></persName>云：「入門空寂寂，真
+<lb ed="T" n="0897b27"/>箇出家兒；有行鬼不見，無心人謂癡。<ptr target="#n3656"/>」後終
+<lb ed="T" n="0897b28"/>于<ref type="place" target="#PL000000018808">院</ref>，葬于<placeName key="PL000000018808">雙溪</placeName>山原，有小浮圖焉。今以「國」
 <lb ed="T" n="0897b29"/>字呼之，為名邪？姓邪？未得詳焉。</p>
     <linkGrp>
-        <link targets="#0897b22 #0897b28"/>
+        <link targets="#0897b22 #0897b27"/>
         <ptr target="#A008811" type="person"/>
         <ptr target="#A013947" type="person"/>
+        <ptr target="#PL000000018775" type="place"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0897b27 #0897b28"/>
+        <ptr target="#A008811" type="person"/>
         <ptr target="#PL000000018808" type="place"/>
     </linkGrp>
 </div>

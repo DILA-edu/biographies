@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0394a10shiHuiXin">
+<lb ed="B" n="0394a10"/><anchor n="B.27.0151.0394a10"/><head>明通海東華山寺沙門<persName key="A042412">釋慧心</persName>傳<persName type="secondary" key="A012124">真澄</persName></head>
+<lb ed="B" n="0394a11"/><p xml:id="pB27p0394a1101"><persName key="A042412">釋慧心</persName>，字<persName key="A042412">妙空</persName>，姓馬氏，通海人。母夢遊寺，持金像歸，覺而育子。
+<lb ed="B" n="0394a12"/>父早世，<persName key="A042412">慧心</persName>才數齡，採薪織屨，歸以奉母。途中拾遺金百兩，偵
+<lb ed="B" n="0394a13"/>其主而還之。母有疾，割膚和藥。母沒，廬墓每感異徵。後之秀山
+<lb ed="B" n="0394a14"/>湧金寺禮<persName key="A012407">智曉</persName>祝髮，專壹懃懇，拜誦《法華》。感圓通得定，七日方
+<lb ed="B" n="0394a15"/>起，即發言中理，莫不驚異，道聲嘖嘖，達於婦孺。每入城市，前後
+<lb ed="B" n="0394a16"/>讙<g ref="#CB24336">𧦝</g>，皆致敬禮。嘗遇大疫流行，<persName key="A042412">慧心</persName>為之諷經祈求，足跡所至，
+<lb ed="B" n="0394a17"/>病者俱起。去縣數里曰東華山，舊有湫窟，倚邪灣曲，可通人跡。
+<lb ed="B" n="0394a18"/>有怪，狀甚獰暴，樵牧至者，每為電火焚擊，一方患之。<persName key="A042412">慧心</persName>獨杖
+<lb ed="B" n="0394a19"/>策，入窟趺坐其中。未幾，果見怪物，狀如龍蛇，張爪皷鬣，若將吞
+<lb ed="B" n="0394a20"/>噬。雷雨大作，七日方霽，忽有偉服三人，進而告之曰：「神龍所據，<pb ed="B" xml:id="B27.0151.0394b" n="0394b"/>
+<lb ed="B" n="0394b01"/>何苦在茲，顧不懼害耶？」<persName key="A042412">慧心</persName>曰：「吾欲服此孽耳！」語竟，遂失三人
+<lb ed="B" n="0394b02"/>所在。鄉人以為數日不出，必攖其害，聚眾百人，持炬而入。見<persName key="A042412">慧
+<lb ed="B" n="0394b03"/>心</persName>兀坐如故，咸以為神。即於其上建寺居之。又於雞足、盤龍兩
+<lb ed="B" n="0394b04"/>地飯僧，數達二億。暮年遊笻竹，喜其山林幽勝，乃重葺之，不日
+<lb ed="B" n="0394b05"/>燦然。寂時年六十五，僧行四十。塔後三日，忽發異香，移時乃散。
+<lb ed="B" n="0394b06"/><persName key="A012124">真澄</persName>字<persName key="A012124">所庵</persName>，尋甸張氏子。年十五慕玉龍<persName key="A043775">法光</persName>道範，常思見之。
+<lb ed="B" n="0394b07"/>見園中柿熟，欲將為贄。攀樹摘取，緣枝墮地，神魂驚越，昏昏如
+<lb ed="B" n="0394b08"/>夢。竟赴<persName key="A043775">光</persName>所，與<persName key="A043775">光</persName>問答，歷歷在目。及甦乃知身臥墮處，遂悟生
+<lb ed="B" n="0394b09"/>死不在色身，即往禮<persName key="A043775">光</persName>受五戒。年十八復投曲江見<persName key="A012932">古梅</persName>始從
+<lb ed="B" n="0394b10"/>薙染。已而遍參名山，乃至北都，居千佛寺依<persName key="A009553">徧融</persName>，多所發明，遂
+<lb ed="B" n="0394b11"/>嗣其法。後住五台山，弘敷教席，為近代法師之冠。及回雞足，建
+<lb ed="B" n="0394b12"/>那蘭陀寺於金龍潭。</p>
+    <linkGrp>
+        <link targets="#0394a13 #0394a14"/>
+        <ptr target="#A042412" type="person"/>
+        <ptr target="#A012407" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0394b06 #0394b09"/>
+        <ptr target="#A012124" type="person"/>
+        <ptr target="#A043775" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0394b09 #0394b10"/>
+        <ptr target="#A012124" type="person"/>
+        <ptr target="#A012932" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0394b10 #0394b11"/>
+        <ptr target="#A012124" type="person"/>
+        <ptr target="#A009553" type="person"/>
+    </linkGrp>
+</div>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="淨讀" xml:id="gsz0335b09shiDaYun">
+<lb ed="B" n="0335b09"/><anchor n="B.27.0151.0335b09"/><head>明仁和吉祥寺沙門<persName key="A042299">釋大雲</persName>傳<persName type="secondary" key="A010910">居溟</persName><persName type="secondary" key="A043661">金童僧</persName></head>
+<lb ed="B" n="0335b10"/><p xml:id="pB27p0335b1001"><persName key="A042299">釋大雲</persName>，字<persName key="A042299">萬安</persName>，姓郭氏，仁和人。出家永慶寺，受具於<persName key="A001394">雲棲</persName>。居北
+<lb ed="B" n="0335b11"/>郊，篤修淨業，相依者眾，因剏吉祥寺。寮宇燦然，竟成叢席。寺中
+<lb ed="B" n="0335b12"/>規制，秉諸<persName key="A001394">雲棲</persName>，專以誦讀為課。及示微疾，即絕飲食，唯稱佛號。
+<lb ed="B" n="0335b13"/>有往省之者，則曰：「彌陀不念，念我何為？」臨化，語弟子<persName key="A043659">智經</persName>曰：「為
+<lb ed="B" n="0335b14"/>我灑掃，佛來迎矣。」<persName key="A010910">居溟</persName>字<persName key="A010910">去息</persName>，姑蘇徐氏子。披緇鄧尉修，靈巖
+<lb ed="B" n="0335b15"/><persName key="A000241">儲</persName>禪師受莂記。機悟敏捷，後繼其席。二年退居錫山，讀《宗鏡錄》，
+<lb ed="B" n="0335b16"/>謂：「宗門淨土，本無異旨。吾亦當西遊耳。」<date from-iso="+1670-04-20" key="j23311252331153" to-iso="+1670-05-18">庚<anchor xml:id="beg_16d" type="cb-app"/>戌<anchor xml:id="end_16d"/>三月</date>示疾，有請說
+<lb ed="B" n="0335b17"/>偈者，不應而寂。<persName key="A043661">金童</persName>廟僧者，遺其名。廟在常熟城北，日持一版，
+<lb ed="B" n="0335b18"/>擊於巷衢，高聲誦曰：「無常迅速，一心念佛。」眾不甚異之。<date from-iso="+1640-04-21" key="j23201692320198" to-iso="+1640-05-20">崇禎十
+<lb ed="B" n="0335b19"/>三年三月</date>，徧辭諸鄰舍曰：「好念佛，老僧去矣。」明日爇香佛前，合
+<lb ed="B" n="0335b20"/>掌稱佛，端坐而逝。</p>
+    <linkGrp>
+        <link targets="#0335b10 #0335b10"/>
+        <ptr target="#A042299" type="person"/>
+        <ptr target="#A001394" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0335b13 #0335b14"/>
+        <ptr target="#A042299" type="person"/>
+        <ptr target="#A043659" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0335b14 #0335b15"/>
+        <ptr target="#A010910" type="person"/>
+        <ptr target="#A000241" type="person"/>
+    </linkGrp>
+</div>

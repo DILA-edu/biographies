@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0398a06shiCheTian">
+<lb ed="B" n="0398a06"/><anchor n="B.27.0151.0398a06"/><head>明宜都廣濟寺沙門<persName key="A043789">釋徹天</persName>傳<persName type="secondary" key="A043791">徹容</persName></head>
+<lb ed="B" n="0398a07"/><p xml:id="pB27p0398a0701"><persName key="A043789">釋徹天</persName>，未詳何許人。有道行，攝化于荊楚間。宜都<persName key="A043790">劉<roleName>太史</roleName>恆河</persName>
+<lb ed="B" n="0398a08"/>暮年好善，傾心佛果，捨宅為寺。旁求高賢，奉為開山。及聞<persName key="A043789">徹天</persName>
+<lb ed="B" n="0398a09"/>品格清峻，玄旨淵深，抒忱禮請。欣然戾止，說法拈佛，緇白化之。
+<lb ed="B" n="0398a10"/>今為廣濟始祖是也。又<persName key="A043791">徹容</persName>者，川人也。賦性堅忍，慧猛兼資，環
+<lb ed="B" n="0398a11"/>眼晶晴，劍眉黑面。<date from-iso="+1595-02-09" key="j23036612304014" to-iso="+1596-01-28">萬曆乙未</date>始至玉泉，棲于別院。舊名龍興寺，
+<lb ed="B" n="0398a12"/>為唐<persName key="A008970">恆景<roleName>律師</roleName></persName>道場。日就埋廢，<persName key="A043791">容</persName>慨然動念，立志恢復。奔趨三
+<lb ed="B" n="0398a13"/>載，呼號十方，溽暑嚴寒，不憚跋涉，卒告成功。視前之棟楹撓折，
+<lb ed="B" n="0398a14"/>桶檻腐敝，甍霤破缺，赤白漫漶者，經之營之，治之葺之，輦礫穢
+<lb ed="B" n="0398a15"/>燔，椔翳斬茅，而藝嘉樹發石，而引清泉，怡神養性，助我禪悅，當
+<lb ed="B" n="0398a16"/>機唱導，歲無虛日。後終于斯寺，窣波<g ref="#CB33444">󸊤</g><!-- 巋？ -->然，餘芬未沫。</p>
+    <linkGrp>
+        <link targets="#0398a07 #0398a10"/>
+        <ptr target="#A043789" type="person"/>
+        <ptr target="#A043790" type="person"/>
+    </linkGrp>
+</div>

@@ -1,20 +1,44 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" type="淨讀">
-
-<lb ed="B" n=""/><anchor n="B.27.0151"/>
-                    <head>明雲南雞足山大覺寺沙門釋圓彩傳<persName type="secondary">如然　雲峯</persName>
-                    </head>
-                <p xml:id="pB27p0334b0301">釋圓彩字白雲姓劉氏昆明人也年十歲禮笻竹十方得度日
-<lb ed="B" n="0334b04"/>事苦行後從所庵受具持律森嚴專修念佛三昧有皈依者唯
-<lb ed="B" n="0334b05"/>示以淨土法門嘗遊雞足止息念佛堂時寺井枯竭汲道苦遙
-<lb ed="B" n="0334b06"/>圓彩誓禮華嚴三載以祈水泉未幾果有靈源湧出一日三潮
-<lb ed="B" n="0334b07"/>當時藩王巨公慕其德望入山修敬後於定中見紅輪墜懷因
-<lb ed="B" n="0334b08"/>告眾曰吾今夕有難可酬宿殃是夜果寂年七十三如然字本
-<lb ed="B" n="0334b09"/>實昆明尹氏子落染後將田宅入寺重修正覺禪林既受具戒
-<lb ed="B" n="0334b10"/>益堅苦行每見田園枯渴願祈靈澤以蘇農困虔禮華嚴殷勤
-<lb ed="B" n="0334b11"/>三歲忽紺沼清澄濚洄左右不泛不竭一方稼穡至今是賴直
-<lb ed="B" n="0334b12"/>指姜公題曰華嚴甘露寂於明崇禎乙亥年七十五雲峰者不
-<lb ed="B" n="0334b13"/>詳姓氏常與大千友善崇禎甲<anchor xml:id="beg_16c" type="cb-app"/>戌<anchor xml:id="end_16c"/>旱六月不雨直指姜公乞僧
-<lb ed="B" n="0334b14"/>祈禱雲峯與焉峯曰吾無他術惟知念佛耳遂趺坐於海源寺
-<lb ed="B" n="0334b15"/>龍池磐石上已而果雨三農徧渥士人感德建庵以答靈庥</p>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="淨讀" xml:id="gsz0334b02shiYuanCai">
+<lb ed="B" n="0334b02"/><anchor n="B.27.0151.0334b02"/><head>明雲南雞足山大覺寺沙門<persName key="A012318">釋圓彩</persName>傳<persName type="secondary" key="A043648">如然</persName><persName type="secondary" key="A043649">雲峯</persName></head>
+<lb ed="B" n="0334b03"/><p xml:id="pB27p0334b0301"><persName key="A012318">釋圓彩</persName>，字<persName key="A012318">白雲</persName>，姓劉氏，昆明人也。<ref type="date" target="#j23025692302922">年十歲</ref>，禮<persName key="A043647">笻竹十方</persName>得度。日
+<lb ed="B" n="0334b04"/>事苦行。後從<persName key="A012124">所庵</persName>受具，持律森嚴，專修念佛三昧。有皈依者，唯
+<lb ed="B" n="0334b05"/>示以淨土法門。嘗遊雞足，止息念佛堂。時寺井枯竭，汲道苦遙。
+<lb ed="B" n="0334b06"/><persName key="A012318">圓彩</persName>誓禮華嚴三載，以祈水泉。未幾，果有靈源湧出，一日三潮。
+<lb ed="B" n="0334b07"/>當時藩王巨公<!-- 《雲南史．卷8．滇釋紀》p.104：「有諸名宦并蜀王劉公」 -->慕其德望，入山修敬。後於定中見紅輪墜懷，因
+<lb ed="B" n="0334b08"/>告眾曰：「吾今夕有難，可酬宿殃。」是夜果寂，年七十三。<persName key="A043648">如然</persName>字<persName key="A043648">本
+<lb ed="B" n="0334b09"/>實</persName>，昆明尹氏子。落染後將田宅入寺，重修正覺禪林。既受具戒，
+<lb ed="B" n="0334b10"/>益堅苦行。每見田園枯渴，願祈靈澤，以蘇農困。虔禮《華嚴》，殷勤
+<lb ed="B" n="0334b11"/>三歲，忽紺沼清澄，濚洄左右，不泛不竭。一方稼穡，至今是賴，直
+<lb ed="B" n="0334b12"/>指<!-- 直指使者 --><persName key="A012929">姜<roleName>公</roleName></persName>題曰「華嚴甘露」。寂於<date from-iso="+1635-02-17" key="j23182792318633" to-iso="+1636-02-06">明崇禎乙亥</date>，年七十五。<persName key="A043649">雲峰</persName>者不
+<lb ed="B" n="0334b13"/>詳姓氏，常與<persName key="A010666">大千</persName>友善。<date from-iso="+1634-01-29" key="j23178952318278" to-iso="+1635-02-16">崇禎甲<anchor xml:id="beg_16c" type="cb-app"/>戌<anchor xml:id="end_16c"/></date>旱，六月不雨。直指<persName key="A012929">姜<roleName>公</roleName></persName>乞僧
+<lb ed="B" n="0334b14"/>祈禱，<persName key="A043649">雲峯</persName>與焉。<persName key="A043649">峯</persName>曰：「吾無他術，惟知念佛耳。」遂趺坐於海源寺
+<lb ed="B" n="0334b15"/>龍池磐石上。已而果雨，三農徧渥，士人感德，建庵以答靈庥。</p>
+    <linkGrp>
+        <link targets="#0334b03 #0334b03"/>
+        <ptr target="#A012318" type="person"/>
+        <ptr target="#A043647" type="person"/>
+        <ptr target="#j23025692302922" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0334b04 #0334b04"/>
+        <ptr target="#A012318" type="person"/>
+        <ptr target="#A012124" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0334b11 #0334b12"/>
+        <ptr target="#A043648" type="person"/>
+        <ptr target="#A012929" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0334b12 #0334b12"/>
+        <ptr target="#A043649" type="person"/>
+        <ptr target="#A010666" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0334b12 #0334b13"/>
+        <ptr target="#A043649" type="person"/>
+        <ptr target="#A012929" type="person"/>
+        <ptr target="#j23178952318278" type="time"/>
+    </linkGrp>
 </div>

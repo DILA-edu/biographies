@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0399a03shiRuTong">
+<lb ed="B" n="0399a03"/><anchor n="B.27.0151.0399a03"/><head>明杭州靈隱寺沙門<persName key="A003563">釋如通</persName>傳<persName type="secondary" key="A043800">良玠</persName><persName type="secondary" key="A043801">慎庵祥</persName></head>
+<lb ed="B" n="0399a04"/><p xml:id="pB27p0399a0401"><persName key="A003563">釋如通</persName>，字<persName key="A003563">易庵</persName>，姓杭氏。母氏<persName key="A043799">潘</persName>，夢梵僧借宿而覺，是日生<persName key="A003563">通</persName>。<ref type="date" target="#j22824882282842">年
+<lb ed="B" n="0399a05"/>十五</ref>出家，禮<persName key="A004500">大海</persName>為師。未幾往雙徑<persName key="A003558">萬松</persName>抉擇心要。<persName key="A003558">松</persName>問：「如何
+<lb ed="B" n="0399a06"/>是白雲不倚青山住？」<persName key="A003563">通</persName>曰：「明月常懸古澗心。」<persName key="A003558">松</persName>為首肎<!-- 通「肯」 -->，乃付以
+<lb ed="B" n="0399a07"/>法。<date from-iso="+1563-02-03" key="j22919672292321" to-iso="+1564-01-23">嘉靖癸亥</date>，司寇五臺<persName key="A004257">陸<roleName>公</roleName></persName>延主南山慧因，前後改觀。<date from-iso="+1582-02-03" key="j22989072299261" to-iso="+1583-01-23">萬曆壬
+<lb ed="B" n="0399a08"/>午</date>冡宰<persName key="A004094">元洲張<roleName>公</roleName></persName>禮致北山靈隱，重建大覺殿。十五年瓦礫，一
+<lb ed="B" n="0399a09"/>旦更新，其功不可泯也。先是<date from-iso="+1434-02-18" key="j22448662245219" to-iso="+1435-02-06">宣德九年</date>，寺燬於火。有<persName key="A043800">伐石良玠</persName>
+<lb ed="B" n="0399a10"/>者，方建姑蘇虎邱寺大殿，郡人慕之，禮主靈隱。前後建置，多其
+<lb ed="B" n="0399a11"/>力也。又<persName key="A043801">慎庵祥</persName>者，海昌李氏子。少穎悟，經典過目應誦，受戒於
+<lb ed="B" n="0399a12"/><persName key="A043802">全庵理</persName>，得法於<persName key="A043803">壁菴璘</persName>。<date from-iso="+1450-01-23" key="j22506842253272" to-iso="+1457-02-23">景泰間</date>主顯寧，<date from-iso="+1457-02-24" key="j22532732256175" to-iso="+1465-02-04">天順時</date>遷靈隱，大弘法
+<lb ed="B" n="0399a13"/>化，學子景從，重修殿宇，樓閣交輝，丈室寮廡，傾橐所葺，時論高
+<lb ed="B" n="0399a14"/>之。</p>
+    <linkGrp>
+        <link targets="#0399a04 #0399a04"/>
+        <ptr target="#A003563" type="person"/>
+        <ptr target="#A043799" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0399a04 #0399a05"/>
+        <ptr target="#A003563" type="person"/>
+        <ptr target="#A004500" type="person"/>
+        <ptr target="#j22824882282842" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0399a05 #0399a06"/>
+        <ptr target="#A003563" type="person"/>
+        <ptr target="#A003558" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0399a07 #0399a07"/>
+        <ptr target="#A003563" type="person"/>
+        <ptr target="#A004257" type="person"/>
+        <ptr target="#j22919672292321" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0399a07 #0399a08"/>
+        <ptr target="#A003563" type="person"/>
+        <ptr target="#A004094" type="person"/>
+        <ptr target="#j22989072299261" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0399a11 #0399a12"/>
+        <ptr target="#A043801" type="person"/>
+        <ptr target="#A043802" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0399a11 #0399a12"/>
+        <ptr target="#A043801" type="person"/>
+        <ptr target="#A043803" type="person"/>
+    </linkGrp>
+</div>

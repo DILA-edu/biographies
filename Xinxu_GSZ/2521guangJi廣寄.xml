@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="淨讀" xml:id="gsz0333a12shiGuangJi">
-<lb ed="B" n="0333a12"/><anchor n="B.27.0151.0333a12"/><head>明新安黃山擲缽菴沙門<persName key="A015897">釋廣寄</persName>傳<persName type="secondary" key="A043641">寶相</persName><persName type="secondary">墨浪</persName><persName type="secondary" key="A043173">大守</persName><persName type="secondary">毒鼓</persName></head>
+<lb ed="B" n="0333a12"/><anchor n="B.27.0151.0333a12"/><head>明新安黃山擲缽菴沙門<persName key="A015897">釋廣寄</persName>傳<persName type="secondary" key="A043641">寶相</persName><persName type="secondary" key="A043642">墨浪</persName><persName type="secondary" key="A043173">大守</persName><persName type="secondary" key="A043643">毒鼓</persName></head>
 <lb ed="B" n="0333a13"/><p xml:id="pB27p0333a1301"><persName key="A015897">釋廣寄</persName>，字<persName key="A015897">寓安</persName>，姓余氏，開化人也。生而聰慧，年幼失恃，父聽<persName key="A043639">無
 <lb ed="B" n="0333a14"/>為法</persName>公言，舍令出家。父故<!-- 本來 -->石工，攜與工作。主人食以魚胾<!-- 切成大塊的肉 -->，不受，
 <lb ed="B" n="0333a15"/>曰：「爺已許出家，豈可復食此？」父不覺淚下。及為沙彌，好學多能，
@@ -29,12 +29,49 @@
 <lb ed="B" n="0333b18"/>不朽，亦由是而致。此可證<persName key="A015897">寄</persName>之道行精能矣。弟子<persName key="A043641">寶相</persName>，一心念
 <lb ed="B" n="0333b19"/>佛，以餘力助<persName key="A015897">寄</persName>，開闢叢林。數十年往來諸檀越家，托缽持金，四
 <lb ed="B" n="0333b20"/>眾信仰，因果不昧。時山豪嘯聚山中，稱為<persName key="A043641">念佛和尚</persName>，相戒勿犯，<pb ed="B" xml:id="B27.0151.0334a" n="0334a"/>
-<lb ed="B" n="0334a01"/>遇之禮拜而去。又墨浪少從趙宦先學工草篆書後為寄記室
-<lb ed="B" n="0334a02"/>結庵白龍潭得念佛三昧每勸人從止觀著力皆為寄所薰染
-<lb ed="B" n="0334a03"/>者也又大守字無易婺源張氏子亦得法於寄專事淨業繼主
-<lb ed="B" n="0334a04"/>擲缽院多所創作緇規清肅晨昏鐘鼓課誦不間登壇施平等
-<lb ed="B" n="0334a05"/>法食尤多格冥之驗順治辛卯坐化毒鼓者常參天台博山諸
-<lb ed="B" n="0334a06"/>宿愛蓮化峰奇勝遂棲止焉每夜下浴湯池沿路號佛聲震山
-<lb ed="B" n="0334a07"/>谷歸時達旦率以為常高郵故人寂毒鼓往視之炷香後趺坐
-<lb ed="B" n="0334a08"/>龕左而瞑</p>
+<lb ed="B" n="0334a01"/>遇之禮拜而去。又<persName key="A043642">墨浪</persName>少從<persName key="A018303">趙宦先</persName><!-- 趙宦光 -->學，工草篆書，後為<persName key="A015897">寄</persName>記室，
+<lb ed="B" n="0334a02"/>結庵白龍潭，得念佛三昧。每勸人從止觀著力，皆為<persName key="A015897">寄</persName>所薰染
+<lb ed="B" n="0334a03"/>者也。又<persName key="A043173">大守</persName>字<persName key="A043173">無易</persName>，婺源張氏子，亦得法於<persName key="A015897">寄</persName>。專事淨業，繼主
+<lb ed="B" n="0334a04"/>擲缽院，多所創作，緇規清肅，晨昏鐘鼓，課誦不間。登壇施平等
+<lb ed="B" n="0334a05"/>法食，尤多格冥之驗。<date from-iso="+1651-01-21" key="j23240962324479" to-iso="+1652-02-08">順治辛卯</date>坐化。<persName key="A043643">毒鼓</persName>者，常參天台、博山諸
+<lb ed="B" n="0334a06"/>宿，愛蓮化峰奇勝，遂棲止焉。每夜下浴湯池，沿路號佛，聲震山
+<lb ed="B" n="0334a07"/>谷。歸時達旦，率以為常。高郵故人寂，<persName key="A043643">毒鼓</persName>往視之，炷香後趺坐
+<lb ed="B" n="0334a08"/>龕左而瞑。</p>
+    <linkGrp>
+        <link targets="#0333a18 #0333a18"/>
+        <ptr target="#A015897" type="person"/>
+        <ptr target="#A001394" type="person"/>
+        <ptr target="#j23043992304753" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0333b05 #0333b05"/>
+        <ptr target="#A015897" type="person"/>
+        <ptr target="#A043640" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0333b14 #0333b18"/>
+        <ptr target="#A043173" type="person"/>
+        <ptr target="#A001681" type="person"/>
+        <ptr target="#j23135842313612" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0333b18 #0333b18"/>
+        <ptr target="#A015897" type="person"/>
+        <ptr target="#A043641" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0334a01 #0334a01"/>
+        <ptr target="#A043642" type="person"/>
+        <ptr target="#A018303" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0334a01 #0334a02"/>
+        <ptr target="#A043642" type="person"/>
+        <ptr target="#A015897" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0334a03 #0334a04"/>
+        <ptr target="#A043173" type="person"/>
+        <ptr target="#A015897" type="person"/>
+    </linkGrp>
 </div>

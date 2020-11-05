@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0389b07shiManKong">
+<lb ed="B" n="0389b07"/><anchor n="B.27.0151.0389b07"/><head>明泰山竹林寺沙門<persName key="A015693">釋滿空</persName>傳</head>
+<lb ed="B" n="0389b08"/><p xml:id="pB27p0389b0801"><persName key="A015693">釋滿空</persName>者，高麗僧也，人稱為<persName key="A015693">雲公</persName>，蓋其字耳。永樂間與數僧航
+<lb ed="B" n="0389b09"/>海東來，<date from-iso="+1428-01-26" key="j22426512243034" to-iso="+1429-02-12">宣德三年</date>給度牃，令參方禮祖。因登泰山訪古剎，重建
+<lb ed="B" n="0389b10"/>竹林寺，復駐錫普照。四方衲衣，受法數千人。<date when-iso="+1463-08-25" key="j22556462255646">天順七年閏七月
+<lb ed="B" n="0389b11"/>二日</date>說偈而逝。弟子<persName key="A043720">洪因</persName>為建塔立碑，稱<persName key="A015693">普照初祖</persName>云。</p>
+    <linkGrp>
+        <link targets="#0389b11 #0389b11"/>
+        <ptr target="#A015693" type="person"/>
+        <ptr target="#A043720" type="person"/>
+        <ptr target="#j22556462255646" type="time"/>
+    </linkGrp>
+</div>

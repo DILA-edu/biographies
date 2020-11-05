@@ -544,6 +544,38 @@
 			<lem wit="喻眛庵輯影本">坦</lem>
 			<rdg wit="CBETA">坦</rdg>
 		</app>
+		<app from="beg038301">
+			<lem wit="喻眛庵輯影本">曰</lem>
+			<rdg wit="CBETA">曰</rdg>
+		</app>
+		<app from="beg039201">
+			<lem wit="喻眛庵輯影本">日</lem>
+			<rdg wit="CBETA">日</rdg>
+		</app>
+		<app from="beg039203">
+			<lem wit="喻眛庵輯影本">誅</lem>
+			<rdg wit="CBETA">誅</rdg>
+		</app>
+		<app from="beg039205">
+			<lem wit="喻眛庵輯影本">特</lem>
+			<rdg wit="CBETA">特</rdg>
+		</app>
+		<app from="beg039401">
+			<lem wit="喻眛庵輯影本">投</lem>
+			<rdg wit="CBETA">投</rdg>
+		</app>
+		<app from="beg039501">
+			<lem wit="喻眛庵輯影本">遣</lem>
+			<rdg wit="CBETA">遺</rdg>
+		</app>
+		<app from="beg039601">
+			<lem wit="喻眛庵輯影本">大</lem>
+			<rdg wit="CBETA">大</rdg>
+		</app>
+		<app from="beg039801">
+			<lem wit="喻眛庵輯影本">蛇</lem>
+			<rdg wit="CBETA">蛇</rdg>
+		</app>
 		<app from="beg040801">
 			<lem wit="喻眛庵輯影本">揚</lem>
 			<rdg wit="CBETA">揚</rdg>

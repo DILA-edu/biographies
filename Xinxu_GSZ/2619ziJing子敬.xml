@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0389a20shiZiJing">
+<lb ed="B" n="0389a20"/><anchor n="B.27.0151.0389a20"/><head>明鳳皇山聖果寺沙門<persName key="A015659">釋子敬</persName>傳</head>
+<lb ed="B" n="0389b01"/><p xml:id="pB27p0389b0101"><persName key="A015659">釋子敬</persName>，姓凌氏，海昌人。<date from-iso="+1384-01-31" key="j22265862226969" to-iso="+1385-02-17">洪武十七年</date>禮海鹽碧雲院<persName key="A043719">懷忠</persName>為師。
+<lb ed="B" n="0389b02"/>年二十受具，通內外典，為世所宗。<date from-iso="+1403-02-01" key="j22335262233909" to-iso="+1404-02-19">永樂元年</date>永慶退席，卓錫聖
+<lb ed="B" n="0389b03"/>果慨寺。廢經三百祀，力任其事而恢復之，宏緒未備。至<date from-iso="+1444-01-29" key="j22484982248881" to-iso="+1445-02-15">正統九
+<lb ed="B" n="0389b04"/>年</date>落成，殿閣堂宇，庖湢像設，煥然如故。初南京僧錄司因孝陵
+<lb ed="B" n="0389b05"/>久罷講席，奏請<persName key="A015659">子敬</persName>住持。<date from-iso="+1457-02-04" key="j22532532253606" to-iso="+1458-01-23">天順元年</date>告疾歸寺，<date when-iso="+1457-09-12" key="j22534732253473">八月十五日</date>坐
+<lb ed="B" n="0389b06"/>逝。壽九十三，臘六十三，塔躍雲石右，<anchor xml:id="beg_1a8" type="cb-app"/>諡<anchor xml:id="end_1a8"/>曰<persName key="A015659">懶耕</persName>。</p>
+    <linkGrp>
+        <link targets="#0389b01 #0389b01"/>
+        <ptr target="#A015659" type="person"/>
+        <ptr target="#A043719" type="person"/>
+        <ptr target="#j22265862226969" type="time"/>
+    </linkGrp>
+</div>

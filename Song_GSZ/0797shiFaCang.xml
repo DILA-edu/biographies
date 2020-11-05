@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="義解" xml:id="gsz0732a13shiFaCang"><lb
 n="0732a13" ed="T"/><anchor n="T.50.2061.0732a13"/><head><date from-iso="+0689-12-21" key="j19730671978610" to-iso="+0705-02-24">周</date><placeName key="PL000000023657"><placeName>洛京</placeName><placeName>佛授記寺</placeName></placeName><persName key="A002450">法藏</persName>傳（<persName key="A002454">大儀</persName>）</head><p><lb
-ed="T" n="0732a14"/><persName key="A002450">釋法藏</persName>字<persName key="A002450">賢首</persName>，姓<name>康</name>，<placeName key="PL000000055089">康居</placeName>人也<ptr target="#n673"/>。風度奇正，利<lb
+ed="T" n="0732a14"/><persName key="A002450">釋法藏</persName>字<persName key="A002450">賢首</persName>，姓<name>康</name>，<placeName key="PL000000055079">康居</placeName>人也<ptr target="#n673"/>。風度奇正，利<lb
 ed="T" n="0732a15"/>智絕倫，薄遊<ptr rend="display:none;" type="glossary" target="#g674"/><placeName key="PL000000042189">長安</placeName>，彌露鋒頴，尋應名僧義<lb
 ed="T" n="0732a16"/>學<ptr rend="display:none;" type="glossary" target="#g395"/>之選。屬<persName key="A000294">奘</persName>師譯經，始預其間，後因筆<lb
 ed="T" n="0732a17"/>受<ptr rend="display:none;" type="glossary" target="#g53"/>、證義<ptr rend="display:none;" type="glossary" target="#g54"/>、潤文<ptr rend="display:none;" type="glossary" target="#g70"/>，見識不同而出譯場<ptr target="#n3295"/>。至<date from-iso="+0684-10-22" key="j19711811978588" to-iso="+0705-02-02"><name>天后</name><lb
@@ -34,7 +34,7 @@ ed="T" n="0732b14"/>藏國師</persName>是歟<ptr target="#n679"/>！</p>
     <linkGrp>
         <link targets="#0732a14 #0732a14"/>
         <ptr target="#A002450" type="person"/>
-        <ptr target="#PL000000055089" type="place"/>
+        <ptr target="#PL000000055079" type="place"/>
     </linkGrp>
     <linkGrp>
         <link targets="#0732a15 #0732a17"/>

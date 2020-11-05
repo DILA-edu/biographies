@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0393a20shiWuBen">
+<lb ed="B" n="0393a20"/><anchor n="B.27.0151.0393a20"/><head>明昆明妙湛寺沙門<persName key="A042269">釋悟本</persName>傳<persName type="secondary" key="A012001">淨月</persName></head>
+<lb ed="B" n="0393b01"/><p xml:id="pB27p0393b0101"><persName key="A042269">釋悟本</persName>，字<persName key="A042269">真空</persName>，姓秦氏，嵩明邵甸人。童穉進修，超然塵表。得法
+<lb ed="B" n="0393b02"/><persName key="A012001">白齋<roleName>禪師</roleName></persName>，慧機洞徹，律法精嚴，疏食飲水，禪悅自甘，道俗信仰。
+<lb ed="B" n="0393b03"/>為建邵甸普賢寺，持盋呪語，攝神龍於崖下。泉源清冽，異於他
+<lb ed="B" n="0393b04"/>處，但供香廚，不盉腥味。若遊人汲之烹鮮煮膾，則竟夕不能入
+<lb ed="B" n="0393b05"/>口；或濯足滌穢，其患立見。後於昆明官渡復創妙湛寺，著有《韵
+<lb ed="B" n="0393b06"/>略易通編》。<persName key="A012001">白齋</persName>名<persName key="A012001">淨月</persName>，曲靖胡氏子。年十九出家，日唯一食，積
+<lb ed="B" n="0393b07"/>久道重，人以<persName key="A012001">白齋</persName>稱之。<date from-iso="+1488-01-23" key="j22645632271147" to-iso="+1506-02-02">弘治間</date><g ref="#CB33499">𠪱</g>遊海內，及回滇入雞足山。初
+<lb ed="B" n="0393b08"/>登峯頂，結葊淨憇，徒侶攀躋，室不能容，乃於明歌平處創寺。掘
+<lb ed="B" n="0393b09"/>地得碑，有<persName key="A002188">迦葉</persName>入定、八大明王歌頌相送之說，即聖峰寺也。</p>
+    <linkGrp>
+        <link targets="#0393b01 #0393b02"/>
+        <ptr target="#A042269" type="person"/>
+        <ptr target="#A012001" type="person"/>
+    </linkGrp>
+</div>

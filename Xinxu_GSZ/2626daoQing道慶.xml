@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0393a07shiDaoQing">
+<lb ed="B" n="0393a07"/><anchor n="B.27.0151.0393a07"/><head>明宜都顯明山寺沙門<persName key="A042411">釋道慶</persName>傳<persName type="secondary">妙性　明鏡</persName></head>
+<lb ed="B" n="0393a08"/><p xml:id="pB27p0393a0801"><persName key="A042411">釋道慶</persName>，字<persName key="A042411">壽堂</persName>，初出家，師事<persName key="A042410">淨滿</persName>，研窮性相，頓契圓明。<date from-iso="+1494-02-15" key="j22667782267131" to-iso="+1495-02-03">弘治甲
+<lb ed="B" n="0393a09"/>寅歲</date>，翔遊荊楚，有善士<persName key="A043759">曹宣</persName>者為法求賢，尋訪高侶。偶相逢遌<!-- 意外相遇 -->，
+<lb ed="B" n="0393a10"/><g ref="#CB12594">䛡</g>於逆旅，諮詢殷殷，參入玄際。<persName key="A043759">宣</persName>心折服，因奉邑檄，請至宜都。
+<lb ed="B" n="0393a11"/>有寺距城西四十餘里，山曰顯明，寺曰街蹬。<persName key="A042411">慶</persName>至力崇儉樸，屏
+<lb ed="B" n="0393a12"/>絕塵緣，唯以明因果、識罪福倡率徒眾，一方化之。且以餘力，重
+<lb ed="B" n="0393a13"/>建殿宇。左則方丈，右則禪堂，及山門、廊寮次第興築，久之遂成
+<lb ed="B" n="0393a14"/>叢林。居恆千指，誦聲不輟。<date from-iso="+1519-02-10" key="j22759032276256" to-iso="+1520-01-29"><anchor xml:id="beg_1b3" type="cb-app"/>己<anchor xml:id="end_1b3"/>卯歲</date>，造寶塔三，極其壯麗。又修華
+<lb ed="B" n="0393a15"/>嚴會百三十會，前後建築幾二十餘年，以弘法為務。與眾談般
+<lb ed="B" n="0393a16"/>若，引入圓妙，稱為明登上人。後寂于寺。同時有<persName key="A043760">妙性</persName>者，率徒<persName key="A043761">明
+<lb ed="B" n="0393a17"/>鏡</persName>至尖山龍興寺，勤修道行，拓葊以居。時戶部中<persName key="A043762">徐<roleName>君</roleName>漢經</persName>與
+<lb ed="B" n="0393a18"/><persName key="A043763">李中倫</persName>感其清德，宏厥勝施，遂構棟梁，大啟爾宇。更捨菽粟，以
+<lb ed="B" n="0393a19"/>供香積。師弟焚修三十餘年，皆老于此云。</p>
+    <linkGrp>
+        <link targets="#0393a08 #0393a08"/>
+        <ptr target="#A042411" type="person"/>
+        <ptr target="#A042410" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0393a08 #0393a10"/>
+        <ptr target="#A042411" type="person"/>
+        <ptr target="#A043759" type="person"/>
+        <ptr target="#j22667782267131" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0393a16 #0393a19"/>
+        <ptr target="#A043760" type="person"/>
+        <ptr target="#A043761" type="person"/>
+        <ptr target="#A043762" type="person"/>
+        <ptr target="#A043763" type="person"/>
+    </linkGrp>
+</div>

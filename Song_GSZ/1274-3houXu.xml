@@ -2,19 +2,31 @@
 <div xmlns="http://www.tei-c.org/ns/1.0" type="卷尾" xml:id="gsz0899c25houXu">
 <lb n="0899c25" ed="T"/><anchor n="T.50.2061.0899c25"/><head>後序</head>
 <p xml:id="pT50p0899c2601">
-<lb n="0899c26" ed="T"/>前代諸家或云僧傳僧史記錄。乃題號不一。
-<lb n="0899c27" ed="T"/>亦聲迹有殊。至梁沙門慧皎。云高僧傳蓋
-<lb n="0899c28" ed="T"/>取高而不名者也。則開其德業。文為十科。
-<lb n="0899c29" ed="T"/>見於傳內。厥後有唐續高僧傳。倣仰梁之<pb n="0900a" xml:id="T50.2061.0900a" ed="T"/>
-<lb n="0900a01" ed="T"/>大體而以成之。洎乎皇朝<anchor xml:id="beg0900001"/><choice resp="PC-JK-MB"><sic>有</sic><corr>大</corr></choice><anchor xml:id="end0900001"/>宋高僧傳之
-<lb n="0900a02" ed="T"/>作也。清風載揚盛業不墜。贊寧自至道二
-<lb n="0900a03" ed="T"/>年奉叡恩。掌洛京教門事。事<anchor xml:id="beg0900002"/>簡<anchor xml:id="end0900002"/>心曠之日。
-<lb n="0900a04" ed="T"/>遂得法照等行狀。撰已易前來之闕如。尋因
-<lb n="0900a05" ed="T"/>治定其本。雖大義無相乖有不可者以修
-<lb n="0900a06" ed="T"/>之。先者所謂加我數年。於僧傳則可矣已。
-<lb n="0900a07" ed="T"/>斯幸復治之。豈敢以桑榆之年為辭耶。時
-<lb n="0900a08" ed="T"/>方徹簡<ptr type="glossary" target="#g841"/>。咸平初承詔入職東京右街僧錄。尋
-<lb n="0900a09" ed="T"/>遷左街。乃一日顧其本未及繕寫。命弟子
-<lb n="0900a10" ed="T"/>輩緘諸篋笥。俾將來君子知我者以僧傳。
-<lb n="0900a11" ed="T"/>罪我者亦以僧傳故於卷後而書之云耳。<anchor xml:id="beg0900sgsz1"/><anchor xml:id="end0900sgsz1"/></p>
+<lb n="0899c26" ed="T"/>前代諸家或云《僧傳》、《僧史》、《記錄》，乃題號不一，
+<lb n="0899c27" ed="T"/>亦聲迹有殊。至<placeName key="PL000000000138">梁</placeName>沙門<persName key="A001724">慧皎</persName>云《高僧傳》，蓋
+<lb n="0899c28" ed="T"/>取高而不名者也<ptr target="#n3687"/>。則開其德業，文為十科，
+<lb n="0899c29" ed="T"/>見於傳內。厥後有<placeName key="PL000000000106">唐</placeName>《續高僧傳》，倣仰<placeName key="PL000000000138">梁</placeName>之<pb n="0900a" xml:id="T50.2061.0900a" ed="T"/>
+<lb n="0900a01" ed="T"/>大體而以成之。洎乎皇朝《<anchor xml:id="beg0900001"/><choice resp="PC-JK-MB"><sic>有</sic><corr>大</corr></choice><anchor xml:id="end0900001"/>宋高僧傳》之
+<lb n="0900a02" ed="T"/>作也，清風<ptr type="glossary" target="#g2502"/>載揚，盛業不墜。<persName key="A001910">贊寧</persName>自<date from-iso="+0996-01-28" key="j20848692085252" to-iso="+0997-02-14"><name>至道</name>二
+<lb n="0900a03" ed="T"/>年</date>奉<anchor xml:id="beg0900sgsz1"/>叡<anchor xml:id="end0900sgsz1"/>恩，掌<placeName key="PL000000023602">洛京</placeName>教門事，事<anchor xml:id="beg0900002"/>簡<anchor xml:id="end0900002"/>心曠之日，
+<lb n="0900a04" ed="T"/>遂得<persName key="A009238">法照</persName>等行狀，撰已易前來之闕如。尋因
+<lb n="0900a05" ed="T"/>治定其本，雖大義無相乖，有不可者以修
+<lb n="0900a06" ed="T"/>之，先者所謂加我數年<ptr target="#n3689"/>，於《僧傳》則可矣已。
+<lb n="0900a07" ed="T"/>斯幸復治之，豈敢以桑榆之年<ptr type="glossary" target="#g1554"/>為辭耶？時
+<lb n="0900a08" ed="T"/>方徹簡<ptr type="glossary" target="#g841"/>。<date from-iso="+0998-02-05" key="j20856082085961" to-iso="+0999-01-24"><name>咸平</name>初</date>承詔入職<placeName key="PL000000023467">東京</placeName>右街僧錄，尋
+<lb n="0900a09" ed="T"/>遷左街。乃一日顧其本，未及繕寫，命弟子
+<lb n="0900a10" ed="T"/>輩緘諸篋笥，俾將來君子，知我者以《僧傳》，
+<lb n="0900a11" ed="T"/>罪我者亦以《僧傳》<ptr target="#n3688"/>，故於卷後而書之云耳。<anchor xml:id="beg0900sgsz3"/><anchor xml:id="end0900sgsz3"/></p>
+    <linkGrp>
+        <link targets="#0900a02 #0900a03"/>
+        <ptr target="#A001910" type="person"/>
+        <ptr target="#PL000000023602" type="place"/>
+        <ptr target="#j20848692085252" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0900a08 #0900a09"/>
+        <ptr target="#A001910" type="person"/>
+        <ptr target="#PL000000023467" type="place"/>
+        <ptr target="#j20856082085961" type="time"/>
+    </linkGrp>
 </div>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0380a11shiZhongXi">
+<lb ed="B" n="0380a11"/><anchor n="B.27.0151.0380a11"/><head>明金陵靈谷寺沙門<persName key="A009729">釋仲羲</persName>傳<persName type="secondary" key="A043682">古新</persName></head>
+<lb ed="B" n="0380a12"/><p xml:id="pB27p0380a1201"><persName key="A009729">釋仲羲</persName>，字<persName key="A009729">物先</persName>，淛東僧也，為<persName key="A007789">仲芳倫</persName>禪師弟子。<date from-iso="+1376-01-30" key="j22236632224046" to-iso="+1377-02-16">洪武九年</date>被召
+<lb ed="B" n="0380a13"/>住蔣山梁誌公塔寺。以寺近宮闕，王氣攸聚，紫雲黃霧，昕夕擁
+<lb ed="B" n="0380a14"/>護，非惟僧徒食息靡安，聖跡神靈均未妥善。且佛法以方便為
+<lb ed="B" n="0380a15"/>先，如得近地改建，誠至幸也。<persName key="A003672">明祖</persName>許之，始擇地於朱湖洞南。功
+<lb ed="B" n="0380a16"/>將就緒，有言其地湫隘，非京剎所宜。<persName key="A009729">羲</persName>復以聞，有旨令舍舊圖，
+<lb ed="B" n="0380a17"/>新大其規制，可容千僧。太師<persName key="A043578">李善長</persName>相度地形，擇於獨龍岡東
+<lb ed="B" n="0380a18"/>麓，西踞朱湖洞五里而近。回巒複阜，左右相向，方山在其南，儼
+<lb ed="B" n="0380a19"/>然祇樹之境。<persName key="A009729">羲</persName>以圖進，<persName key="A003672">太祖</persName>答曰：「以此奉<persName key="A002296">誌公</persName>為宜。」遂以<date from-iso="+1381-09-26" key="j22257292225758" to-iso="+1381-10-25">十四
+<lb ed="B" n="0380a20"/>年九月</date>中作大殿，其前東曰大悲，西曰經藏；食堂在東，庫院附<pb ed="B" xml:id="B27.0151.0380b" n="0380b"/>
+<lb ed="B" n="0380b01"/>焉；禪堂在西，方丈近焉。後為演法之堂，誌公塔則樹於堂之陰。
+<lb ed="B" n="0380b02"/>其崇五級，附以殿宇，以備禮誦。左右為屋，以棲僧翼。以兩廡其
+<lb ed="B" n="0380b03"/>壁，則繪諸佛梵像，神師之迹。屏以重門，繚以周垣，其他規制無
+<lb ed="B" n="0380b04"/>有不具。踰年告成，賜額曰「靈谷禪寺」，<persName key="A009729">羲</persName>實為開基之祖。<ref type="date" target="#j22258482226231">是年</ref>授
+<lb ed="B" n="0380b05"/>右闡教，敕曰：「入定於大千界裏，談經於不二門中，解脫為空，清
+<lb ed="B" n="0380b06"/>虛成性。久留心於佛教，獨潛跡於禪林。去就維時，是非不染爾。
+<lb ed="B" n="0380b07"/><persName key="A009729">仲羲</persName>居山禪伯，對月詩宗，抱不墮之慈悲，樂無窮之清淨。乃命
+<lb ed="B" n="0380b08"/>闡教之職，用副僧錄之司，尚宜深究佛書，詳窮禪教，條分本末，
+<lb ed="B" n="0380b09"/>縷析始終。俾諸僧皆悟靜中之禪，而無教外之失。今特授爾僧
+<lb ed="B" n="0380b10"/>錄司右闡教，往欽於訓，宜懋爾功。」復賜紫開堂，風徽遠暢，宗法
+<lb ed="B" n="0380b11"/>攸寄。其寺碑則杭州府學教授<persName key="A012761">徐一夔</persName>奉敕撰，具見《文集》。又<persName key="A043682">古
+<lb ed="B" n="0380b12"/>新</persName>者，金臺尹氏子。幼從大興隆靜庵禪師祝髮，受戒後至金陵
+<lb ed="B" n="0380b13"/>棲息普利。<date from-iso="+1483-02-16" key="j22627612263115" to-iso="+1484-02-05">成化癸卯</date>推主靈谷。時殿宇將圯，司禮太監<persName key="A043683">陳祖生</persName>
+<lb ed="B" n="0380b14"/>奏修，煥然一新，皆<persName key="A043682">古新</persName>勸讚之力云。</p>
+    <linkGrp>
+        <link targets="#0380a12 #0380a12"/>
+        <ptr target="#A009729" type="person"/>
+        <ptr target="#A007789" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0380a12 #0380a19"/>
+        <ptr target="#A009729" type="person"/>
+        <ptr target="#A003672" type="person"/>
+        <ptr target="#j22236632224046" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0380b04 #0380b11"/>
+        <ptr target="#A009729" type="person"/>
+        <ptr target="#A003672" type="person"/>
+        <ptr target="#A012761" type="person"/>
+        <ptr target="#j22258482226231" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0380b13 #0380b14"/>
+        <ptr target="#A043682" type="person"/>
+        <ptr target="#A043683" type="person"/>
+        <ptr target="#A006687" type="person"/>
+        <ptr target="#j22627612263115" type="time"/>
+    </linkGrp>
+</div>

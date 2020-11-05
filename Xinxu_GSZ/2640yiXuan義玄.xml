@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0399b16shiYiXuan">
+<lb ed="B" n="0399b16"/><anchor n="B.27.0151.0399b16"/><head>明雲中普興禪院沙門<persName key="A015797">釋義玄</persName>傳</head>
+<lb ed="B" n="0399b17"/><p xml:id="pB27p0399b1701"><persName key="A015797">釋義玄</persName>，字<persName key="A015797">古鏡</persName>，姓賈氏，雲中人也。父<persName key="A043810">林</persName>，母<persName key="A043811">李氏</persName>。生有異徵，髫年
+<lb ed="B" n="0399b18"/>厭俗，禮郡中<persName key="A043812">定盛</persName>出家。志切向上，及長辤師，操方初至京都，於
+<lb ed="B" n="0399b19"/>萬壽戒壇受具足戒。徧禮名山，參訪知識，决策<anchor xml:id="beg_1b9" type="cb-app"/>己<anchor xml:id="end_1b9"/>躬，有所發明。
+<lb ed="B" n="0399b20"/>念福慧未圓，功行不具，中年還鄉，廣作佛事，結飯僧緣，不以數<pb ed="B" xml:id="B27.0151.0400a" n="0400a"/>
+<lb ed="B" n="0400a01"/>計。造滲金像，以嚴佛土；繪水陸，以拔幽冥；修橋梁，以濟厲揭；建
+<lb ed="B" n="0400a02"/>窣堵，以標人天。跪誦《往生咒》三十六萬遍，以資淨業。凡在利益，
+<lb ed="B" n="0400a03"/>靡不精心竭力，以導利多人。由是四眾歸依，王臣敬仰。雲中邊
+<lb ed="B" n="0400a04"/>地逼虜，民情慓悍，以<persName key="A015797">玄</persName>之教化，轉殺機為善種，變鴟鴞以好音，
+<lb ed="B" n="0400a05"/>見者欣說景從。體厚而性柔，學富而行高，故感代藩國主<!-- 朱廷埼以下 -->，三世
+<lb ed="B" n="0400a06"/>崇重。<persName key="A043814">吉陽端惠</persName>諸王咸為外護，建普興禪院，遂為開山祖。以<date from-iso="+1605-02-18" key="j23073232307676" to-iso="+1606-02-06">明
+<lb ed="B" n="0400a07"/>萬曆乙<anchor xml:id="beg_1ba" type="cb-app"/>巳<anchor xml:id="end_1ba"/>年</date>入滅，世壽八十，僧臘四十有奇。塔於雲中郊外，<persName key="A001681">釋
+<lb ed="B" n="0400a08"/>德清</persName>為之銘云。</p>
+    <linkGrp>
+        <link targets="#0399b17 #0399b17"/>
+        <ptr target="#A015797" type="person"/>
+        <ptr target="#A043810" type="person"/>
+        <ptr target="#A043811" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0399b18 #0399b18"/>
+        <ptr target="#A015797" type="person"/>
+        <ptr target="#A043812" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0400a06 #0400a06"/>
+        <ptr target="#A015797" type="person"/>
+        <ptr target="#A043814" type="person"/>
+    </linkGrp>
+</div>

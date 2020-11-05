@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0386a10shiKongYuan">
+<lb ed="B" n="0386a10"/><anchor n="B.27.0151.0386a10"/><head>明銅梁龍興寺沙門<persName key="A042408">釋空源</persName>傳<persName type="secondary" key="A043697">圓聰</persName><persName type="secondary" key="A043701">智雲</persName><persName type="secondary" key="A043698">明愈</persName><persName type="secondary" key="A043704">本尊</persName></head>
+<lb ed="B" n="0386a11"/><p xml:id="pB27p0386a1101"><persName key="A042408">釋空源</persName>，字<persName key="A042408">不二</persName>，廣安人。<date from-iso="+1403-02-01" key="j22335262241558" to-iso="+1425-01-28">明永樂中</date>游蜀至安居鄉，聞鐵鑪山為
+<lb ed="B" n="0386a12"/><persName key="A005805">陳希夷</persName>修煉之所，賞其幽秀，遂結草葊。寒暑一衲，靜居數十年，
+<lb ed="B" n="0386a13"/>足不出戶。<persName key="A043697">圓聰</persName>閔其獨處無伴，遣弟子<persName key="A043698">明愈</persName>侍之，因得<persName key="A042408">不二</persName>之
+<lb ed="B" n="0386a14"/>傳。始改庵為龍興寺，聚徒說法，緇錫漸盛。嘉靖時縣令<persName key="A043699">胡國源</persName>
+<lb ed="B" n="0386a15"/>經其地，建坊表之，遺跡猶存。<persName key="A043697">圓聰</persName>，字<persName key="A043697">松隱</persName>，亦參<persName key="A042408">空源</persName>有得，結廬
+<lb ed="B" n="0386a16"/>寺旁，種松萬株，環繞四圍，煙雨晦明，變化百態。<persName key="A043700">曾<roleName>太僕</roleName></persName>為<persName key="A043697">松隱</persName>
+<lb ed="B" n="0386a17"/>詩刻之石。<persName key="A043701">智雲</persName>者，潼川方氏子，生於松州戍所。年十六回潼川，
+<lb ed="B" n="0386a18"/>投靈峰寺依<persName key="A043702">淨源</persName>為師。嚴守戒行，無妄無欲，性質靈敏，悟機銛
+<lb ed="B" n="0386a19"/>利，人多敬服。嘗經雙河口師子山，耽玩林壑，因闢地建大如意
+<lb ed="B" n="0386a20"/>寺，御史<persName key="A043703">周興恭</persName>為之記云。又<persName key="A043704">本尊</persName>者，銅梁本尊寺開山僧也。斷<pb ed="B" xml:id="B27.0151.0386b" n="0386b"/>
+<lb ed="B" n="0386b01"/>臂剜睛，精誠感格，四眾傾仰，為之建寺，因以其名額之。明刑部
+<lb ed="B" n="0386b02"/>主事<persName key="A043705">張純</persName>作記，稱為始祖云。</p>
+    <linkGrp>
+        <link targets="#0386a11 #0386a14"/>
+        <ptr target="#A042408" type="person"/>
+        <ptr target="#A043697" type="person"/>
+        <ptr target="#A043698" type="person"/>
+        <ptr target="#j22335262241558" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0386a11 #0386a14"/>
+        <ptr target="#A042408" type="person"/>
+        <ptr target="#A043697" type="person"/>
+        <ptr target="#A043698" type="person"/>
+        <ptr target="#j22335262241558" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0386a17 #0386a18"/>
+        <ptr target="#A043701" type="person"/>
+        <ptr target="#A043702" type="person"/>
+    </linkGrp>
+</div>
