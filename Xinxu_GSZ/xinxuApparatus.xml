@@ -576,6 +576,18 @@
 			<lem wit="喻眛庵輯影本">蛇</lem>
 			<rdg wit="CBETA">蛇</rdg>
 		</app>
+		<app from="beg040101">
+			<lem wit="喻眛庵輯影本">掾</lem>
+			<rdg wit="CBETA">掾</rdg>
+		</app>
+		<app from="beg040301">
+			<lem wit="喻眛庵輯影本">媒</lem>
+			<rdg wit="CBETA">媒</rdg>
+		</app>
+		<app from="beg040701">
+			<lem wit="喻眛庵輯影本">宇</lem>
+			<rdg wit="CBETA">宇</rdg>
+		</app>
 		<app from="beg040801">
 			<lem wit="喻眛庵輯影本">揚</lem>
 			<rdg wit="CBETA">揚</rdg>

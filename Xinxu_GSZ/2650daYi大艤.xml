@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0405b04shiDaYi">
+<lb ed="B" n="0405b04"/><anchor n="B.27.0151.0405b04"/><head>明鼓山白雲峯湧泉寺沙門<persName key="A000114">釋大艤</persName>傳</head>
+<lb ed="B" n="0405b05"/><p xml:id="pB27p0405b0501"><persName key="A000114">釋大艤</persName>，一名<persName key="A000114">元來</persName>，字<persName key="A000114">無異</persName>，姓沙氏，龍舒人也。早歲禮五臺落髮，
+<lb ed="B" n="0405b06"/>往參<persName key="A003828">無明</persName>。於寶方閱《傳鐙》有省，往見<persName key="A003828">無明</persName>，復茫然自失。居久之，
+<lb ed="B" n="0405b07"/>隨<persName key="A003828">無明</persName>至玉山，聞護法神倒劃然絕解，以偈呈<persName key="A003828">無明</persName>。<persName key="A003828">無明</persName>曰：「子
+<lb ed="B" n="0405b08"/>到門矣。」一日見人升樹，恍如大徹。走至<persName key="A003828">無明</persName>所問，曰：「近日何如？」
+<lb ed="B" n="0405b09"/><persName key="A000114">艤</persName>曰：「卻有一條活路，只是不許人知。」曰：「因甚不許人知？」對曰：「不
+<lb ed="B" n="0405b10"/>知不知。」<persName key="A003828">無明</persName>乃舉「婆子燒庵」及「龍吟霧起」公案，<persName key="A000114">艤</persName>皆頌出。<persName key="A003828">無明</persName>
+<lb ed="B" n="0405b11"/>曰：「今日方知吾不汝欺也。」後隱信州博山，學侶輻輳，遂成叢席。
+<lb ed="B" n="0405b12"/><date from-iso="+1627-02-16" key="j23153562315709" to-iso="+1628-02-04">天啟丁卯</date>，鼓山僧眾，方議合一，剏作叢林。<persName key="A004907">曹能始</persName>觀察與鄉人
+<lb ed="B" n="0405b13"/>聯詞延<persName key="A000114">艤</persName>主之。至則立規飭繩，四眾翕然，徒侶累千，遂為始祖。
+<lb ed="B" n="0405b14"/>上堂，春日乍寒乍暖，春風倐有倐無，若從此處會去，佛法天地
+<lb ed="B" n="0405b15"/>懸殊；不從此處會，又向何處去？纔涉思惟，成群作隊；不思惟處，
+<lb ed="B" n="0405b16"/>又如何行人？更在青山外居六月而歸。<date when-iso="+1630-10-23" key="j23167012316701">崇禎庚午九月十八日</date>
+<lb ed="B" n="0405b17"/>示寂，建塔博山，鼓山僧徒更塔衣缽於香爐峰前。<persName key="A000114">艤</persName>嘗登喝水
+<lb ed="B" n="0405b18"/>巖吟曰：「雲磴如鱗砌，扶笻縱步行；水從龍口出，松倚石痕生；濃
+<lb ed="B" n="0405b19"/>樹藏嘉羽，層巒疊翠屏；懶譚西祖意，獨對遠山明。」</p>
+    <linkGrp>
+        <link targets="#0405b06 #0405b10"/>
+        <ptr target="#A000114" type="person"/>
+        <ptr target="#A003828" type="person"/>
+    </linkGrp>
+</div>

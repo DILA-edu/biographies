@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0406b10shiWuXue">
+<lb ed="B" n="0406b10"/><anchor n="B.27.0151.0406b10"/><head>明湘鄉荊紫山寺沙門<persName key="A015975">釋無學</persName>傳</head>
+<lb ed="B" n="0406b11"/><p xml:id="pB27p0406b1101"><persName key="A015975">釋無學</persName>，姓王氏，歙人也。早歲為諸生，後讀書齊雲巖，閱《華嚴》合
+<lb ed="B" n="0406b12"/>論有省，遊黃山履險幾墜，觸悟機，棄家投廬山，依<persName key="A015831">敬堂</persName>披緇受
+<lb ed="B" n="0406b13"/>具。後參諸方，善自深藏，若不識字者。唯<persName key="A001681">憨</persName>心知之，薦往會稽見
+<lb ed="B" n="0406b14"/><persName key="A005648">湛然澄</persName>，心心印合。復謁<persName key="A001408">雪嶠</persName>、參谷泉、入龍潭。既得法要，笑曰：「吾
+<lb ed="B" n="0406b15"/>決志自了，不隨眾起倒也。」因携一瓢至南嶽，徒侶雲集。西至湘
+<lb ed="B" n="0406b16"/>鄉荊紫峰，縛茅以居，署其庵曰「單丁」。破納晏坐六年，四方奔赴，
+<lb ed="B" n="0406b17"/>乃為演法授戒。南入九疑，<persName key="A043849">劉<roleName>侍御</roleName>興秀</persName>為築室以居。閉門獨處，
+<lb ed="B" n="0406b18"/>而從者麕至。湘人士苦迎出山，<persName key="A015975">無學</persName>示偈云：「世亂嬾出山，病多
+<lb ed="B" n="0406b19"/>難開口；閒坐深澗中，高拱兩隻手。」已而入常寧訪阿育王塔，猺
+<lb ed="B" n="0406b20"/>民多信仰。<date from-iso="+1643-05-18" key="j23212912321378" to-iso="+1643-08-13">明崇禎癸未夏</date>歸荊紫。<date from-iso="+1643-11-11" key="j23214682321556" to-iso="+1644-02-07">冬</date><persName key="A010061">張獻忠</persName>陷長沙。<persName key="A015975">無學</persName>歎曰：<pb ed="B" xml:id="B27.0151.0407a" n="0407a"/>
+<lb ed="B" n="0407a01"/>「際此刼火焚如正，吾橫擔獨步時耳。」因占偈曰：「五十三年獨養
+<lb ed="B" n="0407a02"/>機，與人同宿不相知；者<!-- 這？ -->番獨自出山去，鳥道音書寄與誰？」端坐
+<lb ed="B" n="0407a03"/>而寂，蓋荊紫鼻祖也。</p>
+    <linkGrp>
+        <link targets="#0406b12 #0406b12"/>
+        <ptr target="#A015975" type="person"/>
+        <ptr target="#A015831" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0406b13 #0406b13"/>
+        <ptr target="#A015975" type="person"/>
+        <ptr target="#A001681" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0406b14 #0406b14"/>
+        <ptr target="#A015975" type="person"/>
+        <ptr target="#A005648" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0406b14 #0406b14"/>
+        <ptr target="#A015975" type="person"/>
+        <ptr target="#A001408" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0406b17 #0406b17"/>
+        <ptr target="#A015975" type="person"/>
+        <ptr target="#A043849" type="person"/>
+    </linkGrp>
+</div>

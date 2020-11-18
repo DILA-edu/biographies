@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0405a03shiHaiLiang">
+<lb ed="B" n="0405a03"/><anchor n="B.27.0151.0405a03"/><head>明曲靖玉龍寺沙門<persName key="A010666">釋海量</persName>傳<persName type="secondary" key="A012509">來秀</persName><persName type="secondary" key="A043847">性壽</persName></head>
+<lb ed="B" n="0405a04"/><p xml:id="pB27p0405a0401"><persName key="A010666">釋海量</persName>，字<persName key="A010666">大千</persName>，南陽人。七歲披緇，日務勤勞，不及文字。恆守師
+<lb ed="B" n="0405a05"/>訓，誦拜《華嚴》，以為常課，歷久不輟。每獲勝因，凡所到處，必感檀
+<lb ed="B" n="0405a06"/>施。<date from-iso="+1628-02-05" key="j23157102316063" to-iso="+1629-01-23">明崇禎初年</date>，杖錫南來，底滇曲靖，有三岔荒山，樵牧罕到，豺
+<lb ed="B" n="0405a07"/>虎夜嘷。<persName key="A010666">量</persName>於此處刈草覆葊，復事《華嚴》。魚梵響處，二虎伏聽。夜
+<lb ed="B" n="0405a08"/>則擊柝，遶山達旦，虎亦隨之，行與俱行，止與俱止。<persName key="A010666">量</persName>殊坦然，虎
+<lb ed="B" n="0405a09"/>亦習之，略不加害。山居無水，汲道甚遙。未幾，有泉從地湧出，行
+<lb ed="B" n="0405a10"/>之期年。樵者跡之，始見茅庵，乃大驚異，羣相問訊。具道所以，伏
+<lb ed="B" n="0405a11"/>虎出泉，莫不感歎膜拜而去。遐邇聆之，皈崇日眾，大創禪林，今
+<lb ed="B" n="0405a12"/>玉龍寺是也。久之欲遊雞足，道過祿豐至獅子口時，野盜出沒，
+<lb ed="B" n="0405a13"/>行人畏之。<persName key="A010666">量</persName>復架茆壘石，出盋中餘粒，以饟來者。由是商旅驛
+<lb ed="B" n="0405a14"/>使，望而投歸，因開山建剎，直指<persName key="A012929">姜<roleName>公</roleName></persName>為題其額曰「文殊寺」，且贈
+<lb ed="B" n="0405a15"/>以詩。群盜慕化，皆知<anchor xml:id="beg_1c3" type="cb-app"/>斂<anchor xml:id="end_1c3"/>跡，竟成坦途。又於縣西避處，半山之中，
+<lb ed="B" n="0405a16"/>建淨蓮寺。山亦乏水，<persName key="A010666">量</persName>就道禮經，未及期月，果出甘泉。但不可
+<lb ed="B" n="0405a17"/>洗穢煮腥，犯則立竭。寂時壽已百齡，僧臘九十三。又<persName key="A012509">來秀</persName>字<persName key="A012509">雲
+<lb ed="B" n="0405a18"/>聚</persName>，亦河南人。苦行自持，初棲雞足，後於四觀峰剏金頂山。居數
+<lb ed="B" n="0405a19"/>十年，精勤不懈，戒德少倫。至<date from-iso="+1643-02-19" key="j23212032321911" to-iso="+1645-01-27">崇禎末</date>耆壽而化。後有<persName key="A043847">性壽三宗</persName>
+<lb ed="B" n="0405a20"/>者，蜀僧也。亦於<date from-iso="+1628-02-05" key="j23157102316063" to-iso="+1629-01-23">崇禎初</date>至滇，卓錫白馬山。方儗建寺，開基之日，<pb ed="B" xml:id="B27.0151.0405b" n="0405b"/>
+<lb ed="B" n="0405b01"/>忽見祥光中成獅形，金色燦爛，大小不一。因感<persName key="A011522">黔國沐<roleName>公</roleName></persName>，賜諭
+<lb ed="B" n="0405b02"/>題額，助修善緣，遂成巨剎，今傳經寺是也。寂年七十九，塔於寺
+<lb ed="B" n="0405b03"/>側，稱開山祖云。</p>
+    <linkGrp>
+        <link targets="#0405a14 #0405a15"/>
+        <ptr target="#A010666" type="person"/>
+        <ptr target="#A012929" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0405b01 #0405b02"/>
+        <ptr target="#A043847" type="person"/>
+        <ptr target="#A011522" type="person"/>
+    </linkGrp>
+</div>

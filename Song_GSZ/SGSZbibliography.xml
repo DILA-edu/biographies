@@ -1377,9 +1377,9 @@
                 </bibl>
                 <bibl ana="book">
                   <author><hi>Wang</hi>, Bangwei 王邦維</author>
-                    <title>義淨籍貫考辨</title>
-                    <edition>Beijing: Zhonghua 中華書局 大唐西域求法高僧傳校注 pp.268-273<date>1988.09</date></edition>
-                    <abbr>義淨籍貫考辨</abbr>
+                    <title>大唐西域求法高僧傳校注</title>
+                    <edition>Beijing: Zhonghua 中華書局<date>1988.09</date></edition>
+                    <abbr>大唐西域求法高僧傳校注</abbr>
                 </bibl>
                 <bibl ana="book">
                   <author><hi>Yu</hi>, Lunian 俞鹿年</author>
@@ -1586,7 +1586,7 @@
                     <abbr>中國佛教史籍概論</abbr>
                 </bibl>
                 <bibl ana="book">
-                  <author><hi>Wang</hi>, Shaofeng 王紹峰; Cao, Zhubing 曹祝兵</author>
+                  <author><hi>Wang</hi>, Shaofeng 王绍峰; Cao, Zhubing 曹祝兵</author>
                     <title>读《宋高僧传》校点本札记</title>
                     <edition>Fuyang Editorial Department of Journal of Fuyang Teachers College (Social Science) 阜阳师范学院学报（社会科学版）2011 年第 3 期<date>2011</date></edition>
                     <abbr>王紹峰 2011</abbr>
@@ -1596,6 +1596,30 @@
                     <title>The Northern School and the Formation of Early Ch'an Buddhism</title>
                     <edition>University of Hawaii Press<date>1986</date></edition>
                     <abbr>McRae 1986</abbr>
+                </bibl>
+                <bibl ana="book">
+                  <author><hi>Tong</hi>, Wei 童玮</author>
+                    <title>北宋《开宝大藏经》雕印考释及目录还原</title>
+                    <edition>北京 书目文献出版社<date>1991</date></edition>
+                    <abbr>童瑋 1991</abbr>
+                </bibl>
+                <bibl ana="book">
+                  <author><hi>Hu</hi>, Kejia 胡克家</author>
+                    <title>文選考異</title>
+                    <edition>武昌 崇文書局 同治八年（1869）重雕<date>1869</date></edition>
+                    <abbr>文選考異</abbr>
+                </bibl>
+                <bibl ana="book">
+                  <author><hi>Yang</hi>, Zhifei 杨志飞</author>
+                    <title>贊寧《宋高僧傳》研究</title>
+                    <edition>杭州 浙江大學博士論文<date>2013</date></edition>
+                    <abbr>楊志飛 2013</abbr>
+                </bibl>
+                <bibl ana="book">
+                  <author><hi>Forte</hi>, Antonino</author>
+                    <title>Political propaganda and ideology in China at the end of the seventh century : an inquiry into the nature, authors, and functions of the Dunhuang document S.6502, followed by an annotated translation </title>
+                    <edition>Napoli : Instituto universitario orientale, Seminario di studi asiatici<date>1976</date></edition>
+                    <abbr>Forte 1976</abbr>
                 </bibl>
             </listBibl>
         </body>

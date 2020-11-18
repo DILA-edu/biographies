@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0404b12shiGuanZhi">
+<lb ed="B" n="0404b12"/><anchor n="B.27.0151.0404b12"/><head>明四川黃龍寺沙門<persName key="A043846">釋觀止</persName>傳</head>
+<lb ed="B" n="0404b13"/><p xml:id="pB27p0404b1301"><persName key="A043846">釋觀止</persName>，者未知何許人。善講經論，願力弘深。<date from-iso="+1621-01-22" key="j23131402313523" to-iso="+1622-02-09">天啟初</date>遊岩渠，見
+<lb ed="B" n="0404b14"/>黃龍寺廢荒，慨然以興復為己任。法輪默運，信捨景從，殿宇樓
+<lb ed="B" n="0404b15"/>閣，赫然屹立。學侶雲蒸，更宏精舍。<persName key="A009652">破山明</persName>公曾為之記。其略曰：
+<lb ed="B" n="0404b16"/>「自鷲嶺分證，而冷光熱燄，莫可勝紀。然幢幢列剎相望者，無越
+<lb ed="B" n="0404b17"/>黃龍也。寺去城北二十里，建自<date notBefore-iso="+1567-02-19" key="j22934442295628" notAfter-iso="+1573-02-11">隆慶時</date>，興而復廢。至<date from-iso="+1623-01-31" key="j23138792314262" to-iso="+1624-02-18">天啟三年</date>，
+<lb ed="B" n="0404b18"/><persName key="A043846">觀止</persName>法師于是作師子吼，地搖人震，道逗羣機，遠近響應<!-- 《破山禪師語錄》卷20：「道逗群機。若合符節」(CBETA, J26, no. B177, p. 89, c10) -->。則殿
+<lb ed="B" n="0404b19"/>閣堂宇，煥然一新。咸乘師之疇昔，願輪所致也。顧慮法久生弊，
+<lb ed="B" n="0404b20"/>始問記于予。予固未學，敢以鼠尾續貂。然事關象教興廢，又誼<pb ed="B" xml:id="B27.0151.0405a" n="0405a"/>
+<lb ed="B" n="0405a01"/>不可辤。祇可向冷冷孤光處撥燄，寥寥疎影裏洞機，聊寫墨滴，
+<lb ed="B" n="0405a02"/>以災刼石，永同金剛不朽云爾。」</p>
+    <linkGrp>
+        <link targets="#0404b15 #0404b15"/>
+        <ptr target="#A043846" type="person"/>
+        <ptr target="#A009652" type="person"/>
+    </linkGrp>
+</div>

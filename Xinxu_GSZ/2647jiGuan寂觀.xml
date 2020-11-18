@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0404a20shiJiGuan">
+<lb ed="B" n="0404a20"/><anchor n="B.27.0151.0404a20"/><head>明雲南雞足山傳衣寺沙門<persName key="A012036">釋寂觀</persName>傳</head>
+<lb ed="B" n="0404b01"/><p xml:id="pB27p0404b0101"><persName key="A012036">釋寂觀</persName>，字<persName key="A012036">法界</persName>，姓陳氏，葉榆人。生性純篤，丱角喪母，哀泣幾滅。
+<lb ed="B" n="0404b02"/>見俗演<persName key="A000053">目連</persName>，乃愀然曰：「欲報劬勞之恩，非此莫能盡心。」因思出
+<lb ed="B" n="0404b03"/>家，往白於父。父有難色，固請許之。往蕩山禮<persName key="A012869">印光</persName>得度。<persName key="A012869">光</persName>學富
+<lb ed="B" n="0404b04"/>理超，貫激宗教，既得<persName key="A012036">寂觀</persName>，知為後勁，命名錫字，開示殊深。久之，
+<lb ed="B" n="0404b05"/>乃辭<persName key="A012869">光</persName>曰：「南歷百城，差別之竟已見；東邁萬里，難獲之法可求。
+<lb ed="B" n="0404b06"/>詎敢坐迷所寶，辜負此生。」<persName key="A012869">光</persName>改顏而遣之曰：「吾道行矣。」遂徧游
+<lb ed="B" n="0404b07"/>名山，乃至燕都叩<persName key="A009553">徧融</persName>。入室請益，至再至三，俱承印可。時葉榆
+<lb ed="B" n="0404b08"/>薦紳，欽其名德，累致書祈請，<anchor xml:id="beg_1c2" type="cb-app"/>卻<anchor xml:id="end_1c2"/>之不赴。後聞<persName key="A012869">光</persName>寂，乃回淔。過響
+<lb ed="B" n="0404b09"/>山遇虎，眓目視之，虎頫首<!-- 低頭 -->而去。後居雞足傳衣寺，時寺燬于火，
+<lb ed="B" n="0404b10"/>乃危坐松下，檀越感應，不日興復，規制弘備，更勝於昔。當眾務
+<lb ed="B" n="0404b11"/>緐<!-- 同「繁」 -->殷之日，手不釋卷，而事無墮廢，風徽遠矣！</p>
+    <linkGrp>
+        <link targets="#0404b03 #0404b06"/>
+        <ptr target="#A012036" type="person"/>
+        <ptr target="#A012869" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0404b07 #0404b07"/>
+        <ptr target="#A012036" type="person"/>
+        <ptr target="#A009553" type="person"/>
+    </linkGrp>
+</div>

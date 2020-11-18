@@ -966,24 +966,24 @@
         <xi:include href="2639daoTong道通.xml"/><!--明沙市白齋庵沙門釋道通傳德全_香林-->
         <xi:include href="2640yiXuan義玄.xml"/><!--明雲中普興禪院沙門釋義玄傳-->
         <xi:include href="2641benZhi本智.xml"/><!--明皖中浮山華嚴寺沙門釋本智傳-->
-        <xi:include href="2642-明遠安壽隆寺沙門釋普義傳.xml"/><!--明遠安壽隆寺沙門釋普義傳-->
-        <xi:include href="2643-明燕京資福寺沙門釋鎮端傳.xml"/><!--明燕京資福寺沙門釋鎮端傳-->
-        <xi:include href="2644-明梓潼迴龍寺沙門釋慧慈傳無妄.xml"/><!--明梓潼迴龍寺沙門釋慧慈傳無妄-->
-        <xi:include href="2645-明代州七佛寺沙門釋道相傳道梅_法源.xml"/><!--明代州七佛寺沙門釋道相傳道梅_法源-->
+        <xi:include href="2642puYi普義.xml"/><!--明遠安壽隆寺沙門釋普義傳-->
+        <xi:include href="2643zhenDuan鎮端.xml"/><!--明燕京資福寺沙門釋鎮端傳-->
+        <xi:include href="2644huiCi慧慈.xml"/><!--明梓潼迴龍寺沙門釋慧慈傳無妄-->
+        <xi:include href="2645daoXiang道相.xml"/><!--明代州七佛寺沙門釋道相傳道梅_法源-->
       </div>
       <div type="juan" n="55">
         <anchor n="B.27.0151.0402b11"/>
         <head>新續高僧傳四集卷第五十五</head>
         <lb n="0402b13" ed="B"/><p>興福篇第九之七(正傳九人　附見三人)</p>
-        <xi:include href="2646-明五臺山聖光寺沙門釋福登傳.xml"/><!--明五臺山聖光寺沙門釋福登傳-->
-        <xi:include href="2647-明雲南雞足山傳衣寺沙門釋寂觀傳.xml"/><!--明雲南雞足山傳衣寺沙門釋寂觀傳-->
-        <xi:include href="2648-明四川黃龍寺沙門釋觀止傳.xml"/><!--明四川黃龍寺沙門釋觀止傳-->
-        <xi:include href="2649-明曲靖玉龍寺沙門釋海量傳來秀_性壽.xml"/><!--明曲靖玉龍寺沙門釋海量傳來秀_性壽-->
-        <xi:include href="2650-明鼓山白雲峯湧泉寺沙門釋大艤傳.xml"/><!--明鼓山白雲峯湧泉寺沙門釋大艤傳-->
-        <xi:include href="2651-明潤州金山寺沙門釋洪肇傳.xml"/><!--明潤州金山寺沙門釋洪肇傳-->
-        <xi:include href="2652-明湘鄉荊紫山寺沙門釋無學傳.xml"/><!--明湘鄉荊紫山寺沙門釋無學傳-->
-        <xi:include href="2653-明杭州上天竺寺沙門釋萬靈傳萬富.xml"/><!--明杭州上天竺寺沙門釋萬靈傳萬富-->
-        <xi:include href="2654-端州慶雲禪院沙門釋道邱傳.xml"/><!--端州慶雲禪院沙門釋道邱傳-->
+        <xi:include href="2646fuDeng福登.xml"/><!--明五臺山聖光寺沙門釋福登傳-->
+        <xi:include href="2647jiGuan寂觀.xml"/><!--明雲南雞足山傳衣寺沙門釋寂觀傳-->
+        <xi:include href="2648guanZhi觀止.xml"/><!--明四川黃龍寺沙門釋觀止傳-->
+        <xi:include href="2649haiLiang海量.xml"/><!--明曲靖玉龍寺沙門釋海量傳來秀_性壽-->
+        <xi:include href="2650daYi大艤.xml"/><!--明鼓山白雲峯湧泉寺沙門釋大艤傳-->
+        <xi:include href="2651hongZhao洪肇.xml"/><!--明潤州金山寺沙門釋洪肇傳-->
+        <xi:include href="2652wuXue無學.xml"/><!--明湘鄉荊紫山寺沙門釋無學傳-->
+        <xi:include href="2653wanLing萬靈.xml"/><!--明杭州上天竺寺沙門釋萬靈傳萬富-->
+        <xi:include href="2654daoQiu道邱.xml"/><!--端州慶雲禪院沙門釋道邱傳-->
       </div>
       <div type="juan" n="56">
         <anchor n="B.27.0151.0408a11"/>

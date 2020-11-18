@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0407a04shiWanLing">
+<lb ed="B" n="0407a04"/><anchor n="B.27.0151.0407a04"/><head>明杭州上天竺寺沙門<persName key="A015889">釋萬靈</persName>傳<persName type="secondary" key="A042309">萬富</persName></head>
+<lb ed="B" n="0407a05"/><p xml:id="pB27p0407a0501"><persName key="A015889">釋萬靈</persName>，<anchor xml:id="beg040701"/><choice><sic resp="CBETA">宇</sic><corr resp="PC-MB">字</corr></choice><anchor xml:id="end040701"/><persName key="A015889">心臺</persName>，姓邵氏，仁和人。<date from-iso="+1584-02-12" key="j22996462299999" to-iso="+1585-01-30">萬曆甲申</date>同侶<persName key="A043850">世榮</persName>投華藏房
+<lb ed="B" n="0407a06"/><persName key="A043851">靈源</persName>師祝髮。食貧守苦，備嘗險阻，拮据自勞，以營堂搆。嘗建別
+<lb ed="B" n="0407a07"/>業曰「靜處齋」，有終焉之志。會大士殿圯，議鼎新之。<persName key="A015889">靈</persName>與同志航
+<lb ed="B" n="0407a08"/>海，採木功成。<persName key="A043852">錢<roleName>師相</roleName>麟武</persName>、<persName key="A011239">虞<roleName>銓部</roleName>德園</persName>、<persName key="A004185">黃<roleName>學使</roleName>貞父</persName>俱崇護之。
+<lb ed="B" n="0407a09"/><date when-iso="+1632-10-03" key="j23174122317412">崇禎壬申八月二十日</date>手書遺示：「嘗三捨缽資為雲棲飯僧，至
+<lb ed="B" n="0407a10"/>此復建道場七，晝夜命徒眾聚而念佛。取曆擇日曰<date when-iso="+1632-10-12" key="j23174212317421">二十九日</date>
+<lb ed="B" n="0407a11"/>午時，吾從此逝矣。」屆期更衣，吉祥而逝，壽六十二，臘四十八。<persName key="A042309">萬
+<lb ed="B" n="0407a12"/>富</persName>字<persName key="A042309">春山</persName>，姓錢氏，霅人也。禮上竺<persName key="A042308">意正</persName>為師，居秋香閣，苦行清
+<lb ed="B" n="0407a13"/>修。<date from-iso="+1596-01-29" key="j23040152304398" to-iso="+1597-02-15">丙申</date>，閣燬于火，遂肇基普門之旁，創興傑構，不殫勞勩<!-- 勞苦 -->。會上
+<lb ed="B" n="0407a14"/>竺正殿傾圯，復與同侶十有四人，共謀鼎新，終遂所願。後以齒
+<lb ed="B" n="0407a15"/>高多病謝去。先是<persName key="A042309">富</persName>築準提閣，退息其中。禮《法華》諸經，晨昏靡
+<lb ed="B" n="0407a16"/>間，誦佛號日以萬計。走天童受<persName key="A003688">密雲</persName>大師戒，越三年預知期至，
+<lb ed="B" n="0407a17"/>呼徒屬曰：「除夕吾正七也。」命浴，浴罷猶手持貫珠，輪誦而逝，時
+<lb ed="B" n="0407a18"/>七十有二。</p>
+    <linkGrp>
+        <link targets="#0407a05 #0407a06"/>
+        <ptr target="#A015889" type="person"/>
+        <ptr target="#A043850" type="person"/>
+        <ptr target="#A043851" type="person"/>
+        <ptr target="#j22996462299999" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0407a08 #0407a08"/>
+        <ptr target="#A015889" type="person"/>
+        <ptr target="#A043852" type="person"/>
+        <ptr target="#A011239" type="person"/>
+        <ptr target="#A004185" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0407a16 #0407a16"/>
+        <ptr target="#A015889" type="person"/>
+        <ptr target="#A003688" type="person"/>
+    </linkGrp>
+</div>

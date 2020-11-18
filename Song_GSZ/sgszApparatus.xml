@@ -19,8 +19,7 @@
 		<app from="beg0709004" ana="appType1a">
 			<lem wit="【大】">千匹</lem>
 			<rdg resp="Taisho" wit="【宋】【元】">十匹</rdg>
-			<rdg resp="PC-JK-MB" wit="【范】【甲】">十匹</rdg>
-			<rdg resp="PC-JK-MB" wit="【永】">十四</rdg>
+			<rdg resp="PC-JK-MB" wit="【范】【甲】【永】">十匹</rdg>
 			<rdg resp="PC-JK-MB" wit="【四】">千匹</rdg>
 		</app>
 		<app from="beg0709005" ana="appType1a">

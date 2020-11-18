@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0401b07shiZhenDuan">
+<lb ed="B" n="0401b07"/><anchor n="B.27.0151.0401b07"/><head>明燕京資福寺沙門<persName key="A015783">釋鎮端</persName>傳</head>
+<lb ed="B" n="0401b08"/><p xml:id="pB27p0401b0801"><persName key="A015783">釋鎮端</persName>，字<persName key="A015783">守心</persName>，姓陳氏，長冶人。生多祥符，鄰里驚異。弱歲自矜，
+<lb ed="B" n="0401b09"/>風骨卓然。<ref type="date" target="#j22802732280656">年十二</ref>依黎城洪福庵<persName key="A043826">惠忍</persName>為受業師。居無何棄去，
+<lb ed="B" n="0401b10"/>登伏牛、禮補陀，既而入代之五臺山，謁<persName key="A010126">二虎</persName>禪師。一見契焉，為
+<lb ed="B" n="0401b11"/>入室弟子。及還故山，<persName key="A019543">瀋王</persName>聞而敬之，延住資福禪院，給供甚勤。
+<lb ed="B" n="0401b12"/>一日，慨然曰：「大丈夫不出家，即當以仁義輔弼明主，澤流遐邇。
+<lb ed="B" n="0401b13"/>出家則當精深宗教，徹法底源，闡揚佛祖之道，俾博地凡夫，彈
+<lb ed="B" n="0401b14"/>指登聖，以報佛恩，始不愧為男子。顧吾於二者之間，一無所有。
+<lb ed="B" n="0401b15"/><persName key="A019543">瀋王</persName>雖勤厚，濡滯<!-- 停留 -->一方，莫能廣惠方來<!-- 將來 -->，終非所志。」於是復棄去。
+<lb ed="B" n="0401b16"/>來燕山宛平蘆溝橋東，白茨數<anchor xml:id="beg040101"/><choice><sic resp="CBETA">掾</sic><corr resp="PC-MB">椽</corr></choice><anchor xml:id="end040101"/>，聊為諸方息肩之地。亦額「資
+<lb ed="B" n="0401b17"/>福」者，示不忘<persName key="A019543">瀋王</persName>也。又於寺之西南隙，穿大井一，置石漕六，發
+<lb ed="B" n="0401b18"/>願曰：「無論黑白、愚智、人畜，凡有知者，沾我滴水，食我粒米，同此
+<lb ed="B" n="0401b19"/>供養，水泉不枯，勝緣無盡。<!-- 《紫柏尊者全集》卷22：「同生阿彌陀佛國中」(CBETA, X73, no. 1452, p. 338, c17-18) -->」然賦性嚴冷，不喜阿曲，即豪貴臨門，
+<lb ed="B" n="0401b20"/>或不少屈，故施者簡寂。常住荒寒，乃力抱枯澹，歡接來眾，了無<pb ed="B" xml:id="B27.0151.0402a" n="0402a"/>
+<lb ed="B" n="0402a01"/>倦色。或不堪其憂，<persName key="A015783">端</persName>處之泰然，殊不為意。<persName key="A019543">瀋王</persName>、<persName key="A043828">恭妃</persName>仰其玄風，
+<lb ed="B" n="0402a02"/>遣中貴易茅茨為金碧，端方暢志，樹功德幢焉！<date from-iso="+1593-01-03" key="j23028942302922" to-iso="+1593-01-31">明萬曆二十年
+<lb ed="B" n="0402a03"/>冬十二月</date>預知時至，謂門弟子曰：「我明日行矣。積年勞勤，施者
+<lb ed="B" n="0402a04"/>使我成就行門。我去後無乏方來粥飯，我死猶生也。」至期悠然
+<lb ed="B" n="0402a05"/>坐化，僧臘五十七，世壽七十三。門弟子依法闍毘，歸骨南岡塔，
+<lb ed="B" n="0402a06"/>奉為初祖。<persName key="A000944">釋達觀</persName>為之銘，文詞超邁，具《紫柏遺集》。</p>
+    <linkGrp>
+        <link targets="#0401b09 #0401b09"/>
+        <ptr target="#A015783" type="person"/>
+        <ptr target="#A043826" type="person"/>
+        <ptr target="#j22802732280656" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0401b10 #0401b10"/>
+        <ptr target="#A015783" type="person"/>
+        <ptr target="#A010126" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0401b11 #0401b11"/>
+        <ptr target="#A015783" type="person"/>
+        <ptr target="#A019543" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0402a01 #0402a02"/>
+        <ptr target="#A015783" type="person"/>
+        <ptr target="#A019543" type="person"/>
+        <ptr target="#A043828" type="person"/>
+    </linkGrp>
+</div>

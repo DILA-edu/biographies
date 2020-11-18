@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="護法" xml:id="gsz0813b22shiXuanNi"><lb
 ed="T" n="0813b22"/><anchor n="T.50.2061.0813b22"/><head><date from-iso="+0618-06-21" key="j19469512052491" to-iso="+0907-06-06">唐</date><placeName key="PL000000027770">江陵府</placeName><persName key="A011753">法明</persName>傳</head><p><lb
-ed="T" n="0813b23"/><persName key="A011753">釋法明</persName>，本<placeName key="PL000000023022">荊楚</placeName>人也。博通經論，外善群書，<lb
+ed="T" n="0813b23"/><persName key="A011753">釋法明</persName><ptr target="#n3717"/>，本<placeName key="PL000000023022">荊楚</placeName>人也。博通經論，外善群書，<lb
 ed="T" n="0813b24"/>辯給如流，戒範堅正。<persName key="A002100">中宗</persName>朝入<placeName key="PL000000042189">長安</placeName>，遊訪<lb
 ed="T" n="0813b25"/>諸高達，適遇詔僧、道定奪《化胡成佛經》真<lb
 ed="T" n="0813b26"/>偽<ptr target="#n2179"/>。時盛集內殿，百官侍聽。諸高位龍象，抗<lb
@@ -20,7 +20,7 @@ ed="T" n="0813c09"/>觀皆畫《化胡成佛變相》，僧寺亦畫<persName ke
 ed="T" n="0813c10"/>兩教尊容，二俱不可。制<ptr target="#n2183"/>到後限十日內並須<lb
 ed="T" n="0813c11"/>除毀。若故留，仰當處官吏科『違勅罪』<ptr target="#n2184"/>。其<lb
 ed="T" n="0813c12"/>《化胡經》累朝明勅<ptr target="#n2185"/>禁斷，近知在外仍頗流行<ptr target="#n2186"/>，<lb
-ed="T" n="0813c13"/>自今後其諸部《化胡經》<ptr target="#n2187"/>及諸記錄。有化胡事，<lb
+ed="T" n="0813c13"/>自今後其諸部《化胡經》<ptr target="#n2187"/>及諸記錄有化胡事，<lb
 ed="T" n="0813c14"/>並宜<ptr target="#n2188"/>除削。若有蓄者<ptr target="#n2189"/>，準勅<ptr target="#n2190"/>科罪。」<date from-iso="+0705-09-27" key="j19788251978853" to-iso="+0705-10-25">其月</date><placeName key="PL000000023576"><placeName>洛京</placeName><placeName><lb
 ed="T" n="0813c15"/>大恒道觀</placeName></placeName>主<persName key="A011751">桓道彥</persName>等上表固執，勅批曰：「<ref type="person" target="#A002100">朕</ref><lb
 ed="T" n="0813c16"/>以匪躬<ptr type="glossary" target="#g1021"/>，忝承丕業，雖撫寧多失，而平恕實<lb
@@ -35,8 +35,8 @@ ed="T" n="0813c24"/>無典故，成<ptr target="#n2197"/>佛則四人不同，�
 ed="T" n="0813c25"/>舛互。<persName key="A002037">尹喜</persName>既稱成佛，已甚憑虛。復云化作<lb
 ed="T" n="0813c26"/><persName key="A003861">阿難</persName>，更成烏合。<persName key="A006638">鬼谷</persName>、<persName key="A023378">北郭</persName>之輩，未踐<placeName key="PL000000048208">中天</placeName>；<lb
 ed="T" n="0813c27"/><persName key="A002402">舍利</persName>、<persName key="A002144">文殊</persName>之倫，妄彰<placeName key="PL000000000083">東土</placeName>。胡<name>漢</name>交雜，年代亦<lb
-ed="T" n="0813c28"/>乖。履水<ptr target="#n2198"/>而說涅槃，曾無典據；蹈火而談妙<lb
-ed="T" n="0813c29"/>法，有類俳優。誣詐自彰，寧煩縷說。經非<persName key="A002104">老<pb ed="T" n="0814a" xml:id="T50.2061.0814a"/><lb
+ed="T" n="0813c28"/>乖。履水<ptr target="#n2198"/>而說《涅槃》<ptr target="#n798"/>，曾無典據；蹈火而談《妙<lb
+ed="T" n="0813c29"/>法》<ptr target="#n2996"/>，有類俳優。誣詐自彰，寧煩縷說。經非<persName key="A002104">老<pb ed="T" n="0814a" xml:id="T50.2061.0814a"/><lb
 ed="T" n="0814a01"/>君</persName>所制，毀之則匪<ptr target="#n2199"/>曰孝虧；文是鄙人所談，<lb
 ed="T" n="0814a02"/>除之則更彰先德。來言雖切，理實未安。宜<lb
 ed="T" n="0814a03"/>悉<ref type="person" target="#A002100">朕</ref>懷，即斷來表。」<persName key="A011753">明</persName>之口給，當代無倫。援<lb

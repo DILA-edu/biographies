@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0401a17shiPuYi">
+<lb ed="B" n="0401a17"/><anchor n="B.27.0151.0401a17"/><head>明遠安壽隆寺沙門<persName key="A042421">釋普義</persName>傳</head>
+<lb ed="B" n="0401a18"/><p xml:id="pB27p0401a1801"><persName key="A042421">釋普義</persName>，字<persName key="A042421">了乘</persName>，姓胡氏，古陸人也。髫年祝髮，順時進具，勤習三
+<lb ed="B" n="0401a19"/>學，博覽群經。壯歲遊方，飯眾廬山，見真面目，如識本來。浮江東
+<lb ed="B" n="0401a20"/>下，循海而南，瞻禮補陀。還至金陵，請求藏典，跋涉山川，護經回<pb ed="B" xml:id="B27.0151.0401b" n="0401b"/>
+<lb ed="B" n="0401b01"/>寺。<date from-iso="+1616-02-17" key="j23113392311693" to-iso="+1617-02-05">萬曆丙辰</date>，剏建彌陀院。劬勞三載，上下堂寮，左右樓閣，莫不
+<lb ed="B" n="0401b02"/>輪奐雙美，金碧交輝。復鑄三大士，金身刻彩，十六佛龕。增置田
+<lb ed="B" n="0401b03"/>疇，裕蓄香積。夷陵徵士<!-- 處士 --><persName key="A043825">雷思沛</persName>為之碑文，玉泉<persName key="A000274">無跡</persName>禪師著有
+<lb ed="B" n="0401b04"/>《彌陀院記》並垂久遠，足示來茲。義雖傳臨濟，而夕梵晨鐘，數豆
+<lb ed="B" n="0401b05"/>念佛，清心自課。邑侯張公題所居曰「莊嚴淨土」，蓋知其回向證
+<lb ed="B" n="0401b06"/>願，已具極樂玄猷所詣。既成，蟬脫而去，其芳模碩德，備載縣志。</p>
+    <linkGrp>
+        <link targets="#0401b03 #0401b03"/>
+        <ptr target="#A042421" type="person"/>
+        <ptr target="#A043825" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0401b03 #0401b04"/>
+        <ptr target="#A042421" type="person"/>
+        <ptr target="#A000274" type="person"/>
+    </linkGrp>
+</div>

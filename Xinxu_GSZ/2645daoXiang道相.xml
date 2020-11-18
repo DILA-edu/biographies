@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0402a16shiDaoXiang">
+<lb ed="B" n="0402a16"/><anchor n="B.27.0151.0402a16"/><head>明代州七佛寺沙門<persName key="A042427">釋道相</persName>傳<persName type="secondary" key="A043844">道梅</persName><persName type="secondary" key="A043844">法源</persName></head>
+<lb ed="B" n="0402a17"/><p xml:id="pB27p0402a1701"><persName key="A042427">釋道相</persName>，字<persName key="A042427">契真</persName>，姓楊氏，岢嵐人。年十三依<persName key="A043843">蘆芽遠</persName>公披剃，行腳
+<lb ed="B" n="0402a18"/>至五臺習講師子。山窟禁閟，三載出而過代，士民留居北斗宮。
+<lb ed="B" n="0402a19"/>久之不樂，曰：「吾侍佛者也，而習見酒肉，鳥<!-- 烏？ -->乎！可欲辤之。」士民感
+<lb ed="B" n="0402a20"/>其行誼，為闢淨域，造僧房，顏曰「七佛」，時<date from-iso="+1589-02-15" key="j23014762301830" to-iso="+1590-02-04">明萬歷十七年</date>也。<persName key="A042427">相</persName>復<pb ed="B" xml:id="B27.0151.0402b" n="0402b"/>
+<lb ed="B" n="0402b01"/>自誓，足不踰閫者十餘年。晨鐘暮梵，勤讀大藏，以此終焉。後數
+<lb ed="B" n="0402b02"/>十百年，有<persName key="A043844">道梅</persName>者，戒行精嚴，雅志潔修，見斯崇臺高閣，廊廡環
+<lb ed="B" n="0402b03"/>列，蒼柏垂陰，囂塵不至，信禪悅之清涼，游棲之福地。而饘粥無
+<lb ed="B" n="0402b04"/>資，住僧謝去。<persName key="A043844">梅</persName>獨發願，欲振頹綱。卒感善信，檀施不絕。<date from-iso="+1683-01-27" key="j23357902336173" to-iso="+1684-02-14">清康熙
+<lb ed="B" n="0402b05"/>二十二年</date>地震，樓殿損壞，<persName key="A043844">梅</persName>甚憂之。因謀於眾，為修復計。會參
+<lb ed="B" n="0402b06"/>憲陳公捐俸為助，而前後殿堂扶危奠傾，正其柱礎，禪室厨庫
+<lb ed="B" n="0402b07"/>次第綢繆，俱臻鞏固。弟子<persName key="A043845">法源</persName>，遠近叩請，躬任其勞，敝衣惡食，
+<lb ed="B" n="0402b08"/>一介不苟。故經營二十餘年，復告完善者，雖曰<persName key="A043844">梅</persName>為之主，而相
+<lb ed="B" n="0402b09"/>與有成，<persName key="A043845">源</persName>之功不可沒也。</p>
+    <linkGrp>
+        <link targets="#0402a17 #0402a17"/>
+        <ptr target="#A042427" type="person"/>
+        <ptr target="#A043843" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0402b07 #0402b07"/>
+        <ptr target="#A043844" type="person"/>
+        <ptr target="#A043845" type="person"/>
+    </linkGrp>
+</div>

@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0407a19shiDaoQiu">
+<lb ed="B" n="0407a19"/><anchor n="B.27.0151.0407a19"/><head>端州慶雲禪院沙門<persName key="A027565">釋道邱</persName>傳</head>
+<lb ed="B" n="0407a20"/><p xml:id="pB27p0407a2001"><persName key="A027565">釋道邱</persName>，字<persName key="A027565">離際</persName>，亦號<persName key="A027565">栖壑</persName>，順德龍山柯氏子。母<persName key="A043853">陳氏</persName>，感神僧入<pb ed="B" xml:id="B27.0151.0407b" n="0407b"/>
+<lb ed="B" n="0407b01"/>夢，驚而舉子，故生時室有異光。玅齡薙染，後侍<persName key="A001681">憨山</persName>於寶林。典
+<lb ed="B" n="0407b02"/>通內外，心澈教禪。乃度嶺至金陵親<persName key="A004672">雪浪</persName>、<persName key="A001156">一雨</persName>，深究宗趣。復如
+<lb ed="B" n="0407b03"/>杭參<persName key="A001394">蓮池</persName>，授以淨土法門，付之衣缽。更入江右侍<persName key="A000114">博山無異</persName>。久
+<lb ed="B" n="0407b04"/>之又入匡廬，會同參<persName key="A043854">家宗保</persName>禪師於金輪，遂歸廣州。道路傳聞，
+<lb ed="B" n="0407b05"/>爭相趨謁。<persName key="A043855">陳秋清</persName>、<persName key="A043856">梁未央</persName>延住白雲蒲澗，學侶輳輻，共坐枯木，
+<lb ed="B" n="0407b06"/>種蓻自給。嘗訪六祖，路出端州，望鼎湖山水秀麗，策杖而入，知
+<lb ed="B" n="0407b07"/>為福地，迺開山焉。光<!-- 先？ -->是，地主<persName key="A043857">梁少川</persName>與<persName key="A043858">清波</persName>延僧搆庵，其中共
+<lb ed="B" n="0407b08"/>結淨社，聞<persName key="A027565">道邱</persName>至，奉為住持，竟成大剎。內有涅槃臺、慶雲禪院、
+<lb ed="B" n="0407b09"/>寮舍僧房，非萬金不就。<persName key="A027565">道邱</persName>譚笑成之，噫異矣！昔<persName key="A001681">憨山</persName>嘗遊此
+<lb ed="B" n="0407b10"/>峯，懸記曰：「不久當有至人，于茲開山。」紀以詩曰：「蓮花瓣瓣湧滄
+<lb ed="B" n="0407b11"/>溟，寶殿高高傍七星；白晝雲封無犬吠，夜深說法有龍聽。」至是
+<lb ed="B" n="0407b12"/>果驗。寺無擔石之儲，而眾至數百，有齎金請置田者，<anchor xml:id="beg_1c4" type="cb-app"/>卻<anchor xml:id="end_1c4"/>而不受。
+<lb ed="B" n="0407b13"/>開山十年，未嘗困乏。因白蓮盛開，索筆書《蓮花頌》而寂。</p>
+    <linkGrp>
+        <link targets="#0407a20 #0407a20"/>
+        <ptr target="#A027565" type="person"/>
+        <ptr target="#A043853" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0407b01 #0407b01"/>
+        <ptr target="#A027565" type="person"/>
+        <ptr target="#A001681" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0407b02 #0407b02"/>
+        <ptr target="#A027565" type="person"/>
+        <ptr target="#A004672" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0407b02 #0407b02"/>
+        <ptr target="#A027565" type="person"/>
+        <ptr target="#A001156" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0407b03 #0407b03"/>
+        <ptr target="#A027565" type="person"/>
+        <ptr target="#A001394" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0407b03 #0407b03"/>
+        <ptr target="#A027565" type="person"/>
+        <ptr target="#A000114" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0407b04 #0407b04"/>
+        <ptr target="#A027565" type="person"/>
+        <ptr target="#A043854" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0407b05 #0407b05"/>
+        <ptr target="#A027565" type="person"/>
+        <ptr target="#A043855" type="person"/>
+        <ptr target="#A043856" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0407b07 #0407b08"/>
+        <ptr target="#A027565" type="person"/>
+        <ptr target="#A043857" type="person"/>
+        <ptr target="#A043858" type="person"/>
+    </linkGrp>
+</div>
