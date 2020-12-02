@@ -38,8 +38,8 @@
 <lb n="0709b08" ed="T"/>除糠糩<ptr target="#n5"/>。<ref type="person" target="A001910">臣</ref>等冒黷天顏，無任<ptr type="glossary" target="#g767"/>惶懼激切屏
 <lb n="0709b09" ed="T"/>營之至<ptr type="glossary" target="#g6"/>，謹言。</p><div>
 <lb n="0709b10" ed="T"/><head>批答</head><p xml:id="pT50p0709b1101">
-<lb n="0709b11" ed="T"/>勅<persName key="A001910"><persName>通慧大師</persName><persName>贊寧</persName></persName>，省所令左街<placeName key="PL000000023316">天壽寺</placeName>賜紫
-<lb n="0709b12" ed="T"/>僧<persName key="A019530">顯忠</persName>進編修《<anchor xml:id="beg0709003"/>有<anchor xml:id="end0709003"/>宋高僧傳》三十卷事，具
+<lb n="0709b11" ed="T"/>勅<persName key="A001910"><persName>通慧大師</persName><persName>贊寧</persName></persName>省<!-- 察、審 -->所令左街<placeName key="PL000000023316">天壽寺</placeName>賜紫
+<lb n="0709b12" ed="T"/>僧<persName key="A019530">顯忠</persName>進編修《<anchor xml:id="beg0709003"/><choice resp="PC-JK-MB"><sic>有</sic><corr>大</corr></choice><anchor xml:id="end0709003"/><ptr target="#n3740"/>宋高僧傳》三十卷事，具
 <lb n="0709b13" ed="T"/>悉。一乘妙道，六度<ptr type="glossary" target="#g935"/>玄門，代有奇人，迭恢聖
 <lb n="0709b14" ed="T"/>教。若無纂述，何以顯揚？繄爾真流，棲心法
 <lb n="0709b15" ed="T"/>苑，成茲編集，頗効辛勤。備觀該總之能，深
@@ -117,4 +117,14 @@
         <p xml:id="pT50p0710a2101">
 <lb n="0710a21" ed="T"/>興福篇第九</p><lg><l>為己為他，福生罪滅，</l><l>有為之善，其利博哉。</l></lg>
         <p xml:id="pT50p0710a2201">
-<lb n="0710a22" ed="T"/>雜科聲德十</p><lg><l>統攝諸科，同歸高尚，</l><l>唱導之匠，光顯佛乘。</l></lg></div></div>
+<lb n="0710a22" ed="T"/>雜科聲德十</p><lg><l>統攝諸科，同歸高尚，</l><l>唱導之匠，光顯佛乘。</l></lg></div>
+        <linkGrp>
+            <link targets="#0709b02 #0709b09"/>
+            <ptr target="#A001910" type="person"/>
+            <ptr target="#A001640" type="person"/>
+            <ptr target="#A019530" type="person"/>
+            <ptr target="#A001297" type="person"/>
+            <ptr target="#PL000000023467" type="place"/>
+            <ptr target="#j20822472082247" type="time"/>
+        </linkGrp>
+</div>

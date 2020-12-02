@@ -766,7 +766,7 @@
                 <bibl ana="book">
                   <author><hi>Lamotte</hi>, Etienne</author>
                     <title>History of Indian Buddhism : from the origins to the Saka Era</title>
-                    <edition>Louvain : Peeters,<date>1988.</date></edition>
+                    <edition>Louvain : Peeters,<date>1988</date></edition>
                     <abbr>Lamotte, History of Indian Buddhism</abbr>
                 </bibl>
                 <bibl ana="book">
@@ -1620,6 +1620,18 @@
                     <title>Political propaganda and ideology in China at the end of the seventh century : an inquiry into the nature, authors, and functions of the Dunhuang document S.6502, followed by an annotated translation </title>
                     <edition>Napoli : Instituto universitario orientale, Seminario di studi asiatici<date>1976</date></edition>
                     <abbr>Forte 1976</abbr>
+                </bibl>
+                <bibl ana="book">
+                  <author><hi>Liang</hi>, Liling 梁麗玲; Zhu, Wenguang 朱文光</author>
+                    <title>從寫卷題記看唐代佛典翻譯</title>
+                    <edition>臺中 唐代文化、文學研究及教學國際學術研討會，頁1-21<date>2007</date></edition>
+                    <abbr>梁麗玲 2007</abbr>
+                </bibl>
+                <bibl ana="book">
+                  <author><hi>Wang</hi>, Yinzhi 王引之;黃侃 楊樹達 批</author>
+                    <title>經傳釋詞</title>
+                    <edition>長沙 岳麓書社<date>1982</date></edition>
+                    <abbr>經傳釋詞</abbr>
                 </bibl>
             </listBibl>
         </body>
