@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="雜識" xml:id="gsz0448a11shiFanQi">
+<lb ed="B" n="0448a11"/><anchor n="B.27.0151.0448a11"/><head>明海鹽福臻寺沙門<persName key="A001082">釋梵琦</persName>傳<persName type="secondary" key="A020470">梅雪</persName></head>
+<lb ed="B" n="0448a12"/><p xml:id="pB27p0448a1201"><persName key="A001082">釋梵琦</persName>，字<persName key="A001082">楚石</persName>，小字<persName key="A001082">曇耀</persName>，象山人。嘗閱《楞嚴》至「緣見因明暗成
+<lb ed="B" n="0448a13"/>無見」，恍然有悟。<persName key="A001032">元叟端</persName>倡道雙徑，<persName key="A001082">琦</persName>往問之。「言發非聲，色前不
+<lb ed="B" n="0448a14"/>物，其意如何？」<persName key="A001032">叟</persName>就以詰之，<persName key="A001082">琦</persName>擬答，<persName key="A001032">叟</persName>叱之，使出。自是胸疑如填
+<lb ed="B" n="0448a15"/>巨石。會<persName key="A006670">元英宗</persName>詔粉黃金為泥，書大藏經，以<persName key="A001082">琦</persName>善書，選至闕下。
+<lb ed="B" n="0448a16"/>一夕聞樓鼓動，汗如雨下，拊几笑曰：「徑山鼻孔，今日入吾手矣。」
+<lb ed="B" n="0448a17"/>因成偈有「捨得紅鑪一點雪，卻是黃河六月冰」之句。旋入雙徑，
+<lb ed="B" n="0448a18"/><persName key="A001032">叟</persName>見其氣宇充然，謂曰：「西來密意，喜子得之矣。」<date notBefore-iso="+1324-02-04" key="j22046752206151" notAfter-iso="+1328-02-19">元泰定中</date>出主
+<lb ed="B" n="0448a19"/>海鹽之福臺，尋遷永祚。<date from-iso="+1368-01-31" key="j22207422221122" to-iso="+1369-02-14">明洪武初</date>詔名浮屠於蔣山建廣薦會，
+<lb ed="B" n="0448a20"/><persName key="A001082">琦</persName>首應詔，躋席說法。圓音高唱，萬籟俱清，<ref type="person" target="#A003672">帝</ref>心悅懌，賜宴文樓，<pb ed="B" xml:id="B27.0151.0448b" n="0448b"/>
+<lb ed="B" n="0448b01"/>親承顧問。既還，出帑金以賜之，館於天界寺。忽謂<persName key="A001799">噩夢堂</persName>曰：「吾
+<lb ed="B" n="0448b02"/>將去也。」曰：「子欲何之？」曰：「西方爾。」因訉<!-- 多言 -->之曰：「西方有佛，東方無佛
+<lb ed="B" n="0448b03"/>邪？」<persName key="A001082">琦</persName>厲聲一喝，泊然而化。荼毘齒牙、舌根數珠咸不壞，舍利黏
+<lb ed="B" n="0448b04"/>綴遺骨，纍纍如珠。所著有《楚石語錄》及《和永明山居詩》并見《寺
+<lb ed="B" n="0448b05"/>志》<!-- 《淨慈寺志》 -->。又<persName key="A020470">梅雪</persName>亦閱《楞嚴》次，見「一毫端現寶王剎」有疑。後至江陰覩
+<lb ed="B" n="0448b06"/>乾明寺，佛閣壯麗，頓釋疑情。淨慈<persName key="A020471">休休翁</persName>證之。其所著亦有《和
+<lb ed="B" n="0448b07"/>永明詩寄幻集》。</p>
+    <linkGrp>
+        <link targets="#0448a13 #0448a15"/>
+        <ptr target="#A001082" type="person"/>
+        <ptr target="#A001032" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0448a15 #0448a16"/>
+        <ptr target="#A001082" type="person"/>
+        <ptr target="#A006670" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0448a17 #0448a18"/>
+        <ptr target="#A001082" type="person"/>
+        <ptr target="#A001032" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0448a19 #0448a20"/>
+        <ptr target="#A001082" type="person"/>
+        <ptr target="#A003672" type="person"/>
+        <ptr target="#j22207422221122" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0448b01 #0448b03"/>
+        <ptr target="#A001082" type="person"/>
+        <ptr target="#A001799" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0448b05 #0448b06"/>
+        <ptr target="#A020470" type="person"/>
+        <ptr target="#A020471" type="person"/>
+    </linkGrp>
+</div>

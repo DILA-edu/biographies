@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="雜識" xml:id="gsz0449a18shiZhengPai">
+<lb ed="B" n="0449a18"/><anchor n="B.27.0151.0449a18"/><head>明泉州開元東塔院沙門<persName key="A003760">釋正派</persName>傳<persName type="secondary" key="A043876">無斷</persName></head>
+<lb ed="B" n="0449a19"/><p xml:id="pB27p0449a1901"><persName key="A003760">釋正派</persName>，字<persName key="A003760">覺非</persName>，姓蔡氏，晉江人也。生有夙慧，苦志勤學。出家後
+<lb ed="B" n="0449a20"/>居東塔院，博洽諸經，兼以文蓻<!-- 蓺 -->，助我禪悅。時有<persName key="A043876">無斷</persName>老宿，棲止<pb ed="B" xml:id="B27.0151.0449b" n="0449b"/>
+<lb ed="B" n="0449b01"/>寺中，淹通內外典籍，素見重於<persName key="A043877">王遵嚴</persName>諸文學。<persName key="A003760">正派</persName>承其啟迪，
+<lb ed="B" n="0449b02"/>別有會心，<persName key="A043876">無斷</persName>深契之，一時名籍甚。郡司寇<persName key="A003711">詹咫亭</persName>以直言歸，
+<lb ed="B" n="0449b03"/>結室北山巢雲，延<persName key="A003760">正派</persName>居之。禮意殷殷，山中唱和，有「竹下烹茶
+<lb ed="B" n="0449b04"/>雲入袖，松間倚杖鶴窺人」之句。後遊吳越名藍勝境，咸有題詠，
+<lb ed="B" n="0449b05"/>人多傳誦。<persName key="A003711">咫亭</persName>復邀朋輩及諸名德結楞嚴社，每會人立一義，
+<lb ed="B" n="0449b06"/>多方參辨，唯<persName key="A003760">正</persName>每奪其標。有云：「慙愧未能成底事，逡巡難得似
+<lb ed="B" n="0449b07"/>前人。」可見<persName key="A003760">派</persName>之素履，不以文害志也。臨終示偈曰：「勿毀勿讚，本
+<lb ed="B" n="0449b08"/>無涯岸；雲度長空，月浮碧漢。」世壽七十九。</p>
+    <linkGrp>
+        <link targets="#0449a19 #0449b02"/>
+        <ptr target="#A003760" type="person"/>
+        <ptr target="#A043876" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0449b01 #0449b01"/>
+        <ptr target="#A043877" type="person"/>
+        <ptr target="#A043876" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0449b02 #0449b06"/>
+        <ptr target="#A003760" type="person"/>
+        <ptr target="#A003711" type="person"/>
+    </linkGrp>
+</div>

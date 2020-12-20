@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="雜識" xml:id="gsz0452a15shiZhiYin">
+<lb ed="B" n="0452a15"/><anchor n="B.27.0151.0452a15"/><head>明福州鼓山湧泉寺沙門<persName key="A011738">釋智誾</persName>傳</head>
+<lb ed="B" n="0452a16"/><p xml:id="pB27p0452a1601"><persName key="A011738">釋智誾</persName>，字<persName key="A011738">雪關</persName>，姓傅氏，上饒人。齔齡捨身，徧習經論，便解文義。
+<lb ed="B" n="0452a17"/>稍長讀《壇經》「火燒海底」句，心大疑之。往參<persName key="A000114">博山</persName>，<persName key="A000114">山</persName>示以「船子藏
+<lb ed="B" n="0452a18"/>身」語。默究久之，偶見槽廠拽磨，忽磨鼻脫去，有省。作偈呈<persName key="A000114">山</persName>，<persName key="A000114">山</persName>
+<lb ed="B" n="0452a19"/>曰：「子可參禪也。」一日指衲衣，令作頌。<persName key="A011738">誾</persName>援筆立成五頌，<persName key="A000114">山</persName>曰：「汝
+<lb ed="B" n="0452a20"/>偈固佳，但風骨大露。須知宗門語句，如滿口含冰，不曾道著水<pb ed="B" xml:id="B27.0151.0452b" n="0452b"/>
+<lb ed="B" n="0452b01"/>字。」復曰：「子根太利，須是死却，全心始得。」<persName key="A011738">誾</persName>再拜受教，即閉關六
+<lb ed="B" n="0452b02"/>載。中懸大鏡，對之趺坐，纔覺業識心動，便指摘鏡中人。久之，收
+<lb ed="B" n="0452b03"/>放自然，作《雪關歌》。<persName key="A000114">山</persName>見之，擊節稱善，乃為啟關。<date from-iso="+1632-02-20" key="j23171862317539" to-iso="+1633-02-07">壬申</date>，<persName key="A004907">曹能始</persName>觀
+<lb ed="B" n="0452b04"/>察請開法當山。解制上堂曰：「九十日期已滿，閉門作活事。不曾
+<lb ed="B" n="0452b05"/>揑殺獼猴子，重疊山關未易過，大抵末法禪期真參，罕遇縱他
+<lb ed="B" n="0452b06"/>意樹抽枝，未見心花成片。雖然如是冷冷，豈無一粒豆煼？有不
+<lb ed="B" n="0452b07"/>跨石門，扶持祖風者乎？如無且向蘆花深處宿，月明穿過釣魚
+<lb ed="B" n="0452b08"/>臺。<!-- 《雪關禪師語錄》卷2：「九十日期今已滿閉門作活事如何不曾捏殺獼猴子重疊關山未易過末法禪期真
+參罕遇口苔舌醭誰到未萌縱他意樹抽枝未見心花成片然雖如是冷灰裏豈無一粒豆爆還有不跨石門扶豎晏祖門風者麼如無且向蘆花深處宿月
+明穿過釣魚臺。」(CBETA, J27, no. B198, p. 450, c18-23) -->」未幾示寂，建塔博山。<persName key="A011738">誾</persName>亦能詩詠，天鏡巗云：「扁<!-- 《雪關和尚語錄》卷6：「扃秘靈奇久鴻濛」(CBETA, J27, no. B199, p. 561, a21) -->秘靈奇久，鴻
+<lb ed="B" n="0452b09"/>濛忽啟藏，巗吞江霧白，泉灑洞門涼，鏡可容天面，窗惟貯月光，
+<lb ed="B" n="0452b10"/>道人何所見，一鳥過滄浪。」惜多佚兦。</p>
+    <linkGrp>
+        <link targets="#0452a17 #0452b03"/>
+        <ptr target="#A011738" type="person"/>
+        <ptr target="#A000114" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0452b03 #0452b04"/>
+        <ptr target="#A011738" type="person"/>
+        <ptr target="#A004907" type="person"/>
+        <ptr target="#j23171862317539" type="time"/>
+    </linkGrp>
+</div>

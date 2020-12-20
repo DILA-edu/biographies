@@ -1,22 +1,79 @@
 <?xml version='1.0' encoding='utf-8'?>
-<div xmlns="http://www.tei-c.org/ns/1.0" type="雜識">
-
-<lb ed="B" n=""/><anchor n="B.27.0151"/>
-                    <head>明虎邱靈巗寺沙門釋至仁傳<persName type="secondary">心覺　德珉</persName>
-                    </head>
-                <p xml:id="pB27p0448b0901">釋至仁字行中姓吳氏番陽人晚號澹居子又號熙怡子父仲
-<lb ed="B" n="0448b10"/>華江州廣文仁五歲其親使拜報恩寺真純牧公七歲得度西
-<lb ed="B" n="0448b11"/>土控空上人赴英宗召便道憇報恩見而歎曰再世人天師也
-<lb ed="B" n="0448b12"/>令參厚叟於雙徑叟喜謂曰仁書記虎而翼者也出世蘄之德
-<lb ed="B" n="0448b13"/>章越之雲頂崇報吳之萬壽明洪武三年來往虎邱之雲巗道
-<lb ed="B" n="0448b14"/>涵德隆四眾雲集旁通外經尤邃於易發為詞章嚴簡而有法
-<lb ed="B" n="0448b15"/>務在匡宗不以此自多嘗撰黃州蘇文忠祠堂記虞道園稱其
-<lb ed="B" n="0448b16"/>文言謹奧有西漢風張潞公寄以詩曰今代能仁叟高風播海
-<lb ed="B" n="0448b17"/>涯宋文憲亦曰虎邱尊者名浮屠見性炯若摩尼珠被召至京
-<lb ed="B" n="0448b18"/>以佛旨為書而對太祖大喜洪武十五年三月十九日示寂壽
-<lb ed="B" n="0448b19"/>七十四臘六十七又心覺源住虎邱名德推重郡人易恒詩有
-<lb ed="B" n="0448b20"/>白雲尋老衲有約不須招之句又姚少師廣孝詩所謂聞道蟾
-<pb ed="B" xml:id="B27.0151.0449a" n="0449a"/>
-<lb ed="B" n="0449a01"/>公似贊公一瓶一缽寄山中者是也與高啟徐賁為詩友德珉
-<lb ed="B" n="0449a02"/>字伯貞號在牕嘉興人洪熙間住虎邱工詩</p>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="雜識" xml:id="gsz0448b08shiZhiRen">
+<lb ed="B" n="0448b08"/><anchor n="B.27.0151.0448b08"/><head>明虎邱靈巗寺沙門<persName key="A014441">釋至仁</persName>傳<persName type="secondary" key="A043866">心覺</persName><persName type="secondary" key="A043866">德珉</persName></head>
+<lb ed="B" n="0448b09"/><p xml:id="pB27p0448b0901"><persName key="A014441">釋至仁</persName>字<persName key="A014441">行中</persName>，姓吳氏，番陽人，晚號<persName key="A014441">澹居子</persName>，又號<persName key="A014441">熙怡子</persName>。父<persName key="A043864">仲
+<lb ed="B" n="0448b10"/>華</persName>，江州廣文<!-- 清苦的文學教官 -->。<persName key="A014441">仁</persName>五歲其親使拜報恩寺<persName key="A043865">真純牧<roleName>公</roleName></persName>，七歲得度。西
+<lb ed="B" n="0448b11"/>土<persName key="A000842">控空<roleName>上人</roleName></persName>赴<persName key="A006670">英宗</persName>召，便道憇報恩，見而歎曰：「再世人天師也。」
+<lb ed="B" n="0448b12"/>令參<persName key="A001032">厚叟</persName>於雙徑。<persName key="A001032">叟</persName>喜謂曰：「<persName key="A014441">仁</persName>書記，虎而翼者也。」出世蘄之德
+<lb ed="B" n="0448b13"/>章，越之雲頂崇報，吳之萬壽。<date from-iso="+1370-02-05" key="j22214782221831" to-iso="+1371-01-24">明洪武三年</date>來往虎邱之雲巗，道
+<lb ed="B" n="0448b14"/>涵德隆，四眾雲集。旁通外經，尤邃於《易》，發為詞章，嚴簡而有法。
+<lb ed="B" n="0448b15"/>務在匡宗，不以此自多。嘗撰《黃州蘇文忠祠堂記》，<persName key="A001032">虞道園</persName>稱其
+<lb ed="B" n="0448b16"/>「文言謹奧，有西漢風」。<persName key="A022291">張潞公</persName>寄以詩曰：「今代能<persName key="A014441">仁</persName>叟，高風播海
+<lb ed="B" n="0448b17"/>涯。」<persName key="A007271">宋文憲</persName>亦曰：「虎邱尊者名浮屠，見性炯若摩尼珠。」被召至京，
+<lb ed="B" n="0448b18"/>以佛旨為書而對，<persName key="A003672">太祖</persName>大喜。<date when-iso="+1382-05-10" key="j222259552225955">洪武十五年三月十九日</date>示寂，壽
+<lb ed="B" n="0448b19"/>七十四，臘六十七。又<persName key="A043866">心覺源</persName>住虎邱，名德推重。郡人<persName key="A043867">易恒</persName>詩有
+<lb ed="B" n="0448b20"/>「白雲尋老衲，有約不須招」之句。又<persName key="A001522">姚<roleName>少師</roleName>廣孝</persName>詩所謂「聞道蟾<pb ed="B" xml:id="B27.0151.0449a" n="0449a"/>
+<lb ed="B" n="0449a01"/>公似贊公，一瓶一缽寄山中」者是也。與<persName key="A009023">高啟</persName>、<persName key="A043868">徐賁</persName>為詩友。<persName key="A043869">德珉</persName>
+<lb ed="B" n="0449a02"/>字<persName key="A043869">伯貞</persName>，號<persName key="A043869">在牕</persName>，嘉興人。<date from-iso="+1425-01-29" key="j22415592241942" to-iso="+1426-02-16">洪熙間</date>住虎邱，工詩。</p>
+    <linkGrp>
+        <link targets="#0448b09 #0448b10"/>
+        <ptr target="#A014441" type="person"/>
+        <ptr target="#A043864" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0448b10 #0448b10"/>
+        <ptr target="#A014441" type="person"/>
+        <ptr target="#A043865" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0448b11 #0448b11"/>
+        <ptr target="#A014441" type="person"/>
+        <ptr target="#A000842" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0448b11 #0448b11"/>
+        <ptr target="#A006670" type="person"/>
+        <ptr target="#A000842" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0448b12 #0448b12"/>
+        <ptr target="#A014441" type="person"/>
+        <ptr target="#A001032" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0448b15 #0448b16"/>
+        <ptr target="#A014441" type="person"/>
+        <ptr target="#A001032" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0448b16 #0448b16"/>
+        <ptr target="#A014441" type="person"/>
+        <ptr target="#A022291" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0448b17 #0448b17"/>
+        <ptr target="#A014441" type="person"/>
+        <ptr target="#A007271" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0448b18 #0448b18"/>
+        <ptr target="#A014441" type="person"/>
+        <ptr target="#A003672" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0448b19 #0448b19"/>
+        <ptr target="#A043866" type="person"/>
+        <ptr target="#A043867" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0448b20 #0448b20"/>
+        <ptr target="#A043866" type="person"/>
+        <ptr target="#A001522" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0449a01 #0449a01"/>
+        <ptr target="#A043866" type="person"/>
+        <ptr target="#A009023" type="person"/>
+        <ptr target="#A043868" type="person"/>
+    </linkGrp>
 </div>

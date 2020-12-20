@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="雜識" xml:id="gsz0449a03shiZongFan">
+<lb ed="B" n="0449a03"/><anchor n="B.27.0151.0449a03"/><head>明福州鼓山湧泉寺沙門<persName key="A021785">釋宗繁</persName>傳<persName type="secondary">善緣</persName></head>
+<lb ed="B" n="0449a04"/><p xml:id="pB27p0449a0401"><persName key="A021785">釋宗繁</persName>，字<persName key="A021785">獨芳</persName>，姓陳氏，閩人也。年十六從鼓山光嚴得度，出嶺
+<lb ed="B" n="0449a05"/>參天界寺<persName key="A009718">芳林</persName>。<date from-iso="+1382-01-23" key="j22258482226231" to-iso="+1383-02-10">明洪武壬<anchor xml:id="beg_1fc" type="cb-app"/>戌<anchor xml:id="end_1fc"/></date>舉住舒州浮山，<date from-iso="+1389-02-05" key="j22284182228771" to-iso="+1390-01-24"><anchor xml:id="beg_1fd" type="cb-app"/>己<anchor xml:id="end_1fd"/><anchor xml:id="beg_1fe" type="cb-app"/>巳<anchor xml:id="end_1fe"/></date>，閩郡僧綱舉
+<lb ed="B" n="0449a06"/>送教府，考選中程<!-- 合乎法度 -->，主席當山。<persName key="A021785">繁</persName>富於文學，尤擅詩名。與郡人<persName key="A043870">唐
+<lb ed="B" n="0449a07"/>震</persName>、<persName key="A043871">王褒</persName>、<persName key="A043872">周元</persName>、<persName key="A043873">王偁</persName>為友，多所唱和，有詩集行世。寂於<date from-iso="+1402-02-11" key="j22331712233525" to-iso="+1403-01-31">壬午</date>，葬祖
+<lb ed="B" n="0449a08"/>塔。<persName key="A021787">善緣</persName>字<persName key="A021787">了心</persName>，侯官姚氏子。七歲依城東寶峰庵<persName key="A043874">無塵</persName>出家，參
+<lb ed="B" n="0449a09"/>鼓山<persName key="A042278">藍田</persName>。後住南京靈谷寺，禮僧錄闡教<persName key="A001101">幻居</persName>大師。<date from-iso="+1405-02-09" key="j22342652234618" to-iso="+1406-01-28">永樂三年</date>
+<lb ed="B" n="0449a10"/>鼓山虛席，領檄主之，建千佛閣。<date from-iso="+1407-02-17" key="j22350032235091" to-iso="+1407-05-16">五年春</date>詔設廣薦大會於蔣山，
+<lb ed="B" n="0449a11"/>徵天下名僧。<persName key="A021787">善緣</persName>應詔入京，說法稱旨，恩賚甚渥，賜號<persName key="A021787">成就</persName>。<date from-iso="+1407-08-12" key="j22351792235267" to-iso="+1407-11-08">秋</date>
+<lb ed="B" n="0449a12"/>歸，舉任都綱。後寺燬於火，<persName key="A021787">善緣</persName>重興殿閣及諸寮舍。<date from-iso="+1430-02-02" key="j22433892243772" to-iso="+1431-02-20">宣德庚<anchor xml:id="beg_1ff" type="cb-app"/>戌<anchor xml:id="end_1ff"/></date>
+<lb ed="B" n="0449a13"/>還珠閣壞，更為募建。<date from-iso="+1431-02-21" key="j22437732244127" to-iso="+1432-02-10">明年</date>落成，<date from-iso="+1431-11-14" key="j22440392244068" to-iso="+1431-12-13">十月</date>示微疾，<date when-iso="+1431-12-02" key="j22440572244057">十九日</date>沐浴更衣，
+<lb ed="B" n="0449a14"/>口述生平行業，命侍僧書之。所積金穀，悉委其徒命剏大殿、三
+<lb ed="B" n="0449a15"/>門。語終而寂，塔於獅峰。著有《靈源集》，蓋取鼓山前代老宿事實
+<lb ed="B" n="0449a16"/>編為敘傳，及名人文藝，為山志之權輿<!-- 起始 -->。後<persName key="A043875">黃用中</persName>、<persName key="A005179">徐興公</persName>相繼
+<lb ed="B" n="0449a17"/>纂輯，即本於<persName key="A021787">善緣</persName>。</p>
+    <linkGrp>
+        <link targets="#0449a04 #0449a05"/>
+        <ptr target="#A021785" type="person"/>
+        <ptr target="#A009718" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0449a06 #0449a07"/>
+        <ptr target="#A021785" type="person"/>
+        <ptr target="#A043870" type="person"/>
+        <ptr target="#A043871" type="person"/>
+        <ptr target="#A043872" type="person"/>
+        <ptr target="#A043873" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0449a08 #0449a08"/>
+        <ptr target="#A021787" type="person"/>
+        <ptr target="#A043874" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0449a09 #0449a09"/>
+        <ptr target="#A021787" type="person"/>
+        <ptr target="#A042278" type="person"/>
+    </linkGrp>
+</div>

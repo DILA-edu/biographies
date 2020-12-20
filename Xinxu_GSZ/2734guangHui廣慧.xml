@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="雜識" xml:id="gsz0450b05shiGuangHui">
+<lb ed="B" n="0450b05"/><anchor n="B.27.0151.0450b05"/><head>明雲昆明寺沙門<persName key="A012590">釋廣慧</persName>傳<persName type="secondary" key="A043883">天祥</persName></head>
+<lb ed="B" n="0450b06"/><p xml:id="pB27p0450b0601"><persName key="A012590">釋廣慧</persName>，字<persName key="A012590">野愚</persName>，嵩明人。幼習詩書，才情開敏，既通文理，尤契玄
+<lb ed="B" n="0450b07"/>機。後得法於<persName key="A011996">水月<roleName>禪師</roleName></persName>，便事遊參。行腳江南數十載始歸滇，胸
+<lb ed="B" n="0450b08"/>懷廓落居無定，所而學藝日進，雅望益崇。著有《頌古百則》、《漚花
+<lb ed="B" n="0450b09"/>集》諸編。其他題詠頗富，有《雞足山觀風》一絕，云：「遊徧蒼崖盡法
+<lb ed="B" n="0450b10"/>身，誰云門內更藏真；相逢欲問拈花事，千古空傳獻笑人。」<persName key="A007780">聚洲
+<lb ed="B" n="0450b11"/>王<roleName>太史</roleName></persName>以師禮事之。後於昆明示寂，闍維獲舍利，手骨赤如珊
+<lb ed="B" n="0450b12"/>瑚。辭世偈云：「一句原無，踏倒太初；非凡非聖，萬象如如。」後有<persName key="A043883">天
+<lb ed="B" n="0450b13"/>祥</persName>者，不知何許人，居大理城中。《通志》載其詩有〈聞角〉一絕云：「十
+<lb ed="B" n="0450b14"/>年遊子在天涯，半夜秋風又憶家；恨殺葉榆城上角，曉來吹入
+<lb ed="B" n="0450b15"/>小梅花。」又題〈龍關水樓〉云：「此樓登眺好，終日俯平湖；葉盡村村
+<lb ed="B" n="0450b16"/>樹，花殘岸岸蘆；漁翁晴獨釣，沙鳥晚相呼；何處微鐘動，雲藏島
+<lb ed="B" n="0450b17"/>寺孤。」有禪外意。</p>
+    <linkGrp>
+        <link targets="#0450b07 #0450b07"/>
+        <ptr target="#A012590" type="person"/>
+        <ptr target="#A011996" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0450b10 #0450b11"/>
+        <ptr target="#A012590" type="person"/>
+        <ptr target="#A007780" type="person"/>
+    </linkGrp>
+</div>

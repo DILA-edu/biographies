@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="雜識" xml:id="gsz0451a19shiHanHui">
+<lb ed="B" n="0451a19"/><anchor n="B.27.0151.0451a19"/><head>明荊州天皇寺沙門<persName key="A043888">釋寒灰</persName>傳<persName type="secondary" key="A043889">常鎮</persName><persName type="secondary" key="A043890">碧空</persName></head>
+<lb ed="B" n="0451a20"/><p xml:id="pB27p0451a2001"><persName key="A043888">釋寒灰</persName>，不知何許人。善誦梵唄，杭聲高引，字句清圓，響入重霄，<pb ed="B" xml:id="B27.0151.0451b" n="0451b"/>
+<lb ed="B" n="0451b01"/>令人聞之竦然起敬。<date notBefore-iso="+1573-02-12" key="j22956292312992" notAfter-iso="+1620-08-27">萬曆間</date>來棲天皇。嘗以香水和金汁寫《金
+<lb ed="B" n="0451b02"/>剛經》，從朝至暮，手不遑息。偶近黃昏，几上無鐙，若有微光，筆不
+<lb ed="B" n="0451b03"/>停書。便入初夜，因饑思食，纔一轉瞬，即呈黑暗。<g ref="#CB24336">𧦝</g>火視之，字畫
+<lb ed="B" n="0451b04"/>端嚴，無異平日。同時有<persName key="A043889">常鎮</persName>，字<persName key="A043889">玉葊</persName>者，當陽李氏子也。好學不
+<lb ed="B" n="0451b05"/>倦，於孔墨莊老，無所不讀。一日閱佛書，悟三界無安，猶如火宅，
+<lb ed="B" n="0451b06"/>悚然學出世法。與<persName key="A043890">碧空<roleName>禪師</roleName></persName>水乳交融，乃說髮焉。<persName key="A043889">鎮</persName>風度端凝，
+<lb ed="B" n="0451b07"/>神采挺秀，士大夫咸推重之。每講《摩訶止觀》《大智度論》《涅槃》諸
+<lb ed="B" n="0451b08"/>經，聽者萬指。嘗有偈云：「珠泉白日淨，塔影半空沈；門外長安路，
+<lb ed="B" n="0451b09"/>雲中智者心。」時南大理寺卿<persName key="A009366">陳夕矚</persName>贈詩有「詩能譚上界，我亦
+<lb ed="B" n="0451b10"/>恉西方」之句。居寺三十五載，德流緇素，名播中外。以<date when-iso="+1581-11-23" key="j22988352298835">萬曆九年
+<lb ed="B" n="0451b11"/>十月十七日</date>示寂，塔於大通寺後。其辭世偈云：「彌陀此日來，山
+<lb ed="B" n="0451b12"/>僧此日去；登高一乂天，撒手雲深處。雲深處，沒毀譽，吾道一貫
+<lb ed="B" n="0451b13"/>之，原來是忠恕。」</p>
+    <linkGrp>
+        <link targets="#0451b04 #0451b06"/>
+        <ptr target="#A043889" type="person"/>
+        <ptr target="#A043890" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0451b09 #0451b09"/>
+        <ptr target="#A043889" type="person"/>
+        <ptr target="#A009366" type="person"/>
+    </linkGrp>
+</div>

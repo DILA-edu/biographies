@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="雜識" xml:id="gsz0451b14shiXingJing">
+<lb ed="B" n="0451b14"/><anchor n="B.27.0151.0451b14"/><head>明永嘉西岑紫芝峰沙門<persName key="A042417">釋性靜</persName>傳</head>
+<lb ed="B" n="0451b15"/><p xml:id="pB27p0451b1501"><persName key="A042417">釋性靜</persName>，字<persName key="A042417">普緣</persName>，武林人也。初淨髮於西湖，久之弗怡，攜所貯手
+<lb ed="B" n="0451b16"/>掣<!-- 製 -->茶策杖天台千丈瀑下，及五泄龍湫遍試之。至永嘉聞西岑
+<lb ed="B" n="0451b17"/>紫芝峰下有鑑泉，為<persName key="A043891">張又新</persName>守郡時烹茶水，亟荷瓶往。至則一
+<lb ed="B" n="0451b18"/>泓冰冽，出旗鎗瀹鬬，不在中櫺惠山下。逌然曰：「吾老是山矣。」遂
+<lb ed="B" n="0451b19"/>卓庵其旁。穀雨團黃<!-- 團黃，茶名 -->競芽，走大羅諸絕巘，摘盈簏肩歸，以意製
+<lb ed="B" n="0451b20"/>之。越宿茶成，注諸甌令雪黑，浮香撲案，啜之。一時遐邇噪紫：紫<pb ed="B" xml:id="B27.0151.0452a" n="0452a"/>
+<lb ed="B" n="0452a01"/>芝峯下僧茶特異。凡高人墨客，名緇勝羽及薦紳先生，赴如奔
+<lb ed="B" n="0452a02"/>泉。<persName key="A042417">靜</persName>不殊彼我，操單持滌鐺注缶，人人自以新遘<persName key="A023092">盧玉川</persName>癖，歸
+<lb ed="B" n="0452a03"/>而吸他茶便不爾。或詩渴酒醒，亟詣雙杵荼，煙下乞一杯，如醍
+<lb ed="B" n="0452a04"/>醐灌頂。性簡率，冬夏一方布袍。修幹鶴<g ref="#CB03383">𦡱</g>，留髭伐髮。或兼旬孏
+<lb ed="B" n="0452a05"/>薙，毿毿被兩耳。晨昏無恒課，而魚磬自若。不輕度弟子，而道侶
+<lb ed="B" n="0452a06"/>日相問訊。所居不過茅茨，而盛飾一無量壽佛像，窮極莊嚴。客
+<lb ed="B" n="0452a07"/>至伺陸竈水沸，開雲腳浮，乳花引滿<!-- 斟滿 -->。別去，不講道說偈，而禪味
+<lb ed="B" n="0452a08"/>醰醰<!-- 醇厚 -->，直從舌根證入。<persName key="A011057">林<roleName>殿閣</roleName>任先</persName>，<persName key="A043892">劉<roleName>方伯</roleName>元受</persName>，邵水部<!-- 都水司 -->金門<persName key="A043893">周
+<lb ed="B" n="0452a09"/>雪朗</persName>、<persName key="A043894">陳三有</persName>兩孝廉咸與之遊，皆深徹佛旨，謂<persName key="A042417">靜</persName>乃透悟，如<persName key="A004475">趙
+<lb ed="B" n="0452a10"/>州</persName>喚喫荼者，不是過也。而自起鑪竈，獨闢心傳，熱鐺熾炭煆，十
+<lb ed="B" n="0452a11"/>指如舌錐。其餽遠則署曰「普緣荼」，得之者珍異如摩尼珠。優曇
+<lb ed="B" n="0452a12"/>花不必曹溪一花五葉而後侈盛也。<persName key="A042417">靜</persName>以<date from-iso="+1620-02-04" key="j23127872313139" to-iso="+1621-01-21">明萬曆庚申</date>住此山，
+<lb ed="B" n="0452a13"/>至<date when-iso="+1625-11-10" key="j23148932314893"><anchor xml:id="beg_202" type="cb-app"/>己<anchor xml:id="end_202"/>丑十月十有一日</date>示寂郭仙庵，荼毗葬紫芝峯下。<persName key="A042699">李象坤</persName>
+<lb ed="B" n="0452a14"/>為作《茶祖禪師塔銘》，文詞清麗，自載別集。</p>
+    <linkGrp>
+        <link targets="#0452a08 #0452a10"/>
+        <ptr target="#A042417" type="person"/>
+        <ptr target="#A011057" type="person"/>
+        <ptr target="#A043892" type="person"/>
+        <ptr target="#A043893" type="person"/>
+        <ptr target="#A043894" type="person"/>
+    </linkGrp>
+</div>

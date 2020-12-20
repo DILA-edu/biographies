@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="雜識" xml:id="gsz0450b18shiGuangHui">
+<lb ed="B" n="0450b18"/><anchor n="B.27.0151.0450b18"/><head>明杭州雲居聖水寺沙門<persName key="A042204">釋照兼</persName>傳<persName type="secondary" key="A042203">清蔭</persName><persName type="secondary" key="A043887">寂章</persName></head>
+<lb ed="B" n="0450b19"/><p xml:id="pB27p0450b1901"><persName key="A042204">釋照兼</persName>，字<persName key="A042204">守泉</persName>，姓陳氏，海鹽人。幼而機警，性復慷慨，以利濟為
+<lb ed="B" n="0450b20"/>心。九歲出家，為小沙彌，從塾師受四子書，讀《孟子》至〈盡心章〉恍<pb ed="B" xml:id="B27.0151.0451a" n="0451a"/>
+<lb ed="B" n="0451a01"/>然曰：「心藏佛者也，性即佛也，見性則見佛，見佛則無佛，而後可
+<lb ed="B" n="0451a02"/>以證道。」乃屏雜家，專究釋典。又念人生斯世，須有功德及物，慈
+<lb ed="B" n="0451a03"/>航普濟，願力深廣，未克一時了償，因欲量力拯救，隨緣施捨，拔
+<lb ed="B" n="0451a04"/>去疾苦，則事易舉。於是禪習之餘，更習醫方，詳繹內經靈素<!-- 《雲居聖水寺志．卷4．守泉禪師傳》：「乃學醫詳繹內經，靈素諸書，洞曉方脈」(《中國佛寺史志彙刊》，第1輯，第27冊，頁0153) -->，洞
+<lb ed="B" n="0451a05"/>曉脈理，活人不可勝計。嘉靖中運，<persName key="A007384">分宜</persName>用事，瘡痍遍世，忠良莫
+<lb ed="B" n="0451a06"/>保。<persName key="A042204">照</persName>慨然，欲如京師面短之，同侶咸謂：「非僧家所宜。」乃止。然每
+<lb ed="B" n="0451a07"/>中夜趺坐，北向長吁不置云。嘗闢外麓山房，延接名流，更設藥
+<lb ed="B" n="0451a08"/>局，以宏胞與。與人談論，洋洋灑灑，終日無倦容。見有疾，則愀然
+<lb ed="B" n="0451a09"/>為之不樂，若大病之臨身也。茶毗後瘞安樂山塔。弟子<persName key="A042203">清蔭</persName>字
+<lb ed="B" n="0451a10"/><persName key="A042203">宏泉</persName>，嘉興蔡氏子。少聰敏，薙髮外麓，襲<persName key="A042204">照</persName>業以醫鳴於時。而修
+<lb ed="B" n="0451a11"/>持益力，因往平窰<persName key="A015872">聞谷<roleName>大師</roleName></persName>所受具足戒。歸請徑山<persName key="A043884">義航<roleName>法師</roleName></persName>
+<lb ed="B" n="0451a12"/>說《楞嚴》、《般若》諸經。有<persName key="A043885">楚才</persName>者，重建圓通閣，未畢而歿。<persName key="A042203">蔭</persName>為勉力
+<lb ed="B" n="0451a13"/>成之。復倡修大雄殿，木商<persName key="A043886">倪作霖</persName>曾受病，幾瀕於危，為<persName key="A042203">蔭</persName>所全
+<lb ed="B" n="0451a14"/>活。因施三百金購大木，以畢其願。及<persName key="A042203">蔭</persName>寂，塔於西山月桂峰下
+<lb ed="B" n="0451a15"/>後數十年，開拓禪房，猶用其遺材不盡云。又<persName key="A043887">寂章</persName>字<persName key="A043887">密印</persName>，桐鄉
+<lb ed="B" n="0451a16"/>毛氏子。自幼披剃，受具足於靈隱<persName key="A016082">具德<roleName>禪師</roleName></persName>。以醫能救濟眾生，
+<lb ed="B" n="0451a17"/>遂紹<persName key="A042203">宏泉</persName>之業，且謂人曰：「不能作人天師，何弗精岐黃術。」可想
+<lb ed="B" n="0451a18"/>見其為人。</p>
+    <linkGrp>
+        <link targets="#0451a09 #0451a09"/>
+        <ptr target="#A042204" type="person"/>
+        <ptr target="#A042203" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0451a11 #0451a11"/>
+        <ptr target="#A015872" type="person"/>
+        <ptr target="#A042203" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0451a11 #0451a12"/>
+        <ptr target="#A043884" type="person"/>
+        <ptr target="#A042203" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0451a13 #0451a14"/>
+        <ptr target="#A043886" type="person"/>
+        <ptr target="#A042203" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0451a15 #0451a16"/>
+        <ptr target="#A016082" type="person"/>
+        <ptr target="#A043887" type="person"/>
+    </linkGrp>
+</div>

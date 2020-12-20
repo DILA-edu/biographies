@@ -1092,18 +1092,18 @@
         <anchor n="B.27.0151.0447b11"/>
         <head>新續高僧傳四集卷第六十二</head>
         <lb n="0447b13" ed="B"/><p>雜識篇第十之三(正傳十五人　附見十九人)</p>
-        <xi:include href="2728-明海鹽福臻寺沙門釋梵琦傳梅雪.xml"/><!--明海鹽福臻寺沙門釋梵琦傳梅雪-->
+        <xi:include href="2728fanQi梵琦.xml"/><!--明海鹽福臻寺沙門釋梵琦傳梅雪-->
         <xi:include href="2729zhiRen至仁.xml"/>
-        <xi:include href="2730-明福州鼓山湧泉寺沙門釋宗繁傳善緣.xml"/><!--明福州鼓山湧泉寺沙門釋宗繁傳善緣-->
-        <xi:include href="2731-明泉州開元東塔院沙門釋正派傳無斷.xml"/><!--明泉州開元東塔院沙門釋正派傳無斷-->
-        <xi:include href="2732-明燕京萬福寺沙門釋淨倫傳覺明_覺義_波羅.xml"/><!--明燕京萬福寺沙門釋淨倫傳覺明_覺義_波羅-->
+        <xi:include href="2730zongFan宗繁.xml"/><!--明福州鼓山湧泉寺沙門釋宗繁傳善緣-->
+        <xi:include href="2731zhengPai正派.xml"/><!--明泉州開元東塔院沙門釋正派傳無斷-->
+        <xi:include href="2732jingLun淨倫.xml"/><!--明燕京萬福寺沙門釋淨倫傳覺明_覺義_波羅-->
         <xi:include href="2733manXiu滿秀.xml"/><!--明荊州普仰寺沙門釋滿秀傳正海_死心-->
-        <xi:include href="2734-明雲昆明寺沙門釋廣慧傳天祥.xml"/><!--明雲昆明寺沙門釋廣慧傳天祥-->
-        <xi:include href="2735-明杭州雲居聖水寺沙門釋照兼傳清蔭_寂章.xml"/><!--明杭州雲居聖水寺沙門釋照兼傳清蔭_寂章-->
-        <xi:include href="2736-明荊州天皇寺沙門釋寒灰傳常鎮_碧空.xml"/><!--明荊州天皇寺沙門釋寒灰傳常鎮_碧空-->
-        <xi:include href="2737-明永嘉西岑紫芝峰沙門釋性靜傳.xml"/><!--明永嘉西岑紫芝峰沙門釋性靜傳-->
-        <xi:include href="2738-明福州鼓山湧泉寺沙門釋智誾傳.xml"/><!--明福州鼓山湧泉寺沙門釋智誾傳-->
-        <xi:include href="2739-明金陵棲賢庵寺沙門釋性潔傳.xml"/><!--明金陵棲賢庵寺沙門釋性潔傳-->
+        <xi:include href="2734guangHui廣慧.xml"/><!--明雲昆明寺沙門釋廣慧傳天祥-->
+        <xi:include href="2735zhaoJian照兼.xml"/><!--明杭州雲居聖水寺沙門釋照兼傳清蔭_寂章-->
+        <xi:include href="2736hanHui寒灰.xml"/><!--明荊州天皇寺沙門釋寒灰傳常鎮_碧空-->
+        <xi:include href="2737xingJing性靜.xml"/><!--明永嘉西岑紫芝峰沙門釋性靜傳-->
+        <xi:include href="2738zhiYin智誾.xml"/><!--明福州鼓山湧泉寺沙門釋智誾傳-->
+        <xi:include href="2739xingJie性潔.xml"/><!--明金陵棲賢庵寺沙門釋性潔傳-->
         <xi:include href="2740siMing思明.xml"/><!--明雲南石寶山寶居沙門釋思明傳大錯_警秀-->
         <xi:include href="2741-明杭州雲居聖水寺沙門釋德璩傳德一_德言.xml"/><!--明杭州雲居聖水寺沙門釋德璩傳德一_德言-->
         <xi:include href="2742chaoHong超弘.xml"/><!--明福州雪寺沙門釋超弘傳-->

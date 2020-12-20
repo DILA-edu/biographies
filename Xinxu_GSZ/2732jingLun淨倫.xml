@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="雜識" xml:id="gsz0449b09shiJingLun">
+<lb ed="B" n="0449b09"/><anchor n="B.27.0151.0449b09"/><head>明燕京萬福寺沙門<persName key="A001105">釋淨倫</persName>傳<persName type="secondary" key="A043881">覺明</persName><persName type="secondary" key="A043882">覺義</persName><persName type="secondary" key="A020046">波羅</persName></head>
+<lb ed="B" n="0449b10"/><p xml:id="pB27p0449b1001"><persName key="A001105">釋淨倫</persName>，字<persName key="A001105">大巍</persName>，姓康氏，昆明人也。幼性敏慧，卓越不凡。<date from-iso="+1440-02-12" key="j22470512247405" to-iso="+1441-01-31">明正統
+<lb ed="B" n="0449b11"/>庚申</date>，禮大華<persName key="A043878">無極泰</persName>出家受禪學。<date from-iso="+1448-02-14" key="j22499752250328" to-iso="+1449-02-01">戊辰</date>謁<persName key="A043879">大方</persName>。<date from-iso="+1463-01-29" key="j22554382255820" to-iso="+1464-02-15">天順癸未</date>參<persName key="A001339">古
+<lb ed="B" n="0449b12"/>庭</persName>於浮山。一日問答間，偶呈偈曰：「叢林處處播春風，此日尋師
+<lb ed="B" n="0449b13"/>到別峯；末後聲前句非句，寫在山河大地中。」<persName key="A001339">庭</persName>喜，遂入室授法，
+<lb ed="B" n="0449b14"/>為臨濟二十四世。薄團深穩，極盡玄玅。<date from-iso="+1465-02-05" key="j22561762256530" to-iso="+1466-01-25">成化乙酉</date>，卓錫都城，創
+<lb ed="B" n="0449b15"/>萬福禪林。宗風鬯懋，緇白來者無虛日。<date from-iso="+1483-02-16" key="j22627612263115" to-iso="+1484-02-05">癸卯</date>登五臺，<date from-iso="+1490-01-30" key="j22653012265684" to-iso="+1491-02-17">弘治庚<anchor xml:id="beg_200" type="cb-app"/>戌<anchor xml:id="end_200"/></date>
+<lb ed="B" n="0449b16"/>復遊五臺。<date from-iso="+1492-02-07" key="j22660392266393" to-iso="+1493-01-26">壬子</date>歸竹室，閉戶讀藏，薰室自脩。所著有《竹室集》，多
+<lb ed="B" n="0449b17"/>宗門語。同學有<persName key="A043881">覺明</persName>、<persName key="A043882">覺義</persName>者。<persName key="A043881">明</persName>字<persName key="A043881">絕機</persName>，李氏子；<persName key="A043882">義</persName>字<persName key="A043882">徹堂</persName>，倪氏
+<lb ed="B" n="0449b18"/>子，皆滇城人也，俱為<persName key="A043880">無邊海</persName>弟子，偕參<persName key="A001339">古庭</persName>。一日相與言笑，忽
+<lb ed="B" n="0449b19"/>焉語歇，並坐化去，乃共為一穴，造塔其上，額曰「雙月」。<persName key="A001105">淨倫</persName>為詩
+<lb ed="B" n="0449b20"/>紀之曰：「塔目何緣題作雙月名，道人高行信湛評虛懷，比比冰<pb ed="B" xml:id="B27.0151.0450a" n="0450a"/>
+<lb ed="B" n="0450a01"/>霜清，小朗大朗為弟兄。三十青黃節不更，只觀百歲如長庚。日
+<lb ed="B" n="0450a02"/>嘗一缽和羅羹，庵前孰趁春風畊？有時對月陶幽情，有時坐石
+<lb ed="B" n="0450a03"/>談無生。此身不啻一點晴，雲輕身外，何時能營營？虛空無縫藏
+<lb ed="B" n="0450a04"/>枯形，<anchor xml:id="beg_201" type="cb-app"/>卻<anchor xml:id="end_201"/>把雲根苦，鑿成巗壑含虛兩鏡明，海天瀉影雙珠擎。碧
+<lb ed="B" n="0450a05"/>雞午夜空山鳴，溪頭眠雪泥牛驚。肎<!-- 通「肯」 -->似南陽一片<g ref="#CB12594">䛡</g>頭行，千古
+<lb ed="B" n="0450a06"/>萬古遺嘉聲。」又<persName key="A020046">波羅<roleName>禪師</roleName></persName>，姓趙氏，大理人。初居蒼山，嘗登懸崖，
+<lb ed="B" n="0450a07"/>西向禮佛。洞明經地，後謁諸方，印心於<persName key="A001339">古庭</persName>，歸而禮佛如故。一
+<lb ed="B" n="0450a08"/>日經行巖上，屹然立化。七日不踣，鄉人香燭禱之，輕如一葉，遂
+<lb ed="B" n="0450a09"/>就荼毘。得堅固子七，瘞於浮圖。後人名其壁曰「波羅巗」，山勢巇
+<lb ed="B" n="0450a10"/>嶮，登者凜然，風吹草木，皆作禮佛聲。所立之石，足紋宛然。塔於
+<lb ed="B" n="0450a11"/>蕩山，院宇猶存。</p>
+    <linkGrp>
+        <link targets="#0449b10 #0449b11"/>
+        <ptr target="#A001105" type="person"/>
+        <ptr target="#A043878" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0449b11 #0449b11"/>
+        <ptr target="#A001105" type="person"/>
+        <ptr target="#A043879" type="person"/>
+        <ptr target="#j22499752250328" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0449b11 #0449b12"/>
+        <ptr target="#A001105" type="person"/>
+        <ptr target="#A001339" type="person"/>
+        <ptr target="#j22554382255820" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0449b17 #0450a07"/>
+        <ptr target="#A001105" type="person"/>
+        <ptr target="#A001339" type="person"/>
+        <ptr target="#A043881" type="person"/>
+        <ptr target="#A043882" type="person"/>
+        <ptr target="#A020046" type="person"/>
+    </linkGrp>
+</div>
