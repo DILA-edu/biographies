@@ -1,28 +1,59 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="雜識" xml:id="gsz0454a17shichaoHong">
-<lb ed="B" n="0454a17"/><anchor n="B.27.0151.0454a17"/><head>明福州雪峯寺沙門釋超弘傳</head>
-<lb ed="B" n="0454a18"/><p xml:id="pB27p0454a1801">釋超弘字如幻姓劉氏惠安人也父佑官潮州府學教授家世
-<lb ed="B" n="0454a19"/>儒素生而聰邁髫齒能文手不竚慮十九為諸生屢試冠其曹
-<lb ed="B" n="0454a20"/>受知賞於黃相國石齋才學重於時年二十七嬰劇疾知四大<pb ed="B" xml:id="B27.0151.0454b" n="0454b"/>
-<lb ed="B" n="0454b01"/>匪堅生死事大偶讀維摩詰經益信有宗門向上詣遂有絕塵
-<lb ed="B" n="0454b02"/>之思喜從方外遊值雪峯亘往還黃檗道出惠安邂逅瞻拜便
-<lb ed="B" n="0454b03"/>蒙激發於是矢志皈<g ref="#CB21232">󵋰</g><!-- 歸也，音ㄧ（yī） -->尚覊俗緣荏苒歲月世情愈澹明季喪
-<lb ed="B" n="0454b04"/>亂清兵入關天下改革頒令薙髮弘乃慨然辭父母捨妻子就
-<lb ed="B" n="0454b05"/>平山寺從徹際脫白然戎馬滿郊所在糜沸久之途徑稍通乃
-<lb ed="B" n="0454b06"/>卷裓趨漳依亘師於南山寺止於侍寮痛下鉗鎚多有省悟亘
-<lb ed="B" n="0454b07"/>所居泉之招慶延福會城之芙蓉雪峯弘皆執侍左右殷勤十
-<lb ed="B" n="0454b08"/>載拈頌機答無爽玄旨一日亘問簷前雨聲點點滴向何處眾
-<lb ed="B" n="0454b09"/>所酬對俱未契弘曰否則落在師鼻孔裏亘首肎<!-- 通「肯」 -->之丁酉歲隨
-<lb ed="B" n="0454b10"/>之慶城竟授以衣拂戊<anchor xml:id="beg_203" type="cb-app"/>戌<anchor xml:id="end_203"/>春歸溫陵不常厥居盤桓山水間笠
-<lb ed="B" n="0454b11"/>杖蕭然久之出主靈應寺無香儲恒苦不給因自持缽以資饘
-<lb ed="B" n="0454b12"/>粥乙<anchor xml:id="beg_204" type="cb-app"/>巳<anchor xml:id="end_204"/>霞舒蘇家諸檀樾延居楊梅山雪峯院亦真覺禪師舊
-<lb ed="B" n="0454b13"/>剎也與衲子數輩刀耕火種暇則為說大義道望蔚然距雪峯
-<lb ed="B" n="0454b14"/>二里許有慧泉古基壬子蘇君爾源剏建精藍迎弘居之從此
-<lb ed="B" n="0454b15"/>逍遙兩寺與名流達者詩偈書疏往來酬答十有四載戊午春
-<lb ed="B" n="0454b16"/>年已七十四矣知期將至謂其徒曰曉露春霜光陰無幾可預
-<lb ed="B" n="0454b17"/>建一卵塔身後毋為爾累即啟土督役復自撰銘中夏工就每
-<lb ed="B" n="0454b18"/>言中示意不久於世至十月初始有疾眾進藥食則卻之曰世
-<lb ed="B" n="0454b19"/>緣已盡食無益也客至則執留之曰相見無多日吾當與子訣
-<lb ed="B" n="0454b20"/>笑言不衰二十日沐浴更衣吉祥而逝壽七十四夏三十二著<pb ed="B" xml:id="B27.0151.0455a" n="0455a"/>
-<lb ed="B" n="0455a01"/>述甚富今所傳者瘦松集八卷及語錄二卷</p>
+<lb ed="B" n="0454a17"/><anchor n="B.27.0151.0454a17"/><head>明福州雪峯寺沙門<persName key="A004072">釋超弘</persName>傳</head>
+<lb ed="B" n="0454a18"/><p xml:id="pB27p0454a1801"><persName key="A004072">釋超弘</persName>，字<persName key="A004072">如幻</persName>，姓劉氏，惠安人也。父<persName key="A043912">佑</persName>官潮州府學教授。家世
+<lb ed="B" n="0454a19"/>儒素，生而聰邁，髫齒能文，手不竚慮。<ref type="date" target="#j23138792314262">十九</ref>為諸生，屢試冠其曹，
+<lb ed="B" n="0454a20"/>受知賞於<persName key="A007643">黃<roleName>相國</roleName>石齋</persName>，才學重於時。<ref type="date" target="#j23168022317185">年二十七</ref>嬰劇疾，知四大<pb ed="B" xml:id="B27.0151.0454b" n="0454b"/>
+<lb ed="B" n="0454b01"/>匪堅，生死事大。偶讀《維摩詰經》，益信有宗門向上詣<!-- 《禪宗全書．塔銘》65冊p.543：「有宗門向上一著」 -->，遂有絕塵
+<lb ed="B" n="0454b02"/>之思，喜從方外遊。值<persName key="A003873">雪峯亘</persName>往還黃檗，道出惠安，邂逅瞻拜，便
+<lb ed="B" n="0454b03"/>蒙激發，於是矢志皈<g ref="#CB21232">𠂣</g><!-- 歸也，音ㄧ（yī） -->。尚覊俗緣，荏苒歲月，世情愈澹。明季喪
+<lb ed="B" n="0454b04"/>亂，清兵入關，天下改革，頒令薙髮。<persName key="A004072">弘</persName>乃慨然辭父母，捨妻子，就
+<lb ed="B" n="0454b05"/>平山寺從<persName key="A043913">徹際</persName>脫白。然戎馬滿郊，所在糜沸。久之途徑稍通，乃
+<lb ed="B" n="0454b06"/>卷裓趨漳，依<persName key="A003873">亘</persName>師於南山寺，止於侍寮。痛下鉗鎚，多有省悟。<persName key="A003873">亘</persName>
+<lb ed="B" n="0454b07"/>所居泉之招慶、延福，會城之芙蓉、雪峯，<persName key="A004072">弘</persName>皆執侍左右，殷勤十
+<lb ed="B" n="0454b08"/>載，拈頌機答，無爽玄旨。一日<persName key="A003873">亘</persName>問：「簷前雨聲點點，滴向何處？」眾
+<lb ed="B" n="0454b09"/>所酬對，俱未契。<persName key="A004072">弘</persName>曰：「否則落在師鼻孔裏。<!-- 《禪宗全書．塔銘》65冊p.544：「師曰落在和尚鼻孔裏」 -->」<persName key="A003873">亘</persName>首肎<!-- 通「肯」 -->之。<date from-iso="+1657-02-13" key="j23263112326664" to-iso="+1658-02-01">丁酉歲</date>隨
+<lb ed="B" n="0454b10"/>之慶城，竟授以衣拂。<date from-iso="+1658-02-02" key="j23266652326753" to-iso="+1658-05-01">戊<anchor xml:id="beg_203" type="cb-app"/>戌<anchor xml:id="end_203"/>春</date>歸溫陵，不常厥居，盤桓山水間，笠
+<lb ed="B" n="0454b11"/>杖蕭然。久之出主靈應寺，無香儲，恒苦不給。因自持缽，以資饘
+<lb ed="B" n="0454b12"/>粥。<date from-iso="+1665-02-15" key="j23292352329588" to-iso="+1666-02-03">乙<anchor xml:id="beg_204" type="cb-app"/>巳<anchor xml:id="end_204"/></date>霞舒蘇家諸檀樾延居楊梅山雪峯院，亦<persName key="A003677">真覺禪師</persName>舊
+<lb ed="B" n="0454b13"/>剎也。與衲子數輩，刀耕火種，暇則為說大義，道望蔚然。距雪峯
+<lb ed="B" n="0454b14"/>二里許，有慧泉古基，<date from-iso="+1672-01-30" key="j23317752332158" to-iso="+1673-02-16">壬子</date><persName key="A043914">蘇<roleName>君</roleName>爾源</persName>剏建精藍，迎<persName key="A004072">弘</persName>居之。從此
+<lb ed="B" n="0454b15"/>逍遙兩寺，與名流達者，詩偈書疏，往來酬答，十有四載。<date from-iso="+1678-01-23" key="j23339602334076" to-iso="+1678-05-19">戊午春</date>
+<lb ed="B" n="0454b16"/>年已七十四矣，知期將至，謂其徒曰：「曉露春霜，光陰無幾。可預
+<lb ed="B" n="0454b17"/>建一卵塔，身後毋為爾累。」即啟土督役，復自撰銘。<date from-iso="+1678-06-19" key="j23341072334136" to-iso="+1678-07-18">中夏</date>工就，每
+<lb ed="B" n="0454b18"/>言中示意不久於世。至<date from-iso="+1678-11-14" key="j23342552334284" to-iso="+1678-12-13">十月</date>初始有疾。眾進藥食，則卻之，曰：「世
+<lb ed="B" n="0454b19"/>緣已盡，食無益也。」客至則執留之，曰：「相見無多日，吾當與子訣。」
+<lb ed="B" n="0454b20"/>笑言不衰。<date when-iso="+1678-12-03" key="j23342742334274">二十日</date>沐浴更衣，吉祥而逝，壽七十四，夏三十二。著<pb ed="B" xml:id="B27.0151.0455a" n="0455a"/>
+<lb ed="B" n="0455a01"/>述甚富，今所傳者《瘦松集》八卷及《語錄》二卷。</p>
+    <linkGrp>
+        <link targets="#0454a18 #0454a18"/>
+        <ptr target="#A004072" type="person"/>
+        <ptr target="#A043912" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0454a20 #0454a20"/>
+        <ptr target="#A004072" type="person"/>
+        <ptr target="#A007643" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0454b02 #0454b02"/>
+        <ptr target="#A004072" type="person"/>
+        <ptr target="#A003873" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0454b05 #0454b05"/>
+        <ptr target="#A004072" type="person"/>
+        <ptr target="#A043913" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0454b05 #0454b10"/>
+        <ptr target="#A004072" type="person"/>
+        <ptr target="#A003873" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0454b14 #0454b14"/>
+        <ptr target="#A004072" type="person"/>
+        <ptr target="#A043914" type="person"/>
+        <ptr target="#j23317752332158" type="time"/>
+    </linkGrp>
 </div>
