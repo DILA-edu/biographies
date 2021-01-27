@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="義解" xml:id="gsz0051b20shiFeiZhuo">
+<lb ed="B" n="0051b20"/><anchor n="B.27.0151.0051b20"/><head>遼燕京奉福寺沙門<persName key="A000803">釋非濁</persName>傳</head>
+<lb ed="B" n="0052a01"/><p xml:id="pB27p0052a0101"><persName key="A000803">釋非濁</persName>，字<persName key="A000803">真照</persName>，姓張氏，范陽人。<date from-iso="+1032-02-20" key="j20980402098394" to-iso="+1033-02-08">重熙初</date>禮<persName key="A022385">圓融</persName>國師為師。居無
+<lb ed="B" n="0052a02"/>何，嬰足疾，遯跡盤山，敷課於太白峯顛。每宴坐誦持時，見山靈
+<lb ed="B" n="0052a03"/>部從，敬侍久之，疾漸痊。<date from-iso="+1039-11-25" key="j21008752100962" to-iso="+1040-02-20">重熙八年冬</date>，有詔赴闕。<persName key="A006623">興宗</persName>契厥道要，
+<lb ed="B" n="0052a04"/>寵之紫衣。<date from-iso="+1049-02-11" key="j21042412104595" to-iso="+1050-01-31">十八年</date>授上京管內都僧錄，尋遷燕京管內左街僧
+<lb ed="B" n="0052a05"/>錄。<date from-iso="+1055-09-15" key="j21066482106780" to-iso="+1056-01-25">清寧改元</date>，加崇錄大夫檢校太保。<date from-iso="+1056-01-26" key="j21067812107164" to-iso="+1057-02-12">踰年</date>，晉檢校太傅太尉，賜
+<lb ed="B" n="0052a06"/>號<persName key="A000803">純慧大師</persName>。<persName key="A000803">濁</persName>搜訪闕章，聿修睿典，撰《往生集》二十卷，進呈<ref type="person" target="#A006624">御</ref>
+<lb ed="B" n="0052a07"/>筵，大愜皇愫，鑒賞久之，親為序引，命龕次入藏。<date from-iso="+1060-02-11" key="j21082582108345" to-iso="+1060-05-08">清寧六年春</date>，鑾
+<lb ed="B" n="0052a08"/>輿幸燕，回次花林。<persName key="A000803">濁</persName>侍坐於殿，親受燕京管內懺悔主菩薩戒
+<lb ed="B" n="0052a09"/>師。<date from-iso="+1061-03-01" key="j21086422108670" to-iso="+1061-03-29">明年二月</date>，設壇奉福寺，懺受之徒，不可勝紀。<date from-iso="+1063-05-07" key="j21094392109468" to-iso="+1063-06-05">清寧九年四月</date>，
+<lb ed="B" n="0052a10"/>示疾告終於竹林寺，旋移窆於昌平縣。司空<persName key="A043922">豳國公</persName>仰其高躅，
+<lb ed="B" n="0052a11"/>建立寺塔，并營佛頂尊勝陀羅尼幢，高踰尋丈。庶陵壑有遷而
+<lb ed="B" n="0052a12"/>音塵<!-- 蹤跡、消息 -->不泯。文具《山志》，<persName key="A043923">釋真延</persName>為之記</p>
+    <linkGrp>
+        <link targets="#0052a01 #0052a02"/>
+        <ptr target="#A000803" type="person"/>
+        <ptr target="#A022385" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0052a03 #0052a04"/>
+        <ptr target="#A000803" type="person"/>
+        <ptr target="#A006623" type="person"/>
+        <ptr target="#j21008752100962" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0052a05 #0052a07"/>
+        <ptr target="#A000803" type="person"/>
+        <ptr target="#A006624" type="person"/>
+        <ptr target="#j21067812107164" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0052a07 #0052a08"/>
+        <ptr target="#A000803" type="person"/>
+        <ptr target="#A006624" type="person"/>
+        <ptr target="#j21082582108345" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0052a10 #0052a12"/>
+        <ptr target="#A043922" type="person"/>
+        <ptr target="#A043923" type="person"/>
+    </linkGrp>
+</div>

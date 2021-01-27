@@ -4707,10 +4707,6 @@
 			<lem wit="【大】">籍</lem>
 			<rdg resp="PC-JK-MB" wit="【范】【磧】">藉</rdg>
 		</app>
-		<app from="beg0798sgsz11" ana="appType1b">
-			<lem wit="【大】">晰</lem>
-			<rdg resp="PC-JK-MB" wit="【范】【磧】">晣</rdg>
-		</app>
 		<app from="beg0798sgsz13" ana="appType0">
 			<lem wit="【大】">於</lem>
 			<rdg resp="PC-JK-MB" wit="【范】【磧】">于</rdg>

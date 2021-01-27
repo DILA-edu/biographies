@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="譯經" xml:id="gsz0036a03shiShaLuoBa">
+<lb ed="B" n="0036a03"/><anchor n="B.27.0151.0036a03"/><head>元燕都慶壽寺沙門<persName key="A000529">釋沙囉巴</persName>傳<persName type="secondary" key="A002083">剌溫卜</persName><persName type="secondary" key="A000650">迦囉思巴</persName></head>
+<lb ed="B" n="0036a04"/><p xml:id="pB27p0036a0401"><persName key="A000529">釋沙囉巴</persName>，西域積寧人。幼而通慧，年才總<anchor xml:id="beg003601"/><choice><sic resp="CBETA">卯</sic><corr resp="PC-MB">丱</corr></choice><anchor xml:id="end003601"/>，即依帝師<persName key="A000650">癹思巴</persName>
+<lb ed="B" n="0036a05"/>薙染，習諸部灌頂法。又從<persName key="A002082">著栗赤</persName>上師學大小乘。時有<persName key="A002083"><anchor xml:id="beg_8" type="cb-app"/>剌<anchor xml:id="end_8"/>溫卜</persName>，
+<lb ed="B" n="0036a06"/>善通燄曼德迦密教，為世所稱，投之盡得其道。所以善吐番音，
+<lb ed="B" n="0036a07"/>說諸妙法，兼解諸國文字。後因<persName key="A000650">迦囉思巴</persName>薦於<persName key="A002085">世祖</persName>，命譯中國
+<lb ed="B" n="0036a08"/>未備顯密諸經各若干部。詞旨明辨，因賜<persName key="A000529">大辯廣智</persName>之號。其時
+<lb ed="B" n="0036a09"/><persName key="A000650">思巴</persName>已居帝師，僧司雖盛，而風紀寢弊，官吏不能干城遺法，抗
+<lb ed="B" n="0036a10"/>禦外侮，返為僧害。<persName key="A002085">世祖</persName>每論至此，切憂之，欲選能者，匡正其失。
+<lb ed="B" n="0036a11"/>乃授<persName key="A000529">沙</persName>為江浙釋教都總統，<persName key="A002085">世祖</persName>親送之。既至江南，盡削煩苛，
+<lb ed="B" n="0036a12"/>務從寬大。故遐邇僧寺，賴之以安。尋改統福、廣。然自律嚴正，行
+<lb ed="B" n="0036a13"/>無偏倚，語多峻切，以是見忤同列。嘗自歎曰：「天下何事耶？吾人
+<lb ed="B" n="0036a14"/>自擾之耳。朝廷設官愈多，則天下之事愈煩，況釋教乎！今僧之
+<lb ed="B" n="0036a15"/>苦無他，官多事煩耳。所謂十羊九牧，可勝言<!-- 以表示 -->哉！」遂建言以聞，因
+<lb ed="B" n="0036a16"/>得盡罷諸路總統，天下快焉。<persName key="A000529">沙</persName>即遁迹壠坻，築室種樹，將欲終
+<lb ed="B" n="0036a17"/>老。<date notBefore-iso="+1308-02-01" key="j21988282200303" notAfter-iso="+1312-02-15">至大中</date>復召至燕京，拜光祿大夫。大司徒、<ref type="person" target="#A002087">皇太子</ref>、諸王嘗問
+<lb ed="B" n="0036a18"/>法要，詔給廩館於慶壽寺。所譯之經，朝廷皆為刊行。<date when-iso="+1314-11-20" key="j22013122201312">延祐元年
+<lb ed="B" n="0036a19"/>十月五日</date>示疾，賜鈔萬緡，勅<persName key="A002086">大尉瀋王</persName>視醫藥。謝卻之，面佛端
+<lb ed="B" n="0036a20"/>坐而化。詔賜給葬，遣使驛送，建塔故里。</p>
+    <linkGrp>
+        <link targets="#0036a04 #0036a05"/>
+        <ptr target="#A000529" type="person"/>
+        <ptr target="#A000650" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0036a05 #0036a05"/>
+        <ptr target="#A000529" type="person"/>
+        <ptr target="#A002082" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0036a05 #0036a06"/>
+        <ptr target="#A000529" type="person"/>
+        <ptr target="#A002083" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0036a07 #0036a08"/>
+        <ptr target="#A000529" type="person"/>
+        <ptr target="#A000650" type="person"/>
+        <ptr target="#A002085" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0036a17 #0036a18"/>
+        <ptr target="#A000529" type="person"/>
+        <ptr target="#A002087" type="person"/>
+        <ptr target="#j21988282200303" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0036a18 #0036a19"/>
+        <ptr target="#A000529" type="person"/>
+        <ptr target="#A002086" type="person"/>
+        <ptr target="#j22013122201312" type="time"/>
+    </linkGrp>
+</div>

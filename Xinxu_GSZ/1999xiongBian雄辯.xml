@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="譯經" xml:id="gsz0035b05shiXiongBian">
+<lb ed="B" n="0035b05"/><anchor n="B.27.0151.0035b05"/><head>元雲南玉案山寺沙門<persName key="A015402">釋雄辯</persName>傳</head>
+<lb ed="B" n="0035b06"/><p xml:id="pB27p0035b0601"><persName key="A015402">釋雄辯</persName>，賜號<persName key="A015402">洪鏡</persName>，姓李氏，善闡人也。才思儁倜，聰穎絕倫，語音
+<lb ed="B" n="0035b07"/>輕利，善通方言。少年出家，事<persName key="A043917">子雲</persName>國師，為上足弟子。<persName key="A002085">元世祖</persName>既
+<lb ed="B" n="0035b08"/>破大理段氏，遺孽轉徙朝元，南詔僧侶隨入華夏。逾歲<persName key="A015402">雄辯</persName>亦
+<lb ed="B" n="0035b09"/>復北來，居中國二十五年。更事四師，皆當世大德。最後登班集
+<lb ed="B" n="0035b10"/>之堂，嗣壇主之法，研窮方等，玅解玄理，其學大備。乃喟然歎曰：
+<lb ed="B" n="0035b11"/>「佛法種子不絕於世，矯矯龍象，豈擇地而行？吾其南歸，將以方
+<lb ed="B" n="0035b12"/>言譯其經論，饟我荒服。」因詣壇主乞白，其語於<ref type="person" target="#A000650">帝師</ref>，遂為璽書
+<lb ed="B" n="0035b13"/>以賜之，號曰<persName key="A015402">洪鏡</persName>。既歸，取《圓覺》諸經及摩訶衍《四絕<anchor xml:id="beg003503"/><choice><sic resp="CBETA">綸</sic><corr resp="PC-MB">論</corr></choice><anchor xml:id="end003503"/>》，飜以僰
+<lb ed="B" n="0035b14"/>語，反復論辯，曲盡幽微，而詞旨淺近，通於俗說。故其書盛傳，習
+<lb ed="B" n="0035b15"/>者益眾。六詔玄風普及婦孺，實自茲始。當其攝齋升講，口如泉
+<lb ed="B" n="0035b16"/>瀉，滔滔不竭，人稱<persName key="A015402">雄辯法師</persName>，足副其名云。時<persName key="A043918">梁王</persName>為<persName key="A043918">雲南王</persName>，以
+<lb ed="B" n="0035b17"/>天屬之尊，事之甚嚴。<persName key="A015402">雄辯</persName>晚歲精進行道，化人及物，本諸慈惠，
+<lb ed="B" n="0035b18"/>於是德聲遐布，法隆荒徼，四眾歸之，達數萬指。而自視欿然<!-- 不滿足 -->，蓋
+<lb ed="B" n="0035b19"/>其猛志邁修，閎願慈忱，有不可思議者。以<date when-iso="+1301-12-17" key="j21965912196591">大德五年十一月九
+<lb ed="B" n="0035b20"/>日</date>坦化，壽七十有三，臘四十有七。荼毗時見有五色舍利，其他<pb ed="B" xml:id="B27.0151.0036a" n="0036a"/>
+<lb ed="B" n="0036a01"/>異徵甚多。弟子<persName key="A015453">玄堅</persName>建塔于玉案山陽。所譯經論，多僰人語言，
+<lb ed="B" n="0036a02"/>華俗不曉，故不流入中土。今雖有傳書，罕見善本。</p>
+    <linkGrp>
+        <link targets="#0035b07 #0035b07"/>
+        <ptr target="#A015402" type="person"/>
+        <ptr target="#A043917" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0035b07 #0035b13"/>
+        <ptr target="#A015402" type="person"/>
+        <ptr target="#A000650" type="person"/>
+        <ptr target="#A002085" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0035b16 #0035b17"/>
+        <ptr target="#A015402" type="person"/>
+        <ptr target="#A043918" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0036a01 #0036a01"/>
+        <ptr target="#A015402" type="person"/>
+        <ptr target="#A015453" type="person"/>
+    </linkGrp>
+</div>

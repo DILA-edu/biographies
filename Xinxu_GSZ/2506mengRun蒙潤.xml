@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="淨讀" xml:id="gsz0323a20shiMengRun">
+<lb ed="B" n="0323a20"/><anchor n="B.27.0151.0323a20"/><head>元餘杭淨慈寺沙門<persName key="A001638">釋蒙潤</persName>傳</head><!-- 本傳與2033重複 -->
+<lb ed="B" n="0323b01"/><p xml:id="pB27p0323b0101"><persName key="A001638">釋蒙潤</persName>，字<persName key="A001638">玉岡</persName>，姓顧氏，海鹽人也。<ref type="date" target="#j21918882192271">年十四</ref>棄家，依<persName key="A015353">古源</persName>於白蓮。
+<lb ed="B" n="0323b02"/>嘗禮護伽藍神，土偶輒仆，若答拜然，左右皆驚。<persName key="A015353">源</persName>授以經，應口
+<lb ed="B" n="0323b03"/>成誦。命禮<persName key="A007884">一祥</persName>祝髮，尋進具。從<persName key="A015353">源</persName>受天台家《金剛錍》、《十不二門》
+<lb ed="B" n="0323b04"/>諸書。會<persName key="A015353">源</persName>入滅，遂師事<persName key="A007885">竹堂傳</persName>以卒其業。因苦學，嬰奇疾，修觀
+<lb ed="B" n="0323b05"/>音懺。既獲靈應疾愈，而心倍明。南天竺之演福<persName key="A000640">湛堂澄</persName>命居首
+<lb ed="B" n="0323b06"/>席。凡所闡揚，詞鬯旨顯，匑匑老宿，咸推服焉。出主當湖德藏，講
+<lb ed="B" n="0323b07"/>《法華經》，聽者日千餘人。遷主演福，宗風益振。居六載，退歸白蓮，
+<lb ed="B" n="0323b08"/>誓不出山，修念佛三昧，依之者益眾。行宣政院強起主下天竺。
+<lb ed="B" n="0323b09"/>時寺新燬，惟普賢殿巋然荊棘瓦礫中。因慨然曰：「茲寺成於<persName key="A003703">慈
+<lb ed="B" n="0323b10"/>雲</persName>，一殿尚存，則祖師願力有在。」乃首加葺治，次第搆諸堂舍。然
+<lb ed="B" n="0323b11"/>不以經度程督之勞廢教事。晝夜演說無倦色，率同志修法華
+<lb ed="B" n="0323b12"/>三昧，感見瑞光。居三年，復遷主淨慈。以涉世將迎，乖其素志，復
+<lb ed="B" n="0323b13"/>歸白蓮老焉。臨終之夕，呼弟子榮<!-- 筞？ -->示止觀之法，且告之曰：「吾生
+<lb ed="B" n="0323b14"/>緣殆盡，茲惟其時。」驟稱阿彌陀佛數百聲，泊然而逝。<date when-iso="+1343-01-10" key="j22115902211590">至正二年
+<lb ed="B" n="0323b15"/>十二月六日</date>也。壽六十八，臘五十四。荼毘得舍利無數，塔於風
+<lb ed="B" n="0323b16"/>篁嶺下。</p>
+    <linkGrp>
+        <link targets="#0323b01 #0323b01"/>
+        <ptr target="#A001638" type="person"/>
+        <ptr target="#A015353" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0323b03 #0323b03"/>
+        <ptr target="#A001638" type="person"/>
+        <ptr target="#A015353" type="person"/>
+        <ptr target="#A007884" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0323b04 #0323b04"/>
+        <ptr target="#A001638" type="person"/>
+        <ptr target="#A007885" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0323b05 #0323b05"/>
+        <ptr target="#A001638" type="person"/>
+        <ptr target="#A000640" type="person"/>
+    </linkGrp>
+</div>

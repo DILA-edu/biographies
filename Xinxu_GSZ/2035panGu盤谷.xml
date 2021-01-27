@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="義解" xml:id="gsz0055b20shiPanGu">
+<lb ed="B" n="0055b20"/><anchor n="B.27.0151.0055b20"/><head>元杭州慧因寺沙門<persName key="A007904">釋盤谷</persName>傳</head>
+<lb ed="B" n="0056a01"/><p xml:id="pB27p0056a0101"><persName key="A007904">釋盤谷</persName>，號<persName key="A007904">麗水</persName>，海鹽人。狀貌特殊，而志氣超邁。博覽經史，復假
+<lb ed="B" n="0056a02"/>山水，以怡禪性。至元中遊五臺、莪眉、伏牛、少室諸名勝，每止其
+<lb ed="B" n="0056a03"/>地，時發高吟，人嘗謂其「足迹半天下，詩名滿世間」，<persName key="A007904">谷</persName>芺<!-- 笑？ -->謝之。時
+<lb ed="B" n="0056a04"/>附馬<persName key="A002086">高麗瀋王</persName>聞其德望，具書聘講《華嚴》大意於杭之慧因寺。
+<lb ed="B" n="0056a05"/>乃展四無礙辯，七眾傾伏，<ref type="person" target="#A002086">王</ref>大悅，而聲價益重。後至松郡搆精
+<lb ed="B" n="0056a06"/>舍，勤脩淨業，日課彌陀佛號。年七十餘，無疾，預告以時，端坐而
+<lb ed="B" n="0056a07"/>寂。有《游山詩集》三卷行世。</p>
+    <linkGrp>
+        <link targets="#0056a03 #0056a05"/>
+        <ptr target="#A007904" type="person"/>
+        <ptr target="#A002086" type="person"/>
+    </linkGrp>
+</div>

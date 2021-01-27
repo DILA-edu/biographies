@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="義解" xml:id="gsz0054b06shiMengRun">
+<lb ed="B" n="0054b06"/><anchor n="B.27.0151.0054b06"/><head>元杭州下竺寺沙門<persName key="A001638">釋蒙潤</persName>傳<persName type="secondary" key="A015353"><anchor xml:id="beg005405"/><choice><sic resp="CBETA">占</sic><corr resp="PC-MB">古</corr></choice><anchor xml:id="end005405"/>源</persName><persName type="secondary" key="A007885">竹堂傳</persName></head><!-- 本傳與2506重複 -->
+<lb ed="B" n="0054b07"/><p xml:id="pB27p0054b0701"><persName key="A001638">釋蒙潤</persName>，字<persName key="A001638">玉岡</persName>，海鹽人，姓顧氏。父<persName key="A023101">敏</persName>，隱君子也。母<persName key="A023102">孫氏</persName>，實<persName key="A015353">古源
+<lb ed="B" n="0054b08"/>清</persName>之甥女。母娠及誕，俱感異夢。<persName key="A001638">潤</persName><ref type="date" target="#j21918882192271">年十四</ref>，依<persName key="A015353">古源</persName>於嘉禾白蓮。
+<lb ed="B" n="0054b09"/>方禮伽藍神，土偶皆仆，一眾驚異。<persName key="A015353">古源</persName>授經輒成誦，遂命從<persName key="A007884">祥</persName>
+<lb ed="B" n="0054b10"/>公祝髮進具。<persName key="A015353">古源</persName>見其銳敏，授以《天台止觀》、《金剛錍》、《十不二門》
+<lb ed="B" n="0054b11"/>諸書，即能了大意。會<persName key="A015353">古源</persName>歸寂，乃事<persName key="A007885">竹堂傳</persName>以卒業。因苦學，嬰
+<lb ed="B" n="0054b12"/>奇疾，修懺七七，既獲靈應疾愈。而心倍明利，遂得分座於南竺
+<lb ed="B" n="0054b13"/>演福。<persName key="A000640">湛堂澄</persName>公來蒞其席，<persName key="A001638">潤</persName>居首座。無何，出世主海鹽之當湖
+<lb ed="B" n="0054b14"/>德藏。夏講《法華》，眾嘗千指，屠酤為之易業，瑞應之迹不可勝紀。
+<lb ed="B" n="0054b15"/>遷演福，宗風益振。六年退院事，高臥於龍井風篁嶺之白蓮庵，
+<lb ed="B" n="0054b16"/>專修念佛三昧，依者日眾。宣政院以下竺法席強起之。寺方災，
+<lb ed="B" n="0054b17"/>惟普賢殿巋然荊棘瓦礫中，因慨然謂眾曰：「茲寺成於<persName key="A003703">慈雲</persName>，今
+<lb ed="B" n="0054b18"/>殿尚存，則祖師之願力有在矣。」乃為次第葺而新之。昕夕演說
+<lb ed="B" n="0054b19"/>無倦，率眾修法華三昧，感<persName key="A003079">普賢</persName>放光，現諸瑞相。居三禩，一日呼
+<lb ed="B" n="0054b20"/>門弟子<persName key="A007890">實法</persName>、<persName key="A007891">明策</persName>等，示止觀安心之旨。已而告之曰：「吾生緣殆<pb ed="B" xml:id="B27.0151.0055a" n="0055a"/>
+<lb ed="B" n="0055a01"/>盡，茲惟其時。」驟稱佛號數百聲，泊然而化。<persName key="A001638">潤</persName>生平力修，晝夜無
+<lb ed="B" n="0055a02"/>怠。嘗脩常行三昧，以九十日為期者。七修法華金光明大悲淨
+<lb ed="B" n="0055a03"/>土，以七七日者，不可以期數。故其潛德、密行、密證者，有未易淺
+<lb ed="B" n="0055a04"/>窺之也。</p>
+    <linkGrp>
+        <link targets="#0054b07 #0054b08"/>
+        <ptr target="#A001638" type="person"/>
+        <ptr target="#A023101" type="person"/>
+        <ptr target="#A023102" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0054b07 #0054b08"/>
+        <ptr target="#A015353" type="person"/>
+        <ptr target="#A023102" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0054b08 #0054b08"/>
+        <ptr target="#A001638" type="person"/>
+        <ptr target="#A015353" type="person"/>
+        <ptr target="#j21918882192271" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0054b09 #0054b10"/>
+        <ptr target="#A001638" type="person"/>
+        <ptr target="#A015353" type="person"/>
+        <ptr target="#A007884" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0054b11 #0054b11"/>
+        <ptr target="#A001638" type="person"/>
+        <ptr target="#A007885" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0054b13 #0054b13"/>
+        <ptr target="#A001638" type="person"/>
+        <ptr target="#A000640" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0054b20 #0054b20"/>
+        <ptr target="#A001638" type="person"/>
+        <ptr target="#A007890" type="person"/>
+        <ptr target="#A007891" type="person"/>
+    </linkGrp>
+</div>

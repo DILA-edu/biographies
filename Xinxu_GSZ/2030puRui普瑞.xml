@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="義解" xml:id="gsz0052a13shiPuRui">
+<lb ed="B" n="0052a13"/><anchor n="B.27.0151.0052a13"/><head>南詔蒼山再光寺沙門<persName key="A001228">釋普瑞</persName>傳<persName type="secondary" key="A043925">普濟</persName><persName type="secondary" key="A043924">皎淵</persName><persName type="secondary" key="A043926">淨妙澄</persName></head>
+<lb ed="B" n="0052a14"/><p xml:id="pB27p0052a1401"><persName key="A001228">釋普瑞</persName>，字<persName key="A001228">雪庭</persName>，別號<persName key="A001228">妙觀</persName>，榆城人。童時日記萬言，因讀《華嚴》至
+<lb ed="B" n="0052a15"/>「若有如是，如是思維；則有如是，如是顯現」處，豁開心地。後見<persName key="A043924">皎
+<lb ed="B" n="0052a16"/>淵</persName>為之印可。<persName key="A043924">皎淵</persName>為<persName key="A043925">普濟慶光</persName>弟子。<persName key="A043925">濟</persName>與<persName key="A043926">淨妙澄</persName>同開水目山
+<lb ed="B" n="0052a17"/>山。舊無泉，<persName key="A043925">濟</persName>以杖卓之，泉隨湧出，世稱「卓錫泉」。段氏為建梵字<!-- 宇？ -->，
+<lb ed="B" n="0052a18"/>贈<persName key="A043926">澄</persName>，號曰<persName key="A043926">淨妙</persName>；<persName key="A043925">濟</persName>號曰<persName key="A043925">慶光</persName>。<persName key="A043924">皎淵</persName>初參<persName key="A043925">濟</persName>時便問：「如何免得生
+<lb ed="B" n="0052a19"/>死？」<persName key="A043925">濟</persName>以扇擊案，<persName key="A043924">淵</persName>忽然有省，遂嗣其法。水目山廣導諸方，朝野
+<lb ed="B" n="0052a20"/>尊仰，<persName key="A001228">瑞</persName>既承<persName key="A043924">淵</persName>付屬，南詔信從，為建再光寺以居之。<persName key="A001228">瑞</persName>澂心玅<pb ed="B" xml:id="B27.0151.0052b" n="0052b"/>
+<lb ed="B" n="0052b01"/>悟，深入玄理，閉戶著書，兀坐終日，積誠相感。常夢與清涼<persName key="A002450">賢首</persName>，
+<lb ed="B" n="0052b02"/>華嚴諸祖共語，譔《華嚴懸談會玄記》四十卷，今在藏帙。又誦《金
+<lb ed="B" n="0052b03"/>剛經》，有白光如輪，久而不散。<persName key="A001228">瑞</persName>雖印心南宗，而恒闡《華嚴》為業。
+<lb ed="B" n="0052b04"/>嘗於水目講經，感金甲神人示像。所著有《楞嚴纂要》十卷、《金剛
+<lb ed="B" n="0052b05"/>方語》一卷，餘有《華嚴心鏡元談輔翼》及《外集》諸書，皆發明宗旨，
+<lb ed="B" n="0052b06"/>開悟後學。每登講席，發音硜硜，弘綱微緒，莫不畢宣，聽者悅懌，
+<lb ed="B" n="0052b07"/>四眾歸心。講堂之外，本無池沼，芳草叢中，忽生蓮花，時人嗟歎，
+<lb ed="B" n="0052b08"/>以為瑞應。後無疾而逝，荼毘獲舍利甚多，瑩然耀目，建塔奉之。
+<lb ed="B" n="0052b09"/>其嗣法弟子有<persName key="A043927">黃龍無相</persName>，與淨眾寺<persName key="A010305">無相</persName>──嗣五祖者──同名，彼見
+<lb ed="B" n="0052b10"/>《高僧傳第三集》。</p>
+    <linkGrp>
+        <link targets="#0052a15 #0052a16"/>
+        <ptr target="#A001228" type="person"/>
+        <ptr target="#A043924" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0052a16 #0052a16"/>
+        <ptr target="#A043925" type="person"/>
+        <ptr target="#A043924" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0052a16 #0052a17"/>
+        <ptr target="#A043926" type="person"/>
+        <ptr target="#A043925" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0052a18 #0052a20"/>
+        <ptr target="#A043925" type="person"/>
+        <ptr target="#A043924" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0052b09 #0052b09"/>
+        <ptr target="#A001228" type="person"/>
+        <ptr target="#A043927" type="person"/>
+    </linkGrp>
+</div>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="譯經" xml:id="gsz0036b01shiShiLi">
+<lb ed="B" n="0036b01"/><anchor n="B.27.0151.0036b01"/><head>元燕都廣寒院沙門<persName key="A019673">釋識里</persName>傳</head>
+<lb ed="B" n="0036b02"/><p xml:id="pB27p0036b0201"><persName key="A019673">釋識里</persName>者，本名<persName key="A019673">必蘭納識里</persName>，北庭感木嚕國人。止行二字，略也。
+<lb ed="B" n="0036b03"/>生而穎異，幼習輝和爾及西域書，長能貫通三藏，曉西北諸國
+<lb ed="B" n="0036b04"/>語言。<date from-iso="+1302-02-07" key="j21966432196996" to-iso="+1303-01-26">大德六年</date>奉勅從<ref type="person" target="#A015404">帝師</ref>受戒於廣寒殿，代<ref type="person" target="#A004321">帝</ref>出家，更賜今
+<lb ed="B" n="0036b05"/>名。蓋初名<persName key="A019673">只<anchor xml:id="beg_9" type="cb-app"/>剌<anchor xml:id="end_9"/>瓦彌旳里</persName>也，<date notBefore-iso="+1312-02-16" key="j22003042201012" notAfter-iso="+1314-01-24">皇慶中</date>命譯諸梵經。<date from-iso="+1314-01-25" key="j22010132201396" to-iso="+1315-02-12">延祐初</date>特賜
+<lb ed="B" n="0036b06"/>銀印，授光祿大夫。時諸番朝貢，表牋文字無能識者，皆令<persName key="A019673">識里</persName>
+<lb ed="B" n="0036b07"/>譯進。會有以金刻字為表，諸吏愕然。乃遣<persName key="A019673">識里</persName>視之。廷中睽睽，
+<lb ed="B" n="0036b08"/>觀所以對。<persName key="A019673">識里</persName>取案上墨汁塗金葉，審其字，左右執筆以待。乃
+<lb ed="B" n="0036b09"/>口誦表中語，及使人名氏與貢物之數，書而上之。明日廷獻有
+<lb ed="B" n="0036b10"/>司，察其物色與所譯書，無少差異，眾莫不服其博洽。亦莫測所
+<lb ed="B" n="0036b11"/>從受，或以為神悟云。尋賜開府儀同三司，仍賜三台銀印兼領
+<lb ed="B" n="0036b12"/>功德使，司事厚其廩膳。<date from-iso="+1323-02-14" key="j22043202204674" to-iso="+1324-02-03">至治三年</date>更賜金印，特授沙津阿古齊<!-- 沙津愛護持，漢譯「總統」 -->，
+<lb ed="B" n="0036b13"/>且命為諸國引進使。<date from-iso="+1331-02-16" key="j22072442207597" to-iso="+1332-02-04">至順二年</date>又賜玉印，加號<persName key="A019673">普覺圓明廣照
+<lb ed="B" n="0036b14"/>宏辯三藏國師</persName>。<date from-iso="+1332-02-05" key="j22075982207816" to-iso="+1332-09-10">三年</date>坐<ref type="person" target="#A043919">安西王子</ref>事死焉。其所譯經，漢字則有
+<lb ed="B" n="0036b15"/>《楞嚴經》，西竺梵書則有《大乘莊嚴寶度經》、《乾陀般若經》、《大涅般
+<lb ed="B" n="0036b16"/>經》、《稱讚大乘功德經》，番書則有《不思議禪觀經》都若干卷。</p>
+    <linkGrp>
+        <link targets="#0036b04 #0036b04"/>
+        <ptr target="#A019673" type="person"/>
+        <ptr target="#A015404" type="person"/>
+        <ptr target="#A004321" type="person"/>
+        <ptr target="#j21966432196996" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0036b05 #0036b05"/>
+        <ptr target="#A019673" type="person"/>
+        <ptr target="#A006674" type="person"/>
+        <ptr target="#j22003042201012" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0036b14 #0036b15"/>
+        <ptr target="#A019673" type="person"/>
+        <ptr target="#A043919" type="person"/>
+        <ptr target="#j22075982207816" type="time"/>
+    </linkGrp>
+</div>

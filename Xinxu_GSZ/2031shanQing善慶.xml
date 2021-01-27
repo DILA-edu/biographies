@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="義解" xml:id="gsz0053b11shiShanQing">
+<lb ed="B" n="0053b11"/><anchor n="B.27.0151.0053b11"/><head>元古杭淨慈寺沙門<persName key="A015472">釋善慶</persName>傳</head>
+<lb ed="B" n="0053b12"/><p xml:id="pB27p0053b1201"><persName key="A015472">釋善慶</persName>，字<persName key="A015472">千瀨</persName>，姓彭氏，嚴陵人也。丱歲而孤，萍蹤無寄，就舅氏
+<lb ed="B" n="0053b13"/>習儒。初見，<persName key="A043928">懷楚</persName>知為法器，問：「能出家否？」<persName key="A015472">慶</persName>應之曰：「固本願耳。」遂
+<lb ed="B" n="0053b14"/>度之。受具戒品，身律甚嚴，徧歷諸宿庭戶，咸無所證。後聞<persName key="A021176">佛心
+<lb ed="B" n="0053b15"/>珏</persName>主淨慈，遂往依焉。聞舉洞山「麻三稱」語領悟。後出世宜興之
+<lb ed="B" n="0053b16"/>保安，凡三徙名剎。每主講筵，貫激禪教，乃至淨慈，開堂示眾無
+<lb ed="B" n="0053b17"/>虛日。嘗著《扶宗顯正論》以進，<persName key="A002087">仁宗</persName>覽而嘉之，賜以<persName key="A015472">慧光普照文
+<lb ed="B" n="0053b18"/>明通辨</persName>之號，並金襴袈裟。久之謝歸，作室曰「歸休」。宴息其間，怡
+<lb ed="B" n="0053b19"/>神空寂，泊如也。<date when-iso="+1278-08-29" key="j21880812188081">元至元戊寅八月三日</date>化去，春秋七十有九。</p>
+    <linkGrp>
+        <link targets="#0053b13 #0053b14"/>
+        <ptr target="#A015472" type="person"/>
+        <ptr target="#A043928" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0053b14 #0053b15"/>
+        <ptr target="#A015472" type="person"/>
+        <ptr target="#A021176" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0053b17 #0053b18"/>
+        <ptr target="#A015472" type="person"/>
+        <ptr target="#A002087" type="person"/>
+    </linkGrp>
+</div>

@@ -1,5 +1,21 @@
 ﻿<div xmlns="http://www.tei-c.org/ns/1.0" type="apparatus">
 <p>
+		<app from="beg003501">
+			<lem wit="喻眛庵輯影本">僧</lem>
+			<rdg wit="CBETA">僧</rdg>
+		</app>
+		<app from="beg003503">
+			<lem wit="喻眛庵輯影本">綸</lem>
+			<rdg wit="CBETA">論</rdg>
+		</app>
+		<app from="beg003601">
+			<lem wit="喻眛庵輯影本">丱</lem>
+			<rdg wit="CBETA">卯</rdg>
+		</app>
+		<app from="beg003701">
+			<lem wit="喻眛庵輯影本">儵</lem>
+			<rdg wit="CBETA">鯈</rdg>
+		</app>
 		<app from="beg003801">
 			<lem wit="喻眛庵輯影本">寺</lem>
 			<rdg wit="CBETA">寺</rdg>
@@ -23,6 +39,18 @@
 		<app from="beg003903">
 			<lem wit="喻眛庵輯影本"><g ref="#CB33451">󸊫</g></lem>
 			<rdg wit="CBETA"><g ref="#CB33451">󸊫</g></rdg>
+		</app>
+		<app from="beg005401">
+			<lem wit="喻眛庵輯影本">大</lem>
+			<rdg wit="CBETA">天</rdg>
+		</app>
+		<app from="beg005403">
+			<lem wit="喻眛庵輯影本">午</lem>
+			<rdg wit="CBETA">午</rdg>
+		</app>
+		<app from="beg005405">
+			<lem wit="喻眛庵輯影本">古</lem>
+			<rdg wit="CBETA">占</rdg>
 		</app>
 		<app from="beg_1e">
 			<lem wit="喻眛庵輯影本">塵</lem>
