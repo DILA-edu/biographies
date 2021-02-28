@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0367b16shiChengFang">
+<lb ed="B" n="0367b16"/><anchor n="B.27.0151.0367b16"/><head>金<!-- 遼 -->上方山感化寺沙門<persName key="A014481">釋澄方</persName>傳<persName type="secondary" key="A014693">圓覆</persName><persName type="secondary" key="A008376">寶公</persName></head>
+<lb ed="B" n="0367b17"/><p xml:id="pB27p0367b1701"><persName key="A014481">釋澄方</persName>，姓孫氏，香河人。幼好靜默，出家于隆安寺。<ref type="date" target="#j21363702136754">年十八</ref>登具，
+<lb ed="B" n="0367b18"/>徧<g ref="#CB33499">𠪱</g>講肆，于諸經論，無不了然，聲華藉甚。後參禪旨，悟明心地。
+<lb ed="B" n="0367b19"/>尋有尊宿，請住上方蘭若。<persName key="A014481">澄</persName>至，開闢幽荒，造感化寺，又起絕頂
+<lb ed="B" n="0367b20"/>浮圖。嘗示眾曰：「《涅盤經》云『避役出家，無心志道』，我當罷令還俗，<pb ed="B" xml:id="B27.0151.0368a" n="0368a"/>
+<lb ed="B" n="0368a01"/>為王策使。慚恥之服，是為上服；不知慚愧，非佛弟子。」後示疾而
+<lb ed="B" n="0368a02"/>終。門人<persName key="A044065">士隆</persName>，建塔上方寺東麓。又<persName key="A014693">圓覆</persName>者，渤海李氏子。初為校
+<lb ed="B" n="0368a03"/>尉，<date from-iso="+1123-09-29" key="j21314982136754" to-iso="+1138-02-18">大<!-- 天 -->會中</date>，予告歸。嘗問道於翁同西院，削髮衣褐，隨緣化導。<date from-iso="+1142-02-05" key="j21382022138555" to-iso="+1143-01-24">乾<!-- 皇 -->
+<lb ed="B" n="0368a04"/>統二年</date>，遇恩得度，禮<anchor xml:id="beg036801"/><choice><sic resp="CBETA">書</sic><corr resp="PC-MB">香</corr></choice><anchor xml:id="end036801"/><!-- 《欽定盤山志．卷8．孫設 翁同山院舍利塔》：「恭禮香林西堂柔光為師。」(《中國佛寺史志彙刊》，第2輯，第27冊，頁0744)。 -->林<persName key="A044066">柔光</persName>為師。後住西院，重修上院、府君
+<lb ed="B" n="0368a05"/>祠及觀音殿。金碧宏麗，甲於幽薊。一日有數僧，不知何來。手持
+<lb ed="B" n="0368a06"/>佛牙二，具鮮白如玉，舉以授<persName key="A014693">覆</persName>。<date when-iso="+1164-05-08" key="j21463302146330">大定甲午<!-- 申。《釋氏疑年錄》p.257 -->四月九日</date>，謂門弟子
+<lb ed="B" n="0368a07"/>曰：「白駒易過，幻化非堅；一切有為，終歸寂滅。」又曰：「余夙珍藏佛
+<lb ed="B" n="0368a08"/>牙及《般若金經》當於上寺之西，誅蕪構塔以安其上，置余骨于
+<lb ed="B" n="0368a09"/>下。」且曰：「生死無常，各自珍重。」語訖就枕，奄然而逝。春秋八十有
+<lb ed="B" n="0368a10"/>五，僧夏三十有三。<persName key="A044067">孫設</persName>為文記之，時<date when-iso="+1169-04-20" key="j21481382148138">大定九年三月十五日</date>也。
+<lb ed="B" n="0368a11"/>又<persName key="A008376">寶</persName>公，姓武氏，磁州人。慧性超絕，<date from-iso="+1161-02-04" key="j21451412145494" to-iso="+1162-01-23">大定初</date>於滏陽造仰山寺。殿
+<lb ed="B" n="0368a12"/>宇華麗，柱上作金龍蟠之。忽有題句於柱上云：「人道斑鳩拙，我
+<lb ed="B" n="0368a13"/>道斑鳩巧；一根兩根柴，便是家緣了。」<persName key="A008376">寶</persName>公見之大悟，即入西山
+<lb ed="B" n="0368a14"/><anchor xml:id="beg036803"/><choice><sic resp="CBETA">詰</sic><corr resp="PC-MB">結</corr></choice><anchor xml:id="end036803"/>茅以居。後徧歷名山，住<g ref="#CB15235">𡶵</g>峪寶嚴寺。一夕大風震地，端坐而
+<lb ed="B" n="0368a15"/>逝。</p>
+    <linkGrp>
+        <link targets="#0368a02 #0368a02"/>
+        <ptr target="#A014481" type="person"/>
+        <ptr target="#A044065" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0368a03 #0368a04"/>
+        <ptr target="#A014693" type="person"/>
+        <ptr target="#A044066" type="person"/>
+        <ptr target="#j21382022138555" type="time"/>
+    </linkGrp>
+</div>

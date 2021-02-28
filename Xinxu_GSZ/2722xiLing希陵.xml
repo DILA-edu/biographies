@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="雜識" xml:id="gsz0444b07shiXiLing">
+<lb ed="B" n="0444b07"/><anchor n="B.27.0151.0444b07"/><head>元餘杭淨慈寺沙門<persName key="A000489">釋希陵</persName>傳</head>
+<lb ed="B" n="0444b08"/><p xml:id="pB27p0444b0801"><persName key="A000489">釋希陵</persName>，字<persName key="A000489">西白</persName>，姓何氏，義烏人也。<ref type="date" target="#j21831182183501">年十九</ref>，落髮東陽資壽，依<persName key="A018564">東
+<lb ed="B" n="0444b09"/>叟隱</persName>於淨慈掌內記，後侍<persName key="A008205">石林鞏</persName>兼外記。徑山<persName key="A000472">雲峰高</persName>尤敬之，
+<lb ed="B" n="0444b10"/>分座設法，凜凜諸老之遺風。<persName key="A002085">元世祖</persName>召見，作法施儀，適合上旨，
+<lb ed="B" n="0444b11"/>賜號<persName key="A000489">佛鑒</persName>，<persName key="A004321">成宗</persName>加號<persName key="A000489">大圜</persName>，<persName key="A002087">仁宗</persName>更加號<persName key="A000489">慧照</persName>。三朝聖眷，恩寵無
+<lb ed="B" n="0444b12"/>比。<date when-iso="+1322-05-06" key="j22040362204036">至正壬辛<!-- 至治壬戌 X82n1571_p0162b04 -->四月十二日</date>，手書付屬，說偈而逝。<anchor xml:id="beg_1f4" type="cb-app"/>諡<anchor xml:id="end_1f4"/><persName key="A000489">大辨</persName>，塔曰「寶
+<lb ed="B" n="0444b13"/>華」。著有《瀑布集》及《語錄》行世。</p>
+    <linkGrp>
+        <link targets="#0444b08 #0444b09"/>
+        <ptr target="#A000489" type="person"/>
+        <ptr target="#A018564" type="person"/>
+        <ptr target="#j21831182183501" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0444b09 #0444b09"/>
+        <ptr target="#A000489" type="person"/>
+        <ptr target="#A008205" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0444b09 #0444b10"/>
+        <ptr target="#A000489" type="person"/>
+        <ptr target="#A000472" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0444b10 #0444b11"/>
+        <ptr target="#A000489" type="person"/>
+        <ptr target="#A002085" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0444b11 #0444b11"/>
+        <ptr target="#A000489" type="person"/>
+        <ptr target="#A004321" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0444b11 #0444b11"/>
+        <ptr target="#A000489" type="person"/>
+        <ptr target="#A002087" type="person"/>
+    </linkGrp>
+</div>

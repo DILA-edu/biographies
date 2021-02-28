@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0155b10shiXingQuan">
+<lb ed="B" n="0155b10"/><anchor n="B.27.0151.0155b10"/><head>元兗州布金山大雲寺沙門<persName key="A043976">釋行全</persName>傳<persName type="secondary" key="A043978">德友</persName></head>
+<lb ed="B" n="0155b11"/><p xml:id="pB27p0155b1101"><persName key="A043976">釋行全</persName>，姓房氏，清河人也。生有宿慧，既長受具戒於州之廣教
+<lb ed="B" n="0155b12"/>院。歷游講肄，通曉律義，創刻宗門碧巖經律文字。往來奉高山
+<lb ed="B" n="0155b13"/>中，結茅晏坐於天勝寨上，默究玄理。兗州節度左副元帥<persName key="A043977">張進</persName>
+<lb ed="B" n="0155b14"/>遂興葺布金山之大雲寺，請主席焉。<persName key="A043976">全</persName>至，扇厥清風，法化大行。
+<lb ed="B" n="0155b15"/>落髮弟子二十有五人中有<persName key="A043978">德友</persName>者，兗州雙村王氏子也。元時
+<lb ed="B" n="0155b16"/>盜起，避地泰山。聞<persName key="A043976">全</persName>駐錫天勝，即往炷香。既蒙示，及去師不遠，
+<lb ed="B" n="0155b17"/>因於師子峰下抱節育道。或三日一湌，五日一飯，若此者三稔。
+<lb ed="B" n="0155b18"/>忽聞鴉鳴而悟入，曰：「從今後更疑著天下老和尚鼻孔也。」<persName key="A043976">全</persName>以
+<lb ed="B" n="0155b19"/><persName key="A043978">德友</persName>機緣契證，載其道資，付託有人。晚歲辭退，復還鄉井。時稱
+<lb ed="B" n="0155b20"/>其「來如著衫，去如脫屣」云。</p>
+    <linkGrp>
+        <link targets="#0155b13 #0155b14"/>
+        <ptr target="#A043976" type="person"/>
+        <ptr target="#A043977" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0155b15 #0155b17"/>
+        <ptr target="#A043976" type="person"/>
+        <ptr target="#A043978" type="person"/>
+    </linkGrp>
+</div>

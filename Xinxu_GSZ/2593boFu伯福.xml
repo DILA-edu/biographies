@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0372a07shiBoFu">
+<lb ed="B" n="0372a07"/><anchor n="B.27.0151.0372a07"/><head>元泉州開元寺沙門<persName key="A003649">釋伯福</persName>傳<persName type="secondary" key="A044088">守慈</persName><persName type="secondary" key="A044089">永寶</persName></head>
+<lb ed="B" n="0372a08"/><p xml:id="pB27p0372a0801"><persName key="A003649">釋伯福</persName>，字<persName key="A003649">謙叟</persName>，惠安周氏子。年十三，從<persName key="A044088">積善長老守慈</persName>出家，六
+<lb ed="B" n="0372a09"/>年乃得度。元初合剎議定，隸入開元，<persName key="A003630">契祖</persName>察其能，選知僧事。至
+<lb ed="B" n="0372a10"/>使總之，皆稱職。<persName key="A003649">福</persName>性喜施予，作事耐勞，持大體，不分畛域。<persName key="A003630">契祖</persName>
+<lb ed="B" n="0372a11"/>以殿前大庭當甃石，<persName key="A003649">福</persName>任其事，至與匠者，同臥起工。成復甃倉
+<lb ed="B" n="0372a12"/>庭以石。<persName key="A003630">契祖</persName>作輪藏，既成，又以鐘闕告。<persName key="A003649">福</persName>不辤勞勩，不伐功能。
+<lb ed="B" n="0372a13"/>若行所無事，環泉之四鄉市廛，鑿井數十泉，人甘之至今。承天
+<lb ed="B" n="0372a14"/>之作龍藏也，其經若室，舉求<persName key="A003649">福</persName>理之，<persName key="A003649">福</persName>副其求，無德色<!-- 因施惠所露之得意神色 -->。其後承
+<lb ed="B" n="0372a15"/>天以隄防水田求助，<persName key="A003649">福</persName>歸之金百。南安之蒙溪，其下可田，<persName key="A003649">福</persName>墾
+<lb ed="B" n="0372a16"/>築之。其田瀕海，胼手胝足，久之不憊，今為寺正供。以<date when-iso="+1330-03-05" key="j22068962206896">至順元年
+<lb ed="B" n="0372a17"/>二月八日</date>無疾而化。既火，藏其骨于西山後。弟子<persName key="A044089">永寶</persName>復為建
+<lb ed="B" n="0372a18"/>塔于寶幢峰。<persName key="A003649">福</persName>為人沈毅寡言，能清約，以禪自娛。或閉門纍日
+<lb ed="B" n="0372a19"/>不食，其徒走視之，<persName key="A003649">福</persName>笑曰：「子以為我為死矣。」人知其初叩天竺
+<lb ed="B" n="0372a20"/>宗，心法有得云。</p>
+    <linkGrp>
+        <link targets="#0372a08 #0372a08"/>
+        <ptr target="#A003649" type="person"/>
+        <ptr target="#A044088" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0372a09 #0372a09"/>
+        <ptr target="#A003649" type="person"/>
+        <ptr target="#A003630" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0372a17 #0372a17"/>
+        <ptr target="#A003649" type="person"/>
+        <ptr target="#A044089" type="person"/>
+    </linkGrp>
+</div>

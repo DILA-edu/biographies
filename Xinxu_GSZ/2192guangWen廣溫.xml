@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0144a10shiGuangWen">
+<lb ed="B" n="0144a10"/><anchor n="B.27.0151.0144a10"/><head>金薊州盤山雙峰寺沙門<persName key="A043948">釋廣溫</persName>傳<persName type="secondary" key="A043953">圓新</persName></head>
+<lb ed="B" n="0144a11"/><p xml:id="pB27p0144a1101"><persName key="A043948">釋廣溫</persName>，姓韓氏，高安人。幼童超卓，不甘俗處，丱角雙落，受經於
+<lb ed="B" n="0144a12"/><persName key="A043950">習</persName>法師。禪院幽清，夜深盜入。<persName key="A043948">溫</persName>有所聞，堅臥不動。黎明<persName key="A043950">習</persName>責之
+<lb ed="B" n="0144a13"/>曰：「物為他人所盜，寧無侮耶？」<persName key="A043948">溫</persName>曰：「我人也，盜亦人也。物有所歸，
+<lb ed="B" n="0144a14"/>又何憾焉？」<persName key="A043950">習</persName>奇之。後參<persName key="A043951">同昌英</persName>公。<persName key="A043951">英</persName>弗納廬，於巖谷間三年，草
+<lb ed="B" n="0144a15"/>衣木食，<persName key="A043951">英</persName>異之，乃許問道。又參<persName key="A043952">雲門晦堂</persName>及<persName key="A014773">竹林廣慧</persName>。<persName key="A014773">慧</persName>曰：「從
+<lb ed="B" n="0144a16"/>來明暗兩岐，依他作解，須當棄卻。我者裏有箇鐵酸豏，從頭一
+<lb ed="B" n="0144a17"/>一齩嚼。」<persName key="A043948">溫</persName>舉手謝曰：「既往不咎。」乃取篋笥中秘文火之。一日頓
+<lb ed="B" n="0144a18"/>悟，如桶底脫，法性圓通，無不了然。<persName key="A014773">慧</persName>印許之。出住盤山雙峰寺。
+<lb ed="B" n="0144a19"/><date from-iso="+1168-05-16" key="j21477992147886" to-iso="+1168-08-11">大定戊子夏</date>示疾而化。<persName key="A043953">圓新</persName>者，范陽六城邨人，得法於<persName key="A043954">龍泉英</persName>
+<lb ed="B" n="0144a20"/>公。<date from-iso="+1162-01-24" key="j21454952145878" to-iso="+1163-02-11">大定壬午</date>住盤山報國寺，次住天城，又次住法興。後示疾感<pb ed="B" xml:id="B27.0151.0144b" n="0144b"/>
+<lb ed="B" n="0144b01"/>化，謂<persName key="A043955">遠侍者</persName>曰：「吾翌日當行腳去。」索浴淨髮。至夜分，復謂<persName key="A043955">遠</persName>曰：
+<lb ed="B" n="0144b02"/>「黎明西北有聲，須當報吾。」至時，果符其語，聲類鐘磬。方趨報<persName key="A043953">新</persName>，
+<lb ed="B" n="0144b03"/><persName key="A043953">新</persName>已脫去。荼毘後舌齒不灰。</p>
+    <linkGrp>
+        <link targets="#0144a11 #0144a14"/>
+        <ptr target="#A043948" type="person"/>
+        <ptr target="#A043950" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0144a14 #0144a15"/>
+        <ptr target="#A043948" type="person"/>
+        <ptr target="#A043951" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0144a15 #0144a15"/>
+        <ptr target="#A043948" type="person"/>
+        <ptr target="#A043952" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0144a15 #0144a17"/>
+        <ptr target="#A043948" type="person"/>
+        <ptr target="#A014773" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0144a19 #0144a17"/>
+        <ptr target="#A043953" type="person"/>
+        <ptr target="#A043954" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0144b01 #0144b02"/>
+        <ptr target="#A043953" type="person"/>
+        <ptr target="#A043955" type="person"/>
+    </linkGrp>
+</div>

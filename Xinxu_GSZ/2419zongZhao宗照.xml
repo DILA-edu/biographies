@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="靈感" xml:id="gsz0282a06shiZongZhao">
+<lb ed="B" n="0282a06"/><anchor n="B.27.0151.0282a06"/><head>元晉寧東山盤龍寺沙門<persName key="A015513">釋宗照</persName>傳<persName type="secondary" key="A026064">空庵</persName></head>
+<lb ed="B" n="0282a07"/><p xml:id="pB27p0282a0701"><persName key="A015513">釋宗照</persName>，字<persName key="A015513">蓮峯</persName>，晉寧段氏子也。生有異性，天資絕倫。年十八禮
+<lb ed="B" n="0282a08"/><persName key="A044041">雲峰</persName>薙染。每以七日，斷絕思想，參究一日。聞伐木丁丁，瞿然朗
+<lb ed="B" n="0282a09"/>悟。杖錫操方，徧覽名山，<g ref="#CB33499">𠪱</g>抵巨匠。初謁<persName key="A026064">空庵</persName><!-- 參B27n0151_p0369a20 -->，許為法器。後叩<persName key="A000655">中
+<lb ed="B" n="0282a10"/>峯</persName>，乃邀證印，了達宗源，發明祖義。<date notBefore-iso="+1341-01-26" key="j22108762221593" notAfter-iso="+1370-05-31">元至正間</date>還滇，間游晉寧東
+<lb ed="B" n="0282a11"/>山，喜其深秀，謂似曹溪風景，乃建盤龍寺。山舊有龍池，建寺後，
+<lb ed="B" n="0282a12"/>龍乃他徙。黑井有毒龍，興水暴溢，每壞鹽竈、損民居。<persName key="A015513">照</persName>為書咒
+<lb ed="B" n="0282a13"/>沈水，其害遂息。又寧州有虎噬人，<persName key="A015513">照</persName>為噀水咒符，驅虎速去。次
+<lb ed="B" n="0282a14"/>日居人，果見虎去，一方無患。自是兩地感德，納貢畊牛，為寺引
+<lb ed="B" n="0282a15"/>鹽，歲以為常。以<date when-iso="+1361-09-22" key="j22184202218420">元至正二十一年八月望日</date>，沐浴書偈，趺坐而
+<lb ed="B" n="0282a16"/>逝。身體溫柔，七日如生。有彩雲覆菴，虹氣貫天者三日。門人立
+<lb ed="B" n="0282a17"/>塔於寺後。<persName key="A015513">照</persName>以八月望日寂，至今居民每至中秋，咸致敬禮，香
+<lb ed="B" n="0282a18"/>花繽紛，林巒若市。明季更<anchor xml:id="beg_13e" type="cb-app"/>諡<anchor xml:id="end_13e"/>曰<persName key="A015513">大慧禪師</persName>。</p>
+    <linkGrp>
+        <link targets="#0282a07 #0282a08"/>
+        <ptr target="#A015513" type="person"/>
+        <ptr target="#A044041" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0282a09 #0282a09"/>
+        <ptr target="#A015513" type="person"/>
+        <ptr target="#A026064" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0282a09 #0282a10"/>
+        <ptr target="#A015513" type="person"/>
+        <ptr target="#A000655" type="person"/>
+    </linkGrp>
+</div>

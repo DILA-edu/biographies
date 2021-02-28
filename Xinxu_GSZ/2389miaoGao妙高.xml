@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="護法" xml:id="gsz0263a13shiMiaoGao">
+<lb ed="B" n="0263a13"/><anchor n="B.27.0151.0263a13"/><head>元金陵鍾山太平興國寺沙門<persName key="A000472">釋妙高</persName>傳</head>
+<lb ed="B" n="0263a14"/><p xml:id="pB27p0263a1401"><persName key="A000472">釋妙高</persName>，字<persName key="A000472">雲峰</persName>，長溪人。母夢池上嬰兒合掌，坐蓮花中，兩手承
+<lb ed="B" n="0263a15"/>之，舉抱入懷。覺而生子，因名夢池。出家見<persName key="A004697">無準</persName>於徑山。<persName key="A004697">準</persName>器之，
+<lb ed="B" n="0263a16"/>擬以侍職。辭曰：「一事未明，不徧參諸方不止。」遂之育王，見<persName key="A009583">偃溪
+<lb ed="B" n="0263a17"/>聞</persName>，即請入侍掌藏。一日，<persName key="A009583">溪</persName>舉：「如水牛過窗櫺，頭角四蹏過去，如
+<lb ed="B" n="0263a18"/>何尾不得過？」<persName key="A000472">高</persName>有省，答曰：「鯨吞海水盡，露出珊瑚枝。」<persName key="A009583">溪</persName>可之。會
+<lb ed="B" n="0263a19"/>蔣山虛席，直指僉議，無以易<persName key="A000472">高</persName>，朝旨從之。<g ref="#CB33499">𠪱</g>十有三年，眾逾五
+<lb ed="B" n="0263a20"/>百。<date from-iso="+1275-02-05" key="j21867802187133" to-iso="+1276-01-24">德祐乙亥</date>，亂兵入境，焚毀廬舍，寺幾不保。有軍卒數人，迫<persName key="A000472">高</persName><pb ed="B" xml:id="B27.0151.0263b" n="0263b"/>
+<lb ed="B" n="0263b01"/>求金。<persName key="A000472">高</persName>曰：「此荒寺，貧僧佈施久絕，何從得金？」卒怒，以刃臨之。試
+<lb ed="B" n="0263b02"/>摩其頂，乃延頸曰：「欲殺即殺，非汝礪石。」辤氣雍容，了無佈畏。軍
+<lb ed="B" n="0263b03"/>卒<anchor xml:id="beg_122" type="cb-app"/>斂<anchor xml:id="end_122"/>鋒而退。<persName key="A003626">伯顏</persName>丞相，見之加敬，舍牛頭，齎糧五百石，寺賴以
+<lb ed="B" n="0263b04"/>濟。<persName key="A003626">伯顏</persName>且誡諸將曰：「此老僧非常人，宜異待之。」以故，寺得無恙。</p>
+    <linkGrp>
+        <link targets="#0263a15 #0263a16"/>
+        <ptr target="#A000472" type="person"/>
+        <ptr target="#A004697" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0263a16 #0263a18"/>
+        <ptr target="#A000472" type="person"/>
+        <ptr target="#A009583" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0263b03 #0263b04"/>
+        <ptr target="#A000472" type="person"/>
+        <ptr target="#A003626" type="person"/>
+    </linkGrp>
+</div>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="義解" xml:id="gsz0062a01shiBaoYan">
+<lb ed="B" n="0062a01"/><anchor n="B.27.0151.0062a01"/><head>元玉山普安寺沙門<persName key="A008139">釋寶嚴</persName>傳<persName type="secondary" key="A008138">大林性</persName></head>
+<lb ed="B" n="0062a02"/><p xml:id="pB27p0062a0201"><persName key="A008139">釋寶嚴</persName>，字<persName key="A008139">士威</persName>，<persName key="A008139">幻堂</persName>其號也，成紀康氏子。因罹喪亂，與弟同薙
+<lb ed="B" n="0062a03"/>髮為僧。後參<persName key="A000166">真覺</persName>，得傳<persName key="A002450">賢首</persName>宗旨，而嗣法焉。<persName key="A008139">嚴</persName>為人湻朴無偽，
+<lb ed="B" n="0062a04"/>方寸之地，湛如止水。值<persName key="A000166">真覺</persName>三坐道場，<persName key="A008139">嚴</persName>與弟皆從而佐之。<persName key="A000166">真
+<lb ed="B" n="0062a05"/>覺</persName>入滅，乃繼其席。無何，奉詔住普安、祐國二寺最久。而與<persName key="A008138">大林
+<lb ed="B" n="0062a06"/>性</persName>公表裏，大宏清涼之教。<date from-iso="+1322-08-21" key="j22041432204172" to-iso="+1322-09-19">至治二年七月</date>入寂。世壽五十一，建
+<lb ed="B" n="0062a07"/>塔於封谷之口。</p>
+    <linkGrp>
+        <link targets="#0062a03 #0062a03"/>
+        <ptr target="#A008139" type="person"/>
+        <ptr target="#A000166" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0062a05 #0062a06"/>
+        <ptr target="#A008139" type="person"/>
+        <ptr target="#A008138" type="person"/>
+    </linkGrp>
+</div>

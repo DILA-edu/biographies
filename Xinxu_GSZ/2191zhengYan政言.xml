@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0144a02shiZhengYan">
+<lb ed="B" n="0144a02"/><anchor n="B.27.0151.0144a02"/><head>金燕都潭柘山寺沙門<persName key="A014786">釋政言</persName>傳<persName type="secondary" key="A014655">慈照</persName></head>
+<lb ed="B" n="0144a03"/><p xml:id="pB27p0144a0301"><persName key="A014786">釋政言</persName>，姓王氏，長社人。九歲詣資福院<persName key="A022152">淨良</persName>祝髮、受具戒。後參
+<lb ed="B" n="0144a04"/>香山<persName key="A014655">慈照</persName>。嘗入丈室請益，<persName key="A014655">慈照</persName>曰：「諸法如意，即諸如來。」<persName key="A014786">政</persName>於言
+<lb ed="B" n="0144a05"/>下有省，即說偈：「諸緣不壞，了性無滅，雲散長空，碧天皎月。」<persName key="A014655">照</persName>可
+<lb ed="B" n="0144a06"/>之。後至中都參竹林<persName key="A014773">廣慧通理</persName>。既而<persName key="A043947">梁園<!-- 國 -->大長公主</persName>暨東京留
+<lb ed="B" n="0144a07"/>守<persName key="A043946">曹王</persName>請住潭柘龍泉寺，遂繼<persName key="A043949">惠</persName>公法席三歲。製《頌古》、《拈古》各
+<lb ed="B" n="0144a08"/>百篇，注《禪說金剛歌》，又著《金臺錄真心真說脩行十法門》皆行
+<lb ed="B" n="0144a09"/>於世。後大定間說偈而化。</p>
+    <linkGrp>
+        <link targets="#0144a03 #0144a03"/>
+        <ptr target="#A014786" type="person"/>
+        <ptr target="#A022152" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0144a03 #0144a05"/>
+        <ptr target="#A014786" type="person"/>
+        <ptr target="#A014655" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0144a06 #0144a06"/>
+        <ptr target="#A014786" type="person"/>
+        <ptr target="#A014773" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0144a06 #0144a07"/>
+        <ptr target="#A014786" type="person"/>
+        <ptr target="#A043947" type="person"/>
+        <ptr target="#A043946" type="person"/>
+    </linkGrp>
+</div>

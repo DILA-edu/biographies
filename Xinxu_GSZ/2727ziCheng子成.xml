@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="雜識" xml:id="gsz0446b14shiZiGui">
+<lb ed="B" n="0446b14"/><anchor n="B.27.0151.0446b14"/><head>元渭南洪福寺沙門<persName key="A000079">釋子成</persName>傳</head>
+<lb ed="B" n="0446b15"/><p xml:id="pB27p0446b1501"><persName key="A000079">釋子成</persName>，字<persName key="A000079">彥美</persName>，別號<persName key="A000079">妙明子</persName>，霸陵人。出家於渭南洪福寺，遇<persName key="A044124">魚
+<lb ed="B" n="0446b16"/>嚴老人祥公</persName>處得法，闡揚大乘經論。<date from-iso="+1341-01-26" key="j22108762221593" to-iso="+1370-05-31">元至正間</date>，詔封傳大乘戒，
+<lb ed="B" n="0446b17"/>賜紫<persName key="A000079">閏大國師</persName>。其性愛書史，喜翰墨樂，遊學好著述。每與賢士
+<lb ed="B" n="0446b18"/>大夫詩詞唱和，一聯一句，落在叢席，人多傳之。如《鸚鵡詩》云：「學
+<lb ed="B" n="0446b19"/>得人言字字明，便能巧語為通情；不知身在樊籠裏，猶向堂前
+<lb ed="B" n="0446b20"/>弄舌輕。」《晝寢》云：「夢魂不管擎書手，一帙南華墮枕邊；閑遊云家<pb ed="B" xml:id="B27.0151.0447a" n="0447a"/>
+<lb ed="B" n="0447a01"/>家明月，誰無分處處青山。」《我有緣水心亭》云：「綠芰青荷香滿池，
+<lb ed="B" n="0447a02"/>環亭冷浸碧琉璃；高軒矮榻無纖暑，臥看清波浴鷺鷥。」其長篇
+<lb ed="B" n="0447a03"/>短偈，例皆如此，尤能洞明本宗佛法。白水鄉貢<persName key="A044125">屈蟠</persName>與縣大夫
+<lb ed="B" n="0447a04"/><persName key="A044126">張昂</persName>請註《心經》。五日而成萬二千言，辭理精當，歎為難能。又嘗
+<lb ed="B" n="0447a05"/>綴述本色法事，文集僅二百首，語句雄麗，旨意渾成。同侶得之，
+<lb ed="B" n="0447a06"/>珍秘不出，抑為艱得，無意多傳。後以兵火數驚，避居終南石室。
+<lb ed="B" n="0447a07"/>契此山林，怡我禪性。嘗與來客問難詰折，事盡終始，遂錄成軸，
+<lb ed="B" n="0447a08"/>名曰《折疑論》。首之以序問，終之以會名，凡二十篇，言簡而理當，
+<lb ed="B" n="0447a09"/>文約而義豐，涵泳六經，略備諸子。每一篇之中，其引類證斷，決
+<lb ed="B" n="0447a10"/>折疑理甚明白。今見傳本，金臺大慈恩寺西域<persName key="A000907">師子</persName>比丘為之
+<lb ed="B" n="0447a11"/>述註。</p>
+    <linkGrp>
+        <link targets="#0446b15 #0446b16"/>
+        <ptr target="#A000079" type="person"/>
+        <ptr target="#A044124" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0446b16 #0446b17"/>
+        <ptr target="#A000079" type="person"/>
+        <ptr target="#A006676" type="person"/>
+        <ptr target="#j22108762221593" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0447a03 #0447a04"/>
+        <ptr target="#A000079" type="person"/>
+        <ptr target="#A044125" type="person"/>
+        <ptr target="#A044126" type="person"/>
+    </linkGrp>
+</div>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="義解" xml:id="gsz0059a06shiZiWen">
+<lb ed="B" n="0059a06"/><anchor n="B.27.0151.0059a06"/><head>元明州寶雲寺沙門<persName key="A007983">釋子文</persName>傳</head>
+<lb ed="B" n="0059a07"/><p xml:id="pB27p0059a0701"><persName key="A007983">釋子文</persName>，字<persName key="A007983">宗周</persName>，四明象山人也。即<persName key="A007984">北溪聞</persName>法師之上足。出主寶
+<lb ed="B" n="0059a08"/>雲寺，淹博教觀，律規甚嚴。常與人言，則蹇訥若不出口。至於升
+<lb ed="B" n="0059a09"/>座，滔滔如建瓴<!-- 屋瓦的溝 -->之水，莫之禦也。臨終時講《十六觀經》終，即欲就
+<lb ed="B" n="0059a10"/>座，別眾入滅。或有啟曰：「和尚後事未曾分付，奈何遽爾告寂耶？」
+<lb ed="B" n="0059a11"/><persName key="A007983">文</persName>曰：「僧家要行便行，豈若俗人為兒女計，而有後事？」眾懇益切，
+<lb ed="B" n="0059a12"/>於是下座，復歸方丈，一一條畫之，即合掌回向，遂入滅。闍維舍
+<lb ed="B" n="0059a13"/>利燦然，異香襲人，彌日而止。</p>
+    <linkGrp>
+        <link targets="#0059a07 #0059a07"/>
+        <ptr target="#A007983" type="person"/>
+        <ptr target="#A007984" type="person"/>
+    </linkGrp>
+</div>

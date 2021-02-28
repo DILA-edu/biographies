@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="義解" xml:id="gsz0061b02shiLiaoXing">
+<lb ed="B" n="0061b02"/><anchor n="B.27.0151.0061b02"/><head>元五臺山普寧寺沙門<persName key="A008138">釋了性</persName>傳</head>
+<lb ed="B" n="0061b03"/><p xml:id="pB27p0061b0301"><persName key="A008138">釋了性</persName>，號<persName key="A008138">大林</persName>，武氏子也。<persName key="A008183">宋武公</persName>之後，以諡為姓。少即好學，聰
+<lb ed="B" n="0061b04"/>叡天啟。初依<persName key="A008184">安</persName>和尚薙髮、登具戒。歷諸講席，精究三藏。後遇<persName key="A000166">真
+<lb ed="B" n="0061b05"/>覺國師</persName>，啟迪厥心。既而周遊關<anchor xml:id="beg_18" type="cb-app"/>陝<anchor xml:id="end_18"/>、河洛、襄漢，訪諸耆德，從而學
+<lb ed="B" n="0061b06"/>焉。如<persName key="A008154">泊林潭</persName>、<persName key="A010799">關輔懷</persName>、<persName key="A010800">南陽慈</persName>諸公，皆以<persName key="A002450">賢首</persName>之學着稱一時。<persName key="A008138">性</persName>
+<lb ed="B" n="0061b07"/>悉造其門，領厥玄旨。及歸，復參<persName key="A000166">真覺</persName>於壠坻。乃曰：「佛法司南，其
+<lb ed="B" n="0061b08"/>在茲矣。」乃從<persName key="A000166">真覺</persName>至五臺。未幾<persName key="A000166">真覺</persName>化去，遂北遊燕薊，晦迹魏
+<lb ed="B" n="0061b09"/>闕之下，優游渤海之濱，與世若將相忘。<persName key="A004321">成宗</persName>徵居萬寧，聲價振
+<lb ed="B" n="0061b10"/>蕩內外。<date notBefore-iso="+1308-02-01" key="j21988282200303" notAfter-iso="+1312-02-15">至大間</date>，<ref type="person" target="#A010801">太后</ref>剏寺臺山曰「普寧」，延<persName key="A008138">性</persName>居之。<persName key="A008138">性</persName>為人剛毅，
+<lb ed="B" n="0061b11"/>頗負氣節，不能俛仰媚悅於人，故足跡不入城闉，不謁權貴，人
+<lb ed="B" n="0061b12"/>或忌之。<persName key="A008138">性</persName>聞，嘗曰：「予本以一介苾芻，蒙<ref type="person" target="#A004321">天子</ref>處之以巨剎。惟乃
+<lb ed="B" n="0061b13"/>夙夜宏法匪懈，圖報國恩不暇，餘復何求？雖有<persName key="A023222">臧倉</persName>毀<anchor xml:id="beg006101"/>鬲<anchor xml:id="end006101"/>之言，
+<lb ed="B" n="0061b14"/>其如青蠅止棘樊耳！顧予命之不遭，道之不行，則納履而去，何
+<lb ed="B" n="0061b15"/>往而不可也？」時元世因尊寵西僧，其徒眾甚盛，出入騎從，擬若
+<lb ed="B" n="0061b16"/>王公，或項赤毳峩冠，岸然自倨，天下名德諸師，莫不為之致禮，
+<lb ed="B" n="0061b17"/>摳衣接足，丐其按顱摩頂，謂之攝受。<persName key="A008138">性</persName>惟長揖而已。顧謂眾曰：
+<lb ed="B" n="0061b18"/>「吾敢慢於人耶？吾聞君子愛人以禮，何可屈節，自取卑辱？苟為
+<lb ed="B" n="0061b19"/>之屈，非謟則侫，吾自為道，於彼何求？」識者高之。<date when-iso="+1321-10-02" key="j22038202203820">至治改元九月
+<lb ed="B" n="0061b20"/>三日</date>示寂，塔於竹林之墟，諡曰<persName key="A008138">宏教</persName>。</p>
+    <linkGrp>
+        <link targets="#0061b04 #0061b04"/>
+        <ptr target="#A008138" type="person"/>
+        <ptr target="#A008184" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0061b04 #0061b05"/>
+        <ptr target="#A008138" type="person"/>
+        <ptr target="#A000166" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0061b06 #0061b06"/>
+        <ptr target="#A008138" type="person"/>
+        <ptr target="#A008154" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0061b06 #0061b06"/>
+        <ptr target="#A008138" type="person"/>
+        <ptr target="#A010799" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0061b06 #0061b06"/>
+        <ptr target="#A008138" type="person"/>
+        <ptr target="#A010800" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0061b07 #0061b08"/>
+        <ptr target="#A008138" type="person"/>
+        <ptr target="#A000166" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0061b09 #0061b09"/>
+        <ptr target="#A008138" type="person"/>
+        <ptr target="#A004321" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0061b10 #0061b10"/>
+        <ptr target="#A008138" type="person"/>
+        <ptr target="#A010801" type="person"/>
+        <ptr target="#j21988282200303" type="time"/>
+    </linkGrp>
+</div>

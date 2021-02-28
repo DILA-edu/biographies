@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="義解" xml:id="gsz0059b18shiWenCai">
+<lb ed="B" n="0059b18"/><anchor n="B.27.0151.0059b18"/><head>元五臺山祐國寺沙門<persName key="A000166">釋文才</persName>傳<persName type="secondary" key="A008117">迦羅斯巴</persName></head>
+<lb ed="B" n="0059b19"/><p xml:id="pB27p0059b1901"><persName key="A000166">釋文才</persName>，號<persName key="A000166">仲華</persName>，清水楊氏子。其先宏農人，世官壠坻，父<persName key="A008114">淨義</persName>為
+<lb ed="B" n="0059b20"/>清水主簿，遂家焉。<persName key="A000166">才</persName>少孤，事母盡孝。性敏捷慧悟生知<!-- 生而知之？ -->，於古今<pb ed="B" xml:id="B27.0151.0060a" n="0060a"/>
+<lb ed="B" n="0060a01"/>墳典史籍，無不精究，尤邃於理學。好古作，善吟咏。然所稟敦朴，
+<lb ed="B" n="0060a02"/>若無所知。或對客討論，邈如河漢，莫窺其涯涘。自受具後，徧游
+<lb ed="B" n="0060a03"/>講肆，盡得<persName key="A002450">賢首</persName>之學。嘗曰：「學貴宗通，言必會意，以意逆志，則得
+<lb ed="B" n="0060a04"/>之矣。其語言、文字糟粕耳！豈能開人之慧目乎？」初隱成紀，築室
+<lb ed="B" n="0060a05"/>樹松，將欲終焉，故人稱曰「松堂」。<persName key="A002085">元世祖</persName>命主洛陽白馬寺，學者
+<lb ed="B" n="0060a06"/>奔川赴海，聲譽日馳。<persName key="A004321">成宗</persName>建萬聖寺于五臺，詔求開山住持。時
+<lb ed="B" n="0060a07"/>帝師<persName key="A008117">迦羅斯巴</persName>薦之。<persName key="A004321">成宗</persName>即鑄金印，署為「真覺國師」，總釋源宗，
+<lb ed="B" n="0060a08"/>兼祐國住持事。<ref type="person" target="#A008117">帝師</ref>賫旨至，<persName key="A000166">才</persName>辭曰：「山僧荷蒙國恩，居白馬寺
+<lb ed="B" n="0060a09"/>亦過矣，何德敢主祐國？越分以居，不祥不省而行不明。吾坐此
+<lb ed="B" n="0060a10"/>二，煩為我辭。」<ref type="person" target="#A008117">帝師</ref>曰：「此上命也。上於是寺，心亦勤且至矣，非師
+<lb ed="B" n="0060a11"/>孰與？此係教門事，師善為之。」於是不得已而行。既被命以來，大
+<lb ed="B" n="0060a12"/>宏清涼之道，至老無怠。<date when-iso="+1302-09-30" key="j21968782196878">大德六年壬寅九月朔日</date>示微疾，乃說
+<lb ed="B" n="0060a13"/>法辭眾，端坐而寂。年六十有二，闍維舍利數百粒，塔於東臺之
+<lb ed="B" n="0060a14"/>麓。嗣法有普寧<persName key="A008138">宏教</persName>、普庵<persName key="A008139">幻堂</persName>。</p>
+    <linkGrp>
+        <link targets="#0059b19 #0059b19"/>
+        <ptr target="#A000166" type="person"/>
+        <ptr target="#A008114" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0060a05 #0060a05"/>
+        <ptr target="#A000166" type="person"/>
+        <ptr target="#A002085" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0060a06 #0060a11"/>
+        <ptr target="#A000166" type="person"/>
+        <ptr target="#A004321" type="person"/>
+        <ptr target="#A008117" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0060a14 #0060a14"/>
+        <ptr target="#A000166" type="person"/>
+        <ptr target="#A008138" type="person"/>
+        <ptr target="#A008139" type="person"/>
+    </linkGrp>
+</div>

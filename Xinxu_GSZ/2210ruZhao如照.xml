@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0154a13shiRuZhao">
+<lb ed="B" n="0154a13"/><anchor n="B.27.0151.0154a13"/><head>元泉州開元寺沙門<persName key="A003962">釋如照</persName>傳<persName type="secondary" key="A003963">道符</persName><persName type="secondary" key="A003966">廣漩</persName></head>
+<lb ed="B" n="0154a14"/><p xml:id="pB27p0154a1401"><persName key="A003962">釋如照</persName>，字<persName key="A003962">元明</persName>，一號<persName key="A003962">寂室</persName>，出晉江蔡氏。初從袒膊院<persName key="A003963">道符</persName>出家。
+<lb ed="B" n="0154a15"/><persName key="A003963">符</persName>業白良，苦<persName key="A003962">照</persName>化之，更嘗世難，不一變志。<date from-iso="+1283-02-06" key="j21897032190056" to-iso="+1284-01-25">元至元二十年</date>，祝髮
+<lb ed="B" n="0154a16"/>受具。再踰年而合剎議定：開元、袒膊並為一家，延<persName key="A000471">玅恩</persName>開山。<persName key="A003962">照</persName>
+<lb ed="B" n="0154a17"/>實左右之。已而辭去，負簦游方，咨訪甚力。天慧內發，深有所悟。
+<lb ed="B" n="0154a18"/>嘗典客雪峰，刺血書《法華經》。及歸故業，復血書《華嚴》、《楞嚴》，<persName key="A000471">恩</persName>益
+<lb ed="B" n="0154a19"/>禮之。及<persName key="A000471">恩</persName>遷化，<persName key="A003630">契祖</persName>繼席，命之知藏。未幾，出主安溪泰山巖。不
+<lb ed="B" n="0154a20"/>數月，歸者如市，百廢具興。<date from-iso="+1304-02-14" key="j21973802197734" to-iso="+1305-02-02">大德延祐<!-- 延祐無八年，疑為衍字。 -->八年</date>，<persName key="A003630">祖</persName>命還山，已有付屬<pb ed="B" xml:id="B27.0151.0154b" n="0154b"/>
+<lb ed="B" n="0154b01"/>意。及<persName key="A003630">祖</persName>寂，宣政命<persName key="A003962">照</persName>補其處。<persName key="A003962">照</persName>不宿怨，無親疏卑尊，一遇以誠。
+<lb ed="B" n="0154b02"/>而延接四方，亹亹若不及。其說明白嚴正，大厭服人。佛成道日，
+<lb ed="B" n="0154b03"/>上堂曰：「雪滿於山，星回於天，一見便見，更待六年。瞿曇瞿曇，無
+<lb ed="B" n="0154b04"/>端引得眾生起顛倒，東土望西天。」又曰：「雪窖生埋幸可憐，六年
+<lb ed="B" n="0154b05"/>曾不動機緘，眼皮爆綻三更後，明破星兒即不堪。」道譽<ref type="person" target="#A004321">上</ref>聞，錫
+<lb ed="B" n="0154b06"/><persName key="A003962">佛果弘覺</persName>之號。<date when-iso="+1331-06-01" key="j22073492207349">至順二年四月十七日</date>，無疾<g ref="#CB12464">𣹆</g><!-- 溘 -->化，年七十有四，
+<lb ed="B" n="0154b07"/>臘四十有九。闍維藏靈骨於故塔。弟子<persName key="A003966">廣漩</persName>，字<persName key="A003966">空海</persName>，晉江蘇氏
+<lb ed="B" n="0154b08"/>子。性不肉食，幼而聰慧。初從<persName key="A003962">照</persName>受《楞巖》，匝月悉能誦，<persName key="A003962">照</persName>奇之。度
+<lb ed="B" n="0154b09"/>為僧，益致力禪奧，心光炯炯，達旦不寐。爾後雖宿衲，無能當其
+<lb ed="B" n="0154b10"/>辯者。嘗游方以試，真珠華頌，見知雪峰，甫之龍華，尋知藏鑰。所
+<lb ed="B" n="0154b11"/>為頌多驚策語。其《詠鼠》有云：「尋光來佛後，竊食犯僧殘。」後還寺
+<lb ed="B" n="0154b12"/>遷首座。一夕濡筆大書曰：「百年大夢今方醒。」遂隱几而化。其弟
+<lb ed="B" n="0154b13"/>子<persName key="A003579">大圭</persName>著《紫雲開士傳》者，別有傳。</p>
+    <linkGrp>
+        <link targets="#0154a14 #0154a15"/>
+        <ptr target="#A003962" type="person"/>
+        <ptr target="#A003963" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0154a16 #0154a19"/>
+        <ptr target="#A003962" type="person"/>
+        <ptr target="#A000471" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0154a19 #0154a20"/>
+        <ptr target="#A003962" type="person"/>
+        <ptr target="#A003630" type="person"/>
+        <ptr target="#j21973802197734" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0154b05 #0154b05"/>
+        <ptr target="#A003962" type="person"/>
+        <ptr target="#A004321" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0154b07 #0154b08"/>
+        <ptr target="#A003962" type="person"/>
+        <ptr target="#A003966" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0154b12 #0154b13"/>
+        <ptr target="#A003579" type="person"/>
+        <ptr target="#A003966" type="person"/>
+    </linkGrp>
+</div>

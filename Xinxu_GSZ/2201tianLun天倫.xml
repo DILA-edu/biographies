@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0149b08shiTianLun">
+<lb ed="B" n="0149b08"/><anchor n="B.27.0151.0149b08"/><head>元明州佛巖寺沙門<persName key="A007789">釋天倫</persName>傳</head>
+<lb ed="B" n="0149b09"/><p xml:id="pB27p0149b0901"><persName key="A007789">釋天倫</persName>，字<persName key="A007789">仲方</persName>，姓張氏，象山人也。幼而岐嶷，投廣德天寧<persName key="A000285">竺源</persName>
+<lb ed="B" n="0149b10"/>薙落。<persName key="A000285">源</persName>曰：「汝志宏遠，堪任大法，無為我滯時。<persName key="A008284">晦機</persName>在淨慈。」<persName key="A007789">倫</persName>遂
+<lb ed="B" n="0149b11"/>往見之。纔入門，<persName key="A008284">機</persName>云：「湖山靄靄，湖水洋洋，浸爛鼻孔，塞破眼睛，
+<lb ed="B" n="0149b12"/>因甚不知？」<persName key="A007789">倫</persName>云：「通身無影像，步步絕行蹤。」<persName key="A008284">機</persName>令更道，拂袖便出。
+<lb ed="B" n="0149b13"/><persName key="A008284">機</persName>俾居侍司，復掌藏鑰，憚其繁雜。聞吳興桃花塢尤僻，邃乃縛
+<lb ed="B" n="0149b14"/>茅焉。一日灌園，忽四山雲暝，驟雨疾風，摧折林木，霹靂一聲，胸
+<lb ed="B" n="0149b15"/>中疑礙頓釋，乃曰：「大奇！大奇！攝轉空虛，顛倒騎蟭螟，吞<anchor xml:id="beg_7e" type="cb-app"/>卻<anchor xml:id="end_7e"/>五須
+<lb ed="B" n="0149b16"/>彌。曩於南屏室中，屢叩終不為我道，使當時說破，安有今日邪？」
+<lb ed="B" n="0149b17"/><date from-iso="+1327-02-01" key="j22057682206151" to-iso="+1328-02-19">元泰定丁卯</date>出主慶德東泉，遷明之佛巖。將終謂<persName key="A001737">淨覺曇</persName>曰：「今
+<lb ed="B" n="0149b18"/>日何日？」曰：「小盡。」曰：「不宜。明日五月朔，吾即行矣。」應期而化。</p>
+    <linkGrp>
+        <link targets="#0149b09 #0149b10"/>
+        <ptr target="#A007789" type="person"/>
+        <ptr target="#A000285" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0149b11 #0149b13"/>
+        <ptr target="#A007789" type="person"/>
+        <ptr target="#A008284" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0149b17 #0149b18"/>
+        <ptr target="#A007789" type="person"/>
+        <ptr target="#A001737" type="person"/>
+    </linkGrp>
+</div>

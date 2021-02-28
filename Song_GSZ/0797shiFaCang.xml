@@ -83,9 +83,4 @@ ed="T" n="0732b14"/>藏國師</persName>是歟<ptr target="#n679"/>！</p>
         <ptr target="#A002099" type="person"/>
         <ptr target="#j19766771976677" type="time"/>
     </linkGrp>
-    <linkGrp>
-        <link targets="#0732b12 #0732b12"/>
-        <ptr target="#A002450" type="person"/>
-        <ptr target="#A001755" type="person"/>
-    </linkGrp>
 </div>

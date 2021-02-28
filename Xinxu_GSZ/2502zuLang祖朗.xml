@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="淨讀" xml:id="gsz0322b02shiZuLang">
+<lb ed="B" n="0322b02"/><anchor n="B.27.0151.0322b02"/><head>金燕都香林寺沙門<persName key="A015304">釋祖朗</persName>傳<persName type="secondary" key="A044049">淨觀</persName><persName type="secondary" key="A044050">利先</persName></head>
+<lb ed="B" n="0322b03"/><p xml:id="pB27p0322b0301"><persName key="A015304">釋祖朗</persName>，姓李氏，薊人也。蚤歲出家，清操自矢。<date notBefore-iso="+1161-11-03" key="j21454132155742" notAfter-iso="+1190-02-13">金大定中</date>，<g ref="#CB33499">𠪱</g>主崇
+<lb ed="B" n="0322b04"/>壽、香林諸寺。<date notBefore-iso="+1213-10-07" key="j21643792165848" notAfter-iso="+1217-10-15">真祐間</date>，賜號<persName key="A015304">圓通大師</persName>。日誦彌陀幾萬聲。年七十
+<lb ed="B" n="0322b05"/>有四，將示寂，告其徒曰：「吾緣盡矣。」其徒訝之。踰七日，口占偈曰：
+<lb ed="B" n="0322b06"/>「咄者皮袋，常為患害；繼祖無能，念佛何賴？來亦無來，去亦無礙；
+<lb ed="B" n="0322b07"/>四大五陰，一時敗壞；且道猶有，不敗者乎。」良久云：「浮雲散盡月
+<lb ed="B" n="0322b08"/>昇空，極樂光中常自在。」遂跏趺而卒。<persName key="A044049">淨觀</persName>住嘉興寂光庵，修淨
+<lb ed="B" n="0322b09"/>土懺法十餘年。謂弟子曰：「我後二十七日行矣。」至期見紅蓮華，
+<lb ed="B" n="0322b10"/>復見黃華滿空，有童子坐於華上招之而去。三日入龕端坐，視
+<lb ed="B" n="0322b11"/>之若生。<persName key="A044050">利先</persName>居新城法慧寺。日誦《法華》，兼持佛號。每至中夜，其
+<lb ed="B" n="0322b12"/>聲哀切，願早脫去，往生極樂。晚歲屢感祥兆。偶示疾，命眾唱佛，
+<lb ed="B" n="0322b13"/>凝眸西向而望，若有所覩。輾然而逝。</p>
+    <linkGrp>
+        <link targets="#0322b04 #0322b04"/>
+        <ptr target="#A015304" type="person"/>
+        <ptr target="#A006636" type="person"/>
+        <ptr target="#j21643792165848" type="time"/>
+    </linkGrp>
+</div>

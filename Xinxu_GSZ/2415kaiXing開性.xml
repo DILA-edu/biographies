@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="靈感" xml:id="gsz0280a16shiKaiXing">
+<lb ed="B" n="0280a16"/><anchor n="B.27.0151.0280a16"/><head>金燕都潭柘山寺沙門<persName key="A014773">釋開性</persName>傳</head>
+<lb ed="B" n="0280a17"/><p xml:id="pB27p0280a1701"><persName key="A014773">釋開性</persName>，姓侯氏，懷柔人也。<ref type="date" target="#j21272462127600">九歲</ref>依都城嘉福寺<persName key="A022157">戒振</persName>為沙彌。<ref type="date" target="#j21294312129814">年
+<lb ed="B" n="0280a18"/>十五</ref>受具戒，<date from-iso="+1138-02-19" key="j21367552137108" to-iso="+1139-02-07">天眷初</date>參<persName key="A000475">佛日</persName>於汴梁。未幾豁悟心法，作頌呈<persName key="A000475">日</persName>。
+<lb ed="B" n="0280a19"/><persName key="A000475">日</persName>首肎<!-- 通「肯」 -->之，付以法。乃潛南行，<g ref="#CB33499">𠪱</g>齊魯。時<persName key="A022158">昭禪師</persName>居越峰，將造之。
+<lb ed="B" n="0280a20"/>是夕有神人，冠服甚偉，語<persName key="A022158">昭</persName>曰：「<persName key="A014773">廣慧</persName>大士明日來，當掃館宇以<pb ed="B" xml:id="B27.0151.0280b" n="0280b"/>
+<lb ed="B" n="0280b01"/>待。」詰旦，<persName key="A014773">開性</persName>至，眾咸異之。後主大剎。<date notBefore-iso="+1161-11-03" key="j21454132155742" notAfter-iso="+1190-02-13">金大定間</date>，僧<persName key="A044031">善誨</persName>十餘輩，
+<lb ed="B" n="0280b02"/>請主潭柘。<persName key="A014773">開</persName>念：「古祖道場，禪學掃地，二百餘年，吾將起廢。」遂往
+<lb ed="B" n="0280b03"/>經畫，眾以規模弘大，懼難。遽集，<persName key="A014773">開</persName>曰：「患誠不至耳，誠至奚患無
+<lb ed="B" n="0280b04"/>成？」方鑿石間，忽有大石崩墜，眾悉駭避。<persName key="A014773">開</persName>恬不顧，石飛落去，<persName key="A014773">開</persName>
+<lb ed="B" n="0280b05"/>才咫尺，眾皆異之，以為志願精慤，致神祐也。十有一年，工始告
+<lb ed="B" n="0280b06"/>止。<date when-iso="+1175-07-26" key="j21504262150426">大定十五年六月晦日</date>，沐浴易衣，說偈而化。壽七十二，臘五
+<lb ed="B" n="0280b07"/>十七，荼毘後建塔於潭柘虎首之陽。著有《語錄》三編，手訂寺中
+<lb ed="B" n="0280b08"/>規則，至今遵守，無敢遺焉。</p>
+    <linkGrp>
+        <link targets="#0280a17 #0280a17"/>
+        <ptr target="#A014773" type="person"/>
+        <ptr target="#A022157" type="person"/>
+        <ptr target="#j21272462127600" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0280a18 #0280a19"/>
+        <ptr target="#A014773" type="person"/>
+        <ptr target="#A000475" type="person"/>
+        <ptr target="#j21367552137108" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0280a19 #0280b01"/>
+        <ptr target="#A014773" type="person"/>
+        <ptr target="#A022158" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0280b01 #0280b03"/>
+        <ptr target="#A014773" type="person"/>
+        <ptr target="#A044031" type="person"/>
+        <ptr target="#j21454132155742" type="time"/>
+    </linkGrp>
+</div>

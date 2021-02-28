@@ -1,18 +1,53 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="義解" xml:id="gsz0060b03shiDeQian">
-<lb ed="B" n="0060b03"/><anchor n="B.27.0151.0060b03"/><head>元京都崇恩寺沙門釋德謙傳</head>
-<lb ed="B" n="0060b04"/><p xml:id="pB27p0060b0401">釋德謙號福元姓楊氏定平人也幼而勤敏嗜誦佛書稍長即
-<lb ed="B" n="0060b05"/>游秦洛汴汝逾河北齊魏燕趙之邦諮訪先德初受般若於邠
-<lb ed="B" n="0060b06"/>州寧公習瑞應於原州忠公受幽贊於好畤仙公學圓覺於乾
-<lb ed="B" n="0060b07"/>陵一公究唯識俱舍等論於<anchor xml:id="beg_17" type="cb-app"/>陝<anchor xml:id="end_17"/>州頙公聽棱嚴四分律疏於陽
-<lb ed="B" n="0060b08"/>夏聞公凡六經四論一律皆辭宏旨奧窮三藏之蘊而數公並
-<lb ed="B" n="0060b09"/>以識法解義聲名遠聞謙皆親熏炙之而必臻其道後至京師
-<lb ed="B" n="0060b10"/>受華嚴於大司徒萬安壇主初詔居萬寧寺遷崇恩前後十紀
-<lb ed="B" n="0060b11"/>道德簡於宸衷流聲揚於海外未嘗以榮顯寵遇改其志嘗曰
-<lb ed="B" n="0060b12"/>畦衣之士抗於世表苟不媿於朝聞夕死尚何慕焉自以重居
-<lb ed="B" n="0060b13"/>巨剎久佩恩榮唯恬退為高乃讓席與弟子自居幽僻謝絕人
-<lb ed="B" n="0060b14"/>事括囊一室以明其明樂其樂處世而遺世者也元延祐四年
-<lb ed="B" n="0060b15"/>正月二十有六日示寂帝賜錢五十緡賻葬敕有司備儀衛旛
-<lb ed="B" n="0060b16"/>幢音樂送之茶毗獲舍利數十顆建塔於城南隅世壽五十有
-<lb ed="B" n="0060b17"/>一臘四十有三</p>
+<lb ed="B" n="0060b03"/><anchor n="B.27.0151.0060b03"/><head>元京都<anchor xml:id="beg006001"/>崇<anchor xml:id="end006001"/>恩寺沙門<persName key="A008163">釋德謙</persName>傳</head>
+<lb ed="B" n="0060b04"/><p xml:id="pB27p0060b0401"><persName key="A008163">釋德謙</persName>，號<persName key="A008163">福元</persName>，姓楊氏，定平人也。幼而勤敏，嗜誦佛書。稍長即
+<lb ed="B" n="0060b05"/>游秦洛汴汝，逾河北齊魏燕趙之邦，諮訪先德。初受般若於邠
+<lb ed="B" n="0060b06"/>州<persName key="A008168">寧</persName>公，習瑞應於原州<persName key="A008169">忠</persName>公，受幽贊於好畤<persName key="A008170">仙</persName>公，學圓覺於乾
+<lb ed="B" n="0060b07"/>陵<persName key="A008172">一</persName>公，究唯識俱舍等論於<anchor xml:id="beg_17" type="cb-app"/>陝<anchor xml:id="end_17"/>州<persName key="A008171">頙</persName>公，聽棱嚴四分律疏於陽
+<lb ed="B" n="0060b08"/>夏<persName key="A008173">聞</persName>公。凡六經四論，一律皆辭宏旨奧，窮三藏之蘊。而數公並
+<lb ed="B" n="0060b09"/>以識法解義，聲名遠聞。<persName key="A008163">謙</persName>皆親熏炙之而必臻其道。後至京師
+<lb ed="B" n="0060b10"/>受華嚴於大司徒<persName key="A008174">萬安壇主</persName>。初詔居萬寧寺，遷崇恩。前後十紀，
+<lb ed="B" n="0060b11"/>道德簡於宸衷，流聲揚於海外。未嘗以榮顯寵遇改其志。嘗曰：
+<lb ed="B" n="0060b12"/>「畦衣之士抗於世表，苟不媿於朝聞夕死，尚何慕焉？」自以重居
+<lb ed="B" n="0060b13"/>巨剎，久佩恩榮，唯恬退為高。乃讓席與弟子，自居幽僻，謝絕人
+<lb ed="B" n="0060b14"/>事。括囊一室，以明其明，樂其樂，處世而遺世者也。<date when-iso="+1317-02-16" key="j22021312202131">元延祐四年
+<lb ed="B" n="0060b15"/>正月二十有六日</date>示寂，<ref type="person" target="#A002087">帝</ref>賜錢五十緡賻葬，敕有司備儀衛、旛
+<lb ed="B" n="0060b16"/>幢、音樂送之。茶毗獲舍利數十顆，建塔於城南隅。世壽五十有
+<lb ed="B" n="0060b17"/>一，臘四十有三。</p>
+    <linkGrp>
+        <link targets="#0060b05 #0060b06"/>
+        <ptr target="#A008163" type="person"/>
+        <ptr target="#A008168" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0060b06 #0060b06"/>
+        <ptr target="#A008163" type="person"/>
+        <ptr target="#A008169" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0060b06 #0060b06"/>
+        <ptr target="#A008163" type="person"/>
+        <ptr target="#A008170" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0060b06 #0060b07"/>
+        <ptr target="#A008163" type="person"/>
+        <ptr target="#A008172" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0060b07 #0060b07"/>
+        <ptr target="#A008163" type="person"/>
+        <ptr target="#A008171" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0060b07 #0060b08"/>
+        <ptr target="#A008163" type="person"/>
+        <ptr target="#A008173" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0060b10 #0060b10"/>
+        <ptr target="#A008163" type="person"/>
+        <ptr target="#A008174" type="person"/>
+    </linkGrp>
 </div>

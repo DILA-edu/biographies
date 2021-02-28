@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="義解" xml:id="gsz0060a15shiYingBian">
+<lb ed="B" n="0060a15"/><anchor n="B.27.0151.0060a15"/><head>元秦州景福寺沙門<persName key="A008140">釋英辯</persName>傳<persName type="secondary" key="A008154">柏林潭</persName></head>
+<lb ed="B" n="0060a16"/><p xml:id="pB27p0060a1601"><persName key="A008140">釋英辯</persName>，號<persName key="A008140">普覺</persName>，俗姓趙。垂髫為驅烏沙彌，弱冠受具戒。<ref type="date" target="#j21853322185686">年二十
+<lb ed="B" n="0060a17"/>有五</ref>，得學於<persName key="A008154">柏林潭</persName>。才三<g ref="#CB05771">䆊</g>，出世於秦州景福寺，其道大震，聲
+<lb ed="B" n="0060a18"/>馳四表，推伏異見，樹正法幢。<persName key="A008140">英辯</persName>資性真純，如玉含璞，不加雕
+<lb ed="B" n="0060a19"/>繪，人愛重之。至於悍卒武夫，亦能展敬，以為無佛世之佛也。每
+<lb ed="B" n="0060a20"/>得襯幣，悉剏梵剎、食僧伽、施貧乏。<persName key="A002085">元世祖</persName>聞其高風，降旨旌異。<pb ed="B" xml:id="B27.0151.0060b" n="0060b"/>
+<lb ed="B" n="0060b01"/>至<date when-iso="+1314-08-17" key="j22012172201217">延祐元年六月庚戌</date>，無疾辭眾坐寂。塔於普覺寺後，年六十
+<lb ed="B" n="0060b02"/>有八，臘六十有一。</p>
+    <linkGrp>
+        <link targets="#0060a16 #0060a17"/>
+        <ptr target="#A008140" type="person"/>
+        <ptr target="#A008154" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0060a20 #0060a20"/>
+        <ptr target="#A008140" type="person"/>
+        <ptr target="#A002085" type="person"/>
+    </linkGrp>
+</div>

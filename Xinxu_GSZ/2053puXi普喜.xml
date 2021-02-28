@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="義解" xml:id="gsz0062b03shiPuXi">
+<lb ed="B" n="0062b03"/><anchor n="B.27.0151.0062b03"/><head>元鎮江普照寺沙門<persName key="A008192">釋普喜</persName>傳<persName type="secondary" key="A008194">無念端</persName></head>
+<lb ed="B" n="0062b04"/><p xml:id="pB27p0062b0401"><persName key="A008192">釋普喜</persName>，號<persName key="A008192">吉祥</persName>，山東人也。身偉面黑而瘠，甚類梵僧。早歲懇父
+<lb ed="B" n="0062b05"/>母出家，父母責以無後為大，因娶育二子。已而始得為沙門。精
+<lb ed="B" n="0062b06"/>究慈恩相宗，研習《唯識》、《師地》、《因明》等論。<date from-iso="+1288-02-10" key="j21915332191887" to-iso="+1289-01-29">元至元二十五年</date>，<persName key="A002085">薛禪
+<lb ed="B" n="0062b07"/>皇帝</persName>剏立江淮御講之所，普照居其一也，詔<persName key="A008192">喜</persName>主之。升座敷演，
+<lb ed="B" n="0062b08"/>四眾傾服。且日誦《華嚴》大經，以十卷為常課。而素與雲南<persName key="A008194">端無
+<lb ed="B" n="0062b09"/>念</persName>相善。<persName key="A008194">端</persName>為《唯識》之巨魁，天下無出其右。每與<persName key="A008192">喜</persName>論辯理趣，或
+<lb ed="B" n="0062b10"/>有少失，即以正言救之，<persName key="A008194">端</persName>亦為誠服。入滅荼毘，舍利甚夥。其門
+<lb ed="B" n="0062b11"/>人<g ref="#CB08428">𤲢</g>其靈骨，貯以髹函奉藏。二十餘年，始建塔於丹徒雩山。逮
+<lb ed="B" n="0062b12"/>入塔之際，啟視之。但見舍利霑綴函<g ref="#CB17192">󴌨</g><!-- 袱 -->，若蜂屯蟻聚，觸之熠熠
+<lb ed="B" n="0062b13"/>然也。鎮江之民，多有圖像，隨處祠之，稱為<persName key="A008192">吉祥佛</persName>云。</p>
+    <linkGrp>
+        <link targets="#0062b06 #0062b07"/>
+        <ptr target="#A008192" type="person"/>
+        <ptr target="#A002085" type="person"/>
+        <ptr target="#j21915332191887" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0062b08 #0062b10"/>
+        <ptr target="#A008192" type="person"/>
+        <ptr target="#A008194" type="person"/>
+    </linkGrp>
+</div>

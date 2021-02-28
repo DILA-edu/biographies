@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="雜識" xml:id="gsz0446a05shiSiQuan">
+<lb ed="B" n="0446a05"/><anchor n="B.27.0151.0446a05"/><head>元泰安靈巖寺沙門<persName key="A044120">釋思泉</persName>傳</head>
+<lb ed="B" n="0446a06"/><p xml:id="pB27p0446a0601"><persName key="A044120">釋思泉</persName>，姓何氏，象元人。早失恃怙，甇然孑立。年十有六，禮<persName key="A043973">寶峯
+<lb ed="B" n="0446a07"/>順</persName>為師。<persName key="A044120">泉</persName>氣宇不凡，既習經業，兼究玄旨，大愜<persName key="A043973">順</persName>心。瞻禮四方，
+<lb ed="B" n="0446a08"/>首詣燕都。報恩<persName key="A020886">林泉</persName>，爇香叩請，窮研數載，頗有悟入。後至萬壽
+<lb ed="B" n="0446a09"/>東川，總統入室誠祈，亦有啟迪。偶值餘暇，旁通醫書。嘗遊上都，
+<lb ed="B" n="0446a10"/>依經作法，捨施妙藥。居數十稔，頗厭京塵，直詣山東靈巗，充職
+<lb ed="B" n="0446a11"/>首座。廣種桃杏，徧滿山谷，依元舍藥，不恡囊貲，人多德之。同侶
+<lb ed="B" n="0446a12"/><persName key="A044121">思亨</persName>，姓趙氏，愛凌人，亦<persName key="A043973">寶峯順</persName>弟子也。披度後，負笈游學，博通
+<lb ed="B" n="0446a13"/>諸經。又以餘力，兼窮儒典，善讀《廣韵》，能曉切音。道高貌古，德厚
+<lb ed="B" n="0446a14"/>人欽。諸路釋教都總統，仰厥譽聞，加號<persName key="A044121">圓明慈覺大師</persName>。而昭文
+<lb ed="B" n="0446a15"/>館大學士<persName key="A004030">榮祿大夫</persName>又加號曰<persName key="A044121">明宗廣教大師</persName>。<persName key="A044120">思泉</persName>亦受<persName key="A044120">慈濟
+<lb ed="B" n="0446a16"/>大師</persName>之號於昭文館大學士<persName key="A044122">萬山司徒</persName>。蓋當時加號，出自朝廷，
+<lb ed="B" n="0446a17"/>國師而外，更出自達官。抑昭文館或謂屬之司徒，即朝官司僧
+<lb ed="B" n="0446a18"/>教者乎。而<persName key="A044121">亨</persName>歷充燕京萬壽、山東靈巗，教讀皆著道聲云。</p>
+    <linkGrp>
+        <link targets="#0446a06 #0446a07"/>
+        <ptr target="#A044120" type="person"/>
+        <ptr target="#A043973" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0446a08 #0446a08"/>
+        <ptr target="#A044120" type="person"/>
+        <ptr target="#A020886" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0446a12 #0446a12"/>
+        <ptr target="#A044121" type="person"/>
+        <ptr target="#A043973" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0446a15 #0446a15"/>
+        <ptr target="#A044121" type="person"/>
+        <ptr target="#A004030" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0446a15 #0446a16"/>
+        <ptr target="#A044120" type="person"/>
+        <ptr target="#A044122" type="person"/>
+    </linkGrp>
+</div>

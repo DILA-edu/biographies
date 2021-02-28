@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="義解" xml:id="gsz0058b03shiShanJi">
+<lb ed="B" n="0058b03"/><anchor n="B.27.0151.0058b03"/><head>元天台薦福寺沙門<persName key="A007947">釋善繼</persName>傳</head>
+<lb ed="B" n="0058b04"/><p xml:id="pB27p0058b0401"><persName key="A007947">釋善繼</persName>，字<persName key="A007947">絕宗</persName>，諸暨婁氏子。生時母<persName key="A043937">王氏</persName>夢人授白芙蕖。始學
+<lb ed="B" n="0058b05"/>語，見母舉佛號，合爪隨聲和之。稍長從季父於山陰靈秘寺治
+<lb ed="B" n="0058b06"/>《春秋傳》，竊窺三藏，慨然感歎：「身如泡聚，官爵奚為？」<date from-iso="+1305-02-03" key="j21977352198088" to-iso="+1306-01-22">大德乙<anchor xml:id="beg_15" type="cb-app"/>巳<anchor xml:id="end_15"/></date>，投
+<lb ed="B" n="0058b07"/>其寺僧<persName key="A007950">思恭</persName>祝髮。<date from-iso="+1306-01-23" key="j21980892198472" to-iso="+1307-02-10">明年</date>進具戒，尋從天竺<persName key="A007915">大山恢</persName>習天台教。<persName key="A007915">恢</persName>
+<lb ed="B" n="0058b08"/>見其慧解卓倫，嘗囑曰：「吾輪下數百人，而堪繼大法者，惟子耳！
+<lb ed="B" n="0058b09"/>當自愛勉之。」會<persName key="A007915">大山</persName>遷雲間之延慶，即往南竺謁<persName key="A000640">湛堂澄</persName>。<persName key="A000640">澄</persName>一
+<lb ed="B" n="0058b10"/>見便問曰：「入不二門屬何觀法？」<persName key="A007947">繼</persName>對曰：「三種觀法，對屬三部。此
+<lb ed="B" n="0058b11"/>文既與止觀同成，觀體的是從行。」<persName key="A000640">澄</persName>又問：「諸經之體為迷？為悟？」
+<lb ed="B" n="0058b12"/><persName key="A007947">繼</persName>曰：「體非迷悟，迷悟由人。亦顧所詮，經旨何如耳？」<persName key="A000640">澄</persName>公喜溢顏
+<lb ed="B" n="0058b13"/>色，謂眾曰：「法輪轉於他日，將有望於斯子矣！」俾居第一座。<persName key="A000640">澄</persName>移
+<lb ed="B" n="0058b14"/>上竺，<persName key="A001638">玉岡潤</persName>補其席，亦居第一座。<date from-iso="+1329-02-08" key="j22065062206859" to-iso="+1330-01-27">天歷乙<anchor xml:id="beg_16" type="cb-app"/>巳<anchor xml:id="end_16"/></date>，出住良陼大雄寺，
+<lb ed="B" n="0058b15"/>日講《金光明經》。夜夢四明<persName key="A000756">法智</persName>謂曰：「爾所講之經與吾若合符
+<lb ed="B" n="0058b16"/>節。」自是益加精進。<date from-iso="+1342-02-14" key="j22112602211614" to-iso="+1343-02-03">至正壬午</date>，<persName key="A007451">高<roleName>公</roleName>納璘</persName>請主天台薦福。無何，遷
+<lb ed="B" n="0058b17"/>能仁，弘闡《法華玄義文句》，朝請暮誦。又釋《五章》奧義。嘗示眾曰：
+<lb ed="B" n="0058b18"/>「吾祖有云『《止觀》一部，即法華三昧之筌蹄；一乘十觀，即法華三
+<lb ed="B" n="0058b19"/>昧之正體。』須解行並馳，正體兼運，則圓位可登，而不負祖命宗
+<lb ed="B" n="0058b20"/>之意。」會元季天下大亂，遂東還華涇，專脩淨業，繫念彌陀，晝夜<pb ed="B" xml:id="B27.0151.0059a" n="0059a"/>
+<lb ed="B" n="0059a01"/>不輟。一日忽告眾曰：「佛祖宏化，貴乎時節因緣。緣與時違，化將
+<lb ed="B" n="0059a02"/>焉托？吾將歸矣！」乃端坐而逝，<date when-iso="+1357-08-16" key="j22169222216922">至正丁酉七月二十二日</date>也。世壽
+<lb ed="B" n="0059a03"/>七十有二，僧臘六十三。荼毗舌根不壞，塔於靈秘之西。得法弟
+<lb ed="B" n="0059a04"/>子有靈壽<persName key="A007970">懷古</persName>、延慶<persName key="A007973">自朋</persName>、崇壽<persName key="A007974">是乘</persName>、廣福<persName key="A007975">大影</persName>、雷峰<persName key="A007977">淨昱</persName>、演福
+<lb ed="B" n="0059a05"/><persName key="A000334">如<g ref="#CB00215">玘</g></persName>、報忠<persName key="A007979">嗣璡</persName>、車溪<persName key="A007981">仁讓</persName>、香積<persName key="A007982">曇胄</persName>諸子。</p>
+    <linkGrp>
+        <link targets="#0058b04 #0058b05"/>
+        <ptr target="#A007947" type="person"/>
+        <ptr target="#A043937" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0058b05 #0058b07"/>
+        <ptr target="#A007947" type="person"/>
+        <ptr target="#A007950" type="person"/>
+        <ptr target="#j21977352198088" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0058b07 #0058b08"/>
+        <ptr target="#A007947" type="person"/>
+        <ptr target="#A007915" type="person"/>
+        <ptr target="#j21980892198472" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0058b09 #0058b13"/>
+        <ptr target="#A007947" type="person"/>
+        <ptr target="#A000640" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0058b16 #0058b16"/>
+        <ptr target="#A007947" type="person"/>
+        <ptr target="#A007451" type="person"/>
+        <ptr target="#j22112602211614" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0059a03 #0059a05"/>
+        <ptr target="#A007947" type="person"/>
+        <ptr target="#A007970" type="person"/>
+        <ptr target="#A007973" type="person"/>
+        <ptr target="#A007974" type="person"/>
+        <ptr target="#A007975" type="person"/>
+        <ptr target="#A007977" type="person"/>
+        <ptr target="#A000334" type="person"/>
+        <ptr target="#A007979" type="person"/>
+        <ptr target="#A007981" type="person"/>
+        <ptr target="#A007982" type="person"/>
+    </linkGrp>
+</div>

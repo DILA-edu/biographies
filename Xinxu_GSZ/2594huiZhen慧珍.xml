@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0372b01shiHuiZhen">
+<lb ed="B" n="0372b01"/><anchor n="B.27.0151.0372b01"/><head>元當陽玉泉山寺沙門<persName key="A044090">釋慧珍</persName>傳<persName type="secondary" key="A044091">霞壁</persName><persName type="secondary" key="A044092">寶光</persName></head>
+<lb ed="B" n="0372b02"/><p xml:id="pB27p0372b0201"><persName key="A044090">釋慧珍</persName>，字<persName key="A044090">藏山</persName>，江西人。元初為荊門州僧正，<date from-iso="+1277-02-12" key="j21875182187871" to-iso="+1278-01-31">至元十四年</date>來自
+<lb ed="B" n="0372b03"/>江陵，尋住當陽玉泉。時當兵燹之餘，滿目蓬蒿，不勝荒涼。<persName key="A044090">珍</persName>重
+<lb ed="B" n="0372b04"/>闢舊基，式廓新宇，廟貌宏敞，丹雘增輝。<date from-iso="+1290-02-18" key="j21922722192626" to-iso="+1291-02-07">二十七年</date>，修築顯烈祠
+<lb ed="B" n="0372b05"/>及關陵坊表。蓋<persName key="A008340">壯繆</persName>生為忠臣，沒封王神，廟食茲土，世所觀贍，
+<lb ed="B" n="0372b06"/>故<persName key="A044090">珍</persName>籌及之。<persName key="A044090">珍</persName>玅解經說，性理雙圓，升座高譚，四眾環聽。<persName key="A002085">世祖</persName>
+<lb ed="B" n="0372b07"/>敬異，錫號<persName key="A044090">神應慈雲大師</persName>，並襲紫衣。晚付院事於<persName key="A044091">霞璧</persName>，老于斯
+<lb ed="B" n="0372b08"/>寺。<persName key="A044091">霞璧</persName>字<persName key="A044091">師瑄</persName>，荊州人。弱冠落髮，隸玉泉。<persName key="A004321">元成宗</persName>時為僧正。<persName key="A044090">珍</persName>
+<lb ed="B" n="0372b09"/>既告退，乃繼其席。以院中治餙完善，唯舊鐘無聲，命<persName key="A044092">寶鏡</persName>叩募。
+<lb ed="B" n="0372b10"/>遠至湘州、醴陵。造就，舟運而至。其音清圓弘亮，發人深省。江西
+<lb ed="B" n="0372b11"/>大仰山寺<persName key="A044093">常陵</persName>為之銘，具詳別集。遠近緇素，聞風興起，聯翩而
+<lb ed="B" n="0372b12"/>至，酬唱宗乘，激揚向上，不遺餘力。<persName key="A004320">武宗</persName>敬仰，賜以<persName key="A044091">廣智靜慧</persName>之
+<lb ed="B" n="0372b13"/>號，兼賜紫衣。<date notBefore-iso="+1308-02-01" key="j21988282200303" notAfter-iso="+1312-02-15">至大中</date>謝院事，老于寺之山月堂。</p>
+    <linkGrp>
+        <link targets="#0372b06 #0372b07"/>
+        <ptr target="#A044090" type="person"/>
+        <ptr target="#A002085" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0372b07 #0372b08"/>
+        <ptr target="#A044090" type="person"/>
+        <ptr target="#A044091" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0372b09 #0372b11"/>
+        <ptr target="#A044092" type="person"/>
+        <ptr target="#A044091" type="person"/>
+        <ptr target="#A044093" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0372b12 #0372b13"/>
+        <ptr target="#A004320" type="person"/>
+        <ptr target="#A044091" type="person"/>
+    </linkGrp>
+</div>

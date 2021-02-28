@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0155a11shiMingBen">
+<lb ed="B" n="0155a11"/><anchor n="B.27.0151.0155a11"/><head>元餘杭吳山聖水寺沙門<persName key="A000655">釋明本</persName>傳<persName type="secondary" key="A001064">惟則</persName></head>
+<lb ed="B" n="0155a12"/><p xml:id="pB27p0155a1201"><persName key="A000655">釋明本</persName>，字<persName key="A000655">幻住</persName>，晚號<persName key="A000655">中峰</persName>，姓孫氏，錢塘人。幼好梵唄，長乃出家。
+<lb ed="B" n="0155a13"/>初依吳山聖水，聞<persName key="A004700">高峰原妙</persName>居天目山師子巖，立死關，以待參
+<lb ed="B" n="0155a14"/>學。<persName key="A000655">明本</persName>往叩之。<persName key="A004700">原妙</persName>欣許，知為大器。久之，<persName key="A000655">明本</persName>誦《金剛經》，恍有
+<lb ed="B" n="0155a15"/>開解者，謂：「識量依通，雖於義趣通解，終非悟也。」已而薙染，時<persName key="A004700">原
+<lb ed="B" n="0155a16"/>妙</persName>閉關獨居，誓不接納。獨見<persName key="A000655">本</persName>，授以<g ref="#CB12594">䛡</g>頭，由是給侍死關。晝服
+<lb ed="B" n="0155a17"/>力役，夜事禪定。十年而學成，豁然超脫宗旨，別傳九流諸子，罔
+<lb ed="B" n="0155a18"/>不淹貫。激揚提唱，機鋒翕靃，圓轉不窮，時稱「大辯」焉。<date notBefore-iso="+1295-01-24" key="j21940732194840" notAfter-iso="+1297-03-01">元貞間</date>，<persName key="A004700">高
+<lb ed="B" n="0155a19"/>峰</persName>將遷化，以大覺禪寺相屬，辭之。登皖山，游廬阜，至金陵結庵
+<lb ed="B" n="0155a20"/>廬州弁山及平江鴈蕩。已而還山，領師子院。宰相大臣，以五山<pb ed="B" xml:id="B27.0151.0155b" n="0155b"/>
+<lb ed="B" n="0155b01"/>主席交聘，俱力辭。因日避走南北間。朝廷聞其名，特賜金襴伽
+<lb ed="B" n="0155b02"/>梨，進號<persName key="A000655">佛慈圓照廣慧禪師</persName>。<date from-iso="+1334-02-13" key="j22083372208690" to-iso="+1335-02-01">元統二年</date>並詔<persName key="A000655">明本</persName>所著《廣錄》三
+<lb ed="B" n="0155b03"/>十卷，收入佛藏，<persName key="A015823">揭徯斯</persName>為之序。<date from-iso="+1323-09-09" key="j22045272204556" to-iso="+1323-10-08">至治三年八月</date>安坐而逝，壽六
+<lb ed="B" n="0155b04"/>十一，臘三十七。<persName key="A006674">文宗</persName>敕詞臣製碑，<anchor xml:id="beg_89" type="cb-app"/>諡<anchor xml:id="end_89"/>曰<persName key="A000655">智覺</persName>，塔曰「法雲」。<persName key="A000655">明本</persName>身
+<lb ed="B" n="0155b05"/>履長大，倍於時人，所遺麻履二，尚藏寺中。寂時荼毘於天目，<persName key="A008211">虞
+<lb ed="B" n="0155b06"/>集</persName>銘其塔，<persName key="A004030">趙孟頫</persName>書其《淨土詩》。初<persName key="A004030">松雪</persName>極致敬禮，<persName key="A026706">馮海粟</persName>意殊
+<lb ed="B" n="0155b07"/>不然，及示《梅花詩》六十首，<persName key="A000655">明本</persName>和之，復成百詠及九言一首，<persName key="A026706">馮</persName>
+<lb ed="B" n="0155b08"/>由是歎服加禮焉。今有爪髮舍利，塔在聖水寺。弟子<persName key="A001064">惟則</persName>字<persName key="A001064">天
+<lb ed="B" n="0155b09"/>如</persName>，廬陵人。髫年出家，初參<persName key="A000846">海印</persName>，後得法<persName key="A000655">中峰</persName>，有《語錄》四卷。</p>
+    <linkGrp>
+        <link targets="#0155a13 #0155a17"/>
+        <ptr target="#A000655" type="person"/>
+        <ptr target="#A004700" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0155a18 #0155a19"/>
+        <ptr target="#A000655" type="person"/>
+        <ptr target="#A004700" type="person"/>
+        <ptr target="#j21940732194840" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0155b02 #0155b03"/>
+        <ptr target="#A000655" type="person"/>
+        <ptr target="#A015823" type="person"/>
+        <ptr target="#j22083372208690" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0155b06 #0155b08"/>
+        <ptr target="#A000655" type="person"/>
+        <ptr target="#A004030" type="person"/>
+        <ptr target="#A026706" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0155b08 #0155b09"/>
+        <ptr target="#A000655" type="person"/>
+        <ptr target="#A001064" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0155b09 #0155b09"/>
+        <ptr target="#A000846" type="person"/>
+        <ptr target="#A001064" type="person"/>
+    </linkGrp>
+</div>

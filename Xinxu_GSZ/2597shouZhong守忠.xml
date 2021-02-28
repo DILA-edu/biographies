@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0374a06shiShouZhong">
+<lb ed="B" n="0374a06"/><anchor n="B.27.0151.0374a06"/><head>元金陵鍾山太平興國寺沙門<persName key="A015517">釋守忠</persName>傳</head>
+<lb ed="B" n="0374a07"/><p xml:id="pB27p0374a0701"><persName key="A015517">釋守忠</persName>者，匡廬僧也，為靈隱<persName key="A001674">玉山</persName>禪師弟子。<date from-iso="+1321-02-06" key="j22035822203935" to-iso="+1322-01-25">至治辛酉</date>，應請來
+<lb ed="B" n="0374a08"/>主太平興國寺。禪學之士，日滿其室。<date from-iso="+1325-01-23" key="j22050292205412" to-iso="+1326-02-10">泰定乙丑之歲</date>，寺燬於火，
+<lb ed="B" n="0374a09"/><persName key="A015517">忠</persName>方憂之。會<persName key="A006674">文宗</persName>潛邸金陵，感<persName key="A015517">忠</persName>精誠，愍茲古蹟，有意作新。於
+<lb ed="B" n="0374a10"/>是行御史臺與郡縣之吏，皆爭出金幣，以為民先。一時風動，遠
+<lb ed="B" n="0374a11"/>近雲集，富者輸財，貧者效力。一歲垣廡成，再歲屋室具。其可以
+<lb ed="B" n="0374a12"/>名書者曰方丈、曰北山閣、曰經樓、曰香積、曰水陸堂、曰白蓮堂、
+<lb ed="B" n="0374a13"/>曰伽藍祠、曰大僧堂、曰道林堂、曰新蒼院、曰耆宿之舍，而大宏
+<lb ed="B" n="0374a14"/>興鐘、三門，皆次第而成。方<persName key="A015517">忠</persName>之始治寺也，舊有蒲盧之澤，見奪
+<lb ed="B" n="0374a15"/>於豪家。前僧訟之，累不決。<persName key="A015517">忠</persName>至，讓而弗辯，奪者愧而歸之。及天
+<lb ed="B" n="0374a16"/>曆改元，更建宏祠於寺北曰大崇禧萬壽寺，賜號<persName key="A015517">宏海普印曇
+<lb ed="B" n="0374a17"/>芳禪師</persName>，命主新祠，兼領舊寺。未幾，加授<persName key="A015517">廣慈圓悟大禪師</persName>，領寺
+<lb ed="B" n="0374a18"/>如故。<date from-iso="+1330-07-24" key="j22070372207154" to-iso="+1330-11-18">至順元年秋</date>，御史守丞<persName key="A044105">趙世安</persName>傳敕，召<persName key="A015517">守忠</persName>入朝。<date when-iso="+1330-10-29" key="j22071342207134">九月九
+<lb ed="B" n="0374a19"/>日</date>，吏部尚書<persName key="A044106">王士宏</persName>以<persName key="A015517">忠</persName>入見於奎章閣奏對稱旨，命太禧宗
+<lb ed="B" n="0374a20"/>禋院日給稟餼，賜金襴伽黎衣與青鼠之裘。<date when-iso="+1331-01-18" key="j22072152207215">十二月二日</date>，賜設<pb ed="B" xml:id="B27.0151.0374b" n="0374b"/>
+<lb ed="B" n="0374b01"/>於聖恩寺。迺召學士<persName key="A008211">虞集</persName>至榻前，命為文以記，俾<persName key="A015517">忠</persName>歸，刻諸石。
+<lb ed="B" n="0374b02"/>具詳《靈谷寺志》。</p>
+    <linkGrp>
+        <link targets="#0374a07 #0374a07"/>
+        <ptr target="#A015517" type="person"/>
+        <ptr target="#A001674" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0374a08 #0374a09"/>
+        <ptr target="#A015517" type="person"/>
+        <ptr target="#A006674" type="person"/>
+        <ptr target="#j22050292205412" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0374a18 #0374a18"/>
+        <ptr target="#A015517" type="person"/>
+        <ptr target="#A044105" type="person"/>
+        <ptr target="#j22070372207154" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0374a18 #0374a19"/>
+        <ptr target="#A015517" type="person"/>
+        <ptr target="#A044106" type="person"/>
+        <ptr target="#A006674" type="person"/>
+        <ptr target="#j22071342207134" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0374b01 #0374b01"/>
+        <ptr target="#A015517" type="person"/>
+        <ptr target="#A008211" type="person"/>
+        <ptr target="#A006674" type="person"/>
+        <ptr target="#j22072152207215" type="time"/>
+    </linkGrp>
+</div>

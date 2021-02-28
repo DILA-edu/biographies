@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0153b07shiPuJiu">
+<lb ed="B" n="0153b07"/><anchor n="B.27.0151.0153b07"/><head>元泰安靈巖寺沙門<persName key="A020888">釋普就</persName>傳</head>
+<lb ed="B" n="0153b08"/><p xml:id="pB27p0153b0801"><persName key="A020888">釋普就</persName>，字<persName key="A020888">古巖</persName>，姓劉氏，真定人。幼不茹葷，年十有五，即厭俗境，
+<lb ed="B" n="0153b09"/>獨慕空門。徑往封龍山禪房，禮<persName key="A043971">讚</persName>公落髮，親災<!-- 炙 -->道範，博通經律，
+<lb ed="B" n="0153b10"/>登壇受具。<g ref="#CB33499">𠪱</g>謁林棠、寶積、雲峰禪伯，體妙窮元，南詢之典，日益
+<lb ed="B" n="0153b11"/>加矣。又於鵲里<anchor xml:id="beg_87" type="cb-app"/>崇<anchor xml:id="end_87"/>孝清安老宿，一叩大事因緣，為汝槌拂之下，
+<lb ed="B" n="0153b12"/>發明此事。後依靈巖<persName key="A020887">足庵肅</persName>，棲止八載。及<persName key="A020887">肅</persName>主萬壽，亦不憚馳
+<lb ed="B" n="0153b13"/>驅，遠道追隨，鍛鍊日精，了無窒礙，遂付衣頌。且謂之曰：「質性樸
+<lb ed="B" n="0153b14"/>真純，有古風，將來足振吾宗。」因還寶積，閉關十載，出詣靈巖，便
+<lb ed="B" n="0153b15"/>充首座。<date from-iso="+1302-02-07" key="j21966432196996" to-iso="+1303-01-26">大德六年</date>，<persName key="A027341">月庵海</persName>告退，寺眾即請繼席。<date from-iso="+1307-02-11" key="j21984732198827" to-iso="+1308-01-31">大德丁未</date>，受旨
+<lb ed="B" n="0153b16"/>護持，山門產業，前後一新，總統褒賜號曰<persName key="A020888">妙嚴宏法大禪師</persName>。匡
+<lb ed="B" n="0153b17"/>扶七載，退隱靈棲庵，復歸封龍山禪房。再易春秋，<date from-iso="+1312-12-07" key="j22005992200628" to-iso="+1313-01-05">皇慶元年仲
+<lb ed="B" n="0153b18"/>冬</date>，更還靈棲。時祖庭少林闕席，寺中僧侶，不遠千里，持疏而來，
+<lb ed="B" n="0153b19"/>請接主座，續佛慧命。蓋自<persName key="A001361">達摩</persName>西來，密付單傳，<persName key="A014695">青州</persName>之下四傳
+<lb ed="B" n="0153b20"/><persName key="A000408">萬松</persName>，就為<persName key="A015346">雪庭</persName>、<persName key="A020887">足庵</persName>嫡派，正令全提，付託得人，末後一著，心月<pb ed="B" xml:id="B27.0151.0154a" n="0154a"/>
+<lb ed="B" n="0154a01"/>孤圓。<date from-iso="+1314-01-25" key="j22010132201396" to-iso="+1315-02-12">延祐元年</date>，<persName key="A027601">覺達</persName>為之銘云</p>
+    <linkGrp>
+        <link targets="#0153b09 #0153b10"/>
+        <ptr target="#A020888" type="person"/>
+        <ptr target="#A043971" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0153b12 #0153b14"/>
+        <ptr target="#A020888" type="person"/>
+        <ptr target="#A020887" type="person"/>
+    </linkGrp>
+</div>

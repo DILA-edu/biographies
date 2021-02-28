@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0150a10shiFaLin">
+<lb ed="B" n="0150a10"/><anchor n="B.27.0151.0150a10"/><head>元錢塘靈隱寺沙門<persName key="A000703">釋法林</persName>傳</head>
+<lb ed="B" n="0150a11"/><p xml:id="pB27p0150a1101"><persName key="A000703">釋法林</persName>，字<persName key="A000703">竹泉</persName>，別號<persName key="A000703">了幻</persName>，姓黃氏，寧海人也。依法庵<persName key="A022209">太虛</persName>出家。
+<lb ed="B" n="0150a12"/>因看<persName key="A003629">睦州</persName>語有省，白<persName key="A022209">太虛</persName>曰：「從生至死，祗是者箇，不由別人也。」
+<lb ed="B" n="0150a13"/>時<persName key="A007563">東嶼海</persName>在淨慈招分半座，居蒙堂不出戶者九年。行省左丞
+<lb ed="B" n="0150a14"/>相<persName key="A020315">脫歡</persName>請主萬壽，還中竺。<date from-iso="+1335-12-16" key="j22090082210875" to-iso="+1341-01-25">元至元間</date>復遷靈隱，宗風大振。<persName key="A006676">順帝</persName>
+<lb ed="B" n="0150a15"/>聞之，賜以金襴法衣。時龍翔虛席，累召不赴，遂避會稽山中。<date when-iso="+1355-03-24" key="j22160462216046">至
+<lb ed="B" n="0150a16"/>正十五年二月二日</date>，索筆書偈云：「七十二年虛空打撅，末後一
+<lb ed="B" n="0150a17"/>句不說不說。」遂奄然而逝。</p>
+    <linkGrp>
+        <link targets="#0150a11 #0150a12"/>
+        <ptr target="#A000703" type="person"/>
+        <ptr target="#A022209" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0150a13 #0150a13"/>
+        <ptr target="#A000703" type="person"/>
+        <ptr target="#A007563" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0150a13 #0150a14"/>
+        <ptr target="#A000703" type="person"/>
+        <ptr target="#A020315" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0150a14 #0150a14"/>
+        <ptr target="#A000703" type="person"/>
+        <ptr target="#A006676" type="person"/>
+    </linkGrp>
+</div>

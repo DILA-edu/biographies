@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="靈感" xml:id="gsz0280b09shiGuangEn">
+<lb ed="B" n="0280b09"/><anchor n="B.27.0151.0280b09"/><head>元邢州開元寺沙門<persName key="A011747">釋廣恩</persName>傳</head>
+<lb ed="B" n="0280b10"/><p xml:id="pB27p0280b1001"><persName key="A011747">釋廣恩</persName>，字<persName key="A011747">萬安</persName>，姓賈氏，洺水<!-- 《補續高僧傳》卷17：「順德路洺水」(CBETA 2021.Q1, X77, no. 1524, p. 491b9) -->人。生有佛性，年且冠，求出家，從經<!-- 《角虎集》卷1：「祝髮於荊鎮法雲寺」(CBETA 2021.Q1, X62, no. 1177, p. 202c3) -->
+<lb ed="B" n="0280b11"/>城法雲<persName key="A044033">壑</persName>祝髮，又從<persName key="A044032">暉</persName>公受具戒。學禪臨城山，閱數載，游歷諸
+<lb ed="B" n="0280b12"/>方，還至棗疆，與大姓霍氏契，因結庵於其所居。自謂行不堅潔，
+<lb ed="B" n="0280b13"/>誠負佛恩。乃辟穀持大悲章句，不出戶庭者五年。一日霍氏兒
+<lb ed="B" n="0280b14"/>供鮮桃二枚，隆冬食之，遂多靈異。其鄰火自<anchor xml:id="beg_13b" type="cb-app"/>卻<anchor xml:id="end_13b"/>，攘暴自禁，鷄啄
+<lb ed="B" n="0280b15"/>香而爇，牛受戒而馴。至於愈奇疾，扶危困，復冽泉於涸井，溢浙
+<lb ed="B" n="0280b16"/>米於眾供，皆前世所希見。嘗誦經傳，古義妙理，超然領悟。飯僧
+<lb ed="B" n="0280b17"/>以億萬計，持犯不間齋敬等。視甘陵有塔基，欲為治之。發土得
+<lb ed="B" n="0280b18"/>石，記<persName key="A011747">恩</persName>名焉。且獲舍利，即其地建大道場。會開元虛席，郡僚率
+<lb ed="B" n="0280b19"/>闔屬緇素，請<persName key="A011747">恩</persName>住持。蓋自<date from-iso="+1213-01-31" key="j21641302164513" to-iso="+1214-02-18">貞祐癸酉</date>，中州板蕩，所在蕭條，說綱
+<lb ed="B" n="0280b20"/>罟而保郡縣者無幾人。逮<date from-iso="+1218-02-04" key="j21659602166698" to-iso="+1220-02-12">戊寅<anchor xml:id="beg_13c" type="cb-app"/>己<anchor xml:id="end_13c"/>卯</date>以來，大兵頻歲南出，而邢<pb ed="B" xml:id="B27.0151.0281a" n="0281a"/>
+<lb ed="B" n="0281a01"/>為衝，馹使絡繹，穹帳遷卓郡，或不能容。以故九流，流寓行客，往
+<lb ed="B" n="0281a02"/>返逆旅，無所投，<persName key="A011747">恩</persName>皆為之館穀。他郡則父逋逃於前，子窺隙於
+<lb ed="B" n="0281a03"/>後，獨此一方，以<persName key="A011747">恩</persName>之故，晏如也。玄風所扇，遐邇懷芳，元勳懿戚，
+<lb ed="B" n="0281a04"/>豪門貴族，不愛金寶重幣。以圓照塔，因故基而崇起之。眾不靳
+<lb ed="B" n="0281a05"/>力工，不秘巧輦饟，不憚數千里，艱險萬狀，皆得平達，隨度施用，
+<lb ed="B" n="0281a06"/>靡不如意。曾未十稔，屹然崒嵂，突地矗空。雖瑤光永寧之盛，未
+<lb ed="B" n="0281a07"/>易過此。<date when-iso="+1244-01-06" key="j21754272175427">癸卯仲冬十有八日</date>示寂，春秋四十有九，臘三十。著有
+<lb ed="B" n="0281a08"/>《密蓮集》。度具戒僧千餘，寺眾恒不啻萬指，紀律如一。弟子<persName key="A044034">萬松</persName>
+<lb ed="B" n="0281a09"/>述其行狀，乞房山<persName key="A044035">劉百熙</persName>為之碑銘。御弟<persName key="A002085">忽必列</persName>以旨諭五路
+<lb ed="B" n="0281a10"/>兵馬<persName key="A022185">史<roleName>萬戶</roleName>天澤</persName>立石。</p>
+    <linkGrp>
+        <link targets="#0280b10 #0280b11"/>
+        <ptr target="#A011747" type="person"/>
+        <ptr target="#A044033" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0280b11 #0280b11"/>
+        <ptr target="#A011747" type="person"/>
+        <ptr target="#A044032" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0281a08 #0281a08"/>
+        <ptr target="#A011747" type="person"/>
+        <ptr target="#A044034" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0281a08 #0281a09"/>
+        <ptr target="#A044034" type="person"/>
+        <ptr target="#A044035" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0281a09 #0281a10"/>
+        <ptr target="#A002085" type="person"/>
+        <ptr target="#A022185" type="person"/>
+    </linkGrp>
+</div>

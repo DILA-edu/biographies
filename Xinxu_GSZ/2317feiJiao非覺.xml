@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0228a19shiFeiJiao">
+<lb ed="B" n="0228a19"/><anchor n="B.27.0151.0228a19"/><head>遼薊州磐山甘泉普濟寺沙門<persName key="A014433">釋非覺</persName>傳<persName type="secondary" key="A014576">等偉</persName></head>
+<lb ed="B" n="0228a20"/><p xml:id="pB27p0228a2001"><persName key="A014433">釋非覺</persName>，姓劉氏，良鄉人。律行高卓，早有大名。會車駕幸燕，重其<pb ed="B" xml:id="B27.0151.0228b" n="0228b"/>
+<lb ed="B" n="0228b01"/>道德，詔入大內說法，特賜紫衣，授右街僧錄判官，並錫號曰<persName key="A014433">儀
+<lb ed="B" n="0228b02"/>範大師</persName>。年七十二，示化大昊天寺，歸葬甘泉。僧臘四十有七。太
+<lb ed="B" n="0228b03"/>康三年癸亥七月十七日<!-- 大康三年歲丁巳，大康九年歲癸亥 -->，弟子<persName key="A014576">等偉</persName>為立塔。<persName key="A014576">等偉</persName>者，姓李氏，析
+<lb ed="B" n="0228b04"/>津人。<date from-iso="+1075-01-25" key="j21137202114104" to-iso="+1076-02-13">太康元年</date>從<persName key="A014433">覺</persName>剃落，居慧濟寺。未幾，受戒肄習經律，學者
+<lb ed="B" n="0228b05"/>交推。<date notBefore-iso="+1085-02-04" key="j21173832121044" notAfter-iso="+1095-02-13">大安中</date>，主福田寺及薊之香林蘭若。<date from-iso="+1097-01-22" key="j21217532122136" to-iso="+1098-02-09">壽昌三年</date>，宣毘尼諸
+<lb ed="B" n="0228b06"/>部於慧濟寺，京師義學群以「律主」許之。<date from-iso="+1098-02-10" key="j21221372122490" to-iso="+1099-01-29">明年</date>，三學寺奉命慎擇
+<lb ed="B" n="0228b07"/>主者，<persName key="A014576">偉</persName>以勤謹應選。尋授<persName key="A014576">善濟大德</persName>。<persName key="A014576">偉</persName>力整頹弊，居多弘益，三
+<lb ed="B" n="0228b08"/>載儉持，供費之外，有錢五千餘貫。<date from-iso="+1101-03-09" key="j21232592123583" to-iso="+1102-01-27">乾統初</date>以課最聞，朝旨嘉之
+<lb ed="B" n="0228b09"/>賜紫，加號<persName key="A014576">慈辯</persName>。<date from-iso="+1103-02-16" key="j21239682124322" to-iso="+1104-02-05">三年</date>，宣充三學殿主，易號<persName key="A014576">嚴慧</persName>。<date when-iso="+1107-05-18" key="j21255202125520">乾統七年夏四
+<lb ed="B" n="0228b10"/>月旬又七日</date>示寂，後二日茶毘，舌根不燼，如青蓮色。其徒<persName key="A043979">敬詮</persName>
+<lb ed="B" n="0228b11"/>以<g ref="#CB00626">㲲</g>灰分葬，歸骨於盤山甘泉，附於先塋。年五十七，臘三十。<persName key="A043980">南
+<lb ed="B" n="0228b12"/>抃</persName>為之記，並繫以銘。亦具《山志》。</p>
+    <linkGrp>
+        <link targets="#0228a20 #0228b01"/>
+        <ptr target="#A014433" type="person"/>
+        <ptr target="#A006624" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0228b03 #0228b04"/>
+        <ptr target="#A014433" type="person"/>
+        <ptr target="#A014576" type="person"/>
+        <ptr target="#j21137202114104" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0228b08 #0228b09"/>
+        <ptr target="#A014433" type="person"/>
+        <ptr target="#A006625" type="person"/>
+        <ptr target="#j21232592123583" type="time"/>
+    </linkGrp>
+</div>

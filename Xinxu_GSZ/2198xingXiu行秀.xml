@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0148b08shiXingXiu">
+<lb ed="B" n="0148b08"/><anchor n="B.27.0151.0148b08"/><head>元燕都西劉村沙門<persName key="A000408">釋行秀</persName>傳</head>
+<lb ed="B" n="0148b09"/><p xml:id="pB27p0148b0901"><persName key="A000408">釋行秀</persName>，字<persName key="A000408">萬松</persName>，姓蔡氏，河內解人也。父<persName key="A043961">真</persName>，才氣俊爽，好善多能，
+<lb ed="B" n="0148b10"/>雅信因果。<date from-iso="+1141-02-16" key="j21378482138201" to-iso="+1142-02-04">皇統初</date>宦游洛水，喜永年風物之盛，因而家焉。<persName key="A000408">秀</persName><ref type="date" target="#j21520812152434">年
+<lb ed="B" n="0148b11"/>十五</ref>即求出家，父母不能奪其志。禮邢州<persName key="A022441">淨贇</persName>業五大部。試於
+<lb ed="B" n="0148b12"/>有司，在選者二百人。與老僧<persName key="A043962">靖恩</persName>皆為眾所屬望，<persName key="A043962">恩</persName>自以為不
+<lb ed="B" n="0148b13"/>如，不能出其右。<persName key="A000408">秀</persName>聞而讓之。試之日，獨獻律賦而歸。考官<persName key="A043963">孫椿
+<lb ed="B" n="0148b14"/>年</persName>讀其文，乃大歎服。請冠其髮，而妻之以子。<persName key="A000408">秀</persName>拒之曰：「與其挂
+<lb ed="B" n="0148b15"/>名吏曹，曷若取牃祠部。」明年受具足戒，遂遊燕。歷潭柘、慶壽諸
+<lb ed="B" n="0148b16"/>剎。晚歸西劉村寺，西劉村者，今廣濟寺也。<persName key="A000408">秀</persName>初出家時，參萬壽
+<lb ed="B" n="0148b17"/><persName key="A022442">勝默光</persName>禪師半載，無所入。復於<persName key="A008370">元沙</persName>未徹語有疑，行腳至磁州
+<lb ed="B" n="0148b18"/>大明請益<persName key="A015282">雪巖滿</persName>禪師。力參二十七日，於<persName key="A015282">滿</persName>言豁然大悟。<persName key="A015282">滿</persName>以
+<lb ed="B" n="0148b19"/>衣偈付之。旋還中都，居萬壽。<persName key="A006633">金章宗</persName>景其道行，請入內廷，敷座
+<lb ed="B" n="0148b20"/>說法。宮嬪羅拜，建普度會，香花闃咽，萬眾雲屯。復奉詔命住大<pb ed="B" xml:id="B27.0151.0149a" n="0149a"/>
+<lb ed="B" n="0149a01"/>都仰山，更移錫報恩、洪濟。<persName key="A006663">元太<anchor xml:id="beg014901"/><choice><sic resp="CBETA">祖</sic><corr resp="PC-MB">宗</corr></choice><anchor xml:id="end014901"/></persName><!-- 《五燈全書》卷61：「元太宗庚寅」(CBETA 2021.Q1, X82, no. 1571, p. 255c19) --><date from-iso="+1230-01-23" key="j21703312170714" to-iso="+1231-02-10">庚寅</date>，迺奉勅主萬壽。已而退
+<lb ed="B" n="0149a02"/>居從容庵，幽室獨處，冥然入定，心相俱清。生平勵行苦志，勤修
+<lb ed="B" n="0149a03"/>弗倦，數典名藍，發揚洞旨，宗風茀茀，動人神髓。至是疲於津梁，
+<lb ed="B" n="0149a04"/>蓋將終焉。至元元年丙午後四月四日<!-- 《續燈正統》卷35：「元定宗元年丙午後四月五日示疾。七日書偈」(CBETA 2021.Q1, X84, no. 1583, p. 610a3 // Z 2B:17, p. 453a18 // R144, p. 905a18) -->示疾，<date when-iso="+1246-05-30" key="j21763022176302">七日</date>書偈別眾，悠
+<lb ed="B" n="0149a05"/>然坦化。世壽八十有一，僧臘六十。建塔於西劉村寺前，今乾石
+<lb ed="B" n="0149a06"/>橋北磚塔是也。</p>
+    <linkGrp>
+        <link targets="#0148b09 #0148b09"/>
+        <ptr target="#A000408" type="person"/>
+        <ptr target="#A043961" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0148b10 #0148b11"/>
+        <ptr target="#A000408" type="person"/>
+        <ptr target="#A022441" type="person"/>
+        <ptr target="#j21520812152434" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0148b12 #0148b15"/>
+        <ptr target="#A000408" type="person"/>
+        <ptr target="#A043962" type="person"/>
+        <ptr target="#A043963" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0148b16 #0148b17"/>
+        <ptr target="#A000408" type="person"/>
+        <ptr target="#A022442" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0148b17 #0148b17"/>
+        <ptr target="#A000408" type="person"/>
+        <ptr target="#A008370" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0148b17 #0148b19"/>
+        <ptr target="#A000408" type="person"/>
+        <ptr target="#A015282" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0148b19 #0148b20"/>
+        <ptr target="#A000408" type="person"/>
+        <ptr target="#A006633" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0149a01 #0149a01"/>
+        <ptr target="#A000408" type="person"/>
+        <ptr target="#A006663" type="person"/>
+        <ptr target="#j21703312170714" type="time"/>
+    </linkGrp>
+</div>

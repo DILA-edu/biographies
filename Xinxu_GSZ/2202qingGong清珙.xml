@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0149b19shiQingGong">
+<lb ed="B" n="0149b19"/><anchor n="B.27.0151.0149b19"/><head>元吳興霞霧山沙門<persName key="A007799">釋清珙</persName>傳</head>
+<lb ed="B" n="0149b20"/><p xml:id="pB27p0149b2001"><persName key="A007799">釋清珙</persName>，字<persName key="A007799">石屋</persName>，受具後與淨慈<persName key="A016698">平山林</persName>同得法於道場<persName key="A021593">及庵</persName>。遂<pb ed="B" xml:id="B27.0151.0150a" n="0150a"/>
+<lb ed="B" n="0150a01"/>隱居吳興霞霧山，以清苦自守，不干檀越。偶至絕食，飲水而已。
+<lb ed="B" n="0150a02"/>為人慈祥恤物，作為祇陀，多警法語。<date from-iso="+1341-01-26" key="j22108762211259" to-iso="+1342-02-13">元至正初</date>，道問流聞，洽於
+<lb ed="B" n="0150a03"/>朝野，敕降香幣，以旌異之。皇后亦賜金襴法衣，<persName key="A007799">珙</persName>殊不為意。<date from-iso="+1352-08-18" key="j22150982215187" to-iso="+1352-11-15">至
+<lb ed="B" n="0150a04"/>正壬辰秋</date>與眾訣，書偈而逝。偈曰：「青山不着臭屍骸，死後何須
+<lb ed="B" n="0150a05"/>掘土埋，顧我也無三昧火，光前絕後一堆柴。」闍維舍利五色。<ref type="person" target="#A043933">高
+<lb ed="B" n="0150a06"/>麗國王</ref>仰其道行，表達於朝，詔<anchor xml:id="beg_7f" type="cb-app"/>諡<anchor xml:id="end_7f"/><persName key="A007799">佛慈慧照</persName>。更命有司移文江
+<lb ed="B" n="0150a07"/>浙，命<persName key="A016698">淨慈林</persName>取<persName key="A007799">珙</persName>舍利予館伴歸國。所著有《石屋語錄》，詩不多
+<lb ed="B" n="0150a08"/>見。《瘦松集》載其山居詩云：「僧因產業致差科，官吏句追恥辱多，
+<lb ed="B" n="0150a09"/>我有山田三畝半，盡行發付與檀那。」其高致可概見矣。</p>
+    <linkGrp>
+        <link targets="#0149b20 #0149b20"/>
+        <ptr target="#A007799" type="person"/>
+        <ptr target="#A016698" type="person"/>
+        <ptr target="#A021593" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0150a05 #0150a07"/>
+        <ptr target="#A043933" type="person"/>
+        <ptr target="#A016698" type="person"/>
+    </linkGrp>
+</div>

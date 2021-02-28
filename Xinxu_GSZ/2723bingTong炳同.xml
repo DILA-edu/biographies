@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="雜識" xml:id="gsz0444b14shiBingTong">
+<lb ed="B" n="0444b14"/><anchor n="B.27.0151.0444b14"/><head>元四明仗錫延勝寺沙門<persName key="A013859">釋炳同</persName>傳<persName type="secondary" key="A044116">善來</persName></head>
+<lb ed="B" n="0444b15"/><p xml:id="pB27p0444b1501"><persName key="A013859">釋炳同</persName>，字<persName key="A013859">野翁</persName>，姓張氏，新昌人。得法於<persName key="A001234">大川濟</persName>，宋兦之日，避迹
+<lb ed="B" n="0444b16"/>仗錫十二年，出主華藏三載，復還仗錫。牓其室曰「晚泊」。閉戶書
+<lb ed="B" n="0444b17"/>《法華經》。有「老來非厭客，靜裏欲書經」之句。一時遺老<persName key="A044112">黃則堂</persName>、<persName key="A044113">文
+<lb ed="B" n="0444b18"/>本心</persName>、<persName key="A044114">黃東發</persName>、<persName key="A016101">舒閬風</persName>、<persName key="A018722">周伯弼</persName>咸與之遊。晚主雪竇，以寄幻顏所
+<lb ed="B" n="0444b19"/>居。<date from-iso="+1302-02-07" key="j21966432196996" to-iso="+1303-01-26">元大德六年</date>示寂，壽八十，臘六十八。提刑<persName key="A044115">牟獻</persName>銘其塔，有《送
+<lb ed="B" n="0444b20"/>僧之華頂見溪西詩》：「高高峰頂屹雲中，八十溪翁也眼空；相見<pb ed="B" xml:id="B27.0151.0445a" n="0445a"/>
+<lb ed="B" n="0445a01"/>莫言行腳事，累他雙耳又添聾。」<persName key="A044116">善來</persName>號<persName key="A044116">石門</persName>，象山樊氏子，亦得
+<lb ed="B" n="0445a02"/>法<persName key="A001234">大川濟</persName>。常作《翦刀頌》曰：「渾鋼打就冷光浮，兩刃交鋒未肎<!-- 通「肯」 -->休；
+<lb ed="B" n="0445a03"/>直截當機為人處，何曾動著一絲頭。」<date from-iso="+1280-02-09" key="j21886102188964" to-iso="+1281-01-28">至元十七年</date>主雪竇，<date from-iso="+1288-05-09" key="j21916222191651" to-iso="+1288-06-07">二十
+<lb ed="B" n="0445a04"/>五年四月</date>大火，惟涅槃堂存，<persName key="A044116">善來</persName>復之，三年而成。</p>
+    <linkGrp>
+        <link targets="#0444b15 #0444b15"/>
+        <ptr target="#A013859" type="person"/>
+        <ptr target="#A001234" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0444b17 #0444b18"/>
+        <ptr target="#A013859" type="person"/>
+        <ptr target="#A044112" type="person"/>
+        <ptr target="#A044113" type="person"/>
+        <ptr target="#A044114" type="person"/>
+        <ptr target="#A016101" type="person"/>
+        <ptr target="#A018722" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0445a01 #0445a02"/>
+        <ptr target="#A044116" type="person"/>
+        <ptr target="#A001234" type="person"/>
+    </linkGrp>
+</div>

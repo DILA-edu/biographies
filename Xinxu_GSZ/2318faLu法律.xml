@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="明律" xml:id="gsz0228b13shiFaLu">
+<lb ed="B" n="0228b13"/><anchor n="B.27.0151.0228b13"/><head>金燕京左街淨垢寺沙門<persName key="A014750">釋法律</persName>傳</head>
+<lb ed="B" n="0228b14"/><p xml:id="pB27p0228b1401"><persName key="A014750">釋法律</persName>，姓張氏，安固人。幼出家於甘泉普濟寺，禮<persName key="A043981">均</persName>上人為師。
+<lb ed="B" n="0228b15"/><ref type="date" target="#j21290772129430">年十七</ref>試經得度，時<date from-iso="+1117-02-11" key="j21290772129430" to-iso="+1118-01-30">天慶七年</date>也。專志聽習，以律為宗。<date from-iso="+1140-01-29" key="j21374642137847" to-iso="+1141-02-15">天眷三
+<lb ed="B" n="0228b16"/>年</date>，主燕京左街淨垢寺，遂授<persName key="A014750">善慶大德</persName>牃。<date from-iso="+1142-02-05" key="j21382022138555" to-iso="+1143-01-24">皇統二年</date>，奉宣開建
+<lb ed="B" n="0228b17"/>普度壇，度僧尼十萬餘人。<date from-iso="+1148-01-30" key="j21403872140770" to-iso="+1149-02-16">八年</date>，又奉宣越本宗上試十顯，所答
+<lb ed="B" n="0228b18"/>無不中理，選定充平州三學律主，改授<persName key="A014750">精正大德</persName>牃。官講滿，特
+<lb ed="B" n="0228b19"/>賜紫<persName key="A014750">嚴肅大師</persName>牃。本寺大眾，共議署狀，請為提點。供濟僧眾，不
+<lb ed="B" n="0228b20"/>避寒<anchor xml:id="beg022801"/><choice><sic resp="CBETA">署</sic><corr resp="PC-MB">暑</corr></choice><anchor xml:id="end022801"/>，六時行道，未嘗或闕，孜孜十載，令聞四溢。請住寺者五：<pb ed="B" xml:id="B27.0151.0229a" n="0229a"/>
+<lb ed="B" n="0229a01"/>中都駐蹕、福田、福勝、香河勝福、當山香水。<date from-iso="+1162-01-24" key="j21454952145878" to-iso="+1163-02-11">大定二年</date>，復充都下
+<lb ed="B" n="0229a02"/>煗湯院提點，設濟饑民。以<date when-iso="+1166-07-20" key="j21471332147133">大定六年六月十五日</date>告寂，壽六十
+<lb ed="B" n="0229a03"/>八，臘五十二。荼毘送者千餘人。烈燄之際，有五色雲，團繞於上，
+<lb ed="B" n="0229a04"/>齒舌不壞，塔於寺西。門人<persName key="A043982">宗律</persName>、比丘<persName key="A043983">善隆</persName>敘其始末，乞<persName key="A043984">沙成之</persName>
+<lb ed="B" n="0229a05"/>為之銘，曰：「性資上智，宗律為風，清高厲行，紫牒庇躬；傳戒十萬，
+<lb ed="B" n="0229a06"/>僧尼溥蒙，宣顯奉試，理無不通；化辦濟眾，久而愈恭，燌之祥見，
+<lb ed="B" n="0229a07"/>齒舌弗鎔。勒銘幽石，聊記芳蹤。」時<date from-iso="+1167-03-30" key="j21473862147414" to-iso="+1167-04-27">大定七年三月</date>也。</p>
+    <linkGrp>
+        <link targets="#0228b14 #0228b14"/>
+        <ptr target="#A014750" type="person"/>
+        <ptr target="#A043981" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0228b17 #0228b18"/>
+        <ptr target="#A014750" type="person"/>
+        <ptr target="#A006630" type="person"/>
+        <ptr target="#j21403872140770" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0229a04 #0229a04"/>
+        <ptr target="#A014750" type="person"/>
+        <ptr target="#A043982" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0229a04 #0229a07"/>
+        <ptr target="#A043983" type="person"/>
+        <ptr target="#A043982" type="person"/>
+        <ptr target="#A043984" type="person"/>
+        <ptr target="#j21473862147414" type="time"/>
+    </linkGrp>
+</div>

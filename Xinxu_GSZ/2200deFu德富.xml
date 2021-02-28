@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0149a20shiDeFu">
+<lb ed="B" n="0149a20"/><anchor n="B.27.0151.0149a20"/><head>元保定興聖寺沙門<persName key="A008758">釋德富</persName>傳</head>
+<lb ed="B" n="0149b01"/><p xml:id="pB27p0149b0101"><persName key="A008758">釋德富</persName>，姓謝氏，易人也。年七歲力求出家，父母感異夢，遂捨入
+<lb ed="B" n="0149b02"/>興聖寺，依<persName key="A008762">真空</persName>薙髮、受具戒，力究大法。一日經行次，忽大悟，自
+<lb ed="B" n="0149b03"/>是名播叢林。宋皇慶<!-- 宋無皇慶 -->初<persName key="A008765">萬山壽</persName>方大興水陸齋會，請<persName key="A008758">富</persName>開堂說
+<lb ed="B" n="0149b04"/>法，七眾咸集。<persName key="A008758">富</persName>方升座說偈，忽於座上放大光明，徧照空際，現
+<lb ed="B" n="0149b05"/>諸瑞相，良久方隱。事聞於朝，賜<persName key="A008758">通辯大師</persName>之號，並金僧伽黎衣。
+<lb ed="B" n="0149b06"/>及後示滅，有白光從頂出，照耀四達。荼毗得舍利數十顆，建塔
+<lb ed="B" n="0149b07"/>焉。</p>
+    <linkGrp>
+        <link targets="#0149b01 #0149b02"/>
+        <ptr target="#A008758" type="person"/>
+        <ptr target="#A008762" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0149b03 #0149b05"/>
+        <ptr target="#A008758" type="person"/>
+        <ptr target="#A008765" type="person"/>
+    </linkGrp>
+</div>

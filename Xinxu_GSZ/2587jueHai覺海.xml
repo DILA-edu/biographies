@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0368a16shiJueHai">
+<lb ed="B" n="0368a16"/><anchor n="B.27.0151.0368a16"/><head>金沂州普照寺沙門<persName key="A044068">釋覺海</persName>傳</head>
+<lb ed="B" n="0368a17"/><p xml:id="pB27p0368a1701"><persName key="A044068">釋覺海</persName>，西蜀人。家饒富，棄產萬金，捨身桑門。<date from-iso="+1141-02-16" key="j21378482138201" to-iso="+1142-02-04">金皇統初</date>，行腳燕
+<lb ed="B" n="0368a18"/>趙、齊魯間，未幾卓錫琅邪普照。寺為東晉<persName key="A002704">王右軍</persName>故宅，因臺為
+<lb ed="B" n="0368a19"/>基，下臨闤闠<!-- 街市 -->，棟宇褊迫<!-- 狹窄 -->；法物經藏，多缺未備，不稱寶坊之制。<persName key="A044068">海</persName>
+<lb ed="B" n="0368a20"/>深念之，乃議改作。眾懼難成，請仍舊貫。然<persName key="A044068">海</persName>志已堅，不為所撓。<pb ed="B" xml:id="B27.0151.0368b" n="0368b"/>
+<lb ed="B" n="0368b01"/>適<persName key="A044069">高召和式</persName>守是邦，出已貨力，往給經費。且示苦忍，降伏偷惰，
+<lb ed="B" n="0368b02"/>畚鍤斤斧，輒以身先。於是郡人感之，檀施遠來，卒滿初願。工成，
+<lb ed="B" n="0368b03"/>集諸山長老，建龍華會以落之，眾逾萬人。<persName key="A044068">海</persName>嘗有言謂：「實際理
+<lb ed="B" n="0368b04"/>地，不受一塵；佛事門中，不捨一法。吾以如幻三昧，遊戲世間，雖
+<lb ed="B" n="0368b05"/>化大千，盡為佛剎。其中寶供最勝第一，種種具足，吾之妙用，未
+<lb ed="B" n="0368b06"/>始有作也。昔<persName key="A004475">真際</persName>之住東院<!-- 觀音院 -->，不聽大檀越動一草以廣其居，是
+<lb ed="B" n="0368b07"/>誠古佛用心，然不可為叢林法。吾懼末世比丘，喜虛誕者，競為
+<lb ed="B" n="0368b08"/>大言以欺佛，遂有假<persName key="A002799">如來</persName>衣，竊信施食，視法宇成壞，若行路之
+<lb ed="B" n="0368b09"/>過逆旅，曾不介意。」或問其故，輒曰：「古之人，固如是也。及覆壓堪
+<lb ed="B" n="0368b10"/>虞，乃恝然舍去。如諸方建化，率由此轍，則寶閣琳房，鞠為茂草，
+<lb ed="B" n="0368b11"/><persName key="A002799">如來</persName>遺法，其能久乎？」其嚴持律操，篤行實踐類如此。後賜紫衣，
+<lb ed="B" n="0368b12"/>並號<persName key="A044068">妙濟大師</persName>。<persName key="A044068">海</persName>善書法，世所傳《琅邪普照寺碑》或云即<persName key="A044068">海</persName>書，
+<lb ed="B" n="0368b13"/>署曰「集唐柳公權書」者，猶臨摹耳。</p>
+    <linkGrp>
+        <link targets="#0368b01 #0368b01"/>
+        <ptr target="#A044068" type="person"/>
+        <ptr target="#A044069" type="person"/>
+    </linkGrp>
+</div>

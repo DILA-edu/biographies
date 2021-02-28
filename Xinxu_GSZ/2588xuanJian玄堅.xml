@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0368b14shiXuanJian">
+<lb ed="B" n="0368b14"/><anchor n="B.27.0151.0368b14"/><head>元雲南大德寺沙門<persName key="A015453">釋玄堅</persName>傳<persName type="secondary" key="A044070">節思㭁</persName><persName type="secondary" key="A011739">大雲</persName></head>
+<lb ed="B" n="0368b15"/><p xml:id="pB27p0368b1501"><persName key="A015453">釋玄堅</persName>，字<persName key="A015453">雪庵</persName>，姓王氏，龜城人也。幼而聰異，日誦千言。既及成
+<lb ed="B" n="0368b16"/>童，即善屬文。因見<persName key="A015402">雄辨</persName>所譯經論，翻以僰語，聲入心通，便於俗
+<lb ed="B" n="0368b17"/>學本所見聞，解釋法旨，依韻為歌，獻之<persName key="A015402">雄辯</persName>。一覽奇之，歎為神
+<lb ed="B" n="0368b18"/>助。由是延譽遐方，竟以所作，爭相傳誦。<date from-iso="+1284-01-26" key="j21900572190440" to-iso="+1285-02-12">元至元甲申</date>乃禮<persName key="A015402">雄辯</persName>
+<lb ed="B" n="0368b19"/>為之披剃，親承指授，朝夕殷殷，講演《圓覺》諸經、《摩訶衍》、《四絕論》，
+<lb ed="B" n="0368b20"/>分析幽微，玅解天成。復受宗教禪師衣缽，為講仁。<date from-iso="+1300-01-30" key="j21959052196288" to-iso="+1301-02-17">大德庚子歲</date>，<pb ed="B" xml:id="B27.0151.0369a" n="0369a"/>
+<lb ed="B" n="0369a01"/><persName key="A015402">雄辯</persName>倦勤，畀以法席，俾之繼承。時<persName key="A043918">梁王</persName>為<persName key="A043918">雲南王</persName>，有高僧<persName key="A044070">節思
+<lb ed="B" n="0369a02"/>㭁</persName>為王師，乃頒令與法旨，命主玉案山。<date from-iso="+1303-01-27" key="j21969972197379" to-iso="+1304-02-13">癸<anchor xml:id="beg_18a" type="cb-app"/>巳<anchor xml:id="end_18a"/></date><!-- 疑為癸卯 -->，雲南行中書省平
+<lb ed="B" n="0369a03"/>章蒙古督<persName key="A044071">魯彌實</persName>剏建大德寺，奏延<persName key="A015453">堅</persName>為寺主。<persName key="A015453">堅</persName>至大德，廣演
+<lb ed="B" n="0369a04"/>教乘，弘宣法音，諸方景企，徒侶日緐<!-- 同「繁」 -->。<date from-iso="+1310-02-08" key="j21995662199919" to-iso="+1311-01-27">庚<anchor xml:id="beg_18b" type="cb-app"/>戌<anchor xml:id="end_18b"/></date>南省大臣奏請大藏，
+<lb ed="B" n="0369a05"/>以新荒服。有詔，命古杭僧錄司管<persName key="A044072">巴領琅甬三藏</persName>傳至善闡<!-- 昆明 -->，分
+<lb ed="B" n="0369a06"/>供笻竹、圓通、報恩三寺，俾僧眾轉覽。乃命<persName key="A015453">堅</persName>主教法門，護持經
+<lb ed="B" n="0369a07"/>藏。蓋兼攝三剎，總攬大綱，雖及暮年，不辭勤瘁。<date when-iso="+1319-04-15" key="j22029192202919">延祐<anchor xml:id="beg_18c" type="cb-app"/>己<anchor xml:id="end_18c"/>未三月
+<lb ed="B" n="0369a08"/>十七日</date>，雲隱四合，雨雪<g ref="#CB10117">䬠</g>霏，乃詔眾曰：「人世幻軀，如露電泡影，
+<lb ed="B" n="0369a09"/>一切生滅，亦復如是。禪教定慧，汝曹免之，道豈從吾往哉？」書偈
+<lb ed="B" n="0369a10"/>而逝，年六十五。闍維有舍利，五色瑩然，與日下彩霞，照暎南岡。
+<lb ed="B" n="0369a11"/>豎塔笻竹寺後。有<persName key="A011739">大雲</persName>者，不知何許人。或云以羲經登進士。居
+<lb ed="B" n="0369a12"/>長安邸中，夢大士拊其背曰：「子於空門，大有夙緣。」覺而白光滿
+<lb ed="B" n="0369a13"/>室，香氣襲人。因棄官，禮大覺祝髮。遂遊天台，習止觀教。繼入滇，
+<lb ed="B" n="0369a14"/>錫三泊大雲山，剏華嚴寺，因號<persName key="A011739">大雲</persName>。時緇徒從者，履滿庭階。<date notBefore-iso="+1333-11-23" key="j22082552209007" notAfter-iso="+1335-12-15">元
+<lb ed="B" n="0369a15"/>元統間</date>始還大都，不知所終。</p>
+    <linkGrp>
+        <link targets="#0368b15 #0368b19"/>
+        <ptr target="#A015453" type="person"/>
+        <ptr target="#A015402" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0369a01 #0369a02"/>
+        <ptr target="#A043918" type="person"/>
+        <ptr target="#A044070" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0369a01 #0369a02"/>
+        <ptr target="#A015453" type="person"/>
+        <ptr target="#A044070" type="person"/>
+        <ptr target="#j21959052196288" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0369a02 #0369a02"/>
+        <ptr target="#A015453" type="person"/>
+        <ptr target="#A044071" type="person"/>
+        <ptr target="#j21969972197379" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0369a04 #0369a06"/>
+        <ptr target="#A015453" type="person"/>
+        <ptr target="#A044072" type="person"/>
+        <ptr target="#j21995662199919" type="time"/>
+    </linkGrp>
+</div>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="雜識" xml:id="gsz0446a19shiDaGui">
+<lb ed="B" n="0446a19"/><anchor n="B.27.0151.0446a19"/><head>元泉州開元寺沙門<persName key="A003579">釋大圭</persName>傳</head>
+<lb ed="B" n="0446a20"/><p xml:id="pB27p0446a2001"><persName key="A003579">釋大圭</persName>，字<persName key="A003579">恒白</persName>，號<persName key="A003579">夢觀</persName>，姓廖氏，晉江人也。父曰<persName key="A044123">休庵</persName>，家世儒學。<pb ed="B" xml:id="B27.0151.0446b" n="0446b"/>
+<lb ed="B" n="0446b01"/><persName key="A003579">圭</persName>初亦習帖括<!-- 應舉 -->，苦志勤學。稍長，善屬文，有聲於時。父忽詔之曰：
+<lb ed="B" n="0446b02"/>「吾為佛不果，吾以汝捨佛，汝其<anchor xml:id="beg044601"/><choice><sic resp="CBETA">母</sic><corr resp="PC-MB">毋</corr></choice><anchor xml:id="end044601"/>違。」<persName key="A003579">圭</persName>乃禮開元<persName key="A003966">廣漩</persName>得度，凡
+<lb ed="B" n="0446b03"/>三歷職，而至分座。秉拂宣政院檄，主承天，謝不起。客有勸之者，
+<lb ed="B" n="0446b04"/>示以偈云：「幾年學得舞腰肢，到處身將竿木隨；底事逢埸羞作
+<lb ed="B" n="0446b05"/>戲，只愁笑倒鄧禪師。」又云：「水牯還生水牯兒，入田不放鼻頭低；
+<lb ed="B" n="0446b06"/>秋來禾麥多成稗，空負先農一把犂。」乃相視一笑而罷。嘗築室
+<lb ed="B" n="0446b07"/>開元之西曰「夢觀堂」，吟詠自怡，素性爽特，學博識端，為文似柳<!-- 柳宗元？ -->，
+<lb ed="B" n="0446b08"/>為詩似陶<!-- 陶淵明？ -->。<persName key="A003971">吳鑒</persName>稱其為圓機之士，能貫儒釋而一之，真知言哉。
+<lb ed="B" n="0446b09"/>所著有《夢觀集》、《紫雲開士傳》。今讀其書，自唐迄元，傳七十二人，
+<lb ed="B" n="0446b10"/>以<persName key="A003622">匡護</persName>始，以<persName key="A003630">契祖</persName>終。<persName key="A003630">祖</persName>之嗣曰<persName key="A003962">始照</persName>、曰<persName key="A004024">崇會</persName>，其行事皆有可傳。
+<lb ed="B" n="0446b11"/>而<persName key="A003579">圭</persName>乃自記曰：「<persName key="A003962">照</persName>吾嘗侍其旁，掌其記；<persName key="A004024">會</persName>吾嘗分其坐，知之固
+<lb ed="B" n="0446b12"/>甚詳。然必為之傳，則私而諛矣，故繫其名於<persName key="A003630">祖</persName>傳，以俟作者傳
+<lb ed="B" n="0446b13"/>之。」於戲！可想見<persName key="A003579">圭</persName>之為人。</p>
+    <linkGrp>
+        <link targets="#0446a20 #0446b02"/>
+        <ptr target="#A003579" type="person"/>
+        <ptr target="#A044123" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0446b02 #0446b03"/>
+        <ptr target="#A003579" type="person"/>
+        <ptr target="#A003966" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0446b08 #0446b08"/>
+        <ptr target="#A003579" type="person"/>
+        <ptr target="#A003971" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0446b10 #0446b10"/>
+        <ptr target="#A003630" type="person"/>
+        <ptr target="#A003962" type="person"/>
+        <ptr target="#A004024" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0446b11 #0446b11"/>
+        <ptr target="#A003579" type="person"/>
+        <ptr target="#A003962" type="person"/>
+        <ptr target="#A004024" type="person"/>
+    </linkGrp>
+</div>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="淨讀" xml:id="gsz0323a03shiYueKe">
+<lb ed="B" n="0323a03"/><anchor n="B.27.0151.0323a03"/><head>元嘉定西隱寺沙門<persName key="A044052">釋悅可</persName>傳<persName type="secondary" key="A044053">祖輝</persName><persName type="secondary" key="A044055">如鑑</persName></head>
+<lb ed="B" n="0323a04"/><p xml:id="pB27p0323a0401"><persName key="A044052">釋悅可</persName>，字<persName key="A044052">中庭</persName>，主嘉定西隱寺。築十六觀堂以修淨業，緇白多
+<lb ed="B" n="0323a05"/>歸之，聲光爛然，徹於九重。<date notBefore-iso="+1314-01-25" key="j22010132203581" notAfter-iso="+1321-02-05">延祐間</date>賜號<persName key="A044052">廣慧大師</persName>。<date notBefore-iso="+1341-01-26" key="j22108762221593" notAfter-iso="+1370-05-31">至正中</date>無疾
+<lb ed="B" n="0323a06"/>坐逝，茶毘齒舌不壞。<persName key="A044053">祖輝</persName>者，居明州城中佛閣。逢人但云：「阿彌
+<lb ed="B" n="0323a07"/>陀佛。」鄞縣尉<persName key="A044054">王用享</persName>敬事之。一日詣其家，告別云：「我明日行矣。」
+<lb ed="B" n="0323a08"/>明日送者俱會，即入龕端坐。乞甘瓜，一枚啖盡，怡然含笑而瞑。
+<lb ed="B" n="0323a09"/><persName key="A044055">如鑑</persName>亦居明州，止於塔山。嘗讀大藏，兩度翻閱，頗窮研索，時人
+<lb ed="B" n="0323a10"/>難之。長誦蓮經，專誠諷佛，晝夜不懈。晚歲庵居，持誦尤虔。及示
+<lb ed="B" n="0323a11"/>疾，乞鄰庵諸僧，同聲唱讚，面西跏趺而逝。</p>
+    <linkGrp>
+        <link targets="#0323a05 #0323a05"/>
+        <ptr target="#A044052" type="person"/>
+        <ptr target="#A002087" type="person"/>
+        <ptr target="#j22010132203581" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0323a06 #0323a07"/>
+        <ptr target="#A044053" type="person"/>
+        <ptr target="#A044054" type="person"/>
+    </linkGrp>
+</div>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0151a14shiZhengYuan">
+<lb ed="B" n="0151a14"/><anchor n="B.27.0151.0151a14"/><head>元徑山興聖萬壽寺沙門<persName key="A015547">釋正源</persName>傳</head>
+<lb ed="B" n="0151a15"/><p xml:id="pB27p0151a1501"><persName key="A015547">釋正源</persName>，字<persName key="A015547">竺遠</persName>，姓歐陽氏，世居南康，蓋<persName key="A009432">歐陽文忠</persName>之苗裔也。生
+<lb ed="B" n="0151a16"/>之夕，母感梵僧入夢，知非凡俗。稍長即歸禪院，魚鐘清徹，心性
+<lb ed="B" n="0151a17"/>俱馴。<ref type="date" target="#j22017512202105">年二十七</ref>始受具戒，<persName key="A000489">大辯與虛谷陵</persName>，以道德名冠東南，<persName key="A015547">源</persName>
+<lb ed="B" n="0151a18"/>往參之，皆得其法而去。初見<persName key="A000489">陵</persName>時，以「<persName key="A010427">龍潭</persName>滅紙炬」語問之，<persName key="A015547">源</persName>應
+<lb ed="B" n="0151a19"/>之曰：「焦石可破層冰。」曰：「破後奚為？」復應之曰：「探索乃知。」<persName key="A000489">陵</persName>詰曰：
+<lb ed="B" n="0151a20"/>「所知者何事？」方思屬對，<persName key="A000489">陵</persName>遽舉杖擊之，悚然默喻，由是智開識<pb ed="B" xml:id="B27.0151.0151b" n="0151b"/>
+<lb ed="B" n="0151b01"/>融，外內無礙，雄談慧辯，動靜皆空。叩之者無窮，歸之者有容，近
+<lb ed="B" n="0151b02"/>者化而信，遠者慕而宗。又能飾之以文，持之以勤，位尊而不以
+<lb ed="B" n="0151b03"/>為榮，德盛而守之以謙。所居道場培修增飾，佛殿僧寮，悉臻完
+<lb ed="B" n="0151b04"/>備。主徑山時，亂兵所至，遺骼暴露，衋<!-- 傷痛貌 -->焉閔之，盡為焚瘞。其在靈
+<lb ed="B" n="0151b05"/>隱，屢經兵燹，樓閣煨燼，唯居室獨存，若有神相。其建功動物可
+<lb ed="B" n="0151b06"/>見如此。<ref type="person" target="#A006676">元帝</ref>聞其賢錫，以<persName key="A015547">佛慧慈照普應禪師</persName>之號。五主名藍，
+<lb ed="B" n="0151b07"/>皆方鎮大臣，遣使邀致。蓋法之孚於人者深也。<date when-iso="+1361-07-18" key="j22183542218354">元至正二十一
+<lb ed="B" n="0151b08"/>年六月二十六日</date>，預告期至，書偈而化，壽七十有二。得法弟子
+<lb ed="B" n="0151b09"/><persName key="A022545">廣化圓伊</persName>等分爪髮於道場，舍利叢生，靈異顯著。<ref type="date" target="#j22185552218908">越明年</ref>，奉遺
+<lb ed="B" n="0151b10"/>骨藏徑山，而徵<persName key="A007271">宋文憲濂</persName>為之銘云。</p>
+    <linkGrp>
+        <link targets="#0151a17 #0151a20"/>
+        <ptr target="#A015547" type="person"/>
+        <ptr target="#A000489" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0151b06 #0151b06"/>
+        <ptr target="#A015547" type="person"/>
+        <ptr target="#A006676" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0151b08 #0151b09"/>
+        <ptr target="#A015547" type="person"/>
+        <ptr target="#A022545" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0151b09 #0151b10"/>
+        <ptr target="#A007271" type="person"/>
+        <ptr target="#A022545" type="person"/>
+        <ptr target="#j22185552218908" type="time"/>
+    </linkGrp>
+</div>

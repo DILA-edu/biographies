@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0371b17shiYunWei">
+<lb ed="B" n="0371b17"/><anchor n="B.27.0151.0371b17"/><head>元磐山北少林寺沙門<persName key="A015515">釋雲威</persName>傳<persName type="secondary" key="A044087">圜悟</persName></head>
+<lb ed="B" n="0371b18"/><p xml:id="pB27p0371b1801"><persName key="A015515">釋雲威</persName>，姓侯氏，太谷人。幼習儒術，高才博識，早有令譽。方及壯
+<lb ed="B" n="0371b19"/>歲，舍業去浮，下髮披褐，參最上乘。朋遊講肆，慧辯出倫。聞玉山
+<lb ed="B" n="0371b20"/><persName key="A044085">博達</persName>公講席之盛，走謁依之，為入室之子。久之，遂承印證。會磐<pb ed="B" xml:id="B27.0151.0372a" n="0372a"/>
+<lb ed="B" n="0372a01"/>山法興虛席，使<persName key="A015515">雲威</persName>接武。明年新巢雲軒，因以<persName key="A015515">巢雲</persName>自號。宣政
+<lb ed="B" n="0372a02"/>院使<persName key="A020315">脫</persName>公為請朝旨，更法興為北少林寺。嘗謂<persName key="A020315">脫</persName>曰：「知人唯難，
+<lb ed="B" n="0372a03"/>人實難知；知其難者，千中無一。」<persName key="A015515">雲</persName>開法施教，居止無怠，檀門仰
+<lb ed="B" n="0372a04"/>德，寺規謹嚴。<date when-iso="+1348-09-24" key="j22136742213674">至正戍子八月二十三日</date>，以疾告終，<persName key="A027366">圓讓</persName>為之記。
+<lb ed="B" n="0372a05"/><persName key="A044087">圜悟賑</persName>禪師者，不知何許人。得法東山<persName key="A044086">本無玄</persName>公，孤藤隻缽至
+<lb ed="B" n="0372a06"/>磐山修報國寺。<date from-iso="+1318-02-10" key="j22024902202843" to-iso="+1319-01-29">延祐五年戊午</date>聞於朝，賜號<persName key="A044087">契宗禪師</persName>。</p>
+    <linkGrp>
+        <link targets="#0371b19 #0371b20"/>
+        <ptr target="#A015515" type="person"/>
+        <ptr target="#A044085" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0372a01 #0372a02"/>
+        <ptr target="#A015515" type="person"/>
+        <ptr target="#A020315" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0372a05 #0372a05"/>
+        <ptr target="#A044087" type="person"/>
+        <ptr target="#A044086" type="person"/>
+    </linkGrp>
+</div>

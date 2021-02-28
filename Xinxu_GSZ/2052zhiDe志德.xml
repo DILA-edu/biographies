@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="義解" xml:id="gsz0062a08shiZhiDe">
+<lb ed="B" n="0062a08"/><anchor n="B.27.0151.0062a08"/><head>元金陵天禧寺沙門<persName key="A008187">釋志德</persName>傳<persName type="secondary" key="A008189">海聞</persName><persName type="secondary" key="A008191">法照禧</persName></head>
+<lb ed="B" n="0062a09"/><p xml:id="pB27p0062a0901"><persName key="A008187">釋志德</persName>，號<persName key="A008187">雲巖</persName>，東昌鐂氏子也。<ref type="date" target="#j21761782176561">年十二</ref>受經於順德開元寺<persName key="A008189">海
+<lb ed="B" n="0062a10"/>聞</persName>。後聞真定<persName key="A008191">法照禧</persName>大宏慈恩宗旨於龍興寺，徑從之學而盡
+<lb ed="B" n="0062a11"/>得其蘊。<date from-iso="+1288-02-10" key="j21915332191887" to-iso="+1289-01-29">至元二十五年</date>詔江淮諸路立御講三十六所，務求其
+<lb ed="B" n="0062a12"/>宗正行修者分主之，<persName key="A008187">德</persName>被選。<persName key="A002085">世祖</persName>召見，賜宴並紫方袍，命主天
+<lb ed="B" n="0062a13"/>禧、旌忠二剎。日講《法華》、《華嚴》、《金剛》、《唯識》等疏。<date from-iso="+1294-02-04" key="j21937192194072" to-iso="+1295-01-23">三十一年</date>特賜<persName key="A008187">佛
+<lb ed="B" n="0062a14"/>光大師</persName>之號。每與七眾授戒，必令其父母兄弟，相教無犯；至於
+<lb ed="B" n="0062a15"/>熱香頂指，為終身誓。居久之，盡出衣鉢，新其殿廡、樓閣。或歲儉，
+<lb ed="B" n="0062a16"/>乃煮糜，食餓殍數萬人。建康流俗尚醪醴，好結官吏。<persName key="A008187">德</persName>獨以律
+<lb ed="B" n="0062a17"/>自繩徒眾，謹飾出止。若互用常住物者，誤一罰百，故犯者擯之。
+<lb ed="B" n="0062a18"/>居天禧三十餘年，一衲一履，終身不易；午過不食，夜則危坐達
+<lb ed="B" n="0062a19"/>旦。以苦誦喪明，忽夢梵僧迎居內院高座，空中散花如雨。因示
+<lb ed="B" n="0062a20"/>微疾。<date when-iso="+1322-03-03" key="j22039722203972">至治二年二月七日</date>猶誦經不輟，頃之辭眾，安坐而化。世<pb ed="B" xml:id="B27.0151.0062b" n="0062b"/>
+<lb ed="B" n="0062b01"/>壽八十八，龕<g ref="#CB08428">𤲢</g>二十一日，顏貌紅潤如生，闍維舍利無算，會者
+<lb ed="B" n="0062b02"/>數萬人。塔江寧張家山，學士<persName key="A004030">趙孟頫</persName>為銘。</p>
+    <linkGrp>
+        <link targets="#0062a09 #0062a10"/>
+        <ptr target="#A008187" type="person"/>
+        <ptr target="#A008189" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0062a10 #0062a10"/>
+        <ptr target="#A008187" type="person"/>
+        <ptr target="#A008191" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0062a11 #0062a13"/>
+        <ptr target="#A008187" type="person"/>
+        <ptr target="#A002085" type="person"/>
+        <ptr target="#j21915332191887" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0062a13 #0062a13"/>
+        <ptr target="#A008187" type="person"/>
+        <ptr target="#A002085" type="person"/>
+        <ptr target="#j21937192194072" type="time"/>
+    </linkGrp>
+</div>

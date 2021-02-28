@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="義解" xml:id="gsz0059b02shiBenWu">
+<lb ed="B" n="0059b02"/><anchor n="B.27.0151.0059b02"/><head>元四明延慶寺沙門<persName key="A007930">釋本無</persName>傳</head>
+<lb ed="B" n="0059b03"/><p xml:id="pB27p0059b0301"><persName key="A007930">釋本無</persName>，號<persName key="A007930">我庵</persName>，黃巖人。幼從<persName key="A000187">方山寶</persName>禪師於瑞巖，薙髮進具戒。
+<lb ed="B" n="0059b04"/>次依<persName key="A001032">寂照</persName>禪師於中天竺，命司箋翰。<persName key="A001032">寂照</persName>每深加錐剳，亦有省
+<lb ed="B" n="0059b05"/>處。後有舅氏，本習天台教，挽之更衣，見<persName key="A000640">湛堂澄</persName>於演福，精研教
+<lb ed="B" n="0059b06"/>部。<persName key="A001032">寂照</persName>惜其去，遂作偈寄之云：「從教入禪今古有，從禪入教古
+<lb ed="B" n="0059b07"/>今無；一心三觀門雖別，水滿千江月自孤。」<persName key="A007930">本無</persName>後出世，既嗣<persName key="A000640">澄</persName>
+<lb ed="B" n="0059b08"/>法，仍爇香以報<persName key="A001032">寂照</persName>，蓋不以跡異二其心也。<persName key="A001032">寂照</persName>將入滅時，<persName key="A007930">本
+<lb ed="B" n="0059b09"/>無</persName>方主延慶，<persName key="A001032">照</persName>乃遺書，囑其力宏大蘇、少林二宗，餘無他說。因
+<lb ed="B" n="0059b10"/>奠<persName key="A001032">寂照</persName>，乃拈香云：「妙喜五傳最光燄，寂照一代甘露門；等閒觸
+<lb ed="B" n="0059b11"/>著肝膽裂，冰雪忽作陽春溫；我思打失鼻孔日，是何氣息今猶
+<lb ed="B" n="0059b12"/>存；天風北來歲云暮，掣電討甚空中痕。」晚歲遷上天竺。一日無
+<lb ed="B" n="0059b13"/>疾，端坐而蛻於白雲堂。諡曰<persName key="A007930">佛護宣覺憲慈匡道大師</persName>。</p>
+    <linkGrp>
+        <link targets="#0059b03 #0059b03"/>
+        <ptr target="#A007930" type="person"/>
+        <ptr target="#A000187" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0059b04 #0059b04"/>
+        <ptr target="#A007930" type="person"/>
+        <ptr target="#A001032" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0059b05 #0059b05"/>
+        <ptr target="#A007930" type="person"/>
+        <ptr target="#A000640" type="person"/>
+    </linkGrp>
+</div>

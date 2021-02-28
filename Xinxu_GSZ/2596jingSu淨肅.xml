@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0373b06shiJingSu">
+<lb ed="B" n="0373b06"/><anchor n="B.27.0151.0373b06"/><head>元泰安靈巖寺沙門<persName key="A020887">釋淨肅</persName>傳</head>
+<lb ed="B" n="0373b07"/><p xml:id="pB27p0373b0701"><persName key="A020887">釋淨肅</persName>，字<persName key="A020887">足庵</persName>，姓孫氏，永平人也。世居滿城，以農立家，隴雲耕
+<lb ed="B" n="0373b08"/>月，遑言他務。<persName key="A020887">肅</persName>生而苕頴，見異常兒，頗有出塵之格。其父攜之
+<lb ed="B" n="0373b09"/>唐縣，禮<persName key="A044097">香山明</persName>公<!-- 《五燈全書》卷61：「香山壽聖」(CBETA 2021.Q1, X82, no. 1571, p. 259a8)《續燈存稿》卷11：「永平張氏子。從香山壽聖受業。」(CBETA 2021.Q1, X84, no. 1585, p. 781b5-6) -->落髮。給侍之餘，令識梵文，目擊千言，娓娓成
+<lb ed="B" n="0373b10"/>誦。後聞<persName key="A044098">雲峯亨</persName>公，走依座右，日復一日，於搥拂之下，發明大事。
+<lb ed="B" n="0373b11"/>雖秘傳密授，不滿初心，深自韜晦，遍參名宿，謁<persName key="A044099">三陽廣</persName>、<persName key="A044100">仰山通</persName>、
+<lb ed="B" n="0373b12"/><persName key="A044101">報恩資</persName>，皆蒙許可。後<persName key="A015346">雪庭</persName>掌天下僧權，而主萬壽，才學博贍，道
+<lb ed="B" n="0373b13"/>德豐盈，遐邇雲臻，慨然輻輳。<persName key="A020887">肅</persName>亦懷香，逕造其室。一見心許，緘
+<lb ed="B" n="0373b14"/>芥之緣，不差毫忽，遂以衣法付之。詰旦捲衣去，依趙好乳峯禪
+<lb ed="B" n="0373b15"/>伯，稟受外典。未及食新果，造幽微，復參<persName key="A044102">東山微</persName>、<persName key="A044103">九峯信</persName>。<persName key="A044103">信</persName>欲使
+<lb ed="B" n="0373b16"/>續東山，掉臂去之。入燕，棲萬安，寄傲南窗，閉關<anchor xml:id="beg_190" type="cb-app"/>卻<anchor xml:id="end_190"/>掃，杜絕人跡。
+<lb ed="B" n="0373b17"/>當是時，嵩少闕人，就命開法於萬壽之堂。越明年，宣授河南府
+<lb ed="B" n="0373b18"/>僧尼都提，領居九載，革故鼎新，未嘗少息。剏建方丈二十四楹，
+<lb ed="B" n="0373b19"/>古未之有也。當修營之際，輦土移石，必先其力，上下竦然，莫不
+<lb ed="B" n="0373b20"/>服從，爭先恐後。次主靈巖八載，廣閣大廈，椽梠差脫，人多憂之，<pb ed="B" xml:id="B27.0151.0374a" n="0374a"/>
+<lb ed="B" n="0374a01"/><persName key="A020887">肅</persName>為之一新。其餘僧舍，增修百有餘間。自來締構，無出其右。會
+<lb ed="B" n="0374a02"/>萬善虛席，命補其處。及至，重新廊廡，翕然稱善。<persName key="A020887">肅</persName>三居巨剎，立
+<lb ed="B" n="0374a03"/>叢林，銳意興建，不遺餘力。後退居香山壽聖故剎，年及耳順，默
+<lb ed="B" n="0374a04"/>焉而寂。依制闍維，收骨起塔。弟子<persName key="A044104">智錦</persName>以<date when-iso="+1293-10-16" key="j21936082193608">至元三十年癸<anchor xml:id="beg_191" type="cb-app"/>巳<anchor xml:id="end_191"/>重
+<lb ed="B" n="0374a05"/>陽</date>，求林泉老衲<persName key="A020886">從倫</persName>撰銘立石<!-- 從倫已寂於1281。 -->，以永遺芬。</p>
+    <linkGrp>
+        <link targets="#0373b08 #0373b09"/>
+        <ptr target="#A020887" type="person"/>
+        <ptr target="#A044097" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0373b10 #0373b10"/>
+        <ptr target="#A020887" type="person"/>
+        <ptr target="#A044098" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0373b12 #0373b13"/>
+        <ptr target="#A020887" type="person"/>
+        <ptr target="#A044099" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0373b12 #0373b13"/>
+        <ptr target="#A020887" type="person"/>
+        <ptr target="#A044100" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0373b12 #0373b13"/>
+        <ptr target="#A020887" type="person"/>
+        <ptr target="#A044101" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0373b15 #0373b15"/>
+        <ptr target="#A020887" type="person"/>
+        <ptr target="#A044102" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0373b15 #0373b16"/>
+        <ptr target="#A020887" type="person"/>
+        <ptr target="#A044103" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0374a04 #0374a04"/>
+        <ptr target="#A020887" type="person"/>
+        <ptr target="#A044104" type="person"/>
+    </linkGrp>
+    <linkGrp cert="low">
+        <link targets="#0374a04 #0374a05"/>
+        <ptr target="#A020886" type="person"/>
+        <ptr target="#A044104" type="person"/>
+        <ptr target="#j21936082193608" type="time"/>
+    </linkGrp>
+</div>

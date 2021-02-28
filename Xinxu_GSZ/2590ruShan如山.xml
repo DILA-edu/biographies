@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0370a11shiRuShan">
+<lb ed="B" n="0370a11"/><anchor n="B.27.0151.0370a11"/><head>元鼓山白雲峰湧泉寺沙門<persName key="A044076">釋如山</persName>傳<persName type="secondary" key="A044077">道傑</persName><persName type="secondary" key="A044078">崇祖</persName></head>
+<lb ed="B" n="0370a12"/><p xml:id="pB27p0370a1201"><persName key="A044076">釋如山</persName>，字<persName key="A044076">海翁</persName>，姓陳氏，閩人也。<date from-iso="+1306-01-23" key="j21980892198472" to-iso="+1307-02-10">大德丙午</date>，禮<persName key="A044077">在山道傑</persName>為師。<persName key="A044077">傑</persName>
+<lb ed="B" n="0370a13"/>有慧辯，入雪竇<persName key="A021407">簡翁</persName>之室。晚住當山十餘載。山中頺廢，悉皆修
+<lb ed="B" n="0370a14"/>舉。<date from-iso="+1334-02-13" key="j22083372208690" to-iso="+1335-02-01">元統甲戌</date>，諸道廣立教府，以統僧眾。乃請<persName key="A044076">如山</persName>居當山以兼
+<lb ed="B" n="0370a15"/>之。未幾，遂專其席，經營勤苦，十有八稔，寺宇一新。詔賜紫衣兼
+<lb ed="B" n="0370a16"/><persName key="A044076">正宗穎悟</persName>之號。<date from-iso="+1353-02-13" key="j22152772215630" to-iso="+1354-02-01">至正癸<anchor xml:id="beg_18e" type="cb-app"/>巳<anchor xml:id="end_18e"/></date>，傳席弟子<persName key="A044078">崇祖</persName>。<persName key="A044078">崇祖</persName>字<persName key="A044078">不傳</persName>，出林氏，
+<lb ed="B" n="0370a17"/>亦閩人也。年二十剃落受具，<date from-iso="+1333-11-23" key="j22082552208336" to-iso="+1334-02-12">元統癸酉</date>出主廣明，<date from-iso="+1353-02-13" key="j22152772215630" to-iso="+1354-02-01">至正十三年</date>
+<lb ed="B" n="0370a18"/>始主當山。聞譽遠著，卿相禮重，由是聲徹禁中，朝廷特賜璽書，
+<lb ed="B" n="0370a19"/>褒美護持。更賜紫衣並號曰<persName key="A044078">慧鐙普照</persName>。故寺門有曲，皆得理而
+<lb ed="B" n="0370a20"/>直之。白雲廨院，為寇所焚。<persName key="A044078">崇祖</persName>重建之，規模視昔有加，一時盛<pb ed="B" xml:id="B27.0151.0370b" n="0370b"/>
+<lb ed="B" n="0370b01"/>稱之。以<date from-iso="+1363-01-24" key="j22189092219292" to-iso="+1364-02-11">至正癸卯年</date>示寂，入祖塔。<persName key="A044076">如山</persName>寂于<date when-iso="+1374-03-14" key="j22229762222976">至正乙未二月七
+<lb ed="B" n="0370b02"/>日</date>，入南山仁壽寺塔，蓋所自建者。</p>
+    <linkGrp>
+        <link targets="#0370a12 #0370a12"/>
+        <ptr target="#A044076" type="person"/>
+        <ptr target="#A044077" type="person"/>
+        <ptr target="#j21980892198472" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0370a12 #0370a13"/>
+        <ptr target="#A021407" type="person"/>
+        <ptr target="#A044077" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0370a15 #0370a16"/>
+        <ptr target="#A006676" type="person"/>
+        <ptr target="#A044076" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0370a16 #0370a16"/>
+        <ptr target="#A044076" type="person"/>
+        <ptr target="#A044078" type="person"/>
+        <ptr target="#j22152772215630" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0370a18 #0370a19"/>
+        <ptr target="#A006676" type="person"/>
+        <ptr target="#A044078" type="person"/>
+    </linkGrp>
+</div>

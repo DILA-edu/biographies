@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="淨讀" xml:id="gsz0322b14shiMiaoWen">
+<lb ed="B" n="0322b14"/><anchor n="B.27.0151.0322b14"/><head>元薊州雲泉寺沙門<persName key="A008177">釋妙文</persName>傳<persName type="secondary" key="A017660">善住</persName><persName type="secondary" key="A017660">文慧</persName></head>
+<lb ed="B" n="0322b15"/><p xml:id="pB27p0322b1501"><persName key="A008177">釋妙文</persName>，姓孫氏，蔚人也。<ref type="date" target="#j21758242176177">年方九齡</ref>，捨身佛寺。<ref type="date" target="#j21798402180193">既冠</ref>，始抵燕京，依
+<lb ed="B" n="0322b16"/><persName key="A008178">大德明</persName>公，學圓頓之道。後居薊之雲泉寺，操行精勤，力崇儉樸，
+<lb ed="B" n="0322b17"/>廩有餘粟，歲荒以賑饑民，薊人德之。累主講席，大宏方等，高唱
+<lb ed="B" n="0322b18"/>圓宗。晚年退居逸老，專修念佛三昧。<date from-iso="+1319-01-30" key="j22028442203227" to-iso="+1320-02-17">元延祐六年</date>示疾，令弟子
+<lb ed="B" n="0322b19"/>諷佛名，遽起趺坐，聲息泊然，年八十三。又<persName key="A017660">善住</persName>字<persName key="A017660">雲屋</persName>，姑蘇人。
+<lb ed="B" n="0322b20"/>掩關一室，六時念佛。病久不易，終時異香滿室。著有《安養傳》、《谷<pb ed="B" xml:id="B27.0151.0323a" n="0323a"/>
+<lb ed="B" n="0323a01"/>響集》行世。<persName key="A044051">文慧</persName>者，嘉禾青龍寺僧也。善作詩已而。專志淨業，至
+<lb ed="B" n="0323a02"/>老益勵。一日示疾，聞空中有聲云：「中品生。」遂逝。</p>
+    <linkGrp>
+        <link targets="#0322b15 #0322b16"/>
+        <ptr target="#A008177" type="person"/>
+        <ptr target="#A008178" type="person"/>
+        <ptr target="#j21798402180193" type="time"/>
+    </linkGrp>
+</div>

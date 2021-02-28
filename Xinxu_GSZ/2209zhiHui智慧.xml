@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0154a02shiZhiHui">
+<lb ed="B" n="0154a02"/><anchor n="B.27.0151.0154a02"/><head>元泰安靈巖寺沙門<persName key="A043972">釋智慧</persName>傳</head>
+<lb ed="B" n="0154a03"/><p xml:id="pB27p0154a0301"><persName key="A043972">釋智慧</persName>，字<persName key="A043972">涌泉</persName>，姓李氏，袁人也。善緣夙具，年十六禮長清方山
+<lb ed="B" n="0154a04"/><persName key="A020887">足庵肅</persName>落髮受具。為大比丘，隨眾習五大部經，告香請益，禪宗
+<lb ed="B" n="0154a05"/>奧典，雜勘公案，微有省悟。<date from-iso="+1283-02-06" key="j21897032190056" to-iso="+1284-01-25">至元二十年</date>，侍<persName key="A021417">安山月泉</persName>，執持巾瓶，
+<lb ed="B" n="0154a06"/>依止三載。參<persName key="A043973">寶峰順</persName>於《信心銘》「言語道斷，非去來今」處<!-- 《信心銘》：「言語道斷　非去來今」(CBETA 2021.Q1, T48, no. 2010, p. 377a10) -->，豁然穎
+<lb ed="B" n="0154a07"/>脫，成一偈曰：「言詞盡淨絕機關，凡聖情忘造者難，木馬穿雲消
+<lb ed="B" n="0154a08"/>息斷，依前綠水對青山。」<persName key="A043973">寶峯</persName>欣然，以衣頌付之。自是諸方名宿，
+<lb ed="B" n="0154a09"/>無不參叩，皆蒙許可，始出世於泗水安山。<date from-iso="+1308-02-01" key="j21988282199211" to-iso="+1309-02-18">至大元年</date>主鵲里崇
+<lb ed="B" n="0154a10"/>孝數載，接踵靈巖，以名山事煩，退居雲臺。<date from-iso="+1330-01-28" key="j22068602207243" to-iso="+1331-02-15">至順元年</date>，復主肥城、
+<lb ed="B" n="0154a11"/>空杏五處名藍，皆著勤勞。壽七十餘，僧臘五十五。<date from-iso="+1330-06-02" key="j22069852207243" to-iso="+1331-02-15">至順二年</date>，嵩
+<lb ed="B" n="0154a12"/>山<persName key="A027340">法王覺亮</persName>，為之壽塔銘云。</p>
+    <linkGrp>
+        <link targets="#0154a03 #0154a04"/>
+        <ptr target="#A043972" type="person"/>
+        <ptr target="#A020887" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0154a05 #0154a06"/>
+        <ptr target="#A043972" type="person"/>
+        <ptr target="#A021417" type="person"/>
+        <ptr target="#j21897032190056" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0154a06 #0154a08"/>
+        <ptr target="#A043972" type="person"/>
+        <ptr target="#A021417" type="person"/>
+    </linkGrp>
+</div>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="義解" xml:id="gsz0057b01shiWuGuang">
+<lb ed="B" n="0057b01"/><anchor n="B.27.0151.0057b01"/><head>元明州天童寺沙門<persName key="A007296">釋悟光</persName>傳</head>
+<lb ed="B" n="0057b02"/><p xml:id="pB27p0057b0201"><persName key="A007296">釋悟光</persName>，字<persName key="A007296">公實</persName>，號<persName key="A007296">雪窗</persName>，姓楊氏，蜀之新都人也。母<persName key="A043934">張氏</persName>，感白衣
+<lb ed="B" n="0057b03"/>大士授貫珠而孕。及生，有風雲光景之異。幼而岐嶷，性不好弄。
+<lb ed="B" n="0057b04"/>父母繼沒，哀痛盡禮如成人。舅氏<persName key="A043935">賢</persName>公學佛天王寺，<persName key="A007296">光</persName>往依之，
+<lb ed="B" n="0057b05"/>日事講習。<persName key="A043935">賢</persName>沒，迺受度於<persName key="A018314">了沖</persName>。間與同侶游譚，便識旨趣。<ref type="date" target="#j21699772170330">年十
+<lb ed="B" n="0057b06"/>有五</ref>詣大慈講席，縱觀鈔疏，慨然曰：「以名義為宗，毋乃滯於見
+<lb ed="B" n="0057b07"/>解乎？」欲化徐<!-- 除？ -->門戶，玅徹真詮，振衣出峽。徧歷禪林，至杭謁<persName key="A007563">東嶼
+<lb ed="B" n="0057b08"/>海</persName>，知一見即待以法器，杖厲頻加。<persName key="A007296">光</persName>堅坐苦究，夜半飛蛾撲鐙，
+<lb ed="B" n="0057b09"/>見之有省。旦造方丈，應答如響，羣疑頓釋。自是憤發，益通內外
+<lb ed="B" n="0057b10"/>典，充淨慈記室。<persName key="A007563">海</persName>遷靈隱，復侍巾瓶，盡啟心要，聲聞日閎。<date from-iso="+1330-01-28" key="j22068602207243" to-iso="+1331-02-15">元至
+<lb ed="B" n="0057b11"/>順元年</date>，平江白馬寺請光開法，朝夕提撕，學徒整肅，時論歸之。
+<lb ed="B" n="0057b12"/><date from-iso="+1333-01-25" key="j22079532208336" to-iso="+1334-02-12">元統元年</date>廣教都督管府請主開元寺，勿就，郡守、士民強起之。
+<lb ed="B" n="0057b13"/>屬天旱，<persName key="A007296">光</persName>至說法，甘霖大沛。<date from-iso="+1342-02-14" key="j22112602211614" to-iso="+1343-02-03">至正二年</date>行宣政院使<persName key="A007451">納麟</persName>欲革
+<lb ed="B" n="0057b14"/>僧寺舊弊，舉<persName key="A007296">光</persName>主阿育山。先是諸僧搆訟，產業淪沒，<persName key="A007296">光</persName>力除其
+<lb ed="B" n="0057b15"/>螙，旬月之間，山川草木為之改觀。墾田既復，倉庾日積，殿廡、禪
+<lb ed="B" n="0057b16"/>房次第完飾，重建祖堂，整嚴神相。朝廷以釋迦佛舍利所藏，歲
+<lb ed="B" n="0057b17"/>頒金帛，至是寵渥益加。<persName key="A007296">光</persName>主悉以市材木築承恩閣，以侈上賜。復
+<lb ed="B" n="0057b18"/>錫號曰<persName key="A007296">佛日圓明普濟禪師</persName>。會天童虛席，宣政院俾兼領寺事，
+<lb ed="B" n="0057b19"/><persName key="A007296">光</persName>以五日分會說法。俄示微疾，危坐作書，遺偈而逝。時<date when-iso="+1357-06-26" key="j22168712216871">至正十
+<lb ed="B" n="0057b20"/>七年六月甲辰朔</date>也，世壽六十有六，坐夏五十有三。<persName key="A007296">悟光</persName>雖事<pb ed="B" xml:id="B27.0151.0058a" n="0058a"/>
+<lb ed="B" n="0058a01"/>參究，而三諦圓融，一心朗澈。著有《心要》、《四會語錄》行世。所為詩
+<lb ed="B" n="0058a02"/>清麗可傳，有《雪窗集稿》二卷。塔於鄮峯草堂，大司農臨川<persName key="A007454">危素</persName>
+<lb ed="B" n="0058a03"/>為之銘。</p>
+    <linkGrp>
+        <link targets="#0057b02 #0057b04"/>
+        <ptr target="#A007296" type="person"/>
+        <ptr target="#A043934" type="person"/>
+        <ptr target="#A043935" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0057b05 #0057b05"/>
+        <ptr target="#A007296" type="person"/>
+        <ptr target="#A018314" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0057b07 #0057b10"/>
+        <ptr target="#A007296" type="person"/>
+        <ptr target="#A007563" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0057b13 #0057b14"/>
+        <ptr target="#A007296" type="person"/>
+        <ptr target="#A007451" type="person"/>
+        <ptr target="#j22112602211614" type="time"/>
+    </linkGrp>
+</div>

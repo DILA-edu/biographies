@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="靈感" xml:id="gsz0281b13shiZuoLi">
+<lb ed="B" n="0281b13"/><anchor n="B.27.0151.0281b13"/><head>元大理沙門<persName key="A044037">釋左黎</persName>傳<persName type="secondary" key="A044039">連精</persName></head>
+<lb ed="B" n="0281b14"/><p xml:id="pB27p0281b1401"><persName key="A044037">釋左黎</persName>者，姓王氏，滇西人。出家後，執行精苦，多有異迹。常持秘
+<lb ed="B" n="0281b15"/>咒，咒諸怪物及惡病，無不立驗。元室龍興，綏定六詔，<persName key="A044037">黎</persName>隨<ref type="person" target="#A044038">段氏</ref>
+<lb ed="B" n="0281b16"/>入覲上京。會<persName key="A004321">成宗</persName>手疽，醫莫能治。<persName key="A044037">黎</persName>乃咒水洗之，患即瘥可。欲
+<lb ed="B" n="0281b17"/>再試之，預屈一窟，可容八人。人持一鼓，擊於地中，偽言有怪，使
+<lb ed="B" n="0281b18"/><persName key="A044037">黎</persName>治之。<persName key="A044037">黎</persName>應命而至，細察其聲，果在此間。端坐其上，持咒喃喃。
+<lb ed="B" n="0281b19"/>少頃，鼓聲俱寂，開窟視之，八人已死。由是敬服，封為國師。後歸
+<lb ed="B" n="0281b20"/>大理，謂<ref type="person" target="#A044038">段氏王</ref>曰：「點蒼玉局峯上，每月望夜，常聞天樂之音。」<ref type="person" target="#A044038">王</ref><pb ed="B" xml:id="B27.0151.0282a" n="0282a"/>
+<lb ed="B" n="0282a01"/>曰：「安得致此？」<persName key="A044037">黎</persName>曰：「能取之耳。」至期，當候其地，天樂果至。雞鳴時，
+<lb ed="B" n="0282a02"/>但見群鶴翔空而下，有玉琵琶、箏琴、竹笛之器，人不得其音，遂
+<lb ed="B" n="0282a03"/>秘之云。又<persName key="A044039">連精</persName>，定遠人，通密教。<date notBefore-iso="+1341-01-26" key="j22108762221593" notAfter-iso="+1370-05-31">元至正間</date>，滇中大旱，<persName key="A044040">梁王</persName>迎之
+<lb ed="B" n="0282a04"/>祈請。乃於淨瓶中，出一小<g ref="#CB15323">𧉮</g>，雨隨大降。<ref type="person" target="#A044040">王</ref>贈以金帛，<anchor xml:id="beg_13d" type="cb-app"/>卻<anchor xml:id="end_13d"/>之。歸日
+<lb ed="B" n="0282a05"/>役鬼荷擔，步如行空，不知所往。<persName key="A044039">連</persName>所隱處，即今雲山。</p>
+    <linkGrp>
+        <link targets="#0281b15 #0281b19"/>
+        <ptr target="#A044037" type="person"/>
+        <ptr target="#A044038" type="person"/>
+        <ptr target="#A004321" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0282a03 #0282a04"/>
+        <ptr target="#A044039" type="person"/>
+        <ptr target="#A044040" type="person"/>
+        <ptr target="#j22108762221593" type="time"/>
+    </linkGrp>
+</div>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="義解" xml:id="gsz0059a14shiRongZhao">
+<lb ed="B" n="0059a14"/><anchor n="B.27.0151.0059a14"/><head>元松江延慶寺沙門<persName key="A007992">釋融照</persName>傳</head>
+<lb ed="B" n="0059a15"/><p xml:id="pB27p0059a1501"><persName key="A007992">釋融照</persName>，字<persName key="A007992">慧光</persName>，世家越之南明。早歲受業於華藏，刻意修習天
+<lb ed="B" n="0059a16"/>台教觀於台之安國山及杭之天竺。後從<persName key="A007994">淵叟湛</persName>居華亭延慶
+<lb ed="B" n="0059a17"/>寺。力精教乘，勤脩禪定，燃膏繼晷，旦夕無閒。故學由志，臻表於
+<lb ed="B" n="0059a18"/>叢席，職躋眾右四十祀矣。名聞京師，詔嘉獎，賜師號。每歲元日，
+<lb ed="B" n="0059a19"/>率眾脩《金光明懺》。說法之外，力事懺摩。與諸眾生掃除塵翳，攝
+<lb ed="B" n="0059a20"/>入善根，既老而彌勤。得其法者三人，曰<persName key="A007997">居簡</persName>、曰<persName key="A007995">宗榘</persName>、曰<persName key="A007996">宗權</persName>，皆<pb ed="B" xml:id="B27.0151.0059b" n="0059b"/>
+<lb ed="B" n="0059b01"/>法門龍象。</p>
+    <linkGrp>
+        <link targets="#0059a16 #0059a16"/>
+        <ptr target="#A007992" type="person"/>
+        <ptr target="#A007994" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0059a20 #0059a20"/>
+        <ptr target="#A007992" type="person"/>
+        <ptr target="#A007997" type="person"/>
+        <ptr target="#A007995" type="person"/>
+        <ptr target="#A007996" type="person"/>
+    </linkGrp>
+</div>

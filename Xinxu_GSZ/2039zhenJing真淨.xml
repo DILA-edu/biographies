@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="義解" xml:id="gsz0058a04shiZhenJing">
+<lb ed="B" n="0058a04"/><anchor n="B.27.0151.0058a04"/><head>元杭州上天竺寺沙門<persName key="A007894">釋真淨</persName>傳</head>
+<lb ed="B" n="0058a05"/><p xml:id="pB27p0058a0501"><persName key="A007894">釋真淨</persName>，字<persName key="A007894">如庵</persName>，雲間華亭姚氏子也。母<persName key="A043936">朱氏</persName>夢月自海昇墜於
+<lb ed="B" n="0058a06"/>懷，覺而有娠。及誕時，瑞光滿室。有異僧過，指謂其母曰：「此兒<persName key="A007895">海
+<lb ed="B" n="0058a07"/>月</persName>法師之再來也。」<ref type="date" target="#j21849482185331">九歲</ref>依化城寺<persName key="A007899">明淨志</persName>授《法華經》，歷耳成誦。
+<lb ed="B" n="0058a08"/><ref type="date" target="#j21875182187871">十六</ref>得度，博究諸乘，夙慧頓發，乃以性學自許。首謁杭之廣福
+<lb ed="B" n="0058a09"/><persName key="A007877">雲夢澤</persName>公。聞<persName key="A000221">無極度</persName>化聲大振，遂造其室，盡傳所學。元<date notBefore-iso="+1297-03-02" key="j21948412198827" notAfter-iso="+1308-01-31">大德閒</date>
+<lb ed="B" n="0058a10"/>出住海鹽德藏，法嗣<persName key="A000221">無極</persName>。其寺方圯，<persName key="A007894">淨</persName>竭力扶樹，眾散復聚。田
+<lb ed="B" n="0058a11"/>為豪門所奪，復歸。不數年翕然稱盛，式廓舊模。<date notBefore-iso="+1321-02-06" key="j22035822204674" notAfter-iso="+1324-02-03">至治</date>遷松江超
+<lb ed="B" n="0058a12"/>果。<date from-iso="+1325-01-23" key="j22050292205412" to-iso="+1326-02-10">泰定乙丑</date>，元相<persName key="A020315">脫驩</persName>舉住下竺。居七禩，講席不倦，闢寺前之
+<lb ed="B" n="0058a13"/>徑，高大其門，書「佛國山」以揭之。<date from-iso="+1331-02-16" key="j22072442207597" to-iso="+1332-02-04">至順辛未</date>上竺<persName key="A000640">湛堂澄</persName>以老告
+<lb ed="B" n="0058a14"/>休，舉<persName key="A007894">淨</persName>自代。先是<persName key="A007894">淨</persName>因疾，晝夜寢，夢白衣大士持金瓶水灌其
+<lb ed="B" n="0058a15"/>口曰：「汝勿憂，非久自愈矣。」叩以未來休咎<!-- 吉凶 -->，示云：「卻後二年，當避
+<lb ed="B" n="0058a16"/>喧大樹之下。」覺疾果差，竊疑避喧樹下非入滅之讖耶？及<persName key="A000640">澄</persName>舉
+<lb ed="B" n="0058a17"/>住上竺，至見寢堂西有大樹，堂匾曰「淨處」，始悟夢之所示。由是
+<lb ed="B" n="0058a18"/>殫心宏法，學者常數千指。<ref type="person" target="#A006674">元主</ref>慕其道，賜<persName key="A007894">佛心宏辯</persName>之號，及金
+<lb ed="B" n="0058a19"/>紋紫伽黎衣。<persName key="A007894">淨</persName>素簡重，有古人風，舉止不妄言笑。夙興默課《法
+<lb ed="B" n="0058a20"/>華經》，寒暑不輟。<date from-iso="+1333-11-16" key="j22082482208336" to-iso="+1334-02-12">癸酉冬</date>預告終期，乃命舟亟歸。未幾示疾，書偈<pb ed="B" xml:id="B27.0151.0058b" n="0058b"/>
+<lb ed="B" n="0058b01"/>而逝。閱世七十有二，坐五十有六夏。闍維得舌根、頂骨不壞，舍
+<lb ed="B" n="0058b02"/>利五色。</p>
+    <linkGrp>
+        <link targets="#0058a05 #0058a06"/>
+        <ptr target="#A007894" type="person"/>
+        <ptr target="#A043936" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0058a07 #0058a07"/>
+        <ptr target="#A007894" type="person"/>
+        <ptr target="#A007899" type="person"/>
+        <ptr target="#j21849482185331" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0058a08 #0058a09"/>
+        <ptr target="#A007894" type="person"/>
+        <ptr target="#A007877" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0058a09 #0058a09"/>
+        <ptr target="#A007894" type="person"/>
+        <ptr target="#A000221" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0058a12 #0058a12"/>
+        <ptr target="#A007894" type="person"/>
+        <ptr target="#A020315" type="person"/>
+        <ptr target="#j22050292205412" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0058a13 #0058a14"/>
+        <ptr target="#A007894" type="person"/>
+        <ptr target="#A000640" type="person"/>
+        <ptr target="#j22072442207597" type="time"/>
+    </linkGrp>>
+    <linkGrp>
+        <link targets="#0058a18 #0058a18"/>
+        <ptr target="#A007894" type="person"/>
+        <ptr target="#A006674" type="person"/>
+    </linkGrp>
+</div>

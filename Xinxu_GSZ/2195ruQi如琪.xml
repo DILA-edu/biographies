@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="習禪" xml:id="gsz0147a11shiRuQi">
+<lb ed="B" n="0147a11"/><anchor n="B.27.0151.0147a11"/><head>元慶元育王山沙門<persName key="A007633">釋如<anchor xml:id="beg014701"/><choice><sic resp="CBETA">琪</sic><corr resp="PC-MB">珙</corr></choice><anchor xml:id="end014701"/></persName>傳</head>
+<lb ed="B" n="0147a12"/><p xml:id="pB27p0147a1201"><persName key="A007633">釋如<anchor xml:id="beg014703"/><choice><sic resp="CBETA">琪</sic><corr resp="PC-MB">珙</corr></choice><anchor xml:id="end014703"/></persName>，字<persName key="A007633">橫川</persName>，姓林氏，永嘉人也。生有特性，不嘗肉食。叔父<persName key="A022208">正
+<lb ed="B" n="0147a13"/>則</persName>，乃為之落髮。初見<persName key="A008260">石田</persName>於靈隱，時國清<persName key="A000470">斷橋</persName>延典藏鑰。及遷
+<lb ed="B" n="0147a14"/>淨慈，命為首座。<date from-iso="+1273-01-28" key="j21860422186425" to-iso="+1274-02-15">元至元十年</date>有旨，授<anchor xml:id="beg014705"/><choice><sic resp="CBETA">琪</sic><corr resp="PC-MB">珙</corr></choice><anchor xml:id="end014705"/>育王。懋暢宗風，行修精
+<lb ed="B" n="0147a15"/>實，指示法門，深入玄玅，斅人行履，自明去來。一日忽自謂曰：「今
+<lb ed="B" n="0147a16"/>年六十六，死日將至。火之乎？土之乎？」西堂唯庵<persName key="A018665">貫</persName>云：「古鄮山中
+<lb ed="B" n="0147a17"/>有一片地，荒草<anchor xml:id="beg_77" type="cb-app"/>淒<anchor xml:id="end_77"/>然，足安舍利。」因疊石為塔，而自銘焉。詞曰：「天
+<lb ed="B" n="0147a18"/>生一穴，藏我枯骨，骨朽成土，土能生物，結箇葫蘆，挂趙州壁，永
+<lb ed="B" n="0147a19"/>脫輪迴，起三世佛。」將歿，書訣而化。時<date when-iso="+1289-04-16" key="j21919642191964">至元二十六年三月十八
+<lb ed="B" n="0147a20"/>日</date>也</p>
+    <linkGrp>
+        <link targets="#0147a12 #0147a13"/>
+        <ptr target="#A007633" type="person"/>
+        <ptr target="#A022208" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0147a16 #0147a17"/>
+        <ptr target="#A007633" type="person"/>
+        <ptr target="#A018665" type="person"/>
+    </linkGrp>
+</div>

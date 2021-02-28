@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="興福" xml:id="gsz0367a11shiFuDeng">
+<lb ed="B" n="0367a11"/><anchor n="B.27.0151.0367a11"/><head>金徂徠山法雲禪寺沙門<persName key="A044057">釋福燈</persName>傳<persName type="secondary" key="A044061">善寧</persName><persName type="secondary" key="A044062">法朗</persName><persName type="secondary" key="A044063">智崇</persName></head>
+<lb ed="B" n="0367a12"/><p xml:id="pB27p0367a1201"><persName key="A044057">釋福燈</persName>者，姓屈氏，曲阜人也。爰自妙齡，慕善出家。為童行時，雲
+<lb ed="B" n="0367a13"/>游濟南，投開元寺普賢院。安居日久，禮<persName key="A044058">真教大師善慧</persName>披剃。循
+<lb ed="B" n="0367a14"/>序受課，起止自持，罔不有恒。一日語<persName key="A044057">福燈</persName>曰：「人能弘道，非道弘
+<lb ed="B" n="0367a15"/>人。佛道至妙，苟非我輩孰能闡揚。汝其念之，當擇有緣之地，以
+<lb ed="B" n="0367a16"/>回勝事。」他日<persName key="A044057">福燈</persName>飛錫北來，道過徂徠山下羊欄村，舊有四禪
+<lb ed="B" n="0367a17"/>寺廢址，石佛斷碑猶存，摩挲可識，蓋創於北齊<date from-iso="+0563-02-11" key="j19267331927086" to-iso="+0564-01-30">清河<!-- 河清 -->二年</date>。<persName key="A044057">福燈</persName>
+<lb ed="B" n="0367a18"/>時與道侶<persName key="A044059">法潤</persName>結葊上峪。或迎送約束，或求化僧儲，往來維行
+<lb ed="B" n="0367a19"/>斯地，觀其古跡荒廢，未嘗不惻然動懷。屢見檀越、高年碩德，具
+<lb ed="B" n="0367a20"/>說修建之意，翕然喜從。及建築方興，周覽形勝，僉曰：「此污下廢<pb ed="B" xml:id="B27.0151.0367b" n="0367b"/>
+<lb ed="B" n="0367b01"/>敗之地，不可荐修寺宇。當別卜善地。」乃去古基北數百步間，選
+<lb ed="B" n="0367b02"/>地數畝，形勢爽塏，宜建佛宮。且闢荒榛，起磐石。新基既成，乃鳩
+<lb ed="B" n="0367b03"/>工遴材，以經以營，棟宇雄壯，簷殿高揭，窗牖疏明，法堂丈室、僧
+<lb ed="B" n="0367b04"/>寮香積，於焉具備。復裒集錢三百貫，依上畔經本軍軍資庫納
+<lb ed="B" n="0367b05"/>訖錢數，乞示寺額。乃蒙特賜「法雲禪寺」。<date from-iso="+1178-01-28" key="j21513432151726" to-iso="+1179-02-15">大定十八年</date>，<persName key="A044060">劉賢</persName>為之
+<lb ed="B" n="0367b06"/>記。後有<persName key="A044061">善寧</persName>者，遠涉荒梗，首至谷山舊址。破屋橫欹煙草間，而
+<lb ed="B" n="0367b07"/>山色蔥秀，出沒起伏，遠而益清。<persName key="A044061">善</persName>獨流連，雅契宿心。于是日趨
+<lb ed="B" n="0367b08"/>山下匄<!-- 丐 -->菽粟，攜火具，結茅而休焉。往來山坡無難色，暇日畚築
+<lb ed="B" n="0367b09"/>谿澗，勤苦作勞，略無怠意。短褐芒屨，從事如初。自是澗隈山曲，
+<lb ed="B" n="0367b10"/>稍可種藝，植栗數千株，後且充歲用焉。饘粥所須，日益辦具。居
+<lb ed="B" n="0367b11"/>此三十餘年，其徒<persName key="A044062">法朗</persName>繼之。鋤理荒險，不避寒暑，又三十餘載，
+<lb ed="B" n="0367b12"/>經營不倦。復有<persName key="A044063">智崇</persName>者，寺緣契合，四眾歸向。工役趨作，日盈百
+<lb ed="B" n="0367b13"/>數，殿基琢石，高踰數丈，若是者三四焉，彩塑圖飾不與也。經畫
+<lb ed="B" n="0367b14"/>作勞，不後二祖，興復之功，於焉告成。<persName key="A044064">党懷英</persName>為之記，文具《泰山
+<lb ed="B" n="0367b15"/>志》，時<date from-iso="+1201-02-12 " key="j21597592160113" to-iso="+1202-02-01">泰和元年</date>也。</p>
+    <linkGrp>
+        <link targets="#0367a12 #0367a16"/>
+        <ptr target="#A044057" type="person"/>
+        <ptr target="#A044058" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0367a18 #0367a18"/>
+        <ptr target="#A044057" type="person"/>
+        <ptr target="#A044059" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0367b04 #0367b06"/>
+        <ptr target="#A044057" type="person"/>
+        <ptr target="#A044060" type="person"/>
+        <ptr target="#j21513432151726" type="time"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0367b06 #0367b11"/>
+        <ptr target="#A044062" type="person"/>
+        <ptr target="#A044061" type="person"/>
+    </linkGrp>
+    <linkGrp>
+        <link targets="#0367b12 #0367b15"/>
+        <ptr target="#A044063" type="person"/>
+        <ptr target="#A044064" type="person"/>
+        <ptr target="#j21597592160113" type="time"/>
+    </linkGrp>
+</div>
