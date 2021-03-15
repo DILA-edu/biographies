@@ -1,5 +1,7 @@
 # 佛教傳記文學 (Chinese Buddhist Biographies)
 
+This is the current version of the TEI/XML data of the various 高僧傳 related projects at DILA.
+
 * Buxu_GSZ 補續高僧傳
 * Jushi_Zhuan 居士傳
 * Liang_GSZ 梁高僧傳
