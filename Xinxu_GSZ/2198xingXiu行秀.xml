@@ -42,11 +42,6 @@
         <ptr target="#A022442" type="person"/>
     </linkGrp>
     <linkGrp>
-        <link targets="#0148b17 #0148b17"/>
-        <ptr target="#A000408" type="person"/>
-        <ptr target="#A008370" type="person"/>
-    </linkGrp>
-    <linkGrp>
         <link targets="#0148b17 #0148b19"/>
         <ptr target="#A000408" type="person"/>
         <ptr target="#A015282" type="person"/>
