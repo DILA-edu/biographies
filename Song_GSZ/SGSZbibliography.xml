@@ -1576,7 +1576,7 @@
                 <bibl ana="book">
                   <author><hi>Ji</hi>, Xianlin 季羨林</author>
                     <title>佛教十五題</title>
-                    <edition>Beijing: Zhonghua 中華書局<date>2007</date>First edition（Second printing）</edition>
+                    <edition>Beijing: Zhonghua 北京 中華書局<date>2007</date>First edition（Second printing）</edition>
                     <abbr>佛教十五題</abbr>
                 </bibl>
                 <bibl ana="book">
@@ -1632,6 +1632,24 @@
                     <title>經傳釋詞</title>
                     <edition>長沙 岳麓書社<date>1982</date></edition>
                     <abbr>經傳釋詞</abbr>
+                </bibl>
+                <bibl ana="book">
+                  <author><hi>Liu</hi>, Qi 劉淇</author>
+                    <title>助字辨略</title>
+                    <edition>影印康熙五十年刻版<date>1711</date></edition>
+                    <abbr>助字辨略</abbr>
+                </bibl>
+                <bibl ana="book">
+                  <author><hi>Zhou</hi>, Yiliang  周一良</author>
+                    <title>魏晉南北朝史論集</title>
+                    <edition>Beijing: Zhonghua 北京 中華書局<date>1963</date>First edition</edition>
+                    <abbr>周一良 1963</abbr>
+                </bibl>
+                <bibl ana="book">
+                  <author><hi>Cao</hi>, Shibang  曹仕邦 (Ed.)</author>
+                    <title>中國佛教譯經史論集</title>
+                    <edition>臺北 東初出版社<date>1990</date>First edition</edition>
+                    <abbr>中國佛教譯經史論集</abbr>
                 </bibl>
             </listBibl>
         </body>
