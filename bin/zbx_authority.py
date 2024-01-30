@@ -1,4 +1,5 @@
 ﻿# coding:utf_8_sig
+from retry import retry
 import json, os, urllib.request, re
 import zbx_str, zbx_unihan
 
@@ -48,6 +49,7 @@ def set_api_url(url):
   global authorityAPI
   authorityAPI=url
 
+@retry(backoff=2)
 def getPersonInfo(key):
   url=authorityAPI+'?type=person&id=' + key
   try:
@@ -55,7 +57,7 @@ def getPersonInfo(key):
     s=f.read().decode('utf-8')
     r=json.loads(s)
   except:
-    print("URL:", url)
+    print("\ngetPersonInfo 失敗，URL:", url)
     raise
     
   if r is None: return r
@@ -64,22 +66,36 @@ def getPersonInfo(key):
     info['note']=info['note'].replace('\x02','')
   return info
 
+@retry(backoff=2)
 def getTimeInfo(w=None, f=None, t=None):
   if w is not None:
     url=authorityAPI+'?type=time&format=j&when=' + w
   else:
     url=authorityAPI+'?type=time&format=j&from={}&to={}'.format(f,t)
-  f=urllib.request.urlopen(url)
-  s=f.read().decode('utf-8')
-  r=json.loads(s)
+  
+  try:
+    f=urllib.request.urlopen(url)
+    s=f.read().decode('utf-8')
+    r=json.loads(s)
+  except:
+    print("\ngetTimeInfo 失敗，URL:", url)
+    raise
+  
   if r is None: return r
   return r
 
+@retry(backoff=2)
 def getPlaceInfo(key):
   url=authorityAPI+'?type=place&id=' + key
-  f=urllib.request.urlopen(url)
-  s=f.read().decode('utf-8')
-  r=json.loads(s)
+
+  try:
+    f=urllib.request.urlopen(url)
+    s=f.read().decode('utf-8')
+    r=json.loads(s)
+  except:
+    print("\ngetPlaceInfo 失敗，URL:", url)
+    raise
+  
   if r is None: return r
   return r['data1']
 
